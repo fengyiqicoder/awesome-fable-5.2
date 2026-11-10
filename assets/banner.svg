@@ -1,0 +1,15 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1640" height="420" viewBox="0 0 1640 420">
+  <defs>
+    <linearGradient id="g" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0" stop-color="#f6efe4"/><stop offset="1" stop-color="#efe2cf"/>
+    </linearGradient>
+  </defs>
+  <rect width="1640" height="420" rx="28" fill="url(#g)"/>
+  <g fill="#c96442" opacity="0.9">
+    <circle cx="1380" cy="96" r="10"/><circle cx="1440" cy="150" r="6"/><circle cx="1336" cy="176" r="4"/>
+    <circle cx="1490" cy="88" r="4"/><circle cx="1420" cy="230" r="14"/><circle cx="1510" cy="250" r="5"/>
+  </g>
+  <text x="96" y="206" font-family="Georgia, 'Times New Roman', serif" font-size="112" fill="#2b2118">Awesome Fable 5.2</text>
+  <text x="100" y="282" font-family="-apple-system, 'Segoe UI', Helvetica, Arial, sans-serif" font-size="36" fill="#6b5a4a">Games, 3D worlds and web pages built with Claude Fable 5.2</text>
+  <text x="100" y="336" font-family="-apple-system, 'Segoe UI', Helvetica, Arial, sans-serif" font-size="28" fill="#9a8672">Every link opened and checked · Every creator credited</text>
+</svg>
