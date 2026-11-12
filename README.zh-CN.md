@@ -16,7 +16,7 @@
 
 Claude Fable 5.2 在 2026-11-09 发布。发布后几天里，X 上出现了大量用它做的游戏、3D 世界和网页。这份清单只收**能点开就用的作品**：114 个在线作品，每个链接都在 2026-11-13 实际打开验证过；另有 97 个只发了视频的高赞演示，单独放在后面。
 
-每一项都配了几秒的动图预览，写明作者，并链接回原帖看完整视频。带 🆕 的是最近几天新加的。觉得有用就点个 ⭐，清单每天更新。
+每一项都配了几秒的动图预览，写明作者，并链接回原帖看完整视频。带 🆕 的是最近几天新加的。首页只放原帖点赞 ≥100 的，其余在每节末尾的「查看全部」里。觉得有用就点个 ⭐，清单每天更新。
 
 ## 📰 更新
 
@@ -313,150 +313,9 @@ Claude Fable 5.2 在 2026-11-09 发布。发布后几天里，X 上出现了大�
 <sub>几条提示词做出一张带彩蛋的新地图，并把另外两张图的硬件需求和延迟减半</sub>
 </td>
 </tr>
-<tr>
-<td width="33%" valign="top">
-<a href="https://feed-backrooms.vercel.app"><img src="assets/gifs/013.gif" width="100%" alt="Feed the Backrooms：你当怪物"></a><br>
-<b><a href="https://feed-backrooms.vercel.app">Feed the Backrooms：你当怪物</a></b><br>
-<sub><a href="https://x.com/LexnLin">@LexnLin</a> · ♥ 93 · <a href="https://x.com/LexnLin/status/2119966127149429093">▶ 视频</a></sub><br>
-<sub>后室反转玩法，你负责抓人</sub>
-</td>
-<td width="33%" valign="top">
-<a href="https://rivergame-kappa.vercel.app"><img src="assets/gifs/132.gif" width="100%" alt="The Waking River 奇幻航行"></a><br>
-<b><a href="https://rivergame-kappa.vercel.app">The Waking River 奇幻航行</a></b><br>
-<sub>🆕 · <a href="https://x.com/flxrnc">@flxrnc</a> · ♥ 86 · <a href="https://x.com/flxrnc/status/2120494277528580110">▶ 视频</a></sub><br>
-<sub>一条提示词加几次追问；五个随航行苏醒的世界，配乐也是代码生成</sub>
-</td>
-<td width="33%" valign="top">
-<a href="https://app.usecrayon.ai/play/992c2130-43da-416b-a577-aed9514d3057"><img src="assets/gifs/177.gif" width="100%" alt="SKYWAKE 飞行任务"></a><br>
-<b><a href="https://app.usecrayon.ai/play/992c2130-43da-416b-a577-aed9514d3057">SKYWAKE 飞行任务</a></b><br>
-<sub>🆕 · <a href="https://x.com/aniketjart">@aniketjart</a> · ♥ 74 · <a href="https://x.com/aniketjart/status/2120378493729222700">▶ 视频</a></sub><br>
-<sub>Fable 5.2 + Opus 5.5 + Crayon + three.js</sub>
-</td>
-</tr>
-<tr>
-<td width="33%" valign="top">
-<a href="https://save-the-world-fable.vercel.app/"><img src="assets/gifs/202.gif" width="100%" alt="Save the World 拯救世界"></a><br>
-<b><a href="https://save-the-world-fable.vercel.app/">Save the World 拯救世界</a></b><br>
-<sub>🆕 · <a href="https://x.com/global_techgirl">@global_techgirl</a> · ♥ 62 · <a href="https://x.com/global_techgirl/status/2120246750459961453">▶ 视频</a></sub><br>
-<sub>街道、3D 模型和音效都是它做或找的，宣传视频也是它自己玩着录的；电脑上玩最好</sub>
-</td>
-<td width="33%" valign="top">
-<a href="https://patch.gg/games/rehan/ringfall"><img src="assets/gifs/178.gif" width="100%" alt="Ringfall《命运》风格 FPS"></a><br>
-<b><a href="https://patch.gg/games/rehan/ringfall">Ringfall《命运》风格 FPS</a></b><br>
-<sub>🆕 · <a href="https://x.com/rehan_shei">@rehan_shei</a> · ♥ 61 · <a href="https://x.com/rehan_shei/status/2119994607291584962">▶ 视频</a></sub><br>
-<sub>开源，可以拿去改</sub>
-</td>
-<td width="33%" valign="top">
-<a href="https://shubhu121.github.io/hitdude/play/"><img src="assets/gifs/203.gif" width="100%" alt="HITOFUDE 一筆 水墨动作游戏"></a><br>
-<b><a href="https://shubhu121.github.io/hitdude/play/">HITOFUDE 一筆 水墨动作游戏</a></b><br>
-<sub>🆕 · <a href="https://x.com/positronx_">@positronx_</a> · ♥ 52 · <a href="https://x.com/positronx_/status/2120374208043876422">▶ 视频</a></sub><br>
-<sub>每一帧都是代码画的墨；Boss 会擦掉关卡，你的剑是一支毛笔</sub>
-</td>
-</tr>
-<tr>
-<td width="33%" valign="top">
-<a href="https://fowllabs.com/fable-5-2/chairmageddon/"><img src="assets/gifs/179.gif" width="100%" alt="Chairmageddon 椅子末日"></a><br>
-<b><a href="https://fowllabs.com/fable-5-2/chairmageddon/">Chairmageddon 椅子末日</a></b><br>
-<sub>🆕 · <a href="https://x.com/argofowl">@argofowl</a> · ♥ 48 · <a href="https://x.com/argofowl/status/2120568779537273263">▶ 视频</a></sub><br>
-<sub>摧毁一个全是蓝椅子的和平小镇</sub>
-</td>
-<td width="33%" valign="top">
-<a href="https://higgsfield.ai/@higgsfield.studio/blogs/fable-5-2-built-this-rpg-from-pure-code-here-s-every-step"><img src="assets/gifs/022.gif" width="100%" alt="VOWLORN 纯代码暗黑 RPG"></a><br>
-<b><a href="https://higgsfield.ai/@higgsfield.studio/blogs/fable-5-2-built-this-rpg-from-pure-code-here-s-every-step">VOWLORN 纯代码暗黑 RPG</a></b><br>
-<sub><a href="https://x.com/higgsfield_ai">@higgsfield_ai</a> · ♥ 45 · <a href="https://x.com/higgsfield_ai/status/2119997122896601269">▶ 视频</a></sub><br>
-<sub>配音也是代码生成，经 Higgsfield MCP 发布；链接是带试玩入口的博客页</sub><br>
-<sub><a href="https://higgsfield.ai/@higgsfield.studio/blogs/claude-fable-5-2-built-a-dragon-riding-game-play-it-free">骑龙游戏</a> · <a href="https://higgsfield.ai/@higgsfield.studio/blogs/one-drawing-fable-5-2-turned-it-into-a-horror-game">手绘变恐怖游戏</a></sub>
-</td>
-<td width="33%" valign="top">
-<a href="https://claude.ai/artifact/4nPXUKJjQWNsZEHVNmXXCt"><img src="assets/gifs/017.gif" width="100%" alt="流浪猫游戏"></a><br>
-<b><a href="https://claude.ai/artifact/4nPXUKJjQWNsZEHVNmXXCt">流浪猫游戏</a></b><br>
-<sub><a href="https://x.com/aimikoda">@aimikoda</a> · ♥ 43 · <a href="https://x.com/aimikoda/status/2120120133712593118">▶ 视频</a></sub><br>
-<sub>救小猫、冲狗哈气、和老公猫对嚎，声音全部合成</sub>
-</td>
-</tr>
-<tr>
-<td width="33%" valign="top">
-<a href="https://sael.net/demo/farewell-light/"><img src="assets/gifs/183.gif" width="100%" alt="Farewell Light"></a><br>
-<b><a href="https://sael.net/demo/farewell-light/">Farewell Light</a></b><br>
-<sub>🆕 · <a href="https://x.com/RyanSael">@RyanSael</a> · ♥ 36 · <a href="https://x.com/RyanSael/status/2120695866684231998">▶ 视频</a></sub><br>
-<sub>一晚上做出的玩法演示</sub>
-</td>
-<td width="33%" valign="top">
-<a href="https://blog.silencestar.com/posts/tilt-labyrinth/play/"><img src="assets/gifs/018.gif" width="100%" alt="木头滚珠迷宫"></a><br>
-<b><a href="https://blog.silencestar.com/posts/tilt-labyrinth/play/">木头滚珠迷宫</a></b><br>
-<sub><a href="https://x.com/mylifcc">@mylifcc</a> · ♥ 32 · <a href="https://x.com/mylifcc/status/2120054646282870910">▶ 视频</a></sub><br>
-<sub>three.js 2000 行，它自己把单帧从 55ms 优化到 9ms</sub>
-</td>
-<td width="33%" valign="top">
-<a href="https://claude.ai/artifact/QvSjL7Hexf3nKdUP9Zerr7"><img src="assets/gifs/184.gif" width="100%" alt="格斗游戏（手机浏览器可玩）"></a><br>
-<b><a href="https://claude.ai/artifact/QvSjL7Hexf3nKdUP9Zerr7">格斗游戏（手机浏览器可玩）</a></b><br>
-<sub>🆕 · <a href="https://x.com/s_shigel">@s_shigel</a> · ♥ 32 · <a href="https://x.com/s_shigel/status/2120300080569975034">▶ 视频</a></sub><br>
-<sub>一晚上迭代出来的格斗游戏</sub>
-</td>
-</tr>
-<tr>
-<td width="33%" valign="top">
-<a href="https://claude.ai/artifact/UD9pGEN4QFA8F5EadRw8eL"><img src="assets/gifs/189.gif" width="100%" alt="Midnight Pass 山路漂移"></a><br>
-<b><a href="https://claude.ai/artifact/UD9pGEN4QFA8F5EadRw8eL">Midnight Pass 山路漂移</a></b><br>
-<sub>🆕 · <a href="https://x.com/andreysuperior">@andreysuperior</a> · ♥ 31 · <a href="https://x.com/andreysuperior/status/2120666660130746458">▶ 视频</a></sub><br>
-<sub>一个 HTML 文件、603 行、零素材；漂移物理、整座山和引擎声都是生成的</sub>
-</td>
-<td width="33%" valign="top">
-<a href="https://claude.ai/artifact/FpdQ81sJs1KiV1a6JCY4jj"><img src="assets/gifs/188.gif" width="100%" alt="开放世界冒险卡丁车"></a><br>
-<b><a href="https://claude.ai/artifact/FpdQ81sJs1KiV1a6JCY4jj">开放世界冒险卡丁车</a></b><br>
-<sub>🆕 · <a href="https://x.com/realWeZZard">@realWeZZard</a> · ♥ 24 · <a href="https://x.com/realWeZZard/status/2120379500492185939">▶ 视频</a></sub><br>
-<sub>一次生成，耗时三小时；主线半小时可以通关</sub>
-</td>
-<td width="33%" valign="top">
-<a href="https://dead-headway.vercel.app/"><img src="assets/gifs/185.gif" width="100%" alt="Dead Headway 地铁突袭射击"></a><br>
-<b><a href="https://dead-headway.vercel.app/">Dead Headway 地铁突袭射击</a></b><br>
-<sub>🆕 · <a href="https://x.com/AugustCastilIo">@AugustCastilIo</a> · ♥ 22 · <a href="https://x.com/AugustCastilIo/status/2120628693420904489">▶ 视频</a></sub><br>
-<sub>作者在比速通时间</sub>
-</td>
-</tr>
-<tr>
-<td width="33%" valign="top">
-<a href="https://giant-leap.vercel.app"><img src="assets/gifs/186.gif" width="100%" alt="Giant Leap 从月球跳回地球"></a><br>
-<b><a href="https://giant-leap.vercel.app">Giant Leap 从月球跳回地球</a></b><br>
-<sub>🆕 · <a href="https://x.com/handsher_NGU">@handsher_NGU</a> · ♥ 21 · <a href="https://x.com/handsher_NGU/status/2120287667141374212">▶ 视频</a></sub><br>
-<sub>只需要跳</sub>
-</td>
-<td width="33%" valign="top">
-<a href="https://qiaomu.t5t6.com/irondusk-yard-7/"><img src="assets/gifs/187.gif" width="100%" alt="IRONDUSK — Yard 7 射击关卡"></a><br>
-<b><a href="https://qiaomu.t5t6.com/irondusk-yard-7/">IRONDUSK — Yard 7 射击关卡</a></b><br>
-<sub>🆕 · <a href="https://x.com/vista8">@vista8</a> · ♥ 19 · <a href="https://x.com/vista8/status/2120383046239285264">原帖</a></sub><br>
-<sub>一条提示词要一个 3A 画风的小关卡；另一条做了支持 AI 和双人对战的 3D 打砖块</sub><br>
-<sub><a href="https://qiaomu.t5t6.com/3d/">3D打砖块</a></sub>
-</td>
-<td width="33%" valign="top">
-<a href="https://silicon-seduction.vercel.app/"><img src="assets/gifs/019.gif" width="100%" alt="Silicon Seduction"></a><br>
-<b><a href="https://silicon-seduction.vercel.app/">Silicon Seduction</a></b><br>
-<sub><a href="https://x.com/ZryMiller">@ZryMiller</a> · ♥ 13 · <a href="https://x.com/ZryMiller/status/2119918766691954691">▶ 视频</a></sub><br>
-<sub>逃出去别被诱惑</sub>
-</td>
-</tr>
-<tr>
-<td width="33%" valign="top">
-<a href="https://claude.ai/artifact/DLnFodkTwvawCNwurDmSZK?sk=5N6PtC07f1niB7h3I6clZQ"><img src="assets/gifs/016.gif" width="100%" alt="Roost 3D 越野摩托"></a><br>
-<b><a href="https://claude.ai/artifact/DLnFodkTwvawCNwurDmSZK?sk=5N6PtC07f1niB7h3I6clZQ">Roost 3D 越野摩托</a></b><br>
-<sub><a href="https://x.com/tejas3732">@tejas3732</a> · ♥ 6 · <a href="https://x.com/tejas3732/status/2120091513657139549">▶ 视频</a></sub><br>
-<sub>5 条提示词 15 分钟；3 条赛道、AI 对手、氮气</sub>
-</td>
-<td width="33%" valign="top">
-<a href="https://claude.ai/artifact/1QGGhB68jMCjjjeeKtKNUo"><img src="assets/gifs/021.gif" width="100%" alt="格斗游戏（ElevenLabs 配音）"></a><br>
-<b><a href="https://claude.ai/artifact/1QGGhB68jMCjjjeeKtKNUo">格斗游戏（ElevenLabs 配音）</a></b><br>
-<sub><a href="https://x.com/promodenstudio">@promodenstudio</a> · ♥ 4 · <a href="https://x.com/promodenstudio/status/2120085977079107788">▶ 视频</a></sub><br>
-<sub>Fable 5.2 + ElevenLabs MCP，桌面键盘玩</sub>
-</td>
-<td width="33%" valign="top">
-<a href="https://vippi.vercel.app/"><img src="assets/gifs/020.gif" width="100%" alt="Vippi 类 COD 射击"></a><br>
-<b><a href="https://vippi.vercel.app/">Vippi 类 COD 射击</a></b><br>
-<sub><a href="https://x.com/Shrit1401">@Shrit1401</a> · ♥ 1 · <a href="https://x.com/Shrit1401/status/2120060593763926314">▶ 视频</a></sub><br>
-<br>
-<sub><a href="https://claude.ai/artifact/HSxhHE91J2jhLsB8WiTgUc">恐怖游戏测试</a></sub>
-</td>
-</tr>
 </table>
+
+<p align="center"><b><a href="ALL.zh-CN.md#-游戏">查看全部 54 个 →</a></b></p>
 
 <div align="right"><a href="#-目录">↑ 回到目录</a></div>
 
@@ -545,90 +404,9 @@ Claude Fable 5.2 在 2026-11-09 发布。发布后几天里，X 上出现了大�
 <sub>一次生成，1.5 小时、约 $34</sub>
 </td>
 </tr>
-<tr>
-<td width="33%" valign="top">
-<a href="https://airsup.ai/lab/sr-71?mach=3.2"><img src="assets/gifs/180.gif" width="100%" alt="SR-71 发动机拆解"></a><br>
-<b><a href="https://airsup.ai/lab/sr-71?mach=3.2">SR-71 发动机拆解</a></b><br>
-<sub>🆕 · <a href="https://x.com/konstantinsaifo">@konstantinsaifo</a> · ♥ 76 · <a href="https://x.com/konstantinsaifo/status/2120518933103182193">▶ 视频</a></sub><br>
-<sub>8 万英尺高空的 SR-71，剖开一台发动机；拖动速度旋钮，看进气道怎么接管推力</sub>
-</td>
-<td width="33%" valign="top">
-<a href="https://vancouver.webly.site"><img src="assets/gifs/032.gif" width="100%" alt="温哥华鸟瞰"></a><br>
-<b><a href="https://vancouver.webly.site">温哥华鸟瞰</a></b><br>
-<sub><a href="https://x.com/tokifyi">@tokifyi</a> · ♥ 71 · <a href="https://x.com/tokifyi/status/2120020272153764172">原帖</a></sub><br>
-<sub>Three.js 重建城市</sub>
-</td>
-<td width="33%" valign="top">
-<a href="https://fable-jerusalem.vercel.app/"><img src="assets/gifs/138.gif" width="100%" alt="逾越节的耶路撒冷"></a><br>
-<b><a href="https://fable-jerusalem.vercel.app/">逾越节的耶路撒冷</a></b><br>
-<sub>🆕 · <a href="https://x.com/kplikethebird">@kplikethebird</a> · ♥ 42 · <a href="https://x.com/kplikethebird/status/2119900775727902732">▶ 视频</a></sub><br>
-<sub>按史料用 Blender 建的沉浸式 3D 耶路撒冷，可以在街上走</sub>
-</td>
-</tr>
-<tr>
-<td width="33%" valign="top">
-<a href="https://loktar00.github.io/pine-hollow/"><img src="assets/gifs/191.gif" width="100%" alt="Pine Hollow 会动的滑雪场"></a><br>
-<b><a href="https://loktar00.github.io/pine-hollow/">Pine Hollow 会动的滑雪场</a></b><br>
-<sub>🆕 · <a href="https://x.com/loktar00">@loktar00</a> · ♥ 30 · <a href="https://x.com/loktar00/status/2120432591606067359">▶ 视频</a></sub><br>
-<sub>照着一个旧的 2D 版本做成 3D，并让它「加点个性」</sub><br>
-<sub><a href="https://loktar00.github.io/sled-free-exact/">雪橇游戏</a> · <a href="https://loktar00.github.io/sled-free/">雪橇游戏改版</a></sub>
-</td>
-<td width="33%" valign="top">
-<a href="https://feelthematrix.com"><img src="assets/gifs/139.gif" width="100%" alt="Matrix Vibe 黑客帝国之城"></a><br>
-<b><a href="https://feelthematrix.com">Matrix Vibe 黑客帝国之城</a></b><br>
-<sub>🆕 · <a href="https://x.com/tornikegomareli">@tornikegomareli</a> · ♥ 29 · <a href="https://x.com/tornikegomareli/status/2120227696261120225">▶ 视频</a></sub><br>
-<sub>雨、闪电、云层，飞进去感受氛围</sub><br>
-<sub><a href="https://github.com/tornikegomareli/Matrix">源码</a></sub>
-</td>
-<td width="33%" valign="top">
-<a href="https://galaxy-dive.vercel.app"><img src="assets/gifs/141.gif" width="100%" alt="Galaxy Dive 飞进星系"></a><br>
-<b><a href="https://galaxy-dive.vercel.app">Galaxy Dive 飞进星系</a></b><br>
-<sub>🆕 · <a href="https://x.com/handsher_NGU">@handsher_NGU</a> · ♥ 24 · <a href="https://x.com/handsher_NGU/status/2119910478025789655">▶ 视频</a></sub><br>
-<sub>20 分钟生成</sub>
-</td>
-</tr>
-<tr>
-<td width="33%" valign="top">
-<a href="https://calibre-watch-snowy.vercel.app/"><img src="assets/gifs/192.gif" width="100%" alt="Calibre 5.2 机械表"></a><br>
-<b><a href="https://calibre-watch-snowy.vercel.app/">Calibre 5.2 机械表</a></b><br>
-<sub>🆕 · <a href="https://x.com/Andrew_Blumson">@Andrew_Blumson</a> · ♥ 22 · <a href="https://x.com/Andrew_Blumson/status/2120097749177606559">▶ 视频</a></sub><br>
-<sub>没有参考图，一条文字提示词一次生成；three.js + WebGPU</sub>
-</td>
-<td width="33%" valign="top">
-<a href="https://claude.ai/artifact/7nmzhxeamcunJbKVK32ptz"><img src="assets/gifs/029.gif" width="100%" alt="体素罗马斗兽场"></a><br>
-<b><a href="https://claude.ai/artifact/7nmzhxeamcunJbKVK32ptz">体素罗马斗兽场</a></b><br>
-<sub><a href="https://x.com/aGim_asf">@aGim_asf</a> · ♥ 20 · <a href="https://x.com/aGim_asf/status/2119918363799376270">▶ 视频</a></sub><br>
-<sub>可以走进废墟内环</sub><br>
-<sub><a href="5.5 版 https://claude.ai/artifact/B7ZmVS7Yr3BUc99ZyGk2bX">Opus</a></sub>
-</td>
-<td width="33%" valign="top">
-<a href="https://zondark.com"><img src="assets/gifs/033.gif" width="100%" alt="单程太空旅行个人站"></a><br>
-<b><a href="https://zondark.com">单程太空旅行个人站</a></b><br>
-<sub><a href="https://x.com/ZondarkAI">@ZondarkAI</a> · ♥ 6 · <a href="https://x.com/ZondarkAI/status/2120106341423571097">▶ 视频</a></sub><br>
-<sub>从地球滑到黑洞</sub>
-</td>
-</tr>
-<tr>
-<td width="33%" valign="top">
-<a href="https://claude.ai/artifact/FETrKoitcqxPQjbQvZd79C"><img src="assets/gifs/034.gif" width="100%" alt="小行星带压力测试"></a><br>
-<b><a href="https://claude.ai/artifact/FETrKoitcqxPQjbQvZd79C">小行星带压力测试</a></b><br>
-<sub><a href="https://x.com/fadihares95">@fadihares95</a> · ♥ 4 · <a href="https://x.com/fadihares95/status/2119885634814857500">原帖</a></sub><br>
-<sub>约 2 万颗小行星环绕，不断加岩石直到设备掉到 30 帧</sub>
-</td>
-<td width="33%" valign="top">
-<a href="https://claude.ai/artifact/BCDCNHRTq3y9W4Px3xc4DN"><img src="assets/gifs/030.gif" width="100%" alt="骑巨蜗牛的村庄"></a><br>
-<b><a href="https://claude.ai/artifact/BCDCNHRTq3y9W4Px3xc4DN">骑巨蜗牛的村庄</a></b><br>
-<sub><a href="https://x.com/L34342Lin">@L34342Lin</a> · ♥ 0 · <a href="https://x.com/L34342Lin/status/2120030246108066195">▶ 视频</a></sub><br>
-<sub>手写 WebGL2，无库无素材，昼夜循环、约 5500 棵树</sub>
-</td>
-<td width="33%" valign="top">
-<a href="https://claude.ai/artifact/UqU4w7jSr6pzF2McsbyQjJ"><img src="assets/gifs/031.gif" width="100%" alt="五层木塔变身斗笠女侠"></a><br>
-<b><a href="https://claude.ai/artifact/UqU4w7jSr6pzF2McsbyQjJ">五层木塔变身斗笠女侠</a></b><br>
-<sub><a href="https://x.com/acupofai">@acupofai</a> · ♥ 0 · <a href="https://x.com/acupofai/status/2120119243043995748">▶ 视频</a></sub><br>
-<sub>3357 个构件，配乐代码现算，可拖拽、点击变身</sub>
-</td>
-</tr>
 </table>
+
+<p align="center"><b><a href="ALL.zh-CN.md#-3d-世界与场景">查看全部 24 个 →</a></b></p>
 
 <div align="right"><a href="#-目录">↑ 回到目录</a></div>
 
@@ -747,81 +525,10 @@ Claude Fable 5.2 在 2026-11-09 发布。发布后几天里，X 上出现了大�
 <sub><a href="https://x.com/tegnike">@tegnike</a> · ♥ 130 · <a href="https://x.com/tegnike/status/2120110145841578173">原帖</a></sub><br>
 <sub>日本开发者让它重做整站设计</sub>
 </td>
-<td width="33%" valign="top">
-<a href="https://gsplan.org"><img src="assets/gifs/206.gif" width="100%" alt="加拉塔萨雷球场座位视角"></a><br>
-<b><a href="https://gsplan.org">加拉塔萨雷球场座位视角</a></b><br>
-<sub>🆕 · <a href="https://x.com/molenbeek84">@molenbeek84</a> · ♥ 51 · <a href="https://x.com/molenbeek84/status/2120847639411331097">原帖</a></sub><br>
-<sub>买票前看 RAMS Park 每个看台位置看到的球场</sub>
-</td>
-<td width="33%" valign="top">
-<a href="https://tetriss22.github.io/pc-build-lab/"><img src="assets/gifs/147.gif" width="100%" alt="PC Build Lab 装机实验室"></a><br>
-<b><a href="https://tetriss22.github.io/pc-build-lab/">PC Build Lab 装机实验室</a></b><br>
-<sub>🆕 · <a href="https://x.com/Tetriss112">@Tetriss112</a> · ♥ 49 · <a href="https://x.com/Tetriss112/status/2120520587411935288">▶ 视频</a></sub><br>
-<sub>在浏览器里把一台 $1,279 的主机一件件装起来，8 个步骤，可以故意装错</sub>
-</td>
-</tr>
-<tr>
-<td width="33%" valign="top">
-<a href="https://sael.net/seat-arena"><img src="assets/gifs/182.gif" width="100%" alt="Best Seat in the House 演唱会座位视角"></a><br>
-<b><a href="https://sael.net/seat-arena">Best Seat in the House 演唱会座位视角</a></b><br>
-<sub>🆕 · <a href="https://x.com/RyanSael">@RyanSael</a> · ♥ 37 · <a href="https://x.com/RyanSael/status/2120544205558915329">▶ 视频</a></sub><br>
-<sub>买票前先看每个座位看到的舞台，完全可交互</sub>
-</td>
-<td width="33%" valign="top">
-<a href="https://www.asumacodes.xyz/arena/driftwood"><img src="assets/gifs/047.gif" width="100%" alt="Driftwood 落地页（Fable 对 Opus）"></a><br>
-<b><a href="https://www.asumacodes.xyz/arena/driftwood">Driftwood 落地页（Fable 对 Opus）</a></b><br>
-<sub><a href="https://x.com/AsumaCodes">@AsumaCodes</a> · ♥ 9 · <a href="https://x.com/AsumaCodes/status/2120130668848177432">▶ 视频</a></sub><br>
-<sub>同提示词一次生成，两版都在线</sub><br>
-<sub><a href="https://www.asumacodes.xyz/arena/focus-room">番茄钟专注室</a> · <a href="Bug 对比 https://www.asumacodes.xyz/arena/bug-hunt">找</a> · <a href="https://www.asumacodes.xyz/arena">系列首页</a></sub>
-</td>
-<td width="33%" valign="top">
-<a href="https://claude.ai/artifact/TiymxxFXzMo7xhWUaecbzk"><img src="https://pbs.twimg.com/media/HWwrmvIb0AAMLPK.jpg?name=small" width="100%" alt="独栋住宅设计提案书"></a><br>
-<b><a href="https://claude.ai/artifact/TiymxxFXzMo7xhWUaecbzk">独栋住宅设计提案书</a></b><br>
-<sub><a href="https://x.com/pnumech">@pnumech</a> · ♥ 8 · <a href="https://x.com/pnumech/status/2120117665041940807">原帖</a></sub><br>
-<sub>韩文，一天做完</sub>
-</td>
-</tr>
-<tr>
-<td width="33%" valign="top">
-<a href="https://jwt-designs-preview.noone-697.workers.dev/"><img src="assets/gifs/046.gif" width="100%" alt="JWT 落地页 20 种改版"></a><br>
-<b><a href="https://jwt-designs-preview.noone-697.workers.dev/">JWT 落地页 20 种改版</a></b><br>
-<sub><a href="https://x.com/Tmeister">@Tmeister</a> · ♥ 8 · <a href="https://x.com/Tmeister/status/2119983842841018482">原帖</a></sub><br>
-<sub>一条简单提示词出 20 版</sub>
-</td>
-<td width="33%" valign="top">
-<a href="https://claude.ai/artifact/9yQkezie4jY3oz2YDLFDiq"><img src="assets/gifs/040.gif" width="100%" alt="鼓组网站"></a><br>
-<b><a href="https://claude.ai/artifact/9yQkezie4jY3oz2YDLFDiq">鼓组网站</a></b><br>
-<sub><a href="https://x.com/BretKerr">@BretKerr</a> · ♥ 5 · <a href="https://x.com/BretKerr/status/2119995870854988177">▶ 视频</a></sub><br>
-<sub>每次敲击海湾都有混响</sub>
-</td>
-<td width="33%" valign="top">
-<a href="https://claude.ai/artifact/Pk6rHPyRwfShT37kiU1sT6"><img src="assets/gifs/041.gif" width="100%" alt="Dub Techno 曲子 + 可视化"></a><br>
-<b><a href="https://claude.ai/artifact/Pk6rHPyRwfShT37kiU1sT6">Dub Techno 曲子 + 可视化</a></b><br>
-<sub><a href="https://x.com/bartdecrem">@bartdecrem</a> · ♥ 4 · <a href="https://x.com/bartdecrem/status/2119926997422133417">原帖</a></sub><br>
-<sub>一次生成</sub>
-</td>
-</tr>
-<tr>
-<td width="33%" valign="top">
-<a href="https://claude.ai/artifact/5ufHvxgvXTf5YgQeTR8TbG"><img src="assets/gifs/044.gif" width="100%" alt="《罗摩衍那》男主的宝莱坞家谱"></a><br>
-<b><a href="https://claude.ai/artifact/5ufHvxgvXTf5YgQeTR8TbG">《罗摩衍那》男主的宝莱坞家谱</a></b><br>
-<sub><a href="https://x.com/chhavsz">@chhavsz</a> · ♥ 2 · <a href="https://x.com/chhavsz/status/2119942973958078785">原帖</a></sub><br>
-<sub>血缘婚姻牵出 65 位明星</sub>
-</td>
-<td width="33%" valign="top">
-<a href="https://claude.ai/artifact/4aEy6FtUi7jrm9U7uYgp8K"><img src="assets/gifs/042.gif" width="100%" alt="Demoscene 浏览器演示"></a><br>
-<b><a href="https://claude.ai/artifact/4aEy6FtUi7jrm9U7uYgp8K">Demoscene 浏览器演示</a></b><br>
-<sub><a href="https://x.com/ndril">@ndril</a> · ♥ 1 · <a href="https://x.com/ndril/status/2119899340642894235">原帖</a></sub><br>
-<sub>按 demoscene 传统炫技</sub>
-</td>
-<td width="33%" valign="top">
-<a href="https://claude.ai/artifact/H8E7AonW2KFrzdRimaLeXb"><img src="assets/gifs/043.gif" width="100%" alt="112 种冥想图解"></a><br>
-<b><a href="https://claude.ai/artifact/H8E7AonW2KFrzdRimaLeXb">112 种冥想图解</a></b><br>
-<sub><a href="https://x.com/RishabJ108">@RishabJ108</a> · ♥ 1 · <a href="https://x.com/RishabJ108/status/2120042407484084558">原帖</a></sub><br>
-<sub>给技术人看的可视化</sub>
-</td>
 </tr>
 </table>
+
+<p align="center"><b><a href="ALL.zh-CN.md#-网页与工具">查看全部 27 个 →</a></b></p>
 
 <div align="right"><a href="#-目录">↑ 回到目录</a></div>
 
@@ -862,35 +569,10 @@ Claude Fable 5.2 在 2026-11-09 发布。发布后几天里，X 上出现了大�
 <sub><a href="https://x.com/anstapnever">@anstapnever</a> · ♥ 119 · <a href="https://x.com/anstapnever/status/2119915123070644263">▶ 视频</a></sub><br>
 
 </td>
-<td width="33%" valign="top">
-<a href="https://github.com/skild-ai/steel-webgpu/pull/7"><img src="assets/gifs/057.gif" width="100%" alt="机器手指走螺旋楼梯"></a><br>
-<b><a href="https://github.com/skild-ai/steel-webgpu/pull/7">机器手指走螺旋楼梯</a></b><br>
-<sub><a href="https://x.com/Luckyballa">@Luckyballa</a> · ♥ 61 · <a href="https://x.com/Luckyballa/status/2119915557663506720">▶ 视频</a></sub><br>
-<sub>Fable 5.2 + Steel 物理引擎</sub>
-</td>
-</tr>
-<tr>
-<td width="33%" valign="top">
-<a href="https://github.com/seeconever/ryu"><img src="assets/gifs/054.gif" width="100%" alt="Ryu 山化龙"></a><br>
-<b><a href="https://github.com/seeconever/ryu">Ryu 山化龙</a></b><br>
-<sub><a href="https://x.com/seeconvm">@seeconvm</a> · ♥ 38 · <a href="https://x.com/seeconvm/status/2119777169542938662">▶ 视频</a></sub><br>
-<sub>无生图无视频模型，5 组 Agent；作者写的是「Fable 5.5」</sub>
-</td>
-<td width="33%" valign="top">
-<a href="https://github.com/Florencvv/kagami"><img src="assets/gifs/053.gif" width="100%" alt="Kagami 84 秒动漫"></a><br>
-<b><a href="https://github.com/Florencvv/kagami">Kagami 84 秒动漫</a></b><br>
-<sub><a href="https://x.com/flxrnc">@flxrnc</a> · ♥ 36 · <a href="https://x.com/flxrnc/status/2119767052021903831">▶ 视频</a></sub><br>
-<sub>每一帧都是代码；作者写的是「Fable 5.5」</sub>
-</td>
-<td width="33%" valign="top">
-<a href="https://usekumiko.app/"><img src="assets/gifs/058.gif" width="100%" alt="Kumiko 宣传片"></a><br>
-<b><a href="https://usekumiko.app/">Kumiko 宣传片</a></b><br>
-<sub><a href="https://x.com/sudoaptaj">@sudoaptaj</a> · ♥ 18 · <a href="https://x.com/sudoaptaj/status/2119937909373460990">▶ 视频</a></sub><br>
-<sub>只给了音乐和网站，一次出片</sub><br>
-<sub><a href="https://github.com/atuljha23/claude-motion-skill">插件</a></sub>
-</td>
 </tr>
 </table>
+
+<p align="center"><b><a href="ALL.zh-CN.md#-动画与短片附源码">查看全部 9 个 →</a></b></p>
 
 <div align="right"><a href="#-目录">↑ 回到目录</a></div>
 
@@ -1472,82 +1154,10 @@ Claude Fable 5.2 在 2026-11-09 发布。发布后几天里，X 上出现了大�
 <sub><a href="https://x.com/charliejhills">@charliejhills</a> · ♥ 103 · <a href="https://x.com/charliejhills/status/2120105823737397644">▶ 视频</a></sub><br>
 
 </td>
-<td width="33%" valign="top">
-<a href="https://x.com/dfeinition/status/2119870838606381391"><img src="assets/gifs/105.gif" width="100%" alt="动作融合讲解机器人"></a><br>
-<b><a href="https://x.com/dfeinition/status/2119870838606381391">动作融合讲解机器人</a></b><br>
-<sub><a href="https://x.com/dfeinition">@dfeinition</a> · ♥ 93 · <a href="https://x.com/dfeinition/status/2119870838606381391">▶ 视频</a></sub><br>
-
-</td>
-</tr>
-<tr>
-<td width="33%" valign="top">
-<a href="https://x.com/rpnickson/status/2119969928304357507"><img src="assets/gifs/108.gif" width="100%" alt="照 Riley 做自己的工作室"></a><br>
-<b><a href="https://x.com/rpnickson/status/2119969928304357507">照 Riley 做自己的工作室</a></b><br>
-<sub><a href="https://x.com/rpnickson">@rpnickson</a> · ♥ 81 · <a href="https://x.com/rpnickson/status/2119969928304357507">▶ 视频</a></sub><br>
-
-</td>
-<td width="33%" valign="top">
-<a href="https://x.com/Stefan_3D_AI/status/2120101582444597446"><img src="assets/gifs/120.gif" width="100%" alt="Blender 复刻特斯拉 Roadster 翻板"></a><br>
-<b><a href="https://x.com/Stefan_3D_AI/status/2120101582444597446">Blender 复刻特斯拉 Roadster 翻板</a></b><br>
-<sub><a href="https://x.com/Stefan_3D_AI">@Stefan_3D_AI</a> · ♥ 81 · <a href="https://x.com/Stefan_3D_AI/status/2120101582444597446">▶ 视频</a></sub><br>
-
-</td>
-<td width="33%" valign="top">
-<a href="https://x.com/leppppp1/status/2119960122713899015"><img src="assets/gifs/112.gif" width="100%" alt="四模型同题文字特效"></a><br>
-<b><a href="https://x.com/leppppp1/status/2119960122713899015">四模型同题文字特效</a></b><br>
-<sub><a href="https://x.com/leppppp1">@leppppp1</a> · ♥ 72 · <a href="https://x.com/leppppp1/status/2119960122713899015">▶ 视频</a></sub><br>
-
-</td>
-</tr>
-<tr>
-<td width="33%" valign="top">
-<a href="https://x.com/ElevenCreative/status/2119963230403776554"><img src="assets/gifs/114.gif" width="100%" alt="有无 ElevenLabs 音效的游戏对比"></a><br>
-<b><a href="https://x.com/ElevenCreative/status/2119963230403776554">有无 ElevenLabs 音效的游戏对比</a></b><br>
-<sub><a href="https://x.com/ElevenCreative">@ElevenCreative</a> · ♥ 64 · <a href="https://x.com/ElevenCreative/status/2119963230403776554">▶ 视频</a></sub><br>
-
-</td>
-<td width="33%" valign="top">
-<a href="https://x.com/RJasonHA/status/2120075740222005569"><img src="assets/gifs/123.gif" width="100%" alt="代码搭的唐人街"></a><br>
-<b><a href="https://x.com/RJasonHA/status/2120075740222005569">代码搭的唐人街</a></b><br>
-<sub><a href="https://x.com/RJasonHA">@RJasonHA</a> · ♥ 61 · <a href="https://x.com/RJasonHA/status/2120075740222005569">▶ 视频</a></sub><br>
-
-</td>
-<td width="33%" valign="top">
-<a href="https://x.com/ChrisGPT/status/2119989626568126509"><img src="assets/gifs/118.gif" width="100%" alt="手机上跑的 Artifact 游戏"></a><br>
-<b><a href="https://x.com/ChrisGPT/status/2119989626568126509">手机上跑的 Artifact 游戏</a></b><br>
-<sub><a href="https://x.com/ChrisGPT">@ChrisGPT</a> · ♥ 59 · <a href="https://x.com/ChrisGPT/status/2119989626568126509">▶ 视频</a></sub><br>
-
-</td>
-</tr>
-<tr>
-<td width="33%" valign="top">
-<a href="https://x.com/TekonBurns/status/2119871565311660260"><img src="assets/gifs/113.gif" width="100%" alt="420 个蛋白亚基组装病毒衣壳"></a><br>
-<b><a href="https://x.com/TekonBurns/status/2119871565311660260">420 个蛋白亚基组装病毒衣壳</a></b><br>
-<sub><a href="https://x.com/TekonBurns">@TekonBurns</a> · ♥ 55 · <a href="https://x.com/TekonBurns/status/2119871565311660260">▶ 视频</a></sub><br>
-
-</td>
-<td width="33%" valign="top">
-<a href="https://x.com/flxrnc/status/2119961301791174720"><img src="assets/gifs/119.gif" width="100%" alt="发布当天做的片子（附提示词 PDF）"></a><br>
-<b><a href="https://x.com/flxrnc/status/2119961301791174720">发布当天做的片子（附提示词 PDF）</a></b><br>
-<sub><a href="https://x.com/flxrnc">@flxrnc</a> · ♥ 43 · <a href="https://x.com/flxrnc/status/2119961301791174720">▶ 视频</a></sub><br>
-
-</td>
-<td width="33%" valign="top">
-<a href="https://x.com/ItsmeAjayKV/status/2119896772713849174"><img src="assets/gifs/121.gif" width="100%" alt="浮岛上建造中的埃菲尔铁塔"></a><br>
-<b><a href="https://x.com/ItsmeAjayKV/status/2119896772713849174">浮岛上建造中的埃菲尔铁塔</a></b><br>
-<sub><a href="https://x.com/ItsmeAjayKV">@ItsmeAjayKV</a> · ♥ 38 · <a href="https://x.com/ItsmeAjayKV/status/2119896772713849174">▶ 视频</a></sub><br>
-
-</td>
-</tr>
-<tr>
-<td width="33%" valign="top">
-<a href="https://x.com/MrTacticalX/status/2119949557664735583"><img src="assets/gifs/122.gif" width="100%" alt="雪花球，Fable 对 Opus"></a><br>
-<b><a href="https://x.com/MrTacticalX/status/2119949557664735583">雪花球，Fable 对 Opus</a></b><br>
-<sub><a href="https://x.com/MrTacticalX">@MrTacticalX</a> · ♥ 35 · <a href="https://x.com/MrTacticalX/status/2119949557664735583">▶ 视频</a></sub><br>
-
-</td>
 </tr>
 </table>
+
+<p align="center"><b><a href="ALL.zh-CN.md#-只有视频">查看全部 97 个 →</a></b></p>
 
 ## 🤝 投稿
 
