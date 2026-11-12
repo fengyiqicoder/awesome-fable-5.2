@@ -1419,6 +1419,7 @@ Creators posted a video but no public link. Click a preview to watch the origina
 
 - [Matt Shumer's Fable 5.2 review](https://somethingbig.ai/fable-5-2-review) — A long review with all of his demos.
 - [awesome-fable5-2-videos](https://github.com/yihui-dev/awesome-fable5-2-videos) — A sister list focused on videos and the prompts behind them.
+- [Top 101](https://top101.site/fable-5-2/) — A curated gallery of verified public works made with Fable 5.2, each credited and linked to the original post.
 
 ## 🧭 How This List Was Made
 
