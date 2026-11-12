@@ -1419,6 +1419,7 @@ Claude Fable 5.2 在 2026-11-09 发布。发布后几天里，X 上出现了大�
 
 - [Matt Shumer 的 Fable 5.2 测评](https://somethingbig.ai/fable-5-2-review) — 长文测评，附他的全部演示
 - [awesome-fable5-2-videos](https://github.com/yihui-dev/awesome-fable5-2-videos) — 只收视频的姊妹清单，附提示词
+- [Top 101](https://top101.site/zh/fable-5-2/) — 经核实的 Fable 5.2 公开作品精选，每件署名作者并链接原帖
 
 ## 🧭 收录方法
 
