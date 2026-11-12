@@ -315,7 +315,7 @@ Claude Fable 5.2 在 2026-11-09 发布。发布后几天里，X 上出现了大�
 </tr>
 </table>
 
-<p align="center"><b><a href="ALL.zh-CN.md#-游戏">查看全部 54 个 →</a></b></p>
+<p align="center"><b><a href="all/games.zh-CN.md">查看全部 54 个 →</a></b></p>
 
 <div align="right"><a href="#-目录">↑ 回到目录</a></div>
 
@@ -406,7 +406,7 @@ Claude Fable 5.2 在 2026-11-09 发布。发布后几天里，X 上出现了大�
 </tr>
 </table>
 
-<p align="center"><b><a href="ALL.zh-CN.md#-3d-世界与场景">查看全部 24 个 →</a></b></p>
+<p align="center"><b><a href="all/3d-worlds.zh-CN.md">查看全部 24 个 →</a></b></p>
 
 <div align="right"><a href="#-目录">↑ 回到目录</a></div>
 
@@ -528,7 +528,7 @@ Claude Fable 5.2 在 2026-11-09 发布。发布后几天里，X 上出现了大�
 </tr>
 </table>
 
-<p align="center"><b><a href="ALL.zh-CN.md#-网页与工具">查看全部 27 个 →</a></b></p>
+<p align="center"><b><a href="all/web-and-tools.zh-CN.md">查看全部 27 个 →</a></b></p>
 
 <div align="right"><a href="#-目录">↑ 回到目录</a></div>
 
@@ -572,7 +572,7 @@ Claude Fable 5.2 在 2026-11-09 发布。发布后几天里，X 上出现了大�
 </tr>
 </table>
 
-<p align="center"><b><a href="ALL.zh-CN.md#-动画与短片附源码">查看全部 9 个 →</a></b></p>
+<p align="center"><b><a href="all/animation.zh-CN.md">查看全部 9 个 →</a></b></p>
 
 <div align="right"><a href="#-目录">↑ 回到目录</a></div>
 
@@ -1157,7 +1157,7 @@ Claude Fable 5.2 在 2026-11-09 发布。发布后几天里，X 上出现了大�
 </tr>
 </table>
 
-<p align="center"><b><a href="ALL.zh-CN.md#-只有视频">查看全部 97 个 →</a></b></p>
+<p align="center"><b><a href="all/video-demos.zh-CN.md">查看全部 97 个 →</a></b></p>
 
 ## 🤝 投稿
 

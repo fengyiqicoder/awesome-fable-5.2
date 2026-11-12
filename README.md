@@ -315,7 +315,7 @@ The six most-liked live works.
 </tr>
 </table>
 
-<p align="center"><b><a href="ALL.md#-games">See all 54 →</a></b></p>
+<p align="center"><b><a href="all/games.md">See all 54 →</a></b></p>
 
 <div align="right"><a href="#-contents">↑ Back to contents</a></div>
 
@@ -406,7 +406,7 @@ The six most-liked live works.
 </tr>
 </table>
 
-<p align="center"><b><a href="ALL.md#-3d-worlds--scenes">See all 24 →</a></b></p>
+<p align="center"><b><a href="all/3d-worlds.md">See all 24 →</a></b></p>
 
 <div align="right"><a href="#-contents">↑ Back to contents</a></div>
 
@@ -528,7 +528,7 @@ The six most-liked live works.
 </tr>
 </table>
 
-<p align="center"><b><a href="ALL.md#-web-pages--tools">See all 27 →</a></b></p>
+<p align="center"><b><a href="all/web-and-tools.md">See all 27 →</a></b></p>
 
 <div align="right"><a href="#-contents">↑ Back to contents</a></div>
 
@@ -572,7 +572,7 @@ The six most-liked live works.
 </tr>
 </table>
 
-<p align="center"><b><a href="ALL.md#-animation--film-with-source">See all 9 →</a></b></p>
+<p align="center"><b><a href="all/animation.md">See all 9 →</a></b></p>
 
 <div align="right"><a href="#-contents">↑ Back to contents</a></div>
 
@@ -1157,7 +1157,7 @@ Creators posted a video but no public link. Click a preview to watch the origina
 </tr>
 </table>
 
-<p align="center"><b><a href="ALL.md#-video-only-demos">See all 97 →</a></b></p>
+<p align="center"><b><a href="all/video-demos.md">See all 97 →</a></b></p>
 
 ## 🤝 Contributing
 
