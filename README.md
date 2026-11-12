@@ -20,7 +20,7 @@ Every entry has a few-second GIF preview, credits its creator and links back to 
 
 ## 📰 News
 
-- **2026-11-12**: +35 live works and +22 video demos (marked 🆕), now 92 + 83. All links re-checked.
+- **2026-11-12**: +35 live works and +22 video demos (marked 🆕), now 92 + 83. All links re-checked. Previews cut from 75 MB to 10 MB in total, so the page loads much faster.
 - **2026-11-10**: Every entry now has a GIF preview.
 - **2026-11-10**: First release — 57 live works + 61 video demos.
 
@@ -1320,7 +1320,7 @@ Creators posted a video but no public link. Click a preview to watch the origina
 - 2026-11-12 update: re-read those creators' new posts, cross-checked about 600 posts from other Fable 5.2 lists, and ran fresh X searches for posts after Nov 10.
 - Every external link was requested on 2026-11-12 and returned HTTP 200; claude.ai artifacts were spot-checked for content and attribution.
 - Press coverage, "now available on X" ads, tool repos and reshares were removed. Credit goes to the original creator; a resharer is noted only when the creator posted no link.
-- GIF previews: a 3-second clip from the creator's own video, or a 5-second headless-browser recording of the live site when the post had no video.
+- GIF previews: a 1.5-second clip from the creator's own video, or a short headless-browser capture of the live site when the post had no video. About 50 KB each, under 10 MB for the whole page.
 - Entries mentioning "Fable 5.5" keep the creator's own name for the pre-release routed model.
 
 ## 🤝 Contributing
