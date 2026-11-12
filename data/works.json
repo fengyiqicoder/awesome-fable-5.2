@@ -3659,5 +3659,349 @@
     "duration_s": 36.2
    }
   ]
+ },
+ {
+  "id": 181,
+  "section": "网页与工具",
+  "title": "Animals at Work — 3D planner",
+  "title_zh": "动物也上班 3D 电子手帐",
+  "description": "A paper planner rebuilt in 3D: drag to turn pages, tap a date to write, 90 stickers you can peel and stick. Opus 5.5 built the skeleton; Fable 5.2 refined materials against real footage.",
+  "description_zh": "把实体手帐做成 3D：拖动翻页、点日期直接写、90 枚贴纸能撕能贴；Opus 5.5 搭骨架，Fable 5.2 对照实拍精修材质",
+  "added": "2026-11-12",
+  "author": "Xian0063",
+  "url": "https://xianxie6.github.io/animals-planner-2027/",
+  "extra_links": [],
+  "post": "https://x.com/Xian0063/status/2120417834694250522",
+  "likes": 1027,
+  "preview": "assets/gifs/181.gif",
+  "videos": [
+   {
+    "url": "https://video.twimg.com/amplify_video/2120417012791042048/vid/avc1/2636x1440/2G7yDwXUWvFE9iTT.mp4?tag=29",
+    "duration_s": 39.984
+   }
+  ]
+ },
+ {
+  "id": 182,
+  "section": "网页与工具",
+  "title": "Best Seat in the House",
+  "title_zh": "Best Seat in the House 演唱会座位视角",
+  "description": "Concert seat maps where you see the exact view from every seat before you buy. Fully interactive.",
+  "description_zh": "买票前先看每个座位看到的舞台，完全可交互",
+  "added": "2026-11-12",
+  "author": "RyanSael",
+  "url": "https://sael.net/seat-arena",
+  "extra_links": [],
+  "post": "https://x.com/RyanSael/status/2120544205558915329",
+  "likes": 33,
+  "preview": "assets/gifs/182.gif",
+  "videos": [
+   {
+    "url": "https://video.twimg.com/amplify_video/2120540769178259456/vid/avc1/1920x1080/Jthjy2FP0kte76J5.mp4?tag=29",
+    "duration_s": 21.066
+   },
+   {
+    "url": "https://video.twimg.com/amplify_video/2120543215220826112/vid/avc1/1716x1086/UYx9ftg3gJR_qQez.mp4?tag=29",
+    "duration_s": 11.213
+   }
+  ]
+ },
+ {
+  "id": 183,
+  "section": "游戏",
+  "title": "Farewell Light",
+  "title_zh": "Farewell Light",
+  "description": "A gameplay demo made overnight.",
+  "description_zh": "一晚上做出的玩法演示",
+  "added": "2026-11-12",
+  "author": "RyanSael",
+  "url": "https://sael.net/demo/farewell-light/",
+  "extra_links": [],
+  "post": "https://x.com/RyanSael/status/2120695866684231998",
+  "likes": 19,
+  "preview": "assets/gifs/183.gif",
+  "videos": [
+   {
+    "url": "https://video.twimg.com/amplify_video/2120694422136647680/vid/avc1/1706x1080/cuxS5q7B87MFwq6W.mp4?tag=29",
+    "duration_s": 144.866
+   }
+  ]
+ },
+ {
+  "id": 184,
+  "section": "游戏",
+  "title": "Fighting game (plays on phones)",
+  "title_zh": "格斗游戏（手机浏览器可玩）",
+  "description": "A fighting game iterated overnight, playable in a mobile browser.",
+  "description_zh": "一晚上迭代出来的格斗游戏",
+  "added": "2026-11-12",
+  "author": "s_shigel",
+  "url": "https://claude.ai/artifact/QvSjL7Hexf3nKdUP9Zerr7",
+  "extra_links": [],
+  "post": "https://x.com/s_shigel/status/2120300080569975034",
+  "likes": 32,
+  "preview": "assets/gifs/184.gif",
+  "videos": [
+   {
+    "url": "https://video.twimg.com/amplify_video/2120299938055909376/vid/avc1/1280x720/2q4sIkZl6GBFhNpb.mp4?tag=29",
+    "duration_s": 50.833
+   }
+  ]
+ },
+ {
+  "id": 185,
+  "section": "游戏",
+  "title": "Dead Headway",
+  "title_zh": "Dead Headway 地铁突袭射击",
+  "description": "A subway raid shooter in the browser. The author is speedrunning it — post your time.",
+  "description_zh": "作者在比速通时间",
+  "added": "2026-11-12",
+  "author": "AugustCastilIo",
+  "url": "https://dead-headway.vercel.app/",
+  "extra_links": [],
+  "post": "https://x.com/AugustCastilIo/status/2120628693420904489",
+  "likes": 16,
+  "preview": "assets/gifs/185.gif",
+  "videos": [
+   {
+    "url": "https://video.twimg.com/amplify_video/2120628384828919808/vid/avc1/2940x1912/na0XMShWqLhkhEvV.mp4?tag=29",
+    "duration_s": 74.491
+   }
+  ]
+ },
+ {
+  "id": 186,
+  "section": "游戏",
+  "title": "Giant Leap",
+  "title_zh": "Giant Leap 从月球跳回地球",
+  "description": "Jump from the Moon to the Earth. You just jump.",
+  "description_zh": "只需要跳",
+  "added": "2026-11-12",
+  "author": "handsher_NGU",
+  "url": "https://giant-leap.vercel.app",
+  "extra_links": [],
+  "post": "https://x.com/handsher_NGU/status/2120287667141374212",
+  "likes": 21,
+  "preview": "assets/gifs/186.gif",
+  "videos": [
+   {
+    "url": "https://video.twimg.com/amplify_video/2120287596274462720/vid/avc1/1920x1080/hk_C2ZIGvJELy7bq.mp4?tag=16",
+    "duration_s": 36.066
+   }
+  ]
+ },
+ {
+  "id": 187,
+  "section": "游戏",
+  "title": "IRONDUSK — Yard 7",
+  "title_zh": "IRONDUSK — Yard 7 射击关卡",
+  "description": "One prompt asking for a tiny FPS level that can keep up with AAA visuals. A second prompt made a 3D brick breaker with AI and two-player modes.",
+  "description_zh": "一条提示词要一个 3A 画风的小关卡；另一条做了支持 AI 和双人对战的 3D 打砖块",
+  "added": "2026-11-12",
+  "author": "vista8",
+  "url": "https://qiaomu.t5t6.com/irondusk-yard-7/",
+  "extra_links": [
+   "3D打砖块 https://qiaomu.t5t6.com/3d/"
+  ],
+  "post": "https://x.com/vista8/status/2120383046239285264",
+  "likes": 19,
+  "preview": "assets/gifs/187.gif",
+  "videos": []
+ },
+ {
+  "id": 188,
+  "section": "游戏",
+  "title": "Open-world kart adventure",
+  "title_zh": "开放世界冒险卡丁车",
+  "description": "One-shot in three hours; the main quest takes about half an hour.",
+  "description_zh": "一次生成，耗时三小时；主线半小时可以通关",
+  "added": "2026-11-12",
+  "author": "realWeZZard",
+  "url": "https://claude.ai/artifact/FpdQ81sJs1KiV1a6JCY4jj",
+  "extra_links": [],
+  "post": "https://x.com/realWeZZard/status/2120379500492185939",
+  "likes": 24,
+  "preview": "assets/gifs/188.gif",
+  "videos": [
+   {
+    "url": "https://video.twimg.com/amplify_video/2120377138251747328/vid/avc1/2560x1374/CzW8x7sg5bdeSH7X.mp4?tag=29",
+    "duration_s": 104.974
+   }
+  ]
+ },
+ {
+  "id": 189,
+  "section": "游戏",
+  "title": "Midnight Pass",
+  "title_zh": "Midnight Pass 山路漂移",
+  "description": "One HTML file, 603 lines, zero assets: real drift physics, a generated mountain, synthesized engine and tyres.",
+  "description_zh": "一个 HTML 文件、603 行、零素材；漂移物理、整座山和引擎声都是生成的",
+  "added": "2026-11-12",
+  "author": "andreysuperior",
+  "url": "https://claude.ai/artifact/UD9pGEN4QFA8F5EadRw8eL",
+  "extra_links": [],
+  "post": "https://x.com/andreysuperior/status/2120666660130746458",
+  "likes": 16,
+  "preview": "assets/gifs/189.gif",
+  "videos": [
+   {
+    "url": "https://video.twimg.com/amplify_video/2120666135850807296/vid/avc1/1280x720/yZt-5QglDwVBb2gg.mp4?tag=29",
+    "duration_s": 24
+   }
+  ]
+ },
+ {
+  "id": 190,
+  "section": "游戏",
+  "title": "Patchwork Quilt",
+  "title_zh": "Patchwork Quilt 拼布定格风",
+  "description": "A patchwork, stop-motion style game slice. The whole map is code. Open source.",
+  "description_zh": "整张地图都是代码；开源",
+  "added": "2026-11-12",
+  "author": "BlendiByl",
+  "url": "https://patch.gg/blendi/patchwork-quilt",
+  "extra_links": [],
+  "post": "https://x.com/BlendiByl/status/2120746541636047347",
+  "likes": 14,
+  "preview": "assets/gifs/190.gif",
+  "videos": [
+   {
+    "url": "https://video.twimg.com/amplify_video/2120745677055733760/vid/avc1/2560x1440/3alE49tTHiEZV3hx.mp4?tag=29",
+    "duration_s": 27.144
+   }
+  ]
+ },
+ {
+  "id": 191,
+  "section": "3D 场景",
+  "title": "Pine Hollow — a living ski hill",
+  "title_zh": "Pine Hollow 会动的滑雪场",
+  "description": "A 3D ski hill based on an old 2D version, asked to \"give it some character\".",
+  "description_zh": "照着一个旧的 2D 版本做成 3D，并让它「加点个性」",
+  "added": "2026-11-12",
+  "author": "loktar00",
+  "url": "https://loktar00.github.io/pine-hollow/",
+  "extra_links": [
+   "雪橇游戏 https://loktar00.github.io/sled-free-exact/",
+   "雪橇游戏改版 https://loktar00.github.io/sled-free/"
+  ],
+  "post": "https://x.com/loktar00/status/2120432591606067359",
+  "likes": 30,
+  "preview": "assets/gifs/191.gif",
+  "videos": [
+   {
+    "url": "https://video.twimg.com/amplify_video/2120402679419523072/vid/avc1/1920x1080/LHYBZZ-3B8gZKmnB.mp4?tag=29",
+    "duration_s": 30
+   },
+   {
+    "url": "https://video.twimg.com/amplify_video/2120403057263386624/vid/avc1/1536x864/xr2qBBjK56WsKu6T.mp4?tag=29",
+    "duration_s": 60
+   }
+  ]
+ },
+ {
+  "id": 192,
+  "section": "3D 场景",
+  "title": "Calibre 5.2 watch",
+  "title_zh": "Calibre 5.2 机械表",
+  "description": "No reference image: one text prompt, one shot. three.js and WebGPU.",
+  "description_zh": "没有参考图，一条文字提示词一次生成；three.js + WebGPU",
+  "added": "2026-11-12",
+  "author": "Andrew_Blumson",
+  "url": "https://calibre-watch-snowy.vercel.app/",
+  "extra_links": [],
+  "post": "https://x.com/Andrew_Blumson/status/2120097749177606559",
+  "likes": 22,
+  "preview": "assets/gifs/192.gif",
+  "videos": [
+   {
+    "url": "https://video.twimg.com/amplify_video/2120080553789534209/vid/avc1/4096x2064/FVODgU_0W8TIjIjp.mp4?tag=29",
+    "duration_s": 72.35
+   }
+  ]
+ },
+ {
+  "id": 193,
+  "section": "video-only",
+  "title": "Woke up to this: game environment in Blender + Unreal",
+  "title_zh": "睡一觉醒来：Blender + Unreal 做好的游戏场景",
+  "description": "",
+  "description_zh": "",
+  "added": "2026-11-12",
+  "author": "RezAIT00",
+  "url": null,
+  "extra_links": [],
+  "post": "https://x.com/RezAIT00/status/2120498246426706176",
+  "likes": 726,
+  "preview": "assets/gifs/193.gif",
+  "videos": [
+   {
+    "url": "https://video.twimg.com/amplify_video/2120498139656286208/vid/avc1/1920x1080/cIuG9Eiu6uNTlvEm.mp4?tag=29",
+    "duration_s": 48
+   }
+  ]
+ },
+ {
+  "id": 194,
+  "section": "video-only",
+  "title": "A first-person shooter in Three.js, no external assets",
+  "title_zh": "Three.js 第一人称射击，零外部素材",
+  "description": "",
+  "description_zh": "",
+  "added": "2026-11-12",
+  "author": "JaydenDavisNC",
+  "url": null,
+  "extra_links": [],
+  "post": "https://x.com/JaydenDavisNC/status/2120306434575392793",
+  "likes": 703,
+  "preview": "assets/gifs/194.gif",
+  "videos": [
+   {
+    "url": "https://video.twimg.com/amplify_video/2120305794600124416/vid/avc1/1920x1080/C4Zgi10HepyStAQI.mp4?tag=29",
+    "duration_s": 225.7
+   }
+  ]
+ },
+ {
+  "id": 195,
+  "section": "video-only",
+  "title": "A looping short made in Blender",
+  "title_zh": "同一指令改用 Blender 做的循环短片",
+  "description": "",
+  "description_zh": "",
+  "added": "2026-11-12",
+  "author": "ICO_AIvideo",
+  "url": null,
+  "extra_links": [],
+  "post": "https://x.com/ICO_AIvideo/status/2120311646933680355",
+  "likes": 630,
+  "preview": "assets/gifs/195.gif",
+  "videos": [
+   {
+    "url": "https://video.twimg.com/amplify_video/2120311299917873153/vid/avc1/1280x720/XX6AfZsYEyGyUmg8.mp4?tag=29",
+    "duration_s": 21.958
+   }
+  ]
+ },
+ {
+  "id": 196,
+  "section": "video-only",
+  "title": "A three.js apartment recreated in Blender",
+  "title_zh": "把 three.js 公寓搬进 Blender",
+  "description": "",
+  "description_zh": "",
+  "added": "2026-11-12",
+  "author": "MengTo",
+  "url": null,
+  "extra_links": [],
+  "post": "https://x.com/MengTo/status/2120316203738829180",
+  "likes": 476,
+  "preview": "assets/gifs/196.gif",
+  "videos": [
+   {
+    "url": "https://video.twimg.com/amplify_video/2120315007900819456/vid/avc1/1920x1080/GZkLFadi9AtkYzAJ.mp4?tag=29",
+    "duration_s": 52
+   }
+  ]
  }
 ]
