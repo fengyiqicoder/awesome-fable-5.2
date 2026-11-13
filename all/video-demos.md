@@ -1,4 +1,4 @@
-# 📺 Video-only Demos · all 111
+# 📺 Video-only Demos · all 110
 
 [← Back to the main list](../README.md) · **English** · [简体中文](video-demos.zh-CN.md)
 
@@ -335,25 +335,19 @@ Creators posted a video but no public link. Click a preview to watch the origina
 
 </td>
 <td width="33%" valign="top">
-<a href="https://x.com/imantiai/status/2119979537320534135"><img src="../assets/gifs/080.gif" width="100%" alt="Tropical-island FPS"></a><br>
-<b><a href="https://x.com/imantiai/status/2119979537320534135">Tropical-island FPS</a></b><br>
-<sub><a href="https://x.com/imantiai">@imantiai</a> · ♥ 656 · <a href="https://x.com/imantiai/status/2119979537320534135">▶ Video</a></sub><br>
-<sub>One prompt.</sub>
-</td>
-<td width="33%" valign="top">
 <a href="https://x.com/KanaWorks_AI/status/2120098607382880627"><img src="../assets/gifs/159.gif" width="100%" alt="37-second uncut flight over endless terrain"></a><br>
 <b><a href="https://x.com/KanaWorks_AI/status/2120098607382880627">37-second uncut flight over endless terrain</a></b><br>
 <sub>🆕 · <a href="https://x.com/KanaWorks_AI">@KanaWorks_AI</a> · ♥ 643 · <a href="https://x.com/KanaWorks_AI/status/2120098607382880627">▶ Video</a></sub><br>
 
 </td>
-</tr>
-<tr>
 <td width="33%" valign="top">
 <a href="https://x.com/theo/status/2120104895646937409"><img src="../assets/gifs/075.gif" width="100%" alt="A data-pipeline write-up that became a design"></a><br>
 <b><a href="https://x.com/theo/status/2120104895646937409">A data-pipeline write-up that became a design</a></b><br>
 <sub><a href="https://x.com/theo">@theo</a> · ♥ 639 · <a href="https://x.com/theo/status/2120104895646937409">▶ Video</a></sub><br>
 
 </td>
+</tr>
+<tr>
 <td width="33%" valign="top">
 <a href="https://x.com/LexnLin/status/2120167637133238295"><img src="../assets/gifs/160.gif" width="100%" alt="Claude logo animation"></a><br>
 <b><a href="https://x.com/LexnLin/status/2120167637133238295">Claude logo animation</a></b><br>
@@ -366,14 +360,14 @@ Creators posted a video but no public link. Click a preview to watch the origina
 <sub><a href="https://x.com/lemomo_ai">@lemomo_ai</a> · ♥ 596 · <a href="https://x.com/lemomo_ai/status/2120118194409193682">▶ Video</a></sub><br>
 <sub>24,000 pages take flight.</sub>
 </td>
-</tr>
-<tr>
 <td width="33%" valign="top">
 <a href="https://x.com/mxvdl/status/2120809570344050705"><img src="../assets/gifs/245.gif" width="100%" alt="Three.js brush stroke shader breakdown"></a><br>
 <b><a href="https://x.com/mxvdl/status/2120809570344050705">Three.js brush stroke shader breakdown</a></b><br>
 <sub>🆕 · <a href="https://x.com/mxvdl">@mxvdl</a> · ♥ 595 · <a href="https://x.com/mxvdl/status/2120809570344050705">▶ Video</a></sub><br>
 
 </td>
+</tr>
+<tr>
 <td width="33%" valign="top">
 <a href="https://x.com/MrTacticalX/status/2120342453807157720"><img src="../assets/gifs/161.gif" width="100%" alt="A mechanical keyboard in Blender, typing included"></a><br>
 <b><a href="https://x.com/MrTacticalX/status/2120342453807157720">A mechanical keyboard in Blender, typing included</a></b><br>
@@ -386,14 +380,14 @@ Creators posted a video but no public link. Click a preview to watch the origina
 <sub><a href="https://x.com/dom_scholz">@dom_scholz</a> · ♥ 550 · <a href="https://x.com/dom_scholz/status/2119933150025363661">▶ Video</a></sub><br>
 
 </td>
-</tr>
-<tr>
 <td width="33%" valign="top">
 <a href="https://x.com/kevin_t_ngo/status/2120540964909711415"><img src="../assets/gifs/167.gif" width="100%" alt="An animated show intro"></a><br>
 <b><a href="https://x.com/kevin_t_ngo/status/2120540964909711415">An animated show intro</a></b><br>
 <sub>🆕 · <a href="https://x.com/kevin_t_ngo">@kevin_t_ngo</a> · ♥ 537 · <a href="https://x.com/kevin_t_ngo/status/2120540964909711415">▶ Video</a></sub><br>
 
 </td>
+</tr>
+<tr>
 <td width="33%" valign="top">
 <a href="https://x.com/thomaszhou_/status/2120389154970509666"><img src="../assets/gifs/162.gif" width="100%" alt=""Beauty", a short film from one sentence"></a><br>
 <b><a href="https://x.com/thomaszhou_/status/2120389154970509666">"Beauty", a short film from one sentence</a></b><br>
@@ -406,14 +400,14 @@ Creators posted a video but no public link. Click a preview to watch the origina
 <sub><a href="https://x.com/rileybrown">@rileybrown</a> · ♥ 502 · <a href="https://x.com/rileybrown/status/2119973951027724385">▶ Video</a></sub><br>
 
 </td>
-</tr>
-<tr>
 <td width="33%" valign="top">
 <a href="https://x.com/MengTo/status/2120316203738829180"><img src="../assets/gifs/196.gif" width="100%" alt="A three.js apartment recreated in Blender"></a><br>
 <b><a href="https://x.com/MengTo/status/2120316203738829180">A three.js apartment recreated in Blender</a></b><br>
 <sub>🆕 · <a href="https://x.com/MengTo">@MengTo</a> · ♥ 495 · <a href="https://x.com/MengTo/status/2120316203738829180">▶ Video</a></sub><br>
 
 </td>
+</tr>
+<tr>
 <td width="33%" valign="top">
 <a href="https://x.com/oalanicolas/status/2120266468780585456"><img src="../assets/gifs/163.gif" width="100%" alt="A walkthrough of a house not built yet"></a><br>
 <b><a href="https://x.com/oalanicolas/status/2120266468780585456">A walkthrough of a house not built yet</a></b><br>
@@ -426,14 +420,14 @@ Creators posted a video but no public link. Click a preview to watch the origina
 <sub>🆕 · <a href="https://x.com/lucian__03">@lucian__03</a> · ♥ 488 · <a href="https://x.com/lucian__03/status/2120197600255361025">▶ Video</a></sub><br>
 
 </td>
-</tr>
-<tr>
 <td width="33%" valign="top">
 <a href="https://x.com/semichenkko/status/2119960596951236675"><img src="../assets/gifs/094.gif" width="100%" alt="1886 New York floating in the sky"></a><br>
 <b><a href="https://x.com/semichenkko/status/2119960596951236675">1886 New York floating in the sky</a></b><br>
 <sub><a href="https://x.com/semichenkko">@semichenkko</a> · ♥ 473 · <a href="https://x.com/semichenkko/status/2119960596951236675">▶ Video</a></sub><br>
 
 </td>
+</tr>
+<tr>
 <td width="33%" valign="top">
 <a href="https://x.com/mattshumer_/status/2119900920347828670"><img src="../assets/gifs/073.gif" width="100%" alt="A whole movie in code"></a><br>
 <b><a href="https://x.com/mattshumer_/status/2119900920347828670">A whole movie in code</a></b><br>
@@ -446,14 +440,14 @@ Creators posted a video but no public link. Click a preview to watch the origina
 <sub>🆕 · <a href="https://x.com/Stefan_3D_AI">@Stefan_3D_AI</a> · ♥ 467 · <a href="https://x.com/Stefan_3D_AI/status/2120773803869659150">▶ Video</a></sub><br>
 
 </td>
-</tr>
-<tr>
 <td width="33%" valign="top">
 <a href="https://x.com/solotechdev/status/2120071690482794603"><img src="../assets/gifs/096.gif" width="100%" alt="SwiftUI eye-color app"></a><br>
 <b><a href="https://x.com/solotechdev/status/2120071690482794603">SwiftUI eye-color app</a></b><br>
 <sub><a href="https://x.com/solotechdev">@solotechdev</a> · ♥ 434 · <a href="https://x.com/solotechdev/status/2120071690482794603">▶ Video</a></sub><br>
 
 </td>
+</tr>
+<tr>
 <td width="33%" valign="top">
 <a href="https://x.com/jsnnsa/status/2120161161803088061"><img src="../assets/gifs/164.gif" width="100%" alt="Designed a font, then a documentary about it"></a><br>
 <b><a href="https://x.com/jsnnsa/status/2120161161803088061">Designed a font, then a documentary about it</a></b><br>
@@ -466,14 +460,14 @@ Creators posted a video but no public link. Click a preview to watch the origina
 <sub><a href="https://x.com/themianoo">@themianoo</a> · ♥ 420 · <a href="https://x.com/themianoo/status/2120042064666882266">▶ Video</a></sub><br>
 <sub>~4,800 lines of Python, 444 frames.</sub>
 </td>
-</tr>
-<tr>
 <td width="33%" valign="top">
 <a href="https://x.com/Izkimar/status/2119931740940640542"><img src="../assets/gifs/079.gif" width="100%" alt="A stylized MMO world in a day"></a><br>
 <b><a href="https://x.com/Izkimar/status/2119931740940640542">A stylized MMO world in a day</a></b><br>
 <sub><a href="https://x.com/Izkimar">@Izkimar</a> · ♥ 366 · <a href="https://x.com/Izkimar/status/2119931740940640542">▶ Video</a></sub><br>
 
 </td>
+</tr>
+<tr>
 <td width="33%" valign="top">
 <a href="https://x.com/Bhavani_00007/status/2119902204320780676"><img src="../assets/gifs/077.gif" width="100%" alt="Rocket launch (Fable vs Opus)"></a><br>
 <b><a href="https://x.com/Bhavani_00007/status/2119902204320780676">Rocket launch (Fable vs Opus)</a></b><br>
@@ -486,14 +480,14 @@ Creators posted a video but no public link. Click a preview to watch the origina
 <sub><a href="https://x.com/RuslanKyrch">@RuslanKyrch</a> · ♥ 305 · <a href="https://x.com/RuslanKyrch/status/2119896220814762218">▶ Video</a></sub><br>
 
 </td>
-</tr>
-<tr>
 <td width="33%" valign="top">
 <a href="https://x.com/Stefan_3D_AI/status/2120041169719894165"><img src="../assets/gifs/089.gif" width="100%" alt="Blender castle (Fable vs Opus)"></a><br>
 <b><a href="https://x.com/Stefan_3D_AI/status/2120041169719894165">Blender castle (Fable vs Opus)</a></b><br>
 <sub><a href="https://x.com/Stefan_3D_AI">@Stefan_3D_AI</a> · ♥ 302 · <a href="https://x.com/Stefan_3D_AI/status/2120041169719894165">▶ Video</a></sub><br>
 
 </td>
+</tr>
+<tr>
 <td width="33%" valign="top">
 <a href="https://x.com/ElevenCreative/status/2120025947709837525"><img src="../assets/gifs/088.gif" width="100%" alt="An ad with the ElevenLabs MCP"></a><br>
 <b><a href="https://x.com/ElevenCreative/status/2120025947709837525">An ad with the ElevenLabs MCP</a></b><br>
@@ -506,14 +500,14 @@ Creators posted a video but no public link. Click a preview to watch the origina
 <sub>🆕 · <a href="https://x.com/DeryaTR_">@DeryaTR_</a> · ♥ 282 · <a href="https://x.com/DeryaTR_/status/2119974354260013293">▶ Video</a></sub><br>
 
 </td>
-</tr>
-<tr>
 <td width="33%" valign="top">
 <a href="https://x.com/EvanMilenko/status/2119969113762082931"><img src="../assets/gifs/091.gif" width="100%" alt="Sword-fighting game"></a><br>
 <b><a href="https://x.com/EvanMilenko/status/2119969113762082931">Sword-fighting game</a></b><br>
 <sub><a href="https://x.com/EvanMilenko">@EvanMilenko</a> · ♥ 281 · <a href="https://x.com/EvanMilenko/status/2119969113762082931">▶ Video</a></sub><br>
 
 </td>
+</tr>
+<tr>
 <td width="33%" valign="top">
 <a href="https://x.com/RJasonHA/status/2120007540713099768"><img src="../assets/gifs/097.gif" width="100%" alt="A symphony"></a><br>
 <b><a href="https://x.com/RJasonHA/status/2120007540713099768">A symphony</a></b><br>
@@ -526,14 +520,14 @@ Creators posted a video but no public link. Click a preview to watch the origina
 <sub><a href="https://x.com/_MaxBlade">@_MaxBlade</a> · ♥ 262 · <a href="https://x.com/_MaxBlade/status/2119992020076814436">▶ Video</a></sub><br>
 
 </td>
-</tr>
-<tr>
 <td width="33%" valign="top">
 <a href="https://x.com/chetaslua/status/2120111159726727321"><img src="../assets/gifs/095.gif" width="100%" alt="Monica's apartment in three.js"></a><br>
 <b><a href="https://x.com/chetaslua/status/2120111159726727321">Monica's apartment in three.js</a></b><br>
 <sub><a href="https://x.com/chetaslua">@chetaslua</a> · ♥ 238 · <a href="https://x.com/chetaslua/status/2120111159726727321">▶ Video</a></sub><br>
 
 </td>
+</tr>
+<tr>
 <td width="33%" valign="top">
 <a href="https://x.com/AmirMushich/status/2119903338078564844"><img src="../assets/gifs/086.gif" width="100%" alt="Blender + Reaper sound design"></a><br>
 <b><a href="https://x.com/AmirMushich/status/2119903338078564844">Blender + Reaper sound design</a></b><br>
@@ -546,14 +540,14 @@ Creators posted a video but no public link. Click a preview to watch the origina
 <sub><a href="https://x.com/dfeinition">@dfeinition</a> · ♥ 229 · <a href="https://x.com/dfeinition/status/2119881243990859818">▶ Video</a></sub><br>
 
 </td>
-</tr>
-<tr>
 <td width="33%" valign="top">
 <a href="https://x.com/pleometric/status/2119973274402668852"><img src="../assets/gifs/169.gif" width="100%" alt="BRYCEBALL: a renderer used as a game engine"></a><br>
 <b><a href="https://x.com/pleometric/status/2119973274402668852">BRYCEBALL: a renderer used as a game engine</a></b><br>
 <sub>🆕 · <a href="https://x.com/pleometric">@pleometric</a> · ♥ 227 · <a href="https://x.com/pleometric/status/2119973274402668852">▶ Video</a></sub><br>
 
 </td>
+</tr>
+<tr>
 <td width="33%" valign="top">
 <a href="https://x.com/chetaslua/status/2120548065044234504"><img src="../assets/gifs/172.gif" width="100%" alt="Superman flies through CG history, pure JS"></a><br>
 <b><a href="https://x.com/chetaslua/status/2120548065044234504">Superman flies through CG history, pure JS</a></b><br>
@@ -566,14 +560,14 @@ Creators posted a video but no public link. Click a preview to watch the origina
 <sub><a href="https://x.com/dfeinition">@dfeinition</a> · ♥ 210 · <a href="https://x.com/dfeinition/status/2119886262211625062">▶ Video</a></sub><br>
 
 </td>
-</tr>
-<tr>
 <td width="33%" valign="top">
 <a href="https://x.com/notjazii/status/2119886035421442097"><img src="../assets/gifs/082.gif" width="100%" alt="Same prompt, Fable vs Opus"></a><br>
 <b><a href="https://x.com/notjazii/status/2119886035421442097">Same prompt, Fable vs Opus</a></b><br>
 <sub><a href="https://x.com/notjazii">@notjazii</a> · ♥ 205 · <a href="https://x.com/notjazii/status/2119886035421442097">▶ Video</a></sub><br>
 
 </td>
+</tr>
+<tr>
 <td width="33%" valign="top">
 <a href="https://x.com/WesRoth/status/2119911161386934330"><img src="../assets/gifs/092.gif" width="100%" alt="Music video"></a><br>
 <b><a href="https://x.com/WesRoth/status/2119911161386934330">Music video</a></b><br>
@@ -586,14 +580,14 @@ Creators posted a video but no public link. Click a preview to watch the origina
 <sub><a href="https://x.com/AlchainHust">@AlchainHust</a> · ♥ 179 · <a href="https://x.com/AlchainHust/status/2120065556003102731">▶ Video</a></sub><br>
 
 </td>
-</tr>
-<tr>
 <td width="33%" valign="top">
 <a href="https://x.com/linxiaobei888/status/2119978892861829227"><img src="../assets/gifs/110.gif" width="100%" alt="Kids' English cartoon"></a><br>
 <b><a href="https://x.com/linxiaobei888/status/2119978892861829227">Kids' English cartoon</a></b><br>
 <sub><a href="https://x.com/linxiaobei888">@linxiaobei888</a> · ♥ 158 · <a href="https://x.com/linxiaobei888/status/2119978892861829227">▶ Video</a></sub><br>
 
 </td>
+</tr>
+<tr>
 <td width="33%" valign="top">
 <a href="https://x.com/EvanMilenko/status/2120322640048959503"><img src="../assets/gifs/170.gif" width="100%" alt="A dragon game in Three.js"></a><br>
 <b><a href="https://x.com/EvanMilenko/status/2120322640048959503">A dragon game in Three.js</a></b><br>
@@ -606,14 +600,14 @@ Creators posted a video but no public link. Click a preview to watch the origina
 <sub><a href="https://x.com/mattshumer_">@mattshumer_</a> · ♥ 152 · <a href="https://x.com/mattshumer_/status/2119889518564147409">▶ Video</a></sub><br>
 
 </td>
-</tr>
-<tr>
 <td width="33%" valign="top">
 <a href="https://x.com/dfeinition/status/2119892208937517201"><img src="../assets/gifs/100.gif" width="100%" alt="Claymation"></a><br>
 <b><a href="https://x.com/dfeinition/status/2119892208937517201">Claymation</a></b><br>
 <sub><a href="https://x.com/dfeinition">@dfeinition</a> · ♥ 149 · <a href="https://x.com/dfeinition/status/2119892208937517201">▶ Video</a></sub><br>
 
 </td>
+</tr>
+<tr>
 <td width="33%" valign="top">
 <a href="https://x.com/petergostev/status/2120125927086600681"><img src="../assets/gifs/171.gif" width="100%" alt="Crochet coral reef"></a><br>
 <b><a href="https://x.com/petergostev/status/2120125927086600681">Crochet coral reef</a></b><br>
@@ -626,14 +620,14 @@ Creators posted a video but no public link. Click a preview to watch the origina
 <sub><a href="https://x.com/techartist_">@techartist_</a> · ♥ 137 · <a href="https://x.com/techartist_/status/2119946891106394518">▶ Video</a></sub><br>
 <sub>VFX, mechanics and physics tests.</sub>
 </td>
-</tr>
-<tr>
 <td width="33%" valign="top">
 <a href="https://x.com/abhinavflac/status/2119884257145581980"><img src="../assets/gifs/099.gif" width="100%" alt="Pelican on a bicycle (classic test)"></a><br>
 <b><a href="https://x.com/abhinavflac/status/2119884257145581980">Pelican on a bicycle (classic test)</a></b><br>
 <sub><a href="https://x.com/abhinavflac">@abhinavflac</a> · ♥ 133 · <a href="https://x.com/abhinavflac/status/2119884257145581980">▶ Video</a></sub><br>
 
 </td>
+</tr>
+<tr>
 <td width="33%" valign="top">
 <a href="https://x.com/wangray/status/2120040640423850168"><img src="../assets/gifs/109.gif" width="100%" alt="A launch film from one sentence"></a><br>
 <b><a href="https://x.com/wangray/status/2120040640423850168">A launch film from one sentence</a></b><br>
@@ -646,14 +640,14 @@ Creators posted a video but no public link. Click a preview to watch the origina
 <sub><a href="https://x.com/aug5thmusic">@aug5thmusic</a> · ♥ 128 · <a href="https://x.com/aug5thmusic/status/2119907891419480107">▶ Video</a></sub><br>
 <sub>Written in LilyPond.</sub>
 </td>
-</tr>
-<tr>
 <td width="33%" valign="top">
 <a href="https://x.com/guanmo_ai/status/2119989925038985382"><img src="../assets/gifs/115.gif" width="100%" alt="Sound-on piece"></a><br>
 <b><a href="https://x.com/guanmo_ai/status/2119989925038985382">Sound-on piece</a></b><br>
 <sub><a href="https://x.com/guanmo_ai">@guanmo_ai</a> · ♥ 121 · <a href="https://x.com/guanmo_ai/status/2119989925038985382">▶ Video</a></sub><br>
 
 </td>
+</tr>
+<tr>
 <td width="33%" valign="top">
 <a href="https://x.com/Lummox_eth/status/2120093679243194793"><img src="../assets/gifs/117.gif" width="100%" alt="A $36 Game of Thrones dragon"></a><br>
 <b><a href="https://x.com/Lummox_eth/status/2120093679243194793">A $36 Game of Thrones dragon</a></b><br>
@@ -666,14 +660,14 @@ Creators posted a video but no public link. Click a preview to watch the origina
 <sub><a href="https://x.com/Stefan_3D_AI">@Stefan_3D_AI</a> · ♥ 105 · <a href="https://x.com/Stefan_3D_AI/status/2120039417981333599">▶ Video</a></sub><br>
 
 </td>
-</tr>
-<tr>
 <td width="33%" valign="top">
 <a href="https://x.com/charliejhills/status/2120105823737397644"><img src="../assets/gifs/107.gif" width="100%" alt="Rubik's cube robot (Fable vs Opus)"></a><br>
 <b><a href="https://x.com/charliejhills/status/2120105823737397644">Rubik's cube robot (Fable vs Opus)</a></b><br>
 <sub><a href="https://x.com/charliejhills">@charliejhills</a> · ♥ 101 · <a href="https://x.com/charliejhills/status/2120105823737397644">▶ Video</a></sub><br>
 
 </td>
+</tr>
+<tr>
 <td width="33%" valign="top">
 <a href="https://x.com/dfeinition/status/2119870838606381391"><img src="../assets/gifs/105.gif" width="100%" alt="Motion blending, explained by a robot"></a><br>
 <b><a href="https://x.com/dfeinition/status/2119870838606381391">Motion blending, explained by a robot</a></b><br>
@@ -686,14 +680,14 @@ Creators posted a video but no public link. Click a preview to watch the origina
 <sub><a href="https://x.com/Stefan_3D_AI">@Stefan_3D_AI</a> · ♥ 82 · <a href="https://x.com/Stefan_3D_AI/status/2120101582444597446">▶ Video</a></sub><br>
 
 </td>
-</tr>
-<tr>
 <td width="33%" valign="top">
 <a href="https://x.com/rpnickson/status/2119969928304357507"><img src="../assets/gifs/108.gif" width="100%" alt="A studio rebuilt from photos"></a><br>
 <b><a href="https://x.com/rpnickson/status/2119969928304357507">A studio rebuilt from photos</a></b><br>
 <sub><a href="https://x.com/rpnickson">@rpnickson</a> · ♥ 81 · <a href="https://x.com/rpnickson/status/2119969928304357507">▶ Video</a></sub><br>
 
 </td>
+</tr>
+<tr>
 <td width="33%" valign="top">
 <a href="https://x.com/leppppp1/status/2119960122713899015"><img src="../assets/gifs/112.gif" width="100%" alt="Four models, one text effect"></a><br>
 <b><a href="https://x.com/leppppp1/status/2119960122713899015">Four models, one text effect</a></b><br>
@@ -706,14 +700,14 @@ Creators posted a video but no public link. Click a preview to watch the origina
 <sub><a href="https://x.com/ElevenCreative">@ElevenCreative</a> · ♥ 64 · <a href="https://x.com/ElevenCreative/status/2119963230403776554">▶ Video</a></sub><br>
 
 </td>
-</tr>
-<tr>
 <td width="33%" valign="top">
 <a href="https://x.com/RJasonHA/status/2120075740222005569"><img src="../assets/gifs/123.gif" width="100%" alt="Chinatown in code"></a><br>
 <b><a href="https://x.com/RJasonHA/status/2120075740222005569">Chinatown in code</a></b><br>
 <sub><a href="https://x.com/RJasonHA">@RJasonHA</a> · ♥ 61 · <a href="https://x.com/RJasonHA/status/2120075740222005569">▶ Video</a></sub><br>
 
 </td>
+</tr>
+<tr>
 <td width="33%" valign="top">
 <a href="https://x.com/ChrisGPT/status/2119989626568126509"><img src="../assets/gifs/118.gif" width="100%" alt="A mobile game running as an Artifact"></a><br>
 <b><a href="https://x.com/ChrisGPT/status/2119989626568126509">A mobile game running as an Artifact</a></b><br>
@@ -726,14 +720,14 @@ Creators posted a video but no public link. Click a preview to watch the origina
 <sub><a href="https://x.com/TekonBurns">@TekonBurns</a> · ♥ 55 · <a href="https://x.com/TekonBurns/status/2119871565311660260">▶ Video</a></sub><br>
 <sub>One prompt, one HTML file.</sub>
 </td>
-</tr>
-<tr>
 <td width="33%" valign="top">
 <a href="https://x.com/flxrnc/status/2119961301791174720"><img src="../assets/gifs/119.gif" width="100%" alt="A day-one film (prompt PDF shared)"></a><br>
 <b><a href="https://x.com/flxrnc/status/2119961301791174720">A day-one film (prompt PDF shared)</a></b><br>
 <sub><a href="https://x.com/flxrnc">@flxrnc</a> · ♥ 44 · <a href="https://x.com/flxrnc/status/2119961301791174720">▶ Video</a></sub><br>
 
 </td>
+</tr>
+<tr>
 <td width="33%" valign="top">
 <a href="https://x.com/ItsmeAjayKV/status/2119896772713849174"><img src="../assets/gifs/121.gif" width="100%" alt="Paris on a floating island"></a><br>
 <b><a href="https://x.com/ItsmeAjayKV/status/2119896772713849174">Paris on a floating island</a></b><br>

@@ -1566,27 +1566,6 @@
   ]
  },
  {
-  "id": 80,
-  "section": "video-only",
-  "title": "Tropical-island FPS",
-  "title_zh": "热带岛屿写实 FPS，一条提示词",
-  "description": "One prompt.",
-  "description_zh": "",
-  "added": "2026-11-10",
-  "author": "imantiai",
-  "url": null,
-  "extra_links": [],
-  "post": "https://x.com/imantiai/status/2119979537320534135",
-  "likes": 656,
-  "preview": "assets/gifs/080.gif",
-  "videos": [
-   {
-    "url": "https://video.twimg.com/amplify_video/2119977740925378560/vid/avc1/1728x1080/OaeAKSXEkU1CwSCP.mp4?tag=29",
-    "duration_s": 30.912
-   }
-  ]
- },
- {
   "id": 81,
   "section": "video-only",
   "title": "App redesign, 5.1 vs 5.2",
