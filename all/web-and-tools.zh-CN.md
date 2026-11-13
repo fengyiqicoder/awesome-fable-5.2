@@ -176,7 +176,7 @@
 <b><a href="https://www.asumacodes.xyz/arena/driftwood">Driftwood 落地页（Fable 对 Opus）</a></b><br>
 <sub><a href="https://x.com/AsumaCodes">@AsumaCodes</a> · ♥ 9 · <a href="https://x.com/AsumaCodes/status/2120130668848177432">▶ 视频</a></sub><br>
 <sub>同提示词一次生成，两版都在线</sub><br>
-<sub><a href="https://www.asumacodes.xyz/arena/focus-room">番茄钟专注室</a> · <a href="Bug 对比 https://www.asumacodes.xyz/arena/bug-hunt">找</a> · <a href="https://www.asumacodes.xyz/arena">系列首页</a></sub>
+<sub><a href="https://www.asumacodes.xyz/arena/focus-room">番茄钟专注室</a> · <a href="https://www.asumacodes.xyz/arena/bug-hunt">找 Bug 对比</a> · <a href="https://www.asumacodes.xyz/arena">系列首页</a></sub>
 </td>
 <td width="33%" valign="top">
 <a href="https://claude.ai/artifact/TiymxxFXzMo7xhWUaecbzk"><img src="https://pbs.twimg.com/media/HWwrmvIb0AAMLPK.jpg?name=small" width="100%" alt="独栋住宅设计提案书"></a><br>

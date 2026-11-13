@@ -176,7 +176,7 @@ The main page only shows posts with 100+ likes; this page has every entry in thi
 <b><a href="https://www.asumacodes.xyz/arena/driftwood">Driftwood (Fable vs Opus)</a></b><br>
 <sub><a href="https://x.com/AsumaCodes">@AsumaCodes</a> · ♥ 9 · <a href="https://x.com/AsumaCodes/status/2120130668848177432">▶ Video</a></sub><br>
 <sub>Same prompt, one shot each, both pages live. Also: a Pomodoro focus room and a bug hunt.</sub><br>
-<sub><a href="https://www.asumacodes.xyz/arena/focus-room">Focus room</a> · <a href="Bug 对比 https://www.asumacodes.xyz/arena/bug-hunt">Bug hunt</a> · <a href="https://www.asumacodes.xyz/arena">Series</a></sub>
+<sub><a href="https://www.asumacodes.xyz/arena/focus-room">Focus room</a> · <a href="https://www.asumacodes.xyz/arena/bug-hunt">Bug hunt comparison</a> · <a href="https://www.asumacodes.xyz/arena">Series</a></sub>
 </td>
 <td width="33%" valign="top">
 <a href="https://claude.ai/artifact/TiymxxFXzMo7xhWUaecbzk"><img src="https://pbs.twimg.com/media/HWwrmvIb0AAMLPK.jpg?name=small" width="100%" alt="House Design Proposal"></a><br>

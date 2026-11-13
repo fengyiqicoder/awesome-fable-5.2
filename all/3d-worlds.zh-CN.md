@@ -84,7 +84,7 @@
 <b><a href="https://claude.ai/artifact/2PBXuQAnWDS2NpiPXHNLfL">果冻虎鲸材质研究</a></b><br>
 <sub><a href="https://x.com/vib3coded">@vib3coded</a> · ♥ 202 · <a href="https://x.com/vib3coded/status/2119951060752375827">▶ 视频</a></sub><br>
 <sub>软体果冻虎鲸，Fable 对 Opus</sub><br>
-<sub><a href="5.5 版 https://claude.ai/artifact/75KLotWzZQ5RR23BGLePb8">Opus</a></sub>
+<sub><a href="https://claude.ai/artifact/75KLotWzZQ5RR23BGLePb8">Opus 5.5 版</a></sub>
 </td>
 </tr>
 <tr>
@@ -175,7 +175,7 @@
 <b><a href="https://claude.ai/artifact/7nmzhxeamcunJbKVK32ptz">体素罗马斗兽场</a></b><br>
 <sub><a href="https://x.com/aGim_asf">@aGim_asf</a> · ♥ 20 · <a href="https://x.com/aGim_asf/status/2119918363799376270">▶ 视频</a></sub><br>
 <sub>可以走进废墟内环</sub><br>
-<sub><a href="5.5 版 https://claude.ai/artifact/B7ZmVS7Yr3BUc99ZyGk2bX">Opus</a></sub>
+<sub><a href="https://claude.ai/artifact/B7ZmVS7Yr3BUc99ZyGk2bX">Opus 5.5 版</a></sub>
 </td>
 <td width="33%" valign="top">
 <a href="https://glittery-stardust-885b97.netlify.app"><img src="../assets/gifs/233.gif" width="100%" alt="HX-6 六足机器人登陆三个星球"></a><br>

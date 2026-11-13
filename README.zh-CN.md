@@ -7,14 +7,16 @@
 [![Awesome](https://awesome.re/badge.svg)](https://awesome.re)
 [![Works](https://img.shields.io/badge/可打开作品-143-6b4eff)](#-游戏)
 [![Demos](https://img.shields.io/badge/视频演示-111-ff7a59)](#-只有视频)
-[![Links checked](https://img.shields.io/badge/链接实测-2026--11--13-2ea44f)](#-投稿)
+[![Links checked](https://img.shields.io/badge/链接实测-2026--11--14-2ea44f)](#-投稿)
 [![License: CC0-1.0](https://img.shields.io/badge/License-CC0_1.0-lightgrey.svg)](LICENSE)
 
 [English](README.md) · **简体中文**
 
+**🌐 网页版：[fablelist.000ooo.ooo/zh](https://fablelist.000ooo.ooo/zh/)**（可搜索，每个作品有详情页）
+
 </div>
 
-Claude Fable 5.2 在 2026-11-09 发布。发布后几天里，X 上出现了大量用它做的游戏、3D 世界和网页。这份清单只收**能点开就用的作品**：143 个在线作品，每个链接都在 2026-11-13 实际打开验证过；另有 111 个只发了视频的高赞演示，单独放在后面。
+Claude Fable 5.2 在 2026-11-09 发布。发布后几天里，X 上出现了大量用它做的游戏、3D 世界和网页。这份清单只收**能点开就用的作品**：143 个在线作品，每个链接都在 2026-11-14 实际打开验证过；另有 111 个只发了视频的高赞演示，单独放在后面。
 
 每一项都配了几秒的动图预览，写明作者，并链接回原帖看完整视频。带 🆕 的是最近几天新加的。首页只放原帖点赞 ≥100 的，其余在每节末尾的「查看全部」里。觉得有用就点个 ⭐，清单每天更新。
 
@@ -399,7 +401,7 @@ Claude Fable 5.2 在 2026-11-09 发布。发布后几天里，X 上出现了大�
 <b><a href="https://claude.ai/artifact/2PBXuQAnWDS2NpiPXHNLfL">果冻虎鲸材质研究</a></b><br>
 <sub><a href="https://x.com/vib3coded">@vib3coded</a> · ♥ 202 · <a href="https://x.com/vib3coded/status/2119951060752375827">▶ 视频</a></sub><br>
 <sub>软体果冻虎鲸，Fable 对 Opus</sub><br>
-<sub><a href="5.5 版 https://claude.ai/artifact/75KLotWzZQ5RR23BGLePb8">Opus</a></sub>
+<sub><a href="https://claude.ai/artifact/75KLotWzZQ5RR23BGLePb8">Opus 5.5 版</a></sub>
 </td>
 </tr>
 <tr>

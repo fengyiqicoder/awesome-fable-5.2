@@ -7,14 +7,16 @@
 [![Awesome](https://awesome.re/badge.svg)](https://awesome.re)
 [![Works](https://img.shields.io/badge/live_works-143-6b4eff)](#-games)
 [![Demos](https://img.shields.io/badge/video_demos-111-ff7a59)](#-video-only-demos)
-[![Links checked](https://img.shields.io/badge/links_checked-2026--11--13-2ea44f)](#-contributing)
+[![Links checked](https://img.shields.io/badge/links_checked-2026--11--14-2ea44f)](#-contributing)
 [![License: CC0-1.0](https://img.shields.io/badge/License-CC0_1.0-lightgrey.svg)](LICENSE)
 
 **English** · [简体中文](README.zh-CN.md)
 
+**🌐 Browse on the web: [fablelist.000ooo.ooo](https://fablelist.000ooo.ooo/)** (searchable, a page for every work)
+
 </div>
 
-Claude Fable 5.2 shipped on 2026-11-09. Within days X filled up with games, 3D worlds and web pages made with it. This list collects the ones **you can open right now**: 143 live works, every link opened and checked on 2026-11-13, plus 111 popular video-only demos in a separate section.
+Claude Fable 5.2 shipped on 2026-11-09. Within days X filled up with games, 3D worlds and web pages made with it. This list collects the ones **you can open right now**: 143 live works, every link opened and checked on 2026-11-14, plus 111 popular video-only demos in a separate section.
 
 Every entry has a few-second GIF preview, credits its creator and links back to the original post for the full video. 🆕 marks entries added in the last few days. This page shows posts with 100+ likes; the rest are one click away under "See all" at the end of each section. If this helps, a ⭐ keeps it coming — the list is updated daily.
 
@@ -399,7 +401,7 @@ The six most-liked live works.
 <b><a href="https://claude.ai/artifact/2PBXuQAnWDS2NpiPXHNLfL">Orca Jelly</a></b><br>
 <sub><a href="https://x.com/vib3coded">@vib3coded</a> · ♥ 202 · <a href="https://x.com/vib3coded/status/2119951060752375827">▶ Video</a></sub><br>
 <sub>A soft-body gummy orca material study. Opus 5.5's version is linked for comparison.</sub><br>
-<sub><a href="5.5 版 https://claude.ai/artifact/75KLotWzZQ5RR23BGLePb8">Opus 5.5</a></sub>
+<sub><a href="https://claude.ai/artifact/75KLotWzZQ5RR23BGLePb8">Opus 5.5 version</a></sub>
 </td>
 </tr>
 <tr>

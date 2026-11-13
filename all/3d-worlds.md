@@ -84,7 +84,7 @@ The main page only shows posts with 100+ likes; this page has every entry in thi
 <b><a href="https://claude.ai/artifact/2PBXuQAnWDS2NpiPXHNLfL">Orca Jelly</a></b><br>
 <sub><a href="https://x.com/vib3coded">@vib3coded</a> · ♥ 202 · <a href="https://x.com/vib3coded/status/2119951060752375827">▶ Video</a></sub><br>
 <sub>A soft-body gummy orca material study. Opus 5.5's version is linked for comparison.</sub><br>
-<sub><a href="5.5 版 https://claude.ai/artifact/75KLotWzZQ5RR23BGLePb8">Opus 5.5</a></sub>
+<sub><a href="https://claude.ai/artifact/75KLotWzZQ5RR23BGLePb8">Opus 5.5 version</a></sub>
 </td>
 </tr>
 <tr>
@@ -175,7 +175,7 @@ The main page only shows posts with 100+ likes; this page has every entry in thi
 <b><a href="https://claude.ai/artifact/7nmzhxeamcunJbKVK32ptz">Voxel Colosseum</a></b><br>
 <sub><a href="https://x.com/aGim_asf">@aGim_asf</a> · ♥ 20 · <a href="https://x.com/aGim_asf/status/2119918363799376270">▶ Video</a></sub><br>
 <sub>Walk around the ruined inner ring. Opus 5.5's diorama version is linked for comparison.</sub><br>
-<sub><a href="5.5 版 https://claude.ai/artifact/B7ZmVS7Yr3BUc99ZyGk2bX">Opus 5.5</a></sub>
+<sub><a href="https://claude.ai/artifact/B7ZmVS7Yr3BUc99ZyGk2bX">Opus 5.5 version</a></sub>
 </td>
 <td width="33%" valign="top">
 <a href="https://glittery-stardust-885b97.netlify.app"><img src="../assets/gifs/233.gif" width="100%" alt="HX-6 Hexapod, Three Worlds"></a><br>
