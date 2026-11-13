@@ -41,7 +41,7 @@ The main page only shows posts with 100+ likes; this page has every entry in thi
 <td width="33%" valign="top">
 <a href="https://github.com/Leonxlnx/room-at-dawn"><img src="../assets/gifs/219.gif" width="100%" alt="Room at Dawn"></a><br>
 <b><a href="https://github.com/Leonxlnx/room-at-dawn">Room at Dawn</a></b><br>
-<sub>🆕 · <a href="https://x.com/LexnLin">@LexnLin</a> · ♥ 760 · <a href="https://x.com/LexnLin/status/2120910879361548565">▶ Video</a></sub><br>
+<sub>🆕 · <a href="https://x.com/LexnLin">@LexnLin</a> · ♥ 783 · <a href="https://x.com/LexnLin/status/2120910879361548565">▶ Video</a></sub><br>
 <sub>A photoreal bedroom in three.js with no pre-made models or textures; everything is code.</sub>
 </td>
 </tr>
@@ -56,7 +56,7 @@ The main page only shows posts with 100+ likes; this page has every entry in thi
 <td width="33%" valign="top">
 <a href="https://supernatural-ft.vercel.app/fire-in-ice"><img src="../assets/gifs/221.gif" width="100%" alt="Fire in Ice"></a><br>
 <b><a href="https://supernatural-ft.vercel.app/fire-in-ice">Fire in Ice</a></b><br>
-<sub>🆕 · <a href="https://x.com/tkm_hmng8">@tkm_hmng8</a> · ♥ 349 · <a href="https://x.com/tkm_hmng8/status/2120813043101946324">▶ Video</a></sub><br>
+<sub>🆕 · <a href="https://x.com/tkm_hmng8">@tkm_hmng8</a> · ♥ 372 · <a href="https://x.com/tkm_hmng8/status/2120813043101946324">▶ Video</a></sub><br>
 <sub>Realistic fire burning inside ice, written in raw WebGPU without three.js.</sub>
 </td>
 <td width="33%" valign="top">
@@ -68,16 +68,16 @@ The main page only shows posts with 100+ likes; this page has every entry in thi
 </tr>
 <tr>
 <td width="33%" valign="top">
+<a href="https://samg-coder.github.io/solstice-garden/"><img src="../assets/gifs/248.gif" width="100%" alt="The Garden"></a><br>
+<b><a href="https://samg-coder.github.io/solstice-garden/">The Garden</a></b><br>
+<sub>🆕 · <a href="https://x.com/SamGCoder">@SamGCoder</a> · ♥ 219 · <a href="https://x.com/SamGCoder/status/2120943068321054975">▶ Video</a></sub><br>
+<sub>A garden scene written in Rust, compiled to WASM and rendered with WebGPU.</sub>
+</td>
+<td width="33%" valign="top">
 <a href="https://claude.ai/artifact/R6YBDkAm2GjAC5A65D9djx"><img src="../assets/gifs/142.gif" width="100%" alt="A Claude demo you can walk into"></a><br>
 <b><a href="https://claude.ai/artifact/R6YBDkAm2GjAC5A65D9djx">A Claude demo you can walk into</a></b><br>
 <sub>🆕 · <a href="https://x.com/dfeinition">@dfeinition</a> · ♥ 212 · <a href="https://x.com/dfeinition/status/2120330644261589051">▶ Video</a></sub><br>
 <sub>Inspired by @rileybrown: walk in and sit at any computer.</sub>
-</td>
-<td width="33%" valign="top">
-<a href="https://samg-coder.github.io/solstice-garden/"><img src="../assets/gifs/248.gif" width="100%" alt="The Garden"></a><br>
-<b><a href="https://samg-coder.github.io/solstice-garden/">The Garden</a></b><br>
-<sub>🆕 · <a href="https://x.com/SamGCoder">@SamGCoder</a> · ♥ 211 · <a href="https://x.com/SamGCoder/status/2120943068321054975">▶ Video</a></sub><br>
-<sub>A garden scene written in Rust, compiled to WASM and rendered with WebGPU.</sub>
 </td>
 <td width="33%" valign="top">
 <a href="https://claude.ai/artifact/2PBXuQAnWDS2NpiPXHNLfL"><img src="../assets/gifs/028.gif" width="100%" alt="Orca Jelly"></a><br>

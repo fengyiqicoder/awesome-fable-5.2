@@ -1,4 +1,4 @@
-# 🧰 Web Pages & Tools · all 30
+# 🧰 Web Pages & Tools · all 32
 
 [← Back to the main list](../README.md) · **English** · [简体中文](web-and-tools.zh-CN.md)
 
@@ -22,7 +22,7 @@ The main page only shows posts with 100+ likes; this page has every entry in thi
 <td width="33%" valign="top">
 <a href="https://claude.ai/artifact/N6bSgS4ZH5ifFQfg8sm4dv"><img src="../assets/gifs/217.gif" width="100%" alt="House Bangers generator"></a><br>
 <b><a href="https://claude.ai/artifact/N6bSgS4ZH5ifFQfg8sm4dv">House Bangers generator</a></b><br>
-<sub>🆕 · <a href="https://x.com/deedydas">@deedydas</a> · ♥ 2.6k · <a href="https://x.com/deedydas/status/2120905625852936318">▶ Video</a></sub><br>
+<sub>🆕 · <a href="https://x.com/deedydas">@deedydas</a> · ♥ 2.8k · <a href="https://x.com/deedydas/status/2120905625852936318">▶ Video</a></sub><br>
 <sub>It learned music theory, tries thousands of patterns per instrument and arranges the best into a 72-bar house track. Sound on.</sub>
 </td>
 </tr>
@@ -100,7 +100,7 @@ The main page only shows posts with 100+ likes; this page has every entry in thi
 <td width="33%" valign="top">
 <a href="https://gsplan.org"><img src="../assets/gifs/206.gif" width="100%" alt="Galatasaray seat view"></a><br>
 <b><a href="https://gsplan.org">Galatasaray seat view</a></b><br>
-<sub>🆕 · <a href="https://x.com/molenbeek84">@molenbeek84</a> · ♥ 420 · <a href="https://x.com/molenbeek84/status/2120847639411331097">Post</a></sub><br>
+<sub>🆕 · <a href="https://x.com/molenbeek84">@molenbeek84</a> · ♥ 422 · <a href="https://x.com/molenbeek84/status/2120847639411331097">Post</a></sub><br>
 <sub>See the view of the pitch from every block at RAMS Park before you buy a ticket.</sub>
 </td>
 <td width="33%" valign="top">
@@ -154,8 +154,14 @@ The main page only shows posts with 100+ likes; this page has every entry in thi
 <td width="33%" valign="top">
 <a href="https://github.com/kanaworksai-hue/harappa"><img src="../assets/gifs/250.gif" width="100%" alt="Harappa (Blender add-on)"></a><br>
 <b><a href="https://github.com/kanaworksai-hue/harappa">Harappa (Blender add-on)</a></b><br>
-<sub>🆕 · <a href="https://x.com/KanaWorks_AI">@KanaWorks_AI</a> · ♥ 21 · <a href="https://x.com/KanaWorks_AI/status/2121221880673972463">▶ Video</a></sub><br>
+<sub>🆕 · <a href="https://x.com/KanaWorks_AI">@KanaWorks_AI</a> · ♥ 37 · <a href="https://x.com/KanaWorks_AI/status/2121221880673972463">▶ Video</a></sub><br>
 <sub>A free Blender add-on that turns a bare hill into an anime-style meadow in one click, with grass, flowers, clouds, trees, seasons and styles.</sub>
+</td>
+<td width="33%" valign="top">
+<a href="https://ai.itokoba.com/ichimai/"><img src="../assets/gifs/260.gif" width="100%" alt="Ichimai — how far can one page go"></a><br>
+<b><a href="https://ai.itokoba.com/ichimai/">Ichimai — how far can one page go</a></b><br>
+<sub>🆕 · <a href="https://x.com/hideki_climax">@hideki_climax</a> · ♥ 11 · <a href="https://x.com/hideki_climax/status/2120165464722809190">▶ Video</a></sub><br>
+<sub>Just one instruction: "make the strongest static web page that shows what you can do now".</sub>
 </td>
 <td width="33%" valign="top">
 <a href="https://jwt-designs-preview.noone-697.workers.dev/"><img src="../assets/gifs/046.gif" width="100%" alt="20 Landing Page Redesigns"></a><br>
@@ -163,6 +169,8 @@ The main page only shows posts with 100+ likes; this page has every entry in thi
 <sub><a href="https://x.com/Tmeister">@Tmeister</a> · ♥ 9 · <a href="https://x.com/Tmeister/status/2119983842841018482">Post</a></sub><br>
 <sub>20 alternatives to a JWT plugin's landing page from one simple prompt.</sub>
 </td>
+</tr>
+<tr>
 <td width="33%" valign="top">
 <a href="https://www.asumacodes.xyz/arena/driftwood"><img src="../assets/gifs/047.gif" width="100%" alt="Driftwood (Fable vs Opus)"></a><br>
 <b><a href="https://www.asumacodes.xyz/arena/driftwood">Driftwood (Fable vs Opus)</a></b><br>
@@ -170,8 +178,6 @@ The main page only shows posts with 100+ likes; this page has every entry in thi
 <sub>Same prompt, one shot each, both pages live. Also: a Pomodoro focus room and a bug hunt.</sub><br>
 <sub><a href="https://www.asumacodes.xyz/arena/focus-room">Focus room</a> · <a href="Bug 对比 https://www.asumacodes.xyz/arena/bug-hunt">Bug hunt</a> · <a href="https://www.asumacodes.xyz/arena">Series</a></sub>
 </td>
-</tr>
-<tr>
 <td width="33%" valign="top">
 <a href="https://claude.ai/artifact/TiymxxFXzMo7xhWUaecbzk"><img src="https://pbs.twimg.com/media/HWwrmvIb0AAMLPK.jpg?name=small" width="100%" alt="House Design Proposal"></a><br>
 <b><a href="https://claude.ai/artifact/TiymxxFXzMo7xhWUaecbzk">House Design Proposal</a></b><br>
@@ -184,20 +190,28 @@ The main page only shows posts with 100+ likes; this page has every entry in thi
 <sub><a href="https://x.com/BretKerr">@BretKerr</a> · ♥ 5 · <a href="https://x.com/BretKerr/status/2119995870854988177">▶ Video</a></sub><br>
 <sub>Every hit reverberates across the bay.</sub>
 </td>
+</tr>
+<tr>
+<td width="33%" valign="top">
+<a href="https://clockendbader.github.io/fable-builds/heartbeat/"><img src="../assets/gifs/259.gif" width="100%" alt="One Heartbeat"></a><br>
+<b><a href="https://clockendbader.github.io/fable-builds/heartbeat/">One Heartbeat</a></b><br>
+<sub>🆕 · <a href="https://x.com/clockendbader">@clockendbader</a> · ♥ 5 · <a href="https://x.com/clockendbader/status/2121246903207961069">Post</a></sub><br>
+<sub>A beating 3D heart with live ECG and pressure traces and heart sounds; compare normal, AF, heart block and aortic stenosis. It wrote its own tests too.</sub>
+</td>
 <td width="33%" valign="top">
 <a href="https://claude.ai/artifact/Pk6rHPyRwfShT37kiU1sT6"><img src="../assets/gifs/041.gif" width="100%" alt="Dub Techno Track + Visualizer"></a><br>
 <b><a href="https://claude.ai/artifact/Pk6rHPyRwfShT37kiU1sT6">Dub Techno Track + Visualizer</a></b><br>
 <sub><a href="https://x.com/bartdecrem">@bartdecrem</a> · ♥ 4 · <a href="https://x.com/bartdecrem/status/2119926997422133417">Post</a></sub><br>
 <sub>One shot.</sub>
 </td>
-</tr>
-<tr>
 <td width="33%" valign="top">
 <a href="https://claude.ai/artifact/5ufHvxgvXTf5YgQeTR8TbG"><img src="../assets/gifs/044.gif" width="100%" alt="Ramayana Family Tree"></a><br>
 <b><a href="https://claude.ai/artifact/5ufHvxgvXTf5YgQeTR8TbG">Ramayana Family Tree</a></b><br>
 <sub><a href="https://x.com/chhavsz">@chhavsz</a> · ♥ 2 · <a href="https://x.com/chhavsz/status/2119942973958078785">Post</a></sub><br>
 <sub>The lead actor's ties by blood and marriage to 65 Bollywood stars.</sub>
 </td>
+</tr>
+<tr>
 <td width="33%" valign="top">
 <a href="https://claude.ai/artifact/4aEy6FtUi7jrm9U7uYgp8K"><img src="../assets/gifs/042.gif" width="100%" alt="Demoscene Demo"></a><br>
 <b><a href="https://claude.ai/artifact/4aEy6FtUi7jrm9U7uYgp8K">Demoscene Demo</a></b><br>

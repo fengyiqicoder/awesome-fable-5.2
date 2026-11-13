@@ -1,4 +1,4 @@
-# 🧰 网页与工具 · 全部 30 个
+# 🧰 网页与工具 · 全部 32 个
 
 [← 回到首页](../README.zh-CN.md) · [English](web-and-tools.md) · **简体中文**
 
@@ -22,7 +22,7 @@
 <td width="33%" valign="top">
 <a href="https://claude.ai/artifact/N6bSgS4ZH5ifFQfg8sm4dv"><img src="../assets/gifs/217.gif" width="100%" alt="House Bangers 浩室舞曲生成器"></a><br>
 <b><a href="https://claude.ai/artifact/N6bSgS4ZH5ifFQfg8sm4dv">House Bangers 浩室舞曲生成器</a></b><br>
-<sub>🆕 · <a href="https://x.com/deedydas">@deedydas</a> · ♥ 2.6k · <a href="https://x.com/deedydas/status/2120905625852936318">▶ 视频</a></sub><br>
+<sub>🆕 · <a href="https://x.com/deedydas">@deedydas</a> · ♥ 2.8k · <a href="https://x.com/deedydas/status/2120905625852936318">▶ 视频</a></sub><br>
 <sub>学完乐理后每种乐器试上千种节奏挑最好的，编成 72 小节的浩室舞曲，要开声音</sub>
 </td>
 </tr>
@@ -100,7 +100,7 @@
 <td width="33%" valign="top">
 <a href="https://gsplan.org"><img src="../assets/gifs/206.gif" width="100%" alt="加拉塔萨雷球场座位视角"></a><br>
 <b><a href="https://gsplan.org">加拉塔萨雷球场座位视角</a></b><br>
-<sub>🆕 · <a href="https://x.com/molenbeek84">@molenbeek84</a> · ♥ 420 · <a href="https://x.com/molenbeek84/status/2120847639411331097">原帖</a></sub><br>
+<sub>🆕 · <a href="https://x.com/molenbeek84">@molenbeek84</a> · ♥ 422 · <a href="https://x.com/molenbeek84/status/2120847639411331097">原帖</a></sub><br>
 <sub>买票前看 RAMS Park 每个看台位置看到的球场</sub>
 </td>
 <td width="33%" valign="top">
@@ -154,8 +154,14 @@
 <td width="33%" valign="top">
 <a href="https://github.com/kanaworksai-hue/harappa"><img src="../assets/gifs/250.gif" width="100%" alt="Harappa 原野生成 Blender 插件"></a><br>
 <b><a href="https://github.com/kanaworksai-hue/harappa">Harappa 原野生成 Blender 插件</a></b><br>
-<sub>🆕 · <a href="https://x.com/KanaWorks_AI">@KanaWorks_AI</a> · ♥ 21 · <a href="https://x.com/KanaWorks_AI/status/2121221880673972463">▶ 视频</a></sub><br>
+<sub>🆕 · <a href="https://x.com/KanaWorks_AI">@KanaWorks_AI</a> · ♥ 37 · <a href="https://x.com/KanaWorks_AI/status/2121221880673972463">▶ 视频</a></sub><br>
 <sub>免费 Blender 插件，一键把光秃的山丘变成动画背景式的原野：草、花、云、树、季节和画风都能换</sub>
+</td>
+<td width="33%" valign="top">
+<a href="https://ai.itokoba.com/ichimai/"><img src="../assets/gifs/260.gif" width="100%" alt="一枚：一页能做到什么程度"></a><br>
+<b><a href="https://ai.itokoba.com/ichimai/">一枚：一页能做到什么程度</a></b><br>
+<sub>🆕 · <a href="https://x.com/hideki_climax">@hideki_climax</a> · ♥ 11 · <a href="https://x.com/hideki_climax/status/2120165464722809190">▶ 视频</a></sub><br>
+<sub>只说了一句「做一个展示你现在实力的最强静态网页」</sub>
 </td>
 <td width="33%" valign="top">
 <a href="https://jwt-designs-preview.noone-697.workers.dev/"><img src="../assets/gifs/046.gif" width="100%" alt="JWT 落地页 20 种改版"></a><br>
@@ -163,6 +169,8 @@
 <sub><a href="https://x.com/Tmeister">@Tmeister</a> · ♥ 9 · <a href="https://x.com/Tmeister/status/2119983842841018482">原帖</a></sub><br>
 <sub>一条简单提示词出 20 版</sub>
 </td>
+</tr>
+<tr>
 <td width="33%" valign="top">
 <a href="https://www.asumacodes.xyz/arena/driftwood"><img src="../assets/gifs/047.gif" width="100%" alt="Driftwood 落地页（Fable 对 Opus）"></a><br>
 <b><a href="https://www.asumacodes.xyz/arena/driftwood">Driftwood 落地页（Fable 对 Opus）</a></b><br>
@@ -170,8 +178,6 @@
 <sub>同提示词一次生成，两版都在线</sub><br>
 <sub><a href="https://www.asumacodes.xyz/arena/focus-room">番茄钟专注室</a> · <a href="Bug 对比 https://www.asumacodes.xyz/arena/bug-hunt">找</a> · <a href="https://www.asumacodes.xyz/arena">系列首页</a></sub>
 </td>
-</tr>
-<tr>
 <td width="33%" valign="top">
 <a href="https://claude.ai/artifact/TiymxxFXzMo7xhWUaecbzk"><img src="https://pbs.twimg.com/media/HWwrmvIb0AAMLPK.jpg?name=small" width="100%" alt="独栋住宅设计提案书"></a><br>
 <b><a href="https://claude.ai/artifact/TiymxxFXzMo7xhWUaecbzk">独栋住宅设计提案书</a></b><br>
@@ -184,20 +190,28 @@
 <sub><a href="https://x.com/BretKerr">@BretKerr</a> · ♥ 5 · <a href="https://x.com/BretKerr/status/2119995870854988177">▶ 视频</a></sub><br>
 <sub>每次敲击海湾都有混响</sub>
 </td>
+</tr>
+<tr>
+<td width="33%" valign="top">
+<a href="https://clockendbader.github.io/fable-builds/heartbeat/"><img src="../assets/gifs/259.gif" width="100%" alt="One Heartbeat 跳动的 3D 心脏"></a><br>
+<b><a href="https://clockendbader.github.io/fable-builds/heartbeat/">One Heartbeat 跳动的 3D 心脏</a></b><br>
+<sub>🆕 · <a href="https://x.com/clockendbader">@clockendbader</a> · ♥ 5 · <a href="https://x.com/clockendbader/status/2121246903207961069">原帖</a></sub><br>
+<sub>实时心电和压力曲线、心音，可对比正常、房颤、传导阻滞和主动脉瓣狭窄；还自己写了测试</sub>
+</td>
 <td width="33%" valign="top">
 <a href="https://claude.ai/artifact/Pk6rHPyRwfShT37kiU1sT6"><img src="../assets/gifs/041.gif" width="100%" alt="Dub Techno 曲子 + 可视化"></a><br>
 <b><a href="https://claude.ai/artifact/Pk6rHPyRwfShT37kiU1sT6">Dub Techno 曲子 + 可视化</a></b><br>
 <sub><a href="https://x.com/bartdecrem">@bartdecrem</a> · ♥ 4 · <a href="https://x.com/bartdecrem/status/2119926997422133417">原帖</a></sub><br>
 <sub>一次生成</sub>
 </td>
-</tr>
-<tr>
 <td width="33%" valign="top">
 <a href="https://claude.ai/artifact/5ufHvxgvXTf5YgQeTR8TbG"><img src="../assets/gifs/044.gif" width="100%" alt="《罗摩衍那》男主的宝莱坞家谱"></a><br>
 <b><a href="https://claude.ai/artifact/5ufHvxgvXTf5YgQeTR8TbG">《罗摩衍那》男主的宝莱坞家谱</a></b><br>
 <sub><a href="https://x.com/chhavsz">@chhavsz</a> · ♥ 2 · <a href="https://x.com/chhavsz/status/2119942973958078785">原帖</a></sub><br>
 <sub>血缘婚姻牵出 65 位明星</sub>
 </td>
+</tr>
+<tr>
 <td width="33%" valign="top">
 <a href="https://claude.ai/artifact/4aEy6FtUi7jrm9U7uYgp8K"><img src="../assets/gifs/042.gif" width="100%" alt="Demoscene 浏览器演示"></a><br>
 <b><a href="https://claude.ai/artifact/4aEy6FtUi7jrm9U7uYgp8K">Demoscene 浏览器演示</a></b><br>

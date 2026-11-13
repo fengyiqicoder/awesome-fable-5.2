@@ -9,7 +9,7 @@ The main page only shows posts with 100+ likes; this page has every entry in thi
 <td width="33%" valign="top">
 <a href="https://github.com/ChetasLua/crimson-loong"><img src="../assets/gifs/246.gif" width="100%" alt="Crimson Loong"></a><br>
 <b><a href="https://github.com/ChetasLua/crimson-loong">Crimson Loong</a></b><br>
-<sub>🆕 · <a href="https://x.com/chetaslua">@chetaslua</a> · ♥ 998 · <a href="https://x.com/chetaslua/status/2121176151234330707">▶ Video</a></sub><br>
+<sub>🆕 · <a href="https://x.com/chetaslua">@chetaslua</a> · ♥ 1.3k · <a href="https://x.com/chetaslua/status/2121176151234330707">▶ Video</a></sub><br>
 <sub>A 90-second dragon film in three.js, pure code with no external assets.</sub>
 </td>
 <td width="33%" valign="top">

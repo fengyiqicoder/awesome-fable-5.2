@@ -9,7 +9,7 @@
 <td width="33%" valign="top">
 <a href="https://github.com/ChetasLua/crimson-loong"><img src="../assets/gifs/246.gif" width="100%" alt="Crimson Loong 赤龙：90 秒巨龙短片"></a><br>
 <b><a href="https://github.com/ChetasLua/crimson-loong">Crimson Loong 赤龙：90 秒巨龙短片</a></b><br>
-<sub>🆕 · <a href="https://x.com/chetaslua">@chetaslua</a> · ♥ 998 · <a href="https://x.com/chetaslua/status/2121176151234330707">▶ 视频</a></sub><br>
+<sub>🆕 · <a href="https://x.com/chetaslua">@chetaslua</a> · ♥ 1.3k · <a href="https://x.com/chetaslua/status/2121176151234330707">▶ 视频</a></sub><br>
 <sub>three.js 纯代码的 90 秒巨龙短片，没有任何外部素材</sub>
 </td>
 <td width="33%" valign="top">

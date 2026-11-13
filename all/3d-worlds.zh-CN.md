@@ -41,7 +41,7 @@
 <td width="33%" valign="top">
 <a href="https://github.com/Leonxlnx/room-at-dawn"><img src="../assets/gifs/219.gif" width="100%" alt="Room at Dawn 黎明的卧室"></a><br>
 <b><a href="https://github.com/Leonxlnx/room-at-dawn">Room at Dawn 黎明的卧室</a></b><br>
-<sub>🆕 · <a href="https://x.com/LexnLin">@LexnLin</a> · ♥ 760 · <a href="https://x.com/LexnLin/status/2120910879361548565">▶ 视频</a></sub><br>
+<sub>🆕 · <a href="https://x.com/LexnLin">@LexnLin</a> · ♥ 783 · <a href="https://x.com/LexnLin/status/2120910879361548565">▶ 视频</a></sub><br>
 <sub>three.js 写的写实卧室，没用任何现成模型和贴图，全是代码生成</sub>
 </td>
 </tr>
@@ -56,7 +56,7 @@
 <td width="33%" valign="top">
 <a href="https://supernatural-ft.vercel.app/fire-in-ice"><img src="../assets/gifs/221.gif" width="100%" alt="Fire in Ice 冰中之火"></a><br>
 <b><a href="https://supernatural-ft.vercel.app/fire-in-ice">Fire in Ice 冰中之火</a></b><br>
-<sub>🆕 · <a href="https://x.com/tkm_hmng8">@tkm_hmng8</a> · ♥ 349 · <a href="https://x.com/tkm_hmng8/status/2120813043101946324">▶ 视频</a></sub><br>
+<sub>🆕 · <a href="https://x.com/tkm_hmng8">@tkm_hmng8</a> · ♥ 372 · <a href="https://x.com/tkm_hmng8/status/2120813043101946324">▶ 视频</a></sub><br>
 <sub>冰块里燃烧的火焰，不用 three.js，纯 WebGPU 写的写实效果</sub>
 </td>
 <td width="33%" valign="top">
@@ -68,16 +68,16 @@
 </tr>
 <tr>
 <td width="33%" valign="top">
+<a href="https://samg-coder.github.io/solstice-garden/"><img src="../assets/gifs/248.gif" width="100%" alt="The Garden 夏至花园"></a><br>
+<b><a href="https://samg-coder.github.io/solstice-garden/">The Garden 夏至花园</a></b><br>
+<sub>🆕 · <a href="https://x.com/SamGCoder">@SamGCoder</a> · ♥ 219 · <a href="https://x.com/SamGCoder/status/2120943068321054975">▶ 视频</a></sub><br>
+<sub>Rust 编译成 WASM、用 WebGPU 渲染的花园</sub>
+</td>
+<td width="33%" valign="top">
 <a href="https://claude.ai/artifact/R6YBDkAm2GjAC5A65D9djx"><img src="../assets/gifs/142.gif" width="100%" alt="能走进去的 Claude 演示间"></a><br>
 <b><a href="https://claude.ai/artifact/R6YBDkAm2GjAC5A65D9djx">能走进去的 Claude 演示间</a></b><br>
 <sub>🆕 · <a href="https://x.com/dfeinition">@dfeinition</a> · ♥ 212 · <a href="https://x.com/dfeinition/status/2120330644261589051">▶ 视频</a></sub><br>
 <sub>受 @rileybrown 启发；走进房间，坐到任意一台电脑前</sub>
-</td>
-<td width="33%" valign="top">
-<a href="https://samg-coder.github.io/solstice-garden/"><img src="../assets/gifs/248.gif" width="100%" alt="The Garden 夏至花园"></a><br>
-<b><a href="https://samg-coder.github.io/solstice-garden/">The Garden 夏至花园</a></b><br>
-<sub>🆕 · <a href="https://x.com/SamGCoder">@SamGCoder</a> · ♥ 211 · <a href="https://x.com/SamGCoder/status/2120943068321054975">▶ 视频</a></sub><br>
-<sub>Rust 编译成 WASM、用 WebGPU 渲染的花园</sub>
 </td>
 <td width="33%" valign="top">
 <a href="https://claude.ai/artifact/2PBXuQAnWDS2NpiPXHNLfL"><img src="../assets/gifs/028.gif" width="100%" alt="果冻虎鲸材质研究"></a><br>
