@@ -20,13 +20,6 @@ Claude Fable 5.2 est sorti le 2026-11-09. En quelques jours, X s'est rempli de j
 
 Chaque entrée a un aperçu GIF de quelques secondes, crédite son créateur et renvoie à la publication d'origine. 🆕 signale les ajouts des derniers jours. Cette page montre les publications avec 100+ « j'aime » ; le reste est dans « Voir tout » en fin de section. Si c'est utile, une ⭐ aide à continuer : la liste est mise à jour chaque jour.
 
-## 📰 Nouveautés
-
-- **2026-11-14** : +8 œuvres et +1 démos vidéo.
-- **2026-11-13** : +41 œuvres et +24 démos vidéo.
-- **2026-11-12** : +45 œuvres et +26 démos vidéo.
-- **2026-11-10** : Première version : 57 œuvres + 61 démos vidéo, chacune avec un aperçu GIF.
-
 ## 📑 Sommaire
 
 - [⭐ Les plus aimés](#-les-plus-aimés)
@@ -1345,3 +1338,10 @@ Toutes les œuvres appartiennent à leurs créateurs. Ce dépôt se contente de 
 ## License
 
 [CC0 1.0](LICENSE) : la liste elle-même est dans le domaine public.
+
+## 📰 Nouveautés
+
+- **2026-11-14** : +8 œuvres et +1 démos vidéo.
+- **2026-11-13** : +41 œuvres et +24 démos vidéo.
+- **2026-11-12** : +45 œuvres et +26 démos vidéo.
+- **2026-11-10** : Première version : 57 œuvres + 61 démos vidéo, chacune avec un aperçu GIF.

@@ -20,14 +20,6 @@ Claude Fable 5.2 shipped on 2026-11-09. Within days X filled up with games, 3D w
 
 Every entry has a few-second GIF preview, credits its creator and links back to the original post for the full video. 🆕 marks entries added in the last few days. This page shows posts with 100+ likes; the rest are one click away under "See all" at the end of each section. If this helps, a ⭐ keeps it coming — the list is updated daily.
 
-## 📰 News
-
-- **2026-11-14**: +8 live works and +1 video demos. 
-- **2026-11-13**: +41 live works and +24 video demos. 
-- **2026-11-12**: +45 live works and +26 video demos. Previews are about one seventh of their old size (about 11 MB for the page), so it loads much faster.
-- **2026-11-10**: Every entry now has a GIF preview.
-- **2026-11-10**: First release — 57 live works + 61 video demos.
-
 ## 📑 Contents
 
 - [⭐ Most Loved](#-most-loved)
@@ -1346,3 +1338,11 @@ All works belong to their creators. This repository only indexes them, keeping s
 ## License
 
 [CC0 1.0](LICENSE) — the list itself is public domain.
+
+## 📰 News
+
+- **2026-11-14**: +8 live works and +1 video demos. 
+- **2026-11-13**: +41 live works and +24 video demos. 
+- **2026-11-12**: +45 live works and +26 video demos. Previews are about one seventh of their old size (about 11 MB for the page), so it loads much faster.
+- **2026-11-10**: Every entry now has a GIF preview.
+- **2026-11-10**: First release — 57 live works + 61 video demos.

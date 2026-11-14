@@ -20,13 +20,6 @@ Claude Fable 5.2 erschien am 2026-11-09. Innerhalb weniger Tage war X voller Spi
 
 Jeder Eintrag hat eine kurze GIF-Vorschau, nennt den Creator und verlinkt den Originalpost. 🆕 markiert Einträge der letzten Tage. Diese Seite zeigt Posts mit 100+ Likes; der Rest ist unter „Alle ansehen" am Ende jedes Abschnitts. Wenn es dir hilft, hält ein ⭐ das Projekt am Laufen – die Liste wird täglich aktualisiert.
 
-## 📰 Neuigkeiten
-
-- **2026-11-14**: +8 Live-Werke und +1 Video-Demos.
-- **2026-11-13**: +41 Live-Werke und +24 Video-Demos.
-- **2026-11-12**: +45 Live-Werke und +26 Video-Demos.
-- **2026-11-10**: Erste Version – 57 Live-Werke + 61 Video-Demos, jeweils mit GIF-Vorschau.
-
 ## 📑 Inhalt
 
 - [⭐ Am beliebtesten](#-am-beliebtesten)
@@ -1345,3 +1338,10 @@ Alle Werke gehören ihren Creators. Dieses Repository indexiert sie nur, mit kur
 ## License
 
 [CC0 1.0](LICENSE) – die Liste selbst ist gemeinfrei.
+
+## 📰 Neuigkeiten
+
+- **2026-11-14**: +8 Live-Werke und +1 Video-Demos.
+- **2026-11-13**: +41 Live-Werke und +24 Video-Demos.
+- **2026-11-12**: +45 Live-Werke und +26 Video-Demos.
+- **2026-11-10**: Erste Version – 57 Live-Werke + 61 Video-Demos, jeweils mit GIF-Vorschau.

@@ -20,13 +20,6 @@ Claude Fable 5.2 salió el 2026-11-09. En pocos días X se llenó de juegos, mun
 
 Cada entrada tiene una vista previa en GIF de unos segundos, el crédito a su creador y un enlace a la publicación original. 🆕 marca lo añadido en los últimos días. Esta página muestra publicaciones con 100+ «me gusta»; el resto está en «Ver todo» al final de cada sección. Si te sirve, una ⭐ ayuda a seguir: la lista se actualiza a diario.
 
-## 📰 Novedades
-
-- **2026-11-14**: +8 obras y +1 demos en video.
-- **2026-11-13**: +41 obras y +24 demos en video.
-- **2026-11-12**: +45 obras y +26 demos en video.
-- **2026-11-10**: Primera versión: 57 obras + 61 demos en video, cada una con vista previa en GIF.
-
 ## 📑 Contenido
 
 - [⭐ Los más queridos](#-los-más-queridos)
@@ -1345,3 +1338,10 @@ Todas las obras pertenecen a sus creadores. Este repositorio solo las indexa, co
 ## License
 
 [CC0 1.0](LICENSE): la lista en sí es de dominio público.
+
+## 📰 Novedades
+
+- **2026-11-14**: +8 obras y +1 demos en video.
+- **2026-11-13**: +41 obras y +24 demos en video.
+- **2026-11-12**: +45 obras y +26 demos en video.
+- **2026-11-10**: Primera versión: 57 obras + 61 demos en video, cada una con vista previa en GIF.

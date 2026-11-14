@@ -20,13 +20,6 @@ O Claude Fable 5.2 saiu em 2026-11-09. Em poucos dias o X se encheu de jogos, mu
 
 Cada item tem uma prévia em GIF de poucos segundos, crédito ao criador e link para o post original. 🆕 marca o que entrou nos últimos dias. Esta página mostra posts com 100+ curtidas; o resto está em "Ver todos" no fim de cada seção. Se ajudou, uma ⭐ faz a lista continuar — ela é atualizada todo dia.
 
-## 📰 Novidades
-
-- **2026-11-14**: +8 obras e +1 demos em vídeo.
-- **2026-11-13**: +41 obras e +24 demos em vídeo.
-- **2026-11-12**: +45 obras e +26 demos em vídeo.
-- **2026-11-10**: Primeira versão: 57 obras + 61 demos em vídeo, cada uma com prévia em GIF.
-
 ## 📑 Conteúdo
 
 - [⭐ Os mais curtidos](#-os-mais-curtidos)
@@ -1345,3 +1338,10 @@ Todas as obras pertencem aos criadores. Este repositório só as indexa, com pr�
 ## License
 
 [CC0 1.0](LICENSE): a lista em si é de domínio público.
+
+## 📰 Novidades
+
+- **2026-11-14**: +8 obras e +1 demos em vídeo.
+- **2026-11-13**: +41 obras e +24 demos em vídeo.
+- **2026-11-12**: +45 obras e +26 demos em vídeo.
+- **2026-11-10**: Primeira versão: 57 obras + 61 demos em vídeo, cada uma com prévia em GIF.
