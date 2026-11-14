@@ -24,7 +24,7 @@
 <td width="33%" valign="top">
 <a href="https://claude.ai/artifact/N6bSgS4ZH5ifFQfg8sm4dv"><img src="../assets/gifs/217.gif" width="100%" alt="House Bangers 浩室舞曲生成器"></a><br>
 <b><a href="https://claude.ai/artifact/N6bSgS4ZH5ifFQfg8sm4dv">House Bangers 浩室舞曲生成器</a></b><br>
-<sub>🆕 · <a href="https://x.com/deedydas">@deedydas</a> · ♥ 3.7k · <a href="https://x.com/deedydas/status/2120905625852936318">▶ 视频</a></sub><br>
+<sub>🆕 · <a href="https://x.com/deedydas">@deedydas</a> · ♥ 3.9k · <a href="https://x.com/deedydas/status/2120905625852936318">▶ 视频</a></sub><br>
 <sub>学完乐理后每种乐器试上千种节奏挑最好的，编成 72 小节的浩室舞曲，要开声音</sub><br>
 <sub><a href="https://fablelist.000ooo.ooo/zh/prompts/?w=house-bangers-generator&ref=gh"><b>✨ 获取提示词</b></a></sub>
 </td>
@@ -72,7 +72,7 @@
 <td width="33%" valign="top">
 <a href="https://github.com/AlexAtFF/pulp-daw-public"><img src="../assets/gifs/204.gif" width="100%" alt="PULP AI 原生音频工作站"></a><br>
 <b><a href="https://github.com/AlexAtFF/pulp-daw-public">PULP AI 原生音频工作站</a></b><br>
-<sub>🆕 · <a href="https://x.com/The_Alex">@The_Alex</a> · ♥ 940 · <a href="https://x.com/The_Alex/status/2119917226769985785">▶ 视频</a></sub><br>
+<sub>🆕 · <a href="https://x.com/The_Alex">@The_Alex</a> · ♥ 941 · <a href="https://x.com/The_Alex/status/2119917226769985785">▶ 视频</a></sub><br>
 <sub>Windows 原生 DAW；让 Claude 做音乐时它会自己打开这个工作站编曲</sub><br>
 <sub><a href="https://fablelist.000ooo.ooo/zh/prompts/?w=pulp-an-ai-native-daw&ref=gh"><b>✨ 获取提示词</b></a></sub>
 </td>
@@ -81,7 +81,7 @@
 <td width="33%" valign="top">
 <a href="https://frontier.every.to/experiments/ambient-town"><img src="../assets/gifs/148.gif" width="100%" alt="Ambient Town 氛围音乐工作站"></a><br>
 <b><a href="https://frontier.every.to/experiments/ambient-town">Ambient Town 氛围音乐工作站</a></b><br>
-<sub>🆕 · <a href="https://x.com/kieranklaassen">@kieranklaassen</a> · ♥ 891 · <a href="https://x.com/kieranklaassen/status/2119868196773929160">▶ 视频</a></sub><br>
+<sub>🆕 · <a href="https://x.com/kieranklaassen">@kieranklaassen</a> · ♥ 892 · <a href="https://x.com/kieranklaassen/status/2119868196773929160">▶ 视频</a></sub><br>
 <sub>前电影配乐师花一周晚上做的 DAW：支持 Ableton Push、多路麦克风、效果器，还有一起作曲的 Agent；页面里点 Try it</sub><br>
 <sub><a href="https://fablelist.000ooo.ooo/zh/prompts/?w=ambient-town&ref=gh"><b>✨ 获取提示词</b></a></sub>
 </td>
@@ -95,7 +95,7 @@
 <td width="33%" valign="top">
 <a href="https://v2.video/riley/the-history-of-writing/v1"><img src="../assets/gifs/039.gif" width="100%" alt="写作史（交互片）"></a><br>
 <b><a href="https://v2.video/riley/the-history-of-writing/v1">写作史（交互片）</a></b><br>
-<sub><a href="https://x.com/rileybrown">@rileybrown</a> · ♥ 665 · <a href="https://x.com/rileybrown/status/2119946022767980985">▶ 视频</a></sub><br>
+<sub><a href="https://x.com/rileybrown">@rileybrown</a> · ♥ 667 · <a href="https://x.com/rileybrown/status/2119946022767980985">▶ 视频</a></sub><br>
 <sub>一条提示词</sub><br>
 <sub><a href="https://x.com/rileybrown/status/2119946022767980985">📝 作者公开的提示词（免费）</a></sub>
 </td>
@@ -104,7 +104,7 @@
 <td width="33%" valign="top">
 <a href="https://where-is-everybody-fermi.netlify.app/"><img src="../assets/gifs/146.gif" width="100%" alt="Where is everybody? 费米悖论调查"></a><br>
 <b><a href="https://where-is-everybody-fermi.netlify.app/">Where is everybody? 费米悖论调查</a></b><br>
-<sub>🆕 · <a href="https://x.com/emollick">@emollick</a> · ♥ 453 · <a href="https://x.com/emollick/status/2120359214157603139">原帖</a></sub><br>
+<sub>🆕 · <a href="https://x.com/emollick">@emollick</a> · ♥ 454 · <a href="https://x.com/emollick/status/2120359214157603139">原帖</a></sub><br>
 <sub>让它「解决费米悖论」：整理数据、检验假说、接受批评后给出最可能的答案</sub><br>
 <sub><a href="https://resolving-the-great-silence.netlify.app/">Gemini版</a></sub><br>
 <sub><a href="https://x.com/emollick/status/2120359214157603139">📝 作者公开的提示词（免费）</a></sub>
@@ -119,7 +119,7 @@
 <td width="33%" valign="top">
 <a href="https://origamihelper.com"><img src="../assets/gifs/220.gif" width="100%" alt="Origami Helper 3D 折纸教程"></a><br>
 <b><a href="https://origamihelper.com">Origami Helper 3D 折纸教程</a></b><br>
-<sub>🆕 · <a href="https://x.com/ryoma_nakajima">@ryoma_nakajima</a> · ♥ 217 · <a href="https://x.com/ryoma_nakajima/status/2120472383241011323">▶ 视频</a></sub><br>
+<sub>🆕 · <a href="https://x.com/ryoma_nakajima">@ryoma_nakajima</a> · ♥ 218 · <a href="https://x.com/ryoma_nakajima/status/2120472383241011323">▶ 视频</a></sub><br>
 <sub>3D 看折纸步骤，可以任意角度转，支持 AR，免费免注册，一天做完</sub><br>
 <sub><a href="https://fablelist.000ooo.ooo/zh/prompts/?w=origami-helper&ref=gh"><b>✨ 获取提示词</b></a></sub>
 </td>
@@ -155,27 +155,27 @@
 <sub><a href="https://fablelist.000ooo.ooo/zh/prompts/?w=nikechan-com-redesign&ref=gh"><b>✨ 获取提示词</b></a></sub>
 </td>
 <td width="33%" valign="top">
+<a href="https://clockendbader.github.io/fable-builds/heartbeat/"><img src="../assets/gifs/259.gif" width="100%" alt="One Heartbeat 跳动的 3D 心脏"></a><br>
+<b><a href="https://clockendbader.github.io/fable-builds/heartbeat/">One Heartbeat 跳动的 3D 心脏</a></b><br>
+<sub>🆕 · <a href="https://x.com/clockendbader">@clockendbader</a> · ♥ 100 · <a href="https://x.com/clockendbader/status/2121246903207961069">原帖</a></sub><br>
+<sub>实时心电和压力曲线、心音，可对比正常、房颤、传导阻滞和主动脉瓣狭窄；还自己写了测试</sub><br>
+<sub><a href="https://fablelist.000ooo.ooo/zh/prompts/?w=one-heartbeat&ref=gh"><b>✨ 获取提示词</b></a></sub>
+</td>
+<td width="33%" valign="top">
 <a href="https://github.com/kanaworksai-hue/harappa"><img src="../assets/gifs/250.gif" width="100%" alt="Harappa 原野生成 Blender 插件"></a><br>
 <b><a href="https://github.com/kanaworksai-hue/harappa">Harappa 原野生成 Blender 插件</a></b><br>
-<sub>🆕 · <a href="https://x.com/KanaWorks_AI">@KanaWorks_AI</a> · ♥ 64 · <a href="https://x.com/KanaWorks_AI/status/2121221880673972463">▶ 视频</a></sub><br>
+<sub>🆕 · <a href="https://x.com/KanaWorks_AI">@KanaWorks_AI</a> · ♥ 75 · <a href="https://x.com/KanaWorks_AI/status/2121221880673972463">▶ 视频</a></sub><br>
 <sub>免费 Blender 插件，一键把光秃的山丘变成动画背景式的原野：草、花、云、树、季节和画风都能换</sub><br>
 <sub><a href="https://fablelist.000ooo.ooo/zh/prompts/?w=harappa-blender-add-on&ref=gh"><b>✨ 获取提示词</b></a></sub>
 </td>
+</tr>
+<tr>
 <td width="33%" valign="top">
 <a href="https://tetriss22.github.io/pc-build-lab/"><img src="../assets/gifs/147.gif" width="100%" alt="PC Build Lab 装机实验室"></a><br>
 <b><a href="https://tetriss22.github.io/pc-build-lab/">PC Build Lab 装机实验室</a></b><br>
 <sub>🆕 · <a href="https://x.com/Tetriss112">@Tetriss112</a> · ♥ 51 · <a href="https://x.com/Tetriss112/status/2120520587411935288">▶ 视频</a></sub><br>
 <sub>在浏览器里把一台 $1,279 的主机一件件装起来，8 个步骤，可以故意装错</sub><br>
 <sub><a href="https://fablelist.000ooo.ooo/zh/prompts/?w=pc-build-lab&ref=gh"><b>✨ 获取提示词</b></a></sub>
-</td>
-</tr>
-<tr>
-<td width="33%" valign="top">
-<a href="https://clockendbader.github.io/fable-builds/heartbeat/"><img src="../assets/gifs/259.gif" width="100%" alt="One Heartbeat 跳动的 3D 心脏"></a><br>
-<b><a href="https://clockendbader.github.io/fable-builds/heartbeat/">One Heartbeat 跳动的 3D 心脏</a></b><br>
-<sub>🆕 · <a href="https://x.com/clockendbader">@clockendbader</a> · ♥ 45 · <a href="https://x.com/clockendbader/status/2121246903207961069">原帖</a></sub><br>
-<sub>实时心电和压力曲线、心音，可对比正常、房颤、传导阻滞和主动脉瓣狭窄；还自己写了测试</sub><br>
-<sub><a href="https://fablelist.000ooo.ooo/zh/prompts/?w=one-heartbeat&ref=gh"><b>✨ 获取提示词</b></a></sub>
 </td>
 <td width="33%" valign="top">
 <a href="https://sael.net/seat-arena"><img src="../assets/gifs/182.gif" width="100%" alt="Best Seat in the House 演唱会座位视角"></a><br>

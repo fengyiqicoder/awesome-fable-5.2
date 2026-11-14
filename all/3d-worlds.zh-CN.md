@@ -21,32 +21,32 @@
 <sub><a href="https://fablelist.000ooo.ooo/zh/prompts/?w=painted-valley&ref=gh"><b>✨ 获取提示词</b></a></sub>
 </td>
 <td width="33%" valign="top">
-<a href="https://indiranagar-live.vercel.app"><img src="../assets/gifs/024.gif" width="100%" alt="印度班加罗尔 Indiranagar 1 平方公里"></a><br>
-<b><a href="https://indiranagar-live.vercel.app">印度班加罗尔 Indiranagar 1 平方公里</a></b><br>
-<sub><a href="https://x.com/anshu4321">@anshu4321</a> · ♥ 1.2k · <a href="https://x.com/anshu4321/status/2119938067758772403">▶ 视频</a></sub><br>
-<sub>用他们的地图数据 + 一条提示词</sub><br>
-<sub><a href="https://fablelist.000ooo.ooo/zh/prompts/?w=1-km2-of-indiranagar&ref=gh"><b>✨ 获取提示词</b></a></sub>
-</td>
-</tr>
-<tr>
-<td width="33%" valign="top">
 <a href="https://claude.ai/artifact/CTjrZXVdUgKJ6qJXrvvr28"><img src="../assets/gifs/218.gif" width="100%" alt="Ancient Babylon 古巴比伦城"></a><br>
 <b><a href="https://claude.ai/artifact/CTjrZXVdUgKJ6qJXrvvr28">Ancient Babylon 古巴比伦城</a></b><br>
 <sub>🆕 · <a href="https://x.com/literallydenis">@literallydenis</a> · ♥ 1.2k · <a href="https://x.com/literallydenis/status/2120866958790848953">▶ 视频</a></sub><br>
 <sub>公元前 600 年的巴比伦，它自己查史料和建筑图纸，跑了 8 小时，能自由逛</sub><br>
 <sub><a href="https://fablelist.000ooo.ooo/zh/prompts/?w=ancient-babylon-600-bc&ref=gh"><b>✨ 获取提示词</b></a></sub>
 </td>
+</tr>
+<tr>
+<td width="33%" valign="top">
+<a href="https://indiranagar-live.vercel.app"><img src="../assets/gifs/024.gif" width="100%" alt="印度班加罗尔 Indiranagar 1 平方公里"></a><br>
+<b><a href="https://indiranagar-live.vercel.app">印度班加罗尔 Indiranagar 1 平方公里</a></b><br>
+<sub><a href="https://x.com/anshu4321">@anshu4321</a> · ♥ 1.2k · <a href="https://x.com/anshu4321/status/2119938067758772403">▶ 视频</a></sub><br>
+<sub>用他们的地图数据 + 一条提示词</sub><br>
+<sub><a href="https://fablelist.000ooo.ooo/zh/prompts/?w=1-km2-of-indiranagar&ref=gh"><b>✨ 获取提示词</b></a></sub>
+</td>
 <td width="33%" valign="top">
 <a href="https://fable-rome.surge.sh/"><img src="../assets/gifs/136.gif" width="100%" alt="Rome, AD 320 古罗马"></a><br>
 <b><a href="https://fable-rome.surge.sh/">Rome, AD 320 古罗马</a></b><br>
-<sub>🆕 · <a href="https://x.com/petergostev">@petergostev</a> · ♥ 968 · <a href="https://x.com/petergostev/status/2120167560700383572">▶ 视频</a></sub><br>
+<sub>🆕 · <a href="https://x.com/petergostev">@petergostev</a> · ♥ 967 · <a href="https://x.com/petergostev/status/2120167560700383572">▶ 视频</a></sub><br>
 <sub>一条提示词，Fable 5.2 Max 跑了一夜，花费 $2,618</sub><br>
 <sub><a href="https://x.com/petergostev/status/2120167560700383572">📝 作者公开的提示词（免费）</a></sub>
 </td>
 <td width="33%" valign="top">
 <a href="https://github.com/Leonxlnx/room-at-dawn"><img src="../assets/gifs/219.gif" width="100%" alt="Room at Dawn 黎明的卧室"></a><br>
 <b><a href="https://github.com/Leonxlnx/room-at-dawn">Room at Dawn 黎明的卧室</a></b><br>
-<sub>🆕 · <a href="https://x.com/LexnLin">@LexnLin</a> · ♥ 838 · <a href="https://x.com/LexnLin/status/2120910879361548565">▶ 视频</a></sub><br>
+<sub>🆕 · <a href="https://x.com/LexnLin">@LexnLin</a> · ♥ 849 · <a href="https://x.com/LexnLin/status/2120910879361548565">▶ 视频</a></sub><br>
 <sub>three.js 写的写实卧室，没用任何现成模型和贴图，全是代码生成</sub><br>
 <sub><a href="https://fablelist.000ooo.ooo/zh/prompts/?w=room-at-dawn&ref=gh"><b>✨ 获取提示词</b></a></sub>
 </td>
@@ -55,14 +55,14 @@
 <td width="33%" valign="top">
 <a href="https://supernatural-ft.vercel.app/fire-in-ice"><img src="../assets/gifs/221.gif" width="100%" alt="Fire in Ice 冰中之火"></a><br>
 <b><a href="https://supernatural-ft.vercel.app/fire-in-ice">Fire in Ice 冰中之火</a></b><br>
-<sub>🆕 · <a href="https://x.com/tkm_hmng8">@tkm_hmng8</a> · ♥ 490 · <a href="https://x.com/tkm_hmng8/status/2120813043101946324">▶ 视频</a></sub><br>
+<sub>🆕 · <a href="https://x.com/tkm_hmng8">@tkm_hmng8</a> · ♥ 543 · <a href="https://x.com/tkm_hmng8/status/2120813043101946324">▶ 视频</a></sub><br>
 <sub>冰块里燃烧的火焰，不用 three.js，纯 WebGPU 写的写实效果</sub><br>
 <sub><a href="https://fablelist.000ooo.ooo/zh/prompts/?w=fire-in-ice&ref=gh"><b>✨ 获取提示词</b></a></sub>
 </td>
 <td width="33%" valign="top">
 <a href="https://bay.theojaffee.net"><img src="../assets/gifs/137.gif" width="100%" alt="湾区 250 年"></a><br>
 <b><a href="https://bay.theojaffee.net">湾区 250 年</a></b><br>
-<sub>🆕 · <a href="https://x.com/theojaffee">@theojaffee</a> · ♥ 383 · <a href="https://x.com/theojaffee/status/2120312766544437738">▶ 视频</a></sub><br>
+<sub>🆕 · <a href="https://x.com/theojaffee">@theojaffee</a> · ♥ 384 · <a href="https://x.com/theojaffee/status/2120312766544437738">▶ 视频</a></sub><br>
 <sub>缩放到任意城市或街区，选 1769 年以来的任一年看当时的样子</sub><br>
 <sub><a href="https://nyc.theojaffee.net">纽约版</a></sub><br>
 <sub><a href="https://fablelist.000ooo.ooo/zh/prompts/?w=bay-area-through-time&ref=gh"><b>✨ 获取提示词</b></a></sub>
@@ -79,7 +79,7 @@
 <td width="33%" valign="top">
 <a href="https://samg-coder.github.io/solstice-garden/"><img src="../assets/gifs/248.gif" width="100%" alt="The Garden 夏至花园"></a><br>
 <b><a href="https://samg-coder.github.io/solstice-garden/">The Garden 夏至花园</a></b><br>
-<sub>🆕 · <a href="https://x.com/SamGCoder">@SamGCoder</a> · ♥ 269 · <a href="https://x.com/SamGCoder/status/2120943068321054975">▶ 视频</a></sub><br>
+<sub>🆕 · <a href="https://x.com/SamGCoder">@SamGCoder</a> · ♥ 293 · <a href="https://x.com/SamGCoder/status/2120943068321054975">▶ 视频</a></sub><br>
 <sub>Rust 编译成 WASM、用 WebGPU 渲染的花园</sub><br>
 <sub><a href="https://fablelist.000ooo.ooo/zh/prompts/?w=the-garden&ref=gh"><b>✨ 获取提示词</b></a></sub>
 </td>
@@ -131,12 +131,20 @@
 <sub><a href="https://fablelist.000ooo.ooo/zh/prompts/?w=pirate-ship&ref=gh"><b>✨ 获取提示词</b></a></sub>
 </td>
 <td width="33%" valign="top">
+<a href="https://planet.tokyoaivisuals.club/"><img src="../assets/gifs/266.gif" width="100%" alt="Code Planet 代码星球"></a><br>
+<b><a href="https://planet.tokyoaivisuals.club/">Code Planet 代码星球</a></b><br>
+<sub>🆕 · <a href="https://x.com/KanaWorks_AI">@KanaWorks_AI</a> · ♥ 102 · <a href="https://x.com/KanaWorks_AI/status/2121413647213932688">▶ 视频</a></sub><br>
+<sub>不到 320KB 纯代码的星球，大海、草原、樱花一直飞到太空，打开即玩</sub>
+</td>
+<td width="33%" valign="top">
 <a href="https://airsup.ai/lab/sr-71?mach=3.2"><img src="../assets/gifs/180.gif" width="100%" alt="SR-71 发动机拆解"></a><br>
 <b><a href="https://airsup.ai/lab/sr-71?mach=3.2">SR-71 发动机拆解</a></b><br>
 <sub>🆕 · <a href="https://x.com/konstantinsaifo">@konstantinsaifo</a> · ♥ 76 · <a href="https://x.com/konstantinsaifo/status/2120518933103182193">▶ 视频</a></sub><br>
 <sub>8 万英尺高空的 SR-71，剖开一台发动机；拖动速度旋钮，看进气道怎么接管推力</sub><br>
 <sub><a href="https://fablelist.000ooo.ooo/zh/prompts/?w=sr-71-engine-teardown&ref=gh"><b>✨ 获取提示词</b></a></sub>
 </td>
+</tr>
+<tr>
 <td width="33%" valign="top">
 <a href="https://vancouver.webly.site"><img src="../assets/gifs/032.gif" width="100%" alt="温哥华鸟瞰"></a><br>
 <b><a href="https://vancouver.webly.site">温哥华鸟瞰</a></b><br>
@@ -144,8 +152,6 @@
 <sub>Three.js 重建城市</sub><br>
 <sub><a href="https://fablelist.000ooo.ooo/zh/prompts/?w=vancouver-from-above&ref=gh"><b>✨ 获取提示词</b></a></sub>
 </td>
-</tr>
-<tr>
 <td width="33%" valign="top">
 <a href="https://fable-jerusalem.vercel.app/"><img src="../assets/gifs/138.gif" width="100%" alt="逾越节的耶路撒冷"></a><br>
 <b><a href="https://fable-jerusalem.vercel.app/">逾越节的耶路撒冷</a></b><br>
@@ -161,6 +167,8 @@
 <sub><a href="https://github.com/tornikegomareli/Matrix">源码</a></sub><br>
 <sub><a href="https://fablelist.000ooo.ooo/zh/prompts/?w=matrix-vibe&ref=gh"><b>✨ 获取提示词</b></a></sub>
 </td>
+</tr>
+<tr>
 <td width="33%" valign="top">
 <a href="https://loktar00.github.io/pine-hollow/"><img src="../assets/gifs/191.gif" width="100%" alt="Pine Hollow 会动的滑雪场"></a><br>
 <b><a href="https://loktar00.github.io/pine-hollow/">Pine Hollow 会动的滑雪场</a></b><br>
@@ -169,12 +177,10 @@
 <sub><a href="https://loktar00.github.io/sled-free-exact/">雪橇游戏</a> · <a href="https://loktar00.github.io/sled-free/">雪橇游戏改版</a></sub><br>
 <sub><a href="https://fablelist.000ooo.ooo/zh/prompts/?w=pine-hollow-a-living-ski-hill&ref=gh"><b>✨ 获取提示词</b></a></sub>
 </td>
-</tr>
-<tr>
 <td width="33%" valign="top">
 <a href="https://claude.ai/artifact/HGk1WNqTgrGEE8ndBkEipB"><img src="../assets/gifs/229.gif" width="100%" alt="像素画变 3D 世界"></a><br>
 <b><a href="https://claude.ai/artifact/HGk1WNqTgrGEE8ndBkEipB">像素画变 3D 世界</a></b><br>
-<sub>🆕 · <a href="https://x.com/dfeinition">@dfeinition</a> · ♥ 28 · <a href="https://x.com/dfeinition/status/2120933859999059970">▶ 视频</a></sub><br>
+<sub>🆕 · <a href="https://x.com/dfeinition">@dfeinition</a> · ♥ 29 · <a href="https://x.com/dfeinition/status/2120933859999059970">▶ 视频</a></sub><br>
 <sub>把一幅像素画做成可以走进去的 3D 世界，鲸鱼带你看它是怎么做的</sub><br>
 <sub><a href="https://fablelist.000ooo.ooo/zh/prompts/?w=pixel-art-to-3d-world&ref=gh"><b>✨ 获取提示词</b></a></sub>
 </td>
@@ -185,6 +191,8 @@
 <sub>20 分钟生成</sub><br>
 <sub><a href="https://fablelist.000ooo.ooo/zh/prompts/?w=galaxy-dive&ref=gh"><b>✨ 获取提示词</b></a></sub>
 </td>
+</tr>
+<tr>
 <td width="33%" valign="top">
 <a href="https://calibre-watch-snowy.vercel.app/"><img src="../assets/gifs/192.gif" width="100%" alt="Calibre 5.2 机械表"></a><br>
 <b><a href="https://calibre-watch-snowy.vercel.app/">Calibre 5.2 机械表</a></b><br>
@@ -192,8 +200,6 @@
 <sub>没有参考图，一条文字提示词一次生成；three.js + WebGPU</sub><br>
 <sub><a href="https://fablelist.000ooo.ooo/zh/prompts/?w=calibre-5-2-watch&ref=gh"><b>✨ 获取提示词</b></a></sub>
 </td>
-</tr>
-<tr>
 <td width="33%" valign="top">
 <a href="https://claude.ai/artifact/7nmzhxeamcunJbKVK32ptz"><img src="../assets/gifs/029.gif" width="100%" alt="体素罗马斗兽场"></a><br>
 <b><a href="https://claude.ai/artifact/7nmzhxeamcunJbKVK32ptz">体素罗马斗兽场</a></b><br>
@@ -205,14 +211,8 @@
 <td width="33%" valign="top">
 <a href="https://sf-js.webly.site"><img src="../assets/gifs/264.gif" width="100%" alt="旧金山黄金时刻"></a><br>
 <b><a href="https://sf-js.webly.site">旧金山黄金时刻</a></b><br>
-<sub>🆕 · <a href="https://x.com/tokifyi">@tokifyi</a> · ♥ 15 · <a href="https://x.com/tokifyi/status/2121367097972531412">▶ 视频</a></sub><br>
+<sub>🆕 · <a href="https://x.com/tokifyi">@tokifyi</a> · ♥ 19 · <a href="https://x.com/tokifyi/status/2121367097972531412">▶ 视频</a></sub><br>
 <sub>一条提示词，纯 JavaScript Canvas 画出金门大桥、天际线、雾、倒影和缆车，不用图片和库</sub>
-</td>
-<td width="33%" valign="top">
-<a href="https://planet.tokyoaivisuals.club/"><img src="../assets/gifs/266.gif" width="100%" alt="Code Planet 代码星球"></a><br>
-<b><a href="https://planet.tokyoaivisuals.club/">Code Planet 代码星球</a></b><br>
-<sub>🆕 · <a href="https://x.com/KanaWorks_AI">@KanaWorks_AI</a> · ♥ 12 · <a href="https://x.com/KanaWorks_AI/status/2121413647213932688">▶ 视频</a></sub><br>
-<sub>不到 320KB 纯代码的星球，大海、草原、樱花一直飞到太空，打开即玩</sub>
 </td>
 </tr>
 <tr>

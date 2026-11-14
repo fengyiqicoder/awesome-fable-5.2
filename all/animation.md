@@ -9,55 +9,55 @@ The main page only shows posts with 100+ likes; this page has every entry in thi
 <td width="33%" valign="top">
 <a href="https://github.com/ChetasLua/crimson-loong"><img src="../assets/gifs/246.gif" width="100%" alt="Crimson Loong"></a><br>
 <b><a href="https://github.com/ChetasLua/crimson-loong">Crimson Loong</a></b><br>
-<sub>🆕 · <a href="https://x.com/chetaslua">@chetaslua</a> · ♥ 2.6k · <a href="https://x.com/chetaslua/status/2121176151234330707">▶ Video</a></sub><br>
+<sub>🆕 · <a href="https://x.com/chetaslua">@chetaslua</a> · ♥ 3.2k · <a href="https://x.com/chetaslua/status/2121176151234330707">▶ Video</a></sub><br>
 <sub>A 90-second dragon film in three.js, pure code with no external assets.</sub><br>
 <sub><a href="https://fablelist.000ooo.ooo/prompts/?w=crimson-loong&ref=gh"><b>✨ Get the prompt</b></a></sub>
 </td>
 <td width="33%" valign="top">
 <a href="https://github.com/ChetasLua/pelican-riding-a-bicycle"><img src="../assets/gifs/150.gif" width="100%" alt="The Pelican, Tired of the Road"></a><br>
 <b><a href="https://github.com/ChetasLua/pelican-riding-a-bicycle">The Pelican, Tired of the Road</a></b><br>
-<sub>🆕 · <a href="https://x.com/chetaslua">@chetaslua</a> · ♥ 350 · <a href="https://x.com/chetaslua/status/2120438091647218025">▶ Video</a></sub><br>
+<sub>🆕 · <a href="https://x.com/chetaslua">@chetaslua</a> · ♥ 352 · <a href="https://x.com/chetaslua/status/2120438091647218025">▶ Video</a></sub><br>
 <sub>A 60-second hand-painted-look film about the SVG-test pelican. One HTML file; every pixel and every sound is code.</sub><br>
 <sub><a href="https://github.com/ChetasLua/mona-lisa-js">Mona Lisa in JS</a></sub><br>
 <sub><a href="https://fablelist.000ooo.ooo/prompts/?w=the-pelican-tired-of-the-road&ref=gh"><b>✨ Get the prompt</b></a></sub>
 </td>
 <td width="33%" valign="top">
-<a href="https://github.com/anstapnever/one-sweep"><img src="../assets/gifs/051.gif" width="100%" alt="One Sweep"></a><br>
-<b><a href="https://github.com/anstapnever/one-sweep">One Sweep</a></b><br>
-<sub><a href="https://x.com/anstapnever">@anstapnever</a> · ♥ 250 · <a href="https://x.com/anstapnever/status/2119772039037014524">▶ Video</a></sub><br>
-<sub>A 78-second anime fight in pure Three.js, six agent teams in parallel. Author says "Fable 5.5".</sub><br>
-<sub><a href="https://x.com/anstapnever/status/2119772039037014524">📝 Creator's prompt (free)</a></sub>
+<a href="https://github.com/amirmushichge/shred-kit"><img src="../assets/gifs/269.gif" width="100%" alt="Shred Kit paper-shred template"></a><br>
+<b><a href="https://github.com/amirmushichge/shred-kit">Shred Kit paper-shred template</a></b><br>
+<sub>🆕 · <a href="https://x.com/AmirMushich">@AmirMushich</a> · ♥ 308 · <a href="https://x.com/AmirMushich/status/2121339167800213934">▶ Video</a></sub><br>
+<sub>An 8-second paper-shred reel made with Fable 5.2 and Blender, shared as a free template.</sub>
 </td>
 </tr>
 <tr>
 <td width="33%" valign="top">
+<a href="https://github.com/anstapnever/one-sweep"><img src="../assets/gifs/051.gif" width="100%" alt="One Sweep"></a><br>
+<b><a href="https://github.com/anstapnever/one-sweep">One Sweep</a></b><br>
+<sub><a href="https://x.com/anstapnever">@anstapnever</a> · ♥ 251 · <a href="https://x.com/anstapnever/status/2119772039037014524">▶ Video</a></sub><br>
+<sub>A 78-second anime fight in pure Three.js, six agent teams in parallel. Author says "Fable 5.5".</sub><br>
+<sub><a href="https://x.com/anstapnever/status/2119772039037014524">📝 Creator's prompt (free)</a></sub>
+</td>
+<td width="33%" valign="top">
 <a href="https://github.com/crossps/ballpoint"><img src="../assets/gifs/056.gif" width="100%" alt="Ballpoint"></a><br>
 <b><a href="https://github.com/crossps/ballpoint">Ballpoint</a></b><br>
-<sub><a href="https://x.com/camperaigg">@camperaigg</a> · ♥ 242 · <a href="https://x.com/camperaigg/status/2119777467074580741">▶ Video</a></sub><br>
+<sub><a href="https://x.com/camperaigg">@camperaigg</a> · ♥ 241 · <a href="https://x.com/camperaigg/status/2119777467074580741">▶ Video</a></sub><br>
 <sub>Macro ASMR of a ballpoint pen, open-sourced to prove it is code, not a video model.</sub><br>
 <sub><a href="https://fablelist.000ooo.ooo/prompts/?w=ballpoint&ref=gh"><b>✨ Get the prompt</b></a></sub>
 </td>
 <td width="33%" valign="top">
 <a href="https://github.com/ChetasLua/godzilla-nights"><img src="../assets/gifs/055.gif" width="100%" alt="Godzilla Nights"></a><br>
 <b><a href="https://github.com/ChetasLua/godzilla-nights">Godzilla Nights</a></b><br>
-<sub><a href="https://x.com/chetaslua">@chetaslua</a> · ♥ 228 · <a href="https://x.com/chetaslua/status/2119981510199808368">▶ Video</a></sub><br>
+<sub><a href="https://x.com/chetaslua">@chetaslua</a> · ♥ 229 · <a href="https://x.com/chetaslua/status/2119981510199808368">▶ Video</a></sub><br>
 <sub>Images drawn in pure code, lightly animated.</sub><br>
 <sub><a href="https://fablelist.000ooo.ooo/prompts/?w=godzilla-nights&ref=gh"><b>✨ Get the prompt</b></a></sub>
 </td>
+</tr>
+<tr>
 <td width="33%" valign="top">
 <a href="https://github.com/anstapnever/blackout"><img src="../assets/gifs/052.gif" width="100%" alt="Blackout"></a><br>
 <b><a href="https://github.com/anstapnever/blackout">Blackout</a></b><br>
 <sub><a href="https://x.com/anstapnever">@anstapnever</a> · ♥ 118 · <a href="https://x.com/anstapnever/status/2119915123070644263">▶ Video</a></sub><br>
 <sub>A 79-second anime short, all code.</sub><br>
 <sub><a href="https://x.com/anstapnever/status/2119915123070644263">📝 Creator's prompt (free)</a></sub>
-</td>
-</tr>
-<tr>
-<td width="33%" valign="top">
-<a href="https://github.com/amirmushichge/shred-kit"><img src="../assets/gifs/269.gif" width="100%" alt="Shred Kit paper-shred template"></a><br>
-<b><a href="https://github.com/amirmushichge/shred-kit">Shred Kit paper-shred template</a></b><br>
-<sub>🆕 · <a href="https://x.com/AmirMushich">@AmirMushich</a> · ♥ 117 · <a href="https://x.com/AmirMushich/status/2121339167800213934">▶ Video</a></sub><br>
-<sub>An 8-second paper-shred reel made with Fable 5.2 and Blender, shared as a free template.</sub>
 </td>
 <td width="33%" valign="top">
 <a href="https://github.com/skild-ai/steel-webgpu/pull/7"><img src="../assets/gifs/057.gif" width="100%" alt="Robot Hand on a Spiral Staircase"></a><br>

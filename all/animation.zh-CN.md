@@ -9,55 +9,55 @@
 <td width="33%" valign="top">
 <a href="https://github.com/ChetasLua/crimson-loong"><img src="../assets/gifs/246.gif" width="100%" alt="Crimson Loong 赤龙：90 秒巨龙短片"></a><br>
 <b><a href="https://github.com/ChetasLua/crimson-loong">Crimson Loong 赤龙：90 秒巨龙短片</a></b><br>
-<sub>🆕 · <a href="https://x.com/chetaslua">@chetaslua</a> · ♥ 2.6k · <a href="https://x.com/chetaslua/status/2121176151234330707">▶ 视频</a></sub><br>
+<sub>🆕 · <a href="https://x.com/chetaslua">@chetaslua</a> · ♥ 3.2k · <a href="https://x.com/chetaslua/status/2121176151234330707">▶ 视频</a></sub><br>
 <sub>three.js 纯代码的 90 秒巨龙短片，没有任何外部素材</sub><br>
 <sub><a href="https://fablelist.000ooo.ooo/zh/prompts/?w=crimson-loong&ref=gh"><b>✨ 获取提示词</b></a></sub>
 </td>
 <td width="33%" valign="top">
 <a href="https://github.com/ChetasLua/pelican-riding-a-bicycle"><img src="../assets/gifs/150.gif" width="100%" alt="骑车的鹈鹕：60 秒手绘风短片"></a><br>
 <b><a href="https://github.com/ChetasLua/pelican-riding-a-bicycle">骑车的鹈鹕：60 秒手绘风短片</a></b><br>
-<sub>🆕 · <a href="https://x.com/chetaslua">@chetaslua</a> · ♥ 350 · <a href="https://x.com/chetaslua/status/2120438091647218025">▶ 视频</a></sub><br>
+<sub>🆕 · <a href="https://x.com/chetaslua">@chetaslua</a> · ♥ 352 · <a href="https://x.com/chetaslua/status/2120438091647218025">▶ 视频</a></sub><br>
 <sub>一个 HTML 文件，画面和声音全是代码，没有图片、音频和库</sub><br>
 <sub><a href="https://github.com/ChetasLua/mona-lisa-js">蒙娜丽莎</a></sub><br>
 <sub><a href="https://fablelist.000ooo.ooo/zh/prompts/?w=the-pelican-tired-of-the-road&ref=gh"><b>✨ 获取提示词</b></a></sub>
 </td>
 <td width="33%" valign="top">
-<a href="https://github.com/anstapnever/one-sweep"><img src="../assets/gifs/051.gif" width="100%" alt="One Sweep 78 秒动漫打斗"></a><br>
-<b><a href="https://github.com/anstapnever/one-sweep">One Sweep 78 秒动漫打斗</a></b><br>
-<sub><a href="https://x.com/anstapnever">@anstapnever</a> · ♥ 250 · <a href="https://x.com/anstapnever/status/2119772039037014524">▶ 视频</a></sub><br>
-<sub>纯 Three.js 代码，6 组 Agent 并行；作者写的是「Fable 5.5」</sub><br>
-<sub><a href="https://x.com/anstapnever/status/2119772039037014524">📝 作者公开的提示词（免费）</a></sub>
+<a href="https://github.com/amirmushichge/shred-kit"><img src="../assets/gifs/269.gif" width="100%" alt="Shred Kit 碎纸动画模板"></a><br>
+<b><a href="https://github.com/amirmushichge/shred-kit">Shred Kit 碎纸动画模板</a></b><br>
+<sub>🆕 · <a href="https://x.com/AmirMushich">@AmirMushich</a> · ♥ 308 · <a href="https://x.com/AmirMushich/status/2121339167800213934">▶ 视频</a></sub><br>
+<sub>Fable 5.2 + Blender 做的 8 秒碎纸短片，做成了免费模板</sub>
 </td>
 </tr>
 <tr>
 <td width="33%" valign="top">
+<a href="https://github.com/anstapnever/one-sweep"><img src="../assets/gifs/051.gif" width="100%" alt="One Sweep 78 秒动漫打斗"></a><br>
+<b><a href="https://github.com/anstapnever/one-sweep">One Sweep 78 秒动漫打斗</a></b><br>
+<sub><a href="https://x.com/anstapnever">@anstapnever</a> · ♥ 251 · <a href="https://x.com/anstapnever/status/2119772039037014524">▶ 视频</a></sub><br>
+<sub>纯 Three.js 代码，6 组 Agent 并行；作者写的是「Fable 5.5」</sub><br>
+<sub><a href="https://x.com/anstapnever/status/2119772039037014524">📝 作者公开的提示词（免费）</a></sub>
+</td>
+<td width="33%" valign="top">
 <a href="https://github.com/crossps/ballpoint"><img src="../assets/gifs/056.gif" width="100%" alt="圆珠笔微距 ASMR"></a><br>
 <b><a href="https://github.com/crossps/ballpoint">圆珠笔微距 ASMR</a></b><br>
-<sub><a href="https://x.com/camperaigg">@camperaigg</a> · ♥ 242 · <a href="https://x.com/camperaigg/status/2119777467074580741">▶ 视频</a></sub><br>
+<sub><a href="https://x.com/camperaigg">@camperaigg</a> · ♥ 241 · <a href="https://x.com/camperaigg/status/2119777467074580741">▶ 视频</a></sub><br>
 <sub>开源证明不是视频模型生成</sub><br>
 <sub><a href="https://fablelist.000ooo.ooo/zh/prompts/?w=ballpoint&ref=gh"><b>✨ 获取提示词</b></a></sub>
 </td>
 <td width="33%" valign="top">
 <a href="https://github.com/ChetasLua/godzilla-nights"><img src="../assets/gifs/055.gif" width="100%" alt="哥斯拉之夜"></a><br>
 <b><a href="https://github.com/ChetasLua/godzilla-nights">哥斯拉之夜</a></b><br>
-<sub><a href="https://x.com/chetaslua">@chetaslua</a> · ♥ 228 · <a href="https://x.com/chetaslua/status/2119981510199808368">▶ 视频</a></sub><br>
+<sub><a href="https://x.com/chetaslua">@chetaslua</a> · ♥ 229 · <a href="https://x.com/chetaslua/status/2119981510199808368">▶ 视频</a></sub><br>
 <sub>纯代码画图加动画</sub><br>
 <sub><a href="https://fablelist.000ooo.ooo/zh/prompts/?w=godzilla-nights&ref=gh"><b>✨ 获取提示词</b></a></sub>
 </td>
+</tr>
+<tr>
 <td width="33%" valign="top">
 <a href="https://github.com/anstapnever/blackout"><img src="../assets/gifs/052.gif" width="100%" alt="Blackout 79 秒动漫"></a><br>
 <b><a href="https://github.com/anstapnever/blackout">Blackout 79 秒动漫</a></b><br>
 <sub><a href="https://x.com/anstapnever">@anstapnever</a> · ♥ 118 · <a href="https://x.com/anstapnever/status/2119915123070644263">▶ 视频</a></sub><br>
 <br>
 <sub><a href="https://x.com/anstapnever/status/2119915123070644263">📝 作者公开的提示词（免费）</a></sub>
-</td>
-</tr>
-<tr>
-<td width="33%" valign="top">
-<a href="https://github.com/amirmushichge/shred-kit"><img src="../assets/gifs/269.gif" width="100%" alt="Shred Kit 碎纸动画模板"></a><br>
-<b><a href="https://github.com/amirmushichge/shred-kit">Shred Kit 碎纸动画模板</a></b><br>
-<sub>🆕 · <a href="https://x.com/AmirMushich">@AmirMushich</a> · ♥ 117 · <a href="https://x.com/AmirMushich/status/2121339167800213934">▶ 视频</a></sub><br>
-<sub>Fable 5.2 + Blender 做的 8 秒碎纸短片，做成了免费模板</sub>
 </td>
 <td width="33%" valign="top">
 <a href="https://github.com/skild-ai/steel-webgpu/pull/7"><img src="../assets/gifs/057.gif" width="100%" alt="机器手指走螺旋楼梯"></a><br>

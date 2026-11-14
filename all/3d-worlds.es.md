@@ -21,32 +21,32 @@ La página principal solo muestra publicaciones con 100+ «me gusta»; aquí est
 <sub><a href="https://fablelist.000ooo.ooo/es/prompts/?w=painted-valley&ref=gh"><b>✨ Consigue el prompt</b></a></sub>
 </td>
 <td width="33%" valign="top">
-<a href="https://indiranagar-live.vercel.app"><img src="../assets/gifs/024.gif" width="100%" alt="1 km² de Indiranagar"></a><br>
-<b><a href="https://indiranagar-live.vercel.app">1 km² de Indiranagar</a></b><br>
-<sub><a href="https://x.com/anshu4321">@anshu4321</a> · ♥ 1.2k · <a href="https://x.com/anshu4321/status/2119938067758772403">▶ Video</a></sub><br>
-<sub>Un fragmento 3D en vivo de Bengaluru a partir de datos de mapas y un solo prompt.</sub><br>
-<sub><a href="https://fablelist.000ooo.ooo/es/prompts/?w=1-km2-of-indiranagar&ref=gh"><b>✨ Consigue el prompt</b></a></sub>
-</td>
-</tr>
-<tr>
-<td width="33%" valign="top">
 <a href="https://claude.ai/artifact/CTjrZXVdUgKJ6qJXrvvr28"><img src="../assets/gifs/218.gif" width="100%" alt="Ancient Babylon, 600 BC"></a><br>
 <b><a href="https://claude.ai/artifact/CTjrZXVdUgKJ6qJXrvvr28">Ancient Babylon, 600 BC</a></b><br>
 <sub>🆕 · <a href="https://x.com/literallydenis">@literallydenis</a> · ♥ 1.2k · <a href="https://x.com/literallydenis/status/2120866958790848953">▶ Video</a></sub><br>
 <sub>Babilonia reconstruida a partir de documentos históricos y planos que encontró por su cuenta, en una ejecución de 8 horas. Recórrela libremente.</sub><br>
 <sub><a href="https://fablelist.000ooo.ooo/es/prompts/?w=ancient-babylon-600-bc&ref=gh"><b>✨ Consigue el prompt</b></a></sub>
 </td>
+</tr>
+<tr>
+<td width="33%" valign="top">
+<a href="https://indiranagar-live.vercel.app"><img src="../assets/gifs/024.gif" width="100%" alt="1 km² de Indiranagar"></a><br>
+<b><a href="https://indiranagar-live.vercel.app">1 km² de Indiranagar</a></b><br>
+<sub><a href="https://x.com/anshu4321">@anshu4321</a> · ♥ 1.2k · <a href="https://x.com/anshu4321/status/2119938067758772403">▶ Video</a></sub><br>
+<sub>Un fragmento 3D en vivo de Bengaluru a partir de datos de mapas y un solo prompt.</sub><br>
+<sub><a href="https://fablelist.000ooo.ooo/es/prompts/?w=1-km2-of-indiranagar&ref=gh"><b>✨ Consigue el prompt</b></a></sub>
+</td>
 <td width="33%" valign="top">
 <a href="https://fable-rome.surge.sh/"><img src="../assets/gifs/136.gif" width="100%" alt="Rome, AD 320"></a><br>
 <b><a href="https://fable-rome.surge.sh/">Rome, AD 320</a></b><br>
-<sub>🆕 · <a href="https://x.com/petergostev">@petergostev</a> · ♥ 968 · <a href="https://x.com/petergostev/status/2120167560700383572">▶ Video</a></sub><br>
+<sub>🆕 · <a href="https://x.com/petergostev">@petergostev</a> · ♥ 967 · <a href="https://x.com/petergostev/status/2120167560700383572">▶ Video</a></sub><br>
 <sub>Un prompt, Fable 5.2 (Max) corriendo toda la noche, $2,618.</sub><br>
 <sub><a href="https://x.com/petergostev/status/2120167560700383572">📝 Prompt del creador (gratis)</a></sub>
 </td>
 <td width="33%" valign="top">
 <a href="https://github.com/Leonxlnx/room-at-dawn"><img src="../assets/gifs/219.gif" width="100%" alt="Room at Dawn"></a><br>
 <b><a href="https://github.com/Leonxlnx/room-at-dawn">Room at Dawn</a></b><br>
-<sub>🆕 · <a href="https://x.com/LexnLin">@LexnLin</a> · ♥ 838 · <a href="https://x.com/LexnLin/status/2120910879361548565">▶ Video</a></sub><br>
+<sub>🆕 · <a href="https://x.com/LexnLin">@LexnLin</a> · ♥ 849 · <a href="https://x.com/LexnLin/status/2120910879361548565">▶ Video</a></sub><br>
 <sub>Un dormitorio fotorrealista en three.js sin modelos ni texturas prefabricados; todo es código.</sub><br>
 <sub><a href="https://fablelist.000ooo.ooo/es/prompts/?w=room-at-dawn&ref=gh"><b>✨ Consigue el prompt</b></a></sub>
 </td>
@@ -55,14 +55,14 @@ La página principal solo muestra publicaciones con 100+ «me gusta»; aquí est
 <td width="33%" valign="top">
 <a href="https://supernatural-ft.vercel.app/fire-in-ice"><img src="../assets/gifs/221.gif" width="100%" alt="Fire in Ice"></a><br>
 <b><a href="https://supernatural-ft.vercel.app/fire-in-ice">Fire in Ice</a></b><br>
-<sub>🆕 · <a href="https://x.com/tkm_hmng8">@tkm_hmng8</a> · ♥ 490 · <a href="https://x.com/tkm_hmng8/status/2120813043101946324">▶ Video</a></sub><br>
+<sub>🆕 · <a href="https://x.com/tkm_hmng8">@tkm_hmng8</a> · ♥ 543 · <a href="https://x.com/tkm_hmng8/status/2120813043101946324">▶ Video</a></sub><br>
 <sub>Fuego realista ardiendo dentro del hielo, escrito en WebGPU puro sin three.js.</sub><br>
 <sub><a href="https://fablelist.000ooo.ooo/es/prompts/?w=fire-in-ice&ref=gh"><b>✨ Consigue el prompt</b></a></sub>
 </td>
 <td width="33%" valign="top">
 <a href="https://bay.theojaffee.net"><img src="../assets/gifs/137.gif" width="100%" alt="Bay Area Through Time"></a><br>
 <b><a href="https://bay.theojaffee.net">Bay Area Through Time</a></b><br>
-<sub>🆕 · <a href="https://x.com/theojaffee">@theojaffee</a> · ♥ 383 · <a href="https://x.com/theojaffee/status/2120312766544437738">▶ Video</a></sub><br>
+<sub>🆕 · <a href="https://x.com/theojaffee">@theojaffee</a> · ♥ 384 · <a href="https://x.com/theojaffee/status/2120312766544437738">▶ Video</a></sub><br>
 <sub>Acércate a cualquier ciudad o barrio, elige cualquier año hasta 1769 y mira cómo era.</sub><br>
 <sub><a href="https://nyc.theojaffee.net">New York City</a></sub><br>
 <sub><a href="https://fablelist.000ooo.ooo/es/prompts/?w=bay-area-through-time&ref=gh"><b>✨ Consigue el prompt</b></a></sub>
@@ -79,7 +79,7 @@ La página principal solo muestra publicaciones con 100+ «me gusta»; aquí est
 <td width="33%" valign="top">
 <a href="https://samg-coder.github.io/solstice-garden/"><img src="../assets/gifs/248.gif" width="100%" alt="The Garden"></a><br>
 <b><a href="https://samg-coder.github.io/solstice-garden/">The Garden</a></b><br>
-<sub>🆕 · <a href="https://x.com/SamGCoder">@SamGCoder</a> · ♥ 269 · <a href="https://x.com/SamGCoder/status/2120943068321054975">▶ Video</a></sub><br>
+<sub>🆕 · <a href="https://x.com/SamGCoder">@SamGCoder</a> · ♥ 293 · <a href="https://x.com/SamGCoder/status/2120943068321054975">▶ Video</a></sub><br>
 <sub>Una escena de jardín escrita en Rust, compilada a WASM y renderizada con WebGPU.</sub><br>
 <sub><a href="https://fablelist.000ooo.ooo/es/prompts/?w=the-garden&ref=gh"><b>✨ Consigue el prompt</b></a></sub>
 </td>
@@ -131,12 +131,20 @@ La página principal solo muestra publicaciones con 100+ «me gusta»; aquí est
 <sub><a href="https://fablelist.000ooo.ooo/es/prompts/?w=pirate-ship&ref=gh"><b>✨ Consigue el prompt</b></a></sub>
 </td>
 <td width="33%" valign="top">
+<a href="https://planet.tokyoaivisuals.club/"><img src="../assets/gifs/266.gif" width="100%" alt="Code Planet"></a><br>
+<b><a href="https://planet.tokyoaivisuals.club/">Code Planet</a></b><br>
+<sub>🆕 · <a href="https://x.com/KanaWorks_AI">@KanaWorks_AI</a> · ♥ 102 · <a href="https://x.com/KanaWorks_AI/status/2121413647213932688">▶ Video</a></sub><br>
+<sub>Un planeta entero en menos de 320 KB de código. Vuela desde el mar y las praderas, pasando por cerezos en flor, hasta el espacio, directo en el navegador.</sub>
+</td>
+<td width="33%" valign="top">
 <a href="https://airsup.ai/lab/sr-71?mach=3.2"><img src="../assets/gifs/180.gif" width="100%" alt="Despiece del motor del SR-71"></a><br>
 <b><a href="https://airsup.ai/lab/sr-71?mach=3.2">Despiece del motor del SR-71</a></b><br>
 <sub>🆕 · <a href="https://x.com/konstantinsaifo">@konstantinsaifo</a> · ♥ 76 · <a href="https://x.com/konstantinsaifo/status/2120518933103182193">▶ Video</a></sub><br>
 <sub>El SR-71 a 80,000 pies con un motor cortado por la mitad. Una sola perilla, la velocidad: mira cómo la toma de aire releva al motor.</sub><br>
 <sub><a href="https://fablelist.000ooo.ooo/es/prompts/?w=sr-71-engine-teardown&ref=gh"><b>✨ Consigue el prompt</b></a></sub>
 </td>
+</tr>
+<tr>
 <td width="33%" valign="top">
 <a href="https://vancouver.webly.site"><img src="../assets/gifs/032.gif" width="100%" alt="Vancouver From Above"></a><br>
 <b><a href="https://vancouver.webly.site">Vancouver From Above</a></b><br>
@@ -144,8 +152,6 @@ La página principal solo muestra publicaciones con 100+ «me gusta»; aquí est
 <sub>La ciudad reconstruida en three.js.</sub><br>
 <sub><a href="https://fablelist.000ooo.ooo/es/prompts/?w=vancouver-from-above&ref=gh"><b>✨ Consigue el prompt</b></a></sub>
 </td>
-</tr>
-<tr>
 <td width="33%" valign="top">
 <a href="https://fable-jerusalem.vercel.app/"><img src="../assets/gifs/138.gif" width="100%" alt="Jerusalén en la Pascua"></a><br>
 <b><a href="https://fable-jerusalem.vercel.app/">Jerusalén en la Pascua</a></b><br>
@@ -161,6 +167,8 @@ La página principal solo muestra publicaciones con 100+ «me gusta»; aquí est
 <sub><a href="https://github.com/tornikegomareli/Matrix">Código fuente</a></sub><br>
 <sub><a href="https://fablelist.000ooo.ooo/es/prompts/?w=matrix-vibe&ref=gh"><b>✨ Consigue el prompt</b></a></sub>
 </td>
+</tr>
+<tr>
 <td width="33%" valign="top">
 <a href="https://loktar00.github.io/pine-hollow/"><img src="../assets/gifs/191.gif" width="100%" alt="Pine Hollow — una pista de esquí viva"></a><br>
 <b><a href="https://loktar00.github.io/pine-hollow/">Pine Hollow — una pista de esquí viva</a></b><br>
@@ -169,12 +177,10 @@ La página principal solo muestra publicaciones con 100+ «me gusta»; aquí est
 <sub><a href="https://loktar00.github.io/sled-free-exact/">Sled Free</a> · <a href="https://loktar00.github.io/sled-free/">Grumble Peak</a></sub><br>
 <sub><a href="https://fablelist.000ooo.ooo/es/prompts/?w=pine-hollow-a-living-ski-hill&ref=gh"><b>✨ Consigue el prompt</b></a></sub>
 </td>
-</tr>
-<tr>
 <td width="33%" valign="top">
 <a href="https://claude.ai/artifact/HGk1WNqTgrGEE8ndBkEipB"><img src="../assets/gifs/229.gif" width="100%" alt="De pixel art a mundo 3D"></a><br>
 <b><a href="https://claude.ai/artifact/HGk1WNqTgrGEE8ndBkEipB">De pixel art a mundo 3D</a></b><br>
-<sub>🆕 · <a href="https://x.com/dfeinition">@dfeinition</a> · ♥ 28 · <a href="https://x.com/dfeinition/status/2120933859999059970">▶ Video</a></sub><br>
+<sub>🆕 · <a href="https://x.com/dfeinition">@dfeinition</a> · ♥ 29 · <a href="https://x.com/dfeinition/status/2120933859999059970">▶ Video</a></sub><br>
 <sub>Una pieza de pixel art convertida en un mundo 3D interactivo, con una ballena que muestra cómo se hizo.</sub><br>
 <sub><a href="https://fablelist.000ooo.ooo/es/prompts/?w=pixel-art-to-3d-world&ref=gh"><b>✨ Consigue el prompt</b></a></sub>
 </td>
@@ -185,6 +191,8 @@ La página principal solo muestra publicaciones con 100+ «me gusta»; aquí est
 <sub>"Dios tardó 6 días, Fable 5.2 tardó 20 min." Vuela hacia el interior de una galaxia.</sub><br>
 <sub><a href="https://fablelist.000ooo.ooo/es/prompts/?w=galaxy-dive&ref=gh"><b>✨ Consigue el prompt</b></a></sub>
 </td>
+</tr>
+<tr>
 <td width="33%" valign="top">
 <a href="https://calibre-watch-snowy.vercel.app/"><img src="../assets/gifs/192.gif" width="100%" alt="Reloj Calibre 5.2"></a><br>
 <b><a href="https://calibre-watch-snowy.vercel.app/">Reloj Calibre 5.2</a></b><br>
@@ -192,8 +200,6 @@ La página principal solo muestra publicaciones con 100+ «me gusta»; aquí est
 <sub>Sin imagen de referencia: un prompt de texto, un intento. three.js y WebGPU.</sub><br>
 <sub><a href="https://fablelist.000ooo.ooo/es/prompts/?w=calibre-5-2-watch&ref=gh"><b>✨ Consigue el prompt</b></a></sub>
 </td>
-</tr>
-<tr>
 <td width="33%" valign="top">
 <a href="https://claude.ai/artifact/7nmzhxeamcunJbKVK32ptz"><img src="../assets/gifs/029.gif" width="100%" alt="Voxel Colosseum"></a><br>
 <b><a href="https://claude.ai/artifact/7nmzhxeamcunJbKVK32ptz">Voxel Colosseum</a></b><br>
@@ -205,14 +211,8 @@ La página principal solo muestra publicaciones con 100+ «me gusta»; aquí est
 <td width="33%" valign="top">
 <a href="https://sf-js.webly.site"><img src="../assets/gifs/264.gif" width="100%" alt="San Francisco en la hora dorada"></a><br>
 <b><a href="https://sf-js.webly.site">San Francisco en la hora dorada</a></b><br>
-<sub>🆕 · <a href="https://x.com/tokifyi">@tokifyi</a> · ♥ 15 · <a href="https://x.com/tokifyi/status/2121367097972531412">▶ Video</a></sub><br>
+<sub>🆕 · <a href="https://x.com/tokifyi">@tokifyi</a> · ♥ 19 · <a href="https://x.com/tokifyi/status/2121367097972531412">▶ Video</a></sub><br>
 <sub>Un prompt, canvas de JavaScript puro: el puente, el horizonte, la niebla, los reflejos y un tranvía, sin imágenes ni librerías.</sub>
-</td>
-<td width="33%" valign="top">
-<a href="https://planet.tokyoaivisuals.club/"><img src="../assets/gifs/266.gif" width="100%" alt="Code Planet"></a><br>
-<b><a href="https://planet.tokyoaivisuals.club/">Code Planet</a></b><br>
-<sub>🆕 · <a href="https://x.com/KanaWorks_AI">@KanaWorks_AI</a> · ♥ 12 · <a href="https://x.com/KanaWorks_AI/status/2121413647213932688">▶ Video</a></sub><br>
-<sub>Un planeta entero en menos de 320 KB de código. Vuela desde el mar y las praderas, pasando por cerezos en flor, hasta el espacio, directo en el navegador.</sub>
 </td>
 </tr>
 <tr>

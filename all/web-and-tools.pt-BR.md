@@ -24,7 +24,7 @@ A página principal só mostra posts com 100+ curtidas; aqui está tudo desta se
 <td width="33%" valign="top">
 <a href="https://claude.ai/artifact/N6bSgS4ZH5ifFQfg8sm4dv"><img src="../assets/gifs/217.gif" width="100%" alt="Gerador de House Bangers"></a><br>
 <b><a href="https://claude.ai/artifact/N6bSgS4ZH5ifFQfg8sm4dv">Gerador de House Bangers</a></b><br>
-<sub>🆕 · <a href="https://x.com/deedydas">@deedydas</a> · ♥ 3.7k · <a href="https://x.com/deedydas/status/2120905625852936318">▶ Vídeo</a></sub><br>
+<sub>🆕 · <a href="https://x.com/deedydas">@deedydas</a> · ♥ 3.9k · <a href="https://x.com/deedydas/status/2120905625852936318">▶ Vídeo</a></sub><br>
 <sub>Aprendeu teoria musical, testa milhares de padrões por instrumento e organiza os melhores em uma faixa de house de 72 compassos. Com som.</sub><br>
 <sub><a href="https://fablelist.000ooo.ooo/pt/prompts/?w=house-bangers-generator&ref=gh"><b>✨ Pegue o prompt</b></a></sub>
 </td>
@@ -72,7 +72,7 @@ A página principal só mostra posts com 100+ curtidas; aqui está tudo desta se
 <td width="33%" valign="top">
 <a href="https://github.com/AlexAtFF/pulp-daw-public"><img src="../assets/gifs/204.gif" width="100%" alt="PULP — uma DAW nativa de IA"></a><br>
 <b><a href="https://github.com/AlexAtFF/pulp-daw-public">PULP — uma DAW nativa de IA</a></b><br>
-<sub>🆕 · <a href="https://x.com/The_Alex">@The_Alex</a> · ♥ 940 · <a href="https://x.com/The_Alex/status/2119917226769985785">▶ Vídeo</a></sub><br>
+<sub>🆕 · <a href="https://x.com/The_Alex">@The_Alex</a> · ♥ 941 · <a href="https://x.com/The_Alex/status/2119917226769985785">▶ Vídeo</a></sub><br>
 <sub>Uma estação de áudio digital nativa para Windows. Peça música ao Claude e ele abre a DAW e cria a canção.</sub><br>
 <sub><a href="https://fablelist.000ooo.ooo/pt/prompts/?w=pulp-an-ai-native-daw&ref=gh"><b>✨ Pegue o prompt</b></a></sub>
 </td>
@@ -81,7 +81,7 @@ A página principal só mostra posts com 100+ curtidas; aqui está tudo desta se
 <td width="33%" valign="top">
 <a href="https://frontier.every.to/experiments/ambient-town"><img src="../assets/gifs/148.gif" width="100%" alt="Ambient Town"></a><br>
 <b><a href="https://frontier.every.to/experiments/ambient-town">Ambient Town</a></b><br>
-<sub>🆕 · <a href="https://x.com/kieranklaassen">@kieranklaassen</a> · ♥ 891 · <a href="https://x.com/kieranklaassen/status/2119868196773929160">▶ Vídeo</a></sub><br>
+<sub>🆕 · <a href="https://x.com/kieranklaassen">@kieranklaassen</a> · ♥ 892 · <a href="https://x.com/kieranklaassen/status/2119868196773929160">▶ Vídeo</a></sub><br>
 <sub>Uma DAW ambient construída em uma semana de noites por um ex-compositor de cinema: suporte ao Ableton Push, microfones, efeitos, um sintetizador e um agente que compõe com você. Clique em "Try it" na página.</sub><br>
 <sub><a href="https://fablelist.000ooo.ooo/pt/prompts/?w=ambient-town&ref=gh"><b>✨ Pegue o prompt</b></a></sub>
 </td>
@@ -95,7 +95,7 @@ A página principal só mostra posts com 100+ curtidas; aqui está tudo desta se
 <td width="33%" valign="top">
 <a href="https://v2.video/riley/the-history-of-writing/v1"><img src="../assets/gifs/039.gif" width="100%" alt="The History of Writing"></a><br>
 <b><a href="https://v2.video/riley/the-history-of-writing/v1">The History of Writing</a></b><br>
-<sub><a href="https://x.com/rileybrown">@rileybrown</a> · ♥ 665 · <a href="https://x.com/rileybrown/status/2119946022767980985">▶ Vídeo</a></sub><br>
+<sub><a href="https://x.com/rileybrown">@rileybrown</a> · ♥ 667 · <a href="https://x.com/rileybrown/status/2119946022767980985">▶ Vídeo</a></sub><br>
 <sub>Um filme interativo a partir de um prompt; prompt e arquivos compartilhados.</sub><br>
 <sub><a href="https://x.com/rileybrown/status/2119946022767980985">📝 Prompt do criador (grátis)</a></sub>
 </td>
@@ -104,7 +104,7 @@ A página principal só mostra posts com 100+ curtidas; aqui está tudo desta se
 <td width="33%" valign="top">
 <a href="https://where-is-everybody-fermi.netlify.app/"><img src="../assets/gifs/146.gif" width="100%" alt="Where Is Everybody?"></a><br>
 <b><a href="https://where-is-everybody-fermi.netlify.app/">Where Is Everybody?</a></b><br>
-<sub>🆕 · <a href="https://x.com/emollick">@emollick</a> · ♥ 453 · <a href="https://x.com/emollick/status/2120359214157603139">Post</a></sub><br>
+<sub>🆕 · <a href="https://x.com/emollick">@emollick</a> · ♥ 454 · <a href="https://x.com/emollick/status/2120359214157603139">Post</a></sub><br>
 <sub>Pedindo para "resolver o Paradoxo de Fermi": ele reúne dados, testa hipóteses e as submete à crítica de céticos.</sub><br>
 <sub><a href="https://resolving-the-great-silence.netlify.app/">Gemini Carbon version</a></sub><br>
 <sub><a href="https://x.com/emollick/status/2120359214157603139">📝 Prompt do criador (grátis)</a></sub>
@@ -119,7 +119,7 @@ A página principal só mostra posts com 100+ curtidas; aqui está tudo desta se
 <td width="33%" valign="top">
 <a href="https://origamihelper.com"><img src="../assets/gifs/220.gif" width="100%" alt="Origami Helper"></a><br>
 <b><a href="https://origamihelper.com">Origami Helper</a></b><br>
-<sub>🆕 · <a href="https://x.com/ryoma_nakajima">@ryoma_nakajima</a> · ♥ 217 · <a href="https://x.com/ryoma_nakajima/status/2120472383241011323">▶ Vídeo</a></sub><br>
+<sub>🆕 · <a href="https://x.com/ryoma_nakajima">@ryoma_nakajima</a> · ♥ 218 · <a href="https://x.com/ryoma_nakajima/status/2120472383241011323">▶ Vídeo</a></sub><br>
 <sub>Aprenda dobras de origami em 3D de qualquer ângulo, com AR. Grátis, sem cadastro, feito em um dia.</sub><br>
 <sub><a href="https://fablelist.000ooo.ooo/pt/prompts/?w=origami-helper&ref=gh"><b>✨ Pegue o prompt</b></a></sub>
 </td>
@@ -155,27 +155,27 @@ A página principal só mostra posts com 100+ curtidas; aqui está tudo desta se
 <sub><a href="https://fablelist.000ooo.ooo/pt/prompts/?w=nikechan-com-redesign&ref=gh"><b>✨ Pegue o prompt</b></a></sub>
 </td>
 <td width="33%" valign="top">
+<a href="https://clockendbader.github.io/fable-builds/heartbeat/"><img src="../assets/gifs/259.gif" width="100%" alt="One Heartbeat"></a><br>
+<b><a href="https://clockendbader.github.io/fable-builds/heartbeat/">One Heartbeat</a></b><br>
+<sub>🆕 · <a href="https://x.com/clockendbader">@clockendbader</a> · ♥ 100 · <a href="https://x.com/clockendbader/status/2121246903207961069">Post</a></sub><br>
+<sub>Um coração 3D batendo com ECG e curvas de pressão ao vivo e sons cardíacos; compare normal, FA, bloqueio cardíaco e estenose aórtica. Ele também escreveu os próprios testes.</sub><br>
+<sub><a href="https://fablelist.000ooo.ooo/pt/prompts/?w=one-heartbeat&ref=gh"><b>✨ Pegue o prompt</b></a></sub>
+</td>
+<td width="33%" valign="top">
 <a href="https://github.com/kanaworksai-hue/harappa"><img src="../assets/gifs/250.gif" width="100%" alt="Harappa (add-on do Blender)"></a><br>
 <b><a href="https://github.com/kanaworksai-hue/harappa">Harappa (add-on do Blender)</a></b><br>
-<sub>🆕 · <a href="https://x.com/KanaWorks_AI">@KanaWorks_AI</a> · ♥ 64 · <a href="https://x.com/KanaWorks_AI/status/2121221880673972463">▶ Vídeo</a></sub><br>
+<sub>🆕 · <a href="https://x.com/KanaWorks_AI">@KanaWorks_AI</a> · ♥ 75 · <a href="https://x.com/KanaWorks_AI/status/2121221880673972463">▶ Vídeo</a></sub><br>
 <sub>Um add-on gratuito do Blender que transforma uma colina nua em um prado estilo anime com um clique, com grama, flores, nuvens, árvores, estações e estilos.</sub><br>
 <sub><a href="https://fablelist.000ooo.ooo/pt/prompts/?w=harappa-blender-add-on&ref=gh"><b>✨ Pegue o prompt</b></a></sub>
 </td>
+</tr>
+<tr>
 <td width="33%" valign="top">
 <a href="https://tetriss22.github.io/pc-build-lab/"><img src="../assets/gifs/147.gif" width="100%" alt="PC Build Lab"></a><br>
 <b><a href="https://tetriss22.github.io/pc-build-lab/">PC Build Lab</a></b><br>
 <sub>🆕 · <a href="https://x.com/Tetriss112">@Tetriss112</a> · ♥ 51 · <a href="https://x.com/Tetriss112/status/2120520587411935288">▶ Vídeo</a></sub><br>
 <sub>Monte um PC gamer de US$ 1.279 peça por peça em 3D, em 8 etapas — e destrua-o de propósito antes de encostar em peças reais.</sub><br>
 <sub><a href="https://fablelist.000ooo.ooo/pt/prompts/?w=pc-build-lab&ref=gh"><b>✨ Pegue o prompt</b></a></sub>
-</td>
-</tr>
-<tr>
-<td width="33%" valign="top">
-<a href="https://clockendbader.github.io/fable-builds/heartbeat/"><img src="../assets/gifs/259.gif" width="100%" alt="One Heartbeat"></a><br>
-<b><a href="https://clockendbader.github.io/fable-builds/heartbeat/">One Heartbeat</a></b><br>
-<sub>🆕 · <a href="https://x.com/clockendbader">@clockendbader</a> · ♥ 45 · <a href="https://x.com/clockendbader/status/2121246903207961069">Post</a></sub><br>
-<sub>Um coração 3D batendo com ECG e curvas de pressão ao vivo e sons cardíacos; compare normal, FA, bloqueio cardíaco e estenose aórtica. Ele também escreveu os próprios testes.</sub><br>
-<sub><a href="https://fablelist.000ooo.ooo/pt/prompts/?w=one-heartbeat&ref=gh"><b>✨ Pegue o prompt</b></a></sub>
 </td>
 <td width="33%" valign="top">
 <a href="https://sael.net/seat-arena"><img src="../assets/gifs/182.gif" width="100%" alt="Best Seat in the House"></a><br>

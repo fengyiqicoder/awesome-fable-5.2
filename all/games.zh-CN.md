@@ -1,4 +1,4 @@
-# 🎮 游戏 · 全部 75 个
+# 🎮 游戏 · 全部 80 个
 
 [← 回到首页](../README.zh-CN.md) · [English](games.md) · **简体中文** · [繁體中文](games.zh-TW.md) · [日本語](games.ja.md) · [한국어](games.ko.md) · [Español](games.es.md) · [Português](games.pt-BR.md) · [Français](games.fr.md) · [Deutsch](games.de.md) · [Русский](games.ru.md)
 
@@ -9,7 +9,7 @@
 <td width="33%" valign="top">
 <a href="https://starrynightrider.com"><img src="../assets/gifs/173.gif" width="100%" alt="Starry Nightrider 星夜骑行"></a><br>
 <b><a href="https://starrynightrider.com">Starry Nightrider 星夜骑行</a></b><br>
-<sub>🆕 · <a href="https://x.com/ebbyamir">@ebbyamir</a> · ♥ 17.7k · <a href="https://x.com/ebbyamir/status/2120284261089673376">▶ 视频</a></sub><br>
+<sub>🆕 · <a href="https://x.com/ebbyamir">@ebbyamir</a> · ♥ 17.8k · <a href="https://x.com/ebbyamir/status/2120284261089673376">▶ 视频</a></sub><br>
 <sub>梵高骑车穿过他的《星夜》</sub><br>
 <sub><a href="https://fablelist.000ooo.ooo/zh/prompts/?w=starry-nightrider&ref=gh"><b>✨ 获取提示词</b></a></sub>
 </td>
@@ -46,7 +46,7 @@
 <td width="33%" valign="top">
 <a href="https://tennis.sixfingerpunch.com/"><img src="../assets/gifs/197.gif" width="100%" alt="Tennis：让它放开做，结果是个 Pong"></a><br>
 <b><a href="https://tennis.sixfingerpunch.com/">Tennis：让它放开做，结果是个 Pong</a></b><br>
-<sub>🆕 · <a href="https://x.com/photonstorm">@photonstorm</a> · ♥ 3.0k · <a href="https://x.com/photonstorm/status/2120330010112434313">原帖</a></sub><br>
+<sub>🆕 · <a href="https://x.com/photonstorm">@photonstorm</a> · ♥ 3.1k · <a href="https://x.com/photonstorm/status/2120330010112434313">原帖</a></sub><br>
 <sub>让它「放开做一个游戏」，看着只是个 Pong，玩起来才知道不止于此</sub><br>
 <sub><a href="https://fablelist.000ooo.ooo/zh/prompts/?w=tennis&ref=gh"><b>✨ 获取提示词</b></a></sub>
 </td>
@@ -70,7 +70,7 @@
 <td width="33%" valign="top">
 <a href="https://evensong-phi.vercel.app/"><img src="../assets/gifs/126.gif" width="100%" alt="Evensong 魂系 Boss 战"></a><br>
 <b><a href="https://evensong-phi.vercel.app/">Evensong 魂系 Boss 战</a></b><br>
-<sub>🆕 · <a href="https://x.com/kevin_t_ngo">@kevin_t_ngo</a> · ♥ 1.7k · <a href="https://x.com/kevin_t_ngo/status/2120238844754923874">▶ 视频</a></sub><br>
+<sub>🆕 · <a href="https://x.com/kevin_t_ngo">@kevin_t_ngo</a> · ♥ 1.8k · <a href="https://x.com/kevin_t_ngo/status/2120238844754923874">▶ 视频</a></sub><br>
 <sub>黑暗奇幻风的魂类 Boss 战试玩</sub><br>
 <sub><a href="https://fablelist.000ooo.ooo/zh/prompts/?w=evensong&ref=gh"><b>✨ 获取提示词</b></a></sub>
 </td>
@@ -103,33 +103,39 @@
 <td width="33%" valign="top">
 <a href="https://claude.ai/artifact/MXxb36zKgN261ckbGhmNin"><img src="../assets/gifs/002.gif" width="100%" alt="Three Games 合集页（Saltline / 钟表匠之心 / Tidewright）"></a><br>
 <b><a href="https://claude.ai/artifact/MXxb36zKgN261ckbGhmNin">Three Games 合集页（Saltline / 钟表匠之心 / Tidewright）</a></b><br>
-<sub><a href="https://x.com/felixrieseberg">@felixrieseberg</a> · ♥ 810 · <a href="https://x.com/vineerpasam/status/2119955306096857145">▶ 视频</a></sub><br>
+<sub><a href="https://x.com/felixrieseberg">@felixrieseberg</a> · ♥ 809 · <a href="https://x.com/vineerpasam/status/2119955306096857145">▶ 视频</a></sub><br>
 <sub>页面署名 Felix Rieseberg，写明三款都是 Fable 5.2 无人工反馈的初稿；被转发最多的链接（视频来自转发者 @vineerpasam）</sub><br>
 <sub><a href="https://claude.ai/artifact/6MjtQjf4ee1ZZjEpafaEpa">钟表匠之心</a> · <a href="https://claude.ai/artifact/JTgyEMn7sn1q2riWrMb7D4">Tidewright</a></sub><br>
 <sub><a href="https://fablelist.000ooo.ooo/zh/prompts/?w=three-games-saltline-the-clockmaker-s-heart-tidewright&ref=gh"><b>✨ 获取提示词</b></a></sub>
 </td>
 <td width="33%" valign="top">
-<a href="https://www.spawn.co/@mattshumer/voxel-engine"><img src="../assets/gifs/004.gif" width="100%" alt="体素引擎"></a><br>
-<b><a href="https://www.spawn.co/@mattshumer/voxel-engine">体素引擎</a></b><br>
-<sub><a href="https://x.com/mattshumer_">@mattshumer_</a> · ♥ 738 · <a href="https://x.com/mattshumer_/status/2119870965106483384">▶ 视频</a></sub><br>
-<sub>一条提示词生成，要开声音</sub><br>
-<sub><a href="https://fablelist.000ooo.ooo/zh/prompts/?w=voxel-engine&ref=gh"><b>✨ 获取提示词</b></a></sub>
-</td>
-<td width="33%" valign="top">
 <a href="https://patch.gg/blendi/coloured-pencil"><img src="../assets/gifs/247.gif" width="100%" alt="Coloured Pencil 彩铅风游戏"></a><br>
 <b><a href="https://patch.gg/blendi/coloured-pencil">Coloured Pencil 彩铅风游戏</a></b><br>
-<sub>🆕 · <a href="https://x.com/BlendiByl">@BlendiByl</a> · ♥ 665 · <a href="https://x.com/BlendiByl/status/2121130385723789637">▶ 视频</a></sub><br>
+<sub>🆕 · <a href="https://x.com/BlendiByl">@BlendiByl</a> · ♥ 741 · <a href="https://x.com/BlendiByl/status/2121130385723789637">▶ 视频</a></sub><br>
 <sub>彩色铅笔质感的小镇游戏片段，所有着色和整个小镇都是代码；开源</sub><br>
 <sub><a href="https://fablelist.000ooo.ooo/zh/prompts/?w=coloured-pencil&ref=gh"><b>✨ 获取提示词</b></a></sub>
+</td>
+<td width="33%" valign="top">
+<a href="https://www.spawn.co/@mattshumer/voxel-engine"><img src="../assets/gifs/004.gif" width="100%" alt="体素引擎"></a><br>
+<b><a href="https://www.spawn.co/@mattshumer/voxel-engine">体素引擎</a></b><br>
+<sub><a href="https://x.com/mattshumer_">@mattshumer_</a> · ♥ 740 · <a href="https://x.com/mattshumer_/status/2119870965106483384">▶ 视频</a></sub><br>
+<sub>一条提示词生成，要开声音</sub><br>
+<sub><a href="https://fablelist.000ooo.ooo/zh/prompts/?w=voxel-engine&ref=gh"><b>✨ 获取提示词</b></a></sub>
 </td>
 </tr>
 <tr>
 <td width="33%" valign="top">
 <a href="https://patch.gg/blendi/patchwork-quilt"><img src="../assets/gifs/190.gif" width="100%" alt="Patchwork Quilt 拼布定格风"></a><br>
 <b><a href="https://patch.gg/blendi/patchwork-quilt">Patchwork Quilt 拼布定格风</a></b><br>
-<sub>🆕 · <a href="https://x.com/BlendiByl">@BlendiByl</a> · ♥ 664 · <a href="https://x.com/BlendiByl/status/2120746541636047347">▶ 视频</a></sub><br>
+<sub>🆕 · <a href="https://x.com/BlendiByl">@BlendiByl</a> · ♥ 669 · <a href="https://x.com/BlendiByl/status/2120746541636047347">▶ 视频</a></sub><br>
 <sub>整张地图都是代码；开源</sub><br>
 <sub><a href="https://fablelist.000ooo.ooo/zh/prompts/?w=patchwork-quilt&ref=gh"><b>✨ 获取提示词</b></a></sub>
+</td>
+<td width="33%" valign="top">
+<a href="https://bannerfall.itch.io/siege-wing"><img src="../assets/gifs/271.gif" width="100%" alt="Siege Wing 直升机攻城"></a><br>
+<b><a href="https://bannerfall.itch.io/siege-wing">Siege Wing 直升机攻城</a></b><br>
+<sub>🆕 · <a href="https://x.com/builderjaydub">@builderjaydub</a> · ♥ 556 · <a href="https://x.com/builderjaydub/status/2120223731520040966">▶ 视频</a></sub><br>
+<sub>开直升机打中世纪战争：火炮、火箭、导弹三种武器，躲罗马弩炮、拆城堡</sub>
 </td>
 <td width="33%" valign="top">
 <a href="https://i-would-have-gotten-away-with-it.netlify.app/"><img src="../assets/gifs/007.gif" width="100%" alt="反向史酷比：吓跑多管闲事的孩子"></a><br>
@@ -138,6 +144,8 @@
 <sub>预告片的音乐音效也是它做的</sub><br>
 <sub><a href="https://fablelist.000ooo.ooo/zh/prompts/?w=i-would-have-gotten-away-with-it&ref=gh"><b>✨ 获取提示词</b></a></sub>
 </td>
+</tr>
+<tr>
 <td width="33%" valign="top">
 <a href="https://noclipepe.pages.dev/rug/"><img src="../assets/gifs/010.gif" width="100%" alt="童年地毯赛车"></a><br>
 <b><a href="https://noclipepe.pages.dev/rug/">童年地毯赛车</a></b><br>
@@ -145,8 +153,6 @@
 <sub>同题对比 GPT-6.2 Sol；作者写的是路由到的「Fable 5.5」</sub><br>
 <sub><a href="https://fablelist.000ooo.ooo/zh/prompts/?w=childhood-rug-racer&ref=gh"><b>✨ 获取提示词</b></a></sub>
 </td>
-</tr>
-<tr>
 <td width="33%" valign="top">
 <a href="https://finderchangchang.github.io/cloud-stunt-3d/"><img src="../assets/gifs/014.gif" width="100%" alt="云端特技 3D"></a><br>
 <b><a href="https://finderchangchang.github.io/cloud-stunt-3d/">云端特技 3D</a></b><br>
@@ -162,6 +168,8 @@
 <sub>两个可选角色的 1v1 对战</sub><br>
 <sub><a href="https://fablelist.000ooo.ooo/zh/prompts/?w=gilt-gutter&ref=gh"><b>✨ 获取提示词</b></a></sub>
 </td>
+</tr>
+<tr>
 <td width="33%" valign="top">
 <a href="https://www.spawn.co/@mattshumer/hogwarts-royale"><img src="../assets/gifs/005.gif" width="100%" alt="Hogwarts Royale（哈利·波特 × 堡垒之夜）"></a><br>
 <b><a href="https://www.spawn.co/@mattshumer/hogwarts-royale">Hogwarts Royale（哈利·波特 × 堡垒之夜）</a></b><br>
@@ -169,8 +177,6 @@
 <sub>大逃杀玩法</sub><br>
 <sub><a href="https://x.com/mattshumer_/status/2119872098306810226">📝 作者公开的提示词（免费）</a></sub>
 </td>
-</tr>
-<tr>
 <td width="33%" valign="top">
 <a href="https://dread-and-district.netlify.app"><img src="../assets/gifs/130.gif" width="100%" alt="Dread & District 奇幻运输模拟"></a><br>
 <b><a href="https://dread-and-district.netlify.app">Dread & District 奇幻运输模拟</a></b><br>
@@ -185,6 +191,15 @@
 <sub>一夜生成，按真实空气动力学逐段计算机翼的升力和阻力</sub><br>
 <sub><a href="https://fablelist.000ooo.ooo/zh/prompts/?w=cayley-flight-simulator&ref=gh"><b>✨ 获取提示词</b></a></sub>
 </td>
+</tr>
+<tr>
+<td width="33%" valign="top">
+<a href="https://unsung-vale.vercel.app/"><img src="../assets/gifs/262.gif" width="100%" alt="Unsung Vale 开放世界 RPG"></a><br>
+<b><a href="https://unsung-vale.vercel.app/">Unsung Vale 开放世界 RPG</a></b><br>
+<sub>🆕 · <a href="https://x.com/LexnLin">@LexnLin</a> · ♥ 294 · <a href="https://x.com/LexnLin/status/2121253191748669705">▶ 视频</a></sub><br>
+<sub>第三人称开放世界 RPG 试玩版，没用任何素材，画面全是代码生成</sub><br>
+<sub><a href="https://github.com/Leonxlnx/unsung-vale">源码</a></sub>
+</td>
 <td width="33%" valign="top">
 <a href="https://github.com/amirmushichge/worm-rider"><img src="../assets/gifs/015.gif" width="100%" alt="Worm Rider 沙虫骑士"></a><br>
 <b><a href="https://github.com/amirmushichge/worm-rider">Worm Rider 沙虫骑士</a></b><br>
@@ -192,22 +207,15 @@
 <sub>开源；220KB、3400 行、10 条提示词，模型全部代码建</sub><br>
 <sub><a href="https://fablelist.000ooo.ooo/zh/prompts/?w=worm-rider&ref=gh"><b>✨ 获取提示词</b></a></sub>
 </td>
-</tr>
-<tr>
 <td width="33%" valign="top">
 <a href="https://maad-maxxing.vercel.app/"><img src="../assets/gifs/199.gif" width="100%" alt="MAAD MAXXING"></a><br>
 <b><a href="https://maad-maxxing.vercel.app/">MAAD MAXXING</a></b><br>
-<sub>🆕 · <a href="https://x.com/Andrew_Blumson">@Andrew_Blumson</a> · ♥ 245 · <a href="https://x.com/Andrew_Blumson/status/2120599812512833557">▶ 视频</a></sub><br>
+<sub>🆕 · <a href="https://x.com/Andrew_Blumson">@Andrew_Blumson</a> · ♥ 246 · <a href="https://x.com/Andrew_Blumson/status/2120599812512833557">▶ 视频</a></sub><br>
 <sub>纯代码、零素材；前 3 关可玩，音频用 ElevenLabs</sub><br>
 <sub><a href="https://fablelist.000ooo.ooo/zh/prompts/?w=maad-maxxing&ref=gh"><b>✨ 获取提示词</b></a></sub>
 </td>
-<td width="33%" valign="top">
-<a href="https://unsung-vale.vercel.app/"><img src="../assets/gifs/262.gif" width="100%" alt="Unsung Vale 开放世界 RPG"></a><br>
-<b><a href="https://unsung-vale.vercel.app/">Unsung Vale 开放世界 RPG</a></b><br>
-<sub>🆕 · <a href="https://x.com/LexnLin">@LexnLin</a> · ♥ 235 · <a href="https://x.com/LexnLin/status/2121253191748669705">▶ 视频</a></sub><br>
-<sub>第三人称开放世界 RPG 试玩版，没用任何素材，画面全是代码生成</sub><br>
-<sub><a href="https://github.com/Leonxlnx/unsung-vale">源码</a></sub>
-</td>
+</tr>
+<tr>
 <td width="33%" valign="top">
 <a href="https://frontier.every.to/experiments/first-crush"><img src="../assets/gifs/133.gif" width="100%" alt="First Crush 酿酒教学游戏"></a><br>
 <b><a href="https://frontier.every.to/experiments/first-crush">First Crush 酿酒教学游戏</a></b><br>
@@ -215,8 +223,13 @@
 <sub>从刷桶、压 250 公斤葡萄到测糖度、选酵母，边玩边讲原理；页面里点 Try it</sub><br>
 <sub><a href="https://fablelist.000ooo.ooo/zh/prompts/?w=first-crush&ref=gh"><b>✨ 获取提示词</b></a></sub>
 </td>
-</tr>
-<tr>
+<td width="33%" valign="top">
+<a href="https://sanwan.ai/games/xingyun-moba/"><img src="../assets/gifs/256.gif" width="100%" alt="星陨战纪：网页版类王者荣耀"></a><br>
+<b><a href="https://sanwan.ai/games/xingyun-moba/">星陨战纪：网页版类王者荣耀</a></b><br>
+<sub>🆕 · <a href="https://x.com/FuSheng_0306">@FuSheng_0306</a> · ♥ 195 · <a href="https://x.com/FuSheng_0306/status/2121237878097207583">▶ 视频</a></sub><br>
+<sub>一句提示词，Fable 5.2 跑了约 20 小时；5 个英雄，一个真人玩家加 NPC</sub><br>
+<sub><a href="https://fablelist.000ooo.ooo/zh/prompts/?w=starfall-a-browser-moba&ref=gh"><b>✨ 获取提示词</b></a></sub>
+</td>
 <td width="33%" valign="top">
 <a href="https://cozylisbon.vercel.app"><img src="../assets/gifs/200.gif" width="100%" alt="Cozy Lisbon 飞越里斯本"></a><br>
 <b><a href="https://cozylisbon.vercel.app">Cozy Lisbon 飞越里斯本</a></b><br>
@@ -224,6 +237,8 @@
 <sub>一条提示词做的小飞机游戏，在里斯本上空慢慢飞</sub><br>
 <sub><a href="https://fablelist.000ooo.ooo/zh/prompts/?w=cozy-lisbon&ref=gh"><b>✨ 获取提示词</b></a></sub>
 </td>
+</tr>
+<tr>
 <td width="33%" valign="top">
 <a href="https://spawn.co/@robot/frontline-warfare-deathmatch"><img src="../assets/gifs/012.gif" width="100%" alt="Frontline 类 COD 死斗"></a><br>
 <b><a href="https://spawn.co/@robot/frontline-warfare-deathmatch">Frontline 类 COD 死斗</a></b><br>
@@ -233,10 +248,17 @@
 <td width="33%" valign="top">
 <a href="https://wquguru.github.io/fable52-fps-repro/"><img src="../assets/gifs/175.gif" width="100%" alt="Fable 5.2 FPS 复现（4 个单文件演示）"></a><br>
 <b><a href="https://wquguru.github.io/fable52-fps-repro/">Fable 5.2 FPS 复现（4 个单文件演示）</a></b><br>
-<sub>🆕 · <a href="https://x.com/wquguru">@wquguru</a> · ♥ 157 · <a href="https://x.com/wquguru/status/2120383332722905400">▶ 视频</a></sub><br>
+<sub>🆕 · <a href="https://x.com/wquguru">@wquguru</a> · ♥ 159 · <a href="https://x.com/wquguru/status/2120383332722905400">▶ 视频</a></sub><br>
 <sub>模型、声音、贴图全是代码；方法和源码都开源</sub><br>
 <sub><a href="https://github.com/wquguru/fable52-fps-repro">源码</a></sub><br>
 <sub><a href="https://x.com/wquguru/status/2120383332722905400">📝 作者公开的提示词（免费）</a></sub>
+</td>
+<td width="33%" valign="top">
+<a href="https://noclipepe.pages.dev/dino"><img src="../assets/gifs/011.gif" width="100%" alt="Chrome 恐龙变兰博"></a><br>
+<b><a href="https://noclipepe.pages.dev/dino">Chrome 恐龙变兰博</a></b><br>
+<sub><a href="https://x.com/noclipepe">@noclipepe</a> · ♥ 155 · <a href="https://x.com/noclipepe/status/2119927838321328577">▶ 视频</a></sub><br>
+<sub>老 T-Rex 测试，对比 Opus / Gemini / GPT</sub><br>
+<sub><a href="https://fablelist.000ooo.ooo/zh/prompts/?w=rambo-dino&ref=gh"><b>✨ 获取提示词</b></a></sub>
 </td>
 </tr>
 <tr>
@@ -247,22 +269,6 @@
 <sub>3D 卡丁车，浏览器免登录就能玩，带多人和排行榜</sub><br>
 <sub><a href="https://fablelist.000ooo.ooo/zh/prompts/?w=banana-mine-rush&ref=gh"><b>✨ 获取提示词</b></a></sub>
 </td>
-<td width="33%" valign="top">
-<a href="https://noclipepe.pages.dev/dino"><img src="../assets/gifs/011.gif" width="100%" alt="Chrome 恐龙变兰博"></a><br>
-<b><a href="https://noclipepe.pages.dev/dino">Chrome 恐龙变兰博</a></b><br>
-<sub><a href="https://x.com/noclipepe">@noclipepe</a> · ♥ 152 · <a href="https://x.com/noclipepe/status/2119927838321328577">▶ 视频</a></sub><br>
-<sub>老 T-Rex 测试，对比 Opus / Gemini / GPT</sub><br>
-<sub><a href="https://fablelist.000ooo.ooo/zh/prompts/?w=rambo-dino&ref=gh"><b>✨ 获取提示词</b></a></sub>
-</td>
-<td width="33%" valign="top">
-<a href="https://sanwan.ai/games/xingyun-moba/"><img src="../assets/gifs/256.gif" width="100%" alt="星陨战纪：网页版类王者荣耀"></a><br>
-<b><a href="https://sanwan.ai/games/xingyun-moba/">星陨战纪：网页版类王者荣耀</a></b><br>
-<sub>🆕 · <a href="https://x.com/FuSheng_0306">@FuSheng_0306</a> · ♥ 148 · <a href="https://x.com/FuSheng_0306/status/2121237878097207583">▶ 视频</a></sub><br>
-<sub>一句提示词，Fable 5.2 跑了约 20 小时；5 个英雄，一个真人玩家加 NPC</sub><br>
-<sub><a href="https://fablelist.000ooo.ooo/zh/prompts/?w=starfall-a-browser-moba&ref=gh"><b>✨ 获取提示词</b></a></sub>
-</td>
-</tr>
-<tr>
 <td width="33%" valign="top">
 <a href="https://turbo-tails.vercel.app"><img src="../assets/gifs/009.gif" width="100%" alt="Turbo Tails 3D 卡丁车"></a><br>
 <b><a href="https://turbo-tails.vercel.app">Turbo Tails 3D 卡丁车</a></b><br>
@@ -278,6 +284,8 @@
 <sub>几条提示词做出一张带彩蛋的新地图，并把另外两张图的硬件需求和延迟减半</sub><br>
 <sub><a href="https://fablelist.000ooo.ooo/zh/prompts/?w=lumina-zombies&ref=gh"><b>✨ 获取提示词</b></a></sub>
 </td>
+</tr>
+<tr>
 <td width="33%" valign="top">
 <a href="https://loktar00.github.io/llm-test-pages/fable52-dino-chase/"><img src="../assets/gifs/222.gif" width="100%" alt="Thunder Valley 恐龙追逐"></a><br>
 <b><a href="https://loktar00.github.io/llm-test-pages/fable52-dino-chase/">Thunder Valley 恐龙追逐</a></b><br>
@@ -285,8 +293,6 @@
 <sub>不用引擎和库，自己写的 WebGL 渲染器，恐龙和树都是一层层像素叠成的 3D</sub><br>
 <sub><a href="https://fablelist.000ooo.ooo/zh/prompts/?w=thunder-valley-dino-chase&ref=gh"><b>✨ 获取提示词</b></a></sub>
 </td>
-</tr>
-<tr>
 <td width="33%" valign="top">
 <a href="https://feed-backrooms.vercel.app"><img src="../assets/gifs/013.gif" width="100%" alt="Feed the Backrooms：你当怪物"></a><br>
 <b><a href="https://feed-backrooms.vercel.app">Feed the Backrooms：你当怪物</a></b><br>
@@ -297,23 +303,23 @@
 <td width="33%" valign="top">
 <a href="https://rivergame-kappa.vercel.app"><img src="../assets/gifs/132.gif" width="100%" alt="The Waking River 奇幻航行"></a><br>
 <b><a href="https://rivergame-kappa.vercel.app">The Waking River 奇幻航行</a></b><br>
-<sub>🆕 · <a href="https://x.com/flxrnc">@flxrnc</a> · ♥ 88 · <a href="https://x.com/flxrnc/status/2120494277528580110">▶ 视频</a></sub><br>
+<sub>🆕 · <a href="https://x.com/flxrnc">@flxrnc</a> · ♥ 90 · <a href="https://x.com/flxrnc/status/2120494277528580110">▶ 视频</a></sub><br>
 <sub>一条提示词加几次追问；五个随航行苏醒的世界，配乐也是代码生成</sub><br>
 <sub><a href="https://x.com/flxrnc/status/2120494277528580110">📝 作者公开的提示词（免费）</a></sub>
-</td>
-<td width="33%" valign="top">
-<a href="https://app.usecrayon.ai/play/992c2130-43da-416b-a577-aed9514d3057"><img src="../assets/gifs/177.gif" width="100%" alt="SKYWAKE 飞行任务"></a><br>
-<b><a href="https://app.usecrayon.ai/play/992c2130-43da-416b-a577-aed9514d3057">SKYWAKE 飞行任务</a></b><br>
-<sub>🆕 · <a href="https://x.com/aniketjart">@aniketjart</a> · ♥ 78 · <a href="https://x.com/aniketjart/status/2120378493729222700">▶ 视频</a></sub><br>
-<sub>Fable 5.2 + Opus 5.5 + Crayon + three.js</sub><br>
-<sub><a href="https://fablelist.000ooo.ooo/zh/prompts/?w=skywake&ref=gh"><b>✨ 获取提示词</b></a></sub>
 </td>
 </tr>
 <tr>
 <td width="33%" valign="top">
+<a href="https://app.usecrayon.ai/play/992c2130-43da-416b-a577-aed9514d3057"><img src="../assets/gifs/177.gif" width="100%" alt="SKYWAKE 飞行任务"></a><br>
+<b><a href="https://app.usecrayon.ai/play/992c2130-43da-416b-a577-aed9514d3057">SKYWAKE 飞行任务</a></b><br>
+<sub>🆕 · <a href="https://x.com/aniketjart">@aniketjart</a> · ♥ 79 · <a href="https://x.com/aniketjart/status/2120378493729222700">▶ 视频</a></sub><br>
+<sub>Fable 5.2 + Opus 5.5 + Crayon + three.js</sub><br>
+<sub><a href="https://fablelist.000ooo.ooo/zh/prompts/?w=skywake&ref=gh"><b>✨ 获取提示词</b></a></sub>
+</td>
+<td width="33%" valign="top">
 <a href="https://app.usecrayon.ai/play/0cd7624e-1297-417e-a5be-b3c3036a496a"><img src="../assets/gifs/249.gif" width="100%" alt="KUMOKIRI 水墨武士"></a><br>
 <b><a href="https://app.usecrayon.ai/play/0cd7624e-1297-417e-a5be-b3c3036a496a">KUMOKIRI 水墨武士</a></b><br>
-<sub>🆕 · <a href="https://x.com/aniketjart">@aniketjart</a> · ♥ 67 · <a href="https://x.com/aniketjart/status/2121101334900617631">▶ 视频</a></sub><br>
+<sub>🆕 · <a href="https://x.com/aniketjart">@aniketjart</a> · ♥ 72 · <a href="https://x.com/aniketjart/status/2121101334900617631">▶ 视频</a></sub><br>
 <sub>绘画风的武士游戏，Fable 5.2 + Crayon + three.js</sub><br>
 <sub><a href="https://fablelist.000ooo.ooo/zh/prompts/?w=kumokiri&ref=gh"><b>✨ 获取提示词</b></a></sub>
 </td>
@@ -324,6 +330,8 @@
 <sub>街道、3D 模型和音效都是它做或找的，宣传视频也是它自己玩着录的；电脑上玩最好</sub><br>
 <sub><a href="https://fablelist.000ooo.ooo/zh/prompts/?w=save-the-world&ref=gh"><b>✨ 获取提示词</b></a></sub>
 </td>
+</tr>
+<tr>
 <td width="33%" valign="top">
 <a href="https://patch.gg/games/rehan/ringfall"><img src="../assets/gifs/178.gif" width="100%" alt="Ringfall《命运》风格 FPS"></a><br>
 <b><a href="https://patch.gg/games/rehan/ringfall">Ringfall《命运》风格 FPS</a></b><br>
@@ -331,8 +339,12 @@
 <sub>开源，可以拿去改</sub><br>
 <sub><a href="https://fablelist.000ooo.ooo/zh/prompts/?w=ringfall&ref=gh"><b>✨ 获取提示词</b></a></sub>
 </td>
-</tr>
-<tr>
+<td width="33%" valign="top">
+<a href="https://www.spawn.co/@abbidabbi/pogo-riot"><img src="../assets/gifs/263.gif" width="100%" alt="Pogo Riot 弹跳杆射击"></a><br>
+<b><a href="https://www.spawn.co/@abbidabbi/pogo-riot">Pogo Riot 弹跳杆射击</a></b><br>
+<sub>🆕 · <a href="https://x.com/Pumpnasterr">@Pumpnasterr</a> · ♥ 59 · <a href="https://x.com/Pumpnasterr/status/2121343507885682917">▶ 视频</a></sub><br>
+<sub>多人混战 FPS，踩着弹跳杆一边跳一边瞄准</sub>
+</td>
 <td width="33%" valign="top">
 <a href="https://samg-coder.github.io/solstice-racing/"><img src="../assets/gifs/257.gif" width="100%" alt="Kestrel Head 赛车（Solstice 引擎）"></a><br>
 <b><a href="https://samg-coder.github.io/solstice-racing/">Kestrel Head 赛车（Solstice 引擎）</a></b><br>
@@ -341,12 +353,20 @@
 <sub><a href="https://github.com/SamG-Coder/solstice-racing">源码</a></sub><br>
 <sub><a href="https://fablelist.000ooo.ooo/zh/prompts/?w=kestrel-head-solstice-racing&ref=gh"><b>✨ 获取提示词</b></a></sub>
 </td>
+</tr>
+<tr>
 <td width="33%" valign="top">
 <a href="https://shubhu121.github.io/hitdude/play/"><img src="../assets/gifs/203.gif" width="100%" alt="HITOFUDE 一筆 水墨动作游戏"></a><br>
 <b><a href="https://shubhu121.github.io/hitdude/play/">HITOFUDE 一筆 水墨动作游戏</a></b><br>
 <sub>🆕 · <a href="https://x.com/positronx_">@positronx_</a> · ♥ 52 · <a href="https://x.com/positronx_/status/2120374208043876422">▶ 视频</a></sub><br>
 <sub>每一帧都是代码画的墨；Boss 会擦掉关卡，你的剑是一支毛笔</sub><br>
 <sub><a href="https://fablelist.000ooo.ooo/zh/prompts/?w=hitofude&ref=gh"><b>✨ 获取提示词</b></a></sub>
+</td>
+<td width="33%" valign="top">
+<a href="https://patch.gg/play/blendi/small-magic"><img src="../assets/gifs/274.gif" width="100%" alt="Small Magic 巫师沙盒"></a><br>
+<b><a href="https://patch.gg/play/blendi/small-magic">Small Magic 巫师沙盒</a></b><br>
+<sub>🆕 · <a href="https://x.com/BlendiByl">@BlendiByl</a> · ♥ 50 · <a href="https://x.com/BlendiByl/status/2121594536153718972">▶ 视频</a></sub><br>
+<sub>一天做出的巫师沙盒：7 种法术、约 1800 块可破坏的物理碎片，零模型零贴图，开源</sub>
 </td>
 <td width="33%" valign="top">
 <a href="https://fowllabs.com/fable-5-2/chairmageddon/"><img src="../assets/gifs/179.gif" width="100%" alt="Chairmageddon 椅子末日"></a><br>
@@ -384,7 +404,7 @@
 <td width="33%" valign="top">
 <a href="https://claude.ai/artifact/UD9pGEN4QFA8F5EadRw8eL"><img src="../assets/gifs/189.gif" width="100%" alt="Midnight Pass 山路漂移"></a><br>
 <b><a href="https://claude.ai/artifact/UD9pGEN4QFA8F5EadRw8eL">Midnight Pass 山路漂移</a></b><br>
-<sub>🆕 · <a href="https://x.com/andreysuperior">@andreysuperior</a> · ♥ 43 · <a href="https://x.com/andreysuperior/status/2120666660130746458">▶ 视频</a></sub><br>
+<sub>🆕 · <a href="https://x.com/andreysuperior">@andreysuperior</a> · ♥ 44 · <a href="https://x.com/andreysuperior/status/2120666660130746458">▶ 视频</a></sub><br>
 <sub>一个 HTML 文件、603 行、零素材；漂移物理、整座山和引擎声都是生成的</sub><br>
 <sub><a href="https://fablelist.000ooo.ooo/zh/prompts/?w=midnight-pass&ref=gh"><b>✨ 获取提示词</b></a></sub>
 </td>
@@ -405,12 +425,27 @@
 </tr>
 <tr>
 <td width="33%" valign="top">
+<a href="https://fowllabs.com/fable-5-2/knock-it-off/"><img src="../assets/gifs/273.gif" width="100%" alt="Knock It Off 猫咪推东西"></a><br>
+<b><a href="https://fowllabs.com/fable-5-2/knock-it-off/">Knock It Off 猫咪推东西</a></b><br>
+<sub>🆕 · <a href="https://x.com/argofowl">@argofowl</a> · ♥ 40 · <a href="https://x.com/argofowl/status/2121276206683410839">▶ 视频</a></sub><br>
+<sub>凌晨三点当一只猫，一爪一爪把桌上东西推下去还不能吵醒主人；单个 HTML，没用 3D 模型</sub>
+</td>
+<td width="33%" valign="top">
 <a href="https://www.aigameshare.com/games/animal-card-battle-game?play=1&mode=fullscreen"><img src="../assets/gifs/224.gif" width="100%" alt="Thimble Knights 动物卡牌对战"></a><br>
 <b><a href="https://www.aigameshare.com/games/animal-card-battle-game?play=1&mode=fullscreen">Thimble Knights 动物卡牌对战</a></b><br>
 <sub>🆕 · <a href="https://x.com/_nilni">@_nilni</a> · ♥ 34 · <a href="https://x.com/_nilni/status/2120435983032447382">▶ 视频</a></sub><br>
 <sub>实时策略卡牌对战，角色是一群可爱小动物</sub><br>
 <sub><a href="https://x.com/_nilni/status/2120435983032447382">📝 作者公开的提示词（免费）</a></sub>
 </td>
+<td width="33%" valign="top">
+<a href="https://tetriss22.github.io/harbor-gp/"><img src="../assets/gifs/227.gif" width="100%" alt="Harbor Lights Grand Prix 港口大奖赛"></a><br>
+<b><a href="https://tetriss22.github.io/harbor-gp/">Harbor Lights Grand Prix 港口大奖赛</a></b><br>
+<sub>🆕 · <a href="https://x.com/Tetriss112">@Tetriss112</a> · ♥ 33 · <a href="https://x.com/Tetriss112/status/2120946576663134308">▶ 视频</a></sub><br>
+<sub>一个 HTML 文件：像素小岛上 20 辆车跑 22 个弯的街道赛，赛前可以下注（虚拟筹码）</sub><br>
+<sub><a href="https://fablelist.000ooo.ooo/zh/prompts/?w=harbor-lights-grand-prix&ref=gh"><b>✨ 获取提示词</b></a></sub>
+</td>
+</tr>
+<tr>
 <td width="33%" valign="top">
 <a href="https://blog.silencestar.com/posts/tilt-labyrinth/play/"><img src="../assets/gifs/018.gif" width="100%" alt="木头滚珠迷宫"></a><br>
 <b><a href="https://blog.silencestar.com/posts/tilt-labyrinth/play/">木头滚珠迷宫</a></b><br>
@@ -424,21 +459,6 @@
 <sub>🆕 · <a href="https://x.com/s_shigel">@s_shigel</a> · ♥ 32 · <a href="https://x.com/s_shigel/status/2120300080569975034">▶ 视频</a></sub><br>
 <sub>一晚上迭代出来的格斗游戏</sub><br>
 <sub><a href="https://fablelist.000ooo.ooo/zh/prompts/?w=fighting-game-plays-on-phones&ref=gh"><b>✨ 获取提示词</b></a></sub>
-</td>
-</tr>
-<tr>
-<td width="33%" valign="top">
-<a href="https://tetriss22.github.io/harbor-gp/"><img src="../assets/gifs/227.gif" width="100%" alt="Harbor Lights Grand Prix 港口大奖赛"></a><br>
-<b><a href="https://tetriss22.github.io/harbor-gp/">Harbor Lights Grand Prix 港口大奖赛</a></b><br>
-<sub>🆕 · <a href="https://x.com/Tetriss112">@Tetriss112</a> · ♥ 32 · <a href="https://x.com/Tetriss112/status/2120946576663134308">▶ 视频</a></sub><br>
-<sub>一个 HTML 文件：像素小岛上 20 辆车跑 22 个弯的街道赛，赛前可以下注（虚拟筹码）</sub><br>
-<sub><a href="https://fablelist.000ooo.ooo/zh/prompts/?w=harbor-lights-grand-prix&ref=gh"><b>✨ 获取提示词</b></a></sub>
-</td>
-<td width="33%" valign="top">
-<a href="https://www.spawn.co/@abbidabbi/pogo-riot"><img src="../assets/gifs/263.gif" width="100%" alt="Pogo Riot 弹跳杆射击"></a><br>
-<b><a href="https://www.spawn.co/@abbidabbi/pogo-riot">Pogo Riot 弹跳杆射击</a></b><br>
-<sub>🆕 · <a href="https://x.com/Pumpnasterr">@Pumpnasterr</a> · ♥ 31 · <a href="https://x.com/Pumpnasterr/status/2121343507885682917">▶ 视频</a></sub><br>
-<sub>多人混战 FPS，踩着弹跳杆一边跳一边瞄准</sub>
 </td>
 <td width="33%" valign="top">
 <a href="https://remix.gg/g/hoppy-meadow"><img src="../assets/gifs/226.gif" width="100%" alt="Hoppy Meadow 跳跳草地"></a><br>
@@ -513,7 +533,7 @@
 <td width="33%" valign="top">
 <a href="https://fighting-game-ignition.saito-931.workers.dev"><img src="../assets/gifs/234.gif" width="100%" alt="IGNITION 零界 格斗游戏"></a><br>
 <b><a href="https://fighting-game-ignition.saito-931.workers.dev">IGNITION 零界 格斗游戏</a></b><br>
-<sub>🆕 · <a href="https://x.com/s_shigel">@s_shigel</a> · ♥ 12 · <a href="https://x.com/s_shigel/status/2120895161890914336">▶ 视频</a></sub><br>
+<sub>🆕 · <a href="https://x.com/s_shigel">@s_shigel</a> · ♥ 13 · <a href="https://x.com/s_shigel/status/2120895161890914336">▶ 视频</a></sub><br>
 <sub>2D 格斗游戏，带生成的语音和音效，能存对战记录和回放</sub><br>
 <sub><a href="https://fablelist.000ooo.ooo/zh/prompts/?w=ignition-fighting-game&ref=gh"><b>✨ 获取提示词</b></a></sub>
 </td>
@@ -532,6 +552,26 @@
 <sub>🆕 · <a href="https://x.com/boona11">@boona11</a> · ♥ 11 · <a href="https://x.com/boona11/status/2120886837422195123">▶ 视频</a></sub><br>
 <sub>作者把十月做的 three.js 潜水游戏交给 Fable 5.2 改了一天，画面大升级</sub><br>
 <sub><a href="https://fablelist.000ooo.ooo/zh/prompts/?w=reef-dive&ref=gh"><b>✨ 获取提示词</b></a></sub>
+</td>
+<td width="33%" valign="top">
+<a href="https://rust4x4.com/"><img src="../assets/gifs/272.gif" width="100%" alt="Aussie Outback 4x4 澳洲越野"></a><br>
+<b><a href="https://rust4x4.com/">Aussie Outback 4x4 澳洲越野</a></b><br>
+<sub>🆕 · <a href="https://x.com/SamGCoder">@SamGCoder</a> · ♥ 9 · <a href="https://x.com/SamGCoder/status/2121513178303811931">▶ 视频</a></sub><br>
+<sub>作者自己的 Rust + WebGPU 引擎：泥地、涉溪、攀岩、差速锁、胎压和动态天气</sub>
+</td>
+</tr>
+<tr>
+<td width="33%" valign="top">
+<a href="https://aashishgtbit.github.io/PaletteRider/"><img src="../assets/gifs/275.gif" width="100%" alt="PaletteRider 骑车进名画"></a><br>
+<b><a href="https://aashishgtbit.github.io/PaletteRider/">PaletteRider 骑车进名画</a></b><br>
+<sub>🆕 · <a href="https://x.com/Aashish_Tiwari_">@Aashish_Tiwari_</a> · ♥ 9 · <a href="https://x.com/Aashish_Tiwari_/status/2120963463610880150">▶ 视频</a></sub><br>
+<sub>骑自行车穿过名画里的城市：克利《城堡与太阳》、梵高《夜晚露天咖啡座》，音乐也是它做的</sub>
+</td>
+<td width="33%" valign="top">
+<a href="http://poke-jam.vercel.app"><img src="../assets/gifs/267.gif" width="100%" alt="Poke Dodge 宝可梦躲避球"></a><br>
+<b><a href="http://poke-jam.vercel.app">Poke Dodge 宝可梦躲避球</a></b><br>
+<sub>🆕 · <a href="https://x.com/crtvTeknologist">@crtvTeknologist</a> · ♥ 8 · <a href="https://x.com/crtvTeknologist/status/2121319366830809285">▶ 视频</a></sub><br>
+<sub>2v2 宝可梦 × 躲避球，带 NBA Jam 味道；有道馆天梯、属性克制和携带道具</sub>
 </td>
 <td width="33%" valign="top">
 <a href="https://www.aigameshare.com/games/great-wave-off-kanagawa?play=1&mode=fullscreen"><img src="../assets/gifs/235.gif" width="100%" alt="Great Wave 神奈川冲浪"></a><br>
@@ -557,19 +597,13 @@
 <sub><a href="https://fablelist.000ooo.ooo/zh/prompts/?w=go-for-launch&ref=gh"><b>✨ 获取提示词</b></a></sub>
 </td>
 <td width="33%" valign="top">
-<a href="http://poke-jam.vercel.app"><img src="../assets/gifs/267.gif" width="100%" alt="Poke Dodge 宝可梦躲避球"></a><br>
-<b><a href="http://poke-jam.vercel.app">Poke Dodge 宝可梦躲避球</a></b><br>
-<sub>🆕 · <a href="https://x.com/crtvTeknologist">@crtvTeknologist</a> · ♥ 5 · <a href="https://x.com/crtvTeknologist/status/2121319366830809285">▶ 视频</a></sub><br>
-<sub>2v2 宝可梦 × 躲避球，带 NBA Jam 味道；有道馆天梯、属性克制和携带道具</sub>
-</td>
-</tr>
-<tr>
-<td width="33%" valign="top">
 <a href="https://infall-game.vercel.app"><img src="../assets/gifs/268.gif" width="100%" alt="INFALL 你就是黑洞"></a><br>
 <b><a href="https://infall-game.vercel.app">INFALL 你就是黑洞</a></b><br>
 <sub>🆕 · <a href="https://x.com/AugustCastilIo">@AugustCastilIo</a> · ♥ 5 · <a href="https://x.com/AugustCastilIo/status/2121350653037756557">▶ 视频</a></sub><br>
 <sub>只说了「放开做，让我大吃一惊」，从点子到代码一次做出</sub>
 </td>
+</tr>
+<tr>
 <td width="33%" valign="top">
 <a href="https://claude.ai/artifact/1QGGhB68jMCjjjeeKtKNUo"><img src="../assets/gifs/021.gif" width="100%" alt="格斗游戏（ElevenLabs 配音）"></a><br>
 <b><a href="https://claude.ai/artifact/1QGGhB68jMCjjjeeKtKNUo">格斗游戏（ElevenLabs 配音）</a></b><br>
