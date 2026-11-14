@@ -1,4 +1,4 @@
-# 🌍 3D 世界与场景 · 全部 30 个
+# 🌍 3D 世界与场景 · 全部 33 个
 
 [← 回到首页](../README.zh-CN.md) · [English](3d-worlds.md) · **简体中文**
 
@@ -15,7 +15,7 @@
 <td width="33%" valign="top">
 <a href="https://patch.gg/blendi/painted-valley"><img src="../assets/gifs/134.gif" width="100%" alt="Painted Valley 吉卜力风山谷"></a><br>
 <b><a href="https://patch.gg/blendi/painted-valley">Painted Valley 吉卜力风山谷</a></b><br>
-<sub>🆕 · <a href="https://x.com/BlendiByl">@BlendiByl</a> · ♥ 1.7k · <a href="https://x.com/BlendiByl/status/2120694003230560585">▶ 视频</a></sub><br>
+<sub>🆕 · <a href="https://x.com/BlendiByl">@BlendiByl</a> · ♥ 1.8k · <a href="https://x.com/BlendiByl/status/2120694003230560585">▶ 视频</a></sub><br>
 <sub>可以走进去的手绘风场景；开源</sub>
 </td>
 <td width="33%" valign="top">
@@ -29,35 +29,35 @@
 <td width="33%" valign="top">
 <a href="https://claude.ai/artifact/CTjrZXVdUgKJ6qJXrvvr28"><img src="../assets/gifs/218.gif" width="100%" alt="Ancient Babylon 古巴比伦城"></a><br>
 <b><a href="https://claude.ai/artifact/CTjrZXVdUgKJ6qJXrvvr28">Ancient Babylon 古巴比伦城</a></b><br>
-<sub>🆕 · <a href="https://x.com/literallydenis">@literallydenis</a> · ♥ 1.1k · <a href="https://x.com/literallydenis/status/2120866958790848953">▶ 视频</a></sub><br>
+<sub>🆕 · <a href="https://x.com/literallydenis">@literallydenis</a> · ♥ 1.2k · <a href="https://x.com/literallydenis/status/2120866958790848953">▶ 视频</a></sub><br>
 <sub>公元前 600 年的巴比伦，它自己查史料和建筑图纸，跑了 8 小时，能自由逛</sub>
 </td>
 <td width="33%" valign="top">
 <a href="https://fable-rome.surge.sh/"><img src="../assets/gifs/136.gif" width="100%" alt="Rome, AD 320 古罗马"></a><br>
 <b><a href="https://fable-rome.surge.sh/">Rome, AD 320 古罗马</a></b><br>
-<sub>🆕 · <a href="https://x.com/petergostev">@petergostev</a> · ♥ 965 · <a href="https://x.com/petergostev/status/2120167560700383572">▶ 视频</a></sub><br>
+<sub>🆕 · <a href="https://x.com/petergostev">@petergostev</a> · ♥ 968 · <a href="https://x.com/petergostev/status/2120167560700383572">▶ 视频</a></sub><br>
 <sub>一条提示词，Fable 5.2 Max 跑了一夜，花费 $2,618</sub>
 </td>
 <td width="33%" valign="top">
 <a href="https://github.com/Leonxlnx/room-at-dawn"><img src="../assets/gifs/219.gif" width="100%" alt="Room at Dawn 黎明的卧室"></a><br>
 <b><a href="https://github.com/Leonxlnx/room-at-dawn">Room at Dawn 黎明的卧室</a></b><br>
-<sub>🆕 · <a href="https://x.com/LexnLin">@LexnLin</a> · ♥ 783 · <a href="https://x.com/LexnLin/status/2120910879361548565">▶ 视频</a></sub><br>
+<sub>🆕 · <a href="https://x.com/LexnLin">@LexnLin</a> · ♥ 838 · <a href="https://x.com/LexnLin/status/2120910879361548565">▶ 视频</a></sub><br>
 <sub>three.js 写的写实卧室，没用任何现成模型和贴图，全是代码生成</sub>
 </td>
 </tr>
 <tr>
+<td width="33%" valign="top">
+<a href="https://supernatural-ft.vercel.app/fire-in-ice"><img src="../assets/gifs/221.gif" width="100%" alt="Fire in Ice 冰中之火"></a><br>
+<b><a href="https://supernatural-ft.vercel.app/fire-in-ice">Fire in Ice 冰中之火</a></b><br>
+<sub>🆕 · <a href="https://x.com/tkm_hmng8">@tkm_hmng8</a> · ♥ 490 · <a href="https://x.com/tkm_hmng8/status/2120813043101946324">▶ 视频</a></sub><br>
+<sub>冰块里燃烧的火焰，不用 three.js，纯 WebGPU 写的写实效果</sub>
+</td>
 <td width="33%" valign="top">
 <a href="https://bay.theojaffee.net"><img src="../assets/gifs/137.gif" width="100%" alt="湾区 250 年"></a><br>
 <b><a href="https://bay.theojaffee.net">湾区 250 年</a></b><br>
 <sub>🆕 · <a href="https://x.com/theojaffee">@theojaffee</a> · ♥ 383 · <a href="https://x.com/theojaffee/status/2120312766544437738">▶ 视频</a></sub><br>
 <sub>缩放到任意城市或街区，选 1769 年以来的任一年看当时的样子</sub><br>
 <sub><a href="https://nyc.theojaffee.net">纽约版</a></sub>
-</td>
-<td width="33%" valign="top">
-<a href="https://supernatural-ft.vercel.app/fire-in-ice"><img src="../assets/gifs/221.gif" width="100%" alt="Fire in Ice 冰中之火"></a><br>
-<b><a href="https://supernatural-ft.vercel.app/fire-in-ice">Fire in Ice 冰中之火</a></b><br>
-<sub>🆕 · <a href="https://x.com/tkm_hmng8">@tkm_hmng8</a> · ♥ 372 · <a href="https://x.com/tkm_hmng8/status/2120813043101946324">▶ 视频</a></sub><br>
-<sub>冰块里燃烧的火焰，不用 three.js，纯 WebGPU 写的写实效果</sub>
 </td>
 <td width="33%" valign="top">
 <a href="http://procedural-arm-rig.vercel.app"><img src="../assets/gifs/140.gif" width="100%" alt="程序化手臂绑定"></a><br>
@@ -70,13 +70,13 @@
 <td width="33%" valign="top">
 <a href="https://samg-coder.github.io/solstice-garden/"><img src="../assets/gifs/248.gif" width="100%" alt="The Garden 夏至花园"></a><br>
 <b><a href="https://samg-coder.github.io/solstice-garden/">The Garden 夏至花园</a></b><br>
-<sub>🆕 · <a href="https://x.com/SamGCoder">@SamGCoder</a> · ♥ 219 · <a href="https://x.com/SamGCoder/status/2120943068321054975">▶ 视频</a></sub><br>
+<sub>🆕 · <a href="https://x.com/SamGCoder">@SamGCoder</a> · ♥ 269 · <a href="https://x.com/SamGCoder/status/2120943068321054975">▶ 视频</a></sub><br>
 <sub>Rust 编译成 WASM、用 WebGPU 渲染的花园</sub>
 </td>
 <td width="33%" valign="top">
 <a href="https://claude.ai/artifact/R6YBDkAm2GjAC5A65D9djx"><img src="../assets/gifs/142.gif" width="100%" alt="能走进去的 Claude 演示间"></a><br>
 <b><a href="https://claude.ai/artifact/R6YBDkAm2GjAC5A65D9djx">能走进去的 Claude 演示间</a></b><br>
-<sub>🆕 · <a href="https://x.com/dfeinition">@dfeinition</a> · ♥ 212 · <a href="https://x.com/dfeinition/status/2120330644261589051">▶ 视频</a></sub><br>
+<sub>🆕 · <a href="https://x.com/dfeinition">@dfeinition</a> · ♥ 213 · <a href="https://x.com/dfeinition/status/2120330644261589051">▶ 视频</a></sub><br>
 <sub>受 @rileybrown 启发；走进房间，坐到任意一台电脑前</sub>
 </td>
 <td width="33%" valign="top">
@@ -123,7 +123,7 @@
 <td width="33%" valign="top">
 <a href="https://vancouver.webly.site"><img src="../assets/gifs/032.gif" width="100%" alt="温哥华鸟瞰"></a><br>
 <b><a href="https://vancouver.webly.site">温哥华鸟瞰</a></b><br>
-<sub><a href="https://x.com/tokifyi">@tokifyi</a> · ♥ 71 · <a href="https://x.com/tokifyi/status/2120020272153764172">原帖</a></sub><br>
+<sub><a href="https://x.com/tokifyi">@tokifyi</a> · ♥ 72 · <a href="https://x.com/tokifyi/status/2120020272153764172">原帖</a></sub><br>
 <sub>Three.js 重建城市</sub>
 </td>
 </tr>
@@ -131,7 +131,7 @@
 <td width="33%" valign="top">
 <a href="https://fable-jerusalem.vercel.app/"><img src="../assets/gifs/138.gif" width="100%" alt="逾越节的耶路撒冷"></a><br>
 <b><a href="https://fable-jerusalem.vercel.app/">逾越节的耶路撒冷</a></b><br>
-<sub>🆕 · <a href="https://x.com/kplikethebird">@kplikethebird</a> · ♥ 42 · <a href="https://x.com/kplikethebird/status/2119900775727902732">▶ 视频</a></sub><br>
+<sub>🆕 · <a href="https://x.com/kplikethebird">@kplikethebird</a> · ♥ 43 · <a href="https://x.com/kplikethebird/status/2119900775727902732">▶ 视频</a></sub><br>
 <sub>按史料用 Blender 建的沉浸式 3D 耶路撒冷，可以在街上走</sub>
 </td>
 <td width="33%" valign="top">
@@ -153,7 +153,7 @@
 <td width="33%" valign="top">
 <a href="https://claude.ai/artifact/HGk1WNqTgrGEE8ndBkEipB"><img src="../assets/gifs/229.gif" width="100%" alt="像素画变 3D 世界"></a><br>
 <b><a href="https://claude.ai/artifact/HGk1WNqTgrGEE8ndBkEipB">像素画变 3D 世界</a></b><br>
-<sub>🆕 · <a href="https://x.com/dfeinition">@dfeinition</a> · ♥ 27 · <a href="https://x.com/dfeinition/status/2120933859999059970">▶ 视频</a></sub><br>
+<sub>🆕 · <a href="https://x.com/dfeinition">@dfeinition</a> · ♥ 28 · <a href="https://x.com/dfeinition/status/2120933859999059970">▶ 视频</a></sub><br>
 <sub>把一幅像素画做成可以走进去的 3D 世界，鲸鱼带你看它是怎么做的</sub>
 </td>
 <td width="33%" valign="top">
@@ -178,10 +178,30 @@
 <sub><a href="https://claude.ai/artifact/B7ZmVS7Yr3BUc99ZyGk2bX">Opus 5.5 版</a></sub>
 </td>
 <td width="33%" valign="top">
+<a href="https://sf-js.webly.site"><img src="../assets/gifs/264.gif" width="100%" alt="旧金山黄金时刻"></a><br>
+<b><a href="https://sf-js.webly.site">旧金山黄金时刻</a></b><br>
+<sub>🆕 · <a href="https://x.com/tokifyi">@tokifyi</a> · ♥ 15 · <a href="https://x.com/tokifyi/status/2121367097972531412">▶ 视频</a></sub><br>
+<sub>一条提示词，纯 JavaScript Canvas 画出金门大桥、天际线、雾、倒影和缆车，不用图片和库</sub>
+</td>
+<td width="33%" valign="top">
+<a href="https://planet.tokyoaivisuals.club/"><img src="../assets/gifs/266.gif" width="100%" alt="Code Planet 代码星球"></a><br>
+<b><a href="https://planet.tokyoaivisuals.club/">Code Planet 代码星球</a></b><br>
+<sub>🆕 · <a href="https://x.com/KanaWorks_AI">@KanaWorks_AI</a> · ♥ 12 · <a href="https://x.com/KanaWorks_AI/status/2121413647213932688">▶ 视频</a></sub><br>
+<sub>不到 320KB 纯代码的星球，大海、草原、樱花一直飞到太空，打开即玩</sub>
+</td>
+</tr>
+<tr>
+<td width="33%" valign="top">
 <a href="https://glittery-stardust-885b97.netlify.app"><img src="../assets/gifs/233.gif" width="100%" alt="HX-6 六足机器人登陆三个星球"></a><br>
 <b><a href="https://glittery-stardust-885b97.netlify.app">HX-6 六足机器人登陆三个星球</a></b><br>
 <sub>🆕 · <a href="https://x.com/Acoramaa">@Acoramaa</a> · ♥ 11 · <a href="https://x.com/Acoramaa/status/2120839083895538093">▶ 视频</a></sub><br>
 <sub>同一台 14 公斤六足机器人在火星、月球、木卫二上行走，每只脚自己找落脚点，可以自己开</sub>
+</td>
+<td width="33%" valign="top">
+<a href="https://madebysourasith-sudo.github.io/red-wing-jet/"><img src="../assets/gifs/265.gif" width="100%" alt="Red Wing 私人飞机"></a><br>
+<b><a href="https://madebysourasith-sudo.github.io/red-wing-jet/">Red Wing 私人飞机</a></b><br>
+<sub>🆕 · <a href="https://x.com/titepommee">@titepommee</a> · ♥ 8 · <a href="https://x.com/titepommee/status/2121259736217911357">▶ 视频</a></sub><br>
+<sub>绕着飞机走一圈，点舱门放下舷梯走进去，有休息区、卧室和洗手间</sub>
 </td>
 <td width="33%" valign="top">
 <a href="https://zondark.com"><img src="../assets/gifs/033.gif" width="100%" alt="单程太空旅行个人站"></a><br>

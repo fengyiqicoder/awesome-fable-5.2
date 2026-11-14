@@ -1,4 +1,4 @@
-# 🌍 3D Worlds & Scenes · all 30
+# 🌍 3D Worlds & Scenes · all 33
 
 [← Back to the main list](../README.md) · **English** · [简体中文](3d-worlds.zh-CN.md)
 
@@ -15,7 +15,7 @@ The main page only shows posts with 100+ likes; this page has every entry in thi
 <td width="33%" valign="top">
 <a href="https://patch.gg/blendi/painted-valley"><img src="../assets/gifs/134.gif" width="100%" alt="Painted Valley"></a><br>
 <b><a href="https://patch.gg/blendi/painted-valley">Painted Valley</a></b><br>
-<sub>🆕 · <a href="https://x.com/BlendiByl">@BlendiByl</a> · ♥ 1.7k · <a href="https://x.com/BlendiByl/status/2120694003230560585">▶ Video</a></sub><br>
+<sub>🆕 · <a href="https://x.com/BlendiByl">@BlendiByl</a> · ♥ 1.8k · <a href="https://x.com/BlendiByl/status/2120694003230560585">▶ Video</a></sub><br>
 <sub>A Ghibli-inspired hand-painted valley you can walk through. Open source.</sub>
 </td>
 <td width="33%" valign="top">
@@ -29,35 +29,35 @@ The main page only shows posts with 100+ likes; this page has every entry in thi
 <td width="33%" valign="top">
 <a href="https://claude.ai/artifact/CTjrZXVdUgKJ6qJXrvvr28"><img src="../assets/gifs/218.gif" width="100%" alt="Ancient Babylon, 600 BC"></a><br>
 <b><a href="https://claude.ai/artifact/CTjrZXVdUgKJ6qJXrvvr28">Ancient Babylon, 600 BC</a></b><br>
-<sub>🆕 · <a href="https://x.com/literallydenis">@literallydenis</a> · ♥ 1.1k · <a href="https://x.com/literallydenis/status/2120866958790848953">▶ Video</a></sub><br>
+<sub>🆕 · <a href="https://x.com/literallydenis">@literallydenis</a> · ♥ 1.2k · <a href="https://x.com/literallydenis/status/2120866958790848953">▶ Video</a></sub><br>
 <sub>Babylon rebuilt from historical documents and plans it found itself, over an 8-hour run. Walk around freely.</sub>
 </td>
 <td width="33%" valign="top">
 <a href="https://fable-rome.surge.sh/"><img src="../assets/gifs/136.gif" width="100%" alt="Rome, AD 320"></a><br>
 <b><a href="https://fable-rome.surge.sh/">Rome, AD 320</a></b><br>
-<sub>🆕 · <a href="https://x.com/petergostev">@petergostev</a> · ♥ 965 · <a href="https://x.com/petergostev/status/2120167560700383572">▶ Video</a></sub><br>
+<sub>🆕 · <a href="https://x.com/petergostev">@petergostev</a> · ♥ 968 · <a href="https://x.com/petergostev/status/2120167560700383572">▶ Video</a></sub><br>
 <sub>One prompt, Fable 5.2 (Max) running overnight, $2,618.</sub>
 </td>
 <td width="33%" valign="top">
 <a href="https://github.com/Leonxlnx/room-at-dawn"><img src="../assets/gifs/219.gif" width="100%" alt="Room at Dawn"></a><br>
 <b><a href="https://github.com/Leonxlnx/room-at-dawn">Room at Dawn</a></b><br>
-<sub>🆕 · <a href="https://x.com/LexnLin">@LexnLin</a> · ♥ 783 · <a href="https://x.com/LexnLin/status/2120910879361548565">▶ Video</a></sub><br>
+<sub>🆕 · <a href="https://x.com/LexnLin">@LexnLin</a> · ♥ 838 · <a href="https://x.com/LexnLin/status/2120910879361548565">▶ Video</a></sub><br>
 <sub>A photoreal bedroom in three.js with no pre-made models or textures; everything is code.</sub>
 </td>
 </tr>
 <tr>
+<td width="33%" valign="top">
+<a href="https://supernatural-ft.vercel.app/fire-in-ice"><img src="../assets/gifs/221.gif" width="100%" alt="Fire in Ice"></a><br>
+<b><a href="https://supernatural-ft.vercel.app/fire-in-ice">Fire in Ice</a></b><br>
+<sub>🆕 · <a href="https://x.com/tkm_hmng8">@tkm_hmng8</a> · ♥ 490 · <a href="https://x.com/tkm_hmng8/status/2120813043101946324">▶ Video</a></sub><br>
+<sub>Realistic fire burning inside ice, written in raw WebGPU without three.js.</sub>
+</td>
 <td width="33%" valign="top">
 <a href="https://bay.theojaffee.net"><img src="../assets/gifs/137.gif" width="100%" alt="Bay Area Through Time"></a><br>
 <b><a href="https://bay.theojaffee.net">Bay Area Through Time</a></b><br>
 <sub>🆕 · <a href="https://x.com/theojaffee">@theojaffee</a> · ♥ 383 · <a href="https://x.com/theojaffee/status/2120312766544437738">▶ Video</a></sub><br>
 <sub>Zoom to any city or neighborhood, pick any year back to 1769 and see what it looked like.</sub><br>
 <sub><a href="https://nyc.theojaffee.net">New York City</a></sub>
-</td>
-<td width="33%" valign="top">
-<a href="https://supernatural-ft.vercel.app/fire-in-ice"><img src="../assets/gifs/221.gif" width="100%" alt="Fire in Ice"></a><br>
-<b><a href="https://supernatural-ft.vercel.app/fire-in-ice">Fire in Ice</a></b><br>
-<sub>🆕 · <a href="https://x.com/tkm_hmng8">@tkm_hmng8</a> · ♥ 372 · <a href="https://x.com/tkm_hmng8/status/2120813043101946324">▶ Video</a></sub><br>
-<sub>Realistic fire burning inside ice, written in raw WebGPU without three.js.</sub>
 </td>
 <td width="33%" valign="top">
 <a href="http://procedural-arm-rig.vercel.app"><img src="../assets/gifs/140.gif" width="100%" alt="Procedural Arm Rig"></a><br>
@@ -70,13 +70,13 @@ The main page only shows posts with 100+ likes; this page has every entry in thi
 <td width="33%" valign="top">
 <a href="https://samg-coder.github.io/solstice-garden/"><img src="../assets/gifs/248.gif" width="100%" alt="The Garden"></a><br>
 <b><a href="https://samg-coder.github.io/solstice-garden/">The Garden</a></b><br>
-<sub>🆕 · <a href="https://x.com/SamGCoder">@SamGCoder</a> · ♥ 219 · <a href="https://x.com/SamGCoder/status/2120943068321054975">▶ Video</a></sub><br>
+<sub>🆕 · <a href="https://x.com/SamGCoder">@SamGCoder</a> · ♥ 269 · <a href="https://x.com/SamGCoder/status/2120943068321054975">▶ Video</a></sub><br>
 <sub>A garden scene written in Rust, compiled to WASM and rendered with WebGPU.</sub>
 </td>
 <td width="33%" valign="top">
 <a href="https://claude.ai/artifact/R6YBDkAm2GjAC5A65D9djx"><img src="../assets/gifs/142.gif" width="100%" alt="A Claude demo you can walk into"></a><br>
 <b><a href="https://claude.ai/artifact/R6YBDkAm2GjAC5A65D9djx">A Claude demo you can walk into</a></b><br>
-<sub>🆕 · <a href="https://x.com/dfeinition">@dfeinition</a> · ♥ 212 · <a href="https://x.com/dfeinition/status/2120330644261589051">▶ Video</a></sub><br>
+<sub>🆕 · <a href="https://x.com/dfeinition">@dfeinition</a> · ♥ 213 · <a href="https://x.com/dfeinition/status/2120330644261589051">▶ Video</a></sub><br>
 <sub>Inspired by @rileybrown: walk in and sit at any computer.</sub>
 </td>
 <td width="33%" valign="top">
@@ -123,7 +123,7 @@ The main page only shows posts with 100+ likes; this page has every entry in thi
 <td width="33%" valign="top">
 <a href="https://vancouver.webly.site"><img src="../assets/gifs/032.gif" width="100%" alt="Vancouver From Above"></a><br>
 <b><a href="https://vancouver.webly.site">Vancouver From Above</a></b><br>
-<sub><a href="https://x.com/tokifyi">@tokifyi</a> · ♥ 71 · <a href="https://x.com/tokifyi/status/2120020272153764172">Post</a></sub><br>
+<sub><a href="https://x.com/tokifyi">@tokifyi</a> · ♥ 72 · <a href="https://x.com/tokifyi/status/2120020272153764172">Post</a></sub><br>
 <sub>The city rebuilt in three.js.</sub>
 </td>
 </tr>
@@ -131,7 +131,7 @@ The main page only shows posts with 100+ likes; this page has every entry in thi
 <td width="33%" valign="top">
 <a href="https://fable-jerusalem.vercel.app/"><img src="../assets/gifs/138.gif" width="100%" alt="Jerusalem at Passover"></a><br>
 <b><a href="https://fable-jerusalem.vercel.app/">Jerusalem at Passover</a></b><br>
-<sub>🆕 · <a href="https://x.com/kplikethebird">@kplikethebird</a> · ♥ 42 · <a href="https://x.com/kplikethebird/status/2119900775727902732">▶ Video</a></sub><br>
+<sub>🆕 · <a href="https://x.com/kplikethebird">@kplikethebird</a> · ♥ 43 · <a href="https://x.com/kplikethebird/status/2119900775727902732">▶ Video</a></sub><br>
 <sub>An immersive, historically grounded 3D Jerusalem built with Blender. Wander the streets.</sub>
 </td>
 <td width="33%" valign="top">
@@ -153,7 +153,7 @@ The main page only shows posts with 100+ likes; this page has every entry in thi
 <td width="33%" valign="top">
 <a href="https://claude.ai/artifact/HGk1WNqTgrGEE8ndBkEipB"><img src="../assets/gifs/229.gif" width="100%" alt="Pixel art to 3D world"></a><br>
 <b><a href="https://claude.ai/artifact/HGk1WNqTgrGEE8ndBkEipB">Pixel art to 3D world</a></b><br>
-<sub>🆕 · <a href="https://x.com/dfeinition">@dfeinition</a> · ♥ 27 · <a href="https://x.com/dfeinition/status/2120933859999059970">▶ Video</a></sub><br>
+<sub>🆕 · <a href="https://x.com/dfeinition">@dfeinition</a> · ♥ 28 · <a href="https://x.com/dfeinition/status/2120933859999059970">▶ Video</a></sub><br>
 <sub>A piece of pixel art turned into an interactive 3D world, with a whale showing how it was made.</sub>
 </td>
 <td width="33%" valign="top">
@@ -178,10 +178,30 @@ The main page only shows posts with 100+ likes; this page has every entry in thi
 <sub><a href="https://claude.ai/artifact/B7ZmVS7Yr3BUc99ZyGk2bX">Opus 5.5 version</a></sub>
 </td>
 <td width="33%" valign="top">
+<a href="https://sf-js.webly.site"><img src="../assets/gifs/264.gif" width="100%" alt="San Francisco at golden hour"></a><br>
+<b><a href="https://sf-js.webly.site">San Francisco at golden hour</a></b><br>
+<sub>🆕 · <a href="https://x.com/tokifyi">@tokifyi</a> · ♥ 15 · <a href="https://x.com/tokifyi/status/2121367097972531412">▶ Video</a></sub><br>
+<sub>One prompt, pure JavaScript canvas: the bridge, skyline, fog, reflections and a cable car, no images or libraries.</sub>
+</td>
+<td width="33%" valign="top">
+<a href="https://planet.tokyoaivisuals.club/"><img src="../assets/gifs/266.gif" width="100%" alt="Code Planet"></a><br>
+<b><a href="https://planet.tokyoaivisuals.club/">Code Planet</a></b><br>
+<sub>🆕 · <a href="https://x.com/KanaWorks_AI">@KanaWorks_AI</a> · ♥ 12 · <a href="https://x.com/KanaWorks_AI/status/2121413647213932688">▶ Video</a></sub><br>
+<sub>A whole planet in under 320KB of code. Fly from the sea and meadows through cherry blossoms up into space, right in the browser.</sub>
+</td>
+</tr>
+<tr>
+<td width="33%" valign="top">
 <a href="https://glittery-stardust-885b97.netlify.app"><img src="../assets/gifs/233.gif" width="100%" alt="HX-6 Hexapod, Three Worlds"></a><br>
 <b><a href="https://glittery-stardust-885b97.netlify.app">HX-6 Hexapod, Three Worlds</a></b><br>
 <sub>🆕 · <a href="https://x.com/Acoramaa">@Acoramaa</a> · ♥ 11 · <a href="https://x.com/Acoramaa/status/2120839083895538093">▶ Video</a></sub><br>
 <sub>The same 14 kg hexapod on Mars, the Moon and Europa; every foot finds its own ground. Drive it yourself.</sub>
+</td>
+<td width="33%" valign="top">
+<a href="https://madebysourasith-sudo.github.io/red-wing-jet/"><img src="../assets/gifs/265.gif" width="100%" alt="Red Wing private jet"></a><br>
+<b><a href="https://madebysourasith-sudo.github.io/red-wing-jet/">Red Wing private jet</a></b><br>
+<sub>🆕 · <a href="https://x.com/titepommee">@titepommee</a> · ♥ 8 · <a href="https://x.com/titepommee/status/2121259736217911357">▶ Video</a></sub><br>
+<sub>Walk around the jet, click the door, the stairs come down and you step in: lounge, bedroom, even the bathroom.</sub>
 </td>
 <td width="33%" valign="top">
 <a href="https://zondark.com"><img src="../assets/gifs/033.gif" width="100%" alt="One-way Trip to a Black Hole"></a><br>

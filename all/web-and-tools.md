@@ -9,7 +9,7 @@ The main page only shows posts with 100+ likes; this page has every entry in thi
 <td width="33%" valign="top">
 <a href="https://claudia.gallery"><img src="../assets/gifs/038.gif" width="100%" alt="Claudia Gallery"></a><br>
 <b><a href="https://claudia.gallery">Claudia Gallery</a></b><br>
-<sub><a href="https://x.com/anabology">@anabology</a> · ♥ 5.1k · <a href="https://x.com/anabology/status/2120010995309457643">▶ Video</a></sub><br>
+<sub><a href="https://x.com/anabology">@anabology</a> · ♥ 5.3k · <a href="https://x.com/anabology/status/2120010995309457643">▶ Video</a></sub><br>
 <sub>"Make the video of your dreams" — two shots, 9 hours.</sub>
 </td>
 <td width="33%" valign="top">
@@ -22,7 +22,7 @@ The main page only shows posts with 100+ likes; this page has every entry in thi
 <td width="33%" valign="top">
 <a href="https://claude.ai/artifact/N6bSgS4ZH5ifFQfg8sm4dv"><img src="../assets/gifs/217.gif" width="100%" alt="House Bangers generator"></a><br>
 <b><a href="https://claude.ai/artifact/N6bSgS4ZH5ifFQfg8sm4dv">House Bangers generator</a></b><br>
-<sub>🆕 · <a href="https://x.com/deedydas">@deedydas</a> · ♥ 2.8k · <a href="https://x.com/deedydas/status/2120905625852936318">▶ Video</a></sub><br>
+<sub>🆕 · <a href="https://x.com/deedydas">@deedydas</a> · ♥ 3.7k · <a href="https://x.com/deedydas/status/2120905625852936318">▶ Video</a></sub><br>
 <sub>It learned music theory, tries thousands of patterns per instrument and arranges the best into a 72-bar house track. Sound on.</sub>
 </td>
 </tr>
@@ -65,7 +65,7 @@ The main page only shows posts with 100+ likes; this page has every entry in thi
 <td width="33%" valign="top">
 <a href="https://github.com/AlexAtFF/pulp-daw-public"><img src="../assets/gifs/204.gif" width="100%" alt="PULP — an AI-native DAW"></a><br>
 <b><a href="https://github.com/AlexAtFF/pulp-daw-public">PULP — an AI-native DAW</a></b><br>
-<sub>🆕 · <a href="https://x.com/The_Alex">@The_Alex</a> · ♥ 938 · <a href="https://x.com/The_Alex/status/2119917226769985785">▶ Video</a></sub><br>
+<sub>🆕 · <a href="https://x.com/The_Alex">@The_Alex</a> · ♥ 940 · <a href="https://x.com/The_Alex/status/2119917226769985785">▶ Video</a></sub><br>
 <sub>A native Windows digital audio workstation. Ask Claude for music and it opens the DAW and makes the song.</sub>
 </td>
 </tr>
@@ -73,13 +73,13 @@ The main page only shows posts with 100+ likes; this page has every entry in thi
 <td width="33%" valign="top">
 <a href="https://frontier.every.to/experiments/ambient-town"><img src="../assets/gifs/148.gif" width="100%" alt="Ambient Town"></a><br>
 <b><a href="https://frontier.every.to/experiments/ambient-town">Ambient Town</a></b><br>
-<sub>🆕 · <a href="https://x.com/kieranklaassen">@kieranklaassen</a> · ♥ 890 · <a href="https://x.com/kieranklaassen/status/2119868196773929160">▶ Video</a></sub><br>
+<sub>🆕 · <a href="https://x.com/kieranklaassen">@kieranklaassen</a> · ♥ 891 · <a href="https://x.com/kieranklaassen/status/2119868196773929160">▶ Video</a></sub><br>
 <sub>An ambient DAW built over a week of nights by a former film composer: Ableton Push support, mics, effects, a synth and an agent that composes with you. Click "Try it" on the page.</sub>
 </td>
 <td width="33%" valign="top">
 <a href="https://itspsneha.com/supplements"><img src="../assets/gifs/037.gif" width="100%" alt="Which Vitamins to Buy in India"></a><br>
 <b><a href="https://itspsneha.com/supplements">Which Vitamins to Buy in India</a></b><br>
-<sub><a href="https://x.com/itspsneha">@itspsneha</a> · ♥ 739 · <a href="https://x.com/itspsneha/status/2120048494761451974">Post</a></sub><br>
+<sub><a href="https://x.com/itspsneha">@itspsneha</a> · ♥ 740 · <a href="https://x.com/itspsneha/status/2120048494761451974">Post</a></sub><br>
 <sub>Built after reading lab reports for 109 tested batches.</sub>
 </td>
 <td width="33%" valign="top">
@@ -100,7 +100,7 @@ The main page only shows posts with 100+ likes; this page has every entry in thi
 <td width="33%" valign="top">
 <a href="https://gsplan.org"><img src="../assets/gifs/206.gif" width="100%" alt="Galatasaray seat view"></a><br>
 <b><a href="https://gsplan.org">Galatasaray seat view</a></b><br>
-<sub>🆕 · <a href="https://x.com/molenbeek84">@molenbeek84</a> · ♥ 422 · <a href="https://x.com/molenbeek84/status/2120847639411331097">Post</a></sub><br>
+<sub>🆕 · <a href="https://x.com/molenbeek84">@molenbeek84</a> · ♥ 423 · <a href="https://x.com/molenbeek84/status/2120847639411331097">Post</a></sub><br>
 <sub>See the view of the pitch from every block at RAMS Park before you buy a ticket.</sub>
 </td>
 <td width="33%" valign="top">
@@ -118,16 +118,16 @@ The main page only shows posts with 100+ likes; this page has every entry in thi
 <sub>A fully working typewriter: type or click keys, writing timers, whiteout, autocorrect.</sub>
 </td>
 <td width="33%" valign="top">
+<a href="https://patch.gg/patch/anymove"><img src="../assets/gifs/149.gif" width="100%" alt="anymove"></a><br>
+<b><a href="https://patch.gg/patch/anymove">anymove</a></b><br>
+<sub>🆕 · <a href="https://x.com/rehan_shei">@rehan_shei</a> · ♥ 139 · <a href="https://x.com/rehan_shei/status/2120409150870159414">▶ Video</a></sub><br>
+<sub>Solves the moves in an AI video clip onto a real 3D rig — no mocap suit, no keyframes. Open source.</sub>
+</td>
+<td width="33%" valign="top">
 <a href="https://motionsites.ai/?prompt=vante-ribbon-hero"><img src="../assets/gifs/048.gif" width="100%" alt="Ribbon Hero"></a><br>
 <b><a href="https://motionsites.ai/?prompt=vante-ribbon-hero">Ribbon Hero</a></b><br>
 <sub><a href="https://x.com/viktoroddy">@viktoroddy</a> · ♥ 138 · <a href="https://x.com/viktoroddy/status/2119985044542705916">▶ Video</a></sub><br>
 <sub>A hero section made with Fable 5.2 + GPT Image 2.6.</sub>
-</td>
-<td width="33%" valign="top">
-<a href="https://patch.gg/patch/anymove"><img src="../assets/gifs/149.gif" width="100%" alt="anymove"></a><br>
-<b><a href="https://patch.gg/patch/anymove">anymove</a></b><br>
-<sub>🆕 · <a href="https://x.com/rehan_shei">@rehan_shei</a> · ♥ 137 · <a href="https://x.com/rehan_shei/status/2120409150870159414">▶ Video</a></sub><br>
-<sub>Solves the moves in an AI video clip onto a real 3D rig — no mocap suit, no keyframes. Open source.</sub>
 </td>
 </tr>
 <tr>
@@ -138,24 +138,30 @@ The main page only shows posts with 100+ likes; this page has every entry in thi
 <sub>A personal site redesigned end to end.</sub>
 </td>
 <td width="33%" valign="top">
+<a href="https://github.com/kanaworksai-hue/harappa"><img src="../assets/gifs/250.gif" width="100%" alt="Harappa (Blender add-on)"></a><br>
+<b><a href="https://github.com/kanaworksai-hue/harappa">Harappa (Blender add-on)</a></b><br>
+<sub>🆕 · <a href="https://x.com/KanaWorks_AI">@KanaWorks_AI</a> · ♥ 64 · <a href="https://x.com/KanaWorks_AI/status/2121221880673972463">▶ Video</a></sub><br>
+<sub>A free Blender add-on that turns a bare hill into an anime-style meadow in one click, with grass, flowers, clouds, trees, seasons and styles.</sub>
+</td>
+<td width="33%" valign="top">
 <a href="https://tetriss22.github.io/pc-build-lab/"><img src="../assets/gifs/147.gif" width="100%" alt="PC Build Lab"></a><br>
 <b><a href="https://tetriss22.github.io/pc-build-lab/">PC Build Lab</a></b><br>
 <sub>🆕 · <a href="https://x.com/Tetriss112">@Tetriss112</a> · ♥ 51 · <a href="https://x.com/Tetriss112/status/2120520587411935288">▶ Video</a></sub><br>
 <sub>Assemble a $1,279 gaming rig part by part in 3D, in 8 steps — and wreck it on purpose before touching real parts.</sub>
 </td>
-<td width="33%" valign="top">
-<a href="https://sael.net/seat-arena"><img src="../assets/gifs/182.gif" width="100%" alt="Best Seat in the House"></a><br>
-<b><a href="https://sael.net/seat-arena">Best Seat in the House</a></b><br>
-<sub>🆕 · <a href="https://x.com/RyanSael">@RyanSael</a> · ♥ 38 · <a href="https://x.com/RyanSael/status/2120544205558915329">▶ Video</a></sub><br>
-<sub>Concert seat maps where you see the exact view from every seat before you buy. Fully interactive.</sub>
-</td>
 </tr>
 <tr>
 <td width="33%" valign="top">
-<a href="https://github.com/kanaworksai-hue/harappa"><img src="../assets/gifs/250.gif" width="100%" alt="Harappa (Blender add-on)"></a><br>
-<b><a href="https://github.com/kanaworksai-hue/harappa">Harappa (Blender add-on)</a></b><br>
-<sub>🆕 · <a href="https://x.com/KanaWorks_AI">@KanaWorks_AI</a> · ♥ 37 · <a href="https://x.com/KanaWorks_AI/status/2121221880673972463">▶ Video</a></sub><br>
-<sub>A free Blender add-on that turns a bare hill into an anime-style meadow in one click, with grass, flowers, clouds, trees, seasons and styles.</sub>
+<a href="https://clockendbader.github.io/fable-builds/heartbeat/"><img src="../assets/gifs/259.gif" width="100%" alt="One Heartbeat"></a><br>
+<b><a href="https://clockendbader.github.io/fable-builds/heartbeat/">One Heartbeat</a></b><br>
+<sub>🆕 · <a href="https://x.com/clockendbader">@clockendbader</a> · ♥ 45 · <a href="https://x.com/clockendbader/status/2121246903207961069">Post</a></sub><br>
+<sub>A beating 3D heart with live ECG and pressure traces and heart sounds; compare normal, AF, heart block and aortic stenosis. It wrote its own tests too.</sub>
+</td>
+<td width="33%" valign="top">
+<a href="https://sael.net/seat-arena"><img src="../assets/gifs/182.gif" width="100%" alt="Best Seat in the House"></a><br>
+<b><a href="https://sael.net/seat-arena">Best Seat in the House</a></b><br>
+<sub>🆕 · <a href="https://x.com/RyanSael">@RyanSael</a> · ♥ 39 · <a href="https://x.com/RyanSael/status/2120544205558915329">▶ Video</a></sub><br>
+<sub>Concert seat maps where you see the exact view from every seat before you buy. Fully interactive.</sub>
 </td>
 <td width="33%" valign="top">
 <a href="https://ai.itokoba.com/ichimai/"><img src="../assets/gifs/260.gif" width="100%" alt="Ichimai — how far can one page go"></a><br>
@@ -163,14 +169,14 @@ The main page only shows posts with 100+ likes; this page has every entry in thi
 <sub>🆕 · <a href="https://x.com/hideki_climax">@hideki_climax</a> · ♥ 11 · <a href="https://x.com/hideki_climax/status/2120165464722809190">▶ Video</a></sub><br>
 <sub>Just one instruction: "make the strongest static web page that shows what you can do now".</sub>
 </td>
+</tr>
+<tr>
 <td width="33%" valign="top">
 <a href="https://jwt-designs-preview.noone-697.workers.dev/"><img src="../assets/gifs/046.gif" width="100%" alt="20 Landing Page Redesigns"></a><br>
 <b><a href="https://jwt-designs-preview.noone-697.workers.dev/">20 Landing Page Redesigns</a></b><br>
 <sub><a href="https://x.com/Tmeister">@Tmeister</a> · ♥ 9 · <a href="https://x.com/Tmeister/status/2119983842841018482">Post</a></sub><br>
 <sub>20 alternatives to a JWT plugin's landing page from one simple prompt.</sub>
 </td>
-</tr>
-<tr>
 <td width="33%" valign="top">
 <a href="https://www.asumacodes.xyz/arena/driftwood"><img src="../assets/gifs/047.gif" width="100%" alt="Driftwood (Fable vs Opus)"></a><br>
 <b><a href="https://www.asumacodes.xyz/arena/driftwood">Driftwood (Fable vs Opus)</a></b><br>
@@ -184,19 +190,13 @@ The main page only shows posts with 100+ likes; this page has every entry in thi
 <sub><a href="https://x.com/pnumech">@pnumech</a> · ♥ 8 · <a href="https://x.com/pnumech/status/2120117665041940807">Post</a></sub><br>
 <sub>A detached-house design proposal (Korean), made in a day.</sub>
 </td>
+</tr>
+<tr>
 <td width="33%" valign="top">
 <a href="https://claude.ai/artifact/9yQkezie4jY3oz2YDLFDiq"><img src="../assets/gifs/040.gif" width="100%" alt="Bay Drum Kit"></a><br>
 <b><a href="https://claude.ai/artifact/9yQkezie4jY3oz2YDLFDiq">Bay Drum Kit</a></b><br>
 <sub><a href="https://x.com/BretKerr">@BretKerr</a> · ♥ 5 · <a href="https://x.com/BretKerr/status/2119995870854988177">▶ Video</a></sub><br>
 <sub>Every hit reverberates across the bay.</sub>
-</td>
-</tr>
-<tr>
-<td width="33%" valign="top">
-<a href="https://clockendbader.github.io/fable-builds/heartbeat/"><img src="../assets/gifs/259.gif" width="100%" alt="One Heartbeat"></a><br>
-<b><a href="https://clockendbader.github.io/fable-builds/heartbeat/">One Heartbeat</a></b><br>
-<sub>🆕 · <a href="https://x.com/clockendbader">@clockendbader</a> · ♥ 5 · <a href="https://x.com/clockendbader/status/2121246903207961069">Post</a></sub><br>
-<sub>A beating 3D heart with live ECG and pressure traces and heart sounds; compare normal, AF, heart block and aortic stenosis. It wrote its own tests too.</sub>
 </td>
 <td width="33%" valign="top">
 <a href="https://claude.ai/artifact/Pk6rHPyRwfShT37kiU1sT6"><img src="../assets/gifs/041.gif" width="100%" alt="Dub Techno Track + Visualizer"></a><br>
