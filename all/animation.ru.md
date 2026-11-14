@@ -2,7 +2,7 @@
 
 [← Назад к списку](../README.ru.md) · [English](animation.md) · [简体中文](animation.zh-CN.md) · [繁體中文](animation.zh-TW.md) · [日本語](animation.ja.md) · [한국어](animation.ko.md) · [Español](animation.es.md) · [Português](animation.pt-BR.md) · [Français](animation.fr.md) · [Deutsch](animation.de.md) · **Русский**
 
-На главной только посты с 100+ лайками; здесь — все записи раздела, по убыванию лайков.
+На главной странице в каждом разделе — не больше 12 самых популярных записей (только от 100 лайков); здесь все записи раздела, по числу лайков.
 
 <table>
 <tr>

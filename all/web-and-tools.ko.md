@@ -2,7 +2,7 @@
 
 [← 메인 목록으로](../README.ko.md) · [English](web-and-tools.md) · [简体中文](web-and-tools.zh-CN.md) · [繁體中文](web-and-tools.zh-TW.md) · [日本語](web-and-tools.ja.md) · **한국어** · [Español](web-and-tools.es.md) · [Português](web-and-tools.pt-BR.md) · [Français](web-and-tools.fr.md) · [Deutsch](web-and-tools.de.md) · [Русский](web-and-tools.ru.md)
 
-메인 페이지에는 좋아요 100개 이상만 표시됩니다. 이 페이지에는 이 섹션의 모든 항목이 좋아요 순으로 있습니다.
+메인 페이지에는 분류마다 좋아요 100개 이상인 상위 12개만 보여 줍니다. 이 페이지에는 이 분류의 모든 항목이 좋아요 순으로 있습니다.
 
 <table>
 <tr>

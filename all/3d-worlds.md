@@ -2,7 +2,7 @@
 
 [← Back to the main list](../README.md) · **English** · [简体中文](3d-worlds.zh-CN.md) · [繁體中文](3d-worlds.zh-TW.md) · [日本語](3d-worlds.ja.md) · [한국어](3d-worlds.ko.md) · [Español](3d-worlds.es.md) · [Português](3d-worlds.pt-BR.md) · [Français](3d-worlds.fr.md) · [Deutsch](3d-worlds.de.md) · [Русский](3d-worlds.ru.md)
 
-The main page only shows posts with 100+ likes; this page has every entry in this section, sorted by likes.
+The main page shows at most the top 12 posts with 100+ likes; this page has every entry in this section, sorted by likes.
 
 <table>
 <tr>

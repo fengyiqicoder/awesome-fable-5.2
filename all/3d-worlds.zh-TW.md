@@ -2,7 +2,7 @@
 
 [← 回到首頁](../README.zh-TW.md) · [English](3d-worlds.md) · [简体中文](3d-worlds.zh-CN.md) · **繁體中文** · [日本語](3d-worlds.ja.md) · [한국어](3d-worlds.ko.md) · [Español](3d-worlds.es.md) · [Português](3d-worlds.pt-BR.md) · [Français](3d-worlds.fr.md) · [Deutsch](3d-worlds.de.md) · [Русский](3d-worlds.ru.md)
 
-首頁只放原文按讚 ≥100 的，這裡是這一類的全部，依按讚數排序。
+首頁每類只放原貼文按讚 ≥100 的前 12 個，這裡是這一類的全部，按按讚數排序。
 
 <table>
 <tr>

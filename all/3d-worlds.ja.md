@@ -2,7 +2,7 @@
 
 [← メインリストに戻る](../README.ja.md) · [English](3d-worlds.md) · [简体中文](3d-worlds.zh-CN.md) · [繁體中文](3d-worlds.zh-TW.md) · **日本語** · [한국어](3d-worlds.ko.md) · [Español](3d-worlds.es.md) · [Português](3d-worlds.pt-BR.md) · [Français](3d-worlds.fr.md) · [Deutsch](3d-worlds.de.md) · [Русский](3d-worlds.ru.md)
 
-トップページはいいね 100 以上のみ表示しています。このページにはこのカテゴリの全作品をいいね順に載せています。
+トップページには各カテゴリで 100 いいね以上の上位 12 件だけを載せています。このページはこのカテゴリの全件を、いいね数順に並べたものです。
 
 <table>
 <tr>

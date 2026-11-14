@@ -2,7 +2,7 @@
 
 [← 回到首页](../README.zh-CN.md) · [English](web-and-tools.md) · **简体中文** · [繁體中文](web-and-tools.zh-TW.md) · [日本語](web-and-tools.ja.md) · [한국어](web-and-tools.ko.md) · [Español](web-and-tools.es.md) · [Português](web-and-tools.pt-BR.md) · [Français](web-and-tools.fr.md) · [Deutsch](web-and-tools.de.md) · [Русский](web-and-tools.ru.md)
 
-首页只放原帖点赞 ≥100 的，这里是这一类的全部，按点赞数排序。
+首页每类只放原帖点赞 ≥100 的前 12 个，这里是这一类的全部，按点赞数排序。
 
 <table>
 <tr>

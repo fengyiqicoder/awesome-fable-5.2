@@ -2,7 +2,7 @@
 
 [← メインリストに戻る](../README.ja.md) · [English](video-demos.md) · [简体中文](video-demos.zh-CN.md) · [繁體中文](video-demos.zh-TW.md) · **日本語** · [한국어](video-demos.ko.md) · [Español](video-demos.es.md) · [Português](video-demos.pt-BR.md) · [Français](video-demos.fr.md) · [Deutsch](video-demos.de.md) · [Русский](video-demos.ru.md)
 
-トップページはいいね 100 以上のみ表示しています。このページにはこのカテゴリの全作品をいいね順に載せています。
+トップページには各カテゴリで 100 いいね以上の上位 12 件だけを載せています。このページはこのカテゴリの全件を、いいね数順に並べたものです。
 
 作者は動画のみを投稿し、公開リンクはありません。プレビューをクリックすると元の投稿を見られます。
 

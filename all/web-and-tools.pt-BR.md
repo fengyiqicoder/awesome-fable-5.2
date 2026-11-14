@@ -2,7 +2,7 @@
 
 [← Voltar à lista](../README.pt-BR.md) · [English](web-and-tools.md) · [简体中文](web-and-tools.zh-CN.md) · [繁體中文](web-and-tools.zh-TW.md) · [日本語](web-and-tools.ja.md) · [한국어](web-and-tools.ko.md) · [Español](web-and-tools.es.md) · **Português** · [Français](web-and-tools.fr.md) · [Deutsch](web-and-tools.de.md) · [Русский](web-and-tools.ru.md)
 
-A página principal só mostra posts com 100+ curtidas; aqui está tudo desta seção, ordenado por curtidas.
+A página principal mostra no máximo as 12 entradas mais curtidas de cada seção (só as com 100+ curtidas); aqui estão todas as desta seção, por curtidas.
 
 <table>
 <tr>

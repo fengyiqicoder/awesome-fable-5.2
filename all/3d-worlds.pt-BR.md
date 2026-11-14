@@ -2,7 +2,7 @@
 
 [← Voltar à lista](../README.pt-BR.md) · [English](3d-worlds.md) · [简体中文](3d-worlds.zh-CN.md) · [繁體中文](3d-worlds.zh-TW.md) · [日本語](3d-worlds.ja.md) · [한국어](3d-worlds.ko.md) · [Español](3d-worlds.es.md) · **Português** · [Français](3d-worlds.fr.md) · [Deutsch](3d-worlds.de.md) · [Русский](3d-worlds.ru.md)
 
-A página principal só mostra posts com 100+ curtidas; aqui está tudo desta seção, ordenado por curtidas.
+A página principal mostra no máximo as 12 entradas mais curtidas de cada seção (só as com 100+ curtidas); aqui estão todas as desta seção, por curtidas.
 
 <table>
 <tr>

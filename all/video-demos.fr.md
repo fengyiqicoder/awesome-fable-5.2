@@ -2,7 +2,7 @@
 
 [← Retour à la liste](../README.fr.md) · [English](video-demos.md) · [简体中文](video-demos.zh-CN.md) · [繁體中文](video-demos.zh-TW.md) · [日本語](video-demos.ja.md) · [한국어](video-demos.ko.md) · [Español](video-demos.es.md) · [Português](video-demos.pt-BR.md) · **Français** · [Deutsch](video-demos.de.md) · [Русский](video-demos.ru.md)
 
-La page principale ne montre que les publications avec 100+ « j'aime » ; ici figure toute la section, triée par « j'aime ».
+La page principale affiche au plus les 12 entrées les plus aimées de chaque section (seulement celles à 100+ j'aime) ; cette page contient toutes celles de la section, triées par j'aime.
 
 Les créateurs ont publié une vidéo mais pas de lien. Cliquez sur l'aperçu pour voir la publication d'origine.
 

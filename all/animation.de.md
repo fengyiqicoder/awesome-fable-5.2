@@ -2,7 +2,7 @@
 
 [← Zurück zur Liste](../README.de.md) · [English](animation.md) · [简体中文](animation.zh-CN.md) · [繁體中文](animation.zh-TW.md) · [日本語](animation.ja.md) · [한국어](animation.ko.md) · [Español](animation.es.md) · [Português](animation.pt-BR.md) · [Français](animation.fr.md) · **Deutsch** · [Русский](animation.ru.md)
 
-Die Hauptseite zeigt nur Posts mit 100+ Likes; hier steht alles aus diesem Abschnitt, sortiert nach Likes.
+Die Hauptseite zeigt pro Bereich höchstens die 12 Einträge mit den meisten Likes (nur ab 100 Likes); hier stehen alle Einträge dieses Bereichs, nach Likes sortiert.
 
 <table>
 <tr>

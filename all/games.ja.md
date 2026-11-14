@@ -2,7 +2,7 @@
 
 [← メインリストに戻る](../README.ja.md) · [English](games.md) · [简体中文](games.zh-CN.md) · [繁體中文](games.zh-TW.md) · **日本語** · [한국어](games.ko.md) · [Español](games.es.md) · [Português](games.pt-BR.md) · [Français](games.fr.md) · [Deutsch](games.de.md) · [Русский](games.ru.md)
 
-トップページはいいね 100 以上のみ表示しています。このページにはこのカテゴリの全作品をいいね順に載せています。
+トップページには各カテゴリで 100 いいね以上の上位 12 件だけを載せています。このページはこのカテゴリの全件を、いいね数順に並べたものです。
 
 <table>
 <tr>

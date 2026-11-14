@@ -2,7 +2,7 @@
 
 [← Volver a la lista](../README.es.md) · [English](video-demos.md) · [简体中文](video-demos.zh-CN.md) · [繁體中文](video-demos.zh-TW.md) · [日本語](video-demos.ja.md) · [한국어](video-demos.ko.md) · **Español** · [Português](video-demos.pt-BR.md) · [Français](video-demos.fr.md) · [Deutsch](video-demos.de.md) · [Русский](video-demos.ru.md)
 
-La página principal solo muestra publicaciones con 100+ «me gusta»; aquí está todo lo de esta sección, ordenado por «me gusta».
+La página principal muestra como máximo las 12 entradas con más «me gusta» de cada sección (solo las de 100+); aquí están todas las de esta sección, ordenadas por «me gusta».
 
 Los creadores publicaron un video pero no un enlace. Haz clic en la vista previa para ver la publicación original.
 

@@ -2,7 +2,7 @@
 
 [← 回到首頁](../README.zh-TW.md) · [English](web-and-tools.md) · [简体中文](web-and-tools.zh-CN.md) · **繁體中文** · [日本語](web-and-tools.ja.md) · [한국어](web-and-tools.ko.md) · [Español](web-and-tools.es.md) · [Português](web-and-tools.pt-BR.md) · [Français](web-and-tools.fr.md) · [Deutsch](web-and-tools.de.md) · [Русский](web-and-tools.ru.md)
 
-首頁只放原文按讚 ≥100 的，這裡是這一類的全部，依按讚數排序。
+首頁每類只放原貼文按讚 ≥100 的前 12 個，這裡是這一類的全部，按按讚數排序。
 
 <table>
 <tr>

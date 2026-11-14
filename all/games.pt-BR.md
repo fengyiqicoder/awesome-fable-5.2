@@ -2,7 +2,7 @@
 
 [← Voltar à lista](../README.pt-BR.md) · [English](games.md) · [简体中文](games.zh-CN.md) · [繁體中文](games.zh-TW.md) · [日本語](games.ja.md) · [한국어](games.ko.md) · [Español](games.es.md) · **Português** · [Français](games.fr.md) · [Deutsch](games.de.md) · [Русский](games.ru.md)
 
-A página principal só mostra posts com 100+ curtidas; aqui está tudo desta seção, ordenado por curtidas.
+A página principal mostra no máximo as 12 entradas mais curtidas de cada seção (só as com 100+ curtidas); aqui estão todas as desta seção, por curtidas.
 
 <table>
 <tr>

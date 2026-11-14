@@ -2,7 +2,7 @@
 
 [← Voltar à lista](../README.pt-BR.md) · [English](video-demos.md) · [简体中文](video-demos.zh-CN.md) · [繁體中文](video-demos.zh-TW.md) · [日本語](video-demos.ja.md) · [한국어](video-demos.ko.md) · [Español](video-demos.es.md) · **Português** · [Français](video-demos.fr.md) · [Deutsch](video-demos.de.md) · [Русский](video-demos.ru.md)
 
-A página principal só mostra posts com 100+ curtidas; aqui está tudo desta seção, ordenado por curtidas.
+A página principal mostra no máximo as 12 entradas mais curtidas de cada seção (só as com 100+ curtidas); aqui estão todas as desta seção, por curtidas.
 
 Os criadores postaram um vídeo, mas não um link. Clique na prévia para ver o post original.
 

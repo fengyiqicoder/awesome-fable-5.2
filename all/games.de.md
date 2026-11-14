@@ -2,7 +2,7 @@
 
 [← Zurück zur Liste](../README.de.md) · [English](games.md) · [简体中文](games.zh-CN.md) · [繁體中文](games.zh-TW.md) · [日本語](games.ja.md) · [한국어](games.ko.md) · [Español](games.es.md) · [Português](games.pt-BR.md) · [Français](games.fr.md) · **Deutsch** · [Русский](games.ru.md)
 
-Die Hauptseite zeigt nur Posts mit 100+ Likes; hier steht alles aus diesem Abschnitt, sortiert nach Likes.
+Die Hauptseite zeigt pro Bereich höchstens die 12 Einträge mit den meisten Likes (nur ab 100 Likes); hier stehen alle Einträge dieses Bereichs, nach Likes sortiert.
 
 <table>
 <tr>

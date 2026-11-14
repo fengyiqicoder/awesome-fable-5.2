@@ -2,7 +2,7 @@
 
 [← Volver a la lista](../README.es.md) · [English](animation.md) · [简体中文](animation.zh-CN.md) · [繁體中文](animation.zh-TW.md) · [日本語](animation.ja.md) · [한국어](animation.ko.md) · **Español** · [Português](animation.pt-BR.md) · [Français](animation.fr.md) · [Deutsch](animation.de.md) · [Русский](animation.ru.md)
 
-La página principal solo muestra publicaciones con 100+ «me gusta»; aquí está todo lo de esta sección, ordenado por «me gusta».
+La página principal muestra como máximo las 12 entradas con más «me gusta» de cada sección (solo las de 100+); aquí están todas las de esta sección, ordenadas por «me gusta».
 
 <table>
 <tr>

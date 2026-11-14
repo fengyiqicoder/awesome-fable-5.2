@@ -2,7 +2,7 @@
 
 [← Voltar à lista](../README.pt-BR.md) · [English](animation.md) · [简体中文](animation.zh-CN.md) · [繁體中文](animation.zh-TW.md) · [日本語](animation.ja.md) · [한국어](animation.ko.md) · [Español](animation.es.md) · **Português** · [Français](animation.fr.md) · [Deutsch](animation.de.md) · [Русский](animation.ru.md)
 
-A página principal só mostra posts com 100+ curtidas; aqui está tudo desta seção, ordenado por curtidas.
+A página principal mostra no máximo as 12 entradas mais curtidas de cada seção (só as com 100+ curtidas); aqui estão todas as desta seção, por curtidas.
 
 <table>
 <tr>

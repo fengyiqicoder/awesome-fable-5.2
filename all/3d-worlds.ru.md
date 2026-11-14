@@ -2,7 +2,7 @@
 
 [← Назад к списку](../README.ru.md) · [English](3d-worlds.md) · [简体中文](3d-worlds.zh-CN.md) · [繁體中文](3d-worlds.zh-TW.md) · [日本語](3d-worlds.ja.md) · [한국어](3d-worlds.ko.md) · [Español](3d-worlds.es.md) · [Português](3d-worlds.pt-BR.md) · [Français](3d-worlds.fr.md) · [Deutsch](3d-worlds.de.md) · **Русский**
 
-На главной только посты с 100+ лайками; здесь — все записи раздела, по убыванию лайков.
+На главной странице в каждом разделе — не больше 12 самых популярных записей (только от 100 лайков); здесь все записи раздела, по числу лайков.
 
 <table>
 <tr>

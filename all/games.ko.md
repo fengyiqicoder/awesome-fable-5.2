@@ -2,7 +2,7 @@
 
 [← 메인 목록으로](../README.ko.md) · [English](games.md) · [简体中文](games.zh-CN.md) · [繁體中文](games.zh-TW.md) · [日本語](games.ja.md) · **한국어** · [Español](games.es.md) · [Português](games.pt-BR.md) · [Français](games.fr.md) · [Deutsch](games.de.md) · [Русский](games.ru.md)
 
-메인 페이지에는 좋아요 100개 이상만 표시됩니다. 이 페이지에는 이 섹션의 모든 항목이 좋아요 순으로 있습니다.
+메인 페이지에는 분류마다 좋아요 100개 이상인 상위 12개만 보여 줍니다. 이 페이지에는 이 분류의 모든 항목이 좋아요 순으로 있습니다.
 
 <table>
 <tr>

@@ -2,7 +2,7 @@
 
 [← Назад к списку](../README.ru.md) · [English](web-and-tools.md) · [简体中文](web-and-tools.zh-CN.md) · [繁體中文](web-and-tools.zh-TW.md) · [日本語](web-and-tools.ja.md) · [한국어](web-and-tools.ko.md) · [Español](web-and-tools.es.md) · [Português](web-and-tools.pt-BR.md) · [Français](web-and-tools.fr.md) · [Deutsch](web-and-tools.de.md) · **Русский**
 
-На главной только посты с 100+ лайками; здесь — все записи раздела, по убыванию лайков.
+На главной странице в каждом разделе — не больше 12 самых популярных записей (только от 100 лайков); здесь все записи раздела, по числу лайков.
 
 <table>
 <tr>

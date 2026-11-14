@@ -2,7 +2,7 @@
 
 [← Retour à la liste](../README.fr.md) · [English](3d-worlds.md) · [简体中文](3d-worlds.zh-CN.md) · [繁體中文](3d-worlds.zh-TW.md) · [日本語](3d-worlds.ja.md) · [한국어](3d-worlds.ko.md) · [Español](3d-worlds.es.md) · [Português](3d-worlds.pt-BR.md) · **Français** · [Deutsch](3d-worlds.de.md) · [Русский](3d-worlds.ru.md)
 
-La page principale ne montre que les publications avec 100+ « j'aime » ; ici figure toute la section, triée par « j'aime ».
+La page principale affiche au plus les 12 entrées les plus aimées de chaque section (seulement celles à 100+ j'aime) ; cette page contient toutes celles de la section, triées par j'aime.
 
 <table>
 <tr>

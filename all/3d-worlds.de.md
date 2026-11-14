@@ -2,7 +2,7 @@
 
 [← Zurück zur Liste](../README.de.md) · [English](3d-worlds.md) · [简体中文](3d-worlds.zh-CN.md) · [繁體中文](3d-worlds.zh-TW.md) · [日本語](3d-worlds.ja.md) · [한국어](3d-worlds.ko.md) · [Español](3d-worlds.es.md) · [Português](3d-worlds.pt-BR.md) · [Français](3d-worlds.fr.md) · **Deutsch** · [Русский](3d-worlds.ru.md)
 
-Die Hauptseite zeigt nur Posts mit 100+ Likes; hier steht alles aus diesem Abschnitt, sortiert nach Likes.
+Die Hauptseite zeigt pro Bereich höchstens die 12 Einträge mit den meisten Likes (nur ab 100 Likes); hier stehen alle Einträge dieses Bereichs, nach Likes sortiert.
 
 <table>
 <tr>

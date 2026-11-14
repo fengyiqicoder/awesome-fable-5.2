@@ -2,7 +2,7 @@
 
 [← Back to the main list](../README.md) · **English** · [简体中文](web-and-tools.zh-CN.md) · [繁體中文](web-and-tools.zh-TW.md) · [日本語](web-and-tools.ja.md) · [한국어](web-and-tools.ko.md) · [Español](web-and-tools.es.md) · [Português](web-and-tools.pt-BR.md) · [Français](web-and-tools.fr.md) · [Deutsch](web-and-tools.de.md) · [Русский](web-and-tools.ru.md)
 
-The main page only shows posts with 100+ likes; this page has every entry in this section, sorted by likes.
+The main page shows at most the top 12 posts with 100+ likes; this page has every entry in this section, sorted by likes.
 
 <table>
 <tr>

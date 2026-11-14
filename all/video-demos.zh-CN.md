@@ -2,7 +2,7 @@
 
 [← 回到首页](../README.zh-CN.md) · [English](video-demos.md) · **简体中文** · [繁體中文](video-demos.zh-TW.md) · [日本語](video-demos.ja.md) · [한국어](video-demos.ko.md) · [Español](video-demos.es.md) · [Português](video-demos.pt-BR.md) · [Français](video-demos.fr.md) · [Deutsch](video-demos.de.md) · [Русский](video-demos.ru.md)
 
-首页只放原帖点赞 ≥100 的，这里是这一类的全部，按点赞数排序。
+首页每类只放原帖点赞 ≥100 的前 12 个，这里是这一类的全部，按点赞数排序。
 
 作者只发了视频、没公开作品链接。点封面看原帖视频。
 

@@ -2,7 +2,7 @@
 
 [← Retour à la liste](../README.fr.md) · [English](games.md) · [简体中文](games.zh-CN.md) · [繁體中文](games.zh-TW.md) · [日本語](games.ja.md) · [한국어](games.ko.md) · [Español](games.es.md) · [Português](games.pt-BR.md) · **Français** · [Deutsch](games.de.md) · [Русский](games.ru.md)
 
-La page principale ne montre que les publications avec 100+ « j'aime » ; ici figure toute la section, triée par « j'aime ».
+La page principale affiche au plus les 12 entrées les plus aimées de chaque section (seulement celles à 100+ j'aime) ; cette page contient toutes celles de la section, triées par j'aime.
 
 <table>
 <tr>

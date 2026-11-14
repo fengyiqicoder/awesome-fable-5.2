@@ -2,7 +2,7 @@
 
 [← メインリストに戻る](../README.ja.md) · [English](web-and-tools.md) · [简体中文](web-and-tools.zh-CN.md) · [繁體中文](web-and-tools.zh-TW.md) · **日本語** · [한국어](web-and-tools.ko.md) · [Español](web-and-tools.es.md) · [Português](web-and-tools.pt-BR.md) · [Français](web-and-tools.fr.md) · [Deutsch](web-and-tools.de.md) · [Русский](web-and-tools.ru.md)
 
-トップページはいいね 100 以上のみ表示しています。このページにはこのカテゴリの全作品をいいね順に載せています。
+トップページには各カテゴリで 100 いいね以上の上位 12 件だけを載せています。このページはこのカテゴリの全件を、いいね数順に並べたものです。
 
 <table>
 <tr>
