@@ -73,7 +73,7 @@
 </tr>
 </table>
 
-✨ **Want the prompts behind these?** 210 prompts reconstructed from these works, as one Claude Skill → [see the pack](https://fablelist.000ooo.ooo/prompts/?ref=gh-top)
+✨ **Want your Fable 5.2 to build like this?** SuperHeavy Skill packs 210 prompts reverse-engineered from these works into one Claude Skill → [see SuperHeavy Skill](https://fablelist.000ooo.ooo/prompts/?ref=gh-top)
 
 ## 🎮 Games
 

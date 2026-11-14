@@ -73,7 +73,7 @@ Claude Fable 5.2 で作られた公開作品 151 件と動画デモ 111 件。�
 </tr>
 </table>
 
-✨ **これらの作品のプロンプトが欲しい？** 作品から復元したプロンプト 210 本をひとつの Claude Skill に → [詳しく見る](https://fablelist.000ooo.ooo/ja/prompts/?ref=gh-top)
+✨ **あなたの Fable 5.2 でもこんな作品を？** SuperHeavy Skill は、これらの作品から逆算した 210 本のプロンプトを 1 つの Claude Skill にまとめたもの → [SuperHeavy Skill を見る](https://fablelist.000ooo.ooo/ja/prompts/?ref=gh-top)
 
 ## 🎮 ゲーム
 

@@ -73,7 +73,7 @@
 </tr>
 </table>
 
-✨ **Vous voulez les prompts derrière ces œuvres ?** 210 prompts reconstitués à partir d'elles, en une Skill Claude → [voir le pack](https://fablelist.000ooo.ooo/fr/prompts/?ref=gh-top)
+✨ **Envie que votre Fable 5.2 crée comme ça ?** SuperHeavy Skill réunit 210 prompts reconstitués à partir de ces créations dans une Claude Skill → [voir SuperHeavy Skill](https://fablelist.000ooo.ooo/fr/prompts/?ref=gh-top)
 
 ## 🎮 Jeux
 
