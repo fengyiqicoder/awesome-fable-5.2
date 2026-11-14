@@ -16,6 +16,8 @@
 
 </div>
 
+✨ **Vous voulez les prompts derrière ces œuvres ?** 210 prompts reconstitués à partir d'elles, en une Skill Claude → [voir le pack](https://fablelist.000ooo.ooo/fr/prompts/?ref=gh-top)
+
 Claude Fable 5.2 est sorti le 2026-11-09. En quelques jours, X s'est rempli de jeux, mondes 3D et pages web créés avec. Cette liste rassemble ceux que **vous pouvez ouvrir tout de suite** : 151 œuvres en ligne, chaque lien ouvert et vérifié le 2026-11-14, plus 111 démos vidéo populaires dans une section à part.
 
 Chaque entrée a un aperçu GIF de quelques secondes, crédite son créateur et renvoie à la publication d'origine. 🆕 signale les ajouts des derniers jours. Cette page montre les publications avec 100+ « j'aime » ; le reste est dans « Voir tout » en fin de section. Si c'est utile, une ⭐ aide à continuer : la liste est mise à jour chaque jour.

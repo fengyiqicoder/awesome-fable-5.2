@@ -16,6 +16,8 @@
 
 </div>
 
+✨ **Quer os prompts por trás dessas obras?** 210 prompts reconstruídos a partir delas, numa Skill do Claude → [ver o pacote](https://fablelist.000ooo.ooo/pt/prompts/?ref=gh-top)
+
 O Claude Fable 5.2 saiu em 2026-11-09. Em poucos dias o X se encheu de jogos, mundos 3D e páginas feitos com ele. Esta lista reúne os que **dá para abrir agora**: 151 obras no ar, cada link aberto e conferido em 2026-11-14, mais 111 demos em vídeo populares numa seção à parte.
 
 Cada item tem uma prévia em GIF de poucos segundos, crédito ao criador e link para o post original. 🆕 marca o que entrou nos últimos dias. Esta página mostra posts com 100+ curtidas; o resto está em "Ver todos" no fim de cada seção. Se ajudou, uma ⭐ faz a lista continuar — ela é atualizada todo dia.
