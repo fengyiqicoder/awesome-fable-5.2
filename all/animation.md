@@ -1,6 +1,6 @@
 # 🎬 Animation & Film (with source) · all 11
 
-[← Back to the main list](../README.md) · **English** · [简体中文](animation.zh-CN.md)
+[← Back to the main list](../README.md) · **English** · [简体中文](animation.zh-CN.md) · [繁體中文](animation.zh-TW.md) · [日本語](animation.ja.md) · [한국어](animation.ko.md) · [Español](animation.es.md) · [Português](animation.pt-BR.md) · [Français](animation.fr.md) · [Deutsch](animation.de.md) · [Русский](animation.ru.md)
 
 The main page only shows posts with 100+ likes; this page has every entry in this section, sorted by likes.
 

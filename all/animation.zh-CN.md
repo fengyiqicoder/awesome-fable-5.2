@@ -1,6 +1,6 @@
 # 🎬 动画与短片（附源码） · 全部 11 个
 
-[← 回到首页](../README.zh-CN.md) · [English](animation.md) · **简体中文**
+[← 回到首页](../README.zh-CN.md) · [English](animation.md) · **简体中文** · [繁體中文](animation.zh-TW.md) · [日本語](animation.ja.md) · [한국어](animation.ko.md) · [Español](animation.es.md) · [Português](animation.pt-BR.md) · [Français](animation.fr.md) · [Deutsch](animation.de.md) · [Русский](animation.ru.md)
 
 首页只放原帖点赞 ≥100 的，这里是这一类的全部，按点赞数排序。
 

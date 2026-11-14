@@ -1,6 +1,6 @@
 # 🌍 3D 世界与场景 · 全部 33 个
 
-[← 回到首页](../README.zh-CN.md) · [English](3d-worlds.md) · **简体中文**
+[← 回到首页](../README.zh-CN.md) · [English](3d-worlds.md) · **简体中文** · [繁體中文](3d-worlds.zh-TW.md) · [日本語](3d-worlds.ja.md) · [한국어](3d-worlds.ko.md) · [Español](3d-worlds.es.md) · [Português](3d-worlds.pt-BR.md) · [Français](3d-worlds.fr.md) · [Deutsch](3d-worlds.de.md) · [Русский](3d-worlds.ru.md)
 
 首页只放原帖点赞 ≥100 的，这里是这一类的全部，按点赞数排序。
 

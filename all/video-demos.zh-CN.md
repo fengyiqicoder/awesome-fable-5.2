@@ -1,6 +1,6 @@
 # 📺 只有视频 · 全部 111 个
 
-[← 回到首页](../README.zh-CN.md) · [English](video-demos.md) · **简体中文**
+[← 回到首页](../README.zh-CN.md) · [English](video-demos.md) · **简体中文** · [繁體中文](video-demos.zh-TW.md) · [日本語](video-demos.ja.md) · [한국어](video-demos.ko.md) · [Español](video-demos.es.md) · [Português](video-demos.pt-BR.md) · [Français](video-demos.fr.md) · [Deutsch](video-demos.de.md) · [Русский](video-demos.ru.md)
 
 首页只放原帖点赞 ≥100 的，这里是这一类的全部，按点赞数排序。
 

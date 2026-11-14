@@ -10,7 +10,7 @@
 [![Links checked](https://img.shields.io/badge/链接实测-2026--11--14-2ea44f)](#-投稿)
 [![License: CC0-1.0](https://img.shields.io/badge/License-CC0_1.0-lightgrey.svg)](LICENSE)
 
-[English](README.md) · **简体中文**
+[English](README.md) · **简体中文** · [繁體中文](README.zh-TW.md) · [日本語](README.ja.md) · [한국어](README.ko.md) · [Español](README.es.md) · [Português](README.pt-BR.md) · [Français](README.fr.md) · [Deutsch](README.de.md) · [Русский](README.ru.md)
 
 **🌐 网页版：[fablelist.000ooo.ooo/zh](https://fablelist.000ooo.ooo/zh/)**（可搜索，每个作品有详情页）
 

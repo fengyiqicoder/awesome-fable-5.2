@@ -10,7 +10,7 @@
 [![Links checked](https://img.shields.io/badge/links_checked-2026--11--14-2ea44f)](#-contributing)
 [![License: CC0-1.0](https://img.shields.io/badge/License-CC0_1.0-lightgrey.svg)](LICENSE)
 
-**English** · [简体中文](README.zh-CN.md)
+**English** · [简体中文](README.zh-CN.md) · [繁體中文](README.zh-TW.md) · [日本語](README.ja.md) · [한국어](README.ko.md) · [Español](README.es.md) · [Português](README.pt-BR.md) · [Français](README.fr.md) · [Deutsch](README.de.md) · [Русский](README.ru.md)
 
 **🌐 Browse on the web: [fablelist.000ooo.ooo](https://fablelist.000ooo.ooo/)** (searchable, a page for every work)
 

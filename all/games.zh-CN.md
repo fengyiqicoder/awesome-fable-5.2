@@ -1,6 +1,6 @@
 # 🎮 游戏 · 全部 75 个
 
-[← 回到首页](../README.zh-CN.md) · [English](games.md) · **简体中文**
+[← 回到首页](../README.zh-CN.md) · [English](games.md) · **简体中文** · [繁體中文](games.zh-TW.md) · [日本語](games.ja.md) · [한국어](games.ko.md) · [Español](games.es.md) · [Português](games.pt-BR.md) · [Français](games.fr.md) · [Deutsch](games.de.md) · [Русский](games.ru.md)
 
 首页只放原帖点赞 ≥100 的，这里是这一类的全部，按点赞数排序。
 

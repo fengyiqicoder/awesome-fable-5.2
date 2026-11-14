@@ -1,6 +1,6 @@
 # 📺 Video-only Demos · all 111
 
-[← Back to the main list](../README.md) · **English** · [简体中文](video-demos.zh-CN.md)
+[← Back to the main list](../README.md) · **English** · [简体中文](video-demos.zh-CN.md) · [繁體中文](video-demos.zh-TW.md) · [日本語](video-demos.ja.md) · [한국어](video-demos.ko.md) · [Español](video-demos.es.md) · [Português](video-demos.pt-BR.md) · [Français](video-demos.fr.md) · [Deutsch](video-demos.de.md) · [Русский](video-demos.ru.md)
 
 The main page only shows posts with 100+ likes; this page has every entry in this section, sorted by likes.
 

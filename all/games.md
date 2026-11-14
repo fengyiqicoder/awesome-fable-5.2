@@ -1,6 +1,6 @@
 # 🎮 Games · all 75
 
-[← Back to the main list](../README.md) · **English** · [简体中文](games.zh-CN.md)
+[← Back to the main list](../README.md) · **English** · [简体中文](games.zh-CN.md) · [繁體中文](games.zh-TW.md) · [日本語](games.ja.md) · [한국어](games.ko.md) · [Español](games.es.md) · [Português](games.pt-BR.md) · [Français](games.fr.md) · [Deutsch](games.de.md) · [Русский](games.ru.md)
 
 The main page only shows posts with 100+ likes; this page has every entry in this section, sorted by likes.
 
