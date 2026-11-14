@@ -1,0 +1,70 @@
+# Fable List
+
+> A hand-checked index of 156 live works and 112 video demos that 180 creators built with Claude Fable 5.2 (Anthropic, released 2026-11-09): browser games, 3D worlds, web tools and code-driven films. Every link is opened before it is added; updated every 12 hours. Last updated 2026-11-14.
+
+Each work has a detail page with the creator, the live link, the original X post, like count and a GIF preview. The site is available in 10 languages (/zh/, /zh-tw/, /ja/, /ko/, /es/, /pt/, /fr/, /de/, /ru/). Source list: https://github.com/fengyiqicoder/awesome-fable-5.2
+
+## Sections
+
+- [Games](https://fablelist.000ooo.ooo/games/): 80 entries
+- [3D Worlds & Scenes](https://fablelist.000ooo.ooo/3d-worlds/): 33 entries
+- [Web Pages & Tools](https://fablelist.000ooo.ooo/web-and-tools/): 32 entries
+- [Animation & Film](https://fablelist.000ooo.ooo/animation/): 11 entries
+- [Video Demos](https://fablelist.000ooo.ooo/video-demos/): 112 entries
+
+## Facts
+
+- What is Claude Fable 5.2? Claude Fable 5.2 is an AI model from Anthropic, released on 2026-11-09. Within days people used it to build complete browser games, 3D worlds, tools and code-driven films from prompts. Fable List tracks them: 156 live works and 112 video demos from 180 creators so far.
+- What have people built with Claude Fable 5.2? By section: Games 80, 3D Worlds & Scenes 33, Web Pages & Tools 32, Animation & Film 11, Video Demos 112. The most-liked entry is Anthropic: pre-release projects by @claudeai, with 43,051 likes on X.
+- How much does it cost to build something with Claude Fable 5.2? It varies a lot. In their own posts, creators report about $30 of API tokens and 1 h 18 min for Go for Launch, a one-prompt rocket game, and an estimated $2,618 for an overnight build of Rome, AD 320. Most runs fall between minutes and many hours.
+- Where can I find the prompts behind these works? 38 creators published their own prompts; those cards link straight to them, free. For the other works, Fable List wrote 210 prompts reconstructed from each work's code or video and packaged them as one Claude Skill.
+- How is the list checked and updated? Every link is opened before it is added. The list refreshes every 12 hours with new works and current like counts from X, and anyone can submit a work on GitHub.
+
+## Most-liked works
+
+- [Anthropic: pre-release projects](https://fablelist.000ooo.ooo/w/anthropic-pre-release-projects/): by @claudeai, 43,051 likes, Video Demos. What Fable 5.2 and Mythos 5.2 built across fields during testing.
+- [Starry Nightrider](https://fablelist.000ooo.ooo/w/starry-nightrider/): by @ebbyamir, 17,824 likes, Games. Van Gogh riding through his Starry Night, as a game.
+- [Saltline — first-person shooter](https://fablelist.000ooo.ooo/w/saltline-first-person-shooter/): by @felixrieseberg, 14,717 likes, Games. By an Anthropic engineer. One-shot prompts, no human feedback, 8 hours, ~$550. Models, sounds and textures all generated in code.
+- [A 3D film explaining Zeno's paradox](https://fablelist.000ooo.ooo/w/a-3d-film-explaining-zeno-s-paradox/): by @anxuanng, 9,974 likes, Video Demos.
+- [A symphony shaped like a training run](https://fablelist.000ooo.ooo/w/a-symphony-shaped-like-a-training-run/): by @imjustnewatai, 9,649 likes, Video Demos.
+- [Oil Paint — hand-painted game](https://fablelist.000ooo.ooo/w/oil-paint-hand-painted-game/): by @BlendiByl, 7,931 likes, Games. Made in under an hour. Every frame is about 1.5 million brush strokes, running at 200 fps in a browser tab. Open source.
+- [CROSSTOWN — open-world New York (early preview)](https://fablelist.000ooo.ooo/w/crosstown-open-world-new-york-early-preview/): by @mattshumer_, 7,499 likes, Games. "Rockstar took 8 years. Fable 5.2 is gonna do it in 7 days." Only part of the city is in so far; press B to send feedback.
+- [It can actually design](https://fablelist.000ooo.ooo/w/it-can-actually-design/): by @dominikmartn, 7,235 likes, Video Demos.
+- [2D blueprints turned into 3D walkthroughs](https://fablelist.000ooo.ooo/w/2d-blueprints-turned-into-3d-walkthroughs/): by @everestchris6, 7,214 likes, Video Demos.
+- [Claude App on a Blender laptop](https://fablelist.000ooo.ooo/w/claude-app-on-a-blender-laptop/): by @rileybrown, 7,038 likes, 3D Worlds & Scenes. One prompt built the whole room in Blender and rendered it in 4K. This is the web page shown on the laptop screen.
+- ["Show me your best video"](https://fablelist.000ooo.ooo/w/show-me-your-best-video/): by @suna_gaku, 6,652 likes, Video Demos.
+- [Painting a copy in code — "the original has a blotch here, mine doesn't"](https://fablelist.000ooo.ooo/w/painting-a-copy-in-code-the-original-has/): by @yohakutoink, 6,219 likes, Video Demos.
+- [Claudia Gallery](https://fablelist.000ooo.ooo/w/claudia-gallery/): by @anabology, 5,307 likes, Web Pages & Tools. "Make the video of your dreams" — two shots, 9 hours.
+- [Robotics Lab](https://fablelist.000ooo.ooo/w/robotics-lab/): by @0xMovez, 4,649 likes, Web Pages & Tools. Eight real boards (Arduino Uno, Raspberry Pi 4…) in 3D: place chips, solder them in, wire real circuits.
+- [One prompt: make the most uncomfortable video you can](https://fablelist.000ooo.ooo/w/one-prompt-make-the-most-uncomfortable-video-you/): by @matabee_GTO, 4,636 likes, Video Demos.
+- [Atlas + Fable 5.2 + three.js](https://fablelist.000ooo.ooo/w/atlas-fable-5-2-three-js/): by @XRarchitect, 4,339 likes, Video Demos.
+- [Three Fable 5.2 agents build a computer in 7h41m](https://fablelist.000ooo.ooo/w/three-fable-5-2-agents-build-a-computer/): by @MrTacticalX, 4,268 likes, Video Demos.
+- [What the Water Keeps](https://fablelist.000ooo.ooo/w/what-the-water-keeps/): by @kevin_t_ngo, 4,242 likes, Games. A boat ride through 8 dreamlike worlds, playable in the browser.
+- [House Bangers generator](https://fablelist.000ooo.ooo/w/house-bangers-generator/): by @deedydas, 3,898 likes, Web Pages & Tools. It learned music theory, tries thousands of patterns per instrument and arranges the best into a 72-bar house track. Sound on.
+- [The history of computer graphics, animated](https://fablelist.000ooo.ooo/w/the-history-of-computer-graphics-animated/): by @aollivier82, 3,193 likes, Video Demos.
+- [Crimson Loong](https://fablelist.000ooo.ooo/w/crimson-loong/): by @chetaslua, 3,186 likes, Animation & Film. A 90-second dragon film in three.js, pure code with no external assets.
+- [Tennis](https://fablelist.000ooo.ooo/w/tennis/): by @photonstorm, 3,054 likes, Games. Asked to "go wild" making a game, it returned what looks like a Pong clone — until you play it.
+- [76 single-file HTML pieces](https://fablelist.000ooo.ooo/w/76-single-file-html-pieces/): by @MiaAI_lab, 2,621 likes, Web Pages & Tools. Generative art, physics, type and UI, each with its original prompt.
+- [Age of Dragon, an open world by a non-coder](https://fablelist.000ooo.ooo/w/age-of-dragon-an-open-world-by-a/): by @M__Houser, 2,551 likes, Video Demos.
+- [An animation made with Blender](https://fablelist.000ooo.ooo/w/an-animation-made-with-blender/): by @aecyydesign, 2,527 likes, Video Demos.
+- [Da Vinci's notebooks, interactive](https://fablelist.000ooo.ooo/w/da-vinci-s-notebooks-interactive/): by @alexalbert__, 2,490 likes, Video Demos. A 500-year-old notebook PDF turned into inventions you can play with.
+- [A message to video editors](https://fablelist.000ooo.ooo/w/a-message-to-video-editors/): by @ChrisGPT, 2,490 likes, Video Demos.
+- [Mirror Earth](https://fablelist.000ooo.ooo/w/mirror-earth/): by @mattshumer_, 2,402 likes, Games. The whole planet as a destructible game world, with weather that matches the real Earth in real time.
+- [Fishslop run](https://fablelist.000ooo.ooo/w/fishslop-run/): by @theo, 2,326 likes, Video Demos. 76 minutes, ~$42.
+- [A racing game in Unreal Engine 5 from one prompt](https://fablelist.000ooo.ooo/w/a-racing-game-in-unreal-engine-5-from/): by @GPTabby, 2,140 likes, Video Demos.
+- [It can finally fold origami](https://fablelist.000ooo.ooo/w/it-can-finally-fold-origami/): by @ryoma_nakajima, 1,992 likes, Video Demos.
+- [Arena FPS with portals](https://fablelist.000ooo.ooo/w/arena-fps-with-portals/): by @_sholtodouglas, 1,976 likes, Video Demos. Playtested in the office.
+- [Portals: Endless Worlds](https://fablelist.000ooo.ooo/w/portals-endless-worlds/): by @emollick, 1,927 likes, Games. 25,000 agents built 450+ code-only 3D worlds inspired by books, art and places, linked by portals you drift through.
+- [A whole video made by writing Python for Blender](https://fablelist.000ooo.ooo/w/a-whole-video-made-by-writing-python-for/): by @alexmichael, 1,895 likes, Video Demos.
+- [Painted Valley](https://fablelist.000ooo.ooo/w/painted-valley/): by @BlendiByl, 1,792 likes, 3D Worlds & Scenes. A Ghibli-inspired hand-painted valley you can walk through. Open source.
+- ["Show me your work"](https://fablelist.000ooo.ooo/w/show-me-your-work/): by @Kashiko_AIart, 1,775 likes, Video Demos.
+- [Evensong](https://fablelist.000ooo.ooo/w/evensong/): by @kevin_t_ngo, 1,753 likes, Games. A dark-fantasy souls-like boss fight, playable in the browser.
+- [4 hours in Unreal Engine 5.9 via MCP](https://fablelist.000ooo.ooo/w/4-hours-in-unreal-engine-5-9-via/): by @_MaxBlade, 1,681 likes, Video Demos.
+- [A swarm of 1,048,576 nanobots that morph into a hand, a whale, a rocket or a DNA helix](https://fablelist.000ooo.ooo/w/a-swarm-of-1-048-576-nanobots-that/): by @chrisjdimarco, 1,675 likes, Video Demos.
+- [Fast-camera 3D scene](https://fablelist.000ooo.ooo/w/fast-camera-3d-scene/): by @LexnLin, 1,652 likes, Video Demos. 30 minutes with a few Opus 5.5 subagents.
+
+## Optional
+
+- [Prompt pack](https://fablelist.000ooo.ooo/prompts/): 210 prompts reconstructed by Fable List from the code or video of these works, packaged as a Claude Skill ($9).
+- [All works as JSON](https://github.com/fengyiqicoder/awesome-fable-5.2/blob/main/data/works.json)
+- [Sitemap](https://fablelist.000ooo.ooo/sitemap.xml)
