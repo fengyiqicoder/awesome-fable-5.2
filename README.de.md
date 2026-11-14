@@ -16,25 +16,13 @@
 
 </div>
 
-✨ **Die Prompts hinter diesen Werken?** 210 daraus rekonstruierte Prompts als ein Claude Skill → [zum Paket](https://fablelist.000ooo.ooo/de/prompts/?ref=gh-top)
-
-Claude Fable 5.2 erschien am 2026-11-09. Innerhalb weniger Tage war X voller Spiele, 3D-Welten und Webseiten, die damit gebaut wurden. Diese Liste sammelt die, die **du sofort öffnen kannst**: 151 Live-Werke, jeder Link am 2026-11-14 geöffnet und geprüft, plus 111 beliebte Video-Demos in einem eigenen Abschnitt.
-
-Jeder Eintrag hat eine kurze GIF-Vorschau, nennt den Creator und verlinkt den Originalpost. 🆕 markiert Einträge der letzten Tage. Diese Seite zeigt Posts mit 100+ Likes; der Rest ist unter „Alle ansehen" am Ende jedes Abschnitts. Wenn es dir hilft, hält ein ⭐ das Projekt am Laufen – die Liste wird täglich aktualisiert.
+151 Live-Werke und 111 Video-Demos, gebaut mit Claude Fable 5.2, alle Links am 2026-11-14 geprüft. Täglich aktualisiert; ein ⭐ hilft.
 
 ## 📑 Inhalt
 
-- [⭐ Am beliebtesten](#-am-beliebtesten)
-- [🎮 Spiele](#-spiele) · 75
-- [🌍 3D-Welten & Szenen](#-3d-welten--szenen) · 33
-- [🧰 Webseiten & Tools](#-webseiten--tools) · 32
-- [🎬 Animation & Film](#-animation--film) · 11
-- [📺 Video-Demos](#-video-demos) · 111
-- [🤝 Mitmachen](#-mitmachen)
+[⭐ Am beliebtesten](#-am-beliebtesten) · [🎮 Spiele](#-spiele) 75 · [🌍 3D-Welten & Szenen](#-3d-welten--szenen) 33 · [🧰 Webseiten & Tools](#-webseiten--tools) 32 · [🎬 Animation & Film](#-animation--film) 11 · [📺 Video-Demos](#-video-demos) 111 · [🤝 Mitmachen](#-mitmachen)
 
 ## ⭐ Am beliebtesten
-
-Die sechs beliebtesten Live-Werke.
 
 <table>
 <tr>
@@ -84,6 +72,8 @@ Die sechs beliebtesten Live-Werke.
 </td>
 </tr>
 </table>
+
+✨ **Die Prompts hinter diesen Werken?** 210 daraus rekonstruierte Prompts als ein Claude Skill → [zum Paket](https://fablelist.000ooo.ooo/de/prompts/?ref=gh-top)
 
 ## 🎮 Spiele
 

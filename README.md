@@ -16,25 +16,13 @@
 
 </div>
 
-✨ **Want the prompts behind these?** 210 prompts reconstructed from these works, as one Claude Skill → [see the pack](https://fablelist.000ooo.ooo/prompts/?ref=gh-top)
-
-Claude Fable 5.2 shipped on 2026-11-09. Within days X filled up with games, 3D worlds and web pages made with it. This list collects the ones **you can open right now**: 151 live works, every link opened and checked on 2026-11-14, plus 111 popular video-only demos in a separate section.
-
-Every entry has a few-second GIF preview, credits its creator and links back to the original post for the full video. 🆕 marks entries added in the last few days. This page shows posts with 100+ likes; the rest are one click away under "See all" at the end of each section. If this helps, a ⭐ keeps it coming — the list is updated daily.
+151 live works and 111 video demos built with Claude Fable 5.2, every link checked 2026-11-14. Updated daily; a ⭐ keeps it coming.
 
 ## 📑 Contents
 
-- [⭐ Most Loved](#-most-loved)
-- [🎮 Games](#-games) · 75
-- [🌍 3D Worlds & Scenes](#-3d-worlds--scenes) · 33
-- [🧰 Web Pages & Tools](#-web-pages--tools) · 32
-- [🎬 Animation & Film (with source)](#-animation--film-with-source) · 11
-- [📺 Video-only Demos](#-video-only-demos) · 111
-- [🤝 Contributing](#-contributing)
+[⭐ Most Loved](#-most-loved) · [🎮 Games](#-games) 75 · [🌍 3D Worlds & Scenes](#-3d-worlds--scenes) 33 · [🧰 Web Pages & Tools](#-web-pages--tools) 32 · [🎬 Animation & Film (with source)](#-animation--film-with-source) 11 · [📺 Video-only Demos](#-video-only-demos) 111 · [🤝 Contributing](#-contributing)
 
 ## ⭐ Most Loved
-
-The six most-liked live works.
 
 <table>
 <tr>
@@ -84,6 +72,8 @@ The six most-liked live works.
 </td>
 </tr>
 </table>
+
+✨ **Want the prompts behind these?** 210 prompts reconstructed from these works, as one Claude Skill → [see the pack](https://fablelist.000ooo.ooo/prompts/?ref=gh-top)
 
 ## 🎮 Games
 

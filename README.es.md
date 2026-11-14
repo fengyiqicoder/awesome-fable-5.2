@@ -16,25 +16,13 @@
 
 </div>
 
-✨ **¿Quieres los prompts detrás de estas obras?** 210 prompts reconstruidos a partir de ellas, en una Skill de Claude → [ver el paquete](https://fablelist.000ooo.ooo/es/prompts/?ref=gh-top)
-
-Claude Fable 5.2 salió el 2026-11-09. En pocos días X se llenó de juegos, mundos 3D y páginas web hechos con él. Esta lista reúne los que **puedes abrir ahora mismo**: 151 obras en línea, cada enlace abierto y comprobado el 2026-11-14, más 111 demos en video populares en una sección aparte.
-
-Cada entrada tiene una vista previa en GIF de unos segundos, el crédito a su creador y un enlace a la publicación original. 🆕 marca lo añadido en los últimos días. Esta página muestra publicaciones con 100+ «me gusta»; el resto está en «Ver todo» al final de cada sección. Si te sirve, una ⭐ ayuda a seguir: la lista se actualiza a diario.
+151 obras en línea y 111 demos en video hechas con Claude Fable 5.2, enlaces revisados el 2026-11-14. Se actualiza a diario; una ⭐ ayuda.
 
 ## 📑 Contenido
 
-- [⭐ Los más queridos](#-los-más-queridos)
-- [🎮 Juegos](#-juegos) · 75
-- [🌍 Mundos y escenas 3D](#-mundos-y-escenas-3d) · 33
-- [🧰 Páginas web y herramientas](#-páginas-web-y-herramientas) · 32
-- [🎬 Animación y cine](#-animación-y-cine) · 11
-- [📺 Demos en video](#-demos-en-video) · 111
-- [🤝 Contribuir](#-contribuir)
+[⭐ Los más queridos](#-los-más-queridos) · [🎮 Juegos](#-juegos) 75 · [🌍 Mundos y escenas 3D](#-mundos-y-escenas-3d) 33 · [🧰 Páginas web y herramientas](#-páginas-web-y-herramientas) 32 · [🎬 Animación y cine](#-animación-y-cine) 11 · [📺 Demos en video](#-demos-en-video) 111 · [🤝 Contribuir](#-contribuir)
 
 ## ⭐ Los más queridos
-
-Las seis obras con más «me gusta».
 
 <table>
 <tr>
@@ -84,6 +72,8 @@ Las seis obras con más «me gusta».
 </td>
 </tr>
 </table>
+
+✨ **¿Quieres los prompts detrás de estas obras?** 210 prompts reconstruidos a partir de ellas, en una Skill de Claude → [ver el paquete](https://fablelist.000ooo.ooo/es/prompts/?ref=gh-top)
 
 ## 🎮 Juegos
 
