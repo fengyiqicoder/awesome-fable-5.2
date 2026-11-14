@@ -73,8 +73,6 @@
 </tr>
 </table>
 
-✨ **想让你的 Fable 5.2 也做出这种作品？** SuperHeavy Skill 把这些作品逆向成 210 个提示词，装进一个 Claude Skill → [看看 SuperHeavy Skill](https://fablelist.000ooo.ooo/zh/prompts/?ref=gh-top)
-
 ## 🎮 游戏
 
 <table>

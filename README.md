@@ -73,8 +73,6 @@
 </tr>
 </table>
 
-✨ **Want your Fable 5.2 to build like this?** SuperHeavy Skill packs 210 prompts reverse-engineered from these works into one Claude Skill → [see SuperHeavy Skill](https://fablelist.000ooo.ooo/prompts/?ref=gh-top)
-
 ## 🎮 Games
 
 <table>

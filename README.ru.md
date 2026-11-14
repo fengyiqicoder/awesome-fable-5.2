@@ -73,8 +73,6 @@
 </tr>
 </table>
 
-✨ **Хотите, чтобы ваш Fable 5.2 делал так же?** SuperHeavy Skill собирает 210 промптов, восстановленных по этим работам, в один Claude Skill → [смотреть SuperHeavy Skill](https://fablelist.000ooo.ooo/ru/prompts/?ref=gh-top)
-
 ## 🎮 Игры
 
 <table>

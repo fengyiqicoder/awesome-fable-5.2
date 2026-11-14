@@ -73,8 +73,6 @@ Claude Fable 5.2로 만든 작품 156개와 영상 데모 112개, 링크는 2026
 </tr>
 </table>
 
-✨ **당신의 Fable 5.2로도 이런 작품을?** SuperHeavy Skill은 이 작품들에서 역설계한 프롬프트 210개를 하나의 Claude Skill에 담았습니다 → [SuperHeavy Skill 보기](https://fablelist.000ooo.ooo/ko/prompts/?ref=gh-top)
-
 ## 🎮 게임
 
 <table>

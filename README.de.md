@@ -73,8 +73,6 @@
 </tr>
 </table>
 
-✨ **Soll dein Fable 5.2 so etwas bauen?** Die SuperHeavy Skill bündelt 210 aus diesen Werken rekonstruierte Prompts in einer Claude Skill → [SuperHeavy Skill ansehen](https://fablelist.000ooo.ooo/de/prompts/?ref=gh-top)
-
 ## 🎮 Spiele
 
 <table>
