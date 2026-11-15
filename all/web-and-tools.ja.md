@@ -1,4 +1,4 @@
-# 🧰 Web ページとツール · 全 34 件
+# 🧰 Web ページとツール · 全 35 件
 
 [← メインリストに戻る](../README.ja.md) · [English](web-and-tools.md) · [简体中文](web-and-tools.zh-CN.md) · [繁體中文](web-and-tools.zh-TW.md) · **日本語** · [한국어](web-and-tools.ko.md) · [Español](web-and-tools.es.md) · [Português](web-and-tools.pt-BR.md) · [Français](web-and-tools.fr.md) · [Deutsch](web-and-tools.de.md) · [Русский](web-and-tools.ru.md)
 
@@ -9,7 +9,7 @@
 <td width="33%" valign="top">
 <a href="https://claudia.gallery"><img src="../assets/gifs/038.gif" width="100%" alt="Claudia Gallery"></a><br>
 <b><a href="https://claudia.gallery">Claudia Gallery</a></b><br>
-<sub><a href="https://x.com/anabology">@anabology</a> · ♥ 5.3k · <a href="https://x.com/anabology/status/2120010995309457643">▶ 動画</a></sub><br>
+<sub><a href="https://x.com/anabology">@anabology</a> · ♥ 5.4k · <a href="https://x.com/anabology/status/2120010995309457643">▶ 動画</a></sub><br>
 <sub>「夢の映像を作って」——2 ショット、9 時間。</sub><br>
 <sub><a href="https://fablelist.000ooo.ooo/ja/prompts/?w=claudia-gallery&ref=gh"><b>✨ プロンプトを入手</b></a></sub>
 </td>
@@ -108,18 +108,18 @@
 <sub><a href="https://x.com/rileybrown/status/2119946022767980985">📝 作者公開のプロンプト（無料）</a></sub>
 </td>
 <td width="33%" valign="top">
+<a href="https://auden-english-135.netlify.app/"><img src="../assets/gifs/281.gif" width="100%" alt="失われた Auden の 1941 年の詩の授業を復元"></a><br>
+<b><a href="https://auden-english-135.netlify.app/">失われた Auden の 1941 年の詩の授業を復元</a></b><br>
+<sub>🆕 · <a href="https://x.com/emollick">@emollick</a> · ♥ 480 · <a href="https://x.com/emollick/status/2121641417483169934">投稿</a></sub><br>
+<sub>Fable 5.2 が Internet Archive のマイナーな本と散らばったメモから、W. H. Auden の「人文学で最も難しい」授業を再構成した。</sub>
+</td>
+<td width="33%" valign="top">
 <a href="https://where-is-everybody-fermi.netlify.app/"><img src="../assets/gifs/146.gif" width="100%" alt="Where Is Everybody?"></a><br>
 <b><a href="https://where-is-everybody-fermi.netlify.app/">Where Is Everybody?</a></b><br>
 <sub><a href="https://x.com/emollick">@emollick</a> · ♥ 456 · <a href="https://x.com/emollick/status/2120359214157603139">投稿</a></sub><br>
 <sub>「フェルミのパラドックスを解いて」と頼まれ、データを集め、仮説を検証し、批判者を想定して負荷テストまで行う。</sub><br>
 <sub><a href="https://resolving-the-great-silence.netlify.app/">Gemini Carbon version</a></sub><br>
 <sub><a href="https://x.com/emollick/status/2120359214157603139">📝 作者公開のプロンプト（無料）</a></sub>
-</td>
-<td width="33%" valign="top">
-<a href="https://auden-english-135.netlify.app/"><img src="../assets/gifs/281.gif" width="100%" alt="失われた Auden の 1941 年の詩の授業を復元"></a><br>
-<b><a href="https://auden-english-135.netlify.app/">失われた Auden の 1941 年の詩の授業を復元</a></b><br>
-<sub>🆕 · <a href="https://x.com/emollick">@emollick</a> · ♥ 432 · <a href="https://x.com/emollick/status/2121641417483169934">投稿</a></sub><br>
-<sub>Fable 5.2 が Internet Archive のマイナーな本と散らばったメモから、W. H. Auden の「人文学で最も難しい」授業を再構成した。</sub>
 </td>
 </tr>
 <tr>
@@ -149,14 +149,14 @@
 <td width="33%" valign="top">
 <a href="https://clockendbader.github.io/fable-builds/heartbeat/"><img src="../assets/gifs/259.gif" width="100%" alt="One Heartbeat"></a><br>
 <b><a href="https://clockendbader.github.io/fable-builds/heartbeat/">One Heartbeat</a></b><br>
-<sub>🆕 · <a href="https://x.com/clockendbader">@clockendbader</a> · ♥ 141 · <a href="https://x.com/clockendbader/status/2121246903207961069">投稿</a></sub><br>
+<sub>🆕 · <a href="https://x.com/clockendbader">@clockendbader</a> · ♥ 151 · <a href="https://x.com/clockendbader/status/2121246903207961069">投稿</a></sub><br>
 <sub>ライブの心電図・圧波形・心音付きで拍動する 3D の心臓。正常、心房細動、房室ブロック、大動脈弁狭窄を比較できる。テストも自分で書いた。</sub><br>
 <sub><a href="https://fablelist.000ooo.ooo/ja/prompts/?w=one-heartbeat&ref=gh"><b>✨ プロンプトを入手</b></a></sub>
 </td>
 <td width="33%" valign="top">
 <a href="https://patch.gg/patch/anymove"><img src="../assets/gifs/149.gif" width="100%" alt="anymove"></a><br>
 <b><a href="https://patch.gg/patch/anymove">anymove</a></b><br>
-<sub><a href="https://x.com/rehan_shei">@rehan_shei</a> · ♥ 140 · <a href="https://x.com/rehan_shei/status/2120409150870159414">▶ 動画</a></sub><br>
+<sub><a href="https://x.com/rehan_shei">@rehan_shei</a> · ♥ 141 · <a href="https://x.com/rehan_shei/status/2120409150870159414">▶ 動画</a></sub><br>
 <sub>AI 動画クリップの動きを、モーションキャプチャスーツもキーフレームもなしに実際の 3D リグへ解く。オープンソース。</sub><br>
 <sub><a href="https://fablelist.000ooo.ooo/ja/prompts/?w=anymove&ref=gh"><b>✨ プロンプトを入手</b></a></sub>
 </td>
@@ -178,7 +178,7 @@
 <td width="33%" valign="top">
 <a href="https://github.com/kanaworksai-hue/harappa"><img src="../assets/gifs/250.gif" width="100%" alt="Harappa（Blender アドオン）"></a><br>
 <b><a href="https://github.com/kanaworksai-hue/harappa">Harappa（Blender アドオン）</a></b><br>
-<sub>🆕 · <a href="https://x.com/KanaWorks_AI">@KanaWorks_AI</a> · ♥ 77 · <a href="https://x.com/KanaWorks_AI/status/2121221880673972463">▶ 動画</a></sub><br>
+<sub>🆕 · <a href="https://x.com/KanaWorks_AI">@KanaWorks_AI</a> · ♥ 78 · <a href="https://x.com/KanaWorks_AI/status/2121221880673972463">▶ 動画</a></sub><br>
 <sub>何もない丘をワンクリックでアニメ調の草原に変える無料の Blender アドオン。草・花・雲・木・季節・スタイル付き。</sub><br>
 <sub><a href="https://fablelist.000ooo.ooo/ja/prompts/?w=harappa-blender-add-on&ref=gh"><b>✨ プロンプトを入手</b></a></sub>
 </td>
@@ -239,6 +239,12 @@
 </tr>
 <tr>
 <td width="33%" valign="top">
+<a href="https://uberdesigner.ai/t/araneae"><img src="../assets/gifs/290.gif" width="100%" alt="araneae"></a><br>
+<b><a href="https://uberdesigner.ai/t/araneae">araneae</a></b><br>
+<sub>🆕 · <a href="https://x.com/seanaiux">@seanaiux</a> · ♥ 5 · <a href="https://x.com/seanaiux/status/2121688869439455410">▶ 動画</a></sub><br>
+<sub>「自分が怖くなるサイトを作って」と頼んだ作品。闇から蜘蛛が降りてきて、スクロールすると巣、目、牙、脚とたどり、最後にはあなたが獲物の蠅になります。</sub>
+</td>
+<td width="33%" valign="top">
 <a href="https://claude.ai/artifact/Pk6rHPyRwfShT37kiU1sT6"><img src="../assets/gifs/041.gif" width="100%" alt="Dub Techno Track + Visualizer"></a><br>
 <b><a href="https://claude.ai/artifact/Pk6rHPyRwfShT37kiU1sT6">Dub Techno Track + Visualizer</a></b><br>
 <sub><a href="https://x.com/bartdecrem">@bartdecrem</a> · ♥ 4 · <a href="https://x.com/bartdecrem/status/2119926997422133417">投稿</a></sub><br>
@@ -252,6 +258,8 @@
 <sub>主演俳優と 65 人のボリウッドスターとの血縁・婚姻関係。</sub><br>
 <sub><a href="https://fablelist.000ooo.ooo/ja/prompts/?w=ramayana-family-tree&ref=gh"><b>✨ プロンプトを入手</b></a></sub>
 </td>
+</tr>
+<tr>
 <td width="33%" valign="top">
 <a href="https://claude.ai/artifact/4aEy6FtUi7jrm9U7uYgp8K"><img src="../assets/gifs/042.gif" width="100%" alt="Demoscene Demo"></a><br>
 <b><a href="https://claude.ai/artifact/4aEy6FtUi7jrm9U7uYgp8K">Demoscene Demo</a></b><br>
@@ -259,8 +267,6 @@
 <sub>「ブラウザで動く、デモシーンの伝統に沿ったデモを作って。」</sub><br>
 <sub><a href="https://x.com/ndril/status/2119899340642894235">📝 作者公開のプロンプト（無料）</a></sub>
 </td>
-</tr>
-<tr>
 <td width="33%" valign="top">
 <a href="https://claude.ai/artifact/H8E7AonW2KFrzdRimaLeXb"><img src="../assets/gifs/043.gif" width="100%" alt="瞑想の 112 の形"></a><br>
 <b><a href="https://claude.ai/artifact/H8E7AonW2KFrzdRimaLeXb">瞑想の 112 の形</a></b><br>

@@ -5,8 +5,8 @@
 <h3>用 Claude Fable 5.2 做出來、能直接打開玩的東西</h3>
 
 [![Awesome](https://awesome.re/badge.svg)](https://awesome.re)
-[![Works](https://img.shields.io/badge/線上作品-162-6b4eff)](#-遊戲)
-[![Demos](https://img.shields.io/badge/影片展示-117-ff7a59)](#-影片展示)
+[![Works](https://img.shields.io/badge/線上作品-165-6b4eff)](#-遊戲)
+[![Demos](https://img.shields.io/badge/影片展示-119-ff7a59)](#-影片展示)
 [![Links checked](https://img.shields.io/badge/連結實測-2026--11--15-2ea44f)](#-投稿)
 [![License: CC0-1.0](https://img.shields.io/badge/License-CC0_1.0-lightgrey.svg)](LICENSE)
 
@@ -16,11 +16,11 @@
 
 </div>
 
-162 個能直接打開的作品 + 117 個影片展示，都是用 Claude Fable 5.2 做的，連結 2026-11-15 實測過。每天更新，覺得有用就按個 ⭐。
+165 個能直接打開的作品 + 119 個影片展示，都是用 Claude Fable 5.2 做的，連結 2026-11-15 實測過。每天更新，覺得有用就按個 ⭐。
 
 ## 📑 目錄
 
-[⭐ 最受歡迎](#-最受歡迎) · [🎮 遊戲](#-遊戲) 81 · [🌍 3D 世界與場景](#-3d-世界與場景) 35 · [🧰 網頁與工具](#-網頁與工具) 34 · [🎬 動畫與短片](#-動畫與短片) 12 · [📺 影片展示](#-影片展示) 117 · [🤝 投稿](#-投稿)
+[⭐ 最受歡迎](#-最受歡迎) · [🎮 遊戲](#-遊戲) 82 · [🌍 3D 世界與場景](#-3d-世界與場景) 36 · [🧰 網頁與工具](#-網頁與工具) 35 · [🎬 動畫與短片](#-動畫與短片) 12 · [📺 影片展示](#-影片展示) 119 · [🤝 投稿](#-投稿)
 
 ## ⭐ 最受歡迎
 
@@ -43,7 +43,7 @@
 <td width="33%" valign="top">
 <a href="https://patch.gg/blendi/oil-paint"><img src="assets/gifs/124.gif" width="100%" alt="Oil Paint — 手繪風遊戲"></a><br>
 <b><a href="https://patch.gg/blendi/oil-paint">Oil Paint — 手繪風遊戲</a></b><br>
-<sub><a href="https://x.com/BlendiByl">@BlendiByl</a> · ♥ 7.9k · <a href="https://x.com/BlendiByl/status/2120341251178594532">▶ 影片</a></sub><br>
+<sub><a href="https://x.com/BlendiByl">@BlendiByl</a> · ♥ 8.0k · <a href="https://x.com/BlendiByl/status/2120341251178594532">▶ 影片</a></sub><br>
 <sub>一小時內完成。每一幀約有 150 萬筆筆觸，在瀏覽器分頁裡以 200 fps 執行。開源。</sub><br>
 <sub><a href="https://fablelist.000ooo.ooo/zh-tw/prompts/?w=oil-paint-hand-painted-game&ref=gh"><b>✨ 取得提示詞</b></a></sub>
 </td>
@@ -59,14 +59,14 @@
 <td width="33%" valign="top">
 <a href="https://claude.ai/artifact/QGWUAjRrzRzZWGcQzSMLfa"><img src="assets/gifs/023.gif" width="100%" alt="Blender 筆電上的 Claude App"></a><br>
 <b><a href="https://claude.ai/artifact/QGWUAjRrzRzZWGcQzSMLfa">Blender 筆電上的 Claude App</a></b><br>
-<sub><a href="https://x.com/rileybrown">@rileybrown</a> · ♥ 7.0k · <a href="https://x.com/rileybrown/status/2119902109709537708">▶ 影片</a></sub><br>
+<sub><a href="https://x.com/rileybrown">@rileybrown</a> · ♥ 7.1k · <a href="https://x.com/rileybrown/status/2119902109709537708">▶ 影片</a></sub><br>
 <sub>一則提示就在 Blender 中建好整個房間並以 4K 渲染。這是筆電螢幕上顯示的網頁。</sub><br>
 <sub><a href="https://x.com/rileybrown/status/2119902109709537708">📝 作者公開的提示詞（免費）</a></sub>
 </td>
 <td width="33%" valign="top">
 <a href="https://claudia.gallery"><img src="assets/gifs/038.gif" width="100%" alt="Claudia Gallery"></a><br>
 <b><a href="https://claudia.gallery">Claudia Gallery</a></b><br>
-<sub><a href="https://x.com/anabology">@anabology</a> · ♥ 5.3k · <a href="https://x.com/anabology/status/2120010995309457643">▶ 影片</a></sub><br>
+<sub><a href="https://x.com/anabology">@anabology</a> · ♥ 5.4k · <a href="https://x.com/anabology/status/2120010995309457643">▶ 影片</a></sub><br>
 <sub>「做出你夢想中的影片」——兩個鏡頭，9 小時。</sub><br>
 <sub><a href="https://fablelist.000ooo.ooo/zh-tw/prompts/?w=claudia-gallery&ref=gh"><b>✨ 取得提示詞</b></a></sub>
 </td>
@@ -94,7 +94,7 @@
 <td width="33%" valign="top">
 <a href="https://patch.gg/blendi/oil-paint"><img src="assets/gifs/124.gif" width="100%" alt="Oil Paint — 手繪風遊戲"></a><br>
 <b><a href="https://patch.gg/blendi/oil-paint">Oil Paint — 手繪風遊戲</a></b><br>
-<sub><a href="https://x.com/BlendiByl">@BlendiByl</a> · ♥ 7.9k · <a href="https://x.com/BlendiByl/status/2120341251178594532">▶ 影片</a></sub><br>
+<sub><a href="https://x.com/BlendiByl">@BlendiByl</a> · ♥ 8.0k · <a href="https://x.com/BlendiByl/status/2120341251178594532">▶ 影片</a></sub><br>
 <sub>一小時內完成。每一幀約有 150 萬筆筆觸，在瀏覽器分頁裡以 200 fps 執行。開源。</sub><br>
 <sub><a href="https://fablelist.000ooo.ooo/zh-tw/prompts/?w=oil-paint-hand-painted-game&ref=gh"><b>✨ 取得提示詞</b></a></sub>
 </td>
@@ -139,19 +139,19 @@
 <sub><a href="https://fablelist.000ooo.ooo/zh-tw/prompts/?w=portals-endless-worlds&ref=gh"><b>✨ 取得提示詞</b></a></sub>
 </td>
 <td width="33%" valign="top">
+<a href="https://patch.gg/play/blendi/small-magic"><img src="assets/gifs/274.gif" width="100%" alt="Small Magic — 巫師沙盒"></a><br>
+<b><a href="https://patch.gg/play/blendi/small-magic">Small Magic — 巫師沙盒</a></b><br>
+<sub>🆕 · <a href="https://x.com/BlendiByl">@BlendiByl</a> · ♥ 1.8k · <a href="https://x.com/BlendiByl/status/2121594536153718972">▶ 影片</a></sub><br>
+<sub>一天做完：7 種法術、約 1,800 塊可破壞的物理碎片，沒有模型也沒有貼圖，開源。</sub>
+</td>
+</tr>
+<tr>
+<td width="33%" valign="top">
 <a href="https://evensong-phi.vercel.app/"><img src="assets/gifs/126.gif" width="100%" alt="Evensong"></a><br>
 <b><a href="https://evensong-phi.vercel.app/">Evensong</a></b><br>
 <sub><a href="https://x.com/kevin_t_ngo">@kevin_t_ngo</a> · ♥ 1.8k · <a href="https://x.com/kevin_t_ngo/status/2120238844754923874">▶ 影片</a></sub><br>
 <sub>黑暗奇幻的魂系 Boss 戰，可在瀏覽器中遊玩。</sub><br>
 <sub><a href="https://fablelist.000ooo.ooo/zh-tw/prompts/?w=evensong&ref=gh"><b>✨ 取得提示詞</b></a></sub>
-</td>
-</tr>
-<tr>
-<td width="33%" valign="top">
-<a href="https://patch.gg/play/blendi/small-magic"><img src="assets/gifs/274.gif" width="100%" alt="Small Magic — 巫師沙盒"></a><br>
-<b><a href="https://patch.gg/play/blendi/small-magic">Small Magic — 巫師沙盒</a></b><br>
-<sub>🆕 · <a href="https://x.com/BlendiByl">@BlendiByl</a> · ♥ 1.5k · <a href="https://x.com/BlendiByl/status/2121594536153718972">▶ 影片</a></sub><br>
-<sub>一天做完：7 種法術、約 1,800 塊可破壞的物理碎片，沒有模型也沒有貼圖，開源。</sub>
 </td>
 <td width="33%" valign="top">
 <a href="https://loktar00.github.io/lanternfall/"><img src="assets/gifs/128.gif" width="100%" alt="LANTERNFALL"></a><br>
@@ -170,7 +170,7 @@
 </tr>
 </table>
 
-<p align="center"><b><a href="all/games.zh-TW.md">查看全部 81 個 →</a></b></p>
+<p align="center"><b><a href="all/games.zh-TW.md">查看全部 82 個 →</a></b></p>
 
 <div align="right"><a href="#-目錄">↑ 回到目錄</a></div>
 
@@ -181,7 +181,7 @@
 <td width="33%" valign="top">
 <a href="https://claude.ai/artifact/QGWUAjRrzRzZWGcQzSMLfa"><img src="assets/gifs/023.gif" width="100%" alt="Blender 筆電上的 Claude App"></a><br>
 <b><a href="https://claude.ai/artifact/QGWUAjRrzRzZWGcQzSMLfa">Blender 筆電上的 Claude App</a></b><br>
-<sub><a href="https://x.com/rileybrown">@rileybrown</a> · ♥ 7.0k · <a href="https://x.com/rileybrown/status/2119902109709537708">▶ 影片</a></sub><br>
+<sub><a href="https://x.com/rileybrown">@rileybrown</a> · ♥ 7.1k · <a href="https://x.com/rileybrown/status/2119902109709537708">▶ 影片</a></sub><br>
 <sub>一則提示就在 Blender 中建好整個房間並以 4K 渲染。這是筆電螢幕上顯示的網頁。</sub><br>
 <sub><a href="https://x.com/rileybrown/status/2119902109709537708">📝 作者公開的提示詞（免費）</a></sub>
 </td>
@@ -211,14 +211,14 @@
 <td width="33%" valign="top">
 <a href="https://fable-rome.surge.sh/"><img src="assets/gifs/136.gif" width="100%" alt="Rome, AD 320"></a><br>
 <b><a href="https://fable-rome.surge.sh/">Rome, AD 320</a></b><br>
-<sub><a href="https://x.com/petergostev">@petergostev</a> · ♥ 968 · <a href="https://x.com/petergostev/status/2120167560700383572">▶ 影片</a></sub><br>
+<sub><a href="https://x.com/petergostev">@petergostev</a> · ♥ 967 · <a href="https://x.com/petergostev/status/2120167560700383572">▶ 影片</a></sub><br>
 <sub>一則提示，Fable 5.2（Max）連跑一整夜，$2,618。</sub><br>
 <sub><a href="https://x.com/petergostev/status/2120167560700383572">📝 作者公開的提示詞（免費）</a></sub>
 </td>
 <td width="33%" valign="top">
 <a href="https://github.com/Leonxlnx/room-at-dawn"><img src="assets/gifs/219.gif" width="100%" alt="Room at Dawn"></a><br>
 <b><a href="https://github.com/Leonxlnx/room-at-dawn">Room at Dawn</a></b><br>
-<sub>🆕 · <a href="https://x.com/LexnLin">@LexnLin</a> · ♥ 852 · <a href="https://x.com/LexnLin/status/2120910879361548565">▶ 影片</a></sub><br>
+<sub>🆕 · <a href="https://x.com/LexnLin">@LexnLin</a> · ♥ 853 · <a href="https://x.com/LexnLin/status/2120910879361548565">▶ 影片</a></sub><br>
 <sub>three.js 打造的擬真臥室，沒有預製模型或貼圖；一切都是程式碼。</sub><br>
 <sub><a href="https://fablelist.000ooo.ooo/zh-tw/prompts/?w=room-at-dawn&ref=gh"><b>✨ 取得提示詞</b></a></sub>
 </td>
@@ -227,13 +227,13 @@
 <td width="33%" valign="top">
 <a href="https://fable-rover.vercel.app"><img src="assets/gifs/278.gif" width="100%" alt="ER-6 Terrain Explorer — 自動駕駛的火星車"></a><br>
 <b><a href="https://fable-rover.vercel.app">ER-6 Terrain Explorer — 自動駕駛的火星車</a></b><br>
-<sub>🆕 · <a href="https://x.com/DilumSanjaya">@DilumSanjaya</a> · ♥ 779 · <a href="https://x.com/DilumSanjaya/status/2120561077385867663">▶ 影片</a></sub><br>
+<sub>🆕 · <a href="https://x.com/DilumSanjaya">@DilumSanjaya</a> · ♥ 780 · <a href="https://x.com/DilumSanjaya/status/2120561077385867663">▶ 影片</a></sub><br>
 <sub>Fable 5.2 設計了 NASA 火星車那種搖臂轉向架懸吊，再模擬它在外星地形上行駛。</sub>
 </td>
 <td width="33%" valign="top">
 <a href="https://supernatural-ft.vercel.app/fire-in-ice"><img src="assets/gifs/221.gif" width="100%" alt="Fire in Ice"></a><br>
 <b><a href="https://supernatural-ft.vercel.app/fire-in-ice">Fire in Ice</a></b><br>
-<sub>🆕 · <a href="https://x.com/tkm_hmng8">@tkm_hmng8</a> · ♥ 548 · <a href="https://x.com/tkm_hmng8/status/2120813043101946324">▶ 影片</a></sub><br>
+<sub>🆕 · <a href="https://x.com/tkm_hmng8">@tkm_hmng8</a> · ♥ 550 · <a href="https://x.com/tkm_hmng8/status/2120813043101946324">▶ 影片</a></sub><br>
 <sub>寫在原生 WebGPU（不用 three.js）上的冰中燃燒的逼真火焰。</sub><br>
 <sub><a href="https://fablelist.000ooo.ooo/zh-tw/prompts/?w=fire-in-ice&ref=gh"><b>✨ 取得提示詞</b></a></sub>
 </td>
@@ -271,7 +271,7 @@
 </tr>
 </table>
 
-<p align="center"><b><a href="all/3d-worlds.zh-TW.md">查看全部 35 個 →</a></b></p>
+<p align="center"><b><a href="all/3d-worlds.zh-TW.md">查看全部 36 個 →</a></b></p>
 
 <div align="right"><a href="#-目錄">↑ 回到目錄</a></div>
 
@@ -282,7 +282,7 @@
 <td width="33%" valign="top">
 <a href="https://claudia.gallery"><img src="assets/gifs/038.gif" width="100%" alt="Claudia Gallery"></a><br>
 <b><a href="https://claudia.gallery">Claudia Gallery</a></b><br>
-<sub><a href="https://x.com/anabology">@anabology</a> · ♥ 5.3k · <a href="https://x.com/anabology/status/2120010995309457643">▶ 影片</a></sub><br>
+<sub><a href="https://x.com/anabology">@anabology</a> · ♥ 5.4k · <a href="https://x.com/anabology/status/2120010995309457643">▶ 影片</a></sub><br>
 <sub>「做出你夢想中的影片」——兩個鏡頭，9 小時。</sub><br>
 <sub><a href="https://fablelist.000ooo.ooo/zh-tw/prompts/?w=claudia-gallery&ref=gh"><b>✨ 取得提示詞</b></a></sub>
 </td>
@@ -374,7 +374,7 @@
 </tr>
 </table>
 
-<p align="center"><b><a href="all/web-and-tools.zh-TW.md">查看全部 34 個 →</a></b></p>
+<p align="center"><b><a href="all/web-and-tools.zh-TW.md">查看全部 35 個 →</a></b></p>
 
 <div align="right"><a href="#-目錄">↑ 回到目錄</a></div>
 
@@ -392,7 +392,7 @@
 <td width="33%" valign="top">
 <a href="https://github.com/amirmushichge/shred-kit"><img src="assets/gifs/269.gif" width="100%" alt="Shred Kit 碎紙模板"></a><br>
 <b><a href="https://github.com/amirmushichge/shred-kit">Shred Kit 碎紙模板</a></b><br>
-<sub>🆕 · <a href="https://x.com/AmirMushich">@AmirMushich</a> · ♥ 405 · <a href="https://x.com/AmirMushich/status/2121339167800213934">▶ 影片</a></sub><br>
+<sub>🆕 · <a href="https://x.com/AmirMushich">@AmirMushich</a> · ♥ 408 · <a href="https://x.com/AmirMushich/status/2121339167800213934">▶ 影片</a></sub><br>
 <sub>以 Fable 5.2 與 Blender 製作的 8 秒碎紙短影音，作為免費模板分享。</sub>
 </td>
 <td width="33%" valign="top">
@@ -472,18 +472,18 @@
 </tr>
 <tr>
 <td width="33%" valign="top">
-<a href="https://x.com/dominikmartn/status/2120154832694858224"><img src="assets/gifs/236.gif" width="100%" alt="它真的會設計"></a><br>
-<b><a href="https://x.com/dominikmartn/status/2120154832694858224">它真的會設計</a></b><br>
-<sub>🆕 · <a href="https://x.com/dominikmartn">@dominikmartn</a> · ♥ 7.2k · <a href="https://x.com/dominikmartn/status/2120154832694858224">▶ 影片</a></sub><br>
-<br>
-<sub><a href="https://fablelist.000ooo.ooo/zh-tw/prompts/?w=it-can-actually-design&ref=gh"><b>✨ 取得提示詞</b></a></sub>
-</td>
-<td width="33%" valign="top">
 <a href="https://x.com/everestchris6/status/2120175941616128277"><img src="assets/gifs/207.gif" width="100%" alt="2D 藍圖變成 3D 導覽"></a><br>
 <b><a href="https://x.com/everestchris6/status/2120175941616128277">2D 藍圖變成 3D 導覽</a></b><br>
 <sub>🆕 · <a href="https://x.com/everestchris6">@everestchris6</a> · ♥ 7.2k · <a href="https://x.com/everestchris6/status/2120175941616128277">▶ 影片</a></sub><br>
 <br>
 <sub><a href="https://x.com/everestchris6/status/2120175941616128277">📝 作者公開的提示詞（免費）</a></sub>
+</td>
+<td width="33%" valign="top">
+<a href="https://x.com/dominikmartn/status/2120154832694858224"><img src="assets/gifs/236.gif" width="100%" alt="它真的會設計"></a><br>
+<b><a href="https://x.com/dominikmartn/status/2120154832694858224">它真的會設計</a></b><br>
+<sub>🆕 · <a href="https://x.com/dominikmartn">@dominikmartn</a> · ♥ 7.2k · <a href="https://x.com/dominikmartn/status/2120154832694858224">▶ 影片</a></sub><br>
+<br>
+<sub><a href="https://fablelist.000ooo.ooo/zh-tw/prompts/?w=it-can-actually-design&ref=gh"><b>✨ 取得提示詞</b></a></sub>
 </td>
 <td width="33%" valign="top">
 <a href="https://x.com/suna_gaku/status/2119952985933697063"><img src="assets/gifs/208.gif" width="100%" alt="「讓我看看你最好的影片」"></a><br>
@@ -511,7 +511,7 @@
 <td width="33%" valign="top">
 <a href="https://x.com/MrTacticalX/status/2121082861902070130"><img src="assets/gifs/253.gif" width="100%" alt="三個 Fable 5.2 Agent 在 7 小時 41 分內造出一台電腦"></a><br>
 <b><a href="https://x.com/MrTacticalX/status/2121082861902070130">三個 Fable 5.2 Agent 在 7 小時 41 分內造出一台電腦</a></b><br>
-<sub>🆕 · <a href="https://x.com/MrTacticalX">@MrTacticalX</a> · ♥ 4.4k · <a href="https://x.com/MrTacticalX/status/2121082861902070130">▶ 影片</a></sub><br>
+<sub>🆕 · <a href="https://x.com/MrTacticalX">@MrTacticalX</a> · ♥ 4.5k · <a href="https://x.com/MrTacticalX/status/2121082861902070130">▶ 影片</a></sub><br>
 <br>
 <sub><a href="https://fablelist.000ooo.ooo/zh-tw/prompts/?w=three-fable-5-2-agents-build-a-computer&ref=gh"><b>✨ 取得提示詞</b></a></sub>
 </td>
@@ -541,7 +541,7 @@
 </tr>
 </table>
 
-<p align="center"><b><a href="all/video-demos.zh-TW.md">查看全部 117 個 →</a></b></p>
+<p align="center"><b><a href="all/video-demos.zh-TW.md">查看全部 119 個 →</a></b></p>
 
 ## 🤝 投稿
 
@@ -561,7 +561,7 @@
 
 ## 📰 更新
 
-- **2026-11-15**：新增 6 個作品和 5 個影片展示。
+- **2026-11-15**：新增 9 個作品和 7 個影片展示。
 - **2026-11-14**：新增 13 個作品和 2 個影片展示。
 - **2026-11-13**：新增 41 個作品和 24 個影片展示。
 - **2026-11-12**：新增 45 個作品和 26 個影片展示。

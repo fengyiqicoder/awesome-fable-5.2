@@ -16,7 +16,7 @@
 <td width="33%" valign="top">
 <a href="https://github.com/amirmushichge/shred-kit"><img src="../assets/gifs/269.gif" width="100%" alt="Shred Kit 碎紙模板"></a><br>
 <b><a href="https://github.com/amirmushichge/shred-kit">Shred Kit 碎紙模板</a></b><br>
-<sub>🆕 · <a href="https://x.com/AmirMushich">@AmirMushich</a> · ♥ 405 · <a href="https://x.com/AmirMushich/status/2121339167800213934">▶ 影片</a></sub><br>
+<sub>🆕 · <a href="https://x.com/AmirMushich">@AmirMushich</a> · ♥ 408 · <a href="https://x.com/AmirMushich/status/2121339167800213934">▶ 影片</a></sub><br>
 <sub>以 Fable 5.2 與 Blender 製作的 8 秒碎紙短影音，作為免費模板分享。</sub>
 </td>
 <td width="33%" valign="top">
@@ -60,17 +60,17 @@
 <sub><a href="https://x.com/anstapnever/status/2119915123070644263">📝 作者公開的提示詞（免費）</a></sub>
 </td>
 <td width="33%" valign="top">
+<a href="https://github.com/0xCodez/thousand-peaks"><img src="../assets/gifs/282.gif" width="100%" alt="Dragon of a Thousand Peaks — 千峰之龍"></a><br>
+<b><a href="https://github.com/0xCodez/thousand-peaks">Dragon of a Thousand Peaks — 千峰之龍</a></b><br>
+<sub>🆕 · <a href="https://x.com/0xMovez">@0xMovez</a> · ♥ 76 · <a href="https://x.com/0xMovez/status/2121721290687983906">▶ 影片</a></sub><br>
+<sub>90 秒純 three.js 打鬥短片，零素材、零影片模型；Fable 5.2 指揮 8 個並行 Agent，音樂音效也用程式碼合成。</sub>
+</td>
+<td width="33%" valign="top">
 <a href="https://github.com/skild-ai/steel-webgpu/pull/7"><img src="../assets/gifs/057.gif" width="100%" alt="螺旋梯上的機械手"></a><br>
 <b><a href="https://github.com/skild-ai/steel-webgpu/pull/7">螺旋梯上的機械手</a></b><br>
 <sub><a href="https://x.com/Luckyballa">@Luckyballa</a> · ♥ 61 · <a href="https://x.com/Luckyballa/status/2119915557663506720">▶ 影片</a></sub><br>
 <sub>Fable 5.2 ＋ Steel 物理引擎：一隻用手指走路的手。</sub><br>
 <sub><a href="https://x.com/Luckyballa/status/2119915557663506720">📝 作者公開的提示詞（免費）</a></sub>
-</td>
-<td width="33%" valign="top">
-<a href="https://github.com/0xCodez/thousand-peaks"><img src="../assets/gifs/282.gif" width="100%" alt="Dragon of a Thousand Peaks — 千峰之龍"></a><br>
-<b><a href="https://github.com/0xCodez/thousand-peaks">Dragon of a Thousand Peaks — 千峰之龍</a></b><br>
-<sub>🆕 · <a href="https://x.com/0xMovez">@0xMovez</a> · ♥ 51 · <a href="https://x.com/0xMovez/status/2121721290687983906">▶ 影片</a></sub><br>
-<sub>90 秒純 three.js 打鬥短片，零素材、零影片模型；Fable 5.2 指揮 8 個並行 Agent，音樂音效也用程式碼合成。</sub>
 </td>
 </tr>
 <tr>

@@ -16,7 +16,7 @@
 <td width="33%" valign="top">
 <a href="https://github.com/amirmushichge/shred-kit"><img src="../assets/gifs/269.gif" width="100%" alt="Shred Kit 종이 파쇄 템플릿"></a><br>
 <b><a href="https://github.com/amirmushichge/shred-kit">Shred Kit 종이 파쇄 템플릿</a></b><br>
-<sub>🆕 · <a href="https://x.com/AmirMushich">@AmirMushich</a> · ♥ 405 · <a href="https://x.com/AmirMushich/status/2121339167800213934">▶ 영상</a></sub><br>
+<sub>🆕 · <a href="https://x.com/AmirMushich">@AmirMushich</a> · ♥ 408 · <a href="https://x.com/AmirMushich/status/2121339167800213934">▶ 영상</a></sub><br>
 <sub>Fable 5.2와 Blender로 만든 8초짜리 종이 파쇄 릴, 무료 템플릿으로 공유.</sub>
 </td>
 <td width="33%" valign="top">
@@ -60,17 +60,17 @@
 <sub><a href="https://x.com/anstapnever/status/2119915123070644263">📝 제작자 공개 프롬프트 (무료)</a></sub>
 </td>
 <td width="33%" valign="top">
+<a href="https://github.com/0xCodez/thousand-peaks"><img src="../assets/gifs/282.gif" width="100%" alt="Dragon of a Thousand Peaks — 천 봉우리의 용"></a><br>
+<b><a href="https://github.com/0xCodez/thousand-peaks">Dragon of a Thousand Peaks — 천 봉우리의 용</a></b><br>
+<sub>🆕 · <a href="https://x.com/0xMovez">@0xMovez</a> · ♥ 76 · <a href="https://x.com/0xMovez/status/2121721290687983906">▶ 영상</a></sub><br>
+<sub>에셋도 영상 모델도 없이 순수 three.js로 만든 90초 전투 영상. Fable 5.2가 감독을 맡아 8개의 에이전트를 병렬로 지휘했고, 음악과 효과음도 코드로 합성했습니다.</sub>
+</td>
+<td width="33%" valign="top">
 <a href="https://github.com/skild-ai/steel-webgpu/pull/7"><img src="../assets/gifs/057.gif" width="100%" alt="나선 계단 위의 로봇 손"></a><br>
 <b><a href="https://github.com/skild-ai/steel-webgpu/pull/7">나선 계단 위의 로봇 손</a></b><br>
 <sub><a href="https://x.com/Luckyballa">@Luckyballa</a> · ♥ 61 · <a href="https://x.com/Luckyballa/status/2119915557663506720">▶ 영상</a></sub><br>
 <sub>Fable 5.2 + Steel 물리 엔진: 손가락으로 걸어 다니는 손.</sub><br>
 <sub><a href="https://x.com/Luckyballa/status/2119915557663506720">📝 제작자 공개 프롬프트 (무료)</a></sub>
-</td>
-<td width="33%" valign="top">
-<a href="https://github.com/0xCodez/thousand-peaks"><img src="../assets/gifs/282.gif" width="100%" alt="Dragon of a Thousand Peaks — 천 봉우리의 용"></a><br>
-<b><a href="https://github.com/0xCodez/thousand-peaks">Dragon of a Thousand Peaks — 천 봉우리의 용</a></b><br>
-<sub>🆕 · <a href="https://x.com/0xMovez">@0xMovez</a> · ♥ 51 · <a href="https://x.com/0xMovez/status/2121721290687983906">▶ 영상</a></sub><br>
-<sub>에셋도 영상 모델도 없이 순수 three.js로 만든 90초 전투 영상. Fable 5.2가 감독을 맡아 8개의 에이전트를 병렬로 지휘했고, 음악과 효과음도 코드로 합성했습니다.</sub>
 </td>
 </tr>
 <tr>

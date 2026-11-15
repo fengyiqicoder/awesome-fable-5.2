@@ -16,7 +16,7 @@
 <td width="33%" valign="top">
 <a href="https://github.com/amirmushichge/shred-kit"><img src="../assets/gifs/269.gif" width="100%" alt="Shred Kit — шаблон бумажного шредера"></a><br>
 <b><a href="https://github.com/amirmushichge/shred-kit">Shred Kit — шаблон бумажного шредера</a></b><br>
-<sub>🆕 · <a href="https://x.com/AmirMushich">@AmirMushich</a> · ♥ 405 · <a href="https://x.com/AmirMushich/status/2121339167800213934">▶ Видео</a></sub><br>
+<sub>🆕 · <a href="https://x.com/AmirMushich">@AmirMushich</a> · ♥ 408 · <a href="https://x.com/AmirMushich/status/2121339167800213934">▶ Видео</a></sub><br>
 <sub>8-секундный рилс с измельчением бумаги, сделан с Fable 5.2 и Blender, опубликован как бесплатный шаблон.</sub>
 </td>
 <td width="33%" valign="top">
@@ -60,17 +60,17 @@
 <sub><a href="https://x.com/anstapnever/status/2119915123070644263">📝 Промпт автора (бесплатно)</a></sub>
 </td>
 <td width="33%" valign="top">
+<a href="https://github.com/0xCodez/thousand-peaks"><img src="../assets/gifs/282.gif" width="100%" alt="Dragon of a Thousand Peaks — дракон тысячи вершин"></a><br>
+<b><a href="https://github.com/0xCodez/thousand-peaks">Dragon of a Thousand Peaks — дракон тысячи вершин</a></b><br>
+<sub>🆕 · <a href="https://x.com/0xMovez">@0xMovez</a> · ♥ 76 · <a href="https://x.com/0xMovez/status/2121721290687983906">▶ Видео</a></sub><br>
+<sub>90-секундный боевой фильм на чистом three.js без ассетов и видеомоделей; Fable 5.2 руководил 8 параллельными агентами, музыка и звуки синтезированы кодом.</sub>
+</td>
+<td width="33%" valign="top">
 <a href="https://github.com/skild-ai/steel-webgpu/pull/7"><img src="../assets/gifs/057.gif" width="100%" alt="Robot Hand on a Spiral Staircase"></a><br>
 <b><a href="https://github.com/skild-ai/steel-webgpu/pull/7">Robot Hand on a Spiral Staircase</a></b><br>
 <sub><a href="https://x.com/Luckyballa">@Luckyballa</a> · ♥ 61 · <a href="https://x.com/Luckyballa/status/2119915557663506720">▶ Видео</a></sub><br>
 <sub>Fable 5.2 + физический движок Steel: рука, идущая на пальцах.</sub><br>
 <sub><a href="https://x.com/Luckyballa/status/2119915557663506720">📝 Промпт автора (бесплатно)</a></sub>
-</td>
-<td width="33%" valign="top">
-<a href="https://github.com/0xCodez/thousand-peaks"><img src="../assets/gifs/282.gif" width="100%" alt="Dragon of a Thousand Peaks — дракон тысячи вершин"></a><br>
-<b><a href="https://github.com/0xCodez/thousand-peaks">Dragon of a Thousand Peaks — дракон тысячи вершин</a></b><br>
-<sub>🆕 · <a href="https://x.com/0xMovez">@0xMovez</a> · ♥ 51 · <a href="https://x.com/0xMovez/status/2121721290687983906">▶ Видео</a></sub><br>
-<sub>90-секундный боевой фильм на чистом three.js без ассетов и видеомоделей; Fable 5.2 руководил 8 параллельными агентами, музыка и звуки синтезированы кодом.</sub>
 </td>
 </tr>
 <tr>

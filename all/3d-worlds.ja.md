@@ -1,4 +1,4 @@
-# 🌍 3D ワールドとシーン · 全 35 件
+# 🌍 3D ワールドとシーン · 全 36 件
 
 [← メインリストに戻る](../README.ja.md) · [English](3d-worlds.md) · [简体中文](3d-worlds.zh-CN.md) · [繁體中文](3d-worlds.zh-TW.md) · **日本語** · [한국어](3d-worlds.ko.md) · [Español](3d-worlds.es.md) · [Português](3d-worlds.pt-BR.md) · [Français](3d-worlds.fr.md) · [Deutsch](3d-worlds.de.md) · [Русский](3d-worlds.ru.md)
 
@@ -9,7 +9,7 @@
 <td width="33%" valign="top">
 <a href="https://claude.ai/artifact/QGWUAjRrzRzZWGcQzSMLfa"><img src="../assets/gifs/023.gif" width="100%" alt="Blender のノート PC 上の Claude アプリ"></a><br>
 <b><a href="https://claude.ai/artifact/QGWUAjRrzRzZWGcQzSMLfa">Blender のノート PC 上の Claude アプリ</a></b><br>
-<sub><a href="https://x.com/rileybrown">@rileybrown</a> · ♥ 7.0k · <a href="https://x.com/rileybrown/status/2119902109709537708">▶ 動画</a></sub><br>
+<sub><a href="https://x.com/rileybrown">@rileybrown</a> · ♥ 7.1k · <a href="https://x.com/rileybrown/status/2119902109709537708">▶ 動画</a></sub><br>
 <sub>1 つのプロンプトで部屋ごと Blender で作り、4K でレンダリング。ノート PC の画面に映っているのがこのウェブページ。</sub><br>
 <sub><a href="https://x.com/rileybrown/status/2119902109709537708">📝 作者公開のプロンプト（無料）</a></sub>
 </td>
@@ -39,14 +39,14 @@
 <td width="33%" valign="top">
 <a href="https://fable-rome.surge.sh/"><img src="../assets/gifs/136.gif" width="100%" alt="Rome, AD 320"></a><br>
 <b><a href="https://fable-rome.surge.sh/">Rome, AD 320</a></b><br>
-<sub><a href="https://x.com/petergostev">@petergostev</a> · ♥ 968 · <a href="https://x.com/petergostev/status/2120167560700383572">▶ 動画</a></sub><br>
+<sub><a href="https://x.com/petergostev">@petergostev</a> · ♥ 967 · <a href="https://x.com/petergostev/status/2120167560700383572">▶ 動画</a></sub><br>
 <sub>1 つのプロンプト、Fable 5.2（Max）が一晩中稼働、$2,618。</sub><br>
 <sub><a href="https://x.com/petergostev/status/2120167560700383572">📝 作者公開のプロンプト（無料）</a></sub>
 </td>
 <td width="33%" valign="top">
 <a href="https://github.com/Leonxlnx/room-at-dawn"><img src="../assets/gifs/219.gif" width="100%" alt="Room at Dawn"></a><br>
 <b><a href="https://github.com/Leonxlnx/room-at-dawn">Room at Dawn</a></b><br>
-<sub>🆕 · <a href="https://x.com/LexnLin">@LexnLin</a> · ♥ 852 · <a href="https://x.com/LexnLin/status/2120910879361548565">▶ 動画</a></sub><br>
+<sub>🆕 · <a href="https://x.com/LexnLin">@LexnLin</a> · ♥ 853 · <a href="https://x.com/LexnLin/status/2120910879361548565">▶ 動画</a></sub><br>
 <sub>既成のモデルやテクスチャなしで作った、three.js のフォトリアルな寝室。すべてコード。</sub><br>
 <sub><a href="https://fablelist.000ooo.ooo/ja/prompts/?w=room-at-dawn&ref=gh"><b>✨ プロンプトを入手</b></a></sub>
 </td>
@@ -55,13 +55,13 @@
 <td width="33%" valign="top">
 <a href="https://fable-rover.vercel.app"><img src="../assets/gifs/278.gif" width="100%" alt="ER-6 Terrain Explorer — 自動走行する火星ローバー"></a><br>
 <b><a href="https://fable-rover.vercel.app">ER-6 Terrain Explorer — 自動走行する火星ローバー</a></b><br>
-<sub>🆕 · <a href="https://x.com/DilumSanjaya">@DilumSanjaya</a> · ♥ 779 · <a href="https://x.com/DilumSanjaya/status/2120561077385867663">▶ 動画</a></sub><br>
+<sub>🆕 · <a href="https://x.com/DilumSanjaya">@DilumSanjaya</a> · ♥ 780 · <a href="https://x.com/DilumSanjaya/status/2120561077385867663">▶ 動画</a></sub><br>
 <sub>Fable 5.2 が NASA の火星ローバーと同じロッカー・ボギー式サスペンションを設計し、異星の地形を走らせるシミュレーションまで作った。</sub>
 </td>
 <td width="33%" valign="top">
 <a href="https://supernatural-ft.vercel.app/fire-in-ice"><img src="../assets/gifs/221.gif" width="100%" alt="Fire in Ice"></a><br>
 <b><a href="https://supernatural-ft.vercel.app/fire-in-ice">Fire in Ice</a></b><br>
-<sub>🆕 · <a href="https://x.com/tkm_hmng8">@tkm_hmng8</a> · ♥ 548 · <a href="https://x.com/tkm_hmng8/status/2120813043101946324">▶ 動画</a></sub><br>
+<sub>🆕 · <a href="https://x.com/tkm_hmng8">@tkm_hmng8</a> · ♥ 550 · <a href="https://x.com/tkm_hmng8/status/2120813043101946324">▶ 動画</a></sub><br>
 <sub>three.js を使わず素の WebGPU で書いた、氷の中で燃えるリアルな炎。</sub><br>
 <sub><a href="https://fablelist.000ooo.ooo/ja/prompts/?w=fire-in-ice&ref=gh"><b>✨ プロンプトを入手</b></a></sub>
 </td>
@@ -109,7 +109,7 @@
 <td width="33%" valign="top">
 <a href="https://planet.tokyoaivisuals.club/"><img src="../assets/gifs/266.gif" width="100%" alt="Code Planet"></a><br>
 <b><a href="https://planet.tokyoaivisuals.club/">Code Planet</a></b><br>
-<sub>🆕 · <a href="https://x.com/KanaWorks_AI">@KanaWorks_AI</a> · ♥ 181 · <a href="https://x.com/KanaWorks_AI/status/2121413647213932688">▶ 動画</a></sub><br>
+<sub>🆕 · <a href="https://x.com/KanaWorks_AI">@KanaWorks_AI</a> · ♥ 188 · <a href="https://x.com/KanaWorks_AI/status/2121413647213932688">▶ 動画</a></sub><br>
 <sub>320KB 未満のコードで惑星まるごと。海や草原から桜の中を抜けて宇宙まで、ブラウザ上で飛べる。</sub>
 </td>
 <td width="33%" valign="top">
@@ -193,17 +193,17 @@
 </tr>
 <tr>
 <td width="33%" valign="top">
+<a href="https://vancouver-claude.webly.site"><img src="../assets/gifs/280.gif" width="100%" alt="バンクーバー、イングリッシュ・ベイのゴールデンアワー"></a><br>
+<b><a href="https://vancouver-claude.webly.site">バンクーバー、イングリッシュ・ベイのゴールデンアワー</a></b><br>
+<sub>🆕 · <a href="https://x.com/tokifyi">@tokifyi</a> · ♥ 28 · <a href="https://x.com/tokifyi/status/2121644293270200354">投稿</a></sub><br>
+<sub>JavaScript だけで描いたバンクーバーの夕暮れパノラマ。</sub>
+</td>
+<td width="33%" valign="top">
 <a href="https://galaxy-dive.vercel.app"><img src="../assets/gifs/141.gif" width="100%" alt="Galaxy Dive"></a><br>
 <b><a href="https://galaxy-dive.vercel.app">Galaxy Dive</a></b><br>
 <sub><a href="https://x.com/handsher_NGU">@handsher_NGU</a> · ♥ 24 · <a href="https://x.com/handsher_NGU/status/2119910478025789655">▶ 動画</a></sub><br>
 <sub>「神は 6 日、Fable 5.2 は 20 分。」銀河へ飛び込む。</sub><br>
 <sub><a href="https://fablelist.000ooo.ooo/ja/prompts/?w=galaxy-dive&ref=gh"><b>✨ プロンプトを入手</b></a></sub>
-</td>
-<td width="33%" valign="top">
-<a href="https://vancouver-claude.webly.site"><img src="../assets/gifs/280.gif" width="100%" alt="バンクーバー、イングリッシュ・ベイのゴールデンアワー"></a><br>
-<b><a href="https://vancouver-claude.webly.site">バンクーバー、イングリッシュ・ベイのゴールデンアワー</a></b><br>
-<sub>🆕 · <a href="https://x.com/tokifyi">@tokifyi</a> · ♥ 24 · <a href="https://x.com/tokifyi/status/2121644293270200354">投稿</a></sub><br>
-<sub>JavaScript だけで描いたバンクーバーの夕暮れパノラマ。</sub>
 </td>
 <td width="33%" valign="top">
 <a href="https://calibre-watch-snowy.vercel.app/"><img src="../assets/gifs/192.gif" width="100%" alt="Calibre 5.2 腕時計"></a><br>
@@ -259,6 +259,13 @@
 </td>
 </tr>
 <tr>
+<td width="33%" valign="top">
+<a href="https://davinci-mechanics.vercel.app/"><img src="../assets/gifs/289.gif" width="100%" alt="ダ・ヴィンチの生きた手稿"></a><br>
+<b><a href="https://davinci-mechanics.vercel.app/">ダ・ヴィンチの生きた手稿</a></b><br>
+<sub>🆕 · <a href="https://x.com/CoderRw11326">@CoderRw11326</a> · ♥ 4 · <a href="https://x.com/CoderRw11326/status/2121286814103421012">▶ 動画</a></sub><br>
+<sub>ノートを開くと羽ペンがダ・ヴィンチの機械を描き、回したり分解したりできる木の機構に変わります。3D モデルもテクスチャも音声ファイルもなく、すべてコードです。</sub><br>
+<sub><a href="https://github.com/coding-nanami/davinci-mechanics">ソースコード</a></sub>
+</td>
 <td width="33%" valign="top">
 <a href="https://claude.ai/artifact/BCDCNHRTq3y9W4Px3xc4DN"><img src="../assets/gifs/030.gif" width="100%" alt="巨大カタツムリの上の集落"></a><br>
 <b><a href="https://claude.ai/artifact/BCDCNHRTq3y9W4Px3xc4DN">巨大カタツムリの上の集落</a></b><br>

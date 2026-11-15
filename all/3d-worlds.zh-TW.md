@@ -1,4 +1,4 @@
-# 🌍 3D 世界與場景 · 全部 35 個
+# 🌍 3D 世界與場景 · 全部 36 個
 
 [← 回到首頁](../README.zh-TW.md) · [English](3d-worlds.md) · [简体中文](3d-worlds.zh-CN.md) · **繁體中文** · [日本語](3d-worlds.ja.md) · [한국어](3d-worlds.ko.md) · [Español](3d-worlds.es.md) · [Português](3d-worlds.pt-BR.md) · [Français](3d-worlds.fr.md) · [Deutsch](3d-worlds.de.md) · [Русский](3d-worlds.ru.md)
 
@@ -9,7 +9,7 @@
 <td width="33%" valign="top">
 <a href="https://claude.ai/artifact/QGWUAjRrzRzZWGcQzSMLfa"><img src="../assets/gifs/023.gif" width="100%" alt="Blender 筆電上的 Claude App"></a><br>
 <b><a href="https://claude.ai/artifact/QGWUAjRrzRzZWGcQzSMLfa">Blender 筆電上的 Claude App</a></b><br>
-<sub><a href="https://x.com/rileybrown">@rileybrown</a> · ♥ 7.0k · <a href="https://x.com/rileybrown/status/2119902109709537708">▶ 影片</a></sub><br>
+<sub><a href="https://x.com/rileybrown">@rileybrown</a> · ♥ 7.1k · <a href="https://x.com/rileybrown/status/2119902109709537708">▶ 影片</a></sub><br>
 <sub>一則提示就在 Blender 中建好整個房間並以 4K 渲染。這是筆電螢幕上顯示的網頁。</sub><br>
 <sub><a href="https://x.com/rileybrown/status/2119902109709537708">📝 作者公開的提示詞（免費）</a></sub>
 </td>
@@ -39,14 +39,14 @@
 <td width="33%" valign="top">
 <a href="https://fable-rome.surge.sh/"><img src="../assets/gifs/136.gif" width="100%" alt="Rome, AD 320"></a><br>
 <b><a href="https://fable-rome.surge.sh/">Rome, AD 320</a></b><br>
-<sub><a href="https://x.com/petergostev">@petergostev</a> · ♥ 968 · <a href="https://x.com/petergostev/status/2120167560700383572">▶ 影片</a></sub><br>
+<sub><a href="https://x.com/petergostev">@petergostev</a> · ♥ 967 · <a href="https://x.com/petergostev/status/2120167560700383572">▶ 影片</a></sub><br>
 <sub>一則提示，Fable 5.2（Max）連跑一整夜，$2,618。</sub><br>
 <sub><a href="https://x.com/petergostev/status/2120167560700383572">📝 作者公開的提示詞（免費）</a></sub>
 </td>
 <td width="33%" valign="top">
 <a href="https://github.com/Leonxlnx/room-at-dawn"><img src="../assets/gifs/219.gif" width="100%" alt="Room at Dawn"></a><br>
 <b><a href="https://github.com/Leonxlnx/room-at-dawn">Room at Dawn</a></b><br>
-<sub>🆕 · <a href="https://x.com/LexnLin">@LexnLin</a> · ♥ 852 · <a href="https://x.com/LexnLin/status/2120910879361548565">▶ 影片</a></sub><br>
+<sub>🆕 · <a href="https://x.com/LexnLin">@LexnLin</a> · ♥ 853 · <a href="https://x.com/LexnLin/status/2120910879361548565">▶ 影片</a></sub><br>
 <sub>three.js 打造的擬真臥室，沒有預製模型或貼圖；一切都是程式碼。</sub><br>
 <sub><a href="https://fablelist.000ooo.ooo/zh-tw/prompts/?w=room-at-dawn&ref=gh"><b>✨ 取得提示詞</b></a></sub>
 </td>
@@ -55,13 +55,13 @@
 <td width="33%" valign="top">
 <a href="https://fable-rover.vercel.app"><img src="../assets/gifs/278.gif" width="100%" alt="ER-6 Terrain Explorer — 自動駕駛的火星車"></a><br>
 <b><a href="https://fable-rover.vercel.app">ER-6 Terrain Explorer — 自動駕駛的火星車</a></b><br>
-<sub>🆕 · <a href="https://x.com/DilumSanjaya">@DilumSanjaya</a> · ♥ 779 · <a href="https://x.com/DilumSanjaya/status/2120561077385867663">▶ 影片</a></sub><br>
+<sub>🆕 · <a href="https://x.com/DilumSanjaya">@DilumSanjaya</a> · ♥ 780 · <a href="https://x.com/DilumSanjaya/status/2120561077385867663">▶ 影片</a></sub><br>
 <sub>Fable 5.2 設計了 NASA 火星車那種搖臂轉向架懸吊，再模擬它在外星地形上行駛。</sub>
 </td>
 <td width="33%" valign="top">
 <a href="https://supernatural-ft.vercel.app/fire-in-ice"><img src="../assets/gifs/221.gif" width="100%" alt="Fire in Ice"></a><br>
 <b><a href="https://supernatural-ft.vercel.app/fire-in-ice">Fire in Ice</a></b><br>
-<sub>🆕 · <a href="https://x.com/tkm_hmng8">@tkm_hmng8</a> · ♥ 548 · <a href="https://x.com/tkm_hmng8/status/2120813043101946324">▶ 影片</a></sub><br>
+<sub>🆕 · <a href="https://x.com/tkm_hmng8">@tkm_hmng8</a> · ♥ 550 · <a href="https://x.com/tkm_hmng8/status/2120813043101946324">▶ 影片</a></sub><br>
 <sub>寫在原生 WebGPU（不用 three.js）上的冰中燃燒的逼真火焰。</sub><br>
 <sub><a href="https://fablelist.000ooo.ooo/zh-tw/prompts/?w=fire-in-ice&ref=gh"><b>✨ 取得提示詞</b></a></sub>
 </td>
@@ -109,7 +109,7 @@
 <td width="33%" valign="top">
 <a href="https://planet.tokyoaivisuals.club/"><img src="../assets/gifs/266.gif" width="100%" alt="Code Planet"></a><br>
 <b><a href="https://planet.tokyoaivisuals.club/">Code Planet</a></b><br>
-<sub>🆕 · <a href="https://x.com/KanaWorks_AI">@KanaWorks_AI</a> · ♥ 181 · <a href="https://x.com/KanaWorks_AI/status/2121413647213932688">▶ 影片</a></sub><br>
+<sub>🆕 · <a href="https://x.com/KanaWorks_AI">@KanaWorks_AI</a> · ♥ 188 · <a href="https://x.com/KanaWorks_AI/status/2121413647213932688">▶ 影片</a></sub><br>
 <sub>不到 320KB 程式碼的整顆行星。從大海與草地飛越櫻花，一路飛上太空，直接在瀏覽器中。</sub>
 </td>
 <td width="33%" valign="top">
@@ -193,17 +193,17 @@
 </tr>
 <tr>
 <td width="33%" valign="top">
+<a href="https://vancouver-claude.webly.site"><img src="../assets/gifs/280.gif" width="100%" alt="溫哥華英吉利灣的黃金時刻"></a><br>
+<b><a href="https://vancouver-claude.webly.site">溫哥華英吉利灣的黃金時刻</a></b><br>
+<sub>🆕 · <a href="https://x.com/tokifyi">@tokifyi</a> · ♥ 28 · <a href="https://x.com/tokifyi/status/2121644293270200354">原文</a></sub><br>
+<sub>完全用 JavaScript 畫出的溫哥華夕陽全景。</sub>
+</td>
+<td width="33%" valign="top">
 <a href="https://galaxy-dive.vercel.app"><img src="../assets/gifs/141.gif" width="100%" alt="Galaxy Dive"></a><br>
 <b><a href="https://galaxy-dive.vercel.app">Galaxy Dive</a></b><br>
 <sub><a href="https://x.com/handsher_NGU">@handsher_NGU</a> · ♥ 24 · <a href="https://x.com/handsher_NGU/status/2119910478025789655">▶ 影片</a></sub><br>
 <sub>「神花了 6 天，Fable 5.2 花了 20 分鐘。」飛進一個星系。</sub><br>
 <sub><a href="https://fablelist.000ooo.ooo/zh-tw/prompts/?w=galaxy-dive&ref=gh"><b>✨ 取得提示詞</b></a></sub>
-</td>
-<td width="33%" valign="top">
-<a href="https://vancouver-claude.webly.site"><img src="../assets/gifs/280.gif" width="100%" alt="溫哥華英吉利灣的黃金時刻"></a><br>
-<b><a href="https://vancouver-claude.webly.site">溫哥華英吉利灣的黃金時刻</a></b><br>
-<sub>🆕 · <a href="https://x.com/tokifyi">@tokifyi</a> · ♥ 24 · <a href="https://x.com/tokifyi/status/2121644293270200354">原文</a></sub><br>
-<sub>完全用 JavaScript 畫出的溫哥華夕陽全景。</sub>
 </td>
 <td width="33%" valign="top">
 <a href="https://calibre-watch-snowy.vercel.app/"><img src="../assets/gifs/192.gif" width="100%" alt="Calibre 5.2 手錶"></a><br>
@@ -259,6 +259,13 @@
 </td>
 </tr>
 <tr>
+<td width="33%" valign="top">
+<a href="https://davinci-mechanics.vercel.app/"><img src="../assets/gifs/289.gif" width="100%" alt="達文西活手稿"></a><br>
+<b><a href="https://davinci-mechanics.vercel.app/">達文西活手稿</a></b><br>
+<sub>🆕 · <a href="https://x.com/CoderRw11326">@CoderRw11326</a> · ♥ 4 · <a href="https://x.com/CoderRw11326/status/2121286814103421012">▶ 影片</a></sub><br>
+<sub>翻開筆記本，羽毛筆畫出達文西的機械草圖，再變成能轉動、能拆解的木製機械。沒有 3D 模型、貼圖和音訊檔，全部用程式碼生成。</sub><br>
+<sub><a href="https://github.com/coding-nanami/davinci-mechanics">原始碼</a></sub>
+</td>
 <td width="33%" valign="top">
 <a href="https://claude.ai/artifact/BCDCNHRTq3y9W4Px3xc4DN"><img src="../assets/gifs/030.gif" width="100%" alt="巨型蝸牛上的小村落"></a><br>
 <b><a href="https://claude.ai/artifact/BCDCNHRTq3y9W4Px3xc4DN">巨型蝸牛上的小村落</a></b><br>

@@ -5,8 +5,8 @@
 <h3>Что люди сделали с Claude Fable 5.2 — открывай и играй</h3>
 
 [![Awesome](https://awesome.re/badge.svg)](https://awesome.re)
-[![Works](https://img.shields.io/badge/работы-162-6b4eff)](#-игры)
-[![Demos](https://img.shields.io/badge/видеодемо-117-ff7a59)](#-видеодемо)
+[![Works](https://img.shields.io/badge/работы-165-6b4eff)](#-игры)
+[![Demos](https://img.shields.io/badge/видеодемо-119-ff7a59)](#-видеодемо)
 [![Links checked](https://img.shields.io/badge/ссылки_проверены-2026--11--15-2ea44f)](#-как-помочь)
 [![License: CC0-1.0](https://img.shields.io/badge/License-CC0_1.0-lightgrey.svg)](LICENSE)
 
@@ -16,11 +16,11 @@
 
 </div>
 
-162 работ онлайн и 117 видеодемо на Claude Fable 5.2, все ссылки проверены 2026-11-15. Обновляется каждый день; ⭐ помогает.
+165 работ онлайн и 119 видеодемо на Claude Fable 5.2, все ссылки проверены 2026-11-15. Обновляется каждый день; ⭐ помогает.
 
 ## 📑 Содержание
 
-[⭐ Самые любимые](#-самые-любимые) · [🎮 Игры](#-игры) 81 · [🌍 3D-миры и сцены](#-3d-миры-и-сцены) 35 · [🧰 Сайты и инструменты](#-сайты-и-инструменты) 34 · [🎬 Анимация и фильмы](#-анимация-и-фильмы) 12 · [📺 Видеодемо](#-видеодемо) 117 · [🤝 Как помочь](#-как-помочь)
+[⭐ Самые любимые](#-самые-любимые) · [🎮 Игры](#-игры) 82 · [🌍 3D-миры и сцены](#-3d-миры-и-сцены) 36 · [🧰 Сайты и инструменты](#-сайты-и-инструменты) 35 · [🎬 Анимация и фильмы](#-анимация-и-фильмы) 12 · [📺 Видеодемо](#-видеодемо) 119 · [🤝 Как помочь](#-как-помочь)
 
 ## ⭐ Самые любимые
 
@@ -43,7 +43,7 @@
 <td width="33%" valign="top">
 <a href="https://patch.gg/blendi/oil-paint"><img src="assets/gifs/124.gif" width="100%" alt="Oil Paint — игра, нарисованная вручную"></a><br>
 <b><a href="https://patch.gg/blendi/oil-paint">Oil Paint — игра, нарисованная вручную</a></b><br>
-<sub><a href="https://x.com/BlendiByl">@BlendiByl</a> · ♥ 7.9k · <a href="https://x.com/BlendiByl/status/2120341251178594532">▶ Видео</a></sub><br>
+<sub><a href="https://x.com/BlendiByl">@BlendiByl</a> · ♥ 8.0k · <a href="https://x.com/BlendiByl/status/2120341251178594532">▶ Видео</a></sub><br>
 <sub>Сделано меньше чем за час. Каждый кадр — около 1,5 миллиона мазков кисти, 200 fps во вкладке браузера. Открытый исходный код.</sub><br>
 <sub><a href="https://fablelist.000ooo.ooo/ru/prompts/?w=oil-paint-hand-painted-game&ref=gh"><b>✨ Получить промпт</b></a></sub>
 </td>
@@ -59,14 +59,14 @@
 <td width="33%" valign="top">
 <a href="https://claude.ai/artifact/QGWUAjRrzRzZWGcQzSMLfa"><img src="assets/gifs/023.gif" width="100%" alt="Claude App на ноутбуке в Blender"></a><br>
 <b><a href="https://claude.ai/artifact/QGWUAjRrzRzZWGcQzSMLfa">Claude App на ноутбуке в Blender</a></b><br>
-<sub><a href="https://x.com/rileybrown">@rileybrown</a> · ♥ 7.0k · <a href="https://x.com/rileybrown/status/2119902109709537708">▶ Видео</a></sub><br>
+<sub><a href="https://x.com/rileybrown">@rileybrown</a> · ♥ 7.1k · <a href="https://x.com/rileybrown/status/2119902109709537708">▶ Видео</a></sub><br>
 <sub>Один промпт построил всю комнату в Blender и отрендерил её в 4K. Это веб-страница на экране ноутбука.</sub><br>
 <sub><a href="https://x.com/rileybrown/status/2119902109709537708">📝 Промпт автора (бесплатно)</a></sub>
 </td>
 <td width="33%" valign="top">
 <a href="https://claudia.gallery"><img src="assets/gifs/038.gif" width="100%" alt="Claudia Gallery"></a><br>
 <b><a href="https://claudia.gallery">Claudia Gallery</a></b><br>
-<sub><a href="https://x.com/anabology">@anabology</a> · ♥ 5.3k · <a href="https://x.com/anabology/status/2120010995309457643">▶ Видео</a></sub><br>
+<sub><a href="https://x.com/anabology">@anabology</a> · ♥ 5.4k · <a href="https://x.com/anabology/status/2120010995309457643">▶ Видео</a></sub><br>
 <sub>«Make the video of your dreams» — два кадра, 9 часов.</sub><br>
 <sub><a href="https://fablelist.000ooo.ooo/ru/prompts/?w=claudia-gallery&ref=gh"><b>✨ Получить промпт</b></a></sub>
 </td>
@@ -94,7 +94,7 @@
 <td width="33%" valign="top">
 <a href="https://patch.gg/blendi/oil-paint"><img src="assets/gifs/124.gif" width="100%" alt="Oil Paint — игра, нарисованная вручную"></a><br>
 <b><a href="https://patch.gg/blendi/oil-paint">Oil Paint — игра, нарисованная вручную</a></b><br>
-<sub><a href="https://x.com/BlendiByl">@BlendiByl</a> · ♥ 7.9k · <a href="https://x.com/BlendiByl/status/2120341251178594532">▶ Видео</a></sub><br>
+<sub><a href="https://x.com/BlendiByl">@BlendiByl</a> · ♥ 8.0k · <a href="https://x.com/BlendiByl/status/2120341251178594532">▶ Видео</a></sub><br>
 <sub>Сделано меньше чем за час. Каждый кадр — около 1,5 миллиона мазков кисти, 200 fps во вкладке браузера. Открытый исходный код.</sub><br>
 <sub><a href="https://fablelist.000ooo.ooo/ru/prompts/?w=oil-paint-hand-painted-game&ref=gh"><b>✨ Получить промпт</b></a></sub>
 </td>
@@ -139,19 +139,19 @@
 <sub><a href="https://fablelist.000ooo.ooo/ru/prompts/?w=portals-endless-worlds&ref=gh"><b>✨ Получить промпт</b></a></sub>
 </td>
 <td width="33%" valign="top">
+<a href="https://patch.gg/play/blendi/small-magic"><img src="assets/gifs/274.gif" width="100%" alt="Small Magic — песочница волшебника"></a><br>
+<b><a href="https://patch.gg/play/blendi/small-magic">Small Magic — песочница волшебника</a></b><br>
+<sub>🆕 · <a href="https://x.com/BlendiByl">@BlendiByl</a> · ♥ 1.8k · <a href="https://x.com/BlendiByl/status/2121594536153718972">▶ Видео</a></sub><br>
+<sub>Сделано за один день: 7 заклинаний, около 1 800 разрушаемых физических деталей, без моделей и текстур, открытый исходный код.</sub>
+</td>
+</tr>
+<tr>
+<td width="33%" valign="top">
 <a href="https://evensong-phi.vercel.app/"><img src="assets/gifs/126.gif" width="100%" alt="Evensong"></a><br>
 <b><a href="https://evensong-phi.vercel.app/">Evensong</a></b><br>
 <sub><a href="https://x.com/kevin_t_ngo">@kevin_t_ngo</a> · ♥ 1.8k · <a href="https://x.com/kevin_t_ngo/status/2120238844754923874">▶ Видео</a></sub><br>
 <sub>Тёмный фэнтезийный бой с боссом в духе Souls, играть можно в браузере.</sub><br>
 <sub><a href="https://fablelist.000ooo.ooo/ru/prompts/?w=evensong&ref=gh"><b>✨ Получить промпт</b></a></sub>
-</td>
-</tr>
-<tr>
-<td width="33%" valign="top">
-<a href="https://patch.gg/play/blendi/small-magic"><img src="assets/gifs/274.gif" width="100%" alt="Small Magic — песочница волшебника"></a><br>
-<b><a href="https://patch.gg/play/blendi/small-magic">Small Magic — песочница волшебника</a></b><br>
-<sub>🆕 · <a href="https://x.com/BlendiByl">@BlendiByl</a> · ♥ 1.5k · <a href="https://x.com/BlendiByl/status/2121594536153718972">▶ Видео</a></sub><br>
-<sub>Сделано за один день: 7 заклинаний, около 1 800 разрушаемых физических деталей, без моделей и текстур, открытый исходный код.</sub>
 </td>
 <td width="33%" valign="top">
 <a href="https://loktar00.github.io/lanternfall/"><img src="assets/gifs/128.gif" width="100%" alt="LANTERNFALL"></a><br>
@@ -170,7 +170,7 @@
 </tr>
 </table>
 
-<p align="center"><b><a href="all/games.ru.md">Смотреть все 81 →</a></b></p>
+<p align="center"><b><a href="all/games.ru.md">Смотреть все 82 →</a></b></p>
 
 <div align="right"><a href="#-содержание">↑ К содержанию</a></div>
 
@@ -181,7 +181,7 @@
 <td width="33%" valign="top">
 <a href="https://claude.ai/artifact/QGWUAjRrzRzZWGcQzSMLfa"><img src="assets/gifs/023.gif" width="100%" alt="Claude App на ноутбуке в Blender"></a><br>
 <b><a href="https://claude.ai/artifact/QGWUAjRrzRzZWGcQzSMLfa">Claude App на ноутбуке в Blender</a></b><br>
-<sub><a href="https://x.com/rileybrown">@rileybrown</a> · ♥ 7.0k · <a href="https://x.com/rileybrown/status/2119902109709537708">▶ Видео</a></sub><br>
+<sub><a href="https://x.com/rileybrown">@rileybrown</a> · ♥ 7.1k · <a href="https://x.com/rileybrown/status/2119902109709537708">▶ Видео</a></sub><br>
 <sub>Один промпт построил всю комнату в Blender и отрендерил её в 4K. Это веб-страница на экране ноутбука.</sub><br>
 <sub><a href="https://x.com/rileybrown/status/2119902109709537708">📝 Промпт автора (бесплатно)</a></sub>
 </td>
@@ -211,14 +211,14 @@
 <td width="33%" valign="top">
 <a href="https://fable-rome.surge.sh/"><img src="assets/gifs/136.gif" width="100%" alt="Rome, AD 320"></a><br>
 <b><a href="https://fable-rome.surge.sh/">Rome, AD 320</a></b><br>
-<sub><a href="https://x.com/petergostev">@petergostev</a> · ♥ 968 · <a href="https://x.com/petergostev/status/2120167560700383572">▶ Видео</a></sub><br>
+<sub><a href="https://x.com/petergostev">@petergostev</a> · ♥ 967 · <a href="https://x.com/petergostev/status/2120167560700383572">▶ Видео</a></sub><br>
 <sub>Один промпт, Fable 5.2 (Max) работал всю ночь, 2 618 $.</sub><br>
 <sub><a href="https://x.com/petergostev/status/2120167560700383572">📝 Промпт автора (бесплатно)</a></sub>
 </td>
 <td width="33%" valign="top">
 <a href="https://github.com/Leonxlnx/room-at-dawn"><img src="assets/gifs/219.gif" width="100%" alt="Room at Dawn"></a><br>
 <b><a href="https://github.com/Leonxlnx/room-at-dawn">Room at Dawn</a></b><br>
-<sub>🆕 · <a href="https://x.com/LexnLin">@LexnLin</a> · ♥ 852 · <a href="https://x.com/LexnLin/status/2120910879361548565">▶ Видео</a></sub><br>
+<sub>🆕 · <a href="https://x.com/LexnLin">@LexnLin</a> · ♥ 853 · <a href="https://x.com/LexnLin/status/2120910879361548565">▶ Видео</a></sub><br>
 <sub>Фотореалистичная спальня на three.js без готовых моделей и текстур; всё — код.</sub><br>
 <sub><a href="https://fablelist.000ooo.ooo/ru/prompts/?w=room-at-dawn&ref=gh"><b>✨ Получить промпт</b></a></sub>
 </td>
@@ -227,13 +227,13 @@
 <td width="33%" valign="top">
 <a href="https://fable-rover.vercel.app"><img src="assets/gifs/278.gif" width="100%" alt="ER-6 Terrain Explorer — самоуправляемый марсоход"></a><br>
 <b><a href="https://fable-rover.vercel.app">ER-6 Terrain Explorer — самоуправляемый марсоход</a></b><br>
-<sub>🆕 · <a href="https://x.com/DilumSanjaya">@DilumSanjaya</a> · ♥ 779 · <a href="https://x.com/DilumSanjaya/status/2120561077385867663">▶ Видео</a></sub><br>
+<sub>🆕 · <a href="https://x.com/DilumSanjaya">@DilumSanjaya</a> · ♥ 780 · <a href="https://x.com/DilumSanjaya/status/2120561077385867663">▶ Видео</a></sub><br>
 <sub>Fable 5.2 спроектировал подвеску rocker-bogie, как у марсоходов NASA, и смоделировал езду по инопланетному рельефу.</sub>
 </td>
 <td width="33%" valign="top">
 <a href="https://supernatural-ft.vercel.app/fire-in-ice"><img src="assets/gifs/221.gif" width="100%" alt="Fire in Ice"></a><br>
 <b><a href="https://supernatural-ft.vercel.app/fire-in-ice">Fire in Ice</a></b><br>
-<sub>🆕 · <a href="https://x.com/tkm_hmng8">@tkm_hmng8</a> · ♥ 548 · <a href="https://x.com/tkm_hmng8/status/2120813043101946324">▶ Видео</a></sub><br>
+<sub>🆕 · <a href="https://x.com/tkm_hmng8">@tkm_hmng8</a> · ♥ 550 · <a href="https://x.com/tkm_hmng8/status/2120813043101946324">▶ Видео</a></sub><br>
 <sub>Реалистичный огонь, горящий внутри льда, на чистом WebGPU без three.js.</sub><br>
 <sub><a href="https://fablelist.000ooo.ooo/ru/prompts/?w=fire-in-ice&ref=gh"><b>✨ Получить промпт</b></a></sub>
 </td>
@@ -271,7 +271,7 @@
 </tr>
 </table>
 
-<p align="center"><b><a href="all/3d-worlds.ru.md">Смотреть все 35 →</a></b></p>
+<p align="center"><b><a href="all/3d-worlds.ru.md">Смотреть все 36 →</a></b></p>
 
 <div align="right"><a href="#-содержание">↑ К содержанию</a></div>
 
@@ -282,7 +282,7 @@
 <td width="33%" valign="top">
 <a href="https://claudia.gallery"><img src="assets/gifs/038.gif" width="100%" alt="Claudia Gallery"></a><br>
 <b><a href="https://claudia.gallery">Claudia Gallery</a></b><br>
-<sub><a href="https://x.com/anabology">@anabology</a> · ♥ 5.3k · <a href="https://x.com/anabology/status/2120010995309457643">▶ Видео</a></sub><br>
+<sub><a href="https://x.com/anabology">@anabology</a> · ♥ 5.4k · <a href="https://x.com/anabology/status/2120010995309457643">▶ Видео</a></sub><br>
 <sub>«Make the video of your dreams» — два кадра, 9 часов.</sub><br>
 <sub><a href="https://fablelist.000ooo.ooo/ru/prompts/?w=claudia-gallery&ref=gh"><b>✨ Получить промпт</b></a></sub>
 </td>
@@ -374,7 +374,7 @@
 </tr>
 </table>
 
-<p align="center"><b><a href="all/web-and-tools.ru.md">Смотреть все 34 →</a></b></p>
+<p align="center"><b><a href="all/web-and-tools.ru.md">Смотреть все 35 →</a></b></p>
 
 <div align="right"><a href="#-содержание">↑ К содержанию</a></div>
 
@@ -392,7 +392,7 @@
 <td width="33%" valign="top">
 <a href="https://github.com/amirmushichge/shred-kit"><img src="assets/gifs/269.gif" width="100%" alt="Shred Kit — шаблон бумажного шредера"></a><br>
 <b><a href="https://github.com/amirmushichge/shred-kit">Shred Kit — шаблон бумажного шредера</a></b><br>
-<sub>🆕 · <a href="https://x.com/AmirMushich">@AmirMushich</a> · ♥ 405 · <a href="https://x.com/AmirMushich/status/2121339167800213934">▶ Видео</a></sub><br>
+<sub>🆕 · <a href="https://x.com/AmirMushich">@AmirMushich</a> · ♥ 408 · <a href="https://x.com/AmirMushich/status/2121339167800213934">▶ Видео</a></sub><br>
 <sub>8-секундный рилс с измельчением бумаги, сделан с Fable 5.2 и Blender, опубликован как бесплатный шаблон.</sub>
 </td>
 <td width="33%" valign="top">
@@ -472,18 +472,18 @@
 </tr>
 <tr>
 <td width="33%" valign="top">
-<a href="https://x.com/dominikmartn/status/2120154832694858224"><img src="assets/gifs/236.gif" width="100%" alt="Он правда умеет делать дизайн"></a><br>
-<b><a href="https://x.com/dominikmartn/status/2120154832694858224">Он правда умеет делать дизайн</a></b><br>
-<sub>🆕 · <a href="https://x.com/dominikmartn">@dominikmartn</a> · ♥ 7.2k · <a href="https://x.com/dominikmartn/status/2120154832694858224">▶ Видео</a></sub><br>
-<br>
-<sub><a href="https://fablelist.000ooo.ooo/ru/prompts/?w=it-can-actually-design&ref=gh"><b>✨ Получить промпт</b></a></sub>
-</td>
-<td width="33%" valign="top">
 <a href="https://x.com/everestchris6/status/2120175941616128277"><img src="assets/gifs/207.gif" width="100%" alt="2D-чертежи, превращённые в 3D-прогулки"></a><br>
 <b><a href="https://x.com/everestchris6/status/2120175941616128277">2D-чертежи, превращённые в 3D-прогулки</a></b><br>
 <sub>🆕 · <a href="https://x.com/everestchris6">@everestchris6</a> · ♥ 7.2k · <a href="https://x.com/everestchris6/status/2120175941616128277">▶ Видео</a></sub><br>
 <br>
 <sub><a href="https://x.com/everestchris6/status/2120175941616128277">📝 Промпт автора (бесплатно)</a></sub>
+</td>
+<td width="33%" valign="top">
+<a href="https://x.com/dominikmartn/status/2120154832694858224"><img src="assets/gifs/236.gif" width="100%" alt="Он правда умеет делать дизайн"></a><br>
+<b><a href="https://x.com/dominikmartn/status/2120154832694858224">Он правда умеет делать дизайн</a></b><br>
+<sub>🆕 · <a href="https://x.com/dominikmartn">@dominikmartn</a> · ♥ 7.2k · <a href="https://x.com/dominikmartn/status/2120154832694858224">▶ Видео</a></sub><br>
+<br>
+<sub><a href="https://fablelist.000ooo.ooo/ru/prompts/?w=it-can-actually-design&ref=gh"><b>✨ Получить промпт</b></a></sub>
 </td>
 <td width="33%" valign="top">
 <a href="https://x.com/suna_gaku/status/2119952985933697063"><img src="assets/gifs/208.gif" width="100%" alt="«Show me your best video»"></a><br>
@@ -511,7 +511,7 @@
 <td width="33%" valign="top">
 <a href="https://x.com/MrTacticalX/status/2121082861902070130"><img src="assets/gifs/253.gif" width="100%" alt="Три агента Fable 5.2 собрали компьютер за 7 ч 41 мин"></a><br>
 <b><a href="https://x.com/MrTacticalX/status/2121082861902070130">Три агента Fable 5.2 собрали компьютер за 7 ч 41 мин</a></b><br>
-<sub>🆕 · <a href="https://x.com/MrTacticalX">@MrTacticalX</a> · ♥ 4.4k · <a href="https://x.com/MrTacticalX/status/2121082861902070130">▶ Видео</a></sub><br>
+<sub>🆕 · <a href="https://x.com/MrTacticalX">@MrTacticalX</a> · ♥ 4.5k · <a href="https://x.com/MrTacticalX/status/2121082861902070130">▶ Видео</a></sub><br>
 <br>
 <sub><a href="https://fablelist.000ooo.ooo/ru/prompts/?w=three-fable-5-2-agents-build-a-computer&ref=gh"><b>✨ Получить промпт</b></a></sub>
 </td>
@@ -541,7 +541,7 @@
 </tr>
 </table>
 
-<p align="center"><b><a href="all/video-demos.ru.md">Смотреть все 117 →</a></b></p>
+<p align="center"><b><a href="all/video-demos.ru.md">Смотреть все 119 →</a></b></p>
 
 ## 🤝 Как помочь
 
@@ -561,7 +561,7 @@
 
 ## 📰 Новости
 
-- **2026-11-15**: +6 работ и +5 видеодемо.
+- **2026-11-15**: +9 работ и +7 видеодемо.
 - **2026-11-14**: +13 работ и +2 видеодемо.
 - **2026-11-13**: +41 работ и +24 видеодемо.
 - **2026-11-12**: +45 работ и +26 видеодемо.

@@ -1,4 +1,4 @@
-# 🧰 웹 페이지와 도구 · 전체 34개
+# 🧰 웹 페이지와 도구 · 전체 35개
 
 [← 메인 목록으로](../README.ko.md) · [English](web-and-tools.md) · [简体中文](web-and-tools.zh-CN.md) · [繁體中文](web-and-tools.zh-TW.md) · [日本語](web-and-tools.ja.md) · **한국어** · [Español](web-and-tools.es.md) · [Português](web-and-tools.pt-BR.md) · [Français](web-and-tools.fr.md) · [Deutsch](web-and-tools.de.md) · [Русский](web-and-tools.ru.md)
 
@@ -9,7 +9,7 @@
 <td width="33%" valign="top">
 <a href="https://claudia.gallery"><img src="../assets/gifs/038.gif" width="100%" alt="Claudia Gallery"></a><br>
 <b><a href="https://claudia.gallery">Claudia Gallery</a></b><br>
-<sub><a href="https://x.com/anabology">@anabology</a> · ♥ 5.3k · <a href="https://x.com/anabology/status/2120010995309457643">▶ 영상</a></sub><br>
+<sub><a href="https://x.com/anabology">@anabology</a> · ♥ 5.4k · <a href="https://x.com/anabology/status/2120010995309457643">▶ 영상</a></sub><br>
 <sub>"꿈꾸던 영상을 만들어줘" — 2샷, 9시간.</sub><br>
 <sub><a href="https://fablelist.000ooo.ooo/ko/prompts/?w=claudia-gallery&ref=gh"><b>✨ 프롬프트 받기</b></a></sub>
 </td>
@@ -108,18 +108,18 @@
 <sub><a href="https://x.com/rileybrown/status/2119946022767980985">📝 제작자 공개 프롬프트 (무료)</a></sub>
 </td>
 <td width="33%" valign="top">
+<a href="https://auden-english-135.netlify.app/"><img src="../assets/gifs/281.gif" width="100%" alt="사라진 Auden의 1941년 시 수업 복원"></a><br>
+<b><a href="https://auden-english-135.netlify.app/">사라진 Auden의 1941년 시 수업 복원</a></b><br>
+<sub>🆕 · <a href="https://x.com/emollick">@emollick</a> · ♥ 480 · <a href="https://x.com/emollick/status/2121641417483169934">게시물</a></sub><br>
+<sub>Fable 5.2가 Internet Archive의 잘 알려지지 않은 책과 흩어진 메모를 바탕으로 W. H. Auden의 '인문학에서 가장 어려운' 수업을 재구성했습니다.</sub>
+</td>
+<td width="33%" valign="top">
 <a href="https://where-is-everybody-fermi.netlify.app/"><img src="../assets/gifs/146.gif" width="100%" alt="Where Is Everybody?"></a><br>
 <b><a href="https://where-is-everybody-fermi.netlify.app/">Where Is Everybody?</a></b><br>
 <sub><a href="https://x.com/emollick">@emollick</a> · ♥ 456 · <a href="https://x.com/emollick/status/2120359214157603139">게시물</a></sub><br>
 <sub>"페르미 역설을 풀어줘"라는 요청에 데이터를 모으고, 가설을 검증하고, 비판자의 시각으로 압박 테스트.</sub><br>
 <sub><a href="https://resolving-the-great-silence.netlify.app/">Gemini Carbon version</a></sub><br>
 <sub><a href="https://x.com/emollick/status/2120359214157603139">📝 제작자 공개 프롬프트 (무료)</a></sub>
-</td>
-<td width="33%" valign="top">
-<a href="https://auden-english-135.netlify.app/"><img src="../assets/gifs/281.gif" width="100%" alt="사라진 Auden의 1941년 시 수업 복원"></a><br>
-<b><a href="https://auden-english-135.netlify.app/">사라진 Auden의 1941년 시 수업 복원</a></b><br>
-<sub>🆕 · <a href="https://x.com/emollick">@emollick</a> · ♥ 432 · <a href="https://x.com/emollick/status/2121641417483169934">게시물</a></sub><br>
-<sub>Fable 5.2가 Internet Archive의 잘 알려지지 않은 책과 흩어진 메모를 바탕으로 W. H. Auden의 '인문학에서 가장 어려운' 수업을 재구성했습니다.</sub>
 </td>
 </tr>
 <tr>
@@ -149,14 +149,14 @@
 <td width="33%" valign="top">
 <a href="https://clockendbader.github.io/fable-builds/heartbeat/"><img src="../assets/gifs/259.gif" width="100%" alt="One Heartbeat"></a><br>
 <b><a href="https://clockendbader.github.io/fable-builds/heartbeat/">One Heartbeat</a></b><br>
-<sub>🆕 · <a href="https://x.com/clockendbader">@clockendbader</a> · ♥ 141 · <a href="https://x.com/clockendbader/status/2121246903207961069">게시물</a></sub><br>
+<sub>🆕 · <a href="https://x.com/clockendbader">@clockendbader</a> · ♥ 151 · <a href="https://x.com/clockendbader/status/2121246903207961069">게시물</a></sub><br>
 <sub>실시간 ECG와 압력 파형, 심장 소리가 있는 박동하는 3D 심장. 정상, 심방세동, 심장 차단, 대동맥 협착을 비교. 자체 테스트도 직접 작성했습니다.</sub><br>
 <sub><a href="https://fablelist.000ooo.ooo/ko/prompts/?w=one-heartbeat&ref=gh"><b>✨ 프롬프트 받기</b></a></sub>
 </td>
 <td width="33%" valign="top">
 <a href="https://patch.gg/patch/anymove"><img src="../assets/gifs/149.gif" width="100%" alt="anymove"></a><br>
 <b><a href="https://patch.gg/patch/anymove">anymove</a></b><br>
-<sub><a href="https://x.com/rehan_shei">@rehan_shei</a> · ♥ 140 · <a href="https://x.com/rehan_shei/status/2120409150870159414">▶ 영상</a></sub><br>
+<sub><a href="https://x.com/rehan_shei">@rehan_shei</a> · ♥ 141 · <a href="https://x.com/rehan_shei/status/2120409150870159414">▶ 영상</a></sub><br>
 <sub>AI 영상 클립의 동작을 실제 3D 리그에 풀어 적용 — 모캡 슈트도 키프레임도 필요 없음. 오픈 소스.</sub><br>
 <sub><a href="https://fablelist.000ooo.ooo/ko/prompts/?w=anymove&ref=gh"><b>✨ 프롬프트 받기</b></a></sub>
 </td>
@@ -178,7 +178,7 @@
 <td width="33%" valign="top">
 <a href="https://github.com/kanaworksai-hue/harappa"><img src="../assets/gifs/250.gif" width="100%" alt="Harappa (Blender 애드온)"></a><br>
 <b><a href="https://github.com/kanaworksai-hue/harappa">Harappa (Blender 애드온)</a></b><br>
-<sub>🆕 · <a href="https://x.com/KanaWorks_AI">@KanaWorks_AI</a> · ♥ 77 · <a href="https://x.com/KanaWorks_AI/status/2121221880673972463">▶ 영상</a></sub><br>
+<sub>🆕 · <a href="https://x.com/KanaWorks_AI">@KanaWorks_AI</a> · ♥ 78 · <a href="https://x.com/KanaWorks_AI/status/2121221880673972463">▶ 영상</a></sub><br>
 <sub>민둥산을 클릭 한 번으로 애니메이션 스타일 초원으로 바꿔 주는 무료 Blender 애드온. 풀, 꽃, 구름, 나무, 계절, 스타일 지원.</sub><br>
 <sub><a href="https://fablelist.000ooo.ooo/ko/prompts/?w=harappa-blender-add-on&ref=gh"><b>✨ 프롬프트 받기</b></a></sub>
 </td>
@@ -239,6 +239,12 @@
 </tr>
 <tr>
 <td width="33%" valign="top">
+<a href="https://uberdesigner.ai/t/araneae"><img src="../assets/gifs/290.gif" width="100%" alt="araneae"></a><br>
+<b><a href="https://uberdesigner.ai/t/araneae">araneae</a></b><br>
+<sub>🆕 · <a href="https://x.com/seanaiux">@seanaiux</a> · ♥ 5 · <a href="https://x.com/seanaiux/status/2121688869439455410">▶ 영상</a></sub><br>
+<sub>자신을 겁먹게 할 웹사이트를 만들어 달라고 했더니: 어둠에서 거미가 내려오고, 스크롤을 따라 거미줄, 눈, 송곳니, 다리를 지나 마지막엔 당신이 파리가 됩니다.</sub>
+</td>
+<td width="33%" valign="top">
 <a href="https://claude.ai/artifact/Pk6rHPyRwfShT37kiU1sT6"><img src="../assets/gifs/041.gif" width="100%" alt="Dub Techno Track + Visualizer"></a><br>
 <b><a href="https://claude.ai/artifact/Pk6rHPyRwfShT37kiU1sT6">Dub Techno Track + Visualizer</a></b><br>
 <sub><a href="https://x.com/bartdecrem">@bartdecrem</a> · ♥ 4 · <a href="https://x.com/bartdecrem/status/2119926997422133417">게시물</a></sub><br>
@@ -252,6 +258,8 @@
 <sub>주연 배우와 볼리우드 스타 65명의 혈연·혼인 관계.</sub><br>
 <sub><a href="https://fablelist.000ooo.ooo/ko/prompts/?w=ramayana-family-tree&ref=gh"><b>✨ 프롬프트 받기</b></a></sub>
 </td>
+</tr>
+<tr>
 <td width="33%" valign="top">
 <a href="https://claude.ai/artifact/4aEy6FtUi7jrm9U7uYgp8K"><img src="../assets/gifs/042.gif" width="100%" alt="Demoscene Demo"></a><br>
 <b><a href="https://claude.ai/artifact/4aEy6FtUi7jrm9U7uYgp8K">Demoscene Demo</a></b><br>
@@ -259,8 +267,6 @@
 <sub>"브라우저에서 돌아가는 데모씬 전통의 데모를 만들어줘."</sub><br>
 <sub><a href="https://x.com/ndril/status/2119899340642894235">📝 제작자 공개 프롬프트 (무료)</a></sub>
 </td>
-</tr>
-<tr>
 <td width="33%" valign="top">
 <a href="https://claude.ai/artifact/H8E7AonW2KFrzdRimaLeXb"><img src="../assets/gifs/043.gif" width="100%" alt="명상 112가지"></a><br>
 <b><a href="https://claude.ai/artifact/H8E7AonW2KFrzdRimaLeXb">명상 112가지</a></b><br>

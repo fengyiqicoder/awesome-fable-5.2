@@ -1,4 +1,4 @@
-# 🌍 3D-миры и сцены · все 35
+# 🌍 3D-миры и сцены · все 36
 
 [← Назад к списку](../README.ru.md) · [English](3d-worlds.md) · [简体中文](3d-worlds.zh-CN.md) · [繁體中文](3d-worlds.zh-TW.md) · [日本語](3d-worlds.ja.md) · [한국어](3d-worlds.ko.md) · [Español](3d-worlds.es.md) · [Português](3d-worlds.pt-BR.md) · [Français](3d-worlds.fr.md) · [Deutsch](3d-worlds.de.md) · **Русский**
 
@@ -9,7 +9,7 @@
 <td width="33%" valign="top">
 <a href="https://claude.ai/artifact/QGWUAjRrzRzZWGcQzSMLfa"><img src="../assets/gifs/023.gif" width="100%" alt="Claude App на ноутбуке в Blender"></a><br>
 <b><a href="https://claude.ai/artifact/QGWUAjRrzRzZWGcQzSMLfa">Claude App на ноутбуке в Blender</a></b><br>
-<sub><a href="https://x.com/rileybrown">@rileybrown</a> · ♥ 7.0k · <a href="https://x.com/rileybrown/status/2119902109709537708">▶ Видео</a></sub><br>
+<sub><a href="https://x.com/rileybrown">@rileybrown</a> · ♥ 7.1k · <a href="https://x.com/rileybrown/status/2119902109709537708">▶ Видео</a></sub><br>
 <sub>Один промпт построил всю комнату в Blender и отрендерил её в 4K. Это веб-страница на экране ноутбука.</sub><br>
 <sub><a href="https://x.com/rileybrown/status/2119902109709537708">📝 Промпт автора (бесплатно)</a></sub>
 </td>
@@ -39,14 +39,14 @@
 <td width="33%" valign="top">
 <a href="https://fable-rome.surge.sh/"><img src="../assets/gifs/136.gif" width="100%" alt="Rome, AD 320"></a><br>
 <b><a href="https://fable-rome.surge.sh/">Rome, AD 320</a></b><br>
-<sub><a href="https://x.com/petergostev">@petergostev</a> · ♥ 968 · <a href="https://x.com/petergostev/status/2120167560700383572">▶ Видео</a></sub><br>
+<sub><a href="https://x.com/petergostev">@petergostev</a> · ♥ 967 · <a href="https://x.com/petergostev/status/2120167560700383572">▶ Видео</a></sub><br>
 <sub>Один промпт, Fable 5.2 (Max) работал всю ночь, 2 618 $.</sub><br>
 <sub><a href="https://x.com/petergostev/status/2120167560700383572">📝 Промпт автора (бесплатно)</a></sub>
 </td>
 <td width="33%" valign="top">
 <a href="https://github.com/Leonxlnx/room-at-dawn"><img src="../assets/gifs/219.gif" width="100%" alt="Room at Dawn"></a><br>
 <b><a href="https://github.com/Leonxlnx/room-at-dawn">Room at Dawn</a></b><br>
-<sub>🆕 · <a href="https://x.com/LexnLin">@LexnLin</a> · ♥ 852 · <a href="https://x.com/LexnLin/status/2120910879361548565">▶ Видео</a></sub><br>
+<sub>🆕 · <a href="https://x.com/LexnLin">@LexnLin</a> · ♥ 853 · <a href="https://x.com/LexnLin/status/2120910879361548565">▶ Видео</a></sub><br>
 <sub>Фотореалистичная спальня на three.js без готовых моделей и текстур; всё — код.</sub><br>
 <sub><a href="https://fablelist.000ooo.ooo/ru/prompts/?w=room-at-dawn&ref=gh"><b>✨ Получить промпт</b></a></sub>
 </td>
@@ -55,13 +55,13 @@
 <td width="33%" valign="top">
 <a href="https://fable-rover.vercel.app"><img src="../assets/gifs/278.gif" width="100%" alt="ER-6 Terrain Explorer — самоуправляемый марсоход"></a><br>
 <b><a href="https://fable-rover.vercel.app">ER-6 Terrain Explorer — самоуправляемый марсоход</a></b><br>
-<sub>🆕 · <a href="https://x.com/DilumSanjaya">@DilumSanjaya</a> · ♥ 779 · <a href="https://x.com/DilumSanjaya/status/2120561077385867663">▶ Видео</a></sub><br>
+<sub>🆕 · <a href="https://x.com/DilumSanjaya">@DilumSanjaya</a> · ♥ 780 · <a href="https://x.com/DilumSanjaya/status/2120561077385867663">▶ Видео</a></sub><br>
 <sub>Fable 5.2 спроектировал подвеску rocker-bogie, как у марсоходов NASA, и смоделировал езду по инопланетному рельефу.</sub>
 </td>
 <td width="33%" valign="top">
 <a href="https://supernatural-ft.vercel.app/fire-in-ice"><img src="../assets/gifs/221.gif" width="100%" alt="Fire in Ice"></a><br>
 <b><a href="https://supernatural-ft.vercel.app/fire-in-ice">Fire in Ice</a></b><br>
-<sub>🆕 · <a href="https://x.com/tkm_hmng8">@tkm_hmng8</a> · ♥ 548 · <a href="https://x.com/tkm_hmng8/status/2120813043101946324">▶ Видео</a></sub><br>
+<sub>🆕 · <a href="https://x.com/tkm_hmng8">@tkm_hmng8</a> · ♥ 550 · <a href="https://x.com/tkm_hmng8/status/2120813043101946324">▶ Видео</a></sub><br>
 <sub>Реалистичный огонь, горящий внутри льда, на чистом WebGPU без three.js.</sub><br>
 <sub><a href="https://fablelist.000ooo.ooo/ru/prompts/?w=fire-in-ice&ref=gh"><b>✨ Получить промпт</b></a></sub>
 </td>
@@ -109,7 +109,7 @@
 <td width="33%" valign="top">
 <a href="https://planet.tokyoaivisuals.club/"><img src="../assets/gifs/266.gif" width="100%" alt="Code Planet"></a><br>
 <b><a href="https://planet.tokyoaivisuals.club/">Code Planet</a></b><br>
-<sub>🆕 · <a href="https://x.com/KanaWorks_AI">@KanaWorks_AI</a> · ♥ 181 · <a href="https://x.com/KanaWorks_AI/status/2121413647213932688">▶ Видео</a></sub><br>
+<sub>🆕 · <a href="https://x.com/KanaWorks_AI">@KanaWorks_AI</a> · ♥ 188 · <a href="https://x.com/KanaWorks_AI/status/2121413647213932688">▶ Видео</a></sub><br>
 <sub>Целая планета меньше чем в 320 КБ кода. Летите от моря и лугов сквозь цветение сакуры в космос, прямо в браузере.</sub>
 </td>
 <td width="33%" valign="top">
@@ -193,17 +193,17 @@
 </tr>
 <tr>
 <td width="33%" valign="top">
+<a href="https://vancouver-claude.webly.site"><img src="../assets/gifs/280.gif" width="100%" alt="Ванкувер, золотой час над Инглиш-Бей"></a><br>
+<b><a href="https://vancouver-claude.webly.site">Ванкувер, золотой час над Инглиш-Бей</a></b><br>
+<sub>🆕 · <a href="https://x.com/tokifyi">@tokifyi</a> · ♥ 28 · <a href="https://x.com/tokifyi/status/2121644293270200354">Пост</a></sub><br>
+<sub>Панорама Ванкувера на закате, целиком нарисованная на JavaScript.</sub>
+</td>
+<td width="33%" valign="top">
 <a href="https://galaxy-dive.vercel.app"><img src="../assets/gifs/141.gif" width="100%" alt="Galaxy Dive"></a><br>
 <b><a href="https://galaxy-dive.vercel.app">Galaxy Dive</a></b><br>
 <sub><a href="https://x.com/handsher_NGU">@handsher_NGU</a> · ♥ 24 · <a href="https://x.com/handsher_NGU/status/2119910478025789655">▶ Видео</a></sub><br>
 <sub>«God took 6 days, Fable 5.2 took 20 min.» Влетите в галактику.</sub><br>
 <sub><a href="https://fablelist.000ooo.ooo/ru/prompts/?w=galaxy-dive&ref=gh"><b>✨ Получить промпт</b></a></sub>
-</td>
-<td width="33%" valign="top">
-<a href="https://vancouver-claude.webly.site"><img src="../assets/gifs/280.gif" width="100%" alt="Ванкувер, золотой час над Инглиш-Бей"></a><br>
-<b><a href="https://vancouver-claude.webly.site">Ванкувер, золотой час над Инглиш-Бей</a></b><br>
-<sub>🆕 · <a href="https://x.com/tokifyi">@tokifyi</a> · ♥ 24 · <a href="https://x.com/tokifyi/status/2121644293270200354">Пост</a></sub><br>
-<sub>Панорама Ванкувера на закате, целиком нарисованная на JavaScript.</sub>
 </td>
 <td width="33%" valign="top">
 <a href="https://calibre-watch-snowy.vercel.app/"><img src="../assets/gifs/192.gif" width="100%" alt="Часы Calibre 5.2"></a><br>
@@ -259,6 +259,13 @@
 </td>
 </tr>
 <tr>
+<td width="33%" valign="top">
+<a href="https://davinci-mechanics.vercel.app/"><img src="../assets/gifs/289.gif" width="100%" alt="Живой кодекс да Винчи"></a><br>
+<b><a href="https://davinci-mechanics.vercel.app/">Живой кодекс да Винчи</a></b><br>
+<sub>🆕 · <a href="https://x.com/CoderRw11326">@CoderRw11326</a> · ♥ 4 · <a href="https://x.com/CoderRw11326/status/2121286814103421012">▶ Видео</a></sub><br>
+<sub>Откройте блокнот — перо набрасывает машины Леонардо, и они превращаются в деревянные механизмы, которые можно крутить и разбирать. Никаких 3D-моделей, текстур и аудиофайлов — всё кодом.</sub><br>
+<sub><a href="https://github.com/coding-nanami/davinci-mechanics">Исходный код</a></sub>
+</td>
 <td width="33%" valign="top">
 <a href="https://claude.ai/artifact/BCDCNHRTq3y9W4Px3xc4DN"><img src="../assets/gifs/030.gif" width="100%" alt="A Hamlet on a Giant Snail"></a><br>
 <b><a href="https://claude.ai/artifact/BCDCNHRTq3y9W4Px3xc4DN">A Hamlet on a Giant Snail</a></b><br>

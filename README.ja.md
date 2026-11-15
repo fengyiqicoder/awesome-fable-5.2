@@ -5,8 +5,8 @@
 <h3>Claude Fable 5.2 で作られた、実際に開いて遊べる作品</h3>
 
 [![Awesome](https://awesome.re/badge.svg)](https://awesome.re)
-[![Works](https://img.shields.io/badge/公開作品-162-6b4eff)](#-ゲーム)
-[![Demos](https://img.shields.io/badge/動画デモ-117-ff7a59)](#-動画デモ)
+[![Works](https://img.shields.io/badge/公開作品-165-6b4eff)](#-ゲーム)
+[![Demos](https://img.shields.io/badge/動画デモ-119-ff7a59)](#-動画デモ)
 [![Links checked](https://img.shields.io/badge/リンク確認-2026--11--15-2ea44f)](#-投稿貢献)
 [![License: CC0-1.0](https://img.shields.io/badge/License-CC0_1.0-lightgrey.svg)](LICENSE)
 
@@ -16,11 +16,11 @@
 
 </div>
 
-Claude Fable 5.2 で作られた公開作品 162 件と動画デモ 117 件。リンクは 2026-11-15 に確認済み。毎日更新、役立ったら ⭐ を。
+Claude Fable 5.2 で作られた公開作品 165 件と動画デモ 119 件。リンクは 2026-11-15 に確認済み。毎日更新、役立ったら ⭐ を。
 
 ## 📑 目次
 
-[⭐ 人気の作品](#-人気の作品) · [🎮 ゲーム](#-ゲーム) 81 · [🌍 3D ワールドとシーン](#-3d-ワールドとシーン) 35 · [🧰 Web ページとツール](#-web-ページとツール) 34 · [🎬 アニメーションと映像](#-アニメーションと映像) 12 · [📺 動画デモ](#-動画デモ) 117 · [🤝 投稿・貢献](#-投稿貢献)
+[⭐ 人気の作品](#-人気の作品) · [🎮 ゲーム](#-ゲーム) 82 · [🌍 3D ワールドとシーン](#-3d-ワールドとシーン) 36 · [🧰 Web ページとツール](#-web-ページとツール) 35 · [🎬 アニメーションと映像](#-アニメーションと映像) 12 · [📺 動画デモ](#-動画デモ) 119 · [🤝 投稿・貢献](#-投稿貢献)
 
 ## ⭐ 人気の作品
 
@@ -43,7 +43,7 @@ Claude Fable 5.2 で作られた公開作品 162 件と動画デモ 117 件。�
 <td width="33%" valign="top">
 <a href="https://patch.gg/blendi/oil-paint"><img src="assets/gifs/124.gif" width="100%" alt="Oil Paint — 手描き風ゲーム"></a><br>
 <b><a href="https://patch.gg/blendi/oil-paint">Oil Paint — 手描き風ゲーム</a></b><br>
-<sub><a href="https://x.com/BlendiByl">@BlendiByl</a> · ♥ 7.9k · <a href="https://x.com/BlendiByl/status/2120341251178594532">▶ 動画</a></sub><br>
+<sub><a href="https://x.com/BlendiByl">@BlendiByl</a> · ♥ 8.0k · <a href="https://x.com/BlendiByl/status/2120341251178594532">▶ 動画</a></sub><br>
 <sub>1 時間足らずで制作。1 フレームあたり約 150 万のブラシストロークを、ブラウザのタブで 200 fps で動かす。オープンソース。</sub><br>
 <sub><a href="https://fablelist.000ooo.ooo/ja/prompts/?w=oil-paint-hand-painted-game&ref=gh"><b>✨ プロンプトを入手</b></a></sub>
 </td>
@@ -59,14 +59,14 @@ Claude Fable 5.2 で作られた公開作品 162 件と動画デモ 117 件。�
 <td width="33%" valign="top">
 <a href="https://claude.ai/artifact/QGWUAjRrzRzZWGcQzSMLfa"><img src="assets/gifs/023.gif" width="100%" alt="Blender のノート PC 上の Claude アプリ"></a><br>
 <b><a href="https://claude.ai/artifact/QGWUAjRrzRzZWGcQzSMLfa">Blender のノート PC 上の Claude アプリ</a></b><br>
-<sub><a href="https://x.com/rileybrown">@rileybrown</a> · ♥ 7.0k · <a href="https://x.com/rileybrown/status/2119902109709537708">▶ 動画</a></sub><br>
+<sub><a href="https://x.com/rileybrown">@rileybrown</a> · ♥ 7.1k · <a href="https://x.com/rileybrown/status/2119902109709537708">▶ 動画</a></sub><br>
 <sub>1 つのプロンプトで部屋ごと Blender で作り、4K でレンダリング。ノート PC の画面に映っているのがこのウェブページ。</sub><br>
 <sub><a href="https://x.com/rileybrown/status/2119902109709537708">📝 作者公開のプロンプト（無料）</a></sub>
 </td>
 <td width="33%" valign="top">
 <a href="https://claudia.gallery"><img src="assets/gifs/038.gif" width="100%" alt="Claudia Gallery"></a><br>
 <b><a href="https://claudia.gallery">Claudia Gallery</a></b><br>
-<sub><a href="https://x.com/anabology">@anabology</a> · ♥ 5.3k · <a href="https://x.com/anabology/status/2120010995309457643">▶ 動画</a></sub><br>
+<sub><a href="https://x.com/anabology">@anabology</a> · ♥ 5.4k · <a href="https://x.com/anabology/status/2120010995309457643">▶ 動画</a></sub><br>
 <sub>「夢の映像を作って」——2 ショット、9 時間。</sub><br>
 <sub><a href="https://fablelist.000ooo.ooo/ja/prompts/?w=claudia-gallery&ref=gh"><b>✨ プロンプトを入手</b></a></sub>
 </td>
@@ -94,7 +94,7 @@ Claude Fable 5.2 で作られた公開作品 162 件と動画デモ 117 件。�
 <td width="33%" valign="top">
 <a href="https://patch.gg/blendi/oil-paint"><img src="assets/gifs/124.gif" width="100%" alt="Oil Paint — 手描き風ゲーム"></a><br>
 <b><a href="https://patch.gg/blendi/oil-paint">Oil Paint — 手描き風ゲーム</a></b><br>
-<sub><a href="https://x.com/BlendiByl">@BlendiByl</a> · ♥ 7.9k · <a href="https://x.com/BlendiByl/status/2120341251178594532">▶ 動画</a></sub><br>
+<sub><a href="https://x.com/BlendiByl">@BlendiByl</a> · ♥ 8.0k · <a href="https://x.com/BlendiByl/status/2120341251178594532">▶ 動画</a></sub><br>
 <sub>1 時間足らずで制作。1 フレームあたり約 150 万のブラシストロークを、ブラウザのタブで 200 fps で動かす。オープンソース。</sub><br>
 <sub><a href="https://fablelist.000ooo.ooo/ja/prompts/?w=oil-paint-hand-painted-game&ref=gh"><b>✨ プロンプトを入手</b></a></sub>
 </td>
@@ -139,19 +139,19 @@ Claude Fable 5.2 で作られた公開作品 162 件と動画デモ 117 件。�
 <sub><a href="https://fablelist.000ooo.ooo/ja/prompts/?w=portals-endless-worlds&ref=gh"><b>✨ プロンプトを入手</b></a></sub>
 </td>
 <td width="33%" valign="top">
+<a href="https://patch.gg/play/blendi/small-magic"><img src="assets/gifs/274.gif" width="100%" alt="Small Magic — 魔法使いサンドボックス"></a><br>
+<b><a href="https://patch.gg/play/blendi/small-magic">Small Magic — 魔法使いサンドボックス</a></b><br>
+<sub>🆕 · <a href="https://x.com/BlendiByl">@BlendiByl</a> · ♥ 1.8k · <a href="https://x.com/BlendiByl/status/2121594536153718972">▶ 動画</a></sub><br>
+<sub>1日で制作：呪文7種、壊せる物理パーツ約1,800個、モデルもテクスチャもなし、オープンソース。</sub>
+</td>
+</tr>
+<tr>
+<td width="33%" valign="top">
 <a href="https://evensong-phi.vercel.app/"><img src="assets/gifs/126.gif" width="100%" alt="Evensong"></a><br>
 <b><a href="https://evensong-phi.vercel.app/">Evensong</a></b><br>
 <sub><a href="https://x.com/kevin_t_ngo">@kevin_t_ngo</a> · ♥ 1.8k · <a href="https://x.com/kevin_t_ngo/status/2120238844754923874">▶ 動画</a></sub><br>
 <sub>ダークファンタジーのソウルライク風ボス戦。ブラウザで遊べる。</sub><br>
 <sub><a href="https://fablelist.000ooo.ooo/ja/prompts/?w=evensong&ref=gh"><b>✨ プロンプトを入手</b></a></sub>
-</td>
-</tr>
-<tr>
-<td width="33%" valign="top">
-<a href="https://patch.gg/play/blendi/small-magic"><img src="assets/gifs/274.gif" width="100%" alt="Small Magic — 魔法使いサンドボックス"></a><br>
-<b><a href="https://patch.gg/play/blendi/small-magic">Small Magic — 魔法使いサンドボックス</a></b><br>
-<sub>🆕 · <a href="https://x.com/BlendiByl">@BlendiByl</a> · ♥ 1.5k · <a href="https://x.com/BlendiByl/status/2121594536153718972">▶ 動画</a></sub><br>
-<sub>1日で制作：呪文7種、壊せる物理パーツ約1,800個、モデルもテクスチャもなし、オープンソース。</sub>
 </td>
 <td width="33%" valign="top">
 <a href="https://loktar00.github.io/lanternfall/"><img src="assets/gifs/128.gif" width="100%" alt="LANTERNFALL"></a><br>
@@ -170,7 +170,7 @@ Claude Fable 5.2 で作られた公開作品 162 件と動画デモ 117 件。�
 </tr>
 </table>
 
-<p align="center"><b><a href="all/games.ja.md">すべて見る（81）→</a></b></p>
+<p align="center"><b><a href="all/games.ja.md">すべて見る（82）→</a></b></p>
 
 <div align="right"><a href="#-目次">↑ 目次に戻る</a></div>
 
@@ -181,7 +181,7 @@ Claude Fable 5.2 で作られた公開作品 162 件と動画デモ 117 件。�
 <td width="33%" valign="top">
 <a href="https://claude.ai/artifact/QGWUAjRrzRzZWGcQzSMLfa"><img src="assets/gifs/023.gif" width="100%" alt="Blender のノート PC 上の Claude アプリ"></a><br>
 <b><a href="https://claude.ai/artifact/QGWUAjRrzRzZWGcQzSMLfa">Blender のノート PC 上の Claude アプリ</a></b><br>
-<sub><a href="https://x.com/rileybrown">@rileybrown</a> · ♥ 7.0k · <a href="https://x.com/rileybrown/status/2119902109709537708">▶ 動画</a></sub><br>
+<sub><a href="https://x.com/rileybrown">@rileybrown</a> · ♥ 7.1k · <a href="https://x.com/rileybrown/status/2119902109709537708">▶ 動画</a></sub><br>
 <sub>1 つのプロンプトで部屋ごと Blender で作り、4K でレンダリング。ノート PC の画面に映っているのがこのウェブページ。</sub><br>
 <sub><a href="https://x.com/rileybrown/status/2119902109709537708">📝 作者公開のプロンプト（無料）</a></sub>
 </td>
@@ -211,14 +211,14 @@ Claude Fable 5.2 で作られた公開作品 162 件と動画デモ 117 件。�
 <td width="33%" valign="top">
 <a href="https://fable-rome.surge.sh/"><img src="assets/gifs/136.gif" width="100%" alt="Rome, AD 320"></a><br>
 <b><a href="https://fable-rome.surge.sh/">Rome, AD 320</a></b><br>
-<sub><a href="https://x.com/petergostev">@petergostev</a> · ♥ 968 · <a href="https://x.com/petergostev/status/2120167560700383572">▶ 動画</a></sub><br>
+<sub><a href="https://x.com/petergostev">@petergostev</a> · ♥ 967 · <a href="https://x.com/petergostev/status/2120167560700383572">▶ 動画</a></sub><br>
 <sub>1 つのプロンプト、Fable 5.2（Max）が一晩中稼働、$2,618。</sub><br>
 <sub><a href="https://x.com/petergostev/status/2120167560700383572">📝 作者公開のプロンプト（無料）</a></sub>
 </td>
 <td width="33%" valign="top">
 <a href="https://github.com/Leonxlnx/room-at-dawn"><img src="assets/gifs/219.gif" width="100%" alt="Room at Dawn"></a><br>
 <b><a href="https://github.com/Leonxlnx/room-at-dawn">Room at Dawn</a></b><br>
-<sub>🆕 · <a href="https://x.com/LexnLin">@LexnLin</a> · ♥ 852 · <a href="https://x.com/LexnLin/status/2120910879361548565">▶ 動画</a></sub><br>
+<sub>🆕 · <a href="https://x.com/LexnLin">@LexnLin</a> · ♥ 853 · <a href="https://x.com/LexnLin/status/2120910879361548565">▶ 動画</a></sub><br>
 <sub>既成のモデルやテクスチャなしで作った、three.js のフォトリアルな寝室。すべてコード。</sub><br>
 <sub><a href="https://fablelist.000ooo.ooo/ja/prompts/?w=room-at-dawn&ref=gh"><b>✨ プロンプトを入手</b></a></sub>
 </td>
@@ -227,13 +227,13 @@ Claude Fable 5.2 で作られた公開作品 162 件と動画デモ 117 件。�
 <td width="33%" valign="top">
 <a href="https://fable-rover.vercel.app"><img src="assets/gifs/278.gif" width="100%" alt="ER-6 Terrain Explorer — 自動走行する火星ローバー"></a><br>
 <b><a href="https://fable-rover.vercel.app">ER-6 Terrain Explorer — 自動走行する火星ローバー</a></b><br>
-<sub>🆕 · <a href="https://x.com/DilumSanjaya">@DilumSanjaya</a> · ♥ 779 · <a href="https://x.com/DilumSanjaya/status/2120561077385867663">▶ 動画</a></sub><br>
+<sub>🆕 · <a href="https://x.com/DilumSanjaya">@DilumSanjaya</a> · ♥ 780 · <a href="https://x.com/DilumSanjaya/status/2120561077385867663">▶ 動画</a></sub><br>
 <sub>Fable 5.2 が NASA の火星ローバーと同じロッカー・ボギー式サスペンションを設計し、異星の地形を走らせるシミュレーションまで作った。</sub>
 </td>
 <td width="33%" valign="top">
 <a href="https://supernatural-ft.vercel.app/fire-in-ice"><img src="assets/gifs/221.gif" width="100%" alt="Fire in Ice"></a><br>
 <b><a href="https://supernatural-ft.vercel.app/fire-in-ice">Fire in Ice</a></b><br>
-<sub>🆕 · <a href="https://x.com/tkm_hmng8">@tkm_hmng8</a> · ♥ 548 · <a href="https://x.com/tkm_hmng8/status/2120813043101946324">▶ 動画</a></sub><br>
+<sub>🆕 · <a href="https://x.com/tkm_hmng8">@tkm_hmng8</a> · ♥ 550 · <a href="https://x.com/tkm_hmng8/status/2120813043101946324">▶ 動画</a></sub><br>
 <sub>three.js を使わず素の WebGPU で書いた、氷の中で燃えるリアルな炎。</sub><br>
 <sub><a href="https://fablelist.000ooo.ooo/ja/prompts/?w=fire-in-ice&ref=gh"><b>✨ プロンプトを入手</b></a></sub>
 </td>
@@ -271,7 +271,7 @@ Claude Fable 5.2 で作られた公開作品 162 件と動画デモ 117 件。�
 </tr>
 </table>
 
-<p align="center"><b><a href="all/3d-worlds.ja.md">すべて見る（35）→</a></b></p>
+<p align="center"><b><a href="all/3d-worlds.ja.md">すべて見る（36）→</a></b></p>
 
 <div align="right"><a href="#-目次">↑ 目次に戻る</a></div>
 
@@ -282,7 +282,7 @@ Claude Fable 5.2 で作られた公開作品 162 件と動画デモ 117 件。�
 <td width="33%" valign="top">
 <a href="https://claudia.gallery"><img src="assets/gifs/038.gif" width="100%" alt="Claudia Gallery"></a><br>
 <b><a href="https://claudia.gallery">Claudia Gallery</a></b><br>
-<sub><a href="https://x.com/anabology">@anabology</a> · ♥ 5.3k · <a href="https://x.com/anabology/status/2120010995309457643">▶ 動画</a></sub><br>
+<sub><a href="https://x.com/anabology">@anabology</a> · ♥ 5.4k · <a href="https://x.com/anabology/status/2120010995309457643">▶ 動画</a></sub><br>
 <sub>「夢の映像を作って」——2 ショット、9 時間。</sub><br>
 <sub><a href="https://fablelist.000ooo.ooo/ja/prompts/?w=claudia-gallery&ref=gh"><b>✨ プロンプトを入手</b></a></sub>
 </td>
@@ -374,7 +374,7 @@ Claude Fable 5.2 で作られた公開作品 162 件と動画デモ 117 件。�
 </tr>
 </table>
 
-<p align="center"><b><a href="all/web-and-tools.ja.md">すべて見る（34）→</a></b></p>
+<p align="center"><b><a href="all/web-and-tools.ja.md">すべて見る（35）→</a></b></p>
 
 <div align="right"><a href="#-目次">↑ 目次に戻る</a></div>
 
@@ -392,7 +392,7 @@ Claude Fable 5.2 で作られた公開作品 162 件と動画デモ 117 件。�
 <td width="33%" valign="top">
 <a href="https://github.com/amirmushichge/shred-kit"><img src="assets/gifs/269.gif" width="100%" alt="Shred Kit ペーパーシュレッダーのテンプレート"></a><br>
 <b><a href="https://github.com/amirmushichge/shred-kit">Shred Kit ペーパーシュレッダーのテンプレート</a></b><br>
-<sub>🆕 · <a href="https://x.com/AmirMushich">@AmirMushich</a> · ♥ 405 · <a href="https://x.com/AmirMushich/status/2121339167800213934">▶ 動画</a></sub><br>
+<sub>🆕 · <a href="https://x.com/AmirMushich">@AmirMushich</a> · ♥ 408 · <a href="https://x.com/AmirMushich/status/2121339167800213934">▶ 動画</a></sub><br>
 <sub>Fable 5.2 と Blender で作った 8 秒のペーパーシュレッダーリール。無料テンプレートとして公開。</sub>
 </td>
 <td width="33%" valign="top">
@@ -472,18 +472,18 @@ Claude Fable 5.2 で作られた公開作品 162 件と動画デモ 117 件。�
 </tr>
 <tr>
 <td width="33%" valign="top">
-<a href="https://x.com/dominikmartn/status/2120154832694858224"><img src="assets/gifs/236.gif" width="100%" alt="本当にデザインできる"></a><br>
-<b><a href="https://x.com/dominikmartn/status/2120154832694858224">本当にデザインできる</a></b><br>
-<sub>🆕 · <a href="https://x.com/dominikmartn">@dominikmartn</a> · ♥ 7.2k · <a href="https://x.com/dominikmartn/status/2120154832694858224">▶ 動画</a></sub><br>
-<br>
-<sub><a href="https://fablelist.000ooo.ooo/ja/prompts/?w=it-can-actually-design&ref=gh"><b>✨ プロンプトを入手</b></a></sub>
-</td>
-<td width="33%" valign="top">
 <a href="https://x.com/everestchris6/status/2120175941616128277"><img src="assets/gifs/207.gif" width="100%" alt="2D の図面を 3D ウォークスルーに"></a><br>
 <b><a href="https://x.com/everestchris6/status/2120175941616128277">2D の図面を 3D ウォークスルーに</a></b><br>
 <sub>🆕 · <a href="https://x.com/everestchris6">@everestchris6</a> · ♥ 7.2k · <a href="https://x.com/everestchris6/status/2120175941616128277">▶ 動画</a></sub><br>
 <br>
 <sub><a href="https://x.com/everestchris6/status/2120175941616128277">📝 作者公開のプロンプト（無料）</a></sub>
+</td>
+<td width="33%" valign="top">
+<a href="https://x.com/dominikmartn/status/2120154832694858224"><img src="assets/gifs/236.gif" width="100%" alt="本当にデザインできる"></a><br>
+<b><a href="https://x.com/dominikmartn/status/2120154832694858224">本当にデザインできる</a></b><br>
+<sub>🆕 · <a href="https://x.com/dominikmartn">@dominikmartn</a> · ♥ 7.2k · <a href="https://x.com/dominikmartn/status/2120154832694858224">▶ 動画</a></sub><br>
+<br>
+<sub><a href="https://fablelist.000ooo.ooo/ja/prompts/?w=it-can-actually-design&ref=gh"><b>✨ プロンプトを入手</b></a></sub>
 </td>
 <td width="33%" valign="top">
 <a href="https://x.com/suna_gaku/status/2119952985933697063"><img src="assets/gifs/208.gif" width="100%" alt="「最高の動画を見せて」"></a><br>
@@ -511,7 +511,7 @@ Claude Fable 5.2 で作られた公開作品 162 件と動画デモ 117 件。�
 <td width="33%" valign="top">
 <a href="https://x.com/MrTacticalX/status/2121082861902070130"><img src="assets/gifs/253.gif" width="100%" alt="3 つの Fable 5.2 Agent が 7 時間 41 分でコンピューターを構築"></a><br>
 <b><a href="https://x.com/MrTacticalX/status/2121082861902070130">3 つの Fable 5.2 Agent が 7 時間 41 分でコンピューターを構築</a></b><br>
-<sub>🆕 · <a href="https://x.com/MrTacticalX">@MrTacticalX</a> · ♥ 4.4k · <a href="https://x.com/MrTacticalX/status/2121082861902070130">▶ 動画</a></sub><br>
+<sub>🆕 · <a href="https://x.com/MrTacticalX">@MrTacticalX</a> · ♥ 4.5k · <a href="https://x.com/MrTacticalX/status/2121082861902070130">▶ 動画</a></sub><br>
 <br>
 <sub><a href="https://fablelist.000ooo.ooo/ja/prompts/?w=three-fable-5-2-agents-build-a-computer&ref=gh"><b>✨ プロンプトを入手</b></a></sub>
 </td>
@@ -541,7 +541,7 @@ Claude Fable 5.2 で作られた公開作品 162 件と動画デモ 117 件。�
 </tr>
 </table>
 
-<p align="center"><b><a href="all/video-demos.ja.md">すべて見る（117）→</a></b></p>
+<p align="center"><b><a href="all/video-demos.ja.md">すべて見る（119）→</a></b></p>
 
 ## 🤝 投稿・貢献
 
@@ -561,7 +561,7 @@ Claude Fable 5.2 で作られた公開作品 162 件と動画デモ 117 件。�
 
 ## 📰 更新情報
 
-- **2026-11-15**：公開作品 +6、動画デモ +5。
+- **2026-11-15**：公開作品 +9、動画デモ +7。
 - **2026-11-14**：公開作品 +13、動画デモ +2。
 - **2026-11-13**：公開作品 +41、動画デモ +24。
 - **2026-11-12**：公開作品 +45、動画デモ +26。

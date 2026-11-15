@@ -1,4 +1,4 @@
-# 🌍 3D 월드와 장면 · 전체 35개
+# 🌍 3D 월드와 장면 · 전체 36개
 
 [← 메인 목록으로](../README.ko.md) · [English](3d-worlds.md) · [简体中文](3d-worlds.zh-CN.md) · [繁體中文](3d-worlds.zh-TW.md) · [日本語](3d-worlds.ja.md) · **한국어** · [Español](3d-worlds.es.md) · [Português](3d-worlds.pt-BR.md) · [Français](3d-worlds.fr.md) · [Deutsch](3d-worlds.de.md) · [Русский](3d-worlds.ru.md)
 
@@ -9,7 +9,7 @@
 <td width="33%" valign="top">
 <a href="https://claude.ai/artifact/QGWUAjRrzRzZWGcQzSMLfa"><img src="../assets/gifs/023.gif" width="100%" alt="Blender 노트북 속 Claude 앱"></a><br>
 <b><a href="https://claude.ai/artifact/QGWUAjRrzRzZWGcQzSMLfa">Blender 노트북 속 Claude 앱</a></b><br>
-<sub><a href="https://x.com/rileybrown">@rileybrown</a> · ♥ 7.0k · <a href="https://x.com/rileybrown/status/2119902109709537708">▶ 영상</a></sub><br>
+<sub><a href="https://x.com/rileybrown">@rileybrown</a> · ♥ 7.1k · <a href="https://x.com/rileybrown/status/2119902109709537708">▶ 영상</a></sub><br>
 <sub>프롬프트 하나로 Blender에서 방 전체를 만들고 4K로 렌더링. 노트북 화면에 보이는 웹 페이지입니다.</sub><br>
 <sub><a href="https://x.com/rileybrown/status/2119902109709537708">📝 제작자 공개 프롬프트 (무료)</a></sub>
 </td>
@@ -39,14 +39,14 @@
 <td width="33%" valign="top">
 <a href="https://fable-rome.surge.sh/"><img src="../assets/gifs/136.gif" width="100%" alt="Rome, AD 320"></a><br>
 <b><a href="https://fable-rome.surge.sh/">Rome, AD 320</a></b><br>
-<sub><a href="https://x.com/petergostev">@petergostev</a> · ♥ 968 · <a href="https://x.com/petergostev/status/2120167560700383572">▶ 영상</a></sub><br>
+<sub><a href="https://x.com/petergostev">@petergostev</a> · ♥ 967 · <a href="https://x.com/petergostev/status/2120167560700383572">▶ 영상</a></sub><br>
 <sub>프롬프트 하나, Fable 5.2 (Max)가 밤새 실행, $2,618.</sub><br>
 <sub><a href="https://x.com/petergostev/status/2120167560700383572">📝 제작자 공개 프롬프트 (무료)</a></sub>
 </td>
 <td width="33%" valign="top">
 <a href="https://github.com/Leonxlnx/room-at-dawn"><img src="../assets/gifs/219.gif" width="100%" alt="Room at Dawn"></a><br>
 <b><a href="https://github.com/Leonxlnx/room-at-dawn">Room at Dawn</a></b><br>
-<sub>🆕 · <a href="https://x.com/LexnLin">@LexnLin</a> · ♥ 852 · <a href="https://x.com/LexnLin/status/2120910879361548565">▶ 영상</a></sub><br>
+<sub>🆕 · <a href="https://x.com/LexnLin">@LexnLin</a> · ♥ 853 · <a href="https://x.com/LexnLin/status/2120910879361548565">▶ 영상</a></sub><br>
 <sub>미리 만든 모델이나 텍스처 없이 three.js로 만든 사실적인 침실. 모든 것이 코드.</sub><br>
 <sub><a href="https://fablelist.000ooo.ooo/ko/prompts/?w=room-at-dawn&ref=gh"><b>✨ 프롬프트 받기</b></a></sub>
 </td>
@@ -55,13 +55,13 @@
 <td width="33%" valign="top">
 <a href="https://fable-rover.vercel.app"><img src="../assets/gifs/278.gif" width="100%" alt="ER-6 Terrain Explorer — 스스로 달리는 화성 탐사차"></a><br>
 <b><a href="https://fable-rover.vercel.app">ER-6 Terrain Explorer — 스스로 달리는 화성 탐사차</a></b><br>
-<sub>🆕 · <a href="https://x.com/DilumSanjaya">@DilumSanjaya</a> · ♥ 779 · <a href="https://x.com/DilumSanjaya/status/2120561077385867663">▶ 영상</a></sub><br>
+<sub>🆕 · <a href="https://x.com/DilumSanjaya">@DilumSanjaya</a> · ♥ 780 · <a href="https://x.com/DilumSanjaya/status/2120561077385867663">▶ 영상</a></sub><br>
 <sub>Fable 5.2가 NASA 화성 탐사차처럼 로커-보기 서스펜션을 설계하고, 외계 지형을 달리는 시뮬레이션까지 만들었습니다.</sub>
 </td>
 <td width="33%" valign="top">
 <a href="https://supernatural-ft.vercel.app/fire-in-ice"><img src="../assets/gifs/221.gif" width="100%" alt="Fire in Ice"></a><br>
 <b><a href="https://supernatural-ft.vercel.app/fire-in-ice">Fire in Ice</a></b><br>
-<sub>🆕 · <a href="https://x.com/tkm_hmng8">@tkm_hmng8</a> · ♥ 548 · <a href="https://x.com/tkm_hmng8/status/2120813043101946324">▶ 영상</a></sub><br>
+<sub>🆕 · <a href="https://x.com/tkm_hmng8">@tkm_hmng8</a> · ♥ 550 · <a href="https://x.com/tkm_hmng8/status/2120813043101946324">▶ 영상</a></sub><br>
 <sub>three.js 없이 순수 WebGPU로 작성한, 얼음 속에서 타오르는 사실적인 불꽃.</sub><br>
 <sub><a href="https://fablelist.000ooo.ooo/ko/prompts/?w=fire-in-ice&ref=gh"><b>✨ 프롬프트 받기</b></a></sub>
 </td>
@@ -109,7 +109,7 @@
 <td width="33%" valign="top">
 <a href="https://planet.tokyoaivisuals.club/"><img src="../assets/gifs/266.gif" width="100%" alt="Code Planet"></a><br>
 <b><a href="https://planet.tokyoaivisuals.club/">Code Planet</a></b><br>
-<sub>🆕 · <a href="https://x.com/KanaWorks_AI">@KanaWorks_AI</a> · ♥ 181 · <a href="https://x.com/KanaWorks_AI/status/2121413647213932688">▶ 영상</a></sub><br>
+<sub>🆕 · <a href="https://x.com/KanaWorks_AI">@KanaWorks_AI</a> · ♥ 188 · <a href="https://x.com/KanaWorks_AI/status/2121413647213932688">▶ 영상</a></sub><br>
 <sub>320KB도 안 되는 코드로 만든 행성 하나. 바다와 초원에서 벚꽃을 지나 우주까지, 브라우저에서 바로 날아가 보세요.</sub>
 </td>
 <td width="33%" valign="top">
@@ -193,17 +193,17 @@
 </tr>
 <tr>
 <td width="33%" valign="top">
+<a href="https://vancouver-claude.webly.site"><img src="../assets/gifs/280.gif" width="100%" alt="밴쿠버, 잉글리시 베이의 골든아워"></a><br>
+<b><a href="https://vancouver-claude.webly.site">밴쿠버, 잉글리시 베이의 골든아워</a></b><br>
+<sub>🆕 · <a href="https://x.com/tokifyi">@tokifyi</a> · ♥ 28 · <a href="https://x.com/tokifyi/status/2121644293270200354">게시물</a></sub><br>
+<sub>JavaScript만으로 그린 밴쿠버 노을 파노라마.</sub>
+</td>
+<td width="33%" valign="top">
 <a href="https://galaxy-dive.vercel.app"><img src="../assets/gifs/141.gif" width="100%" alt="Galaxy Dive"></a><br>
 <b><a href="https://galaxy-dive.vercel.app">Galaxy Dive</a></b><br>
 <sub><a href="https://x.com/handsher_NGU">@handsher_NGU</a> · ♥ 24 · <a href="https://x.com/handsher_NGU/status/2119910478025789655">▶ 영상</a></sub><br>
 <sub>"신은 6일이 걸렸고, Fable 5.2는 20분이 걸렸다." 은하 속으로 날아 들어가세요.</sub><br>
 <sub><a href="https://fablelist.000ooo.ooo/ko/prompts/?w=galaxy-dive&ref=gh"><b>✨ 프롬프트 받기</b></a></sub>
-</td>
-<td width="33%" valign="top">
-<a href="https://vancouver-claude.webly.site"><img src="../assets/gifs/280.gif" width="100%" alt="밴쿠버, 잉글리시 베이의 골든아워"></a><br>
-<b><a href="https://vancouver-claude.webly.site">밴쿠버, 잉글리시 베이의 골든아워</a></b><br>
-<sub>🆕 · <a href="https://x.com/tokifyi">@tokifyi</a> · ♥ 24 · <a href="https://x.com/tokifyi/status/2121644293270200354">게시물</a></sub><br>
-<sub>JavaScript만으로 그린 밴쿠버 노을 파노라마.</sub>
 </td>
 <td width="33%" valign="top">
 <a href="https://calibre-watch-snowy.vercel.app/"><img src="../assets/gifs/192.gif" width="100%" alt="Calibre 5.2 시계"></a><br>
@@ -259,6 +259,13 @@
 </td>
 </tr>
 <tr>
+<td width="33%" valign="top">
+<a href="https://davinci-mechanics.vercel.app/"><img src="../assets/gifs/289.gif" width="100%" alt="다빈치의 살아 있는 코덱스"></a><br>
+<b><a href="https://davinci-mechanics.vercel.app/">다빈치의 살아 있는 코덱스</a></b><br>
+<sub>🆕 · <a href="https://x.com/CoderRw11326">@CoderRw11326</a> · ♥ 4 · <a href="https://x.com/CoderRw11326/status/2121286814103421012">▶ 영상</a></sub><br>
+<sub>노트를 펼치면 깃펜이 다빈치의 기계를 스케치하고, 돌리고 분해할 수 있는 나무 기계로 바뀝니다. 3D 모델, 텍스처, 오디오 파일 없이 모두 코드로 만들었습니다.</sub><br>
+<sub><a href="https://github.com/coding-nanami/davinci-mechanics">소스 코드</a></sub>
+</td>
 <td width="33%" valign="top">
 <a href="https://claude.ai/artifact/BCDCNHRTq3y9W4Px3xc4DN"><img src="../assets/gifs/030.gif" width="100%" alt="거대한 달팽이 위의 마을"></a><br>
 <b><a href="https://claude.ai/artifact/BCDCNHRTq3y9W4Px3xc4DN">거대한 달팽이 위의 마을</a></b><br>

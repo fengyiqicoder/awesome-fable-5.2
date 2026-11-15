@@ -5,8 +5,8 @@
 <h3>Was Leute mit Claude Fable 5.2 gebaut haben – zum Öffnen und Spielen</h3>
 
 [![Awesome](https://awesome.re/badge.svg)](https://awesome.re)
-[![Works](https://img.shields.io/badge/Werke-162-6b4eff)](#-spiele)
-[![Demos](https://img.shields.io/badge/Video-Demos-117-ff7a59)](#-video-demos)
+[![Works](https://img.shields.io/badge/Werke-165-6b4eff)](#-spiele)
+[![Demos](https://img.shields.io/badge/Video-Demos-119-ff7a59)](#-video-demos)
 [![Links checked](https://img.shields.io/badge/Links_geprüft-2026--11--15-2ea44f)](#-mitmachen)
 [![License: CC0-1.0](https://img.shields.io/badge/License-CC0_1.0-lightgrey.svg)](LICENSE)
 
@@ -16,11 +16,11 @@
 
 </div>
 
-162 Live-Werke und 117 Video-Demos, gebaut mit Claude Fable 5.2, alle Links am 2026-11-15 geprüft. Täglich aktualisiert; ein ⭐ hilft.
+165 Live-Werke und 119 Video-Demos, gebaut mit Claude Fable 5.2, alle Links am 2026-11-15 geprüft. Täglich aktualisiert; ein ⭐ hilft.
 
 ## 📑 Inhalt
 
-[⭐ Am beliebtesten](#-am-beliebtesten) · [🎮 Spiele](#-spiele) 81 · [🌍 3D-Welten & Szenen](#-3d-welten--szenen) 35 · [🧰 Webseiten & Tools](#-webseiten--tools) 34 · [🎬 Animation & Film](#-animation--film) 12 · [📺 Video-Demos](#-video-demos) 117 · [🤝 Mitmachen](#-mitmachen)
+[⭐ Am beliebtesten](#-am-beliebtesten) · [🎮 Spiele](#-spiele) 82 · [🌍 3D-Welten & Szenen](#-3d-welten--szenen) 36 · [🧰 Webseiten & Tools](#-webseiten--tools) 35 · [🎬 Animation & Film](#-animation--film) 12 · [📺 Video-Demos](#-video-demos) 119 · [🤝 Mitmachen](#-mitmachen)
 
 ## ⭐ Am beliebtesten
 
@@ -43,7 +43,7 @@
 <td width="33%" valign="top">
 <a href="https://patch.gg/blendi/oil-paint"><img src="assets/gifs/124.gif" width="100%" alt="Oil Paint – handgemaltes Spiel"></a><br>
 <b><a href="https://patch.gg/blendi/oil-paint">Oil Paint – handgemaltes Spiel</a></b><br>
-<sub><a href="https://x.com/BlendiByl">@BlendiByl</a> · ♥ 7.9k · <a href="https://x.com/BlendiByl/status/2120341251178594532">▶ Video</a></sub><br>
+<sub><a href="https://x.com/BlendiByl">@BlendiByl</a> · ♥ 8.0k · <a href="https://x.com/BlendiByl/status/2120341251178594532">▶ Video</a></sub><br>
 <sub>In unter einer Stunde gemacht. Jedes Frame besteht aus rund 1,5 Millionen Pinselstrichen und läuft mit 200 fps in einem Browser-Tab. Open Source.</sub><br>
 <sub><a href="https://fablelist.000ooo.ooo/de/prompts/?w=oil-paint-hand-painted-game&ref=gh"><b>✨ Prompt holen</b></a></sub>
 </td>
@@ -59,14 +59,14 @@
 <td width="33%" valign="top">
 <a href="https://claude.ai/artifact/QGWUAjRrzRzZWGcQzSMLfa"><img src="assets/gifs/023.gif" width="100%" alt="Claude App auf einem Blender-Laptop"></a><br>
 <b><a href="https://claude.ai/artifact/QGWUAjRrzRzZWGcQzSMLfa">Claude App auf einem Blender-Laptop</a></b><br>
-<sub><a href="https://x.com/rileybrown">@rileybrown</a> · ♥ 7.0k · <a href="https://x.com/rileybrown/status/2119902109709537708">▶ Video</a></sub><br>
+<sub><a href="https://x.com/rileybrown">@rileybrown</a> · ♥ 7.1k · <a href="https://x.com/rileybrown/status/2119902109709537708">▶ Video</a></sub><br>
 <sub>Ein Prompt hat den ganzen Raum in Blender gebaut und in 4K gerendert. Das ist die Webseite auf dem Laptop-Bildschirm.</sub><br>
 <sub><a href="https://x.com/rileybrown/status/2119902109709537708">📝 Prompt des Creators (kostenlos)</a></sub>
 </td>
 <td width="33%" valign="top">
 <a href="https://claudia.gallery"><img src="assets/gifs/038.gif" width="100%" alt="Claudia Gallery"></a><br>
 <b><a href="https://claudia.gallery">Claudia Gallery</a></b><br>
-<sub><a href="https://x.com/anabology">@anabology</a> · ♥ 5.3k · <a href="https://x.com/anabology/status/2120010995309457643">▶ Video</a></sub><br>
+<sub><a href="https://x.com/anabology">@anabology</a> · ♥ 5.4k · <a href="https://x.com/anabology/status/2120010995309457643">▶ Video</a></sub><br>
 <sub>„Make the video of your dreams“ – zwei Einstellungen, 9 Stunden.</sub><br>
 <sub><a href="https://fablelist.000ooo.ooo/de/prompts/?w=claudia-gallery&ref=gh"><b>✨ Prompt holen</b></a></sub>
 </td>
@@ -94,7 +94,7 @@
 <td width="33%" valign="top">
 <a href="https://patch.gg/blendi/oil-paint"><img src="assets/gifs/124.gif" width="100%" alt="Oil Paint – handgemaltes Spiel"></a><br>
 <b><a href="https://patch.gg/blendi/oil-paint">Oil Paint – handgemaltes Spiel</a></b><br>
-<sub><a href="https://x.com/BlendiByl">@BlendiByl</a> · ♥ 7.9k · <a href="https://x.com/BlendiByl/status/2120341251178594532">▶ Video</a></sub><br>
+<sub><a href="https://x.com/BlendiByl">@BlendiByl</a> · ♥ 8.0k · <a href="https://x.com/BlendiByl/status/2120341251178594532">▶ Video</a></sub><br>
 <sub>In unter einer Stunde gemacht. Jedes Frame besteht aus rund 1,5 Millionen Pinselstrichen und läuft mit 200 fps in einem Browser-Tab. Open Source.</sub><br>
 <sub><a href="https://fablelist.000ooo.ooo/de/prompts/?w=oil-paint-hand-painted-game&ref=gh"><b>✨ Prompt holen</b></a></sub>
 </td>
@@ -139,19 +139,19 @@
 <sub><a href="https://fablelist.000ooo.ooo/de/prompts/?w=portals-endless-worlds&ref=gh"><b>✨ Prompt holen</b></a></sub>
 </td>
 <td width="33%" valign="top">
+<a href="https://patch.gg/play/blendi/small-magic"><img src="assets/gifs/274.gif" width="100%" alt="Small Magic — Zauberer-Sandbox"></a><br>
+<b><a href="https://patch.gg/play/blendi/small-magic">Small Magic — Zauberer-Sandbox</a></b><br>
+<sub>🆕 · <a href="https://x.com/BlendiByl">@BlendiByl</a> · ♥ 1.8k · <a href="https://x.com/BlendiByl/status/2121594536153718972">▶ Video</a></sub><br>
+<sub>An einem Tag gebaut: 7 Zauber, rund 1.800 zerstörbare Physikteile, keine Modelle oder Texturen, Open Source.</sub>
+</td>
+</tr>
+<tr>
+<td width="33%" valign="top">
 <a href="https://evensong-phi.vercel.app/"><img src="assets/gifs/126.gif" width="100%" alt="Evensong"></a><br>
 <b><a href="https://evensong-phi.vercel.app/">Evensong</a></b><br>
 <sub><a href="https://x.com/kevin_t_ngo">@kevin_t_ngo</a> · ♥ 1.8k · <a href="https://x.com/kevin_t_ngo/status/2120238844754923874">▶ Video</a></sub><br>
 <sub>Ein düsterer Fantasy-Bosskampf im Souls-like-Stil, im Browser spielbar.</sub><br>
 <sub><a href="https://fablelist.000ooo.ooo/de/prompts/?w=evensong&ref=gh"><b>✨ Prompt holen</b></a></sub>
-</td>
-</tr>
-<tr>
-<td width="33%" valign="top">
-<a href="https://patch.gg/play/blendi/small-magic"><img src="assets/gifs/274.gif" width="100%" alt="Small Magic — Zauberer-Sandbox"></a><br>
-<b><a href="https://patch.gg/play/blendi/small-magic">Small Magic — Zauberer-Sandbox</a></b><br>
-<sub>🆕 · <a href="https://x.com/BlendiByl">@BlendiByl</a> · ♥ 1.5k · <a href="https://x.com/BlendiByl/status/2121594536153718972">▶ Video</a></sub><br>
-<sub>An einem Tag gebaut: 7 Zauber, rund 1.800 zerstörbare Physikteile, keine Modelle oder Texturen, Open Source.</sub>
 </td>
 <td width="33%" valign="top">
 <a href="https://loktar00.github.io/lanternfall/"><img src="assets/gifs/128.gif" width="100%" alt="LANTERNFALL"></a><br>
@@ -170,7 +170,7 @@
 </tr>
 </table>
 
-<p align="center"><b><a href="all/games.de.md">Alle 81 ansehen →</a></b></p>
+<p align="center"><b><a href="all/games.de.md">Alle 82 ansehen →</a></b></p>
 
 <div align="right"><a href="#-inhalt">↑ Zurück zum Inhalt</a></div>
 
@@ -181,7 +181,7 @@
 <td width="33%" valign="top">
 <a href="https://claude.ai/artifact/QGWUAjRrzRzZWGcQzSMLfa"><img src="assets/gifs/023.gif" width="100%" alt="Claude App auf einem Blender-Laptop"></a><br>
 <b><a href="https://claude.ai/artifact/QGWUAjRrzRzZWGcQzSMLfa">Claude App auf einem Blender-Laptop</a></b><br>
-<sub><a href="https://x.com/rileybrown">@rileybrown</a> · ♥ 7.0k · <a href="https://x.com/rileybrown/status/2119902109709537708">▶ Video</a></sub><br>
+<sub><a href="https://x.com/rileybrown">@rileybrown</a> · ♥ 7.1k · <a href="https://x.com/rileybrown/status/2119902109709537708">▶ Video</a></sub><br>
 <sub>Ein Prompt hat den ganzen Raum in Blender gebaut und in 4K gerendert. Das ist die Webseite auf dem Laptop-Bildschirm.</sub><br>
 <sub><a href="https://x.com/rileybrown/status/2119902109709537708">📝 Prompt des Creators (kostenlos)</a></sub>
 </td>
@@ -211,14 +211,14 @@
 <td width="33%" valign="top">
 <a href="https://fable-rome.surge.sh/"><img src="assets/gifs/136.gif" width="100%" alt="Rome, AD 320"></a><br>
 <b><a href="https://fable-rome.surge.sh/">Rome, AD 320</a></b><br>
-<sub><a href="https://x.com/petergostev">@petergostev</a> · ♥ 968 · <a href="https://x.com/petergostev/status/2120167560700383572">▶ Video</a></sub><br>
+<sub><a href="https://x.com/petergostev">@petergostev</a> · ♥ 967 · <a href="https://x.com/petergostev/status/2120167560700383572">▶ Video</a></sub><br>
 <sub>Ein Prompt, Fable 5.2 (Max) lief über Nacht, 2.618 $.</sub><br>
 <sub><a href="https://x.com/petergostev/status/2120167560700383572">📝 Prompt des Creators (kostenlos)</a></sub>
 </td>
 <td width="33%" valign="top">
 <a href="https://github.com/Leonxlnx/room-at-dawn"><img src="assets/gifs/219.gif" width="100%" alt="Room at Dawn"></a><br>
 <b><a href="https://github.com/Leonxlnx/room-at-dawn">Room at Dawn</a></b><br>
-<sub>🆕 · <a href="https://x.com/LexnLin">@LexnLin</a> · ♥ 852 · <a href="https://x.com/LexnLin/status/2120910879361548565">▶ Video</a></sub><br>
+<sub>🆕 · <a href="https://x.com/LexnLin">@LexnLin</a> · ♥ 853 · <a href="https://x.com/LexnLin/status/2120910879361548565">▶ Video</a></sub><br>
 <sub>Ein fotorealistisches Schlafzimmer in three.js ohne vorgefertigte Modelle oder Texturen; alles ist Code.</sub><br>
 <sub><a href="https://fablelist.000ooo.ooo/de/prompts/?w=room-at-dawn&ref=gh"><b>✨ Prompt holen</b></a></sub>
 </td>
@@ -227,13 +227,13 @@
 <td width="33%" valign="top">
 <a href="https://fable-rover.vercel.app"><img src="assets/gifs/278.gif" width="100%" alt="ER-6 Terrain Explorer — ein selbstfahrender Mars-Rover"></a><br>
 <b><a href="https://fable-rover.vercel.app">ER-6 Terrain Explorer — ein selbstfahrender Mars-Rover</a></b><br>
-<sub>🆕 · <a href="https://x.com/DilumSanjaya">@DilumSanjaya</a> · ♥ 779 · <a href="https://x.com/DilumSanjaya/status/2120561077385867663">▶ Video</a></sub><br>
+<sub>🆕 · <a href="https://x.com/DilumSanjaya">@DilumSanjaya</a> · ♥ 780 · <a href="https://x.com/DilumSanjaya/status/2120561077385867663">▶ Video</a></sub><br>
 <sub>Fable 5.2 entwarf eine Rocker-Bogie-Aufhängung wie bei den Mars-Rovern der NASA und simulierte die Fahrt über außerirdisches Gelände.</sub>
 </td>
 <td width="33%" valign="top">
 <a href="https://supernatural-ft.vercel.app/fire-in-ice"><img src="assets/gifs/221.gif" width="100%" alt="Fire in Ice"></a><br>
 <b><a href="https://supernatural-ft.vercel.app/fire-in-ice">Fire in Ice</a></b><br>
-<sub>🆕 · <a href="https://x.com/tkm_hmng8">@tkm_hmng8</a> · ♥ 548 · <a href="https://x.com/tkm_hmng8/status/2120813043101946324">▶ Video</a></sub><br>
+<sub>🆕 · <a href="https://x.com/tkm_hmng8">@tkm_hmng8</a> · ♥ 550 · <a href="https://x.com/tkm_hmng8/status/2120813043101946324">▶ Video</a></sub><br>
 <sub>Realistisches Feuer, das in Eis brennt, in reinem WebGPU ohne three.js geschrieben.</sub><br>
 <sub><a href="https://fablelist.000ooo.ooo/de/prompts/?w=fire-in-ice&ref=gh"><b>✨ Prompt holen</b></a></sub>
 </td>
@@ -271,7 +271,7 @@
 </tr>
 </table>
 
-<p align="center"><b><a href="all/3d-worlds.de.md">Alle 35 ansehen →</a></b></p>
+<p align="center"><b><a href="all/3d-worlds.de.md">Alle 36 ansehen →</a></b></p>
 
 <div align="right"><a href="#-inhalt">↑ Zurück zum Inhalt</a></div>
 
@@ -282,7 +282,7 @@
 <td width="33%" valign="top">
 <a href="https://claudia.gallery"><img src="assets/gifs/038.gif" width="100%" alt="Claudia Gallery"></a><br>
 <b><a href="https://claudia.gallery">Claudia Gallery</a></b><br>
-<sub><a href="https://x.com/anabology">@anabology</a> · ♥ 5.3k · <a href="https://x.com/anabology/status/2120010995309457643">▶ Video</a></sub><br>
+<sub><a href="https://x.com/anabology">@anabology</a> · ♥ 5.4k · <a href="https://x.com/anabology/status/2120010995309457643">▶ Video</a></sub><br>
 <sub>„Make the video of your dreams“ – zwei Einstellungen, 9 Stunden.</sub><br>
 <sub><a href="https://fablelist.000ooo.ooo/de/prompts/?w=claudia-gallery&ref=gh"><b>✨ Prompt holen</b></a></sub>
 </td>
@@ -374,7 +374,7 @@
 </tr>
 </table>
 
-<p align="center"><b><a href="all/web-and-tools.de.md">Alle 34 ansehen →</a></b></p>
+<p align="center"><b><a href="all/web-and-tools.de.md">Alle 35 ansehen →</a></b></p>
 
 <div align="right"><a href="#-inhalt">↑ Zurück zum Inhalt</a></div>
 
@@ -392,7 +392,7 @@
 <td width="33%" valign="top">
 <a href="https://github.com/amirmushichge/shred-kit"><img src="assets/gifs/269.gif" width="100%" alt="Shred Kit Papier-Schredder-Vorlage"></a><br>
 <b><a href="https://github.com/amirmushichge/shred-kit">Shred Kit Papier-Schredder-Vorlage</a></b><br>
-<sub>🆕 · <a href="https://x.com/AmirMushich">@AmirMushich</a> · ♥ 405 · <a href="https://x.com/AmirMushich/status/2121339167800213934">▶ Video</a></sub><br>
+<sub>🆕 · <a href="https://x.com/AmirMushich">@AmirMushich</a> · ♥ 408 · <a href="https://x.com/AmirMushich/status/2121339167800213934">▶ Video</a></sub><br>
 <sub>Ein 8-sekündiges Papier-Schredder-Reel, gemacht mit Fable 5.2 und Blender, als kostenlose Vorlage geteilt.</sub>
 </td>
 <td width="33%" valign="top">
@@ -472,18 +472,18 @@ Die Creator haben ein Video, aber keinen Link geteilt. Klick auf die Vorschau f�
 </tr>
 <tr>
 <td width="33%" valign="top">
-<a href="https://x.com/dominikmartn/status/2120154832694858224"><img src="assets/gifs/236.gif" width="100%" alt="Es kann tatsächlich designen"></a><br>
-<b><a href="https://x.com/dominikmartn/status/2120154832694858224">Es kann tatsächlich designen</a></b><br>
-<sub>🆕 · <a href="https://x.com/dominikmartn">@dominikmartn</a> · ♥ 7.2k · <a href="https://x.com/dominikmartn/status/2120154832694858224">▶ Video</a></sub><br>
-<br>
-<sub><a href="https://fablelist.000ooo.ooo/de/prompts/?w=it-can-actually-design&ref=gh"><b>✨ Prompt holen</b></a></sub>
-</td>
-<td width="33%" valign="top">
 <a href="https://x.com/everestchris6/status/2120175941616128277"><img src="assets/gifs/207.gif" width="100%" alt="2D-Grundrisse, in 3D-Rundgänge verwandelt"></a><br>
 <b><a href="https://x.com/everestchris6/status/2120175941616128277">2D-Grundrisse, in 3D-Rundgänge verwandelt</a></b><br>
 <sub>🆕 · <a href="https://x.com/everestchris6">@everestchris6</a> · ♥ 7.2k · <a href="https://x.com/everestchris6/status/2120175941616128277">▶ Video</a></sub><br>
 <br>
 <sub><a href="https://x.com/everestchris6/status/2120175941616128277">📝 Prompt des Creators (kostenlos)</a></sub>
+</td>
+<td width="33%" valign="top">
+<a href="https://x.com/dominikmartn/status/2120154832694858224"><img src="assets/gifs/236.gif" width="100%" alt="Es kann tatsächlich designen"></a><br>
+<b><a href="https://x.com/dominikmartn/status/2120154832694858224">Es kann tatsächlich designen</a></b><br>
+<sub>🆕 · <a href="https://x.com/dominikmartn">@dominikmartn</a> · ♥ 7.2k · <a href="https://x.com/dominikmartn/status/2120154832694858224">▶ Video</a></sub><br>
+<br>
+<sub><a href="https://fablelist.000ooo.ooo/de/prompts/?w=it-can-actually-design&ref=gh"><b>✨ Prompt holen</b></a></sub>
 </td>
 <td width="33%" valign="top">
 <a href="https://x.com/suna_gaku/status/2119952985933697063"><img src="assets/gifs/208.gif" width="100%" alt="„Show me your best video“"></a><br>
@@ -511,7 +511,7 @@ Die Creator haben ein Video, aber keinen Link geteilt. Klick auf die Vorschau f�
 <td width="33%" valign="top">
 <a href="https://x.com/MrTacticalX/status/2121082861902070130"><img src="assets/gifs/253.gif" width="100%" alt="Drei Fable-5.2-Agents bauen in 7 h 41 min einen Computer"></a><br>
 <b><a href="https://x.com/MrTacticalX/status/2121082861902070130">Drei Fable-5.2-Agents bauen in 7 h 41 min einen Computer</a></b><br>
-<sub>🆕 · <a href="https://x.com/MrTacticalX">@MrTacticalX</a> · ♥ 4.4k · <a href="https://x.com/MrTacticalX/status/2121082861902070130">▶ Video</a></sub><br>
+<sub>🆕 · <a href="https://x.com/MrTacticalX">@MrTacticalX</a> · ♥ 4.5k · <a href="https://x.com/MrTacticalX/status/2121082861902070130">▶ Video</a></sub><br>
 <br>
 <sub><a href="https://fablelist.000ooo.ooo/de/prompts/?w=three-fable-5-2-agents-build-a-computer&ref=gh"><b>✨ Prompt holen</b></a></sub>
 </td>
@@ -541,7 +541,7 @@ Die Creator haben ein Video, aber keinen Link geteilt. Klick auf die Vorschau f�
 </tr>
 </table>
 
-<p align="center"><b><a href="all/video-demos.de.md">Alle 117 ansehen →</a></b></p>
+<p align="center"><b><a href="all/video-demos.de.md">Alle 119 ansehen →</a></b></p>
 
 ## 🤝 Mitmachen
 
@@ -561,7 +561,7 @@ Alle Werke gehören ihren Creators. Dieses Repository indexiert sie nur, mit kur
 
 ## 📰 Neuigkeiten
 
-- **2026-11-15**: +6 Live-Werke und +5 Video-Demos.
+- **2026-11-15**: +9 Live-Werke und +7 Video-Demos.
 - **2026-11-14**: +13 Live-Werke und +2 Video-Demos.
 - **2026-11-13**: +41 Live-Werke und +24 Video-Demos.
 - **2026-11-12**: +45 Live-Werke und +26 Video-Demos.

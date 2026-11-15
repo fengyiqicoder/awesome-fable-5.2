@@ -1,4 +1,4 @@
-# 🧰 Сайты и инструменты · все 34
+# 🧰 Сайты и инструменты · все 35
 
 [← Назад к списку](../README.ru.md) · [English](web-and-tools.md) · [简体中文](web-and-tools.zh-CN.md) · [繁體中文](web-and-tools.zh-TW.md) · [日本語](web-and-tools.ja.md) · [한국어](web-and-tools.ko.md) · [Español](web-and-tools.es.md) · [Português](web-and-tools.pt-BR.md) · [Français](web-and-tools.fr.md) · [Deutsch](web-and-tools.de.md) · **Русский**
 
@@ -9,7 +9,7 @@
 <td width="33%" valign="top">
 <a href="https://claudia.gallery"><img src="../assets/gifs/038.gif" width="100%" alt="Claudia Gallery"></a><br>
 <b><a href="https://claudia.gallery">Claudia Gallery</a></b><br>
-<sub><a href="https://x.com/anabology">@anabology</a> · ♥ 5.3k · <a href="https://x.com/anabology/status/2120010995309457643">▶ Видео</a></sub><br>
+<sub><a href="https://x.com/anabology">@anabology</a> · ♥ 5.4k · <a href="https://x.com/anabology/status/2120010995309457643">▶ Видео</a></sub><br>
 <sub>«Make the video of your dreams» — два кадра, 9 часов.</sub><br>
 <sub><a href="https://fablelist.000ooo.ooo/ru/prompts/?w=claudia-gallery&ref=gh"><b>✨ Получить промпт</b></a></sub>
 </td>
@@ -108,18 +108,18 @@
 <sub><a href="https://x.com/rileybrown/status/2119946022767980985">📝 Промпт автора (бесплатно)</a></sub>
 </td>
 <td width="33%" valign="top">
+<a href="https://auden-english-135.netlify.app/"><img src="../assets/gifs/281.gif" width="100%" alt="Утраченный курс поэзии Одена 1941 года, восстановленный"></a><br>
+<b><a href="https://auden-english-135.netlify.app/">Утраченный курс поэзии Одена 1941 года, восстановленный</a></b><br>
+<sub>🆕 · <a href="https://x.com/emollick">@emollick</a> · ♥ 480 · <a href="https://x.com/emollick/status/2121641417483169934">Пост</a></sub><br>
+<sub>Fable 5.2 восстановил курс У. Х. Одена, «самый сложный в гуманитарных науках», по малоизвестной книге из Internet Archive и разрозненным заметкам.</sub>
+</td>
+<td width="33%" valign="top">
 <a href="https://where-is-everybody-fermi.netlify.app/"><img src="../assets/gifs/146.gif" width="100%" alt="Where Is Everybody?"></a><br>
 <b><a href="https://where-is-everybody-fermi.netlify.app/">Where Is Everybody?</a></b><br>
 <sub><a href="https://x.com/emollick">@emollick</a> · ♥ 456 · <a href="https://x.com/emollick/status/2120359214157603139">Пост</a></sub><br>
 <sub>На задачу «solve the Fermi Paradox» собирает данные, проверяет гипотезы и испытывает их на прочность перед критиками.</sub><br>
 <sub><a href="https://resolving-the-great-silence.netlify.app/">Gemini Carbon version</a></sub><br>
 <sub><a href="https://x.com/emollick/status/2120359214157603139">📝 Промпт автора (бесплатно)</a></sub>
-</td>
-<td width="33%" valign="top">
-<a href="https://auden-english-135.netlify.app/"><img src="../assets/gifs/281.gif" width="100%" alt="Утраченный курс поэзии Одена 1941 года, восстановленный"></a><br>
-<b><a href="https://auden-english-135.netlify.app/">Утраченный курс поэзии Одена 1941 года, восстановленный</a></b><br>
-<sub>🆕 · <a href="https://x.com/emollick">@emollick</a> · ♥ 432 · <a href="https://x.com/emollick/status/2121641417483169934">Пост</a></sub><br>
-<sub>Fable 5.2 восстановил курс У. Х. Одена, «самый сложный в гуманитарных науках», по малоизвестной книге из Internet Archive и разрозненным заметкам.</sub>
 </td>
 </tr>
 <tr>
@@ -149,14 +149,14 @@
 <td width="33%" valign="top">
 <a href="https://clockendbader.github.io/fable-builds/heartbeat/"><img src="../assets/gifs/259.gif" width="100%" alt="One Heartbeat"></a><br>
 <b><a href="https://clockendbader.github.io/fable-builds/heartbeat/">One Heartbeat</a></b><br>
-<sub>🆕 · <a href="https://x.com/clockendbader">@clockendbader</a> · ♥ 141 · <a href="https://x.com/clockendbader/status/2121246903207961069">Пост</a></sub><br>
+<sub>🆕 · <a href="https://x.com/clockendbader">@clockendbader</a> · ♥ 151 · <a href="https://x.com/clockendbader/status/2121246903207961069">Пост</a></sub><br>
 <sub>Бьющееся 3D-сердце с живыми кривыми ЭКГ и давления и тонами сердца; сравните норму, фибрилляцию предсердий, блокаду сердца и аортальный стеноз. Он ещё и сам написал себе тесты.</sub><br>
 <sub><a href="https://fablelist.000ooo.ooo/ru/prompts/?w=one-heartbeat&ref=gh"><b>✨ Получить промпт</b></a></sub>
 </td>
 <td width="33%" valign="top">
 <a href="https://patch.gg/patch/anymove"><img src="../assets/gifs/149.gif" width="100%" alt="anymove"></a><br>
 <b><a href="https://patch.gg/patch/anymove">anymove</a></b><br>
-<sub><a href="https://x.com/rehan_shei">@rehan_shei</a> · ♥ 140 · <a href="https://x.com/rehan_shei/status/2120409150870159414">▶ Видео</a></sub><br>
+<sub><a href="https://x.com/rehan_shei">@rehan_shei</a> · ♥ 141 · <a href="https://x.com/rehan_shei/status/2120409150870159414">▶ Видео</a></sub><br>
 <sub>Переносит движения из ИИ-видеоклипа на настоящий 3D-риг — без мокап-костюма и без ключевых кадров. Открытый исходный код.</sub><br>
 <sub><a href="https://fablelist.000ooo.ooo/ru/prompts/?w=anymove&ref=gh"><b>✨ Получить промпт</b></a></sub>
 </td>
@@ -178,7 +178,7 @@
 <td width="33%" valign="top">
 <a href="https://github.com/kanaworksai-hue/harappa"><img src="../assets/gifs/250.gif" width="100%" alt="Harappa (аддон для Blender)"></a><br>
 <b><a href="https://github.com/kanaworksai-hue/harappa">Harappa (аддон для Blender)</a></b><br>
-<sub>🆕 · <a href="https://x.com/KanaWorks_AI">@KanaWorks_AI</a> · ♥ 77 · <a href="https://x.com/KanaWorks_AI/status/2121221880673972463">▶ Видео</a></sub><br>
+<sub>🆕 · <a href="https://x.com/KanaWorks_AI">@KanaWorks_AI</a> · ♥ 78 · <a href="https://x.com/KanaWorks_AI/status/2121221880673972463">▶ Видео</a></sub><br>
 <sub>Бесплатный аддон для Blender, который одним кликом превращает голый холм в луг в стиле аниме: трава, цветы, облака, деревья, времена года и стили.</sub><br>
 <sub><a href="https://fablelist.000ooo.ooo/ru/prompts/?w=harappa-blender-add-on&ref=gh"><b>✨ Получить промпт</b></a></sub>
 </td>
@@ -239,6 +239,12 @@
 </tr>
 <tr>
 <td width="33%" valign="top">
+<a href="https://uberdesigner.ai/t/araneae"><img src="../assets/gifs/290.gif" width="100%" alt="araneae"></a><br>
+<b><a href="https://uberdesigner.ai/t/araneae">araneae</a></b><br>
+<sub>🆕 · <a href="https://x.com/seanaiux">@seanaiux</a> · ♥ 5 · <a href="https://x.com/seanaiux/status/2121688869439455410">▶ Видео</a></sub><br>
+<sub>Задача — сайт, который его напугает: паук спускается из темноты, а прокрутка ведёт через его логово, глаза, клыки и лапы, пока мухой не становитесь вы.</sub>
+</td>
+<td width="33%" valign="top">
 <a href="https://claude.ai/artifact/Pk6rHPyRwfShT37kiU1sT6"><img src="../assets/gifs/041.gif" width="100%" alt="Дабтехно-трек + визуализатор"></a><br>
 <b><a href="https://claude.ai/artifact/Pk6rHPyRwfShT37kiU1sT6">Дабтехно-трек + визуализатор</a></b><br>
 <sub><a href="https://x.com/bartdecrem">@bartdecrem</a> · ♥ 4 · <a href="https://x.com/bartdecrem/status/2119926997422133417">Пост</a></sub><br>
@@ -252,6 +258,8 @@
 <sub>Связи главного актёра по крови и браку с 65 звёздами Болливуда.</sub><br>
 <sub><a href="https://fablelist.000ooo.ooo/ru/prompts/?w=ramayana-family-tree&ref=gh"><b>✨ Получить промпт</b></a></sub>
 </td>
+</tr>
+<tr>
 <td width="33%" valign="top">
 <a href="https://claude.ai/artifact/4aEy6FtUi7jrm9U7uYgp8K"><img src="../assets/gifs/042.gif" width="100%" alt="Demoscene Demo"></a><br>
 <b><a href="https://claude.ai/artifact/4aEy6FtUi7jrm9U7uYgp8K">Demoscene Demo</a></b><br>
@@ -259,8 +267,6 @@
 <sub>«Make a demo in the demoscene tradition that runs in the browser».</sub><br>
 <sub><a href="https://x.com/ndril/status/2119899340642894235">📝 Промпт автора (бесплатно)</a></sub>
 </td>
-</tr>
-<tr>
 <td width="33%" valign="top">
 <a href="https://claude.ai/artifact/H8E7AonW2KFrzdRimaLeXb"><img src="../assets/gifs/043.gif" width="100%" alt="112 Forms of Meditation"></a><br>
 <b><a href="https://claude.ai/artifact/H8E7AonW2KFrzdRimaLeXb">112 Forms of Meditation</a></b><br>

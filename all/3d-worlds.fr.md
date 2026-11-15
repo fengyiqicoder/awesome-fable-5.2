@@ -1,4 +1,4 @@
-# 🌍 Mondes et scènes 3D · les 35
+# 🌍 Mondes et scènes 3D · les 36
 
 [← Retour à la liste](../README.fr.md) · [English](3d-worlds.md) · [简体中文](3d-worlds.zh-CN.md) · [繁體中文](3d-worlds.zh-TW.md) · [日本語](3d-worlds.ja.md) · [한국어](3d-worlds.ko.md) · [Español](3d-worlds.es.md) · [Português](3d-worlds.pt-BR.md) · **Français** · [Deutsch](3d-worlds.de.md) · [Русский](3d-worlds.ru.md)
 
@@ -9,7 +9,7 @@ La page principale affiche au plus les 12 entrées les plus aimées de chaque se
 <td width="33%" valign="top">
 <a href="https://claude.ai/artifact/QGWUAjRrzRzZWGcQzSMLfa"><img src="../assets/gifs/023.gif" width="100%" alt="Claude App sur un laptop Blender"></a><br>
 <b><a href="https://claude.ai/artifact/QGWUAjRrzRzZWGcQzSMLfa">Claude App sur un laptop Blender</a></b><br>
-<sub><a href="https://x.com/rileybrown">@rileybrown</a> · ♥ 7.0k · <a href="https://x.com/rileybrown/status/2119902109709537708">▶ Vidéo</a></sub><br>
+<sub><a href="https://x.com/rileybrown">@rileybrown</a> · ♥ 7.1k · <a href="https://x.com/rileybrown/status/2119902109709537708">▶ Vidéo</a></sub><br>
 <sub>Un seul prompt a construit toute la pièce dans Blender et l'a rendue en 4K. Voici la page web affichée sur l'écran du laptop.</sub><br>
 <sub><a href="https://x.com/rileybrown/status/2119902109709537708">📝 Prompt du créateur (gratuit)</a></sub>
 </td>
@@ -39,14 +39,14 @@ La page principale affiche au plus les 12 entrées les plus aimées de chaque se
 <td width="33%" valign="top">
 <a href="https://fable-rome.surge.sh/"><img src="../assets/gifs/136.gif" width="100%" alt="Rome, AD 320"></a><br>
 <b><a href="https://fable-rome.surge.sh/">Rome, AD 320</a></b><br>
-<sub><a href="https://x.com/petergostev">@petergostev</a> · ♥ 968 · <a href="https://x.com/petergostev/status/2120167560700383572">▶ Vidéo</a></sub><br>
+<sub><a href="https://x.com/petergostev">@petergostev</a> · ♥ 967 · <a href="https://x.com/petergostev/status/2120167560700383572">▶ Vidéo</a></sub><br>
 <sub>Un prompt, Fable 5.2 (Max) tournant toute la nuit, 2 618 $.</sub><br>
 <sub><a href="https://x.com/petergostev/status/2120167560700383572">📝 Prompt du créateur (gratuit)</a></sub>
 </td>
 <td width="33%" valign="top">
 <a href="https://github.com/Leonxlnx/room-at-dawn"><img src="../assets/gifs/219.gif" width="100%" alt="Room at Dawn"></a><br>
 <b><a href="https://github.com/Leonxlnx/room-at-dawn">Room at Dawn</a></b><br>
-<sub>🆕 · <a href="https://x.com/LexnLin">@LexnLin</a> · ♥ 852 · <a href="https://x.com/LexnLin/status/2120910879361548565">▶ Vidéo</a></sub><br>
+<sub>🆕 · <a href="https://x.com/LexnLin">@LexnLin</a> · ♥ 853 · <a href="https://x.com/LexnLin/status/2120910879361548565">▶ Vidéo</a></sub><br>
 <sub>Une chambre photoréaliste en three.js sans modèles ni textures préfabriqués ; tout est du code.</sub><br>
 <sub><a href="https://fablelist.000ooo.ooo/fr/prompts/?w=room-at-dawn&ref=gh"><b>✨ Obtenir le prompt</b></a></sub>
 </td>
@@ -55,13 +55,13 @@ La page principale affiche au plus les 12 entrées les plus aimées de chaque se
 <td width="33%" valign="top">
 <a href="https://fable-rover.vercel.app"><img src="../assets/gifs/278.gif" width="100%" alt="ER-6 Terrain Explorer — un rover martien autonome"></a><br>
 <b><a href="https://fable-rover.vercel.app">ER-6 Terrain Explorer — un rover martien autonome</a></b><br>
-<sub>🆕 · <a href="https://x.com/DilumSanjaya">@DilumSanjaya</a> · ♥ 779 · <a href="https://x.com/DilumSanjaya/status/2120561077385867663">▶ Vidéo</a></sub><br>
+<sub>🆕 · <a href="https://x.com/DilumSanjaya">@DilumSanjaya</a> · ♥ 780 · <a href="https://x.com/DilumSanjaya/status/2120561077385867663">▶ Vidéo</a></sub><br>
 <sub>Fable 5.2 a conçu une suspension rocker-bogie comme celle des rovers martiens de la NASA, puis l'a simulée sur un terrain extraterrestre.</sub>
 </td>
 <td width="33%" valign="top">
 <a href="https://supernatural-ft.vercel.app/fire-in-ice"><img src="../assets/gifs/221.gif" width="100%" alt="Fire in Ice"></a><br>
 <b><a href="https://supernatural-ft.vercel.app/fire-in-ice">Fire in Ice</a></b><br>
-<sub>🆕 · <a href="https://x.com/tkm_hmng8">@tkm_hmng8</a> · ♥ 548 · <a href="https://x.com/tkm_hmng8/status/2120813043101946324">▶ Vidéo</a></sub><br>
+<sub>🆕 · <a href="https://x.com/tkm_hmng8">@tkm_hmng8</a> · ♥ 550 · <a href="https://x.com/tkm_hmng8/status/2120813043101946324">▶ Vidéo</a></sub><br>
 <sub>Un feu réaliste brûlant à l'intérieur de la glace, écrit en WebGPU brut sans three.js.</sub><br>
 <sub><a href="https://fablelist.000ooo.ooo/fr/prompts/?w=fire-in-ice&ref=gh"><b>✨ Obtenir le prompt</b></a></sub>
 </td>
@@ -109,7 +109,7 @@ La page principale affiche au plus les 12 entrées les plus aimées de chaque se
 <td width="33%" valign="top">
 <a href="https://planet.tokyoaivisuals.club/"><img src="../assets/gifs/266.gif" width="100%" alt="Code Planet"></a><br>
 <b><a href="https://planet.tokyoaivisuals.club/">Code Planet</a></b><br>
-<sub>🆕 · <a href="https://x.com/KanaWorks_AI">@KanaWorks_AI</a> · ♥ 181 · <a href="https://x.com/KanaWorks_AI/status/2121413647213932688">▶ Vidéo</a></sub><br>
+<sub>🆕 · <a href="https://x.com/KanaWorks_AI">@KanaWorks_AI</a> · ♥ 188 · <a href="https://x.com/KanaWorks_AI/status/2121413647213932688">▶ Vidéo</a></sub><br>
 <sub>Une planète entière en moins de 320 Ko de code. Volez de la mer et des prairies aux cerisiers en fleurs jusque dans l'espace, directement dans le navigateur.</sub>
 </td>
 <td width="33%" valign="top">
@@ -193,17 +193,17 @@ La page principale affiche au plus les 12 entrées les plus aimées de chaque se
 </tr>
 <tr>
 <td width="33%" valign="top">
+<a href="https://vancouver-claude.webly.site"><img src="../assets/gifs/280.gif" width="100%" alt="Vancouver, heure dorée sur English Bay"></a><br>
+<b><a href="https://vancouver-claude.webly.site">Vancouver, heure dorée sur English Bay</a></b><br>
+<sub>🆕 · <a href="https://x.com/tokifyi">@tokifyi</a> · ♥ 28 · <a href="https://x.com/tokifyi/status/2121644293270200354">Publication</a></sub><br>
+<sub>Un panorama de Vancouver au coucher du soleil dessiné entièrement en JavaScript.</sub>
+</td>
+<td width="33%" valign="top">
 <a href="https://galaxy-dive.vercel.app"><img src="../assets/gifs/141.gif" width="100%" alt="Galaxy Dive"></a><br>
 <b><a href="https://galaxy-dive.vercel.app">Galaxy Dive</a></b><br>
 <sub><a href="https://x.com/handsher_NGU">@handsher_NGU</a> · ♥ 24 · <a href="https://x.com/handsher_NGU/status/2119910478025789655">▶ Vidéo</a></sub><br>
 <sub>« Dieu a mis 6 jours, Fable 5.2 a mis 20 min. » Plongez dans une galaxie.</sub><br>
 <sub><a href="https://fablelist.000ooo.ooo/fr/prompts/?w=galaxy-dive&ref=gh"><b>✨ Obtenir le prompt</b></a></sub>
-</td>
-<td width="33%" valign="top">
-<a href="https://vancouver-claude.webly.site"><img src="../assets/gifs/280.gif" width="100%" alt="Vancouver, heure dorée sur English Bay"></a><br>
-<b><a href="https://vancouver-claude.webly.site">Vancouver, heure dorée sur English Bay</a></b><br>
-<sub>🆕 · <a href="https://x.com/tokifyi">@tokifyi</a> · ♥ 24 · <a href="https://x.com/tokifyi/status/2121644293270200354">Publication</a></sub><br>
-<sub>Un panorama de Vancouver au coucher du soleil dessiné entièrement en JavaScript.</sub>
 </td>
 <td width="33%" valign="top">
 <a href="https://calibre-watch-snowy.vercel.app/"><img src="../assets/gifs/192.gif" width="100%" alt="Montre Calibre 5.2"></a><br>
@@ -259,6 +259,13 @@ La page principale affiche au plus les 12 entrées les plus aimées de chaque se
 </td>
 </tr>
 <tr>
+<td width="33%" valign="top">
+<a href="https://davinci-mechanics.vercel.app/"><img src="../assets/gifs/289.gif" width="100%" alt="Le codex vivant de Léonard de Vinci"></a><br>
+<b><a href="https://davinci-mechanics.vercel.app/">Le codex vivant de Léonard de Vinci</a></b><br>
+<sub>🆕 · <a href="https://x.com/CoderRw11326">@CoderRw11326</a> · ♥ 4 · <a href="https://x.com/CoderRw11326/status/2121286814103421012">▶ Vidéo</a></sub><br>
+<sub>Ouvrez le carnet : une plume esquisse les machines de Léonard, qui deviennent des mécanismes en bois à faire tourner et à démonter. Aucun modèle 3D, texture ni fichier audio : tout est en code.</sub><br>
+<sub><a href="https://github.com/coding-nanami/davinci-mechanics">Code source</a></sub>
+</td>
 <td width="33%" valign="top">
 <a href="https://claude.ai/artifact/BCDCNHRTq3y9W4Px3xc4DN"><img src="../assets/gifs/030.gif" width="100%" alt="A Hamlet on a Giant Snail"></a><br>
 <b><a href="https://claude.ai/artifact/BCDCNHRTq3y9W4Px3xc4DN">A Hamlet on a Giant Snail</a></b><br>

@@ -1,4 +1,4 @@
-# 🧰 Pages web et outils · les 34
+# 🧰 Pages web et outils · les 35
 
 [← Retour à la liste](../README.fr.md) · [English](web-and-tools.md) · [简体中文](web-and-tools.zh-CN.md) · [繁體中文](web-and-tools.zh-TW.md) · [日本語](web-and-tools.ja.md) · [한국어](web-and-tools.ko.md) · [Español](web-and-tools.es.md) · [Português](web-and-tools.pt-BR.md) · **Français** · [Deutsch](web-and-tools.de.md) · [Русский](web-and-tools.ru.md)
 
@@ -9,7 +9,7 @@ La page principale affiche au plus les 12 entrées les plus aimées de chaque se
 <td width="33%" valign="top">
 <a href="https://claudia.gallery"><img src="../assets/gifs/038.gif" width="100%" alt="Claudia Gallery"></a><br>
 <b><a href="https://claudia.gallery">Claudia Gallery</a></b><br>
-<sub><a href="https://x.com/anabology">@anabology</a> · ♥ 5.3k · <a href="https://x.com/anabology/status/2120010995309457643">▶ Vidéo</a></sub><br>
+<sub><a href="https://x.com/anabology">@anabology</a> · ♥ 5.4k · <a href="https://x.com/anabology/status/2120010995309457643">▶ Vidéo</a></sub><br>
 <sub>« Fais la vidéo de tes rêves » — deux plans, 9 heures.</sub><br>
 <sub><a href="https://fablelist.000ooo.ooo/fr/prompts/?w=claudia-gallery&ref=gh"><b>✨ Obtenir le prompt</b></a></sub>
 </td>
@@ -108,18 +108,18 @@ La page principale affiche au plus les 12 entrées les plus aimées de chaque se
 <sub><a href="https://x.com/rileybrown/status/2119946022767980985">📝 Prompt du créateur (gratuit)</a></sub>
 </td>
 <td width="33%" valign="top">
+<a href="https://auden-english-135.netlify.app/"><img src="../assets/gifs/281.gif" width="100%" alt="Le cours de poésie perdu d'Auden de 1941, reconstitué"></a><br>
+<b><a href="https://auden-english-135.netlify.app/">Le cours de poésie perdu d'Auden de 1941, reconstitué</a></b><br>
+<sub>🆕 · <a href="https://x.com/emollick">@emollick</a> · ♥ 480 · <a href="https://x.com/emollick/status/2121641417483169934">Publication</a></sub><br>
+<sub>Fable 5.2 a reconstitué le cours de W. H. Auden, « le plus difficile des humanités », à partir d'un livre obscur de l'Internet Archive et de notes éparses.</sub>
+</td>
+<td width="33%" valign="top">
 <a href="https://where-is-everybody-fermi.netlify.app/"><img src="../assets/gifs/146.gif" width="100%" alt="Where Is Everybody?"></a><br>
 <b><a href="https://where-is-everybody-fermi.netlify.app/">Where Is Everybody?</a></b><br>
 <sub><a href="https://x.com/emollick">@emollick</a> · ♥ 456 · <a href="https://x.com/emollick/status/2120359214157603139">Publication</a></sub><br>
 <sub>À qui on demande de « résoudre le paradoxe de Fermi » : il rassemble des données, teste des hypothèses et les soumet à l'épreuve des critiques.</sub><br>
 <sub><a href="https://resolving-the-great-silence.netlify.app/">Gemini Carbon version</a></sub><br>
 <sub><a href="https://x.com/emollick/status/2120359214157603139">📝 Prompt du créateur (gratuit)</a></sub>
-</td>
-<td width="33%" valign="top">
-<a href="https://auden-english-135.netlify.app/"><img src="../assets/gifs/281.gif" width="100%" alt="Le cours de poésie perdu d'Auden de 1941, reconstitué"></a><br>
-<b><a href="https://auden-english-135.netlify.app/">Le cours de poésie perdu d'Auden de 1941, reconstitué</a></b><br>
-<sub>🆕 · <a href="https://x.com/emollick">@emollick</a> · ♥ 432 · <a href="https://x.com/emollick/status/2121641417483169934">Publication</a></sub><br>
-<sub>Fable 5.2 a reconstitué le cours de W. H. Auden, « le plus difficile des humanités », à partir d'un livre obscur de l'Internet Archive et de notes éparses.</sub>
 </td>
 </tr>
 <tr>
@@ -149,14 +149,14 @@ La page principale affiche au plus les 12 entrées les plus aimées de chaque se
 <td width="33%" valign="top">
 <a href="https://clockendbader.github.io/fable-builds/heartbeat/"><img src="../assets/gifs/259.gif" width="100%" alt="One Heartbeat"></a><br>
 <b><a href="https://clockendbader.github.io/fable-builds/heartbeat/">One Heartbeat</a></b><br>
-<sub>🆕 · <a href="https://x.com/clockendbader">@clockendbader</a> · ♥ 141 · <a href="https://x.com/clockendbader/status/2121246903207961069">Publication</a></sub><br>
+<sub>🆕 · <a href="https://x.com/clockendbader">@clockendbader</a> · ♥ 151 · <a href="https://x.com/clockendbader/status/2121246903207961069">Publication</a></sub><br>
 <sub>Un cœur 3D qui bat avec ECG et courbes de pression en direct et bruits cardiaques ; comparez normal, FA, bloc cardiaque et sténose aortique. Il a aussi écrit ses propres tests.</sub><br>
 <sub><a href="https://fablelist.000ooo.ooo/fr/prompts/?w=one-heartbeat&ref=gh"><b>✨ Obtenir le prompt</b></a></sub>
 </td>
 <td width="33%" valign="top">
 <a href="https://patch.gg/patch/anymove"><img src="../assets/gifs/149.gif" width="100%" alt="anymove"></a><br>
 <b><a href="https://patch.gg/patch/anymove">anymove</a></b><br>
-<sub><a href="https://x.com/rehan_shei">@rehan_shei</a> · ♥ 140 · <a href="https://x.com/rehan_shei/status/2120409150870159414">▶ Vidéo</a></sub><br>
+<sub><a href="https://x.com/rehan_shei">@rehan_shei</a> · ♥ 141 · <a href="https://x.com/rehan_shei/status/2120409150870159414">▶ Vidéo</a></sub><br>
 <sub>Résout les mouvements d'un clip vidéo IA sur un vrai rig 3D — sans combinaison de mocap, sans keyframes. Open source.</sub><br>
 <sub><a href="https://fablelist.000ooo.ooo/fr/prompts/?w=anymove&ref=gh"><b>✨ Obtenir le prompt</b></a></sub>
 </td>
@@ -178,7 +178,7 @@ La page principale affiche au plus les 12 entrées les plus aimées de chaque se
 <td width="33%" valign="top">
 <a href="https://github.com/kanaworksai-hue/harappa"><img src="../assets/gifs/250.gif" width="100%" alt="Harappa (add-on Blender)"></a><br>
 <b><a href="https://github.com/kanaworksai-hue/harappa">Harappa (add-on Blender)</a></b><br>
-<sub>🆕 · <a href="https://x.com/KanaWorks_AI">@KanaWorks_AI</a> · ♥ 77 · <a href="https://x.com/KanaWorks_AI/status/2121221880673972463">▶ Vidéo</a></sub><br>
+<sub>🆕 · <a href="https://x.com/KanaWorks_AI">@KanaWorks_AI</a> · ♥ 78 · <a href="https://x.com/KanaWorks_AI/status/2121221880673972463">▶ Vidéo</a></sub><br>
 <sub>Un add-on Blender gratuit qui transforme une colline nue en prairie de style anime en un clic, avec herbe, fleurs, nuages, arbres, saisons et styles.</sub><br>
 <sub><a href="https://fablelist.000ooo.ooo/fr/prompts/?w=harappa-blender-add-on&ref=gh"><b>✨ Obtenir le prompt</b></a></sub>
 </td>
@@ -239,6 +239,12 @@ La page principale affiche au plus les 12 entrées les plus aimées de chaque se
 </tr>
 <tr>
 <td width="33%" valign="top">
+<a href="https://uberdesigner.ai/t/araneae"><img src="../assets/gifs/290.gif" width="100%" alt="araneae"></a><br>
+<b><a href="https://uberdesigner.ai/t/araneae">araneae</a></b><br>
+<sub>🆕 · <a href="https://x.com/seanaiux">@seanaiux</a> · ♥ 5 · <a href="https://x.com/seanaiux/status/2121688869439455410">▶ Vidéo</a></sub><br>
+<sub>La demande : un site qui lui fasse peur. Une araignée descend de l'obscurité et le défilement la suit dans son repaire, ses yeux, ses crochets et ses pattes, jusqu'à ce que vous soyez la mouche.</sub>
+</td>
+<td width="33%" valign="top">
 <a href="https://claude.ai/artifact/Pk6rHPyRwfShT37kiU1sT6"><img src="../assets/gifs/041.gif" width="100%" alt="Dub Techno Track + Visualizer"></a><br>
 <b><a href="https://claude.ai/artifact/Pk6rHPyRwfShT37kiU1sT6">Dub Techno Track + Visualizer</a></b><br>
 <sub><a href="https://x.com/bartdecrem">@bartdecrem</a> · ♥ 4 · <a href="https://x.com/bartdecrem/status/2119926997422133417">Publication</a></sub><br>
@@ -252,6 +258,8 @@ La page principale affiche au plus les 12 entrées les plus aimées de chaque se
 <sub>Les liens de sang et de mariage de l'acteur principal avec 65 stars de Bollywood.</sub><br>
 <sub><a href="https://fablelist.000ooo.ooo/fr/prompts/?w=ramayana-family-tree&ref=gh"><b>✨ Obtenir le prompt</b></a></sub>
 </td>
+</tr>
+<tr>
 <td width="33%" valign="top">
 <a href="https://claude.ai/artifact/4aEy6FtUi7jrm9U7uYgp8K"><img src="../assets/gifs/042.gif" width="100%" alt="Demoscene Demo"></a><br>
 <b><a href="https://claude.ai/artifact/4aEy6FtUi7jrm9U7uYgp8K">Demoscene Demo</a></b><br>
@@ -259,8 +267,6 @@ La page principale affiche au plus les 12 entrées les plus aimées de chaque se
 <sub>« Fais une démo dans la tradition de la demoscene qui tourne dans le navigateur. »</sub><br>
 <sub><a href="https://x.com/ndril/status/2119899340642894235">📝 Prompt du créateur (gratuit)</a></sub>
 </td>
-</tr>
-<tr>
 <td width="33%" valign="top">
 <a href="https://claude.ai/artifact/H8E7AonW2KFrzdRimaLeXb"><img src="../assets/gifs/043.gif" width="100%" alt="112 Forms of Meditation"></a><br>
 <b><a href="https://claude.ai/artifact/H8E7AonW2KFrzdRimaLeXb">112 Forms of Meditation</a></b><br>

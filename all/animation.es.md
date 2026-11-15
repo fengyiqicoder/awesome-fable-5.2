@@ -16,7 +16,7 @@ La página principal muestra como máximo las 12 entradas con más «me gusta» 
 <td width="33%" valign="top">
 <a href="https://github.com/amirmushichge/shred-kit"><img src="../assets/gifs/269.gif" width="100%" alt="Plantilla de trituración de papel Shred Kit"></a><br>
 <b><a href="https://github.com/amirmushichge/shred-kit">Plantilla de trituración de papel Shred Kit</a></b><br>
-<sub>🆕 · <a href="https://x.com/AmirMushich">@AmirMushich</a> · ♥ 405 · <a href="https://x.com/AmirMushich/status/2121339167800213934">▶ Video</a></sub><br>
+<sub>🆕 · <a href="https://x.com/AmirMushich">@AmirMushich</a> · ♥ 408 · <a href="https://x.com/AmirMushich/status/2121339167800213934">▶ Video</a></sub><br>
 <sub>Un reel de 8 segundos de papel triturado hecho con Fable 5.2 y Blender, compartido como plantilla gratuita.</sub>
 </td>
 <td width="33%" valign="top">
@@ -60,17 +60,17 @@ La página principal muestra como máximo las 12 entradas con más «me gusta» 
 <sub><a href="https://x.com/anstapnever/status/2119915123070644263">📝 Prompt del creador (gratis)</a></sub>
 </td>
 <td width="33%" valign="top">
+<a href="https://github.com/0xCodez/thousand-peaks"><img src="../assets/gifs/282.gif" width="100%" alt="Dragon of a Thousand Peaks — el dragón de las mil cumbres"></a><br>
+<b><a href="https://github.com/0xCodez/thousand-peaks">Dragon of a Thousand Peaks — el dragón de las mil cumbres</a></b><br>
+<sub>🆕 · <a href="https://x.com/0xMovez">@0xMovez</a> · ♥ 76 · <a href="https://x.com/0xMovez/status/2121721290687983906">▶ Video</a></sub><br>
+<sub>Una pelea de 90 segundos en three.js puro, sin assets ni modelos de vídeo; Fable 5.2 dirigió 8 agentes en paralelo y la música y el sonido se sintetizan con código.</sub>
+</td>
+<td width="33%" valign="top">
 <a href="https://github.com/skild-ai/steel-webgpu/pull/7"><img src="../assets/gifs/057.gif" width="100%" alt="Mano robótica en una escalera de caracol"></a><br>
 <b><a href="https://github.com/skild-ai/steel-webgpu/pull/7">Mano robótica en una escalera de caracol</a></b><br>
 <sub><a href="https://x.com/Luckyballa">@Luckyballa</a> · ♥ 61 · <a href="https://x.com/Luckyballa/status/2119915557663506720">▶ Video</a></sub><br>
 <sub>Fable 5.2 + el motor de física Steel: una mano que camina sobre sus dedos.</sub><br>
 <sub><a href="https://x.com/Luckyballa/status/2119915557663506720">📝 Prompt del creador (gratis)</a></sub>
-</td>
-<td width="33%" valign="top">
-<a href="https://github.com/0xCodez/thousand-peaks"><img src="../assets/gifs/282.gif" width="100%" alt="Dragon of a Thousand Peaks — el dragón de las mil cumbres"></a><br>
-<b><a href="https://github.com/0xCodez/thousand-peaks">Dragon of a Thousand Peaks — el dragón de las mil cumbres</a></b><br>
-<sub>🆕 · <a href="https://x.com/0xMovez">@0xMovez</a> · ♥ 51 · <a href="https://x.com/0xMovez/status/2121721290687983906">▶ Video</a></sub><br>
-<sub>Una pelea de 90 segundos en three.js puro, sin assets ni modelos de vídeo; Fable 5.2 dirigió 8 agentes en paralelo y la música y el sonido se sintetizan con código.</sub>
 </td>
 </tr>
 <tr>

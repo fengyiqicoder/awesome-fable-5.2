@@ -5,8 +5,8 @@
 <h3>Claude Fable 5.2로 만든, 바로 열어 즐길 수 있는 작품들</h3>
 
 [![Awesome](https://awesome.re/badge.svg)](https://awesome.re)
-[![Works](https://img.shields.io/badge/작품-162-6b4eff)](#-게임)
-[![Demos](https://img.shields.io/badge/영상_데모-117-ff7a59)](#-영상-데모)
+[![Works](https://img.shields.io/badge/작품-165-6b4eff)](#-게임)
+[![Demos](https://img.shields.io/badge/영상_데모-119-ff7a59)](#-영상-데모)
 [![Links checked](https://img.shields.io/badge/링크_확인-2026--11--15-2ea44f)](#-기여하기)
 [![License: CC0-1.0](https://img.shields.io/badge/License-CC0_1.0-lightgrey.svg)](LICENSE)
 
@@ -16,11 +16,11 @@
 
 </div>
 
-Claude Fable 5.2로 만든 작품 162개와 영상 데모 117개, 링크는 2026-11-15에 모두 확인. 매일 업데이트되니 도움이 되면 ⭐ 눌러 주세요.
+Claude Fable 5.2로 만든 작품 165개와 영상 데모 119개, 링크는 2026-11-15에 모두 확인. 매일 업데이트되니 도움이 되면 ⭐ 눌러 주세요.
 
 ## 📑 목차
 
-[⭐ 가장 사랑받은 작품](#-가장-사랑받은-작품) · [🎮 게임](#-게임) 81 · [🌍 3D 월드와 장면](#-3d-월드와-장면) 35 · [🧰 웹 페이지와 도구](#-웹-페이지와-도구) 34 · [🎬 애니메이션과 영상](#-애니메이션과-영상) 12 · [📺 영상 데모](#-영상-데모) 117 · [🤝 기여하기](#-기여하기)
+[⭐ 가장 사랑받은 작품](#-가장-사랑받은-작품) · [🎮 게임](#-게임) 82 · [🌍 3D 월드와 장면](#-3d-월드와-장면) 36 · [🧰 웹 페이지와 도구](#-웹-페이지와-도구) 35 · [🎬 애니메이션과 영상](#-애니메이션과-영상) 12 · [📺 영상 데모](#-영상-데모) 119 · [🤝 기여하기](#-기여하기)
 
 ## ⭐ 가장 사랑받은 작품
 
@@ -43,7 +43,7 @@ Claude Fable 5.2로 만든 작품 162개와 영상 데모 117개, 링크는 2026
 <td width="33%" valign="top">
 <a href="https://patch.gg/blendi/oil-paint"><img src="assets/gifs/124.gif" width="100%" alt="Oil Paint — 손으로 그린 듯한 게임"></a><br>
 <b><a href="https://patch.gg/blendi/oil-paint">Oil Paint — 손으로 그린 듯한 게임</a></b><br>
-<sub><a href="https://x.com/BlendiByl">@BlendiByl</a> · ♥ 7.9k · <a href="https://x.com/BlendiByl/status/2120341251178594532">▶ 영상</a></sub><br>
+<sub><a href="https://x.com/BlendiByl">@BlendiByl</a> · ♥ 8.0k · <a href="https://x.com/BlendiByl/status/2120341251178594532">▶ 영상</a></sub><br>
 <sub>1시간 이내에 제작. 모든 프레임이 약 150만 번의 붓질로 이루어져 브라우저 탭에서 200 fps로 실행. 오픈 소스.</sub><br>
 <sub><a href="https://fablelist.000ooo.ooo/ko/prompts/?w=oil-paint-hand-painted-game&ref=gh"><b>✨ 프롬프트 받기</b></a></sub>
 </td>
@@ -59,14 +59,14 @@ Claude Fable 5.2로 만든 작품 162개와 영상 데모 117개, 링크는 2026
 <td width="33%" valign="top">
 <a href="https://claude.ai/artifact/QGWUAjRrzRzZWGcQzSMLfa"><img src="assets/gifs/023.gif" width="100%" alt="Blender 노트북 속 Claude 앱"></a><br>
 <b><a href="https://claude.ai/artifact/QGWUAjRrzRzZWGcQzSMLfa">Blender 노트북 속 Claude 앱</a></b><br>
-<sub><a href="https://x.com/rileybrown">@rileybrown</a> · ♥ 7.0k · <a href="https://x.com/rileybrown/status/2119902109709537708">▶ 영상</a></sub><br>
+<sub><a href="https://x.com/rileybrown">@rileybrown</a> · ♥ 7.1k · <a href="https://x.com/rileybrown/status/2119902109709537708">▶ 영상</a></sub><br>
 <sub>프롬프트 하나로 Blender에서 방 전체를 만들고 4K로 렌더링. 노트북 화면에 보이는 웹 페이지입니다.</sub><br>
 <sub><a href="https://x.com/rileybrown/status/2119902109709537708">📝 제작자 공개 프롬프트 (무료)</a></sub>
 </td>
 <td width="33%" valign="top">
 <a href="https://claudia.gallery"><img src="assets/gifs/038.gif" width="100%" alt="Claudia Gallery"></a><br>
 <b><a href="https://claudia.gallery">Claudia Gallery</a></b><br>
-<sub><a href="https://x.com/anabology">@anabology</a> · ♥ 5.3k · <a href="https://x.com/anabology/status/2120010995309457643">▶ 영상</a></sub><br>
+<sub><a href="https://x.com/anabology">@anabology</a> · ♥ 5.4k · <a href="https://x.com/anabology/status/2120010995309457643">▶ 영상</a></sub><br>
 <sub>"꿈꾸던 영상을 만들어줘" — 2샷, 9시간.</sub><br>
 <sub><a href="https://fablelist.000ooo.ooo/ko/prompts/?w=claudia-gallery&ref=gh"><b>✨ 프롬프트 받기</b></a></sub>
 </td>
@@ -94,7 +94,7 @@ Claude Fable 5.2로 만든 작품 162개와 영상 데모 117개, 링크는 2026
 <td width="33%" valign="top">
 <a href="https://patch.gg/blendi/oil-paint"><img src="assets/gifs/124.gif" width="100%" alt="Oil Paint — 손으로 그린 듯한 게임"></a><br>
 <b><a href="https://patch.gg/blendi/oil-paint">Oil Paint — 손으로 그린 듯한 게임</a></b><br>
-<sub><a href="https://x.com/BlendiByl">@BlendiByl</a> · ♥ 7.9k · <a href="https://x.com/BlendiByl/status/2120341251178594532">▶ 영상</a></sub><br>
+<sub><a href="https://x.com/BlendiByl">@BlendiByl</a> · ♥ 8.0k · <a href="https://x.com/BlendiByl/status/2120341251178594532">▶ 영상</a></sub><br>
 <sub>1시간 이내에 제작. 모든 프레임이 약 150만 번의 붓질로 이루어져 브라우저 탭에서 200 fps로 실행. 오픈 소스.</sub><br>
 <sub><a href="https://fablelist.000ooo.ooo/ko/prompts/?w=oil-paint-hand-painted-game&ref=gh"><b>✨ 프롬프트 받기</b></a></sub>
 </td>
@@ -139,19 +139,19 @@ Claude Fable 5.2로 만든 작품 162개와 영상 데모 117개, 링크는 2026
 <sub><a href="https://fablelist.000ooo.ooo/ko/prompts/?w=portals-endless-worlds&ref=gh"><b>✨ 프롬프트 받기</b></a></sub>
 </td>
 <td width="33%" valign="top">
+<a href="https://patch.gg/play/blendi/small-magic"><img src="assets/gifs/274.gif" width="100%" alt="Small Magic — 마법사 샌드박스"></a><br>
+<b><a href="https://patch.gg/play/blendi/small-magic">Small Magic — 마법사 샌드박스</a></b><br>
+<sub>🆕 · <a href="https://x.com/BlendiByl">@BlendiByl</a> · ♥ 1.8k · <a href="https://x.com/BlendiByl/status/2121594536153718972">▶ 영상</a></sub><br>
+<sub>하루 만에 제작: 주문 7개, 부술 수 있는 물리 조각 약 1,800개, 모델·텍스처 없음, 오픈 소스.</sub>
+</td>
+</tr>
+<tr>
+<td width="33%" valign="top">
 <a href="https://evensong-phi.vercel.app/"><img src="assets/gifs/126.gif" width="100%" alt="Evensong"></a><br>
 <b><a href="https://evensong-phi.vercel.app/">Evensong</a></b><br>
 <sub><a href="https://x.com/kevin_t_ngo">@kevin_t_ngo</a> · ♥ 1.8k · <a href="https://x.com/kevin_t_ngo/status/2120238844754923874">▶ 영상</a></sub><br>
 <sub>다크 판타지 소울라이크 보스전, 브라우저에서 플레이.</sub><br>
 <sub><a href="https://fablelist.000ooo.ooo/ko/prompts/?w=evensong&ref=gh"><b>✨ 프롬프트 받기</b></a></sub>
-</td>
-</tr>
-<tr>
-<td width="33%" valign="top">
-<a href="https://patch.gg/play/blendi/small-magic"><img src="assets/gifs/274.gif" width="100%" alt="Small Magic — 마법사 샌드박스"></a><br>
-<b><a href="https://patch.gg/play/blendi/small-magic">Small Magic — 마법사 샌드박스</a></b><br>
-<sub>🆕 · <a href="https://x.com/BlendiByl">@BlendiByl</a> · ♥ 1.5k · <a href="https://x.com/BlendiByl/status/2121594536153718972">▶ 영상</a></sub><br>
-<sub>하루 만에 제작: 주문 7개, 부술 수 있는 물리 조각 약 1,800개, 모델·텍스처 없음, 오픈 소스.</sub>
 </td>
 <td width="33%" valign="top">
 <a href="https://loktar00.github.io/lanternfall/"><img src="assets/gifs/128.gif" width="100%" alt="LANTERNFALL"></a><br>
@@ -170,7 +170,7 @@ Claude Fable 5.2로 만든 작품 162개와 영상 데모 117개, 링크는 2026
 </tr>
 </table>
 
-<p align="center"><b><a href="all/games.ko.md">전체 81개 보기 →</a></b></p>
+<p align="center"><b><a href="all/games.ko.md">전체 82개 보기 →</a></b></p>
 
 <div align="right"><a href="#-목차">↑ 목차로</a></div>
 
@@ -181,7 +181,7 @@ Claude Fable 5.2로 만든 작품 162개와 영상 데모 117개, 링크는 2026
 <td width="33%" valign="top">
 <a href="https://claude.ai/artifact/QGWUAjRrzRzZWGcQzSMLfa"><img src="assets/gifs/023.gif" width="100%" alt="Blender 노트북 속 Claude 앱"></a><br>
 <b><a href="https://claude.ai/artifact/QGWUAjRrzRzZWGcQzSMLfa">Blender 노트북 속 Claude 앱</a></b><br>
-<sub><a href="https://x.com/rileybrown">@rileybrown</a> · ♥ 7.0k · <a href="https://x.com/rileybrown/status/2119902109709537708">▶ 영상</a></sub><br>
+<sub><a href="https://x.com/rileybrown">@rileybrown</a> · ♥ 7.1k · <a href="https://x.com/rileybrown/status/2119902109709537708">▶ 영상</a></sub><br>
 <sub>프롬프트 하나로 Blender에서 방 전체를 만들고 4K로 렌더링. 노트북 화면에 보이는 웹 페이지입니다.</sub><br>
 <sub><a href="https://x.com/rileybrown/status/2119902109709537708">📝 제작자 공개 프롬프트 (무료)</a></sub>
 </td>
@@ -211,14 +211,14 @@ Claude Fable 5.2로 만든 작품 162개와 영상 데모 117개, 링크는 2026
 <td width="33%" valign="top">
 <a href="https://fable-rome.surge.sh/"><img src="assets/gifs/136.gif" width="100%" alt="Rome, AD 320"></a><br>
 <b><a href="https://fable-rome.surge.sh/">Rome, AD 320</a></b><br>
-<sub><a href="https://x.com/petergostev">@petergostev</a> · ♥ 968 · <a href="https://x.com/petergostev/status/2120167560700383572">▶ 영상</a></sub><br>
+<sub><a href="https://x.com/petergostev">@petergostev</a> · ♥ 967 · <a href="https://x.com/petergostev/status/2120167560700383572">▶ 영상</a></sub><br>
 <sub>프롬프트 하나, Fable 5.2 (Max)가 밤새 실행, $2,618.</sub><br>
 <sub><a href="https://x.com/petergostev/status/2120167560700383572">📝 제작자 공개 프롬프트 (무료)</a></sub>
 </td>
 <td width="33%" valign="top">
 <a href="https://github.com/Leonxlnx/room-at-dawn"><img src="assets/gifs/219.gif" width="100%" alt="Room at Dawn"></a><br>
 <b><a href="https://github.com/Leonxlnx/room-at-dawn">Room at Dawn</a></b><br>
-<sub>🆕 · <a href="https://x.com/LexnLin">@LexnLin</a> · ♥ 852 · <a href="https://x.com/LexnLin/status/2120910879361548565">▶ 영상</a></sub><br>
+<sub>🆕 · <a href="https://x.com/LexnLin">@LexnLin</a> · ♥ 853 · <a href="https://x.com/LexnLin/status/2120910879361548565">▶ 영상</a></sub><br>
 <sub>미리 만든 모델이나 텍스처 없이 three.js로 만든 사실적인 침실. 모든 것이 코드.</sub><br>
 <sub><a href="https://fablelist.000ooo.ooo/ko/prompts/?w=room-at-dawn&ref=gh"><b>✨ 프롬프트 받기</b></a></sub>
 </td>
@@ -227,13 +227,13 @@ Claude Fable 5.2로 만든 작품 162개와 영상 데모 117개, 링크는 2026
 <td width="33%" valign="top">
 <a href="https://fable-rover.vercel.app"><img src="assets/gifs/278.gif" width="100%" alt="ER-6 Terrain Explorer — 스스로 달리는 화성 탐사차"></a><br>
 <b><a href="https://fable-rover.vercel.app">ER-6 Terrain Explorer — 스스로 달리는 화성 탐사차</a></b><br>
-<sub>🆕 · <a href="https://x.com/DilumSanjaya">@DilumSanjaya</a> · ♥ 779 · <a href="https://x.com/DilumSanjaya/status/2120561077385867663">▶ 영상</a></sub><br>
+<sub>🆕 · <a href="https://x.com/DilumSanjaya">@DilumSanjaya</a> · ♥ 780 · <a href="https://x.com/DilumSanjaya/status/2120561077385867663">▶ 영상</a></sub><br>
 <sub>Fable 5.2가 NASA 화성 탐사차처럼 로커-보기 서스펜션을 설계하고, 외계 지형을 달리는 시뮬레이션까지 만들었습니다.</sub>
 </td>
 <td width="33%" valign="top">
 <a href="https://supernatural-ft.vercel.app/fire-in-ice"><img src="assets/gifs/221.gif" width="100%" alt="Fire in Ice"></a><br>
 <b><a href="https://supernatural-ft.vercel.app/fire-in-ice">Fire in Ice</a></b><br>
-<sub>🆕 · <a href="https://x.com/tkm_hmng8">@tkm_hmng8</a> · ♥ 548 · <a href="https://x.com/tkm_hmng8/status/2120813043101946324">▶ 영상</a></sub><br>
+<sub>🆕 · <a href="https://x.com/tkm_hmng8">@tkm_hmng8</a> · ♥ 550 · <a href="https://x.com/tkm_hmng8/status/2120813043101946324">▶ 영상</a></sub><br>
 <sub>three.js 없이 순수 WebGPU로 작성한, 얼음 속에서 타오르는 사실적인 불꽃.</sub><br>
 <sub><a href="https://fablelist.000ooo.ooo/ko/prompts/?w=fire-in-ice&ref=gh"><b>✨ 프롬프트 받기</b></a></sub>
 </td>
@@ -271,7 +271,7 @@ Claude Fable 5.2로 만든 작품 162개와 영상 데모 117개, 링크는 2026
 </tr>
 </table>
 
-<p align="center"><b><a href="all/3d-worlds.ko.md">전체 35개 보기 →</a></b></p>
+<p align="center"><b><a href="all/3d-worlds.ko.md">전체 36개 보기 →</a></b></p>
 
 <div align="right"><a href="#-목차">↑ 목차로</a></div>
 
@@ -282,7 +282,7 @@ Claude Fable 5.2로 만든 작품 162개와 영상 데모 117개, 링크는 2026
 <td width="33%" valign="top">
 <a href="https://claudia.gallery"><img src="assets/gifs/038.gif" width="100%" alt="Claudia Gallery"></a><br>
 <b><a href="https://claudia.gallery">Claudia Gallery</a></b><br>
-<sub><a href="https://x.com/anabology">@anabology</a> · ♥ 5.3k · <a href="https://x.com/anabology/status/2120010995309457643">▶ 영상</a></sub><br>
+<sub><a href="https://x.com/anabology">@anabology</a> · ♥ 5.4k · <a href="https://x.com/anabology/status/2120010995309457643">▶ 영상</a></sub><br>
 <sub>"꿈꾸던 영상을 만들어줘" — 2샷, 9시간.</sub><br>
 <sub><a href="https://fablelist.000ooo.ooo/ko/prompts/?w=claudia-gallery&ref=gh"><b>✨ 프롬프트 받기</b></a></sub>
 </td>
@@ -374,7 +374,7 @@ Claude Fable 5.2로 만든 작품 162개와 영상 데모 117개, 링크는 2026
 </tr>
 </table>
 
-<p align="center"><b><a href="all/web-and-tools.ko.md">전체 34개 보기 →</a></b></p>
+<p align="center"><b><a href="all/web-and-tools.ko.md">전체 35개 보기 →</a></b></p>
 
 <div align="right"><a href="#-목차">↑ 목차로</a></div>
 
@@ -392,7 +392,7 @@ Claude Fable 5.2로 만든 작품 162개와 영상 데모 117개, 링크는 2026
 <td width="33%" valign="top">
 <a href="https://github.com/amirmushichge/shred-kit"><img src="assets/gifs/269.gif" width="100%" alt="Shred Kit 종이 파쇄 템플릿"></a><br>
 <b><a href="https://github.com/amirmushichge/shred-kit">Shred Kit 종이 파쇄 템플릿</a></b><br>
-<sub>🆕 · <a href="https://x.com/AmirMushich">@AmirMushich</a> · ♥ 405 · <a href="https://x.com/AmirMushich/status/2121339167800213934">▶ 영상</a></sub><br>
+<sub>🆕 · <a href="https://x.com/AmirMushich">@AmirMushich</a> · ♥ 408 · <a href="https://x.com/AmirMushich/status/2121339167800213934">▶ 영상</a></sub><br>
 <sub>Fable 5.2와 Blender로 만든 8초짜리 종이 파쇄 릴, 무료 템플릿으로 공유.</sub>
 </td>
 <td width="33%" valign="top">
@@ -472,18 +472,18 @@ Claude Fable 5.2로 만든 작품 162개와 영상 데모 117개, 링크는 2026
 </tr>
 <tr>
 <td width="33%" valign="top">
-<a href="https://x.com/dominikmartn/status/2120154832694858224"><img src="assets/gifs/236.gif" width="100%" alt="정말로 디자인할 수 있다"></a><br>
-<b><a href="https://x.com/dominikmartn/status/2120154832694858224">정말로 디자인할 수 있다</a></b><br>
-<sub>🆕 · <a href="https://x.com/dominikmartn">@dominikmartn</a> · ♥ 7.2k · <a href="https://x.com/dominikmartn/status/2120154832694858224">▶ 영상</a></sub><br>
-<br>
-<sub><a href="https://fablelist.000ooo.ooo/ko/prompts/?w=it-can-actually-design&ref=gh"><b>✨ 프롬프트 받기</b></a></sub>
-</td>
-<td width="33%" valign="top">
 <a href="https://x.com/everestchris6/status/2120175941616128277"><img src="assets/gifs/207.gif" width="100%" alt="2D 도면을 3D 워크스루로"></a><br>
 <b><a href="https://x.com/everestchris6/status/2120175941616128277">2D 도면을 3D 워크스루로</a></b><br>
 <sub>🆕 · <a href="https://x.com/everestchris6">@everestchris6</a> · ♥ 7.2k · <a href="https://x.com/everestchris6/status/2120175941616128277">▶ 영상</a></sub><br>
 <br>
 <sub><a href="https://x.com/everestchris6/status/2120175941616128277">📝 제작자 공개 프롬프트 (무료)</a></sub>
+</td>
+<td width="33%" valign="top">
+<a href="https://x.com/dominikmartn/status/2120154832694858224"><img src="assets/gifs/236.gif" width="100%" alt="정말로 디자인할 수 있다"></a><br>
+<b><a href="https://x.com/dominikmartn/status/2120154832694858224">정말로 디자인할 수 있다</a></b><br>
+<sub>🆕 · <a href="https://x.com/dominikmartn">@dominikmartn</a> · ♥ 7.2k · <a href="https://x.com/dominikmartn/status/2120154832694858224">▶ 영상</a></sub><br>
+<br>
+<sub><a href="https://fablelist.000ooo.ooo/ko/prompts/?w=it-can-actually-design&ref=gh"><b>✨ 프롬프트 받기</b></a></sub>
 </td>
 <td width="33%" valign="top">
 <a href="https://x.com/suna_gaku/status/2119952985933697063"><img src="assets/gifs/208.gif" width="100%" alt="&quot;당신의 최고의 영상을 보여줘&quot;"></a><br>
@@ -511,7 +511,7 @@ Claude Fable 5.2로 만든 작품 162개와 영상 데모 117개, 링크는 2026
 <td width="33%" valign="top">
 <a href="https://x.com/MrTacticalX/status/2121082861902070130"><img src="assets/gifs/253.gif" width="100%" alt="Fable 5.2 에이전트 3개가 7시간 41분 만에 컴퓨터를 만들다"></a><br>
 <b><a href="https://x.com/MrTacticalX/status/2121082861902070130">Fable 5.2 에이전트 3개가 7시간 41분 만에 컴퓨터를 만들다</a></b><br>
-<sub>🆕 · <a href="https://x.com/MrTacticalX">@MrTacticalX</a> · ♥ 4.4k · <a href="https://x.com/MrTacticalX/status/2121082861902070130">▶ 영상</a></sub><br>
+<sub>🆕 · <a href="https://x.com/MrTacticalX">@MrTacticalX</a> · ♥ 4.5k · <a href="https://x.com/MrTacticalX/status/2121082861902070130">▶ 영상</a></sub><br>
 <br>
 <sub><a href="https://fablelist.000ooo.ooo/ko/prompts/?w=three-fable-5-2-agents-build-a-computer&ref=gh"><b>✨ 프롬프트 받기</b></a></sub>
 </td>
@@ -541,7 +541,7 @@ Claude Fable 5.2로 만든 작품 162개와 영상 데모 117개, 링크는 2026
 </tr>
 </table>
 
-<p align="center"><b><a href="all/video-demos.ko.md">전체 117개 보기 →</a></b></p>
+<p align="center"><b><a href="all/video-demos.ko.md">전체 119개 보기 →</a></b></p>
 
 ## 🤝 기여하기
 
@@ -561,7 +561,7 @@ Claude Fable 5.2로 만든 작품 162개와 영상 데모 117개, 링크는 2026
 
 ## 📰 소식
 
-- **2026-11-15**: 작품 +6, 영상 데모 +5.
+- **2026-11-15**: 작품 +9, 영상 데모 +7.
 - **2026-11-14**: 작품 +13, 영상 데모 +2.
 - **2026-11-13**: 작품 +41, 영상 데모 +24.
 - **2026-11-12**: 작품 +45, 영상 데모 +26.
