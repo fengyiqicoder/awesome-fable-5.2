@@ -5,8 +5,8 @@
 <h3>用 Claude Fable 5.2 做出來、能直接打開玩的東西</h3>
 
 [![Awesome](https://awesome.re/badge.svg)](https://awesome.re)
-[![Works](https://img.shields.io/badge/線上作品-165-6b4eff)](#-遊戲)
-[![Demos](https://img.shields.io/badge/影片展示-119-ff7a59)](#-影片展示)
+[![Works](https://img.shields.io/badge/線上作品-166-6b4eff)](#-遊戲)
+[![Demos](https://img.shields.io/badge/影片展示-122-ff7a59)](#-影片展示)
 [![Links checked](https://img.shields.io/badge/連結實測-2026--11--15-2ea44f)](#-投稿)
 [![License: CC0-1.0](https://img.shields.io/badge/License-CC0_1.0-lightgrey.svg)](LICENSE)
 
@@ -16,11 +16,11 @@
 
 </div>
 
-165 個能直接打開的作品 + 119 個影片展示，都是用 Claude Fable 5.2 做的，連結 2026-11-15 實測過。每天更新，覺得有用就按個 ⭐。
+166 個能直接打開的作品 + 122 個影片展示，都是用 Claude Fable 5.2 做的，連結 2026-11-15 實測過。每天更新，覺得有用就按個 ⭐。
 
 ## 📑 目錄
 
-[⭐ 最受歡迎](#-最受歡迎) · [🎮 遊戲](#-遊戲) 82 · [🌍 3D 世界與場景](#-3d-世界與場景) 36 · [🧰 網頁與工具](#-網頁與工具) 35 · [🎬 動畫與短片](#-動畫與短片) 12 · [📺 影片展示](#-影片展示) 119 · [🤝 投稿](#-投稿)
+[⭐ 最受歡迎](#-最受歡迎) · [🎮 遊戲](#-遊戲) 83 · [🌍 3D 世界與場景](#-3d-世界與場景) 36 · [🧰 網頁與工具](#-網頁與工具) 35 · [🎬 動畫與短片](#-動畫與短片) 12 · [📺 影片展示](#-影片展示) 122 · [🤝 投稿](#-投稿)
 
 ## ⭐ 最受歡迎
 
@@ -131,18 +131,18 @@
 <sub><a href="https://fablelist.000ooo.ooo/zh-tw/prompts/?w=mirror-earth&ref=gh"><b>✨ 取得提示詞</b></a></sub>
 </td>
 <td width="33%" valign="top">
+<a href="https://patch.gg/play/blendi/small-magic"><img src="assets/gifs/274.gif" width="100%" alt="Small Magic — 巫師沙盒"></a><br>
+<b><a href="https://patch.gg/play/blendi/small-magic">Small Magic — 巫師沙盒</a></b><br>
+<sub>🆕 · <a href="https://x.com/BlendiByl">@BlendiByl</a> · ♥ 2.3k · <a href="https://x.com/BlendiByl/status/2121594536153718972">▶ 影片</a></sub><br>
+<sub>一天做完：7 種法術、約 1,800 塊可破壞的物理碎片，沒有模型也沒有貼圖，開源。</sub>
+</td>
+<td width="33%" valign="top">
 <a href="https://portals-endless-worlds.netlify.app/"><img src="assets/gifs/006.gif" width="100%" alt="Portals: Endless Worlds"></a><br>
 <b><a href="https://portals-endless-worlds.netlify.app/">Portals: Endless Worlds</a></b><br>
 <sub><a href="https://x.com/emollick">@emollick</a> · ♥ 1.9k · <a href="https://x.com/emollick/status/2119918307457577163">▶ 影片</a></sub><br>
 <sub>25,000 個 Agent 打造了 450 多個純程式碼 3D 世界，靈感來自書籍、藝術與各地風景，以傳送門相連，可以順著飄過去。</sub><br>
 <sub><a href="https://github.com/emollick/ai-portals">原始碼</a> · <a href="https://www.oneusefulthing.org/p/fable-52-and-jagged-agi">文章</a></sub><br>
 <sub><a href="https://fablelist.000ooo.ooo/zh-tw/prompts/?w=portals-endless-worlds&ref=gh"><b>✨ 取得提示詞</b></a></sub>
-</td>
-<td width="33%" valign="top">
-<a href="https://patch.gg/play/blendi/small-magic"><img src="assets/gifs/274.gif" width="100%" alt="Small Magic — 巫師沙盒"></a><br>
-<b><a href="https://patch.gg/play/blendi/small-magic">Small Magic — 巫師沙盒</a></b><br>
-<sub>🆕 · <a href="https://x.com/BlendiByl">@BlendiByl</a> · ♥ 1.8k · <a href="https://x.com/BlendiByl/status/2121594536153718972">▶ 影片</a></sub><br>
-<sub>一天做完：7 種法術、約 1,800 塊可破壞的物理碎片，沒有模型也沒有貼圖，開源。</sub>
 </td>
 </tr>
 <tr>
@@ -163,14 +163,14 @@
 <td width="33%" valign="top">
 <a href="https://op7418.github.io/guizang-game-skill/"><img src="assets/gifs/131.gif" width="100%" alt="Mist-Locked Mountain Gate — 3D 動作遊戲"></a><br>
 <b><a href="https://op7418.github.io/guizang-game-skill/">Mist-Locked Mountain Gate — 3D 動作遊戲</a></b><br>
-<sub><a href="https://x.com/op7418">@op7418</a> · ♥ 1.1k · <a href="https://x.com/op7418/status/2120694045299327187">▶ 影片</a></sub><br>
+<sub><a href="https://x.com/op7418">@op7418</a> · ♥ 1.2k · <a href="https://x.com/op7418/status/2120694045299327187">▶ 影片</a></sub><br>
 <sub>一個下午、45 億 token。模型、場景與招式全由 Fable 完成，打包成單一 30 MB 的 HTML 檔案。</sub><br>
 <sub><a href="https://fablelist.000ooo.ooo/zh-tw/prompts/?w=mist-locked-mountain-gate-3d-action-game&ref=gh"><b>✨ 取得提示詞</b></a></sub>
 </td>
 </tr>
 </table>
 
-<p align="center"><b><a href="all/games.zh-TW.md">查看全部 82 個 →</a></b></p>
+<p align="center"><b><a href="all/games.zh-TW.md">查看全部 83 個 →</a></b></p>
 
 <div align="right"><a href="#-目錄">↑ 回到目錄</a></div>
 
@@ -218,7 +218,7 @@
 <td width="33%" valign="top">
 <a href="https://github.com/Leonxlnx/room-at-dawn"><img src="assets/gifs/219.gif" width="100%" alt="Room at Dawn"></a><br>
 <b><a href="https://github.com/Leonxlnx/room-at-dawn">Room at Dawn</a></b><br>
-<sub>🆕 · <a href="https://x.com/LexnLin">@LexnLin</a> · ♥ 853 · <a href="https://x.com/LexnLin/status/2120910879361548565">▶ 影片</a></sub><br>
+<sub>🆕 · <a href="https://x.com/LexnLin">@LexnLin</a> · ♥ 855 · <a href="https://x.com/LexnLin/status/2120910879361548565">▶ 影片</a></sub><br>
 <sub>three.js 打造的擬真臥室，沒有預製模型或貼圖；一切都是程式碼。</sub><br>
 <sub><a href="https://fablelist.000ooo.ooo/zh-tw/prompts/?w=room-at-dawn&ref=gh"><b>✨ 取得提示詞</b></a></sub>
 </td>
@@ -227,7 +227,7 @@
 <td width="33%" valign="top">
 <a href="https://fable-rover.vercel.app"><img src="assets/gifs/278.gif" width="100%" alt="ER-6 Terrain Explorer — 自動駕駛的火星車"></a><br>
 <b><a href="https://fable-rover.vercel.app">ER-6 Terrain Explorer — 自動駕駛的火星車</a></b><br>
-<sub>🆕 · <a href="https://x.com/DilumSanjaya">@DilumSanjaya</a> · ♥ 780 · <a href="https://x.com/DilumSanjaya/status/2120561077385867663">▶ 影片</a></sub><br>
+<sub>🆕 · <a href="https://x.com/DilumSanjaya">@DilumSanjaya</a> · ♥ 783 · <a href="https://x.com/DilumSanjaya/status/2120561077385867663">▶ 影片</a></sub><br>
 <sub>Fable 5.2 設計了 NASA 火星車那種搖臂轉向架懸吊，再模擬它在外星地形上行駛。</sub>
 </td>
 <td width="33%" valign="top">
@@ -257,7 +257,7 @@
 <td width="33%" valign="top">
 <a href="https://samg-coder.github.io/solstice-garden/"><img src="assets/gifs/248.gif" width="100%" alt="The Garden"></a><br>
 <b><a href="https://samg-coder.github.io/solstice-garden/">The Garden</a></b><br>
-<sub>🆕 · <a href="https://x.com/SamGCoder">@SamGCoder</a> · ♥ 296 · <a href="https://x.com/SamGCoder/status/2120943068321054975">▶ 影片</a></sub><br>
+<sub>🆕 · <a href="https://x.com/SamGCoder">@SamGCoder</a> · ♥ 297 · <a href="https://x.com/SamGCoder/status/2120943068321054975">▶ 影片</a></sub><br>
 <sub>以 Rust 寫成、編譯為 WASM、用 WebGPU 渲染的花園場景。</sub><br>
 <sub><a href="https://fablelist.000ooo.ooo/zh-tw/prompts/?w=the-garden&ref=gh"><b>✨ 取得提示詞</b></a></sub>
 </td>
@@ -367,7 +367,7 @@
 <td width="33%" valign="top">
 <a href="https://itspsneha.com/supplements"><img src="assets/gifs/037.gif" width="100%" alt="印度該買哪種維他命"></a><br>
 <b><a href="https://itspsneha.com/supplements">印度該買哪種維他命</a></b><br>
-<sub><a href="https://x.com/itspsneha">@itspsneha</a> · ♥ 740 · <a href="https://x.com/itspsneha/status/2120048494761451974">原文</a></sub><br>
+<sub><a href="https://x.com/itspsneha">@itspsneha</a> · ♥ 739 · <a href="https://x.com/itspsneha/status/2120048494761451974">原文</a></sub><br>
 <sub>讀完 109 個受測批次的檢驗報告後製作。</sub><br>
 <sub><a href="https://fablelist.000ooo.ooo/zh-tw/prompts/?w=which-vitamins-to-buy-in-india&ref=gh"><b>✨ 取得提示詞</b></a></sub>
 </td>
@@ -385,20 +385,20 @@
 <td width="33%" valign="top">
 <a href="https://github.com/ChetasLua/crimson-loong"><img src="assets/gifs/246.gif" width="100%" alt="Crimson Loong"></a><br>
 <b><a href="https://github.com/ChetasLua/crimson-loong">Crimson Loong</a></b><br>
-<sub>🆕 · <a href="https://x.com/chetaslua">@chetaslua</a> · ♥ 3.6k · <a href="https://x.com/chetaslua/status/2121176151234330707">▶ 影片</a></sub><br>
+<sub>🆕 · <a href="https://x.com/chetaslua">@chetaslua</a> · ♥ 3.7k · <a href="https://x.com/chetaslua/status/2121176151234330707">▶ 影片</a></sub><br>
 <sub>以 three.js 製作的 90 秒龍影片，純程式碼，無外部素材。</sub><br>
 <sub><a href="https://fablelist.000ooo.ooo/zh-tw/prompts/?w=crimson-loong&ref=gh"><b>✨ 取得提示詞</b></a></sub>
 </td>
 <td width="33%" valign="top">
 <a href="https://github.com/amirmushichge/shred-kit"><img src="assets/gifs/269.gif" width="100%" alt="Shred Kit 碎紙模板"></a><br>
 <b><a href="https://github.com/amirmushichge/shred-kit">Shred Kit 碎紙模板</a></b><br>
-<sub>🆕 · <a href="https://x.com/AmirMushich">@AmirMushich</a> · ♥ 408 · <a href="https://x.com/AmirMushich/status/2121339167800213934">▶ 影片</a></sub><br>
+<sub>🆕 · <a href="https://x.com/AmirMushich">@AmirMushich</a> · ♥ 413 · <a href="https://x.com/AmirMushich/status/2121339167800213934">▶ 影片</a></sub><br>
 <sub>以 Fable 5.2 與 Blender 製作的 8 秒碎紙短影音，作為免費模板分享。</sub>
 </td>
 <td width="33%" valign="top">
 <a href="https://github.com/ChetasLua/pelican-riding-a-bicycle"><img src="assets/gifs/150.gif" width="100%" alt="The Pelican, Tired of the Road"></a><br>
 <b><a href="https://github.com/ChetasLua/pelican-riding-a-bicycle">The Pelican, Tired of the Road</a></b><br>
-<sub><a href="https://x.com/chetaslua">@chetaslua</a> · ♥ 354 · <a href="https://x.com/chetaslua/status/2120438091647218025">▶ 影片</a></sub><br>
+<sub><a href="https://x.com/chetaslua">@chetaslua</a> · ♥ 356 · <a href="https://x.com/chetaslua/status/2120438091647218025">▶ 影片</a></sub><br>
 <sub>一部 60 秒的手繪風影片，主角是 SVG 測試裡的鵜鶘。單一 HTML 檔案；每個像素、每個聲音都是程式碼。</sub><br>
 <sub><a href="https://github.com/ChetasLua/mona-lisa-js">Mona Lisa in JS</a></sub><br>
 <sub><a href="https://fablelist.000ooo.ooo/zh-tw/prompts/?w=the-pelican-tired-of-the-road&ref=gh"><b>✨ 取得提示詞</b></a></sub>
@@ -434,6 +434,12 @@
 <sub><a href="https://x.com/anstapnever">@anstapnever</a> · ♥ 118 · <a href="https://x.com/anstapnever/status/2119915123070644263">▶ 影片</a></sub><br>
 <sub>79 秒動畫短片，全部由程式碼完成。</sub><br>
 <sub><a href="https://x.com/anstapnever/status/2119915123070644263">📝 作者公開的提示詞（免費）</a></sub>
+</td>
+<td width="33%" valign="top">
+<a href="https://github.com/0xCodez/thousand-peaks"><img src="assets/gifs/282.gif" width="100%" alt="Dragon of a Thousand Peaks — 千峰之龍"></a><br>
+<b><a href="https://github.com/0xCodez/thousand-peaks">Dragon of a Thousand Peaks — 千峰之龍</a></b><br>
+<sub>🆕 · <a href="https://x.com/0xMovez">@0xMovez</a> · ♥ 105 · <a href="https://x.com/0xMovez/status/2121721290687983906">▶ 影片</a></sub><br>
+<sub>90 秒純 three.js 打鬥短片，零素材、零影片模型；Fable 5.2 指揮 8 個並行 Agent，音樂音效也用程式碼合成。</sub>
 </td>
 </tr>
 </table>
@@ -474,7 +480,7 @@
 <td width="33%" valign="top">
 <a href="https://x.com/everestchris6/status/2120175941616128277"><img src="assets/gifs/207.gif" width="100%" alt="2D 藍圖變成 3D 導覽"></a><br>
 <b><a href="https://x.com/everestchris6/status/2120175941616128277">2D 藍圖變成 3D 導覽</a></b><br>
-<sub>🆕 · <a href="https://x.com/everestchris6">@everestchris6</a> · ♥ 7.2k · <a href="https://x.com/everestchris6/status/2120175941616128277">▶ 影片</a></sub><br>
+<sub>🆕 · <a href="https://x.com/everestchris6">@everestchris6</a> · ♥ 7.3k · <a href="https://x.com/everestchris6/status/2120175941616128277">▶ 影片</a></sub><br>
 <br>
 <sub><a href="https://x.com/everestchris6/status/2120175941616128277">📝 作者公開的提示詞（免費）</a></sub>
 </td>
@@ -497,14 +503,14 @@
 <td width="33%" valign="top">
 <a href="https://x.com/yohakutoink/status/2120824797215310208"><img src="assets/gifs/261.gif" width="100%" alt="用程式碼畫一幅複製品——「原作這裡有個髒斑，我的沒有」"></a><br>
 <b><a href="https://x.com/yohakutoink/status/2120824797215310208">用程式碼畫一幅複製品——「原作這裡有個髒斑，我的沒有」</a></b><br>
-<sub>🆕 · <a href="https://x.com/yohakutoink">@yohakutoink</a> · ♥ 6.3k · <a href="https://x.com/yohakutoink/status/2120824797215310208">▶ 影片</a></sub><br>
+<sub>🆕 · <a href="https://x.com/yohakutoink">@yohakutoink</a> · ♥ 6.4k · <a href="https://x.com/yohakutoink/status/2120824797215310208">▶ 影片</a></sub><br>
 <br>
 <sub><a href="https://fablelist.000ooo.ooo/zh-tw/prompts/?w=painting-a-copy-in-code-the-original-has&ref=gh"><b>✨ 取得提示詞</b></a></sub>
 </td>
 <td width="33%" valign="top">
 <a href="https://x.com/matabee_GTO/status/2120995946372985144"><img src="assets/gifs/254.gif" width="100%" alt="一則提示：做出你能做出的最令人不適的影片"></a><br>
 <b><a href="https://x.com/matabee_GTO/status/2120995946372985144">一則提示：做出你能做出的最令人不適的影片</a></b><br>
-<sub>🆕 · <a href="https://x.com/matabee_GTO">@matabee_GTO</a> · ♥ 4.7k · <a href="https://x.com/matabee_GTO/status/2120995946372985144">▶ 影片</a></sub><br>
+<sub>🆕 · <a href="https://x.com/matabee_GTO">@matabee_GTO</a> · ♥ 4.8k · <a href="https://x.com/matabee_GTO/status/2120995946372985144">▶ 影片</a></sub><br>
 <br>
 <sub><a href="https://x.com/matabee_GTO/status/2120995946372985144">📝 作者公開的提示詞（免費）</a></sub>
 </td>
@@ -541,7 +547,7 @@
 </tr>
 </table>
 
-<p align="center"><b><a href="all/video-demos.zh-TW.md">查看全部 119 個 →</a></b></p>
+<p align="center"><b><a href="all/video-demos.zh-TW.md">查看全部 122 個 →</a></b></p>
 
 ## 🤝 投稿
 
@@ -561,7 +567,7 @@
 
 ## 📰 更新
 
-- **2026-11-15**：新增 9 個作品和 7 個影片展示。
+- **2026-11-15**：新增 10 個作品和 10 個影片展示。
 - **2026-11-14**：新增 13 個作品和 2 個影片展示。
 - **2026-11-13**：新增 41 個作品和 24 個影片展示。
 - **2026-11-12**：新增 45 個作品和 26 個影片展示。

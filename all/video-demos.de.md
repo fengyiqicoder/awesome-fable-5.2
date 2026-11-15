@@ -1,4 +1,4 @@
-# 📺 Video-Demos · alle 119
+# 📺 Video-Demos · alle 122
 
 [← Zurück zur Liste](../README.de.md) · [English](video-demos.md) · [简体中文](video-demos.zh-CN.md) · [繁體中文](video-demos.zh-TW.md) · [日本語](video-demos.ja.md) · [한국어](video-demos.ko.md) · [Español](video-demos.es.md) · [Português](video-demos.pt-BR.md) · [Français](video-demos.fr.md) · **Deutsch** · [Русский](video-demos.ru.md)
 
@@ -34,7 +34,7 @@ Die Creator haben ein Video, aber keinen Link geteilt. Klick auf die Vorschau f�
 <td width="33%" valign="top">
 <a href="https://x.com/everestchris6/status/2120175941616128277"><img src="../assets/gifs/207.gif" width="100%" alt="2D-Grundrisse, in 3D-Rundgänge verwandelt"></a><br>
 <b><a href="https://x.com/everestchris6/status/2120175941616128277">2D-Grundrisse, in 3D-Rundgänge verwandelt</a></b><br>
-<sub>🆕 · <a href="https://x.com/everestchris6">@everestchris6</a> · ♥ 7.2k · <a href="https://x.com/everestchris6/status/2120175941616128277">▶ Video</a></sub><br>
+<sub>🆕 · <a href="https://x.com/everestchris6">@everestchris6</a> · ♥ 7.3k · <a href="https://x.com/everestchris6/status/2120175941616128277">▶ Video</a></sub><br>
 <br>
 <sub><a href="https://x.com/everestchris6/status/2120175941616128277">📝 Prompt des Creators (kostenlos)</a></sub>
 </td>
@@ -57,14 +57,14 @@ Die Creator haben ein Video, aber keinen Link geteilt. Klick auf die Vorschau f�
 <td width="33%" valign="top">
 <a href="https://x.com/yohakutoink/status/2120824797215310208"><img src="../assets/gifs/261.gif" width="100%" alt="Ein Gemälde im Code kopiert – „das Original hat hier einen Fleck, meins nicht“"></a><br>
 <b><a href="https://x.com/yohakutoink/status/2120824797215310208">Ein Gemälde im Code kopiert – „das Original hat hier einen Fleck, meins nicht“</a></b><br>
-<sub>🆕 · <a href="https://x.com/yohakutoink">@yohakutoink</a> · ♥ 6.3k · <a href="https://x.com/yohakutoink/status/2120824797215310208">▶ Video</a></sub><br>
+<sub>🆕 · <a href="https://x.com/yohakutoink">@yohakutoink</a> · ♥ 6.4k · <a href="https://x.com/yohakutoink/status/2120824797215310208">▶ Video</a></sub><br>
 <br>
 <sub><a href="https://fablelist.000ooo.ooo/de/prompts/?w=painting-a-copy-in-code-the-original-has&ref=gh"><b>✨ Prompt holen</b></a></sub>
 </td>
 <td width="33%" valign="top">
 <a href="https://x.com/matabee_GTO/status/2120995946372985144"><img src="../assets/gifs/254.gif" width="100%" alt="Ein Prompt: Mach das unangenehmste Video, das du kannst"></a><br>
 <b><a href="https://x.com/matabee_GTO/status/2120995946372985144">Ein Prompt: Mach das unangenehmste Video, das du kannst</a></b><br>
-<sub>🆕 · <a href="https://x.com/matabee_GTO">@matabee_GTO</a> · ♥ 4.7k · <a href="https://x.com/matabee_GTO/status/2120995946372985144">▶ Video</a></sub><br>
+<sub>🆕 · <a href="https://x.com/matabee_GTO">@matabee_GTO</a> · ♥ 4.8k · <a href="https://x.com/matabee_GTO/status/2120995946372985144">▶ Video</a></sub><br>
 <br>
 <sub><a href="https://x.com/matabee_GTO/status/2120995946372985144">📝 Prompt des Creators (kostenlos)</a></sub>
 </td>
@@ -124,6 +124,12 @@ Die Creator haben ein Video, aber keinen Link geteilt. Klick auf die Vorschau f�
 </tr>
 <tr>
 <td width="33%" valign="top">
+<a href="https://x.com/JungleSilicon/status/2121782359901212987"><img src="../assets/gifs/291.gif" width="100%" alt="Gaussian Splats im Pixel-Art-Stil"></a><br>
+<b><a href="https://x.com/JungleSilicon/status/2121782359901212987">Gaussian Splats im Pixel-Art-Stil</a></b><br>
+<sub>🆕 · <a href="https://x.com/JungleSilicon">@JungleSilicon</a> · ♥ 2.5k · <a href="https://x.com/JungleSilicon/status/2121782359901212987">▶ Video</a></sub><br>
+
+</td>
+<td width="33%" valign="top">
 <a href="https://x.com/theo/status/2119926277801144695"><img src="../assets/gifs/063.gif" width="100%" alt="Fishslop-Lauf"></a><br>
 <b><a href="https://x.com/theo/status/2119926277801144695">Fishslop-Lauf</a></b><br>
 <sub><a href="https://x.com/theo">@theo</a> · ♥ 2.3k · <a href="https://x.com/theo/status/2119926277801144695">▶ Video</a></sub><br>
@@ -137,6 +143,8 @@ Die Creator haben ein Video, aber keinen Link geteilt. Klick auf die Vorschau f�
 <br>
 <sub><a href="https://fablelist.000ooo.ooo/de/prompts/?w=a-racing-game-in-unreal-engine-5-from&ref=gh"><b>✨ Prompt holen</b></a></sub>
 </td>
+</tr>
+<tr>
 <td width="33%" valign="top">
 <a href="https://x.com/ryoma_nakajima/status/2120052388434473233"><img src="../assets/gifs/211.gif" width="100%" alt="Es kann endlich Origami falten"></a><br>
 <b><a href="https://x.com/ryoma_nakajima/status/2120052388434473233">Es kann endlich Origami falten</a></b><br>
@@ -144,8 +152,6 @@ Die Creator haben ein Video, aber keinen Link geteilt. Klick auf die Vorschau f�
 <br>
 <sub><a href="https://x.com/ryoma_nakajima/status/2120052388434473233">📝 Prompt des Creators (kostenlos)</a></sub>
 </td>
-</tr>
-<tr>
 <td width="33%" valign="top">
 <a href="https://x.com/_sholtodouglas/status/2119935331499925557"><img src="../assets/gifs/064.gif" width="100%" alt="Arena-FPS mit Portalen"></a><br>
 <b><a href="https://x.com/_sholtodouglas/status/2119935331499925557">Arena-FPS mit Portalen</a></b><br>
@@ -160,6 +166,8 @@ Die Creator haben ein Video, aber keinen Link geteilt. Klick auf die Vorschau f�
 <br>
 <sub><a href="https://fablelist.000ooo.ooo/de/prompts/?w=a-whole-video-made-by-writing-python-for&ref=gh"><b>✨ Prompt holen</b></a></sub>
 </td>
+</tr>
+<tr>
 <td width="33%" valign="top">
 <a href="https://x.com/Kashiko_AIart/status/2120640633346097400"><img src="../assets/gifs/214.gif" width="100%" alt="„Show me your work“"></a><br>
 <b><a href="https://x.com/Kashiko_AIart/status/2120640633346097400">„Show me your work“</a></b><br>
@@ -167,8 +175,6 @@ Die Creator haben ein Video, aber keinen Link geteilt. Klick auf die Vorschau f�
 <br>
 <sub><a href="https://fablelist.000ooo.ooo/de/prompts/?w=show-me-your-work&ref=gh"><b>✨ Prompt holen</b></a></sub>
 </td>
-</tr>
-<tr>
 <td width="33%" valign="top">
 <a href="https://x.com/_MaxBlade/status/2120109725740159390"><img src="../assets/gifs/093.gif" width="100%" alt="4 Stunden in Unreal Engine 5.9 per MCP"></a><br>
 <b><a href="https://x.com/_MaxBlade/status/2120109725740159390">4 Stunden in Unreal Engine 5.9 per MCP</a></b><br>
@@ -182,6 +188,8 @@ Die Creator haben ein Video, aber keinen Link geteilt. Klick auf die Vorschau f�
 <sub>🆕 · <a href="https://x.com/chrisjdimarco">@chrisjdimarco</a> · ♥ 1.7k · <a href="https://x.com/chrisjdimarco/status/2120752985949057215">▶ Video</a></sub><br>
 
 </td>
+</tr>
+<tr>
 <td width="33%" valign="top">
 <a href="https://x.com/LexnLin/status/2119880654858977333"><img src="../assets/gifs/065.gif" width="100%" alt="3D-Szene mit schneller Kamera"></a><br>
 <b><a href="https://x.com/LexnLin/status/2119880654858977333">3D-Szene mit schneller Kamera</a></b><br>
@@ -189,8 +197,6 @@ Die Creator haben ein Video, aber keinen Link geteilt. Klick auf die Vorschau f�
 <sub>30 Minuten mit ein paar Opus-5.5-Subagents.</sub><br>
 <sub><a href="https://fablelist.000ooo.ooo/de/prompts/?w=fast-camera-3d-scene&ref=gh"><b>✨ Prompt holen</b></a></sub>
 </td>
-</tr>
-<tr>
 <td width="33%" valign="top">
 <a href="https://x.com/JungleSilicon/status/2120452158961397975"><img src="../assets/gifs/213.gif" width="100%" alt="Pixel-Art-Gaussian-Splats"></a><br>
 <b><a href="https://x.com/JungleSilicon/status/2120452158961397975">Pixel-Art-Gaussian-Splats</a></b><br>
@@ -205,6 +211,8 @@ Die Creator haben ein Video, aber keinen Link geteilt. Klick auf die Vorschau f�
 <br>
 <sub><a href="https://fablelist.000ooo.ooo/de/prompts/?w=glass-pool-fable-vs-opus&ref=gh"><b>✨ Prompt holen</b></a></sub>
 </td>
+</tr>
+<tr>
 <td width="33%" valign="top">
 <a href="https://x.com/DeryaTR_/status/2120382619082727604"><img src="../assets/gifs/238.gif" width="100%" alt="Das Leben einer T-Zelle, ein 8-Minuten-Film"></a><br>
 <b><a href="https://x.com/DeryaTR_/status/2120382619082727604">Das Leben einer T-Zelle, ein 8-Minuten-Film</a></b><br>
@@ -212,8 +220,6 @@ Die Creator haben ein Video, aber keinen Link geteilt. Klick auf die Vorschau f�
 <br>
 <sub><a href="https://fablelist.000ooo.ooo/de/prompts/?w=the-life-of-a-t-cell-an-8&ref=gh"><b>✨ Prompt holen</b></a></sub>
 </td>
-</tr>
-<tr>
 <td width="33%" valign="top">
 <a href="https://x.com/akakuma0219/status/2120030634248929556"><img src="../assets/gifs/155.gif" width="100%" alt="Previz-Laufzyklen aus drei Wörtern"></a><br>
 <b><a href="https://x.com/akakuma0219/status/2120030634248929556">Previz-Laufzyklen aus drei Wörtern</a></b><br>
@@ -228,6 +234,8 @@ Die Creator haben ein Video, aber keinen Link geteilt. Klick auf die Vorschau f�
 <br>
 <sub><a href="https://fablelist.000ooo.ooo/de/prompts/?w=woke-up-to-this-game-environment-in-blender&ref=gh"><b>✨ Prompt holen</b></a></sub>
 </td>
+</tr>
+<tr>
 <td width="33%" valign="top">
 <a href="https://x.com/xikhar/status/2119966147328299284"><img src="../assets/gifs/156.gif" width="100%" alt="Bugatti Tourbillon in Blender modelliert und gerendert"></a><br>
 <b><a href="https://x.com/xikhar/status/2119966147328299284">Bugatti Tourbillon in Blender modelliert und gerendert</a></b><br>
@@ -235,8 +243,6 @@ Die Creator haben ein Video, aber keinen Link geteilt. Klick auf die Vorschau f�
 <br>
 <sub><a href="https://x.com/xikhar/status/2119966147328299284">📝 Prompt des Creators (kostenlos)</a></sub>
 </td>
-</tr>
-<tr>
 <td width="33%" valign="top">
 <a href="https://x.com/KHvostikk/status/2119939061049889130"><img src="../assets/gifs/215.gif" width="100%" alt="Video zu 3D-Animation"></a><br>
 <b><a href="https://x.com/KHvostikk/status/2119939061049889130">Video zu 3D-Animation</a></b><br>
@@ -250,6 +256,8 @@ Die Creator haben ein Video, aber keinen Link geteilt. Klick auf die Vorschau f�
 <sub><a href="https://x.com/chetaslua">@chetaslua</a> · ♥ 1.2k · <a href="https://x.com/chetaslua/status/2119870650722763052">▶ Video</a></sub><br>
 <sub>Anthropics Demo mit über 1.000 koordinierten Agents.</sub>
 </td>
+</tr>
+<tr>
 <td width="33%" valign="top">
 <a href="https://x.com/vib3coded/status/2119876781700505627"><img src="../assets/gifs/068.gif" width="100%" alt="Süchtig machender Lautstärkeregler"></a><br>
 <b><a href="https://x.com/vib3coded/status/2119876781700505627">Süchtig machender Lautstärkeregler</a></b><br>
@@ -257,20 +265,12 @@ Die Creator haben ein Video, aber keinen Link geteilt. Klick auf die Vorschau f�
 <sub>10 Minuten, 8,43 $.</sub><br>
 <sub><a href="https://x.com/vib3coded/status/2119876781700505627">📝 Prompt des Creators (kostenlos)</a></sub>
 </td>
-</tr>
-<tr>
 <td width="33%" valign="top">
 <a href="https://x.com/ericmaskfr/status/2119910195325481026"><img src="../assets/gifs/070.gif" width="100%" alt="GTA 6 mit einem Prompt"></a><br>
 <b><a href="https://x.com/ericmaskfr/status/2119910195325481026">GTA 6 mit einem Prompt</a></b><br>
 <sub><a href="https://x.com/ericmaskfr">@ericmaskfr</a> · ♥ 1.0k · <a href="https://x.com/ericmaskfr/status/2119910195325481026">▶ Video</a></sub><br>
 <br>
 <sub><a href="https://x.com/ericmaskfr/status/2119910195325481026">📝 Prompt des Creators (kostenlos)</a></sub>
-</td>
-<td width="33%" valign="top">
-<a href="https://x.com/JungleSilicon/status/2121782359901212987"><img src="../assets/gifs/291.gif" width="100%" alt="Gaussian Splats im Pixel-Art-Stil"></a><br>
-<b><a href="https://x.com/JungleSilicon/status/2121782359901212987">Gaussian Splats im Pixel-Art-Stil</a></b><br>
-<sub>🆕 · <a href="https://x.com/JungleSilicon">@JungleSilicon</a> · ♥ 966 · <a href="https://x.com/JungleSilicon/status/2121782359901212987">▶ Video</a></sub><br>
-
 </td>
 <td width="33%" valign="top">
 <a href="https://x.com/oalanicolas/status/2120138473826877590"><img src="../assets/gifs/239.gif" width="100%" alt="Ein komplettes Wohnungsdesign"></a><br>
@@ -284,21 +284,21 @@ Die Creator haben ein Video, aber keinen Link geteilt. Klick auf die Vorschau f�
 <td width="33%" valign="top">
 <a href="https://x.com/kinderlayer/status/2120112222227648957"><img src="../assets/gifs/116.gif" width="100%" alt="Löwe aus einem Teppich (Fable vs Gemini)"></a><br>
 <b><a href="https://x.com/kinderlayer/status/2120112222227648957">Löwe aus einem Teppich (Fable vs Gemini)</a></b><br>
-<sub><a href="https://x.com/kinderlayer">@kinderlayer</a> · ♥ 867 · <a href="https://x.com/kinderlayer/status/2120112222227648957">▶ Video</a></sub><br>
+<sub><a href="https://x.com/kinderlayer">@kinderlayer</a> · ♥ 870 · <a href="https://x.com/kinderlayer/status/2120112222227648957">▶ Video</a></sub><br>
 <br>
 <sub><a href="https://fablelist.000ooo.ooo/de/prompts/?w=lion-from-a-carpet-fable-vs-gemini&ref=gh"><b>✨ Prompt holen</b></a></sub>
 </td>
 <td width="33%" valign="top">
 <a href="https://x.com/KHvostikk/status/2120621109125202344"><img src="../assets/gifs/242.gif" width="100%" alt="Bild zu 3D-Modell mit PBR-Texturen"></a><br>
 <b><a href="https://x.com/KHvostikk/status/2120621109125202344">Bild zu 3D-Modell mit PBR-Texturen</a></b><br>
-<sub>🆕 · <a href="https://x.com/KHvostikk">@KHvostikk</a> · ♥ 860 · <a href="https://x.com/KHvostikk/status/2120621109125202344">▶ Video</a></sub><br>
+<sub>🆕 · <a href="https://x.com/KHvostikk">@KHvostikk</a> · ♥ 862 · <a href="https://x.com/KHvostikk/status/2120621109125202344">▶ Video</a></sub><br>
 <br>
 <sub><a href="https://fablelist.000ooo.ooo/de/prompts/?w=image-to-3d-model-with-pbr-textures&ref=gh"><b>✨ Prompt holen</b></a></sub>
 </td>
 <td width="33%" valign="top">
 <a href="https://x.com/tm_uchal/status/2120573380768518390"><img src="../assets/gifs/240.gif" width="100%" alt="KI-Avatar-Video"></a><br>
 <b><a href="https://x.com/tm_uchal/status/2120573380768518390">KI-Avatar-Video</a></b><br>
-<sub>🆕 · <a href="https://x.com/tm_uchal">@tm_uchal</a> · ♥ 817 · <a href="https://x.com/tm_uchal/status/2120573380768518390">▶ Video</a></sub><br>
+<sub>🆕 · <a href="https://x.com/tm_uchal">@tm_uchal</a> · ♥ 831 · <a href="https://x.com/tm_uchal/status/2120573380768518390">▶ Video</a></sub><br>
 <br>
 <sub><a href="https://fablelist.000ooo.ooo/de/prompts/?w=ai-avatar-video&ref=gh"><b>✨ Prompt holen</b></a></sub>
 </td>
@@ -307,7 +307,7 @@ Die Creator haben ein Video, aber keinen Link geteilt. Klick auf die Vorschau f�
 <td width="33%" valign="top">
 <a href="https://x.com/scottstts/status/2120254108104007712"><img src="../assets/gifs/216.gif" width="100%" alt="Dragon's Nest, three.js + Tripo"></a><br>
 <b><a href="https://x.com/scottstts/status/2120254108104007712">Dragon's Nest, three.js + Tripo</a></b><br>
-<sub>🆕 · <a href="https://x.com/scottstts">@scottstts</a> · ♥ 796 · <a href="https://x.com/scottstts/status/2120254108104007712">▶ Video</a></sub><br>
+<sub>🆕 · <a href="https://x.com/scottstts">@scottstts</a> · ♥ 799 · <a href="https://x.com/scottstts/status/2120254108104007712">▶ Video</a></sub><br>
 <br>
 <sub><a href="https://fablelist.000ooo.ooo/de/prompts/?w=dragon-s-nest-three-js-tripo&ref=gh"><b>✨ Prompt holen</b></a></sub>
 </td>
@@ -330,20 +330,20 @@ Die Creator haben ein Video, aber keinen Link geteilt. Klick auf die Vorschau f�
 <td width="33%" valign="top">
 <a href="https://x.com/jaimintf/status/2120553374286594292"><img src="../assets/gifs/243.gif" width="100%" alt="Zugsitz-Ansicht vor der Buchung"></a><br>
 <b><a href="https://x.com/jaimintf/status/2120553374286594292">Zugsitz-Ansicht vor der Buchung</a></b><br>
-<sub>🆕 · <a href="https://x.com/jaimintf">@jaimintf</a> · ♥ 761 · <a href="https://x.com/jaimintf/status/2120553374286594292">▶ Video</a></sub><br>
+<sub>🆕 · <a href="https://x.com/jaimintf">@jaimintf</a> · ♥ 765 · <a href="https://x.com/jaimintf/status/2120553374286594292">▶ Video</a></sub><br>
 <br>
 <sub><a href="https://fablelist.000ooo.ooo/de/prompts/?w=train-seat-view-before-you-book&ref=gh"><b>✨ Prompt holen</b></a></sub>
 </td>
 <td width="33%" valign="top">
 <a href="https://x.com/Dstudio_ai/status/2121168620760019389"><img src="../assets/gifs/270.gif" width="100%" alt="Einen VRM-Avatar bauen – Augentexturen, Jiggle-Teile und Hals-Fixes, ohne Blender zu öffnen"></a><br>
 <b><a href="https://x.com/Dstudio_ai/status/2121168620760019389">Einen VRM-Avatar bauen – Augentexturen, Jiggle-Teile und Hals-Fixes, ohne Blender zu öffnen</a></b><br>
-<sub>🆕 · <a href="https://x.com/Dstudio_ai">@Dstudio_ai</a> · ♥ 754 · <a href="https://x.com/Dstudio_ai/status/2121168620760019389">▶ Video</a></sub><br>
+<sub>🆕 · <a href="https://x.com/Dstudio_ai">@Dstudio_ai</a> · ♥ 765 · <a href="https://x.com/Dstudio_ai/status/2121168620760019389">▶ Video</a></sub><br>
 
 </td>
 <td width="33%" valign="top">
 <a href="https://x.com/rute1203d/status/2120077147872391540"><img src="../assets/gifs/158.gif" width="100%" alt="„Show me your best video“ – mit einem Twist"></a><br>
 <b><a href="https://x.com/rute1203d/status/2120077147872391540">„Show me your best video“ – mit einem Twist</a></b><br>
-<sub><a href="https://x.com/rute1203d">@rute1203d</a> · ♥ 745 · <a href="https://x.com/rute1203d/status/2120077147872391540">▶ Video</a></sub><br>
+<sub><a href="https://x.com/rute1203d">@rute1203d</a> · ♥ 747 · <a href="https://x.com/rute1203d/status/2120077147872391540">▶ Video</a></sub><br>
 <br>
 <sub><a href="https://fablelist.000ooo.ooo/de/prompts/?w=show-me-your-best-video-with-a-twist&ref=gh"><b>✨ Prompt holen</b></a></sub>
 </td>
@@ -352,21 +352,21 @@ Die Creator haben ein Video, aber keinen Link geteilt. Klick auf die Vorschau f�
 <td width="33%" valign="top">
 <a href="https://x.com/anikrisn/status/2119950148294119483"><img src="../assets/gifs/241.gif" width="100%" alt="Leuchtendes isometrisches Teich-Diorama"></a><br>
 <b><a href="https://x.com/anikrisn/status/2119950148294119483">Leuchtendes isometrisches Teich-Diorama</a></b><br>
-<sub>🆕 · <a href="https://x.com/anikrisn">@anikrisn</a> · ♥ 737 · <a href="https://x.com/anikrisn/status/2119950148294119483">▶ Video</a></sub><br>
+<sub>🆕 · <a href="https://x.com/anikrisn">@anikrisn</a> · ♥ 738 · <a href="https://x.com/anikrisn/status/2119950148294119483">▶ Video</a></sub><br>
 <br>
 <sub><a href="https://fablelist.000ooo.ooo/de/prompts/?w=glowing-isometric-pond-diorama&ref=gh"><b>✨ Prompt holen</b></a></sub>
 </td>
 <td width="33%" valign="top">
 <a href="https://x.com/JaydenDavisNC/status/2120306434575392793"><img src="../assets/gifs/194.gif" width="100%" alt="Ein Ego-Shooter in Three.js, ohne externe Assets"></a><br>
 <b><a href="https://x.com/JaydenDavisNC/status/2120306434575392793">Ein Ego-Shooter in Three.js, ohne externe Assets</a></b><br>
-<sub><a href="https://x.com/JaydenDavisNC">@JaydenDavisNC</a> · ♥ 728 · <a href="https://x.com/JaydenDavisNC/status/2120306434575392793">▶ Video</a></sub><br>
+<sub><a href="https://x.com/JaydenDavisNC">@JaydenDavisNC</a> · ♥ 730 · <a href="https://x.com/JaydenDavisNC/status/2120306434575392793">▶ Video</a></sub><br>
 <br>
 <sub><a href="https://fablelist.000ooo.ooo/de/prompts/?w=a-first-person-shooter-in-three-js-no&ref=gh"><b>✨ Prompt holen</b></a></sub>
 </td>
 <td width="33%" valign="top">
 <a href="https://x.com/adamdotnew/status/2120071630139621540"><img src="../assets/gifs/157.gif" width="100%" alt="Ein Tamagotchi: Platine, Gehäuse und Render"></a><br>
 <b><a href="https://x.com/adamdotnew/status/2120071630139621540">Ein Tamagotchi: Platine, Gehäuse und Render</a></b><br>
-<sub><a href="https://x.com/adamdotnew">@adamdotnew</a> · ♥ 704 · <a href="https://x.com/adamdotnew/status/2120071630139621540">▶ Video</a></sub><br>
+<sub><a href="https://x.com/adamdotnew">@adamdotnew</a> · ♥ 705 · <a href="https://x.com/adamdotnew/status/2120071630139621540">▶ Video</a></sub><br>
 <br>
 <sub><a href="https://fablelist.000ooo.ooo/de/prompts/?w=a-tamagotchi-pcb-enclosure-and-render&ref=gh"><b>✨ Prompt holen</b></a></sub>
 </td>
@@ -389,7 +389,7 @@ Die Creator haben ein Video, aber keinen Link geteilt. Klick auf die Vorschau f�
 <td width="33%" valign="top">
 <a href="https://x.com/kevin_t_ngo/status/2120308118127309173"><img src="../assets/gifs/166.gif" width="100%" alt="Ein Cerealien-Werbespot aus den 90ern"></a><br>
 <b><a href="https://x.com/kevin_t_ngo/status/2120308118127309173">Ein Cerealien-Werbespot aus den 90ern</a></b><br>
-<sub><a href="https://x.com/kevin_t_ngo">@kevin_t_ngo</a> · ♥ 671 · <a href="https://x.com/kevin_t_ngo/status/2120308118127309173">▶ Video</a></sub><br>
+<sub><a href="https://x.com/kevin_t_ngo">@kevin_t_ngo</a> · ♥ 672 · <a href="https://x.com/kevin_t_ngo/status/2120308118127309173">▶ Video</a></sub><br>
 <br>
 <sub><a href="https://fablelist.000ooo.ooo/de/prompts/?w=a-90s-cereal-commercial&ref=gh"><b>✨ Prompt holen</b></a></sub>
 </td>
@@ -405,7 +405,7 @@ Die Creator haben ein Video, aber keinen Link geteilt. Klick auf die Vorschau f�
 <td width="33%" valign="top">
 <a href="https://x.com/KanaWorks_AI/status/2120098607382880627"><img src="../assets/gifs/159.gif" width="100%" alt="37 Sekunden ungeschnittener Flug über endloses Gelände"></a><br>
 <b><a href="https://x.com/KanaWorks_AI/status/2120098607382880627">37 Sekunden ungeschnittener Flug über endloses Gelände</a></b><br>
-<sub><a href="https://x.com/KanaWorks_AI">@KanaWorks_AI</a> · ♥ 655 · <a href="https://x.com/KanaWorks_AI/status/2120098607382880627">▶ Video</a></sub><br>
+<sub><a href="https://x.com/KanaWorks_AI">@KanaWorks_AI</a> · ♥ 658 · <a href="https://x.com/KanaWorks_AI/status/2120098607382880627">▶ Video</a></sub><br>
 <br>
 <sub><a href="https://fablelist.000ooo.ooo/de/prompts/?w=37-second-uncut-flight-over-endless-terrain&ref=gh"><b>✨ Prompt holen</b></a></sub>
 </td>
@@ -421,7 +421,7 @@ Die Creator haben ein Video, aber keinen Link geteilt. Klick auf die Vorschau f�
 <td width="33%" valign="top">
 <a href="https://x.com/LexnLin/status/2120167637133238295"><img src="../assets/gifs/160.gif" width="100%" alt="Claude-Logo-Animation"></a><br>
 <b><a href="https://x.com/LexnLin/status/2120167637133238295">Claude-Logo-Animation</a></b><br>
-<sub><a href="https://x.com/LexnLin">@LexnLin</a> · ♥ 629 · <a href="https://x.com/LexnLin/status/2120167637133238295">▶ Video</a></sub><br>
+<sub><a href="https://x.com/LexnLin">@LexnLin</a> · ♥ 631 · <a href="https://x.com/LexnLin/status/2120167637133238295">▶ Video</a></sub><br>
 <br>
 <sub><a href="https://fablelist.000ooo.ooo/de/prompts/?w=claude-logo-animation&ref=gh"><b>✨ Prompt holen</b></a></sub>
 </td>
@@ -435,26 +435,34 @@ Die Creator haben ein Video, aber keinen Link geteilt. Klick auf die Vorschau f�
 <td width="33%" valign="top">
 <a href="https://x.com/lemomo_ai/status/2120118194409193682"><img src="../assets/gifs/103.gif" width="100%" alt="Eine Bibliothek um Mitternacht"></a><br>
 <b><a href="https://x.com/lemomo_ai/status/2120118194409193682">Eine Bibliothek um Mitternacht</a></b><br>
-<sub><a href="https://x.com/lemomo_ai">@lemomo_ai</a> · ♥ 607 · <a href="https://x.com/lemomo_ai/status/2120118194409193682">▶ Video</a></sub><br>
+<sub><a href="https://x.com/lemomo_ai">@lemomo_ai</a> · ♥ 610 · <a href="https://x.com/lemomo_ai/status/2120118194409193682">▶ Video</a></sub><br>
 <sub>24.000 Seiten heben ab.</sub><br>
 <sub><a href="https://fablelist.000ooo.ooo/de/prompts/?w=a-library-at-midnight&ref=gh"><b>✨ Prompt holen</b></a></sub>
 </td>
 </tr>
 <tr>
 <td width="33%" valign="top">
+<a href="https://x.com/AstrablueAI/status/2121635642836918385"><img src="../assets/gifs/292.gif" width="100%" alt="FABLE-OUS, ein Musikvideo in einem Durchgang"></a><br>
+<b><a href="https://x.com/AstrablueAI/status/2121635642836918385">FABLE-OUS, ein Musikvideo in einem Durchgang</a></b><br>
+<sub>🆕 · <a href="https://x.com/AstrablueAI">@AstrablueAI</a> · ♥ 580 · <a href="https://x.com/AstrablueAI/status/2121635642836918385">▶ Video</a></sub><br>
+
+</td>
+<td width="33%" valign="top">
 <a href="https://x.com/MrTacticalX/status/2120342453807157720"><img src="../assets/gifs/161.gif" width="100%" alt="Eine mechanische Tastatur in Blender, samt Tippen"></a><br>
 <b><a href="https://x.com/MrTacticalX/status/2120342453807157720">Eine mechanische Tastatur in Blender, samt Tippen</a></b><br>
-<sub><a href="https://x.com/MrTacticalX">@MrTacticalX</a> · ♥ 559 · <a href="https://x.com/MrTacticalX/status/2120342453807157720">▶ Video</a></sub><br>
+<sub><a href="https://x.com/MrTacticalX">@MrTacticalX</a> · ♥ 561 · <a href="https://x.com/MrTacticalX/status/2120342453807157720">▶ Video</a></sub><br>
 <br>
 <sub><a href="https://fablelist.000ooo.ooo/de/prompts/?w=a-mechanical-keyboard-in-blender-typing-included&ref=gh"><b>✨ Prompt holen</b></a></sub>
 </td>
 <td width="33%" valign="top">
 <a href="https://x.com/kevin_t_ngo/status/2120540964909711415"><img src="../assets/gifs/167.gif" width="100%" alt="Ein animiertes Show-Intro"></a><br>
 <b><a href="https://x.com/kevin_t_ngo/status/2120540964909711415">Ein animiertes Show-Intro</a></b><br>
-<sub><a href="https://x.com/kevin_t_ngo">@kevin_t_ngo</a> · ♥ 552 · <a href="https://x.com/kevin_t_ngo/status/2120540964909711415">▶ Video</a></sub><br>
+<sub><a href="https://x.com/kevin_t_ngo">@kevin_t_ngo</a> · ♥ 556 · <a href="https://x.com/kevin_t_ngo/status/2120540964909711415">▶ Video</a></sub><br>
 <br>
 <sub><a href="https://fablelist.000ooo.ooo/de/prompts/?w=an-animated-show-intro&ref=gh"><b>✨ Prompt holen</b></a></sub>
 </td>
+</tr>
+<tr>
 <td width="33%" valign="top">
 <a href="https://x.com/dom_scholz/status/2119933150025363661"><img src="../assets/gifs/072.gif" width="100%" alt="Opus 5.5 vs Fable 5.2"></a><br>
 <b><a href="https://x.com/dom_scholz/status/2119933150025363661">Opus 5.5 vs Fable 5.2</a></b><br>
@@ -462,20 +470,12 @@ Die Creator haben ein Video, aber keinen Link geteilt. Klick auf die Vorschau f�
 <br>
 <sub><a href="https://fablelist.000ooo.ooo/de/prompts/?w=opus-5-5-vs-fable-5-2&ref=gh"><b>✨ Prompt holen</b></a></sub>
 </td>
-</tr>
-<tr>
 <td width="33%" valign="top">
 <a href="https://x.com/thomaszhou_/status/2120389154970509666"><img src="../assets/gifs/162.gif" width="100%" alt="„Beauty“, ein Kurzfilm aus einem Satz"></a><br>
 <b><a href="https://x.com/thomaszhou_/status/2120389154970509666">„Beauty“, ein Kurzfilm aus einem Satz</a></b><br>
-<sub><a href="https://x.com/thomaszhou_">@thomaszhou_</a> · ♥ 535 · <a href="https://x.com/thomaszhou_/status/2120389154970509666">▶ Video</a></sub><br>
+<sub><a href="https://x.com/thomaszhou_">@thomaszhou_</a> · ♥ 537 · <a href="https://x.com/thomaszhou_/status/2120389154970509666">▶ Video</a></sub><br>
 <br>
 <sub><a href="https://x.com/thomaszhou_/status/2120389154970509666">📝 Prompt des Creators (kostenlos)</a></sub>
-</td>
-<td width="33%" valign="top">
-<a href="https://x.com/AstrablueAI/status/2121635642836918385"><img src="../assets/gifs/292.gif" width="100%" alt="FABLE-OUS, ein Musikvideo in einem Durchgang"></a><br>
-<b><a href="https://x.com/AstrablueAI/status/2121635642836918385">FABLE-OUS, ein Musikvideo in einem Durchgang</a></b><br>
-<sub>🆕 · <a href="https://x.com/AstrablueAI">@AstrablueAI</a> · ♥ 509 · <a href="https://x.com/AstrablueAI/status/2121635642836918385">▶ Video</a></sub><br>
-
 </td>
 <td width="33%" valign="top">
 <a href="https://x.com/MengTo/status/2120316203738829180"><img src="../assets/gifs/196.gif" width="100%" alt="Eine three.js-Wohnung in Blender nachgebaut"></a><br>
@@ -495,7 +495,7 @@ Die Creator haben ein Video, aber keinen Link geteilt. Klick auf die Vorschau f�
 <td width="33%" valign="top">
 <a href="https://x.com/oalanicolas/status/2120266468780585456"><img src="../assets/gifs/163.gif" width="100%" alt="Ein Rundgang durch ein noch nicht gebautes Haus"></a><br>
 <b><a href="https://x.com/oalanicolas/status/2120266468780585456">Ein Rundgang durch ein noch nicht gebautes Haus</a></b><br>
-<sub><a href="https://x.com/oalanicolas">@oalanicolas</a> · ♥ 495 · <a href="https://x.com/oalanicolas/status/2120266468780585456">▶ Video</a></sub><br>
+<sub><a href="https://x.com/oalanicolas">@oalanicolas</a> · ♥ 497 · <a href="https://x.com/oalanicolas/status/2120266468780585456">▶ Video</a></sub><br>
 <br>
 <sub><a href="https://x.com/oalanicolas/status/2120266468780585456">📝 Prompt des Creators (kostenlos)</a></sub>
 </td>
@@ -511,7 +511,7 @@ Die Creator haben ein Video, aber keinen Link geteilt. Klick auf die Vorschau f�
 <td width="33%" valign="top">
 <a href="https://x.com/MartinOesterhel/status/2120464036030517525"><img src="../assets/gifs/283.gif" width="100%" alt="Ein Trailer zum Bodenartendreieck"></a><br>
 <b><a href="https://x.com/MartinOesterhel/status/2120464036030517525">Ein Trailer zum Bodenartendreieck</a></b><br>
-<sub>🆕 · <a href="https://x.com/MartinOesterhel">@MartinOesterhel</a> · ♥ 485 · <a href="https://x.com/MartinOesterhel/status/2120464036030517525">▶ Video</a></sub><br>
+<sub>🆕 · <a href="https://x.com/MartinOesterhel">@MartinOesterhel</a> · ♥ 486 · <a href="https://x.com/MartinOesterhel/status/2120464036030517525">▶ Video</a></sub><br>
 
 </td>
 <td width="33%" valign="top">
@@ -540,17 +540,23 @@ Die Creator haben ein Video, aber keinen Link geteilt. Klick auf die Vorschau f�
 <td width="33%" valign="top">
 <a href="https://x.com/gavinpurcell/status/2121407421465985382"><img src="../assets/gifs/286.gif" width="100%" alt="Kehlkopf-Spaghetti-Western, letztes Kapitel"></a><br>
 <b><a href="https://x.com/gavinpurcell/status/2121407421465985382">Kehlkopf-Spaghetti-Western, letztes Kapitel</a></b><br>
-<sub>🆕 · <a href="https://x.com/gavinpurcell">@gavinpurcell</a> · ♥ 458 · <a href="https://x.com/gavinpurcell/status/2121407421465985382">▶ Video</a></sub><br>
+<sub>🆕 · <a href="https://x.com/gavinpurcell">@gavinpurcell</a> · ♥ 462 · <a href="https://x.com/gavinpurcell/status/2121407421465985382">▶ Video</a></sub><br>
 
 </td>
 <td width="33%" valign="top">
 <a href="https://x.com/amrnth0/status/2120849097871810973"><img src="../assets/gifs/284.gif" width="100%" alt="Der Railway-Hack, als Animation erklärt"></a><br>
 <b><a href="https://x.com/amrnth0/status/2120849097871810973">Der Railway-Hack, als Animation erklärt</a></b><br>
-<sub>🆕 · <a href="https://x.com/amrnth0">@amrnth0</a> · ♥ 455 · <a href="https://x.com/amrnth0/status/2120849097871810973">▶ Video</a></sub><br>
+<sub>🆕 · <a href="https://x.com/amrnth0">@amrnth0</a> · ♥ 457 · <a href="https://x.com/amrnth0/status/2120849097871810973">▶ Video</a></sub><br>
 
 </td>
 </tr>
 <tr>
+<td width="33%" valign="top">
+<a href="https://x.com/MengTo/status/2121896633848017145"><img src="../assets/gifs/294.gif" width="100%" alt="Ein von Dark Souls inspiriertes Browserspiel"></a><br>
+<b><a href="https://x.com/MengTo/status/2121896633848017145">Ein von Dark Souls inspiriertes Browserspiel</a></b><br>
+<sub>🆕 · <a href="https://x.com/MengTo">@MengTo</a> · ♥ 455 · <a href="https://x.com/MengTo/status/2121896633848017145">▶ Video</a></sub><br>
+
+</td>
 <td width="33%" valign="top">
 <a href="https://x.com/solotechdev/status/2120071690482794603"><img src="../assets/gifs/096.gif" width="100%" alt="SwiftUI-App für Augenfarben"></a><br>
 <b><a href="https://x.com/solotechdev/status/2120071690482794603">SwiftUI-App für Augenfarben</a></b><br>
@@ -565,27 +571,29 @@ Die Creator haben ein Video, aber keinen Link geteilt. Klick auf die Vorschau f�
 <br>
 <sub><a href="https://fablelist.000ooo.ooo/de/prompts/?w=designed-a-font-then-a-documentary-about-it&ref=gh"><b>✨ Prompt holen</b></a></sub>
 </td>
+</tr>
+<tr>
 <td width="33%" valign="top">
 <a href="https://x.com/gavinpurcell/status/2120581152054583369"><img src="../assets/gifs/285.gif" width="100%" alt="Kehlkopf-Spaghetti-Western, Kapitel zwei"></a><br>
 <b><a href="https://x.com/gavinpurcell/status/2120581152054583369">Kehlkopf-Spaghetti-Western, Kapitel zwei</a></b><br>
 <sub>🆕 · <a href="https://x.com/gavinpurcell">@gavinpurcell</a> · ♥ 423 · <a href="https://x.com/gavinpurcell/status/2120581152054583369">▶ Video</a></sub><br>
 
 </td>
-</tr>
-<tr>
 <td width="33%" valign="top">
 <a href="https://x.com/themianoo/status/2120042064666882266"><img src="../assets/gifs/090.gif" width="100%" alt="Pelikan auf einem Fahrrad in Blender"></a><br>
 <b><a href="https://x.com/themianoo/status/2120042064666882266">Pelikan auf einem Fahrrad in Blender</a></b><br>
-<sub><a href="https://x.com/themianoo">@themianoo</a> · ♥ 420 · <a href="https://x.com/themianoo/status/2120042064666882266">▶ Video</a></sub><br>
+<sub><a href="https://x.com/themianoo">@themianoo</a> · ♥ 421 · <a href="https://x.com/themianoo/status/2120042064666882266">▶ Video</a></sub><br>
 <sub>Ca. 4.800 Zeilen Python, 444 Frames.</sub><br>
 <sub><a href="https://fablelist.000ooo.ooo/de/prompts/?w=pelican-riding-a-bicycle-in-blender&ref=gh"><b>✨ Prompt holen</b></a></sub>
 </td>
 <td width="33%" valign="top">
 <a href="https://x.com/jeanalexandre_b/status/2120783430606840084"><img src="../assets/gifs/287.gif" width="100%" alt="Ein Foto, neu gemalt aus 100.000 Farbtupfern, nur mit Code"></a><br>
 <b><a href="https://x.com/jeanalexandre_b/status/2120783430606840084">Ein Foto, neu gemalt aus 100.000 Farbtupfern, nur mit Code</a></b><br>
-<sub>🆕 · <a href="https://x.com/jeanalexandre_b">@jeanalexandre_b</a> · ♥ 403 · <a href="https://x.com/jeanalexandre_b/status/2120783430606840084">▶ Video</a></sub><br>
+<sub>🆕 · <a href="https://x.com/jeanalexandre_b">@jeanalexandre_b</a> · ♥ 408 · <a href="https://x.com/jeanalexandre_b/status/2120783430606840084">▶ Video</a></sub><br>
 
 </td>
+</tr>
+<tr>
 <td width="33%" valign="top">
 <a href="https://x.com/Izkimar/status/2119931740940640542"><img src="../assets/gifs/079.gif" width="100%" alt="Eine stilisierte MMO-Welt an einem Tag"></a><br>
 <b><a href="https://x.com/Izkimar/status/2119931740940640542">Eine stilisierte MMO-Welt an einem Tag</a></b><br>
@@ -593,8 +601,6 @@ Die Creator haben ein Video, aber keinen Link geteilt. Klick auf die Vorschau f�
 <br>
 <sub><a href="https://fablelist.000ooo.ooo/de/prompts/?w=a-stylized-mmo-world-in-a-day&ref=gh"><b>✨ Prompt holen</b></a></sub>
 </td>
-</tr>
-<tr>
 <td width="33%" valign="top">
 <a href="https://x.com/Bhavani_00007/status/2119902204320780676"><img src="../assets/gifs/077.gif" width="100%" alt="Raketenstart (Fable vs Opus)"></a><br>
 <b><a href="https://x.com/Bhavani_00007/status/2119902204320780676">Raketenstart (Fable vs Opus)</a></b><br>
@@ -609,6 +615,8 @@ Die Creator haben ein Video, aber keinen Link geteilt. Klick auf die Vorschau f�
 <br>
 <sub><a href="https://fablelist.000ooo.ooo/de/prompts/?w=app-redesign-5-1-vs-5-2&ref=gh"><b>✨ Prompt holen</b></a></sub>
 </td>
+</tr>
+<tr>
 <td width="33%" valign="top">
 <a href="https://x.com/Stefan_3D_AI/status/2120041169719894165"><img src="../assets/gifs/089.gif" width="100%" alt="Blender-Burg (Fable vs Opus)"></a><br>
 <b><a href="https://x.com/Stefan_3D_AI/status/2120041169719894165">Blender-Burg (Fable vs Opus)</a></b><br>
@@ -616,8 +624,6 @@ Die Creator haben ein Video, aber keinen Link geteilt. Klick auf die Vorschau f�
 <br>
 <sub><a href="https://fablelist.000ooo.ooo/de/prompts/?w=blender-castle-fable-vs-opus&ref=gh"><b>✨ Prompt holen</b></a></sub>
 </td>
-</tr>
-<tr>
 <td width="33%" valign="top">
 <a href="https://x.com/ElevenCreative/status/2120025947709837525"><img src="../assets/gifs/088.gif" width="100%" alt="Eine Werbung mit dem ElevenLabs MCP"></a><br>
 <b><a href="https://x.com/ElevenCreative/status/2120025947709837525">Eine Werbung mit dem ElevenLabs MCP</a></b><br>
@@ -632,12 +638,26 @@ Die Creator haben ein Video, aber keinen Link geteilt. Klick auf die Vorschau f�
 <br>
 <sub><a href="https://fablelist.000ooo.ooo/de/prompts/?w=sword-fighting-game&ref=gh"><b>✨ Prompt holen</b></a></sub>
 </td>
+</tr>
+<tr>
 <td width="33%" valign="top">
 <a href="https://x.com/DeryaTR_/status/2119974354260013293"><img src="../assets/gifs/168.gif" width="100%" alt="Eine filmische 3D-Reise durch die Wissenschaftsgeschichte"></a><br>
 <b><a href="https://x.com/DeryaTR_/status/2119974354260013293">Eine filmische 3D-Reise durch die Wissenschaftsgeschichte</a></b><br>
 <sub><a href="https://x.com/DeryaTR_">@DeryaTR_</a> · ♥ 282 · <a href="https://x.com/DeryaTR_/status/2119974354260013293">▶ Video</a></sub><br>
 <br>
 <sub><a href="https://fablelist.000ooo.ooo/de/prompts/?w=a-cinematic-3d-journey-through-the-history-of&ref=gh"><b>✨ Prompt holen</b></a></sub>
+</td>
+<td width="33%" valign="top">
+<a href="https://x.com/seiiiiiiiiiiru/status/2121724395354018201"><img src="../assets/gifs/296.gif" width="100%" alt="Motion Capture mit Claude x Blender"></a><br>
+<b><a href="https://x.com/seiiiiiiiiiiru/status/2121724395354018201">Motion Capture mit Claude x Blender</a></b><br>
+<sub>🆕 · <a href="https://x.com/seiiiiiiiiiiru">@seiiiiiiiiiiru</a> · ♥ 275 · <a href="https://x.com/seiiiiiiiiiiru/status/2121724395354018201">▶ Video</a></sub><br>
+
+</td>
+<td width="33%" valign="top">
+<a href="https://x.com/elvar_official/status/2121579587222016201"><img src="../assets/gifs/295.gif" width="100%" alt="43 Jahre Gamepads in einer einzigen Einstellung"></a><br>
+<b><a href="https://x.com/elvar_official/status/2121579587222016201">43 Jahre Gamepads in einer einzigen Einstellung</a></b><br>
+<sub>🆕 · <a href="https://x.com/elvar_official">@elvar_official</a> · ♥ 272 · <a href="https://x.com/elvar_official/status/2121579587222016201">▶ Video</a></sub><br>
+
 </td>
 </tr>
 <tr>
@@ -681,7 +701,7 @@ Die Creator haben ein Video, aber keinen Link geteilt. Klick auf die Vorschau f�
 <td width="33%" valign="top">
 <a href="https://x.com/pleometric/status/2119973274402668852"><img src="../assets/gifs/169.gif" width="100%" alt="BRYCEBALL: ein Renderer als Game Engine"></a><br>
 <b><a href="https://x.com/pleometric/status/2119973274402668852">BRYCEBALL: ein Renderer als Game Engine</a></b><br>
-<sub><a href="https://x.com/pleometric">@pleometric</a> · ♥ 228 · <a href="https://x.com/pleometric/status/2119973274402668852">▶ Video</a></sub><br>
+<sub><a href="https://x.com/pleometric">@pleometric</a> · ♥ 227 · <a href="https://x.com/pleometric/status/2119973274402668852">▶ Video</a></sub><br>
 <br>
 <sub><a href="https://fablelist.000ooo.ooo/de/prompts/?w=bryceball-a-renderer-used-as-a-game-engine&ref=gh"><b>✨ Prompt holen</b></a></sub>
 </td>
@@ -835,7 +855,7 @@ Die Creator haben ein Video, aber keinen Link geteilt. Klick auf die Vorschau f�
 <td width="33%" valign="top">
 <a href="https://x.com/rpnickson/status/2119969928304357507"><img src="../assets/gifs/108.gif" width="100%" alt="Ein Studio, aus Fotos nachgebaut"></a><br>
 <b><a href="https://x.com/rpnickson/status/2119969928304357507">Ein Studio, aus Fotos nachgebaut</a></b><br>
-<sub><a href="https://x.com/rpnickson">@rpnickson</a> · ♥ 82 · <a href="https://x.com/rpnickson/status/2119969928304357507">▶ Video</a></sub><br>
+<sub><a href="https://x.com/rpnickson">@rpnickson</a> · ♥ 83 · <a href="https://x.com/rpnickson/status/2119969928304357507">▶ Video</a></sub><br>
 <br>
 <sub><a href="https://fablelist.000ooo.ooo/de/prompts/?w=a-studio-rebuilt-from-photos&ref=gh"><b>✨ Prompt holen</b></a></sub>
 </td>
@@ -874,7 +894,7 @@ Die Creator haben ein Video, aber keinen Link geteilt. Klick auf die Vorschau f�
 <td width="33%" valign="top">
 <a href="https://x.com/ChrisGPT/status/2119989626568126509"><img src="../assets/gifs/118.gif" width="100%" alt="Ein Mobile-Spiel, das als Artifact läuft"></a><br>
 <b><a href="https://x.com/ChrisGPT/status/2119989626568126509">Ein Mobile-Spiel, das als Artifact läuft</a></b><br>
-<sub><a href="https://x.com/ChrisGPT">@ChrisGPT</a> · ♥ 59 · <a href="https://x.com/ChrisGPT/status/2119989626568126509">▶ Video</a></sub><br>
+<sub><a href="https://x.com/ChrisGPT">@ChrisGPT</a> · ♥ 58 · <a href="https://x.com/ChrisGPT/status/2119989626568126509">▶ Video</a></sub><br>
 <br>
 <sub><a href="https://fablelist.000ooo.ooo/de/prompts/?w=a-mobile-game-running-as-an-artifact&ref=gh"><b>✨ Prompt holen</b></a></sub>
 </td>
