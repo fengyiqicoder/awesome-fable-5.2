@@ -71,7 +71,7 @@ Les créateurs ont publié une vidéo mais pas de lien. Cliquez sur l'aperçu po
 <td width="33%" valign="top">
 <a href="https://x.com/JungleSilicon/status/2121782359901212987"><img src="../assets/gifs/291.gif" width="100%" alt="Gaussian splats en pixel art"></a><br>
 <b><a href="https://x.com/JungleSilicon/status/2121782359901212987">Gaussian splats en pixel art</a></b><br>
-<sub>🆕 · <a href="https://x.com/JungleSilicon">@JungleSilicon</a> · ♥ 4.7k · <a href="https://x.com/JungleSilicon/status/2121782359901212987">▶ Vidéo</a></sub><br>
+<sub><a href="https://x.com/JungleSilicon">@JungleSilicon</a> · ♥ 4.7k · <a href="https://x.com/JungleSilicon/status/2121782359901212987">▶ Vidéo</a></sub><br>
 
 </td>
 </tr>
@@ -323,7 +323,7 @@ Les créateurs ont publié une vidéo mais pas de lien. Cliquez sur l'aperçu po
 <td width="33%" valign="top">
 <a href="https://x.com/MengTo/status/2121896633848017145"><img src="../assets/gifs/294.gif" width="100%" alt="Un jeu navigateur inspiré de Dark Souls"></a><br>
 <b><a href="https://x.com/MengTo/status/2121896633848017145">Un jeu navigateur inspiré de Dark Souls</a></b><br>
-<sub>🆕 · <a href="https://x.com/MengTo">@MengTo</a> · ♥ 979 · <a href="https://x.com/MengTo/status/2121896633848017145">▶ Vidéo</a></sub><br>
+<sub><a href="https://x.com/MengTo">@MengTo</a> · ♥ 979 · <a href="https://x.com/MengTo/status/2121896633848017145">▶ Vidéo</a></sub><br>
 
 </td>
 <td width="33%" valign="top">
@@ -465,7 +465,7 @@ Les créateurs ont publié une vidéo mais pas de lien. Cliquez sur l'aperçu po
 <td width="33%" valign="top">
 <a href="https://x.com/AstrablueAI/status/2121635642836918385"><img src="../assets/gifs/292.gif" width="100%" alt="FABLE-OUS, un clip fait d'un seul jet"></a><br>
 <b><a href="https://x.com/AstrablueAI/status/2121635642836918385">FABLE-OUS, un clip fait d'un seul jet</a></b><br>
-<sub>🆕 · <a href="https://x.com/AstrablueAI">@AstrablueAI</a> · ♥ 669 · <a href="https://x.com/AstrablueAI/status/2121635642836918385">▶ Vidéo</a></sub><br>
+<sub><a href="https://x.com/AstrablueAI">@AstrablueAI</a> · ♥ 669 · <a href="https://x.com/AstrablueAI/status/2121635642836918385">▶ Vidéo</a></sub><br>
 
 </td>
 <td width="33%" valign="top">
@@ -577,13 +577,13 @@ Les créateurs ont publié une vidéo mais pas de lien. Cliquez sur l'aperçu po
 <td width="33%" valign="top">
 <a href="https://x.com/MartinOesterhel/status/2120464036030517525"><img src="../assets/gifs/283.gif" width="100%" alt="Une bande-annonce du triangle des textures du sol"></a><br>
 <b><a href="https://x.com/MartinOesterhel/status/2120464036030517525">Une bande-annonce du triangle des textures du sol</a></b><br>
-<sub>🆕 · <a href="https://x.com/MartinOesterhel">@MartinOesterhel</a> · ♥ 488 · <a href="https://x.com/MartinOesterhel/status/2120464036030517525">▶ Vidéo</a></sub><br>
+<sub><a href="https://x.com/MartinOesterhel">@MartinOesterhel</a> · ♥ 488 · <a href="https://x.com/MartinOesterhel/status/2120464036030517525">▶ Vidéo</a></sub><br>
 
 </td>
 <td width="33%" valign="top">
 <a href="https://x.com/seiiiiiiiiiiru/status/2121724395354018201"><img src="../assets/gifs/296.gif" width="100%" alt="Motion capture avec Claude x Blender"></a><br>
 <b><a href="https://x.com/seiiiiiiiiiiru/status/2121724395354018201">Motion capture avec Claude x Blender</a></b><br>
-<sub>🆕 · <a href="https://x.com/seiiiiiiiiiiru">@seiiiiiiiiiiru</a> · ♥ 479 · <a href="https://x.com/seiiiiiiiiiiru/status/2121724395354018201">▶ Vidéo</a></sub><br>
+<sub><a href="https://x.com/seiiiiiiiiiiru">@seiiiiiiiiiiru</a> · ♥ 479 · <a href="https://x.com/seiiiiiiiiiiru/status/2121724395354018201">▶ Vidéo</a></sub><br>
 
 </td>
 </tr>
@@ -605,7 +605,7 @@ Les créateurs ont publié une vidéo mais pas de lien. Cliquez sur l'aperçu po
 <td width="33%" valign="top">
 <a href="https://x.com/gavinpurcell/status/2121407421465985382"><img src="../assets/gifs/286.gif" width="100%" alt="Western du spaghetti dans le larynx, dernier chapitre"></a><br>
 <b><a href="https://x.com/gavinpurcell/status/2121407421465985382">Western du spaghetti dans le larynx, dernier chapitre</a></b><br>
-<sub>🆕 · <a href="https://x.com/gavinpurcell">@gavinpurcell</a> · ♥ 472 · <a href="https://x.com/gavinpurcell/status/2121407421465985382">▶ Vidéo</a></sub><br>
+<sub><a href="https://x.com/gavinpurcell">@gavinpurcell</a> · ♥ 472 · <a href="https://x.com/gavinpurcell/status/2121407421465985382">▶ Vidéo</a></sub><br>
 
 </td>
 </tr>
@@ -620,7 +620,7 @@ Les créateurs ont publié une vidéo mais pas de lien. Cliquez sur l'aperçu po
 <td width="33%" valign="top">
 <a href="https://x.com/amrnth0/status/2120849097871810973"><img src="../assets/gifs/284.gif" width="100%" alt="Le piratage de Railway, expliqué en animation"></a><br>
 <b><a href="https://x.com/amrnth0/status/2120849097871810973">Le piratage de Railway, expliqué en animation</a></b><br>
-<sub>🆕 · <a href="https://x.com/amrnth0">@amrnth0</a> · ♥ 457 · <a href="https://x.com/amrnth0/status/2120849097871810973">▶ Vidéo</a></sub><br>
+<sub><a href="https://x.com/amrnth0">@amrnth0</a> · ♥ 457 · <a href="https://x.com/amrnth0/status/2120849097871810973">▶ Vidéo</a></sub><br>
 
 </td>
 <td width="33%" valign="top">
@@ -634,7 +634,7 @@ Les créateurs ont publié une vidéo mais pas de lien. Cliquez sur l'aperçu po
 <td width="33%" valign="top">
 <a href="https://x.com/jeanalexandre_b/status/2120783430606840084"><img src="../assets/gifs/287.gif" width="100%" alt="Une photo repeinte avec 100 000 touches de couleur, en code uniquement"></a><br>
 <b><a href="https://x.com/jeanalexandre_b/status/2120783430606840084">Une photo repeinte avec 100 000 touches de couleur, en code uniquement</a></b><br>
-<sub>🆕 · <a href="https://x.com/jeanalexandre_b">@jeanalexandre_b</a> · ♥ 443 · <a href="https://x.com/jeanalexandre_b/status/2120783430606840084">▶ Vidéo</a></sub><br>
+<sub><a href="https://x.com/jeanalexandre_b">@jeanalexandre_b</a> · ♥ 443 · <a href="https://x.com/jeanalexandre_b/status/2120783430606840084">▶ Vidéo</a></sub><br>
 
 </td>
 <td width="33%" valign="top">
@@ -655,7 +655,7 @@ Les créateurs ont publié une vidéo mais pas de lien. Cliquez sur l'aperçu po
 <td width="33%" valign="top">
 <a href="https://x.com/gavinpurcell/status/2120581152054583369"><img src="../assets/gifs/285.gif" width="100%" alt="Western du spaghetti dans le larynx, chapitre deux"></a><br>
 <b><a href="https://x.com/gavinpurcell/status/2120581152054583369">Western du spaghetti dans le larynx, chapitre deux</a></b><br>
-<sub>🆕 · <a href="https://x.com/gavinpurcell">@gavinpurcell</a> · ♥ 427 · <a href="https://x.com/gavinpurcell/status/2120581152054583369">▶ Vidéo</a></sub><br>
+<sub><a href="https://x.com/gavinpurcell">@gavinpurcell</a> · ♥ 427 · <a href="https://x.com/gavinpurcell/status/2120581152054583369">▶ Vidéo</a></sub><br>
 
 </td>
 <td width="33%" valign="top">
@@ -744,7 +744,7 @@ Les créateurs ont publié une vidéo mais pas de lien. Cliquez sur l'aperçu po
 <td width="33%" valign="top">
 <a href="https://x.com/elvar_official/status/2121579587222016201"><img src="../assets/gifs/295.gif" width="100%" alt="43 ans de manettes en un seul plan"></a><br>
 <b><a href="https://x.com/elvar_official/status/2121579587222016201">43 ans de manettes en un seul plan</a></b><br>
-<sub>🆕 · <a href="https://x.com/elvar_official">@elvar_official</a> · ♥ 280 · <a href="https://x.com/elvar_official/status/2121579587222016201">▶ Vidéo</a></sub><br>
+<sub><a href="https://x.com/elvar_official">@elvar_official</a> · ♥ 280 · <a href="https://x.com/elvar_official/status/2121579587222016201">▶ Vidéo</a></sub><br>
 
 </td>
 <td width="33%" valign="top">

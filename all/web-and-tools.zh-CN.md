@@ -81,7 +81,7 @@
 <td width="33%" valign="top">
 <a href="https://roverkit.vercel.app"><img src="../assets/gifs/277.gif" width="100%" alt="RoverKit 机器人小车教学"></a><br>
 <b><a href="https://roverkit.vercel.app">RoverKit 机器人小车教学</a></b><br>
-<sub>🆕 · <a href="https://x.com/DilumSanjaya">@DilumSanjaya</a> · ♥ 1.1k · <a href="https://x.com/DilumSanjaya/status/2121286147393651085">▶ 视频</a></sub><br>
+<sub><a href="https://x.com/DilumSanjaya">@DilumSanjaya</a> · ♥ 1.1k · <a href="https://x.com/DilumSanjaya/status/2121286147393651085">▶ 视频</a></sub><br>
 <sub>一步步教你造机器人小车：带模拟器、可自定义场地和图解代码，支持 Arduino 和 ESP32</sub>
 </td>
 <td width="33%" valign="top">
@@ -117,7 +117,7 @@
 <td width="33%" valign="top">
 <a href="https://auden-english-135.netlify.app/"><img src="../assets/gifs/281.gif" width="100%" alt="Auden 1941 年失传诗歌课复原"></a><br>
 <b><a href="https://auden-english-135.netlify.app/">Auden 1941 年失传诗歌课复原</a></b><br>
-<sub>🆕 · <a href="https://x.com/emollick">@emollick</a> · ♥ 593 · <a href="https://x.com/emollick/status/2121641417483169934">原帖</a></sub><br>
+<sub><a href="https://x.com/emollick">@emollick</a> · ♥ 593 · <a href="https://x.com/emollick/status/2121641417483169934">原帖</a></sub><br>
 <sub>让它复原诗人奥登 1941 年那门「人文学科最难」的课：从互联网档案馆的旧书和零散笔记里拼出可读的课程</sub>
 </td>
 </tr>
@@ -261,7 +261,7 @@
 <td width="33%" valign="top">
 <a href="https://uberdesigner.ai/t/araneae"><img src="../assets/gifs/290.gif" width="100%" alt="araneae 蜘蛛长文"></a><br>
 <b><a href="https://uberdesigner.ai/t/araneae">araneae 蜘蛛长文</a></b><br>
-<sub>🆕 · <a href="https://x.com/seanaiux">@seanaiux</a> · ♥ 8 · <a href="https://x.com/seanaiux/status/2121688869439455410">▶ 视频</a></sub><br>
+<sub><a href="https://x.com/seanaiux">@seanaiux</a> · ♥ 8 · <a href="https://x.com/seanaiux/status/2121688869439455410">▶ 视频</a></sub><br>
 <sub>让它做一个能吓到自己的网页：一只蜘蛛从黑暗里垂下，滚动页面一路看它的巢、眼睛、毒牙和腿，最后你成了那只苍蝇</sub>
 </td>
 <td width="33%" valign="top">

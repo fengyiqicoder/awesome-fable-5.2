@@ -55,7 +55,7 @@
 <td width="33%" valign="top">
 <a href="https://fable-rover.vercel.app"><img src="../assets/gifs/278.gif" width="100%" alt="ER-6 Terrain Explorer — 自動走行する火星ローバー"></a><br>
 <b><a href="https://fable-rover.vercel.app">ER-6 Terrain Explorer — 自動走行する火星ローバー</a></b><br>
-<sub>🆕 · <a href="https://x.com/DilumSanjaya">@DilumSanjaya</a> · ♥ 790 · <a href="https://x.com/DilumSanjaya/status/2120561077385867663">▶ 動画</a></sub><br>
+<sub><a href="https://x.com/DilumSanjaya">@DilumSanjaya</a> · ♥ 790 · <a href="https://x.com/DilumSanjaya/status/2120561077385867663">▶ 動画</a></sub><br>
 <sub>Fable 5.2 が NASA の火星ローバーと同じロッカー・ボギー式サスペンションを設計し、異星の地形を走らせるシミュレーションまで作った。</sub>
 </td>
 <td width="33%" valign="top">
@@ -227,7 +227,7 @@
 <td width="33%" valign="top">
 <a href="https://vancouver-claude.webly.site"><img src="../assets/gifs/280.gif" width="100%" alt="バンクーバー、イングリッシュ・ベイのゴールデンアワー"></a><br>
 <b><a href="https://vancouver-claude.webly.site">バンクーバー、イングリッシュ・ベイのゴールデンアワー</a></b><br>
-<sub>🆕 · <a href="https://x.com/tokifyi">@tokifyi</a> · ♥ 30 · <a href="https://x.com/tokifyi/status/2121644293270200354">投稿</a></sub><br>
+<sub><a href="https://x.com/tokifyi">@tokifyi</a> · ♥ 30 · <a href="https://x.com/tokifyi/status/2121644293270200354">投稿</a></sub><br>
 <sub>JavaScript だけで描いたバンクーバーの夕暮れパノラマ。</sub>
 </td>
 </tr>
@@ -294,7 +294,7 @@
 <td width="33%" valign="top">
 <a href="https://davinci-mechanics.vercel.app/"><img src="../assets/gifs/289.gif" width="100%" alt="ダ・ヴィンチの生きた手稿"></a><br>
 <b><a href="https://davinci-mechanics.vercel.app/">ダ・ヴィンチの生きた手稿</a></b><br>
-<sub>🆕 · <a href="https://x.com/CoderRw11326">@CoderRw11326</a> · ♥ 6 · <a href="https://x.com/CoderRw11326/status/2121286814103421012">▶ 動画</a></sub><br>
+<sub><a href="https://x.com/CoderRw11326">@CoderRw11326</a> · ♥ 6 · <a href="https://x.com/CoderRw11326/status/2121286814103421012">▶ 動画</a></sub><br>
 <sub>ノートを開くと羽ペンがダ・ヴィンチの機械を描き、回したり分解したりできる木の機構に変わります。3D モデルもテクスチャも音声ファイルもなく、すべてコードです。</sub><br>
 <sub><a href="https://github.com/coding-nanami/davinci-mechanics">ソースコード</a></sub>
 </td>

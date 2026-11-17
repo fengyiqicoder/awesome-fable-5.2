@@ -81,7 +81,7 @@ The main page shows at most the top 36 posts with 100+ likes; this page has ever
 <td width="33%" valign="top">
 <a href="https://roverkit.vercel.app"><img src="../assets/gifs/277.gif" width="100%" alt="RoverKit — build and simulate a robot car"></a><br>
 <b><a href="https://roverkit.vercel.app">RoverKit — build and simulate a robot car</a></b><br>
-<sub>🆕 · <a href="https://x.com/DilumSanjaya">@DilumSanjaya</a> · ♥ 1.1k · <a href="https://x.com/DilumSanjaya/status/2121286147393651085">▶ Video</a></sub><br>
+<sub><a href="https://x.com/DilumSanjaya">@DilumSanjaya</a> · ♥ 1.1k · <a href="https://x.com/DilumSanjaya/status/2121286147393651085">▶ Video</a></sub><br>
 <sub>A step-by-step guide to building a robot car, with a simulator, a customizable arena and a visual code walkthrough. Supports Arduino and ESP32.</sub>
 </td>
 <td width="33%" valign="top">
@@ -117,7 +117,7 @@ The main page shows at most the top 36 posts with 100+ likes; this page has ever
 <td width="33%" valign="top">
 <a href="https://auden-english-135.netlify.app/"><img src="../assets/gifs/281.gif" width="100%" alt="Auden's lost 1941 poetry class, reconstructed"></a><br>
 <b><a href="https://auden-english-135.netlify.app/">Auden's lost 1941 poetry class, reconstructed</a></b><br>
-<sub>🆕 · <a href="https://x.com/emollick">@emollick</a> · ♥ 593 · <a href="https://x.com/emollick/status/2121641417483169934">Post</a></sub><br>
+<sub><a href="https://x.com/emollick">@emollick</a> · ♥ 593 · <a href="https://x.com/emollick/status/2121641417483169934">Post</a></sub><br>
 <sub>Fable 5.2 rebuilt W. H. Auden's "hardest in the humanities" class from an obscure Internet Archive book and scattered notes.</sub>
 </td>
 </tr>
@@ -261,7 +261,7 @@ The main page shows at most the top 36 posts with 100+ likes; this page has ever
 <td width="33%" valign="top">
 <a href="https://uberdesigner.ai/t/araneae"><img src="../assets/gifs/290.gif" width="100%" alt="araneae"></a><br>
 <b><a href="https://uberdesigner.ai/t/araneae">araneae</a></b><br>
-<sub>🆕 · <a href="https://x.com/seanaiux">@seanaiux</a> · ♥ 8 · <a href="https://x.com/seanaiux/status/2121688869439455410">▶ Video</a></sub><br>
+<sub><a href="https://x.com/seanaiux">@seanaiux</a> · ♥ 8 · <a href="https://x.com/seanaiux/status/2121688869439455410">▶ Video</a></sub><br>
 <sub>Asked to build a website that would scare its maker: a spider lowers itself out of the dark, and the scroll follows it down through its lair, eyes, fangs and legs until you are the fly.</sub>
 </td>
 <td width="33%" valign="top">

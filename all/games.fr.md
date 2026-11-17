@@ -101,7 +101,7 @@ La page principale affiche au plus les 36 entrées les plus aimées de chaque se
 <td width="33%" valign="top">
 <a href="https://app.usecrayon.ai/play/76dbd04f-0684-4486-8cc4-eae0585295e8"><img src="../assets/gifs/288.gif" width="100%" alt="Goku: Four-Star Road"></a><br>
 <b><a href="https://app.usecrayon.ai/play/76dbd04f-0684-4486-8cc4-eae0585295e8">Goku: Four-Star Road</a></b><br>
-<sub>🆕 · <a href="https://x.com/aniketjart">@aniketjart</a> · ♥ 1.4k · <a href="https://x.com/aniketjart/status/2121793239175119279">▶ Vidéo</a></sub><br>
+<sub><a href="https://x.com/aniketjart">@aniketjart</a> · ♥ 1.4k · <a href="https://x.com/aniketjart/status/2121793239175119279">▶ Vidéo</a></sub><br>
 <sub>Un jeu d'action fan inspiré de l'arc de l'Armée du Ruban Rouge de Dragon Ball, fait avec three.js. En cours de développement ; les deux premières cartes sont jouables.</sub>
 </td>
 <td width="33%" valign="top">
@@ -176,7 +176,7 @@ La page principale affiche au plus les 36 entrées les plus aimées de chaque se
 <td width="33%" valign="top">
 <a href="https://valsera-game.vercel.app/"><img src="../assets/gifs/279.gif" width="100%" alt="Valsera — RPG à défilement horizontal"></a><br>
 <b><a href="https://valsera-game.vercel.app/">Valsera — RPG à défilement horizontal</a></b><br>
-<sub>🆕 · <a href="https://x.com/kevin_t_ngo">@kevin_t_ngo</a> · ♥ 502 · <a href="https://x.com/kevin_t_ngo/status/2121701020598415465">▶ Vidéo</a></sub><br>
+<sub><a href="https://x.com/kevin_t_ngo">@kevin_t_ngo</a> · ♥ 502 · <a href="https://x.com/kevin_t_ngo/status/2121701020598415465">▶ Vidéo</a></sub><br>
 <sub>Un RPG à défilement horizontal jouable dans le navigateur ; tous les visuels sont dessinés en code, sans modèle d'image ni graphismes tout faits.</sub>
 </td>
 <td width="33%" valign="top">
@@ -519,7 +519,7 @@ La page principale affiche au plus les 36 entrées les plus aimées de chaque se
 <td width="33%" valign="top">
 <a href="https://mikenevermiss.github.io/midnight-grid/"><img src="../assets/gifs/293.gif" width="100%" alt="Midnight Grid"></a><br>
 <b><a href="https://mikenevermiss.github.io/midnight-grid/">Midnight Grid</a></b><br>
-<sub>🆕 · <a href="https://x.com/mikenevermiss">@mikenevermiss</a> · ♥ 28 · <a href="https://x.com/mikenevermiss/status/2121900977959612500">▶ Vidéo</a></sub><br>
+<sub><a href="https://x.com/mikenevermiss">@mikenevermiss</a> · ♥ 28 · <a href="https://x.com/mikenevermiss/status/2121900977959612500">▶ Vidéo</a></sub><br>
 <sub>Un jeu de conduite en monde ouvert né d'un seul prompt : foncez dans la ville, percutez la circulation et échappez à la police. Chaque voiture, bâtiment, texture et son est généré par le code.</sub>
 </td>
 <td width="33%" valign="top">

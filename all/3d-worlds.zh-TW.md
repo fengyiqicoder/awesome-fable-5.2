@@ -55,7 +55,7 @@
 <td width="33%" valign="top">
 <a href="https://fable-rover.vercel.app"><img src="../assets/gifs/278.gif" width="100%" alt="ER-6 Terrain Explorer — 自動駕駛的火星車"></a><br>
 <b><a href="https://fable-rover.vercel.app">ER-6 Terrain Explorer — 自動駕駛的火星車</a></b><br>
-<sub>🆕 · <a href="https://x.com/DilumSanjaya">@DilumSanjaya</a> · ♥ 790 · <a href="https://x.com/DilumSanjaya/status/2120561077385867663">▶ 影片</a></sub><br>
+<sub><a href="https://x.com/DilumSanjaya">@DilumSanjaya</a> · ♥ 790 · <a href="https://x.com/DilumSanjaya/status/2120561077385867663">▶ 影片</a></sub><br>
 <sub>Fable 5.2 設計了 NASA 火星車那種搖臂轉向架懸吊，再模擬它在外星地形上行駛。</sub>
 </td>
 <td width="33%" valign="top">
@@ -227,7 +227,7 @@
 <td width="33%" valign="top">
 <a href="https://vancouver-claude.webly.site"><img src="../assets/gifs/280.gif" width="100%" alt="溫哥華英吉利灣的黃金時刻"></a><br>
 <b><a href="https://vancouver-claude.webly.site">溫哥華英吉利灣的黃金時刻</a></b><br>
-<sub>🆕 · <a href="https://x.com/tokifyi">@tokifyi</a> · ♥ 30 · <a href="https://x.com/tokifyi/status/2121644293270200354">原文</a></sub><br>
+<sub><a href="https://x.com/tokifyi">@tokifyi</a> · ♥ 30 · <a href="https://x.com/tokifyi/status/2121644293270200354">原文</a></sub><br>
 <sub>完全用 JavaScript 畫出的溫哥華夕陽全景。</sub>
 </td>
 </tr>
@@ -294,7 +294,7 @@
 <td width="33%" valign="top">
 <a href="https://davinci-mechanics.vercel.app/"><img src="../assets/gifs/289.gif" width="100%" alt="達文西活手稿"></a><br>
 <b><a href="https://davinci-mechanics.vercel.app/">達文西活手稿</a></b><br>
-<sub>🆕 · <a href="https://x.com/CoderRw11326">@CoderRw11326</a> · ♥ 6 · <a href="https://x.com/CoderRw11326/status/2121286814103421012">▶ 影片</a></sub><br>
+<sub><a href="https://x.com/CoderRw11326">@CoderRw11326</a> · ♥ 6 · <a href="https://x.com/CoderRw11326/status/2121286814103421012">▶ 影片</a></sub><br>
 <sub>翻開筆記本，羽毛筆畫出達文西的機械草圖，再變成能轉動、能拆解的木製機械。沒有 3D 模型、貼圖和音訊檔，全部用程式碼生成。</sub><br>
 <sub><a href="https://github.com/coding-nanami/davinci-mechanics">原始碼</a></sub>
 </td>

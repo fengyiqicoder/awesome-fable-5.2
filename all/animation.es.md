@@ -67,7 +67,7 @@ La página principal muestra como máximo las 36 entradas con más «me gusta» 
 <td width="33%" valign="top">
 <a href="https://github.com/0xCodez/thousand-peaks"><img src="../assets/gifs/282.gif" width="100%" alt="Dragon of a Thousand Peaks — el dragón de las mil cumbres"></a><br>
 <b><a href="https://github.com/0xCodez/thousand-peaks">Dragon of a Thousand Peaks — el dragón de las mil cumbres</a></b><br>
-<sub>🆕 · <a href="https://x.com/0xMovez">@0xMovez</a> · ♥ 132 · <a href="https://x.com/0xMovez/status/2121721290687983906">▶ Video</a></sub><br>
+<sub><a href="https://x.com/0xMovez">@0xMovez</a> · ♥ 132 · <a href="https://x.com/0xMovez/status/2121721290687983906">▶ Video</a></sub><br>
 <sub>Una pelea de 90 segundos en three.js puro, sin assets ni modelos de vídeo; Fable 5.2 dirigió 8 agentes en paralelo y la música y el sonido se sintetizan con código.</sub>
 </td>
 </tr>

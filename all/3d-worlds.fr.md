@@ -55,7 +55,7 @@ La page principale affiche au plus les 36 entrées les plus aimées de chaque se
 <td width="33%" valign="top">
 <a href="https://fable-rover.vercel.app"><img src="../assets/gifs/278.gif" width="100%" alt="ER-6 Terrain Explorer — un rover martien autonome"></a><br>
 <b><a href="https://fable-rover.vercel.app">ER-6 Terrain Explorer — un rover martien autonome</a></b><br>
-<sub>🆕 · <a href="https://x.com/DilumSanjaya">@DilumSanjaya</a> · ♥ 790 · <a href="https://x.com/DilumSanjaya/status/2120561077385867663">▶ Vidéo</a></sub><br>
+<sub><a href="https://x.com/DilumSanjaya">@DilumSanjaya</a> · ♥ 790 · <a href="https://x.com/DilumSanjaya/status/2120561077385867663">▶ Vidéo</a></sub><br>
 <sub>Fable 5.2 a conçu une suspension rocker-bogie comme celle des rovers martiens de la NASA, puis l'a simulée sur un terrain extraterrestre.</sub>
 </td>
 <td width="33%" valign="top">
@@ -227,7 +227,7 @@ La page principale affiche au plus les 36 entrées les plus aimées de chaque se
 <td width="33%" valign="top">
 <a href="https://vancouver-claude.webly.site"><img src="../assets/gifs/280.gif" width="100%" alt="Vancouver, heure dorée sur English Bay"></a><br>
 <b><a href="https://vancouver-claude.webly.site">Vancouver, heure dorée sur English Bay</a></b><br>
-<sub>🆕 · <a href="https://x.com/tokifyi">@tokifyi</a> · ♥ 30 · <a href="https://x.com/tokifyi/status/2121644293270200354">Publication</a></sub><br>
+<sub><a href="https://x.com/tokifyi">@tokifyi</a> · ♥ 30 · <a href="https://x.com/tokifyi/status/2121644293270200354">Publication</a></sub><br>
 <sub>Un panorama de Vancouver au coucher du soleil dessiné entièrement en JavaScript.</sub>
 </td>
 </tr>
@@ -294,7 +294,7 @@ La page principale affiche au plus les 36 entrées les plus aimées de chaque se
 <td width="33%" valign="top">
 <a href="https://davinci-mechanics.vercel.app/"><img src="../assets/gifs/289.gif" width="100%" alt="Le codex vivant de Léonard de Vinci"></a><br>
 <b><a href="https://davinci-mechanics.vercel.app/">Le codex vivant de Léonard de Vinci</a></b><br>
-<sub>🆕 · <a href="https://x.com/CoderRw11326">@CoderRw11326</a> · ♥ 6 · <a href="https://x.com/CoderRw11326/status/2121286814103421012">▶ Vidéo</a></sub><br>
+<sub><a href="https://x.com/CoderRw11326">@CoderRw11326</a> · ♥ 6 · <a href="https://x.com/CoderRw11326/status/2121286814103421012">▶ Vidéo</a></sub><br>
 <sub>Ouvrez le carnet : une plume esquisse les machines de Léonard, qui deviennent des mécanismes en bois à faire tourner et à démonter. Aucun modèle 3D, texture ni fichier audio : tout est en code.</sub><br>
 <sub><a href="https://github.com/coding-nanami/davinci-mechanics">Code source</a></sub>
 </td>

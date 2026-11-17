@@ -71,7 +71,7 @@
 <td width="33%" valign="top">
 <a href="https://x.com/JungleSilicon/status/2121782359901212987"><img src="../assets/gifs/291.gif" width="100%" alt="Гауссовы сплаты в стиле пиксель-арта"></a><br>
 <b><a href="https://x.com/JungleSilicon/status/2121782359901212987">Гауссовы сплаты в стиле пиксель-арта</a></b><br>
-<sub>🆕 · <a href="https://x.com/JungleSilicon">@JungleSilicon</a> · ♥ 4.7k · <a href="https://x.com/JungleSilicon/status/2121782359901212987">▶ Видео</a></sub><br>
+<sub><a href="https://x.com/JungleSilicon">@JungleSilicon</a> · ♥ 4.7k · <a href="https://x.com/JungleSilicon/status/2121782359901212987">▶ Видео</a></sub><br>
 
 </td>
 </tr>
@@ -323,7 +323,7 @@
 <td width="33%" valign="top">
 <a href="https://x.com/MengTo/status/2121896633848017145"><img src="../assets/gifs/294.gif" width="100%" alt="Браузерная игра в духе Dark Souls"></a><br>
 <b><a href="https://x.com/MengTo/status/2121896633848017145">Браузерная игра в духе Dark Souls</a></b><br>
-<sub>🆕 · <a href="https://x.com/MengTo">@MengTo</a> · ♥ 979 · <a href="https://x.com/MengTo/status/2121896633848017145">▶ Видео</a></sub><br>
+<sub><a href="https://x.com/MengTo">@MengTo</a> · ♥ 979 · <a href="https://x.com/MengTo/status/2121896633848017145">▶ Видео</a></sub><br>
 
 </td>
 <td width="33%" valign="top">
@@ -465,7 +465,7 @@
 <td width="33%" valign="top">
 <a href="https://x.com/AstrablueAI/status/2121635642836918385"><img src="../assets/gifs/292.gif" width="100%" alt="FABLE-OUS — клип, сделанный с одного раза"></a><br>
 <b><a href="https://x.com/AstrablueAI/status/2121635642836918385">FABLE-OUS — клип, сделанный с одного раза</a></b><br>
-<sub>🆕 · <a href="https://x.com/AstrablueAI">@AstrablueAI</a> · ♥ 669 · <a href="https://x.com/AstrablueAI/status/2121635642836918385">▶ Видео</a></sub><br>
+<sub><a href="https://x.com/AstrablueAI">@AstrablueAI</a> · ♥ 669 · <a href="https://x.com/AstrablueAI/status/2121635642836918385">▶ Видео</a></sub><br>
 
 </td>
 <td width="33%" valign="top">
@@ -577,13 +577,13 @@
 <td width="33%" valign="top">
 <a href="https://x.com/MartinOesterhel/status/2120464036030517525"><img src="../assets/gifs/283.gif" width="100%" alt="Трейлер про треугольник гранулометрического состава почв"></a><br>
 <b><a href="https://x.com/MartinOesterhel/status/2120464036030517525">Трейлер про треугольник гранулометрического состава почв</a></b><br>
-<sub>🆕 · <a href="https://x.com/MartinOesterhel">@MartinOesterhel</a> · ♥ 488 · <a href="https://x.com/MartinOesterhel/status/2120464036030517525">▶ Видео</a></sub><br>
+<sub><a href="https://x.com/MartinOesterhel">@MartinOesterhel</a> · ♥ 488 · <a href="https://x.com/MartinOesterhel/status/2120464036030517525">▶ Видео</a></sub><br>
 
 </td>
 <td width="33%" valign="top">
 <a href="https://x.com/seiiiiiiiiiiru/status/2121724395354018201"><img src="../assets/gifs/296.gif" width="100%" alt="Захват движений: Claude x Blender"></a><br>
 <b><a href="https://x.com/seiiiiiiiiiiru/status/2121724395354018201">Захват движений: Claude x Blender</a></b><br>
-<sub>🆕 · <a href="https://x.com/seiiiiiiiiiiru">@seiiiiiiiiiiru</a> · ♥ 479 · <a href="https://x.com/seiiiiiiiiiiru/status/2121724395354018201">▶ Видео</a></sub><br>
+<sub><a href="https://x.com/seiiiiiiiiiiru">@seiiiiiiiiiiru</a> · ♥ 479 · <a href="https://x.com/seiiiiiiiiiiru/status/2121724395354018201">▶ Видео</a></sub><br>
 
 </td>
 </tr>
@@ -605,7 +605,7 @@
 <td width="33%" valign="top">
 <a href="https://x.com/gavinpurcell/status/2121407421465985382"><img src="../assets/gifs/286.gif" width="100%" alt="Вестерн про спагетти в гортани, финальная глава"></a><br>
 <b><a href="https://x.com/gavinpurcell/status/2121407421465985382">Вестерн про спагетти в гортани, финальная глава</a></b><br>
-<sub>🆕 · <a href="https://x.com/gavinpurcell">@gavinpurcell</a> · ♥ 472 · <a href="https://x.com/gavinpurcell/status/2121407421465985382">▶ Видео</a></sub><br>
+<sub><a href="https://x.com/gavinpurcell">@gavinpurcell</a> · ♥ 472 · <a href="https://x.com/gavinpurcell/status/2121407421465985382">▶ Видео</a></sub><br>
 
 </td>
 </tr>
@@ -620,7 +620,7 @@
 <td width="33%" valign="top">
 <a href="https://x.com/amrnth0/status/2120849097871810973"><img src="../assets/gifs/284.gif" width="100%" alt="Взлом Railway, объяснённый анимацией"></a><br>
 <b><a href="https://x.com/amrnth0/status/2120849097871810973">Взлом Railway, объяснённый анимацией</a></b><br>
-<sub>🆕 · <a href="https://x.com/amrnth0">@amrnth0</a> · ♥ 457 · <a href="https://x.com/amrnth0/status/2120849097871810973">▶ Видео</a></sub><br>
+<sub><a href="https://x.com/amrnth0">@amrnth0</a> · ♥ 457 · <a href="https://x.com/amrnth0/status/2120849097871810973">▶ Видео</a></sub><br>
 
 </td>
 <td width="33%" valign="top">
@@ -634,7 +634,7 @@
 <td width="33%" valign="top">
 <a href="https://x.com/jeanalexandre_b/status/2120783430606840084"><img src="../assets/gifs/287.gif" width="100%" alt="Фото, перерисованное 100 000 цветных мазков, только кодом"></a><br>
 <b><a href="https://x.com/jeanalexandre_b/status/2120783430606840084">Фото, перерисованное 100 000 цветных мазков, только кодом</a></b><br>
-<sub>🆕 · <a href="https://x.com/jeanalexandre_b">@jeanalexandre_b</a> · ♥ 443 · <a href="https://x.com/jeanalexandre_b/status/2120783430606840084">▶ Видео</a></sub><br>
+<sub><a href="https://x.com/jeanalexandre_b">@jeanalexandre_b</a> · ♥ 443 · <a href="https://x.com/jeanalexandre_b/status/2120783430606840084">▶ Видео</a></sub><br>
 
 </td>
 <td width="33%" valign="top">
@@ -655,7 +655,7 @@
 <td width="33%" valign="top">
 <a href="https://x.com/gavinpurcell/status/2120581152054583369"><img src="../assets/gifs/285.gif" width="100%" alt="Вестерн про спагетти в гортани, глава вторая"></a><br>
 <b><a href="https://x.com/gavinpurcell/status/2120581152054583369">Вестерн про спагетти в гортани, глава вторая</a></b><br>
-<sub>🆕 · <a href="https://x.com/gavinpurcell">@gavinpurcell</a> · ♥ 427 · <a href="https://x.com/gavinpurcell/status/2120581152054583369">▶ Видео</a></sub><br>
+<sub><a href="https://x.com/gavinpurcell">@gavinpurcell</a> · ♥ 427 · <a href="https://x.com/gavinpurcell/status/2120581152054583369">▶ Видео</a></sub><br>
 
 </td>
 <td width="33%" valign="top">
@@ -744,7 +744,7 @@
 <td width="33%" valign="top">
 <a href="https://x.com/elvar_official/status/2121579587222016201"><img src="../assets/gifs/295.gif" width="100%" alt="43 года геймпадов одним кадром"></a><br>
 <b><a href="https://x.com/elvar_official/status/2121579587222016201">43 года геймпадов одним кадром</a></b><br>
-<sub>🆕 · <a href="https://x.com/elvar_official">@elvar_official</a> · ♥ 280 · <a href="https://x.com/elvar_official/status/2121579587222016201">▶ Видео</a></sub><br>
+<sub><a href="https://x.com/elvar_official">@elvar_official</a> · ♥ 280 · <a href="https://x.com/elvar_official/status/2121579587222016201">▶ Видео</a></sub><br>
 
 </td>
 <td width="33%" valign="top">

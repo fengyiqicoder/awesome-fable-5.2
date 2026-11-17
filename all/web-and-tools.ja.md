@@ -81,7 +81,7 @@
 <td width="33%" valign="top">
 <a href="https://roverkit.vercel.app"><img src="../assets/gifs/277.gif" width="100%" alt="RoverKit — ロボットカーを作ってシミュレーション"></a><br>
 <b><a href="https://roverkit.vercel.app">RoverKit — ロボットカーを作ってシミュレーション</a></b><br>
-<sub>🆕 · <a href="https://x.com/DilumSanjaya">@DilumSanjaya</a> · ♥ 1.1k · <a href="https://x.com/DilumSanjaya/status/2121286147393651085">▶ 動画</a></sub><br>
+<sub><a href="https://x.com/DilumSanjaya">@DilumSanjaya</a> · ♥ 1.1k · <a href="https://x.com/DilumSanjaya/status/2121286147393651085">▶ 動画</a></sub><br>
 <sub>ロボットカーの作り方をステップごとに解説。シミュレーター、カスタマイズできるアリーナ、図解付きコード解説つき。Arduino と ESP32 に対応。</sub>
 </td>
 <td width="33%" valign="top">
@@ -117,7 +117,7 @@
 <td width="33%" valign="top">
 <a href="https://auden-english-135.netlify.app/"><img src="../assets/gifs/281.gif" width="100%" alt="失われた Auden の 1941 年の詩の授業を復元"></a><br>
 <b><a href="https://auden-english-135.netlify.app/">失われた Auden の 1941 年の詩の授業を復元</a></b><br>
-<sub>🆕 · <a href="https://x.com/emollick">@emollick</a> · ♥ 593 · <a href="https://x.com/emollick/status/2121641417483169934">投稿</a></sub><br>
+<sub><a href="https://x.com/emollick">@emollick</a> · ♥ 593 · <a href="https://x.com/emollick/status/2121641417483169934">投稿</a></sub><br>
 <sub>Fable 5.2 が Internet Archive のマイナーな本と散らばったメモから、W. H. Auden の「人文学で最も難しい」授業を再構成した。</sub>
 </td>
 </tr>
@@ -261,7 +261,7 @@
 <td width="33%" valign="top">
 <a href="https://uberdesigner.ai/t/araneae"><img src="../assets/gifs/290.gif" width="100%" alt="araneae"></a><br>
 <b><a href="https://uberdesigner.ai/t/araneae">araneae</a></b><br>
-<sub>🆕 · <a href="https://x.com/seanaiux">@seanaiux</a> · ♥ 8 · <a href="https://x.com/seanaiux/status/2121688869439455410">▶ 動画</a></sub><br>
+<sub><a href="https://x.com/seanaiux">@seanaiux</a> · ♥ 8 · <a href="https://x.com/seanaiux/status/2121688869439455410">▶ 動画</a></sub><br>
 <sub>「自分が怖くなるサイトを作って」と頼んだ作品。闇から蜘蛛が降りてきて、スクロールすると巣、目、牙、脚とたどり、最後にはあなたが獲物の蠅になります。</sub>
 </td>
 <td width="33%" valign="top">

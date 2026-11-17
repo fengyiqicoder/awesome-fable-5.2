@@ -67,7 +67,7 @@
 <td width="33%" valign="top">
 <a href="https://github.com/0xCodez/thousand-peaks"><img src="../assets/gifs/282.gif" width="100%" alt="Dragon of a Thousand Peaks 千峰之龙"></a><br>
 <b><a href="https://github.com/0xCodez/thousand-peaks">Dragon of a Thousand Peaks 千峰之龙</a></b><br>
-<sub>🆕 · <a href="https://x.com/0xMovez">@0xMovez</a> · ♥ 132 · <a href="https://x.com/0xMovez/status/2121721290687983906">▶ 视频</a></sub><br>
+<sub><a href="https://x.com/0xMovez">@0xMovez</a> · ♥ 132 · <a href="https://x.com/0xMovez/status/2121721290687983906">▶ 视频</a></sub><br>
 <sub>90 秒纯 three.js 打斗短片，无素材无视频模型；Fable 当导演带 8 个并行 Agent，音乐音效也是代码合成</sub>
 </td>
 </tr>

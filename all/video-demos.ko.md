@@ -71,7 +71,7 @@
 <td width="33%" valign="top">
 <a href="https://x.com/JungleSilicon/status/2121782359901212987"><img src="../assets/gifs/291.gif" width="100%" alt="픽셀 아트 가우시안 스플랫"></a><br>
 <b><a href="https://x.com/JungleSilicon/status/2121782359901212987">픽셀 아트 가우시안 스플랫</a></b><br>
-<sub>🆕 · <a href="https://x.com/JungleSilicon">@JungleSilicon</a> · ♥ 4.7k · <a href="https://x.com/JungleSilicon/status/2121782359901212987">▶ 영상</a></sub><br>
+<sub><a href="https://x.com/JungleSilicon">@JungleSilicon</a> · ♥ 4.7k · <a href="https://x.com/JungleSilicon/status/2121782359901212987">▶ 영상</a></sub><br>
 
 </td>
 </tr>
@@ -323,7 +323,7 @@
 <td width="33%" valign="top">
 <a href="https://x.com/MengTo/status/2121896633848017145"><img src="../assets/gifs/294.gif" width="100%" alt="Dark Souls에서 영감받은 브라우저 게임"></a><br>
 <b><a href="https://x.com/MengTo/status/2121896633848017145">Dark Souls에서 영감받은 브라우저 게임</a></b><br>
-<sub>🆕 · <a href="https://x.com/MengTo">@MengTo</a> · ♥ 979 · <a href="https://x.com/MengTo/status/2121896633848017145">▶ 영상</a></sub><br>
+<sub><a href="https://x.com/MengTo">@MengTo</a> · ♥ 979 · <a href="https://x.com/MengTo/status/2121896633848017145">▶ 영상</a></sub><br>
 
 </td>
 <td width="33%" valign="top">
@@ -465,7 +465,7 @@
 <td width="33%" valign="top">
 <a href="https://x.com/AstrablueAI/status/2121635642836918385"><img src="../assets/gifs/292.gif" width="100%" alt="FABLE-OUS, 원샷 뮤직비디오"></a><br>
 <b><a href="https://x.com/AstrablueAI/status/2121635642836918385">FABLE-OUS, 원샷 뮤직비디오</a></b><br>
-<sub>🆕 · <a href="https://x.com/AstrablueAI">@AstrablueAI</a> · ♥ 669 · <a href="https://x.com/AstrablueAI/status/2121635642836918385">▶ 영상</a></sub><br>
+<sub><a href="https://x.com/AstrablueAI">@AstrablueAI</a> · ♥ 669 · <a href="https://x.com/AstrablueAI/status/2121635642836918385">▶ 영상</a></sub><br>
 
 </td>
 <td width="33%" valign="top">
@@ -577,13 +577,13 @@
 <td width="33%" valign="top">
 <a href="https://x.com/MartinOesterhel/status/2120464036030517525"><img src="../assets/gifs/283.gif" width="100%" alt="토양 조직 삼각도 예고편"></a><br>
 <b><a href="https://x.com/MartinOesterhel/status/2120464036030517525">토양 조직 삼각도 예고편</a></b><br>
-<sub>🆕 · <a href="https://x.com/MartinOesterhel">@MartinOesterhel</a> · ♥ 488 · <a href="https://x.com/MartinOesterhel/status/2120464036030517525">▶ 영상</a></sub><br>
+<sub><a href="https://x.com/MartinOesterhel">@MartinOesterhel</a> · ♥ 488 · <a href="https://x.com/MartinOesterhel/status/2120464036030517525">▶ 영상</a></sub><br>
 
 </td>
 <td width="33%" valign="top">
 <a href="https://x.com/seiiiiiiiiiiru/status/2121724395354018201"><img src="../assets/gifs/296.gif" width="100%" alt="Claude x Blender 모션 캡처"></a><br>
 <b><a href="https://x.com/seiiiiiiiiiiru/status/2121724395354018201">Claude x Blender 모션 캡처</a></b><br>
-<sub>🆕 · <a href="https://x.com/seiiiiiiiiiiru">@seiiiiiiiiiiru</a> · ♥ 479 · <a href="https://x.com/seiiiiiiiiiiru/status/2121724395354018201">▶ 영상</a></sub><br>
+<sub><a href="https://x.com/seiiiiiiiiiiru">@seiiiiiiiiiiru</a> · ♥ 479 · <a href="https://x.com/seiiiiiiiiiiru/status/2121724395354018201">▶ 영상</a></sub><br>
 
 </td>
 </tr>
@@ -605,7 +605,7 @@
 <td width="33%" valign="top">
 <a href="https://x.com/gavinpurcell/status/2121407421465985382"><img src="../assets/gifs/286.gif" width="100%" alt="목구멍 스파게티 웨스턴 마지막 장"></a><br>
 <b><a href="https://x.com/gavinpurcell/status/2121407421465985382">목구멍 스파게티 웨스턴 마지막 장</a></b><br>
-<sub>🆕 · <a href="https://x.com/gavinpurcell">@gavinpurcell</a> · ♥ 472 · <a href="https://x.com/gavinpurcell/status/2121407421465985382">▶ 영상</a></sub><br>
+<sub><a href="https://x.com/gavinpurcell">@gavinpurcell</a> · ♥ 472 · <a href="https://x.com/gavinpurcell/status/2121407421465985382">▶ 영상</a></sub><br>
 
 </td>
 </tr>
@@ -620,7 +620,7 @@
 <td width="33%" valign="top">
 <a href="https://x.com/amrnth0/status/2120849097871810973"><img src="../assets/gifs/284.gif" width="100%" alt="Railway 해킹 사건을 애니메이션으로 설명"></a><br>
 <b><a href="https://x.com/amrnth0/status/2120849097871810973">Railway 해킹 사건을 애니메이션으로 설명</a></b><br>
-<sub>🆕 · <a href="https://x.com/amrnth0">@amrnth0</a> · ♥ 457 · <a href="https://x.com/amrnth0/status/2120849097871810973">▶ 영상</a></sub><br>
+<sub><a href="https://x.com/amrnth0">@amrnth0</a> · ♥ 457 · <a href="https://x.com/amrnth0/status/2120849097871810973">▶ 영상</a></sub><br>
 
 </td>
 <td width="33%" valign="top">
@@ -634,7 +634,7 @@
 <td width="33%" valign="top">
 <a href="https://x.com/jeanalexandre_b/status/2120783430606840084"><img src="../assets/gifs/287.gif" width="100%" alt="색 점 10만 개로 사진을 다시 그리기, 코드만으로"></a><br>
 <b><a href="https://x.com/jeanalexandre_b/status/2120783430606840084">색 점 10만 개로 사진을 다시 그리기, 코드만으로</a></b><br>
-<sub>🆕 · <a href="https://x.com/jeanalexandre_b">@jeanalexandre_b</a> · ♥ 443 · <a href="https://x.com/jeanalexandre_b/status/2120783430606840084">▶ 영상</a></sub><br>
+<sub><a href="https://x.com/jeanalexandre_b">@jeanalexandre_b</a> · ♥ 443 · <a href="https://x.com/jeanalexandre_b/status/2120783430606840084">▶ 영상</a></sub><br>
 
 </td>
 <td width="33%" valign="top">
@@ -655,7 +655,7 @@
 <td width="33%" valign="top">
 <a href="https://x.com/gavinpurcell/status/2120581152054583369"><img src="../assets/gifs/285.gif" width="100%" alt="목구멍 스파게티 웨스턴 2장"></a><br>
 <b><a href="https://x.com/gavinpurcell/status/2120581152054583369">목구멍 스파게티 웨스턴 2장</a></b><br>
-<sub>🆕 · <a href="https://x.com/gavinpurcell">@gavinpurcell</a> · ♥ 427 · <a href="https://x.com/gavinpurcell/status/2120581152054583369">▶ 영상</a></sub><br>
+<sub><a href="https://x.com/gavinpurcell">@gavinpurcell</a> · ♥ 427 · <a href="https://x.com/gavinpurcell/status/2120581152054583369">▶ 영상</a></sub><br>
 
 </td>
 <td width="33%" valign="top">
@@ -744,7 +744,7 @@
 <td width="33%" valign="top">
 <a href="https://x.com/elvar_official/status/2121579587222016201"><img src="../assets/gifs/295.gif" width="100%" alt="원테이크로 보는 게임패드 43년"></a><br>
 <b><a href="https://x.com/elvar_official/status/2121579587222016201">원테이크로 보는 게임패드 43년</a></b><br>
-<sub>🆕 · <a href="https://x.com/elvar_official">@elvar_official</a> · ♥ 280 · <a href="https://x.com/elvar_official/status/2121579587222016201">▶ 영상</a></sub><br>
+<sub><a href="https://x.com/elvar_official">@elvar_official</a> · ♥ 280 · <a href="https://x.com/elvar_official/status/2121579587222016201">▶ 영상</a></sub><br>
 
 </td>
 <td width="33%" valign="top">

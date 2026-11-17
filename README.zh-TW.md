@@ -7,7 +7,7 @@
 [![Awesome](https://awesome.re/badge.svg)](https://awesome.re)
 [![Works](https://img.shields.io/badge/線上作品-185-6b4eff)](#-遊戲)
 [![Demos](https://img.shields.io/badge/影片展示-135-ff7a59)](#-影片展示)
-[![Links checked](https://img.shields.io/badge/連結實測-2026--11--17-2ea44f)](#-投稿)
+[![Links checked](https://img.shields.io/badge/連結實測-2026--11--18-2ea44f)](#-投稿)
 [![License: CC0-1.0](https://img.shields.io/badge/License-CC0_1.0-lightgrey.svg)](LICENSE)
 
 [English](README.md) · [简体中文](README.zh-CN.md) · **繁體中文** · [日本語](README.ja.md) · [한국어](README.ko.md) · [Español](README.es.md) · [Português](README.pt-BR.md) · [Français](README.fr.md) · [Deutsch](README.de.md) · [Русский](README.ru.md)
@@ -16,11 +16,11 @@
 
 </div>
 
-185 個能直接打開的作品 + 135 個影片展示，都是用 Claude Fable 5.2 做的，連結 2026-11-17 實測過。每天更新，覺得有用就按個 ⭐。
+185 個能直接打開的作品 + 135 個影片展示，都是用 Claude Fable 5.2 做的，連結 2026-11-18 實測過。每天更新，覺得有用就按個 ⭐。
 
 ## 📑 目錄
 
-[⭐ 最受歡迎](#-最受歡迎) · [🎮 遊戲](#-遊戲) 89 · [🌍 3D 世界與場景](#-3d-世界與場景) 42 · [🧰 網頁與工具](#-網頁與工具) 40 · [🎬 動畫與短片](#-動畫與短片) 14 · [📺 影片展示](#-影片展示) 135 · [🤝 投稿](#-投稿)
+[⭐ 最受歡迎](#-最受歡迎) · [🆕 最新](#-最新) · [🎮 遊戲](#-遊戲) 89 · [🌍 3D 世界與場景](#-3d-世界與場景) 42 · [🧰 網頁與工具](#-網頁與工具) 40 · [🎬 動畫與短片](#-動畫與短片) 14 · [📺 影片展示](#-影片展示) 135 · [🤝 投稿](#-投稿)
 
 ## ⭐ 最受歡迎
 
@@ -69,6 +69,33 @@
 <sub><a href="https://x.com/anabology">@anabology</a> · ♥ 5.4k · <a href="https://x.com/anabology/status/2120010995309457643">▶ 影片</a></sub><br>
 <sub>「做出你夢想中的影片」——兩個鏡頭，9 小時。</sub><br>
 <sub><a href="https://fablelist.000ooo.ooo/zh-tw/prompts/?w=claudia-gallery&ref=gh"><b>✨ 取得提示詞</b></a></sub>
+</td>
+</tr>
+</table>
+
+## 🆕 最新
+
+過去 24 小時內新發出來的作品，按讚數排序。
+
+<table>
+<tr>
+<td width="33%" valign="top">
+<a href="https://stormy.ai/hands"><img src="assets/gifs/316.gif" width="100%" alt="Hands：機器人的手怎麼運作"></a><br>
+<b><a href="https://stormy.ai/hands">Hands：機器人的手怎麼運作</a></b><br>
+<sub>🆕 · <a href="https://x.com/Karmedge">@Karmedge</a> · ♥ 130 · <a href="https://x.com/Karmedge/status/2122394153497842080">▶ 影片</a></sub><br>
+<sub>互動講解頁：人形機器人的手怎麼運作、為什麼難做、成本多少。用了超過 10 億 token。</sub>
+</td>
+<td width="33%" valign="top">
+<a href="https://github.com/amirmushichge/fly-in-kit"><img src="assets/gifs/320.gif" width="100%" alt="Fly-In Kit：給咖啡店做的飛行小遊戲"></a><br>
+<b><a href="https://github.com/amirmushichge/fly-in-kit">Fly-In Kit：給咖啡店做的飛行小遊戲</a></b><br>
+<sub>🆕 · <a href="https://x.com/AmirMushich">@AmirMushich</a> · ♥ 83 · <a href="https://x.com/AmirMushich/status/2122421769462284615">▶ 影片</a></sub><br>
+<sub>重建咖啡店周圍的真實街道，共 7,970 棟建築：飛行、收集 5 顆咖啡豆、降落在屋頂，就能贏一杯免費咖啡。地圖上任何店家都適用。</sub>
+</td>
+<td width="33%" valign="top">
+<a href="https://patch.gg/play/blendi/solar"><img src="assets/gifs/323.gif" width="100%" alt="Solar：可以飛來飛去的迷你太陽系"></a><br>
+<b><a href="https://patch.gg/play/blendi/solar">Solar：可以飛來飛去的迷你太陽系</a></b><br>
+<sub>🆕 · <a href="https://x.com/BlendiByl">@BlendiByl</a> · ♥ 38 · <a href="https://x.com/BlendiByl/status/2122673770607591855">▶ 影片</a></sub><br>
+<sub>靈感來自 Outer Wilds：真實的軌道與重力，行星之間一路不中斷地飛行，每顆星球都由程式碼畫出。開源。</sub>
 </td>
 </tr>
 </table>
@@ -172,7 +199,7 @@
 <td width="33%" valign="top">
 <a href="https://app.usecrayon.ai/play/76dbd04f-0684-4486-8cc4-eae0585295e8"><img src="assets/gifs/288.gif" width="100%" alt="悟空：四星之路"></a><br>
 <b><a href="https://app.usecrayon.ai/play/76dbd04f-0684-4486-8cc4-eae0585295e8">悟空：四星之路</a></b><br>
-<sub>🆕 · <a href="https://x.com/aniketjart">@aniketjart</a> · ♥ 1.4k · <a href="https://x.com/aniketjart/status/2121793239175119279">▶ 影片</a></sub><br>
+<sub><a href="https://x.com/aniketjart">@aniketjart</a> · ♥ 1.4k · <a href="https://x.com/aniketjart/status/2121793239175119279">▶ 影片</a></sub><br>
 <sub>照著龍珠紅緞帶軍篇做的同人動作遊戲，用 three.js 寫成。還在製作中，目前能玩前兩張地圖。</sub>
 </td>
 <td width="33%" valign="top">
@@ -247,7 +274,7 @@
 <td width="33%" valign="top">
 <a href="https://valsera-game.vercel.app/"><img src="assets/gifs/279.gif" width="100%" alt="Valsera — 橫向捲軸 RPG"></a><br>
 <b><a href="https://valsera-game.vercel.app/">Valsera — 橫向捲軸 RPG</a></b><br>
-<sub>🆕 · <a href="https://x.com/kevin_t_ngo">@kevin_t_ngo</a> · ♥ 502 · <a href="https://x.com/kevin_t_ngo/status/2121701020598415465">▶ 影片</a></sub><br>
+<sub><a href="https://x.com/kevin_t_ngo">@kevin_t_ngo</a> · ♥ 502 · <a href="https://x.com/kevin_t_ngo/status/2121701020598415465">▶ 影片</a></sub><br>
 <sub>瀏覽器就能玩的橫向捲軸 RPG，所有畫面都用程式碼畫成，沒用圖像模型或現成美術素材。</sub>
 </td>
 <td width="33%" valign="top">
@@ -410,7 +437,7 @@
 <td width="33%" valign="top">
 <a href="https://fable-rover.vercel.app"><img src="assets/gifs/278.gif" width="100%" alt="ER-6 Terrain Explorer — 自動駕駛的火星車"></a><br>
 <b><a href="https://fable-rover.vercel.app">ER-6 Terrain Explorer — 自動駕駛的火星車</a></b><br>
-<sub>🆕 · <a href="https://x.com/DilumSanjaya">@DilumSanjaya</a> · ♥ 790 · <a href="https://x.com/DilumSanjaya/status/2120561077385867663">▶ 影片</a></sub><br>
+<sub><a href="https://x.com/DilumSanjaya">@DilumSanjaya</a> · ♥ 790 · <a href="https://x.com/DilumSanjaya/status/2120561077385867663">▶ 影片</a></sub><br>
 <sub>Fable 5.2 設計了 NASA 火星車那種搖臂轉向架懸吊，再模擬它在外星地形上行駛。</sub>
 </td>
 <td width="33%" valign="top">
@@ -617,7 +644,7 @@
 <td width="33%" valign="top">
 <a href="https://roverkit.vercel.app"><img src="assets/gifs/277.gif" width="100%" alt="RoverKit — 打造並模擬機器人小車"></a><br>
 <b><a href="https://roverkit.vercel.app">RoverKit — 打造並模擬機器人小車</a></b><br>
-<sub>🆕 · <a href="https://x.com/DilumSanjaya">@DilumSanjaya</a> · ♥ 1.1k · <a href="https://x.com/DilumSanjaya/status/2121286147393651085">▶ 影片</a></sub><br>
+<sub><a href="https://x.com/DilumSanjaya">@DilumSanjaya</a> · ♥ 1.1k · <a href="https://x.com/DilumSanjaya/status/2121286147393651085">▶ 影片</a></sub><br>
 <sub>一步步教你做機器人小車，附模擬器、可自訂場地和圖解程式碼。支援 Arduino 和 ESP32。</sub>
 </td>
 <td width="33%" valign="top">
@@ -653,7 +680,7 @@
 <td width="33%" valign="top">
 <a href="https://auden-english-135.netlify.app/"><img src="assets/gifs/281.gif" width="100%" alt="重建 Auden 失傳的 1941 年詩歌課"></a><br>
 <b><a href="https://auden-english-135.netlify.app/">重建 Auden 失傳的 1941 年詩歌課</a></b><br>
-<sub>🆕 · <a href="https://x.com/emollick">@emollick</a> · ♥ 593 · <a href="https://x.com/emollick/status/2121641417483169934">原文</a></sub><br>
+<sub><a href="https://x.com/emollick">@emollick</a> · ♥ 593 · <a href="https://x.com/emollick/status/2121641417483169934">原文</a></sub><br>
 <sub>Fable 5.2 從網際網路檔案館一本冷門書和零散筆記中，重建了 W. H. Auden 那門「人文學科最難」的課。</sub>
 </td>
 </tr>
@@ -810,7 +837,7 @@
 <td width="33%" valign="top">
 <a href="https://github.com/0xCodez/thousand-peaks"><img src="assets/gifs/282.gif" width="100%" alt="Dragon of a Thousand Peaks — 千峰之龍"></a><br>
 <b><a href="https://github.com/0xCodez/thousand-peaks">Dragon of a Thousand Peaks — 千峰之龍</a></b><br>
-<sub>🆕 · <a href="https://x.com/0xMovez">@0xMovez</a> · ♥ 132 · <a href="https://x.com/0xMovez/status/2121721290687983906">▶ 影片</a></sub><br>
+<sub><a href="https://x.com/0xMovez">@0xMovez</a> · ♥ 132 · <a href="https://x.com/0xMovez/status/2121721290687983906">▶ 影片</a></sub><br>
 <sub>90 秒純 three.js 打鬥短片，零素材、零影片模型；Fable 5.2 指揮 8 個並行 Agent，音樂音效也用程式碼合成。</sub>
 </td>
 </tr>
@@ -898,7 +925,7 @@
 <td width="33%" valign="top">
 <a href="https://x.com/JungleSilicon/status/2121782359901212987"><img src="assets/gifs/291.gif" width="100%" alt="像素風高斯潑濺"></a><br>
 <b><a href="https://x.com/JungleSilicon/status/2121782359901212987">像素風高斯潑濺</a></b><br>
-<sub>🆕 · <a href="https://x.com/JungleSilicon">@JungleSilicon</a> · ♥ 4.7k · <a href="https://x.com/JungleSilicon/status/2121782359901212987">▶ 影片</a></sub><br>
+<sub><a href="https://x.com/JungleSilicon">@JungleSilicon</a> · ♥ 4.7k · <a href="https://x.com/JungleSilicon/status/2121782359901212987">▶ 影片</a></sub><br>
 
 </td>
 </tr>

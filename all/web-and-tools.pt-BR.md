@@ -81,7 +81,7 @@ A página principal mostra no máximo as 36 entradas mais curtidas de cada seç�
 <td width="33%" valign="top">
 <a href="https://roverkit.vercel.app"><img src="../assets/gifs/277.gif" width="100%" alt="RoverKit — monte e simule um carrinho robô"></a><br>
 <b><a href="https://roverkit.vercel.app">RoverKit — monte e simule um carrinho robô</a></b><br>
-<sub>🆕 · <a href="https://x.com/DilumSanjaya">@DilumSanjaya</a> · ♥ 1.1k · <a href="https://x.com/DilumSanjaya/status/2121286147393651085">▶ Vídeo</a></sub><br>
+<sub><a href="https://x.com/DilumSanjaya">@DilumSanjaya</a> · ♥ 1.1k · <a href="https://x.com/DilumSanjaya/status/2121286147393651085">▶ Vídeo</a></sub><br>
 <sub>Um guia passo a passo para montar um carrinho robô, com simulador, arena personalizável e explicação visual do código. Suporta Arduino e ESP32.</sub>
 </td>
 <td width="33%" valign="top">
@@ -117,7 +117,7 @@ A página principal mostra no máximo as 36 entradas mais curtidas de cada seç�
 <td width="33%" valign="top">
 <a href="https://auden-english-135.netlify.app/"><img src="../assets/gifs/281.gif" width="100%" alt="A aula de poesia perdida de Auden de 1941, reconstruída"></a><br>
 <b><a href="https://auden-english-135.netlify.app/">A aula de poesia perdida de Auden de 1941, reconstruída</a></b><br>
-<sub>🆕 · <a href="https://x.com/emollick">@emollick</a> · ♥ 593 · <a href="https://x.com/emollick/status/2121641417483169934">Post</a></sub><br>
+<sub><a href="https://x.com/emollick">@emollick</a> · ♥ 593 · <a href="https://x.com/emollick/status/2121641417483169934">Post</a></sub><br>
 <sub>O Fable 5.2 reconstruiu a aula de W. H. Auden, "a mais difícil das humanidades", a partir de um livro obscuro do Internet Archive e anotações dispersas.</sub>
 </td>
 </tr>
@@ -261,7 +261,7 @@ A página principal mostra no máximo as 36 entradas mais curtidas de cada seç�
 <td width="33%" valign="top">
 <a href="https://uberdesigner.ai/t/araneae"><img src="../assets/gifs/290.gif" width="100%" alt="araneae"></a><br>
 <b><a href="https://uberdesigner.ai/t/araneae">araneae</a></b><br>
-<sub>🆕 · <a href="https://x.com/seanaiux">@seanaiux</a> · ♥ 8 · <a href="https://x.com/seanaiux/status/2121688869439455410">▶ Vídeo</a></sub><br>
+<sub><a href="https://x.com/seanaiux">@seanaiux</a> · ♥ 8 · <a href="https://x.com/seanaiux/status/2121688869439455410">▶ Vídeo</a></sub><br>
 <sub>O pedido era um site que desse medo: uma aranha desce do escuro e a rolagem a acompanha pela toca, olhos, presas e pernas até você virar a mosca.</sub>
 </td>
 <td width="33%" valign="top">

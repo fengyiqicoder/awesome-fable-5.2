@@ -101,7 +101,7 @@ La página principal muestra como máximo las 36 entradas con más «me gusta» 
 <td width="33%" valign="top">
 <a href="https://app.usecrayon.ai/play/76dbd04f-0684-4486-8cc4-eae0585295e8"><img src="../assets/gifs/288.gif" width="100%" alt="Goku: Four-Star Road"></a><br>
 <b><a href="https://app.usecrayon.ai/play/76dbd04f-0684-4486-8cc4-eae0585295e8">Goku: Four-Star Road</a></b><br>
-<sub>🆕 · <a href="https://x.com/aniketjart">@aniketjart</a> · ♥ 1.4k · <a href="https://x.com/aniketjart/status/2121793239175119279">▶ Video</a></sub><br>
+<sub><a href="https://x.com/aniketjart">@aniketjart</a> · ♥ 1.4k · <a href="https://x.com/aniketjart/status/2121793239175119279">▶ Video</a></sub><br>
 <sub>Un juego de acción fan basado en la saga del Ejército Red Ribbon de Dragon Ball, hecho con three.js. Está en desarrollo; se pueden jugar los dos primeros mapas.</sub>
 </td>
 <td width="33%" valign="top">
@@ -176,7 +176,7 @@ La página principal muestra como máximo las 36 entradas con más «me gusta» 
 <td width="33%" valign="top">
 <a href="https://valsera-game.vercel.app/"><img src="../assets/gifs/279.gif" width="100%" alt="Valsera — RPG de desplazamiento lateral"></a><br>
 <b><a href="https://valsera-game.vercel.app/">Valsera — RPG de desplazamiento lateral</a></b><br>
-<sub>🆕 · <a href="https://x.com/kevin_t_ngo">@kevin_t_ngo</a> · ♥ 502 · <a href="https://x.com/kevin_t_ngo/status/2121701020598415465">▶ Video</a></sub><br>
+<sub><a href="https://x.com/kevin_t_ngo">@kevin_t_ngo</a> · ♥ 502 · <a href="https://x.com/kevin_t_ngo/status/2121701020598415465">▶ Video</a></sub><br>
 <sub>Un RPG de scroll lateral que se juega en el navegador; todos los gráficos están dibujados con código, sin modelos de imagen ni arte prefabricado.</sub>
 </td>
 <td width="33%" valign="top">
@@ -519,7 +519,7 @@ La página principal muestra como máximo las 36 entradas con más «me gusta» 
 <td width="33%" valign="top">
 <a href="https://mikenevermiss.github.io/midnight-grid/"><img src="../assets/gifs/293.gif" width="100%" alt="Midnight Grid"></a><br>
 <b><a href="https://mikenevermiss.github.io/midnight-grid/">Midnight Grid</a></b><br>
-<sub>🆕 · <a href="https://x.com/mikenevermiss">@mikenevermiss</a> · ♥ 28 · <a href="https://x.com/mikenevermiss/status/2121900977959612500">▶ Video</a></sub><br>
+<sub><a href="https://x.com/mikenevermiss">@mikenevermiss</a> · ♥ 28 · <a href="https://x.com/mikenevermiss/status/2121900977959612500">▶ Video</a></sub><br>
 <sub>Un juego de conducción de mundo abierto hecho con un solo prompt: corre por la ciudad, choca contra el tráfico y huye de la policía. Cada coche, edificio, textura y sonido se genera con código.</sub>
 </td>
 <td width="33%" valign="top">

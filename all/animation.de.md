@@ -67,7 +67,7 @@ Die Hauptseite zeigt pro Bereich höchstens die 36 Einträge mit den meisten Lik
 <td width="33%" valign="top">
 <a href="https://github.com/0xCodez/thousand-peaks"><img src="../assets/gifs/282.gif" width="100%" alt="Dragon of a Thousand Peaks — Drache der tausend Gipfel"></a><br>
 <b><a href="https://github.com/0xCodez/thousand-peaks">Dragon of a Thousand Peaks — Drache der tausend Gipfel</a></b><br>
-<sub>🆕 · <a href="https://x.com/0xMovez">@0xMovez</a> · ♥ 132 · <a href="https://x.com/0xMovez/status/2121721290687983906">▶ Video</a></sub><br>
+<sub><a href="https://x.com/0xMovez">@0xMovez</a> · ♥ 132 · <a href="https://x.com/0xMovez/status/2121721290687983906">▶ Video</a></sub><br>
 <sub>Ein 90-sekündiger Kampffilm in reinem three.js ohne Assets oder Videomodelle; Fable 5.2 führte als Regisseur 8 parallele Agenten, Musik und Sounds sind im Code synthetisiert.</sub>
 </td>
 </tr>

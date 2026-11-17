@@ -101,7 +101,7 @@
 <td width="33%" valign="top">
 <a href="https://app.usecrayon.ai/play/76dbd04f-0684-4486-8cc4-eae0585295e8"><img src="../assets/gifs/288.gif" width="100%" alt="오공: 포스타 로드"></a><br>
 <b><a href="https://app.usecrayon.ai/play/76dbd04f-0684-4486-8cc4-eae0585295e8">오공: 포스타 로드</a></b><br>
-<sub>🆕 · <a href="https://x.com/aniketjart">@aniketjart</a> · ♥ 1.4k · <a href="https://x.com/aniketjart/status/2121793239175119279">▶ 영상</a></sub><br>
+<sub><a href="https://x.com/aniketjart">@aniketjart</a> · ♥ 1.4k · <a href="https://x.com/aniketjart/status/2121793239175119279">▶ 영상</a></sub><br>
 <sub>드래곤볼 레드리본군 편을 바탕으로 three.js로 만든 팬 액션 게임. 제작 중이며 처음 두 맵을 플레이할 수 있습니다.</sub>
 </td>
 <td width="33%" valign="top">
@@ -176,7 +176,7 @@
 <td width="33%" valign="top">
 <a href="https://valsera-game.vercel.app/"><img src="../assets/gifs/279.gif" width="100%" alt="Valsera — 횡스크롤 RPG"></a><br>
 <b><a href="https://valsera-game.vercel.app/">Valsera — 횡스크롤 RPG</a></b><br>
-<sub>🆕 · <a href="https://x.com/kevin_t_ngo">@kevin_t_ngo</a> · ♥ 502 · <a href="https://x.com/kevin_t_ngo/status/2121701020598415465">▶ 영상</a></sub><br>
+<sub><a href="https://x.com/kevin_t_ngo">@kevin_t_ngo</a> · ♥ 502 · <a href="https://x.com/kevin_t_ngo/status/2121701020598415465">▶ 영상</a></sub><br>
 <sub>브라우저에서 플레이할 수 있는 횡스크롤 RPG. 이미지 모델이나 기존 아트 없이 모든 그래픽을 코드로 그렸습니다.</sub>
 </td>
 <td width="33%" valign="top">
@@ -519,7 +519,7 @@
 <td width="33%" valign="top">
 <a href="https://mikenevermiss.github.io/midnight-grid/"><img src="../assets/gifs/293.gif" width="100%" alt="Midnight Grid"></a><br>
 <b><a href="https://mikenevermiss.github.io/midnight-grid/">Midnight Grid</a></b><br>
-<sub>🆕 · <a href="https://x.com/mikenevermiss">@mikenevermiss</a> · ♥ 28 · <a href="https://x.com/mikenevermiss/status/2121900977959612500">▶ 영상</a></sub><br>
+<sub><a href="https://x.com/mikenevermiss">@mikenevermiss</a> · ♥ 28 · <a href="https://x.com/mikenevermiss/status/2121900977959612500">▶ 영상</a></sub><br>
 <sub>프롬프트 하나로 만든 오픈월드 드라이빙 게임. 도시를 질주하고, 차에 부딪히고, 경찰에게 쫓깁니다. 모든 차, 건물, 텍스처, 사운드가 코드로 생성됩니다.</sub>
 </td>
 <td width="33%" valign="top">

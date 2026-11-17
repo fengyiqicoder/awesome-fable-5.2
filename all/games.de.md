@@ -101,7 +101,7 @@ Die Hauptseite zeigt pro Bereich höchstens die 36 Einträge mit den meisten Lik
 <td width="33%" valign="top">
 <a href="https://app.usecrayon.ai/play/76dbd04f-0684-4486-8cc4-eae0585295e8"><img src="../assets/gifs/288.gif" width="100%" alt="Goku: Four-Star Road"></a><br>
 <b><a href="https://app.usecrayon.ai/play/76dbd04f-0684-4486-8cc4-eae0585295e8">Goku: Four-Star Road</a></b><br>
-<sub>🆕 · <a href="https://x.com/aniketjart">@aniketjart</a> · ♥ 1.4k · <a href="https://x.com/aniketjart/status/2121793239175119279">▶ Video</a></sub><br>
+<sub><a href="https://x.com/aniketjart">@aniketjart</a> · ♥ 1.4k · <a href="https://x.com/aniketjart/status/2121793239175119279">▶ Video</a></sub><br>
 <sub>Ein Fan-Actionspiel nach der Red-Ribbon-Saga aus Dragon Ball, gebaut mit three.js. Noch in Arbeit; die ersten zwei Karten sind spielbar.</sub>
 </td>
 <td width="33%" valign="top">
@@ -176,7 +176,7 @@ Die Hauptseite zeigt pro Bereich höchstens die 36 Einträge mit den meisten Lik
 <td width="33%" valign="top">
 <a href="https://valsera-game.vercel.app/"><img src="../assets/gifs/279.gif" width="100%" alt="Valsera — Sidescroller-RPG"></a><br>
 <b><a href="https://valsera-game.vercel.app/">Valsera — Sidescroller-RPG</a></b><br>
-<sub>🆕 · <a href="https://x.com/kevin_t_ngo">@kevin_t_ngo</a> · ♥ 502 · <a href="https://x.com/kevin_t_ngo/status/2121701020598415465">▶ Video</a></sub><br>
+<sub><a href="https://x.com/kevin_t_ngo">@kevin_t_ngo</a> · ♥ 502 · <a href="https://x.com/kevin_t_ngo/status/2121701020598415465">▶ Video</a></sub><br>
 <sub>Ein im Browser spielbares Sidescroller-RPG; alle Grafiken sind mit Code gezeichnet, ohne Bildmodell oder fertige Assets.</sub>
 </td>
 <td width="33%" valign="top">
@@ -519,7 +519,7 @@ Die Hauptseite zeigt pro Bereich höchstens die 36 Einträge mit den meisten Lik
 <td width="33%" valign="top">
 <a href="https://mikenevermiss.github.io/midnight-grid/"><img src="../assets/gifs/293.gif" width="100%" alt="Midnight Grid"></a><br>
 <b><a href="https://mikenevermiss.github.io/midnight-grid/">Midnight Grid</a></b><br>
-<sub>🆕 · <a href="https://x.com/mikenevermiss">@mikenevermiss</a> · ♥ 28 · <a href="https://x.com/mikenevermiss/status/2121900977959612500">▶ Video</a></sub><br>
+<sub><a href="https://x.com/mikenevermiss">@mikenevermiss</a> · ♥ 28 · <a href="https://x.com/mikenevermiss/status/2121900977959612500">▶ Video</a></sub><br>
 <sub>Ein Open-World-Fahrspiel aus einem einzigen Prompt: durch die Stadt rasen, in den Verkehr krachen und vor der Polizei fliehen. Jedes Auto, Gebäude, jede Textur und jeder Sound wird per Code erzeugt.</sub>
 </td>
 <td width="33%" valign="top">

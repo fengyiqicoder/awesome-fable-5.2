@@ -7,7 +7,7 @@
 [![Awesome](https://awesome.re/badge.svg)](https://awesome.re)
 [![Works](https://img.shields.io/badge/작품-185-6b4eff)](#-게임)
 [![Demos](https://img.shields.io/badge/영상_데모-135-ff7a59)](#-영상-데모)
-[![Links checked](https://img.shields.io/badge/링크_확인-2026--11--17-2ea44f)](#-기여하기)
+[![Links checked](https://img.shields.io/badge/링크_확인-2026--11--18-2ea44f)](#-기여하기)
 [![License: CC0-1.0](https://img.shields.io/badge/License-CC0_1.0-lightgrey.svg)](LICENSE)
 
 [English](README.md) · [简体中文](README.zh-CN.md) · [繁體中文](README.zh-TW.md) · [日本語](README.ja.md) · **한국어** · [Español](README.es.md) · [Português](README.pt-BR.md) · [Français](README.fr.md) · [Deutsch](README.de.md) · [Русский](README.ru.md)
@@ -16,11 +16,11 @@
 
 </div>
 
-Claude Fable 5.2로 만든 작품 185개와 영상 데모 135개, 링크는 2026-11-17에 모두 확인. 매일 업데이트되니 도움이 되면 ⭐ 눌러 주세요.
+Claude Fable 5.2로 만든 작품 185개와 영상 데모 135개, 링크는 2026-11-18에 모두 확인. 매일 업데이트되니 도움이 되면 ⭐ 눌러 주세요.
 
 ## 📑 목차
 
-[⭐ 가장 사랑받은 작품](#-가장-사랑받은-작품) · [🎮 게임](#-게임) 89 · [🌍 3D 월드와 장면](#-3d-월드와-장면) 42 · [🧰 웹 페이지와 도구](#-웹-페이지와-도구) 40 · [🎬 애니메이션과 영상](#-애니메이션과-영상) 14 · [📺 영상 데모](#-영상-데모) 135 · [🤝 기여하기](#-기여하기)
+[⭐ 가장 사랑받은 작품](#-가장-사랑받은-작품) · [🆕 최신](#-최신) · [🎮 게임](#-게임) 89 · [🌍 3D 월드와 장면](#-3d-월드와-장면) 42 · [🧰 웹 페이지와 도구](#-웹-페이지와-도구) 40 · [🎬 애니메이션과 영상](#-애니메이션과-영상) 14 · [📺 영상 데모](#-영상-데모) 135 · [🤝 기여하기](#-기여하기)
 
 ## ⭐ 가장 사랑받은 작품
 
@@ -69,6 +69,33 @@ Claude Fable 5.2로 만든 작품 185개와 영상 데모 135개, 링크는 2026
 <sub><a href="https://x.com/anabology">@anabology</a> · ♥ 5.4k · <a href="https://x.com/anabology/status/2120010995309457643">▶ 영상</a></sub><br>
 <sub>"꿈꾸던 영상을 만들어줘" — 2샷, 9시간.</sub><br>
 <sub><a href="https://fablelist.000ooo.ooo/ko/prompts/?w=claudia-gallery&ref=gh"><b>✨ 프롬프트 받기</b></a></sub>
+</td>
+</tr>
+</table>
+
+## 🆕 최신
+
+지난 24시간 안에 올라온 작품, 좋아요 순.
+
+<table>
+<tr>
+<td width="33%" valign="top">
+<a href="https://stormy.ai/hands"><img src="assets/gifs/316.gif" width="100%" alt="Hands: 로봇 손은 어떻게 작동하나"></a><br>
+<b><a href="https://stormy.ai/hands">Hands: 로봇 손은 어떻게 작동하나</a></b><br>
+<sub>🆕 · <a href="https://x.com/Karmedge">@Karmedge</a> · ♥ 130 · <a href="https://x.com/Karmedge/status/2122394153497842080">▶ 영상</a></sub><br>
+<sub>휴머노이드 로봇의 손이 어떻게 작동하는지, 왜 만들기 어려운지, 비용이 얼마인지 설명하는 인터랙티브 해설 페이지. 10억 개가 넘는 토큰으로 제작.</sub>
+</td>
+<td width="33%" valign="top">
+<a href="https://github.com/amirmushichge/fly-in-kit"><img src="assets/gifs/320.gif" width="100%" alt="Fly-In Kit: 카페를 위한 비행 미니게임"></a><br>
+<b><a href="https://github.com/amirmushichge/fly-in-kit">Fly-In Kit: 카페를 위한 비행 미니게임</a></b><br>
+<sub>🆕 · <a href="https://x.com/AmirMushich">@AmirMushich</a> · ♥ 83 · <a href="https://x.com/AmirMushich/status/2122421769462284615">▶ 영상</a></sub><br>
+<sub>커피숍 주변의 실제 거리, 건물 7,970채를 재현했다. 날아서 원두 5개를 모으고 옥상에 착륙하면 무료 커피를 받는다. 지도 위 어떤 가게에도 쓸 수 있다.</sub>
+</td>
+<td width="33%" valign="top">
+<a href="https://patch.gg/play/blendi/solar"><img src="assets/gifs/323.gif" width="100%" alt="Solar — 날아다닐 수 있는 작은 태양계"></a><br>
+<b><a href="https://patch.gg/play/blendi/solar">Solar — 날아다닐 수 있는 작은 태양계</a></b><br>
+<sub>🆕 · <a href="https://x.com/BlendiByl">@BlendiByl</a> · ♥ 38 · <a href="https://x.com/BlendiByl/status/2122673770607591855">▶ 영상</a></sub><br>
+<sub>Outer Wilds에서 영감을 받았습니다. 실제 궤도와 중력, 행성 사이를 끊김 없이 비행하며 모든 세계를 코드로 그렸습니다. 오픈 소스.</sub>
 </td>
 </tr>
 </table>
@@ -172,7 +199,7 @@ Claude Fable 5.2로 만든 작품 185개와 영상 데모 135개, 링크는 2026
 <td width="33%" valign="top">
 <a href="https://app.usecrayon.ai/play/76dbd04f-0684-4486-8cc4-eae0585295e8"><img src="assets/gifs/288.gif" width="100%" alt="오공: 포스타 로드"></a><br>
 <b><a href="https://app.usecrayon.ai/play/76dbd04f-0684-4486-8cc4-eae0585295e8">오공: 포스타 로드</a></b><br>
-<sub>🆕 · <a href="https://x.com/aniketjart">@aniketjart</a> · ♥ 1.4k · <a href="https://x.com/aniketjart/status/2121793239175119279">▶ 영상</a></sub><br>
+<sub><a href="https://x.com/aniketjart">@aniketjart</a> · ♥ 1.4k · <a href="https://x.com/aniketjart/status/2121793239175119279">▶ 영상</a></sub><br>
 <sub>드래곤볼 레드리본군 편을 바탕으로 three.js로 만든 팬 액션 게임. 제작 중이며 처음 두 맵을 플레이할 수 있습니다.</sub>
 </td>
 <td width="33%" valign="top">
@@ -247,7 +274,7 @@ Claude Fable 5.2로 만든 작품 185개와 영상 데모 135개, 링크는 2026
 <td width="33%" valign="top">
 <a href="https://valsera-game.vercel.app/"><img src="assets/gifs/279.gif" width="100%" alt="Valsera — 횡스크롤 RPG"></a><br>
 <b><a href="https://valsera-game.vercel.app/">Valsera — 횡스크롤 RPG</a></b><br>
-<sub>🆕 · <a href="https://x.com/kevin_t_ngo">@kevin_t_ngo</a> · ♥ 502 · <a href="https://x.com/kevin_t_ngo/status/2121701020598415465">▶ 영상</a></sub><br>
+<sub><a href="https://x.com/kevin_t_ngo">@kevin_t_ngo</a> · ♥ 502 · <a href="https://x.com/kevin_t_ngo/status/2121701020598415465">▶ 영상</a></sub><br>
 <sub>브라우저에서 플레이할 수 있는 횡스크롤 RPG. 이미지 모델이나 기존 아트 없이 모든 그래픽을 코드로 그렸습니다.</sub>
 </td>
 <td width="33%" valign="top">
@@ -410,7 +437,7 @@ Claude Fable 5.2로 만든 작품 185개와 영상 데모 135개, 링크는 2026
 <td width="33%" valign="top">
 <a href="https://fable-rover.vercel.app"><img src="assets/gifs/278.gif" width="100%" alt="ER-6 Terrain Explorer — 스스로 달리는 화성 탐사차"></a><br>
 <b><a href="https://fable-rover.vercel.app">ER-6 Terrain Explorer — 스스로 달리는 화성 탐사차</a></b><br>
-<sub>🆕 · <a href="https://x.com/DilumSanjaya">@DilumSanjaya</a> · ♥ 790 · <a href="https://x.com/DilumSanjaya/status/2120561077385867663">▶ 영상</a></sub><br>
+<sub><a href="https://x.com/DilumSanjaya">@DilumSanjaya</a> · ♥ 790 · <a href="https://x.com/DilumSanjaya/status/2120561077385867663">▶ 영상</a></sub><br>
 <sub>Fable 5.2가 NASA 화성 탐사차처럼 로커-보기 서스펜션을 설계하고, 외계 지형을 달리는 시뮬레이션까지 만들었습니다.</sub>
 </td>
 <td width="33%" valign="top">
@@ -617,7 +644,7 @@ Claude Fable 5.2로 만든 작품 185개와 영상 데모 135개, 링크는 2026
 <td width="33%" valign="top">
 <a href="https://roverkit.vercel.app"><img src="assets/gifs/277.gif" width="100%" alt="RoverKit — 로봇 자동차 만들고 시뮬레이션하기"></a><br>
 <b><a href="https://roverkit.vercel.app">RoverKit — 로봇 자동차 만들고 시뮬레이션하기</a></b><br>
-<sub>🆕 · <a href="https://x.com/DilumSanjaya">@DilumSanjaya</a> · ♥ 1.1k · <a href="https://x.com/DilumSanjaya/status/2121286147393651085">▶ 영상</a></sub><br>
+<sub><a href="https://x.com/DilumSanjaya">@DilumSanjaya</a> · ♥ 1.1k · <a href="https://x.com/DilumSanjaya/status/2121286147393651085">▶ 영상</a></sub><br>
 <sub>로봇 자동차 만드는 법을 단계별로 알려 줍니다. 시뮬레이터, 커스터마이즈 가능한 경기장, 시각적인 코드 설명 포함. Arduino와 ESP32 지원.</sub>
 </td>
 <td width="33%" valign="top">
@@ -653,7 +680,7 @@ Claude Fable 5.2로 만든 작품 185개와 영상 데모 135개, 링크는 2026
 <td width="33%" valign="top">
 <a href="https://auden-english-135.netlify.app/"><img src="assets/gifs/281.gif" width="100%" alt="사라진 Auden의 1941년 시 수업 복원"></a><br>
 <b><a href="https://auden-english-135.netlify.app/">사라진 Auden의 1941년 시 수업 복원</a></b><br>
-<sub>🆕 · <a href="https://x.com/emollick">@emollick</a> · ♥ 593 · <a href="https://x.com/emollick/status/2121641417483169934">게시물</a></sub><br>
+<sub><a href="https://x.com/emollick">@emollick</a> · ♥ 593 · <a href="https://x.com/emollick/status/2121641417483169934">게시물</a></sub><br>
 <sub>Fable 5.2가 Internet Archive의 잘 알려지지 않은 책과 흩어진 메모를 바탕으로 W. H. Auden의 '인문학에서 가장 어려운' 수업을 재구성했습니다.</sub>
 </td>
 </tr>
@@ -810,7 +837,7 @@ Claude Fable 5.2로 만든 작품 185개와 영상 데모 135개, 링크는 2026
 <td width="33%" valign="top">
 <a href="https://github.com/0xCodez/thousand-peaks"><img src="assets/gifs/282.gif" width="100%" alt="Dragon of a Thousand Peaks — 천 봉우리의 용"></a><br>
 <b><a href="https://github.com/0xCodez/thousand-peaks">Dragon of a Thousand Peaks — 천 봉우리의 용</a></b><br>
-<sub>🆕 · <a href="https://x.com/0xMovez">@0xMovez</a> · ♥ 132 · <a href="https://x.com/0xMovez/status/2121721290687983906">▶ 영상</a></sub><br>
+<sub><a href="https://x.com/0xMovez">@0xMovez</a> · ♥ 132 · <a href="https://x.com/0xMovez/status/2121721290687983906">▶ 영상</a></sub><br>
 <sub>에셋도 영상 모델도 없이 순수 three.js로 만든 90초 전투 영상. Fable 5.2가 감독을 맡아 8개의 에이전트를 병렬로 지휘했고, 음악과 효과음도 코드로 합성했습니다.</sub>
 </td>
 </tr>
@@ -898,7 +925,7 @@ Claude Fable 5.2로 만든 작품 185개와 영상 데모 135개, 링크는 2026
 <td width="33%" valign="top">
 <a href="https://x.com/JungleSilicon/status/2121782359901212987"><img src="assets/gifs/291.gif" width="100%" alt="픽셀 아트 가우시안 스플랫"></a><br>
 <b><a href="https://x.com/JungleSilicon/status/2121782359901212987">픽셀 아트 가우시안 스플랫</a></b><br>
-<sub>🆕 · <a href="https://x.com/JungleSilicon">@JungleSilicon</a> · ♥ 4.7k · <a href="https://x.com/JungleSilicon/status/2121782359901212987">▶ 영상</a></sub><br>
+<sub><a href="https://x.com/JungleSilicon">@JungleSilicon</a> · ♥ 4.7k · <a href="https://x.com/JungleSilicon/status/2121782359901212987">▶ 영상</a></sub><br>
 
 </td>
 </tr>

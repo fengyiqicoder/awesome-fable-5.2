@@ -71,7 +71,7 @@
 <td width="33%" valign="top">
 <a href="https://x.com/JungleSilicon/status/2121782359901212987"><img src="../assets/gifs/291.gif" width="100%" alt="像素风的高斯泼溅场景，用 Fable 5.2 做的"></a><br>
 <b><a href="https://x.com/JungleSilicon/status/2121782359901212987">像素风的高斯泼溅场景，用 Fable 5.2 做的</a></b><br>
-<sub>🆕 · <a href="https://x.com/JungleSilicon">@JungleSilicon</a> · ♥ 4.7k · <a href="https://x.com/JungleSilicon/status/2121782359901212987">▶ 视频</a></sub><br>
+<sub><a href="https://x.com/JungleSilicon">@JungleSilicon</a> · ♥ 4.7k · <a href="https://x.com/JungleSilicon/status/2121782359901212987">▶ 视频</a></sub><br>
 
 </td>
 </tr>
@@ -323,7 +323,7 @@
 <td width="33%" valign="top">
 <a href="https://x.com/MengTo/status/2121896633848017145"><img src="../assets/gifs/294.gif" width="100%" alt="三天做出的魂系动作游戏，three.js 写的，浏览器里跑，带完整光照、特效和音效"></a><br>
 <b><a href="https://x.com/MengTo/status/2121896633848017145">三天做出的魂系动作游戏，three.js 写的，浏览器里跑，带完整光照、特效和音效</a></b><br>
-<sub>🆕 · <a href="https://x.com/MengTo">@MengTo</a> · ♥ 979 · <a href="https://x.com/MengTo/status/2121896633848017145">▶ 视频</a></sub><br>
+<sub><a href="https://x.com/MengTo">@MengTo</a> · ♥ 979 · <a href="https://x.com/MengTo/status/2121896633848017145">▶ 视频</a></sub><br>
 
 </td>
 <td width="33%" valign="top">
@@ -465,7 +465,7 @@
 <td width="33%" valign="top">
 <a href="https://x.com/AstrablueAI/status/2121635642836918385"><img src="../assets/gifs/292.gif" width="100%" alt="FABLE-OUS：歌由 Fable 5.2 一次写成，MV 由 Fable 5.2 带 Opus 5.5 子 Agent 一次做完"></a><br>
 <b><a href="https://x.com/AstrablueAI/status/2121635642836918385">FABLE-OUS：歌由 Fable 5.2 一次写成，MV 由 Fable 5.2 带 Opus 5.5 子 Agent 一次做完</a></b><br>
-<sub>🆕 · <a href="https://x.com/AstrablueAI">@AstrablueAI</a> · ♥ 669 · <a href="https://x.com/AstrablueAI/status/2121635642836918385">▶ 视频</a></sub><br>
+<sub><a href="https://x.com/AstrablueAI">@AstrablueAI</a> · ♥ 669 · <a href="https://x.com/AstrablueAI/status/2121635642836918385">▶ 视频</a></sub><br>
 
 </td>
 <td width="33%" valign="top">
@@ -577,13 +577,13 @@
 <td width="33%" valign="top">
 <a href="https://x.com/MartinOesterhel/status/2120464036030517525"><img src="../assets/gifs/283.gif" width="100%" alt="把农学里的土壤质地三角图做成一支预告片"></a><br>
 <b><a href="https://x.com/MartinOesterhel/status/2120464036030517525">把农学里的土壤质地三角图做成一支预告片</a></b><br>
-<sub>🆕 · <a href="https://x.com/MartinOesterhel">@MartinOesterhel</a> · ♥ 488 · <a href="https://x.com/MartinOesterhel/status/2120464036030517525">▶ 视频</a></sub><br>
+<sub><a href="https://x.com/MartinOesterhel">@MartinOesterhel</a> · ♥ 488 · <a href="https://x.com/MartinOesterhel/status/2120464036030517525">▶ 视频</a></sub><br>
 
 </td>
 <td width="33%" valign="top">
 <a href="https://x.com/seiiiiiiiiiiru/status/2121724395354018201"><img src="../assets/gifs/296.gif" width="100%" alt="Claude 配 Blender 做动作捕捉，建模和绑骨都交给 Fable 5.2"></a><br>
 <b><a href="https://x.com/seiiiiiiiiiiru/status/2121724395354018201">Claude 配 Blender 做动作捕捉，建模和绑骨都交给 Fable 5.2</a></b><br>
-<sub>🆕 · <a href="https://x.com/seiiiiiiiiiiru">@seiiiiiiiiiiru</a> · ♥ 479 · <a href="https://x.com/seiiiiiiiiiiru/status/2121724395354018201">▶ 视频</a></sub><br>
+<sub><a href="https://x.com/seiiiiiiiiiiru">@seiiiiiiiiiiru</a> · ♥ 479 · <a href="https://x.com/seiiiiiiiiiiru/status/2121724395354018201">▶ 视频</a></sub><br>
 
 </td>
 </tr>
@@ -605,7 +605,7 @@
 <td width="33%" valign="top">
 <a href="https://x.com/gavinpurcell/status/2121407421465985382"><img src="../assets/gifs/286.gif" width="100%" alt="「喉咙意面」西部片三部曲的最终章"></a><br>
 <b><a href="https://x.com/gavinpurcell/status/2121407421465985382">「喉咙意面」西部片三部曲的最终章</a></b><br>
-<sub>🆕 · <a href="https://x.com/gavinpurcell">@gavinpurcell</a> · ♥ 472 · <a href="https://x.com/gavinpurcell/status/2121407421465985382">▶ 视频</a></sub><br>
+<sub><a href="https://x.com/gavinpurcell">@gavinpurcell</a> · ♥ 472 · <a href="https://x.com/gavinpurcell/status/2121407421465985382">▶ 视频</a></sub><br>
 
 </td>
 </tr>
@@ -620,7 +620,7 @@
 <td width="33%" valign="top">
 <a href="https://x.com/amrnth0/status/2120849097871810973"><img src="../assets/gifs/284.gif" width="100%" alt="动画讲解 Railway 被黑事件的来龙去脉"></a><br>
 <b><a href="https://x.com/amrnth0/status/2120849097871810973">动画讲解 Railway 被黑事件的来龙去脉</a></b><br>
-<sub>🆕 · <a href="https://x.com/amrnth0">@amrnth0</a> · ♥ 457 · <a href="https://x.com/amrnth0/status/2120849097871810973">▶ 视频</a></sub><br>
+<sub><a href="https://x.com/amrnth0">@amrnth0</a> · ♥ 457 · <a href="https://x.com/amrnth0/status/2120849097871810973">▶ 视频</a></sub><br>
 
 </td>
 <td width="33%" valign="top">
@@ -634,7 +634,7 @@
 <td width="33%" valign="top">
 <a href="https://x.com/jeanalexandre_b/status/2120783430606840084"><img src="../assets/gifs/287.gif" width="100%" alt="用 10 万个色块一步步逼近作者照片，纯代码作画，没用任何图像模型"></a><br>
 <b><a href="https://x.com/jeanalexandre_b/status/2120783430606840084">用 10 万个色块一步步逼近作者照片，纯代码作画，没用任何图像模型</a></b><br>
-<sub>🆕 · <a href="https://x.com/jeanalexandre_b">@jeanalexandre_b</a> · ♥ 443 · <a href="https://x.com/jeanalexandre_b/status/2120783430606840084">▶ 视频</a></sub><br>
+<sub><a href="https://x.com/jeanalexandre_b">@jeanalexandre_b</a> · ♥ 443 · <a href="https://x.com/jeanalexandre_b/status/2120783430606840084">▶ 视频</a></sub><br>
 
 </td>
 <td width="33%" valign="top">
@@ -655,7 +655,7 @@
 <td width="33%" valign="top">
 <a href="https://x.com/gavinpurcell/status/2120581152054583369"><img src="../assets/gifs/285.gif" width="100%" alt="Fig 和 Fable 5.2 的「喉咙意面」西部片第二章：一段年轻人的拌嘴恋爱"></a><br>
 <b><a href="https://x.com/gavinpurcell/status/2120581152054583369">Fig 和 Fable 5.2 的「喉咙意面」西部片第二章：一段年轻人的拌嘴恋爱</a></b><br>
-<sub>🆕 · <a href="https://x.com/gavinpurcell">@gavinpurcell</a> · ♥ 427 · <a href="https://x.com/gavinpurcell/status/2120581152054583369">▶ 视频</a></sub><br>
+<sub><a href="https://x.com/gavinpurcell">@gavinpurcell</a> · ♥ 427 · <a href="https://x.com/gavinpurcell/status/2120581152054583369">▶ 视频</a></sub><br>
 
 </td>
 <td width="33%" valign="top">
@@ -744,7 +744,7 @@
 <td width="33%" valign="top">
 <a href="https://x.com/elvar_official/status/2121579587222016201"><img src="../assets/gifs/295.gif" width="100%" alt="用自己写的 Skill 一镜到底重现 1977 到 2020 年的游戏手柄演变，每个外壳和齿轮都是 three.js 写的"></a><br>
 <b><a href="https://x.com/elvar_official/status/2121579587222016201">用自己写的 Skill 一镜到底重现 1977 到 2020 年的游戏手柄演变，每个外壳和齿轮都是 three.js 写的</a></b><br>
-<sub>🆕 · <a href="https://x.com/elvar_official">@elvar_official</a> · ♥ 280 · <a href="https://x.com/elvar_official/status/2121579587222016201">▶ 视频</a></sub><br>
+<sub><a href="https://x.com/elvar_official">@elvar_official</a> · ♥ 280 · <a href="https://x.com/elvar_official/status/2121579587222016201">▶ 视频</a></sub><br>
 
 </td>
 <td width="33%" valign="top">

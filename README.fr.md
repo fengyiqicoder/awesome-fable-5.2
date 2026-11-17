@@ -7,7 +7,7 @@
 [![Awesome](https://awesome.re/badge.svg)](https://awesome.re)
 [![Works](https://img.shields.io/badge/œuvres-185-6b4eff)](#-jeux)
 [![Demos](https://img.shields.io/badge/démos_vidéo-135-ff7a59)](#-démos-vidéo)
-[![Links checked](https://img.shields.io/badge/liens_vérifiés-2026--11--17-2ea44f)](#-contribuer)
+[![Links checked](https://img.shields.io/badge/liens_vérifiés-2026--11--18-2ea44f)](#-contribuer)
 [![License: CC0-1.0](https://img.shields.io/badge/License-CC0_1.0-lightgrey.svg)](LICENSE)
 
 [English](README.md) · [简体中文](README.zh-CN.md) · [繁體中文](README.zh-TW.md) · [日本語](README.ja.md) · [한국어](README.ko.md) · [Español](README.es.md) · [Português](README.pt-BR.md) · **Français** · [Deutsch](README.de.md) · [Русский](README.ru.md)
@@ -16,11 +16,11 @@
 
 </div>
 
-185 œuvres en ligne et 135 démos vidéo créées avec Claude Fable 5.2, liens vérifiés le 2026-11-17. Mis à jour chaque jour ; une ⭐ aide à continuer.
+185 œuvres en ligne et 135 démos vidéo créées avec Claude Fable 5.2, liens vérifiés le 2026-11-18. Mis à jour chaque jour ; une ⭐ aide à continuer.
 
 ## 📑 Sommaire
 
-[⭐ Les plus aimés](#-les-plus-aimés) · [🎮 Jeux](#-jeux) 89 · [🌍 Mondes et scènes 3D](#-mondes-et-scènes-3d) 42 · [🧰 Pages web et outils](#-pages-web-et-outils) 40 · [🎬 Animation et films](#-animation-et-films) 14 · [📺 Démos vidéo](#-démos-vidéo) 135 · [🤝 Contribuer](#-contribuer)
+[⭐ Les plus aimés](#-les-plus-aimés) · [🆕 Récents](#-récents) · [🎮 Jeux](#-jeux) 89 · [🌍 Mondes et scènes 3D](#-mondes-et-scènes-3d) 42 · [🧰 Pages web et outils](#-pages-web-et-outils) 40 · [🎬 Animation et films](#-animation-et-films) 14 · [📺 Démos vidéo](#-démos-vidéo) 135 · [🤝 Contribuer](#-contribuer)
 
 ## ⭐ Les plus aimés
 
@@ -69,6 +69,33 @@
 <sub><a href="https://x.com/anabology">@anabology</a> · ♥ 5.4k · <a href="https://x.com/anabology/status/2120010995309457643">▶ Vidéo</a></sub><br>
 <sub>« Fais la vidéo de tes rêves » — deux plans, 9 heures.</sub><br>
 <sub><a href="https://fablelist.000ooo.ooo/fr/prompts/?w=claudia-gallery&ref=gh"><b>✨ Obtenir le prompt</b></a></sub>
+</td>
+</tr>
+</table>
+
+## 🆕 Récents
+
+Publiés ces dernières 24 heures, triés par j'aime.
+
+<table>
+<tr>
+<td width="33%" valign="top">
+<a href="https://stormy.ai/hands"><img src="assets/gifs/316.gif" width="100%" alt="Hands : comment fonctionne une main de robot"></a><br>
+<b><a href="https://stormy.ai/hands">Hands : comment fonctionne une main de robot</a></b><br>
+<sub>🆕 · <a href="https://x.com/Karmedge">@Karmedge</a> · ♥ 130 · <a href="https://x.com/Karmedge/status/2122394153497842080">▶ Vidéo</a></sub><br>
+<sub>Une explication interactive du fonctionnement de la main d'un robot humanoïde, de la difficulté à la construire et de son coût. Réalisée avec plus d'un milliard de tokens.</sub>
+</td>
+<td width="33%" valign="top">
+<a href="https://github.com/amirmushichge/fly-in-kit"><img src="assets/gifs/320.gif" width="100%" alt="Fly-In Kit : un mini-jeu de vol pour un café"></a><br>
+<b><a href="https://github.com/amirmushichge/fly-in-kit">Fly-In Kit : un mini-jeu de vol pour un café</a></b><br>
+<sub>🆕 · <a href="https://x.com/AmirMushich">@AmirMushich</a> · ♥ 83 · <a href="https://x.com/AmirMushich/status/2122421769462284615">▶ Vidéo</a></sub><br>
+<sub>Il reconstruit les vraies rues autour d'un café, soit 7,970 bâtiments : volez, ramassez 5 grains et posez-vous sur le toit pour gagner un café gratuit. Fonctionne pour n'importe quel commerce sur la carte.</sub>
+</td>
+<td width="33%" valign="top">
+<a href="https://patch.gg/play/blendi/solar"><img src="assets/gifs/323.gif" width="100%" alt="Solar : un minuscule système solaire à parcourir en vol"></a><br>
+<b><a href="https://patch.gg/play/blendi/solar">Solar : un minuscule système solaire à parcourir en vol</a></b><br>
+<sub>🆕 · <a href="https://x.com/BlendiByl">@BlendiByl</a> · ♥ 38 · <a href="https://x.com/BlendiByl/status/2122673770607591855">▶ Vidéo</a></sub><br>
+<sub>Inspiré d'Outer Wilds : orbites et gravité réelles, vols continus entre les planètes, et chaque monde dessiné en code. Open source.</sub>
 </td>
 </tr>
 </table>
@@ -172,7 +199,7 @@
 <td width="33%" valign="top">
 <a href="https://app.usecrayon.ai/play/76dbd04f-0684-4486-8cc4-eae0585295e8"><img src="assets/gifs/288.gif" width="100%" alt="Goku: Four-Star Road"></a><br>
 <b><a href="https://app.usecrayon.ai/play/76dbd04f-0684-4486-8cc4-eae0585295e8">Goku: Four-Star Road</a></b><br>
-<sub>🆕 · <a href="https://x.com/aniketjart">@aniketjart</a> · ♥ 1.4k · <a href="https://x.com/aniketjart/status/2121793239175119279">▶ Vidéo</a></sub><br>
+<sub><a href="https://x.com/aniketjart">@aniketjart</a> · ♥ 1.4k · <a href="https://x.com/aniketjart/status/2121793239175119279">▶ Vidéo</a></sub><br>
 <sub>Un jeu d'action fan inspiré de l'arc de l'Armée du Ruban Rouge de Dragon Ball, fait avec three.js. En cours de développement ; les deux premières cartes sont jouables.</sub>
 </td>
 <td width="33%" valign="top">
@@ -247,7 +274,7 @@
 <td width="33%" valign="top">
 <a href="https://valsera-game.vercel.app/"><img src="assets/gifs/279.gif" width="100%" alt="Valsera — RPG à défilement horizontal"></a><br>
 <b><a href="https://valsera-game.vercel.app/">Valsera — RPG à défilement horizontal</a></b><br>
-<sub>🆕 · <a href="https://x.com/kevin_t_ngo">@kevin_t_ngo</a> · ♥ 502 · <a href="https://x.com/kevin_t_ngo/status/2121701020598415465">▶ Vidéo</a></sub><br>
+<sub><a href="https://x.com/kevin_t_ngo">@kevin_t_ngo</a> · ♥ 502 · <a href="https://x.com/kevin_t_ngo/status/2121701020598415465">▶ Vidéo</a></sub><br>
 <sub>Un RPG à défilement horizontal jouable dans le navigateur ; tous les visuels sont dessinés en code, sans modèle d'image ni graphismes tout faits.</sub>
 </td>
 <td width="33%" valign="top">
@@ -410,7 +437,7 @@
 <td width="33%" valign="top">
 <a href="https://fable-rover.vercel.app"><img src="assets/gifs/278.gif" width="100%" alt="ER-6 Terrain Explorer — un rover martien autonome"></a><br>
 <b><a href="https://fable-rover.vercel.app">ER-6 Terrain Explorer — un rover martien autonome</a></b><br>
-<sub>🆕 · <a href="https://x.com/DilumSanjaya">@DilumSanjaya</a> · ♥ 790 · <a href="https://x.com/DilumSanjaya/status/2120561077385867663">▶ Vidéo</a></sub><br>
+<sub><a href="https://x.com/DilumSanjaya">@DilumSanjaya</a> · ♥ 790 · <a href="https://x.com/DilumSanjaya/status/2120561077385867663">▶ Vidéo</a></sub><br>
 <sub>Fable 5.2 a conçu une suspension rocker-bogie comme celle des rovers martiens de la NASA, puis l'a simulée sur un terrain extraterrestre.</sub>
 </td>
 <td width="33%" valign="top">
@@ -617,7 +644,7 @@
 <td width="33%" valign="top">
 <a href="https://roverkit.vercel.app"><img src="assets/gifs/277.gif" width="100%" alt="RoverKit — construire et simuler une voiture robot"></a><br>
 <b><a href="https://roverkit.vercel.app">RoverKit — construire et simuler une voiture robot</a></b><br>
-<sub>🆕 · <a href="https://x.com/DilumSanjaya">@DilumSanjaya</a> · ♥ 1.1k · <a href="https://x.com/DilumSanjaya/status/2121286147393651085">▶ Vidéo</a></sub><br>
+<sub><a href="https://x.com/DilumSanjaya">@DilumSanjaya</a> · ♥ 1.1k · <a href="https://x.com/DilumSanjaya/status/2121286147393651085">▶ Vidéo</a></sub><br>
 <sub>Un guide pas à pas pour construire une voiture robot, avec simulateur, arène personnalisable et explication visuelle du code. Compatible Arduino et ESP32.</sub>
 </td>
 <td width="33%" valign="top">
@@ -653,7 +680,7 @@
 <td width="33%" valign="top">
 <a href="https://auden-english-135.netlify.app/"><img src="assets/gifs/281.gif" width="100%" alt="Le cours de poésie perdu d'Auden de 1941, reconstitué"></a><br>
 <b><a href="https://auden-english-135.netlify.app/">Le cours de poésie perdu d'Auden de 1941, reconstitué</a></b><br>
-<sub>🆕 · <a href="https://x.com/emollick">@emollick</a> · ♥ 593 · <a href="https://x.com/emollick/status/2121641417483169934">Publication</a></sub><br>
+<sub><a href="https://x.com/emollick">@emollick</a> · ♥ 593 · <a href="https://x.com/emollick/status/2121641417483169934">Publication</a></sub><br>
 <sub>Fable 5.2 a reconstitué le cours de W. H. Auden, « le plus difficile des humanités », à partir d'un livre obscur de l'Internet Archive et de notes éparses.</sub>
 </td>
 </tr>
@@ -810,7 +837,7 @@
 <td width="33%" valign="top">
 <a href="https://github.com/0xCodez/thousand-peaks"><img src="assets/gifs/282.gif" width="100%" alt="Dragon of a Thousand Peaks — le dragon aux mille sommets"></a><br>
 <b><a href="https://github.com/0xCodez/thousand-peaks">Dragon of a Thousand Peaks — le dragon aux mille sommets</a></b><br>
-<sub>🆕 · <a href="https://x.com/0xMovez">@0xMovez</a> · ♥ 132 · <a href="https://x.com/0xMovez/status/2121721290687983906">▶ Vidéo</a></sub><br>
+<sub><a href="https://x.com/0xMovez">@0xMovez</a> · ♥ 132 · <a href="https://x.com/0xMovez/status/2121721290687983906">▶ Vidéo</a></sub><br>
 <sub>Un film de combat de 90 secondes en three.js pur, sans assets ni modèle vidéo ; Fable 5.2 a dirigé 8 agents en parallèle, et musique et bruitages sont synthétisés en code.</sub>
 </td>
 </tr>
@@ -898,7 +925,7 @@ Les créateurs ont publié une vidéo mais pas de lien. Cliquez sur l'aperçu po
 <td width="33%" valign="top">
 <a href="https://x.com/JungleSilicon/status/2121782359901212987"><img src="assets/gifs/291.gif" width="100%" alt="Gaussian splats en pixel art"></a><br>
 <b><a href="https://x.com/JungleSilicon/status/2121782359901212987">Gaussian splats en pixel art</a></b><br>
-<sub>🆕 · <a href="https://x.com/JungleSilicon">@JungleSilicon</a> · ♥ 4.7k · <a href="https://x.com/JungleSilicon/status/2121782359901212987">▶ Vidéo</a></sub><br>
+<sub><a href="https://x.com/JungleSilicon">@JungleSilicon</a> · ♥ 4.7k · <a href="https://x.com/JungleSilicon/status/2121782359901212987">▶ Vidéo</a></sub><br>
 
 </td>
 </tr>

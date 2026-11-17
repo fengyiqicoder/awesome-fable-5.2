@@ -7,7 +7,7 @@
 [![Awesome](https://awesome.re/badge.svg)](https://awesome.re)
 [![Works](https://img.shields.io/badge/可打开作品-185-6b4eff)](#-游戏)
 [![Demos](https://img.shields.io/badge/视频演示-135-ff7a59)](#-只有视频)
-[![Links checked](https://img.shields.io/badge/链接实测-2026--11--17-2ea44f)](#-投稿)
+[![Links checked](https://img.shields.io/badge/链接实测-2026--11--18-2ea44f)](#-投稿)
 [![License: CC0-1.0](https://img.shields.io/badge/License-CC0_1.0-lightgrey.svg)](LICENSE)
 
 [English](README.md) · **简体中文** · [繁體中文](README.zh-TW.md) · [日本語](README.ja.md) · [한국어](README.ko.md) · [Español](README.es.md) · [Português](README.pt-BR.md) · [Français](README.fr.md) · [Deutsch](README.de.md) · [Русский](README.ru.md)
@@ -16,11 +16,11 @@
 
 </div>
 
-185 个能直接打开的作品 + 135 个视频演示，都是用 Claude Fable 5.2 做的，链接 2026-11-17 实测过。每天更新，觉得有用就点个 ⭐。
+185 个能直接打开的作品 + 135 个视频演示，都是用 Claude Fable 5.2 做的，链接 2026-11-18 实测过。每天更新，觉得有用就点个 ⭐。
 
 ## 📑 目录
 
-[⭐ 最受欢迎](#-最受欢迎) · [🎮 游戏](#-游戏) 89 · [🌍 3D 世界与场景](#-3d-世界与场景) 42 · [🧰 网页与工具](#-网页与工具) 40 · [🎬 动画与短片（附源码）](#-动画与短片附源码) 14 · [📺 只有视频](#-只有视频) 135 · [🤝 投稿](#-投稿)
+[⭐ 最受欢迎](#-最受欢迎) · [🆕 最新](#-最新) · [🎮 游戏](#-游戏) 89 · [🌍 3D 世界与场景](#-3d-世界与场景) 42 · [🧰 网页与工具](#-网页与工具) 40 · [🎬 动画与短片（附源码）](#-动画与短片附源码) 14 · [📺 只有视频](#-只有视频) 135 · [🤝 投稿](#-投稿)
 
 ## ⭐ 最受欢迎
 
@@ -69,6 +69,33 @@
 <sub><a href="https://x.com/anabology">@anabology</a> · ♥ 5.4k · <a href="https://x.com/anabology/status/2120010995309457643">▶ 视频</a></sub><br>
 <sub>让它做「梦想中的视频」，9 小时两轮</sub><br>
 <sub><a href="https://fablelist.000ooo.ooo/zh/prompts/?w=claudia-gallery&ref=gh"><b>✨ 获取提示词</b></a></sub>
+</td>
+</tr>
+</table>
+
+## 🆕 最新
+
+过去 24 小时内新发出来的作品，按点赞排序。
+
+<table>
+<tr>
+<td width="33%" valign="top">
+<a href="https://stormy.ai/hands"><img src="assets/gifs/316.gif" width="100%" alt="Hands 机器人手讲解页"></a><br>
+<b><a href="https://stormy.ai/hands">Hands 机器人手讲解页</a></b><br>
+<sub>🆕 · <a href="https://x.com/Karmedge">@Karmedge</a> · ♥ 130 · <a href="https://x.com/Karmedge/status/2122394153497842080">▶ 视频</a></sub><br>
+<sub>讲人形机器人的手怎么工作、为什么难做、成本多少的互动讲解页，花了 10 亿多 token</sub>
+</td>
+<td width="33%" valign="top">
+<a href="https://github.com/amirmushichge/fly-in-kit"><img src="assets/gifs/320.gif" width="100%" alt="Fly-In Kit 给咖啡店做的飞行小游戏"></a><br>
+<b><a href="https://github.com/amirmushichge/fly-in-kit">Fly-In Kit 给咖啡店做的飞行小游戏</a></b><br>
+<sub>🆕 · <a href="https://x.com/AmirMushich">@AmirMushich</a> · ♥ 83 · <a href="https://x.com/AmirMushich/status/2122421769462284615">▶ 视频</a></sub><br>
+<sub>按真实街道重建咖啡店周边 7,970 栋楼，飞行收集 5 颗咖啡豆、降落屋顶换一杯免费咖啡；可换成地图上任何店铺</sub>
+</td>
+<td width="33%" valign="top">
+<a href="https://patch.gg/play/blendi/solar"><img src="assets/gifs/323.gif" width="100%" alt="Solar 可以飞来飞去的迷你太阳系"></a><br>
+<b><a href="https://patch.gg/play/blendi/solar">Solar 可以飞来飞去的迷你太阳系</a></b><br>
+<sub>🆕 · <a href="https://x.com/BlendiByl">@BlendiByl</a> · ♥ 38 · <a href="https://x.com/BlendiByl/status/2122673770607591855">▶ 视频</a></sub><br>
+<sub>受《星际拓荒》启发：真实轨道和引力，行星之间一路连续飞行，星球全由代码画出；开源</sub>
 </td>
 </tr>
 </table>
@@ -172,7 +199,7 @@
 <td width="33%" valign="top">
 <a href="https://app.usecrayon.ai/play/76dbd04f-0684-4486-8cc4-eae0585295e8"><img src="assets/gifs/288.gif" width="100%" alt="Goku: Four-Star Road 悟空：四星之路"></a><br>
 <b><a href="https://app.usecrayon.ai/play/76dbd04f-0684-4486-8cc4-eae0585295e8">Goku: Four-Star Road 悟空：四星之路</a></b><br>
-<sub>🆕 · <a href="https://x.com/aniketjart">@aniketjart</a> · ♥ 1.4k · <a href="https://x.com/aniketjart/status/2121793239175119279">▶ 视频</a></sub><br>
+<sub><a href="https://x.com/aniketjart">@aniketjart</a> · ♥ 1.4k · <a href="https://x.com/aniketjart/status/2121793239175119279">▶ 视频</a></sub><br>
 <sub>照着龙珠红缎带军篇做的同人动作游戏，three.js 写的，目前能玩前两张地图</sub>
 </td>
 <td width="33%" valign="top">
@@ -247,7 +274,7 @@
 <td width="33%" valign="top">
 <a href="https://valsera-game.vercel.app/"><img src="assets/gifs/279.gif" width="100%" alt="Valsera 横版 RPG"></a><br>
 <b><a href="https://valsera-game.vercel.app/">Valsera 横版 RPG</a></b><br>
-<sub>🆕 · <a href="https://x.com/kevin_t_ngo">@kevin_t_ngo</a> · ♥ 502 · <a href="https://x.com/kevin_t_ngo/status/2121701020598415465">▶ 视频</a></sub><br>
+<sub><a href="https://x.com/kevin_t_ngo">@kevin_t_ngo</a> · ♥ 502 · <a href="https://x.com/kevin_t_ngo/status/2121701020598415465">▶ 视频</a></sub><br>
 <sub>浏览器里能玩的横版 RPG，画面全是代码画的，没用图像模型和现成素材</sub>
 </td>
 <td width="33%" valign="top">
@@ -410,7 +437,7 @@
 <td width="33%" valign="top">
 <a href="https://fable-rover.vercel.app"><img src="assets/gifs/278.gif" width="100%" alt="ER-6 火星车地形探索"></a><br>
 <b><a href="https://fable-rover.vercel.app">ER-6 火星车地形探索</a></b><br>
-<sub>🆕 · <a href="https://x.com/DilumSanjaya">@DilumSanjaya</a> · ♥ 790 · <a href="https://x.com/DilumSanjaya/status/2120561077385867663">▶ 视频</a></sub><br>
+<sub><a href="https://x.com/DilumSanjaya">@DilumSanjaya</a> · ♥ 790 · <a href="https://x.com/DilumSanjaya/status/2120561077385867663">▶ 视频</a></sub><br>
 <sub>让它设计 NASA 火星车那种摇臂-转向架悬挂，再模拟它在外星地形上自动行驶</sub>
 </td>
 <td width="33%" valign="top">
@@ -617,7 +644,7 @@
 <td width="33%" valign="top">
 <a href="https://roverkit.vercel.app"><img src="assets/gifs/277.gif" width="100%" alt="RoverKit 机器人小车教学"></a><br>
 <b><a href="https://roverkit.vercel.app">RoverKit 机器人小车教学</a></b><br>
-<sub>🆕 · <a href="https://x.com/DilumSanjaya">@DilumSanjaya</a> · ♥ 1.1k · <a href="https://x.com/DilumSanjaya/status/2121286147393651085">▶ 视频</a></sub><br>
+<sub><a href="https://x.com/DilumSanjaya">@DilumSanjaya</a> · ♥ 1.1k · <a href="https://x.com/DilumSanjaya/status/2121286147393651085">▶ 视频</a></sub><br>
 <sub>一步步教你造机器人小车：带模拟器、可自定义场地和图解代码，支持 Arduino 和 ESP32</sub>
 </td>
 <td width="33%" valign="top">
@@ -653,7 +680,7 @@
 <td width="33%" valign="top">
 <a href="https://auden-english-135.netlify.app/"><img src="assets/gifs/281.gif" width="100%" alt="Auden 1941 年失传诗歌课复原"></a><br>
 <b><a href="https://auden-english-135.netlify.app/">Auden 1941 年失传诗歌课复原</a></b><br>
-<sub>🆕 · <a href="https://x.com/emollick">@emollick</a> · ♥ 593 · <a href="https://x.com/emollick/status/2121641417483169934">原帖</a></sub><br>
+<sub><a href="https://x.com/emollick">@emollick</a> · ♥ 593 · <a href="https://x.com/emollick/status/2121641417483169934">原帖</a></sub><br>
 <sub>让它复原诗人奥登 1941 年那门「人文学科最难」的课：从互联网档案馆的旧书和零散笔记里拼出可读的课程</sub>
 </td>
 </tr>
@@ -810,7 +837,7 @@
 <td width="33%" valign="top">
 <a href="https://github.com/0xCodez/thousand-peaks"><img src="assets/gifs/282.gif" width="100%" alt="Dragon of a Thousand Peaks 千峰之龙"></a><br>
 <b><a href="https://github.com/0xCodez/thousand-peaks">Dragon of a Thousand Peaks 千峰之龙</a></b><br>
-<sub>🆕 · <a href="https://x.com/0xMovez">@0xMovez</a> · ♥ 132 · <a href="https://x.com/0xMovez/status/2121721290687983906">▶ 视频</a></sub><br>
+<sub><a href="https://x.com/0xMovez">@0xMovez</a> · ♥ 132 · <a href="https://x.com/0xMovez/status/2121721290687983906">▶ 视频</a></sub><br>
 <sub>90 秒纯 three.js 打斗短片，无素材无视频模型；Fable 当导演带 8 个并行 Agent，音乐音效也是代码合成</sub>
 </td>
 </tr>
@@ -898,7 +925,7 @@
 <td width="33%" valign="top">
 <a href="https://x.com/JungleSilicon/status/2121782359901212987"><img src="assets/gifs/291.gif" width="100%" alt="像素风的高斯泼溅场景，用 Fable 5.2 做的"></a><br>
 <b><a href="https://x.com/JungleSilicon/status/2121782359901212987">像素风的高斯泼溅场景，用 Fable 5.2 做的</a></b><br>
-<sub>🆕 · <a href="https://x.com/JungleSilicon">@JungleSilicon</a> · ♥ 4.7k · <a href="https://x.com/JungleSilicon/status/2121782359901212987">▶ 视频</a></sub><br>
+<sub><a href="https://x.com/JungleSilicon">@JungleSilicon</a> · ♥ 4.7k · <a href="https://x.com/JungleSilicon/status/2121782359901212987">▶ 视频</a></sub><br>
 
 </td>
 </tr>

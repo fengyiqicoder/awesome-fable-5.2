@@ -55,7 +55,7 @@ The main page shows at most the top 36 posts with 100+ likes; this page has ever
 <td width="33%" valign="top">
 <a href="https://fable-rover.vercel.app"><img src="../assets/gifs/278.gif" width="100%" alt="ER-6 Terrain Explorer — a self-driving Mars rover"></a><br>
 <b><a href="https://fable-rover.vercel.app">ER-6 Terrain Explorer — a self-driving Mars rover</a></b><br>
-<sub>🆕 · <a href="https://x.com/DilumSanjaya">@DilumSanjaya</a> · ♥ 790 · <a href="https://x.com/DilumSanjaya/status/2120561077385867663">▶ Video</a></sub><br>
+<sub><a href="https://x.com/DilumSanjaya">@DilumSanjaya</a> · ♥ 790 · <a href="https://x.com/DilumSanjaya/status/2120561077385867663">▶ Video</a></sub><br>
 <sub>Fable 5.2 designed a rocker-bogie suspension like NASA's Mars rovers, then simulated it driving over alien terrain.</sub>
 </td>
 <td width="33%" valign="top">
@@ -227,7 +227,7 @@ The main page shows at most the top 36 posts with 100+ likes; this page has ever
 <td width="33%" valign="top">
 <a href="https://vancouver-claude.webly.site"><img src="../assets/gifs/280.gif" width="100%" alt="Vancouver, golden hour over English Bay"></a><br>
 <b><a href="https://vancouver-claude.webly.site">Vancouver, golden hour over English Bay</a></b><br>
-<sub>🆕 · <a href="https://x.com/tokifyi">@tokifyi</a> · ♥ 30 · <a href="https://x.com/tokifyi/status/2121644293270200354">Post</a></sub><br>
+<sub><a href="https://x.com/tokifyi">@tokifyi</a> · ♥ 30 · <a href="https://x.com/tokifyi/status/2121644293270200354">Post</a></sub><br>
 <sub>A panorama of Vancouver at sunset drawn entirely in JavaScript.</sub>
 </td>
 </tr>
@@ -294,7 +294,7 @@ The main page shows at most the top 36 posts with 100+ likes; this page has ever
 <td width="33%" valign="top">
 <a href="https://davinci-mechanics.vercel.app/"><img src="../assets/gifs/289.gif" width="100%" alt="Da Vinci's Living Codex"></a><br>
 <b><a href="https://davinci-mechanics.vercel.app/">Da Vinci's Living Codex</a></b><br>
-<sub>🆕 · <a href="https://x.com/CoderRw11326">@CoderRw11326</a> · ♥ 6 · <a href="https://x.com/CoderRw11326/status/2121286814103421012">▶ Video</a></sub><br>
+<sub><a href="https://x.com/CoderRw11326">@CoderRw11326</a> · ♥ 6 · <a href="https://x.com/CoderRw11326/status/2121286814103421012">▶ Video</a></sub><br>
 <sub>Open the notebook and a quill sketches Leonardo's machines, which turn into wooden mechanisms you can crank and take apart. No 3D models, textures or audio files; everything is code.</sub><br>
 <sub><a href="https://github.com/coding-nanami/davinci-mechanics">Source</a></sub>
 </td>

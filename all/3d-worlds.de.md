@@ -55,7 +55,7 @@ Die Hauptseite zeigt pro Bereich höchstens die 36 Einträge mit den meisten Lik
 <td width="33%" valign="top">
 <a href="https://fable-rover.vercel.app"><img src="../assets/gifs/278.gif" width="100%" alt="ER-6 Terrain Explorer — ein selbstfahrender Mars-Rover"></a><br>
 <b><a href="https://fable-rover.vercel.app">ER-6 Terrain Explorer — ein selbstfahrender Mars-Rover</a></b><br>
-<sub>🆕 · <a href="https://x.com/DilumSanjaya">@DilumSanjaya</a> · ♥ 790 · <a href="https://x.com/DilumSanjaya/status/2120561077385867663">▶ Video</a></sub><br>
+<sub><a href="https://x.com/DilumSanjaya">@DilumSanjaya</a> · ♥ 790 · <a href="https://x.com/DilumSanjaya/status/2120561077385867663">▶ Video</a></sub><br>
 <sub>Fable 5.2 entwarf eine Rocker-Bogie-Aufhängung wie bei den Mars-Rovern der NASA und simulierte die Fahrt über außerirdisches Gelände.</sub>
 </td>
 <td width="33%" valign="top">
@@ -227,7 +227,7 @@ Die Hauptseite zeigt pro Bereich höchstens die 36 Einträge mit den meisten Lik
 <td width="33%" valign="top">
 <a href="https://vancouver-claude.webly.site"><img src="../assets/gifs/280.gif" width="100%" alt="Vancouver, goldene Stunde über der English Bay"></a><br>
 <b><a href="https://vancouver-claude.webly.site">Vancouver, goldene Stunde über der English Bay</a></b><br>
-<sub>🆕 · <a href="https://x.com/tokifyi">@tokifyi</a> · ♥ 30 · <a href="https://x.com/tokifyi/status/2121644293270200354">Post</a></sub><br>
+<sub><a href="https://x.com/tokifyi">@tokifyi</a> · ♥ 30 · <a href="https://x.com/tokifyi/status/2121644293270200354">Post</a></sub><br>
 <sub>Ein Panorama von Vancouver bei Sonnenuntergang, komplett in JavaScript gezeichnet.</sub>
 </td>
 </tr>
@@ -294,7 +294,7 @@ Die Hauptseite zeigt pro Bereich höchstens die 36 Einträge mit den meisten Lik
 <td width="33%" valign="top">
 <a href="https://davinci-mechanics.vercel.app/"><img src="../assets/gifs/289.gif" width="100%" alt="Da Vincis lebendiger Kodex"></a><br>
 <b><a href="https://davinci-mechanics.vercel.app/">Da Vincis lebendiger Kodex</a></b><br>
-<sub>🆕 · <a href="https://x.com/CoderRw11326">@CoderRw11326</a> · ♥ 6 · <a href="https://x.com/CoderRw11326/status/2121286814103421012">▶ Video</a></sub><br>
+<sub><a href="https://x.com/CoderRw11326">@CoderRw11326</a> · ♥ 6 · <a href="https://x.com/CoderRw11326/status/2121286814103421012">▶ Video</a></sub><br>
 <sub>Schlag das Notizbuch auf: Eine Feder skizziert Leonardos Maschinen, die zu Holzmechanismen werden, die man drehen und zerlegen kann. Keine 3D-Modelle, Texturen oder Audiodateien – alles Code.</sub><br>
 <sub><a href="https://github.com/coding-nanami/davinci-mechanics">Quellcode</a></sub>
 </td>

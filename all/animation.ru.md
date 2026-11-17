@@ -67,7 +67,7 @@
 <td width="33%" valign="top">
 <a href="https://github.com/0xCodez/thousand-peaks"><img src="../assets/gifs/282.gif" width="100%" alt="Dragon of a Thousand Peaks — дракон тысячи вершин"></a><br>
 <b><a href="https://github.com/0xCodez/thousand-peaks">Dragon of a Thousand Peaks — дракон тысячи вершин</a></b><br>
-<sub>🆕 · <a href="https://x.com/0xMovez">@0xMovez</a> · ♥ 132 · <a href="https://x.com/0xMovez/status/2121721290687983906">▶ Видео</a></sub><br>
+<sub><a href="https://x.com/0xMovez">@0xMovez</a> · ♥ 132 · <a href="https://x.com/0xMovez/status/2121721290687983906">▶ Видео</a></sub><br>
 <sub>90-секундный боевой фильм на чистом three.js без ассетов и видеомоделей; Fable 5.2 руководил 8 параллельными агентами, музыка и звуки синтезированы кодом.</sub>
 </td>
 </tr>

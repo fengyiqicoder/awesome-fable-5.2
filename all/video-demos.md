@@ -71,7 +71,7 @@ Creators posted a video but no public link. Click a preview to watch the origina
 <td width="33%" valign="top">
 <a href="https://x.com/JungleSilicon/status/2121782359901212987"><img src="../assets/gifs/291.gif" width="100%" alt="Pixel-art Gaussian splats"></a><br>
 <b><a href="https://x.com/JungleSilicon/status/2121782359901212987">Pixel-art Gaussian splats</a></b><br>
-<sub>🆕 · <a href="https://x.com/JungleSilicon">@JungleSilicon</a> · ♥ 4.7k · <a href="https://x.com/JungleSilicon/status/2121782359901212987">▶ Video</a></sub><br>
+<sub><a href="https://x.com/JungleSilicon">@JungleSilicon</a> · ♥ 4.7k · <a href="https://x.com/JungleSilicon/status/2121782359901212987">▶ Video</a></sub><br>
 
 </td>
 </tr>
@@ -323,7 +323,7 @@ Creators posted a video but no public link. Click a preview to watch the origina
 <td width="33%" valign="top">
 <a href="https://x.com/MengTo/status/2121896633848017145"><img src="../assets/gifs/294.gif" width="100%" alt="A Dark Souls-inspired browser game"></a><br>
 <b><a href="https://x.com/MengTo/status/2121896633848017145">A Dark Souls-inspired browser game</a></b><br>
-<sub>🆕 · <a href="https://x.com/MengTo">@MengTo</a> · ♥ 979 · <a href="https://x.com/MengTo/status/2121896633848017145">▶ Video</a></sub><br>
+<sub><a href="https://x.com/MengTo">@MengTo</a> · ♥ 979 · <a href="https://x.com/MengTo/status/2121896633848017145">▶ Video</a></sub><br>
 
 </td>
 <td width="33%" valign="top">
@@ -465,7 +465,7 @@ Creators posted a video but no public link. Click a preview to watch the origina
 <td width="33%" valign="top">
 <a href="https://x.com/AstrablueAI/status/2121635642836918385"><img src="../assets/gifs/292.gif" width="100%" alt="FABLE-OUS, a one-shot music video"></a><br>
 <b><a href="https://x.com/AstrablueAI/status/2121635642836918385">FABLE-OUS, a one-shot music video</a></b><br>
-<sub>🆕 · <a href="https://x.com/AstrablueAI">@AstrablueAI</a> · ♥ 669 · <a href="https://x.com/AstrablueAI/status/2121635642836918385">▶ Video</a></sub><br>
+<sub><a href="https://x.com/AstrablueAI">@AstrablueAI</a> · ♥ 669 · <a href="https://x.com/AstrablueAI/status/2121635642836918385">▶ Video</a></sub><br>
 
 </td>
 <td width="33%" valign="top">
@@ -577,13 +577,13 @@ Creators posted a video but no public link. Click a preview to watch the origina
 <td width="33%" valign="top">
 <a href="https://x.com/MartinOesterhel/status/2120464036030517525"><img src="../assets/gifs/283.gif" width="100%" alt="A trailer for the soil texture triangle"></a><br>
 <b><a href="https://x.com/MartinOesterhel/status/2120464036030517525">A trailer for the soil texture triangle</a></b><br>
-<sub>🆕 · <a href="https://x.com/MartinOesterhel">@MartinOesterhel</a> · ♥ 488 · <a href="https://x.com/MartinOesterhel/status/2120464036030517525">▶ Video</a></sub><br>
+<sub><a href="https://x.com/MartinOesterhel">@MartinOesterhel</a> · ♥ 488 · <a href="https://x.com/MartinOesterhel/status/2120464036030517525">▶ Video</a></sub><br>
 
 </td>
 <td width="33%" valign="top">
 <a href="https://x.com/seiiiiiiiiiiru/status/2121724395354018201"><img src="../assets/gifs/296.gif" width="100%" alt="Claude x Blender motion capture"></a><br>
 <b><a href="https://x.com/seiiiiiiiiiiru/status/2121724395354018201">Claude x Blender motion capture</a></b><br>
-<sub>🆕 · <a href="https://x.com/seiiiiiiiiiiru">@seiiiiiiiiiiru</a> · ♥ 479 · <a href="https://x.com/seiiiiiiiiiiru/status/2121724395354018201">▶ Video</a></sub><br>
+<sub><a href="https://x.com/seiiiiiiiiiiru">@seiiiiiiiiiiru</a> · ♥ 479 · <a href="https://x.com/seiiiiiiiiiiru/status/2121724395354018201">▶ Video</a></sub><br>
 
 </td>
 </tr>
@@ -605,7 +605,7 @@ Creators posted a video but no public link. Click a preview to watch the origina
 <td width="33%" valign="top">
 <a href="https://x.com/gavinpurcell/status/2121407421465985382"><img src="../assets/gifs/286.gif" width="100%" alt="Larynx spaghetti western, final chapter"></a><br>
 <b><a href="https://x.com/gavinpurcell/status/2121407421465985382">Larynx spaghetti western, final chapter</a></b><br>
-<sub>🆕 · <a href="https://x.com/gavinpurcell">@gavinpurcell</a> · ♥ 472 · <a href="https://x.com/gavinpurcell/status/2121407421465985382">▶ Video</a></sub><br>
+<sub><a href="https://x.com/gavinpurcell">@gavinpurcell</a> · ♥ 472 · <a href="https://x.com/gavinpurcell/status/2121407421465985382">▶ Video</a></sub><br>
 
 </td>
 </tr>
@@ -620,7 +620,7 @@ Creators posted a video but no public link. Click a preview to watch the origina
 <td width="33%" valign="top">
 <a href="https://x.com/amrnth0/status/2120849097871810973"><img src="../assets/gifs/284.gif" width="100%" alt="The Railway hack, explained in animation"></a><br>
 <b><a href="https://x.com/amrnth0/status/2120849097871810973">The Railway hack, explained in animation</a></b><br>
-<sub>🆕 · <a href="https://x.com/amrnth0">@amrnth0</a> · ♥ 457 · <a href="https://x.com/amrnth0/status/2120849097871810973">▶ Video</a></sub><br>
+<sub><a href="https://x.com/amrnth0">@amrnth0</a> · ♥ 457 · <a href="https://x.com/amrnth0/status/2120849097871810973">▶ Video</a></sub><br>
 
 </td>
 <td width="33%" valign="top">
@@ -634,7 +634,7 @@ Creators posted a video but no public link. Click a preview to watch the origina
 <td width="33%" valign="top">
 <a href="https://x.com/jeanalexandre_b/status/2120783430606840084"><img src="../assets/gifs/287.gif" width="100%" alt="A photo repainted with 100,000 color dabs, code only"></a><br>
 <b><a href="https://x.com/jeanalexandre_b/status/2120783430606840084">A photo repainted with 100,000 color dabs, code only</a></b><br>
-<sub>🆕 · <a href="https://x.com/jeanalexandre_b">@jeanalexandre_b</a> · ♥ 443 · <a href="https://x.com/jeanalexandre_b/status/2120783430606840084">▶ Video</a></sub><br>
+<sub><a href="https://x.com/jeanalexandre_b">@jeanalexandre_b</a> · ♥ 443 · <a href="https://x.com/jeanalexandre_b/status/2120783430606840084">▶ Video</a></sub><br>
 
 </td>
 <td width="33%" valign="top">
@@ -655,7 +655,7 @@ Creators posted a video but no public link. Click a preview to watch the origina
 <td width="33%" valign="top">
 <a href="https://x.com/gavinpurcell/status/2120581152054583369"><img src="../assets/gifs/285.gif" width="100%" alt="Larynx spaghetti western, chapter two"></a><br>
 <b><a href="https://x.com/gavinpurcell/status/2120581152054583369">Larynx spaghetti western, chapter two</a></b><br>
-<sub>🆕 · <a href="https://x.com/gavinpurcell">@gavinpurcell</a> · ♥ 427 · <a href="https://x.com/gavinpurcell/status/2120581152054583369">▶ Video</a></sub><br>
+<sub><a href="https://x.com/gavinpurcell">@gavinpurcell</a> · ♥ 427 · <a href="https://x.com/gavinpurcell/status/2120581152054583369">▶ Video</a></sub><br>
 
 </td>
 <td width="33%" valign="top">
@@ -744,7 +744,7 @@ Creators posted a video but no public link. Click a preview to watch the origina
 <td width="33%" valign="top">
 <a href="https://x.com/elvar_official/status/2121579587222016201"><img src="../assets/gifs/295.gif" width="100%" alt="43 years of gamepads in one shot"></a><br>
 <b><a href="https://x.com/elvar_official/status/2121579587222016201">43 years of gamepads in one shot</a></b><br>
-<sub>🆕 · <a href="https://x.com/elvar_official">@elvar_official</a> · ♥ 280 · <a href="https://x.com/elvar_official/status/2121579587222016201">▶ Video</a></sub><br>
+<sub><a href="https://x.com/elvar_official">@elvar_official</a> · ♥ 280 · <a href="https://x.com/elvar_official/status/2121579587222016201">▶ Video</a></sub><br>
 
 </td>
 <td width="33%" valign="top">

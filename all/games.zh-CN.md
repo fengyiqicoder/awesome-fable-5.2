@@ -101,7 +101,7 @@
 <td width="33%" valign="top">
 <a href="https://app.usecrayon.ai/play/76dbd04f-0684-4486-8cc4-eae0585295e8"><img src="../assets/gifs/288.gif" width="100%" alt="Goku: Four-Star Road 悟空：四星之路"></a><br>
 <b><a href="https://app.usecrayon.ai/play/76dbd04f-0684-4486-8cc4-eae0585295e8">Goku: Four-Star Road 悟空：四星之路</a></b><br>
-<sub>🆕 · <a href="https://x.com/aniketjart">@aniketjart</a> · ♥ 1.4k · <a href="https://x.com/aniketjart/status/2121793239175119279">▶ 视频</a></sub><br>
+<sub><a href="https://x.com/aniketjart">@aniketjart</a> · ♥ 1.4k · <a href="https://x.com/aniketjart/status/2121793239175119279">▶ 视频</a></sub><br>
 <sub>照着龙珠红缎带军篇做的同人动作游戏，three.js 写的，目前能玩前两张地图</sub>
 </td>
 <td width="33%" valign="top">
@@ -176,7 +176,7 @@
 <td width="33%" valign="top">
 <a href="https://valsera-game.vercel.app/"><img src="../assets/gifs/279.gif" width="100%" alt="Valsera 横版 RPG"></a><br>
 <b><a href="https://valsera-game.vercel.app/">Valsera 横版 RPG</a></b><br>
-<sub>🆕 · <a href="https://x.com/kevin_t_ngo">@kevin_t_ngo</a> · ♥ 502 · <a href="https://x.com/kevin_t_ngo/status/2121701020598415465">▶ 视频</a></sub><br>
+<sub><a href="https://x.com/kevin_t_ngo">@kevin_t_ngo</a> · ♥ 502 · <a href="https://x.com/kevin_t_ngo/status/2121701020598415465">▶ 视频</a></sub><br>
 <sub>浏览器里能玩的横版 RPG，画面全是代码画的，没用图像模型和现成素材</sub>
 </td>
 <td width="33%" valign="top">
@@ -519,7 +519,7 @@
 <td width="33%" valign="top">
 <a href="https://mikenevermiss.github.io/midnight-grid/"><img src="../assets/gifs/293.gif" width="100%" alt="Midnight Grid 午夜城市飙车"></a><br>
 <b><a href="https://mikenevermiss.github.io/midnight-grid/">Midnight Grid 午夜城市飙车</a></b><br>
-<sub>🆕 · <a href="https://x.com/mikenevermiss">@mikenevermiss</a> · ♥ 28 · <a href="https://x.com/mikenevermiss/status/2121900977959612500">▶ 视频</a></sub><br>
+<sub><a href="https://x.com/mikenevermiss">@mikenevermiss</a> · ♥ 28 · <a href="https://x.com/mikenevermiss/status/2121900977959612500">▶ 视频</a></sub><br>
 <sub>一句提示词做出的开放世界驾驶游戏：在城市里飙车、撞车、被警察追，车辆、建筑、贴图和音效全是代码生成</sub>
 </td>
 <td width="33%" valign="top">

@@ -55,7 +55,7 @@
 <td width="33%" valign="top">
 <a href="https://fable-rover.vercel.app"><img src="../assets/gifs/278.gif" width="100%" alt="ER-6 火星车地形探索"></a><br>
 <b><a href="https://fable-rover.vercel.app">ER-6 火星车地形探索</a></b><br>
-<sub>🆕 · <a href="https://x.com/DilumSanjaya">@DilumSanjaya</a> · ♥ 790 · <a href="https://x.com/DilumSanjaya/status/2120561077385867663">▶ 视频</a></sub><br>
+<sub><a href="https://x.com/DilumSanjaya">@DilumSanjaya</a> · ♥ 790 · <a href="https://x.com/DilumSanjaya/status/2120561077385867663">▶ 视频</a></sub><br>
 <sub>让它设计 NASA 火星车那种摇臂-转向架悬挂，再模拟它在外星地形上自动行驶</sub>
 </td>
 <td width="33%" valign="top">
@@ -227,7 +227,7 @@
 <td width="33%" valign="top">
 <a href="https://vancouver-claude.webly.site"><img src="../assets/gifs/280.gif" width="100%" alt="温哥华英吉利湾黄金时刻"></a><br>
 <b><a href="https://vancouver-claude.webly.site">温哥华英吉利湾黄金时刻</a></b><br>
-<sub>🆕 · <a href="https://x.com/tokifyi">@tokifyi</a> · ♥ 30 · <a href="https://x.com/tokifyi/status/2121644293270200354">原帖</a></sub><br>
+<sub><a href="https://x.com/tokifyi">@tokifyi</a> · ♥ 30 · <a href="https://x.com/tokifyi/status/2121644293270200354">原帖</a></sub><br>
 <sub>纯 JavaScript 画出的温哥华英吉利湾黄昏全景</sub>
 </td>
 </tr>
@@ -294,7 +294,7 @@
 <td width="33%" valign="top">
 <a href="https://davinci-mechanics.vercel.app/"><img src="../assets/gifs/289.gif" width="100%" alt="Da Vinci's Living Codex 达·芬奇活手稿"></a><br>
 <b><a href="https://davinci-mechanics.vercel.app/">Da Vinci's Living Codex 达·芬奇活手稿</a></b><br>
-<sub>🆕 · <a href="https://x.com/CoderRw11326">@CoderRw11326</a> · ♥ 6 · <a href="https://x.com/CoderRw11326/status/2121286814103421012">▶ 视频</a></sub><br>
+<sub><a href="https://x.com/CoderRw11326">@CoderRw11326</a> · ♥ 6 · <a href="https://x.com/CoderRw11326/status/2121286814103421012">▶ 视频</a></sub><br>
 <sub>翻开笔记本，羽毛笔画出达·芬奇的机械草图再变成能转动拆解的木制机械；没有模型、贴图和音频文件，全靠代码</sub><br>
 <sub><a href="https://github.com/coding-nanami/davinci-mechanics">源码</a></sub>
 </td>

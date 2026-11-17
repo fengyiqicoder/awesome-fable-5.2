@@ -81,7 +81,7 @@ La page principale affiche au plus les 36 entrées les plus aimées de chaque se
 <td width="33%" valign="top">
 <a href="https://roverkit.vercel.app"><img src="../assets/gifs/277.gif" width="100%" alt="RoverKit — construire et simuler une voiture robot"></a><br>
 <b><a href="https://roverkit.vercel.app">RoverKit — construire et simuler une voiture robot</a></b><br>
-<sub>🆕 · <a href="https://x.com/DilumSanjaya">@DilumSanjaya</a> · ♥ 1.1k · <a href="https://x.com/DilumSanjaya/status/2121286147393651085">▶ Vidéo</a></sub><br>
+<sub><a href="https://x.com/DilumSanjaya">@DilumSanjaya</a> · ♥ 1.1k · <a href="https://x.com/DilumSanjaya/status/2121286147393651085">▶ Vidéo</a></sub><br>
 <sub>Un guide pas à pas pour construire une voiture robot, avec simulateur, arène personnalisable et explication visuelle du code. Compatible Arduino et ESP32.</sub>
 </td>
 <td width="33%" valign="top">
@@ -117,7 +117,7 @@ La page principale affiche au plus les 36 entrées les plus aimées de chaque se
 <td width="33%" valign="top">
 <a href="https://auden-english-135.netlify.app/"><img src="../assets/gifs/281.gif" width="100%" alt="Le cours de poésie perdu d'Auden de 1941, reconstitué"></a><br>
 <b><a href="https://auden-english-135.netlify.app/">Le cours de poésie perdu d'Auden de 1941, reconstitué</a></b><br>
-<sub>🆕 · <a href="https://x.com/emollick">@emollick</a> · ♥ 593 · <a href="https://x.com/emollick/status/2121641417483169934">Publication</a></sub><br>
+<sub><a href="https://x.com/emollick">@emollick</a> · ♥ 593 · <a href="https://x.com/emollick/status/2121641417483169934">Publication</a></sub><br>
 <sub>Fable 5.2 a reconstitué le cours de W. H. Auden, « le plus difficile des humanités », à partir d'un livre obscur de l'Internet Archive et de notes éparses.</sub>
 </td>
 </tr>
@@ -261,7 +261,7 @@ La page principale affiche au plus les 36 entrées les plus aimées de chaque se
 <td width="33%" valign="top">
 <a href="https://uberdesigner.ai/t/araneae"><img src="../assets/gifs/290.gif" width="100%" alt="araneae"></a><br>
 <b><a href="https://uberdesigner.ai/t/araneae">araneae</a></b><br>
-<sub>🆕 · <a href="https://x.com/seanaiux">@seanaiux</a> · ♥ 8 · <a href="https://x.com/seanaiux/status/2121688869439455410">▶ Vidéo</a></sub><br>
+<sub><a href="https://x.com/seanaiux">@seanaiux</a> · ♥ 8 · <a href="https://x.com/seanaiux/status/2121688869439455410">▶ Vidéo</a></sub><br>
 <sub>La demande : un site qui lui fasse peur. Une araignée descend de l'obscurité et le défilement la suit dans son repaire, ses yeux, ses crochets et ses pattes, jusqu'à ce que vous soyez la mouche.</sub>
 </td>
 <td width="33%" valign="top">

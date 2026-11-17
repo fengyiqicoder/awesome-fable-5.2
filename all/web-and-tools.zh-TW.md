@@ -81,7 +81,7 @@
 <td width="33%" valign="top">
 <a href="https://roverkit.vercel.app"><img src="../assets/gifs/277.gif" width="100%" alt="RoverKit — 打造並模擬機器人小車"></a><br>
 <b><a href="https://roverkit.vercel.app">RoverKit — 打造並模擬機器人小車</a></b><br>
-<sub>🆕 · <a href="https://x.com/DilumSanjaya">@DilumSanjaya</a> · ♥ 1.1k · <a href="https://x.com/DilumSanjaya/status/2121286147393651085">▶ 影片</a></sub><br>
+<sub><a href="https://x.com/DilumSanjaya">@DilumSanjaya</a> · ♥ 1.1k · <a href="https://x.com/DilumSanjaya/status/2121286147393651085">▶ 影片</a></sub><br>
 <sub>一步步教你做機器人小車，附模擬器、可自訂場地和圖解程式碼。支援 Arduino 和 ESP32。</sub>
 </td>
 <td width="33%" valign="top">
@@ -117,7 +117,7 @@
 <td width="33%" valign="top">
 <a href="https://auden-english-135.netlify.app/"><img src="../assets/gifs/281.gif" width="100%" alt="重建 Auden 失傳的 1941 年詩歌課"></a><br>
 <b><a href="https://auden-english-135.netlify.app/">重建 Auden 失傳的 1941 年詩歌課</a></b><br>
-<sub>🆕 · <a href="https://x.com/emollick">@emollick</a> · ♥ 593 · <a href="https://x.com/emollick/status/2121641417483169934">原文</a></sub><br>
+<sub><a href="https://x.com/emollick">@emollick</a> · ♥ 593 · <a href="https://x.com/emollick/status/2121641417483169934">原文</a></sub><br>
 <sub>Fable 5.2 從網際網路檔案館一本冷門書和零散筆記中，重建了 W. H. Auden 那門「人文學科最難」的課。</sub>
 </td>
 </tr>
@@ -261,7 +261,7 @@
 <td width="33%" valign="top">
 <a href="https://uberdesigner.ai/t/araneae"><img src="../assets/gifs/290.gif" width="100%" alt="araneae 蜘蛛長文"></a><br>
 <b><a href="https://uberdesigner.ai/t/araneae">araneae 蜘蛛長文</a></b><br>
-<sub>🆕 · <a href="https://x.com/seanaiux">@seanaiux</a> · ♥ 8 · <a href="https://x.com/seanaiux/status/2121688869439455410">▶ 影片</a></sub><br>
+<sub><a href="https://x.com/seanaiux">@seanaiux</a> · ♥ 8 · <a href="https://x.com/seanaiux/status/2121688869439455410">▶ 影片</a></sub><br>
 <sub>讓它做一個能嚇到自己的網頁：一隻蜘蛛從黑暗中垂下，捲動頁面一路看牠的巢、眼睛、毒牙和腿，最後你成了那隻蒼蠅。</sub>
 </td>
 <td width="33%" valign="top">

@@ -101,7 +101,7 @@
 <td width="33%" valign="top">
 <a href="https://app.usecrayon.ai/play/76dbd04f-0684-4486-8cc4-eae0585295e8"><img src="../assets/gifs/288.gif" width="100%" alt="Гоку: Путь четырёх звёзд"></a><br>
 <b><a href="https://app.usecrayon.ai/play/76dbd04f-0684-4486-8cc4-eae0585295e8">Гоку: Путь четырёх звёзд</a></b><br>
-<sub>🆕 · <a href="https://x.com/aniketjart">@aniketjart</a> · ♥ 1.4k · <a href="https://x.com/aniketjart/status/2121793239175119279">▶ Видео</a></sub><br>
+<sub><a href="https://x.com/aniketjart">@aniketjart</a> · ♥ 1.4k · <a href="https://x.com/aniketjart/status/2121793239175119279">▶ Видео</a></sub><br>
 <sub>Фанатская экшен-игра по арке армии Красной ленты из Dragon Ball, сделанная на three.js. В разработке; первые две карты уже играбельны.</sub>
 </td>
 <td width="33%" valign="top">
@@ -176,7 +176,7 @@
 <td width="33%" valign="top">
 <a href="https://valsera-game.vercel.app/"><img src="../assets/gifs/279.gif" width="100%" alt="Valsera — сайд-скроллер RPG"></a><br>
 <b><a href="https://valsera-game.vercel.app/">Valsera — сайд-скроллер RPG</a></b><br>
-<sub>🆕 · <a href="https://x.com/kevin_t_ngo">@kevin_t_ngo</a> · ♥ 502 · <a href="https://x.com/kevin_t_ngo/status/2121701020598415465">▶ Видео</a></sub><br>
+<sub><a href="https://x.com/kevin_t_ngo">@kevin_t_ngo</a> · ♥ 502 · <a href="https://x.com/kevin_t_ngo/status/2121701020598415465">▶ Видео</a></sub><br>
 <sub>RPG с боковой прокруткой прямо в браузере; вся графика нарисована кодом, без моделей изображений и готовых ассетов.</sub>
 </td>
 <td width="33%" valign="top">
@@ -519,7 +519,7 @@
 <td width="33%" valign="top">
 <a href="https://mikenevermiss.github.io/midnight-grid/"><img src="../assets/gifs/293.gif" width="100%" alt="Midnight Grid"></a><br>
 <b><a href="https://mikenevermiss.github.io/midnight-grid/">Midnight Grid</a></b><br>
-<sub>🆕 · <a href="https://x.com/mikenevermiss">@mikenevermiss</a> · ♥ 28 · <a href="https://x.com/mikenevermiss/status/2121900977959612500">▶ Видео</a></sub><br>
+<sub><a href="https://x.com/mikenevermiss">@mikenevermiss</a> · ♥ 28 · <a href="https://x.com/mikenevermiss/status/2121900977959612500">▶ Видео</a></sub><br>
 <sub>Гонка в открытом мире по одному промпту: носитесь по городу, врезайтесь в машины и уходите от полиции. Каждая машина, здание, текстура и звук сгенерированы кодом.</sub>
 </td>
 <td width="33%" valign="top">

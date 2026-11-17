@@ -55,7 +55,7 @@
 <td width="33%" valign="top">
 <a href="https://fable-rover.vercel.app"><img src="../assets/gifs/278.gif" width="100%" alt="ER-6 Terrain Explorer — 스스로 달리는 화성 탐사차"></a><br>
 <b><a href="https://fable-rover.vercel.app">ER-6 Terrain Explorer — 스스로 달리는 화성 탐사차</a></b><br>
-<sub>🆕 · <a href="https://x.com/DilumSanjaya">@DilumSanjaya</a> · ♥ 790 · <a href="https://x.com/DilumSanjaya/status/2120561077385867663">▶ 영상</a></sub><br>
+<sub><a href="https://x.com/DilumSanjaya">@DilumSanjaya</a> · ♥ 790 · <a href="https://x.com/DilumSanjaya/status/2120561077385867663">▶ 영상</a></sub><br>
 <sub>Fable 5.2가 NASA 화성 탐사차처럼 로커-보기 서스펜션을 설계하고, 외계 지형을 달리는 시뮬레이션까지 만들었습니다.</sub>
 </td>
 <td width="33%" valign="top">
@@ -227,7 +227,7 @@
 <td width="33%" valign="top">
 <a href="https://vancouver-claude.webly.site"><img src="../assets/gifs/280.gif" width="100%" alt="밴쿠버, 잉글리시 베이의 골든아워"></a><br>
 <b><a href="https://vancouver-claude.webly.site">밴쿠버, 잉글리시 베이의 골든아워</a></b><br>
-<sub>🆕 · <a href="https://x.com/tokifyi">@tokifyi</a> · ♥ 30 · <a href="https://x.com/tokifyi/status/2121644293270200354">게시물</a></sub><br>
+<sub><a href="https://x.com/tokifyi">@tokifyi</a> · ♥ 30 · <a href="https://x.com/tokifyi/status/2121644293270200354">게시물</a></sub><br>
 <sub>JavaScript만으로 그린 밴쿠버 노을 파노라마.</sub>
 </td>
 </tr>
@@ -294,7 +294,7 @@
 <td width="33%" valign="top">
 <a href="https://davinci-mechanics.vercel.app/"><img src="../assets/gifs/289.gif" width="100%" alt="다빈치의 살아 있는 코덱스"></a><br>
 <b><a href="https://davinci-mechanics.vercel.app/">다빈치의 살아 있는 코덱스</a></b><br>
-<sub>🆕 · <a href="https://x.com/CoderRw11326">@CoderRw11326</a> · ♥ 6 · <a href="https://x.com/CoderRw11326/status/2121286814103421012">▶ 영상</a></sub><br>
+<sub><a href="https://x.com/CoderRw11326">@CoderRw11326</a> · ♥ 6 · <a href="https://x.com/CoderRw11326/status/2121286814103421012">▶ 영상</a></sub><br>
 <sub>노트를 펼치면 깃펜이 다빈치의 기계를 스케치하고, 돌리고 분해할 수 있는 나무 기계로 바뀝니다. 3D 모델, 텍스처, 오디오 파일 없이 모두 코드로 만들었습니다.</sub><br>
 <sub><a href="https://github.com/coding-nanami/davinci-mechanics">소스 코드</a></sub>
 </td>

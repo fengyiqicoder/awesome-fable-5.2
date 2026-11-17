@@ -81,7 +81,7 @@
 <td width="33%" valign="top">
 <a href="https://roverkit.vercel.app"><img src="../assets/gifs/277.gif" width="100%" alt="RoverKit — 로봇 자동차 만들고 시뮬레이션하기"></a><br>
 <b><a href="https://roverkit.vercel.app">RoverKit — 로봇 자동차 만들고 시뮬레이션하기</a></b><br>
-<sub>🆕 · <a href="https://x.com/DilumSanjaya">@DilumSanjaya</a> · ♥ 1.1k · <a href="https://x.com/DilumSanjaya/status/2121286147393651085">▶ 영상</a></sub><br>
+<sub><a href="https://x.com/DilumSanjaya">@DilumSanjaya</a> · ♥ 1.1k · <a href="https://x.com/DilumSanjaya/status/2121286147393651085">▶ 영상</a></sub><br>
 <sub>로봇 자동차 만드는 법을 단계별로 알려 줍니다. 시뮬레이터, 커스터마이즈 가능한 경기장, 시각적인 코드 설명 포함. Arduino와 ESP32 지원.</sub>
 </td>
 <td width="33%" valign="top">
@@ -117,7 +117,7 @@
 <td width="33%" valign="top">
 <a href="https://auden-english-135.netlify.app/"><img src="../assets/gifs/281.gif" width="100%" alt="사라진 Auden의 1941년 시 수업 복원"></a><br>
 <b><a href="https://auden-english-135.netlify.app/">사라진 Auden의 1941년 시 수업 복원</a></b><br>
-<sub>🆕 · <a href="https://x.com/emollick">@emollick</a> · ♥ 593 · <a href="https://x.com/emollick/status/2121641417483169934">게시물</a></sub><br>
+<sub><a href="https://x.com/emollick">@emollick</a> · ♥ 593 · <a href="https://x.com/emollick/status/2121641417483169934">게시물</a></sub><br>
 <sub>Fable 5.2가 Internet Archive의 잘 알려지지 않은 책과 흩어진 메모를 바탕으로 W. H. Auden의 '인문학에서 가장 어려운' 수업을 재구성했습니다.</sub>
 </td>
 </tr>
@@ -261,7 +261,7 @@
 <td width="33%" valign="top">
 <a href="https://uberdesigner.ai/t/araneae"><img src="../assets/gifs/290.gif" width="100%" alt="araneae"></a><br>
 <b><a href="https://uberdesigner.ai/t/araneae">araneae</a></b><br>
-<sub>🆕 · <a href="https://x.com/seanaiux">@seanaiux</a> · ♥ 8 · <a href="https://x.com/seanaiux/status/2121688869439455410">▶ 영상</a></sub><br>
+<sub><a href="https://x.com/seanaiux">@seanaiux</a> · ♥ 8 · <a href="https://x.com/seanaiux/status/2121688869439455410">▶ 영상</a></sub><br>
 <sub>자신을 겁먹게 할 웹사이트를 만들어 달라고 했더니: 어둠에서 거미가 내려오고, 스크롤을 따라 거미줄, 눈, 송곳니, 다리를 지나 마지막엔 당신이 파리가 됩니다.</sub>
 </td>
 <td width="33%" valign="top">

@@ -81,7 +81,7 @@ Die Hauptseite zeigt pro Bereich höchstens die 36 Einträge mit den meisten Lik
 <td width="33%" valign="top">
 <a href="https://roverkit.vercel.app"><img src="../assets/gifs/277.gif" width="100%" alt="RoverKit — Roboterauto bauen und simulieren"></a><br>
 <b><a href="https://roverkit.vercel.app">RoverKit — Roboterauto bauen und simulieren</a></b><br>
-<sub>🆕 · <a href="https://x.com/DilumSanjaya">@DilumSanjaya</a> · ♥ 1.1k · <a href="https://x.com/DilumSanjaya/status/2121286147393651085">▶ Video</a></sub><br>
+<sub><a href="https://x.com/DilumSanjaya">@DilumSanjaya</a> · ♥ 1.1k · <a href="https://x.com/DilumSanjaya/status/2121286147393651085">▶ Video</a></sub><br>
 <sub>Eine Schritt-für-Schritt-Anleitung zum Bau eines Roboterautos, mit Simulator, anpassbarer Arena und visueller Code-Erklärung. Unterstützt Arduino und ESP32.</sub>
 </td>
 <td width="33%" valign="top">
@@ -117,7 +117,7 @@ Die Hauptseite zeigt pro Bereich höchstens die 36 Einträge mit den meisten Lik
 <td width="33%" valign="top">
 <a href="https://auden-english-135.netlify.app/"><img src="../assets/gifs/281.gif" width="100%" alt="Audens verlorener Lyrikkurs von 1941, rekonstruiert"></a><br>
 <b><a href="https://auden-english-135.netlify.app/">Audens verlorener Lyrikkurs von 1941, rekonstruiert</a></b><br>
-<sub>🆕 · <a href="https://x.com/emollick">@emollick</a> · ♥ 593 · <a href="https://x.com/emollick/status/2121641417483169934">Post</a></sub><br>
+<sub><a href="https://x.com/emollick">@emollick</a> · ♥ 593 · <a href="https://x.com/emollick/status/2121641417483169934">Post</a></sub><br>
 <sub>Fable 5.2 rekonstruierte W. H. Audens Kurs, den „schwersten in den Geisteswissenschaften“, aus einem obskuren Buch im Internet Archive und verstreuten Notizen.</sub>
 </td>
 </tr>
@@ -261,7 +261,7 @@ Die Hauptseite zeigt pro Bereich höchstens die 36 Einträge mit den meisten Lik
 <td width="33%" valign="top">
 <a href="https://uberdesigner.ai/t/araneae"><img src="../assets/gifs/290.gif" width="100%" alt="araneae"></a><br>
 <b><a href="https://uberdesigner.ai/t/araneae">araneae</a></b><br>
-<sub>🆕 · <a href="https://x.com/seanaiux">@seanaiux</a> · ♥ 8 · <a href="https://x.com/seanaiux/status/2121688869439455410">▶ Video</a></sub><br>
+<sub><a href="https://x.com/seanaiux">@seanaiux</a> · ♥ 8 · <a href="https://x.com/seanaiux/status/2121688869439455410">▶ Video</a></sub><br>
 <sub>Der Auftrag: eine Website, die ihm Angst macht. Eine Spinne lässt sich aus dem Dunkel herab, und beim Scrollen geht es durch ihr Versteck, ihre Augen, Giftzähne und Beine, bis du die Fliege bist.</sub>
 </td>
 <td width="33%" valign="top">

@@ -101,7 +101,7 @@
 <td width="33%" valign="top">
 <a href="https://app.usecrayon.ai/play/76dbd04f-0684-4486-8cc4-eae0585295e8"><img src="../assets/gifs/288.gif" width="100%" alt="悟空：四星之路"></a><br>
 <b><a href="https://app.usecrayon.ai/play/76dbd04f-0684-4486-8cc4-eae0585295e8">悟空：四星之路</a></b><br>
-<sub>🆕 · <a href="https://x.com/aniketjart">@aniketjart</a> · ♥ 1.4k · <a href="https://x.com/aniketjart/status/2121793239175119279">▶ 影片</a></sub><br>
+<sub><a href="https://x.com/aniketjart">@aniketjart</a> · ♥ 1.4k · <a href="https://x.com/aniketjart/status/2121793239175119279">▶ 影片</a></sub><br>
 <sub>照著龍珠紅緞帶軍篇做的同人動作遊戲，用 three.js 寫成。還在製作中，目前能玩前兩張地圖。</sub>
 </td>
 <td width="33%" valign="top">
@@ -176,7 +176,7 @@
 <td width="33%" valign="top">
 <a href="https://valsera-game.vercel.app/"><img src="../assets/gifs/279.gif" width="100%" alt="Valsera — 橫向捲軸 RPG"></a><br>
 <b><a href="https://valsera-game.vercel.app/">Valsera — 橫向捲軸 RPG</a></b><br>
-<sub>🆕 · <a href="https://x.com/kevin_t_ngo">@kevin_t_ngo</a> · ♥ 502 · <a href="https://x.com/kevin_t_ngo/status/2121701020598415465">▶ 影片</a></sub><br>
+<sub><a href="https://x.com/kevin_t_ngo">@kevin_t_ngo</a> · ♥ 502 · <a href="https://x.com/kevin_t_ngo/status/2121701020598415465">▶ 影片</a></sub><br>
 <sub>瀏覽器就能玩的橫向捲軸 RPG，所有畫面都用程式碼畫成，沒用圖像模型或現成美術素材。</sub>
 </td>
 <td width="33%" valign="top">
@@ -519,7 +519,7 @@
 <td width="33%" valign="top">
 <a href="https://mikenevermiss.github.io/midnight-grid/"><img src="../assets/gifs/293.gif" width="100%" alt="Midnight Grid"></a><br>
 <b><a href="https://mikenevermiss.github.io/midnight-grid/">Midnight Grid</a></b><br>
-<sub>🆕 · <a href="https://x.com/mikenevermiss">@mikenevermiss</a> · ♥ 28 · <a href="https://x.com/mikenevermiss/status/2121900977959612500">▶ 影片</a></sub><br>
+<sub><a href="https://x.com/mikenevermiss">@mikenevermiss</a> · ♥ 28 · <a href="https://x.com/mikenevermiss/status/2121900977959612500">▶ 影片</a></sub><br>
 <sub>一句提示詞做出的開放世界駕駛遊戲：在城市裡飆車、撞車、被警察追。每輛車、每棟建築、每張貼圖和每個音效都是程式碼生成的。</sub>
 </td>
 <td width="33%" valign="top">

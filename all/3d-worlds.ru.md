@@ -55,7 +55,7 @@
 <td width="33%" valign="top">
 <a href="https://fable-rover.vercel.app"><img src="../assets/gifs/278.gif" width="100%" alt="ER-6 Terrain Explorer — самоуправляемый марсоход"></a><br>
 <b><a href="https://fable-rover.vercel.app">ER-6 Terrain Explorer — самоуправляемый марсоход</a></b><br>
-<sub>🆕 · <a href="https://x.com/DilumSanjaya">@DilumSanjaya</a> · ♥ 790 · <a href="https://x.com/DilumSanjaya/status/2120561077385867663">▶ Видео</a></sub><br>
+<sub><a href="https://x.com/DilumSanjaya">@DilumSanjaya</a> · ♥ 790 · <a href="https://x.com/DilumSanjaya/status/2120561077385867663">▶ Видео</a></sub><br>
 <sub>Fable 5.2 спроектировал подвеску rocker-bogie, как у марсоходов NASA, и смоделировал езду по инопланетному рельефу.</sub>
 </td>
 <td width="33%" valign="top">
@@ -227,7 +227,7 @@
 <td width="33%" valign="top">
 <a href="https://vancouver-claude.webly.site"><img src="../assets/gifs/280.gif" width="100%" alt="Ванкувер, золотой час над Инглиш-Бей"></a><br>
 <b><a href="https://vancouver-claude.webly.site">Ванкувер, золотой час над Инглиш-Бей</a></b><br>
-<sub>🆕 · <a href="https://x.com/tokifyi">@tokifyi</a> · ♥ 30 · <a href="https://x.com/tokifyi/status/2121644293270200354">Пост</a></sub><br>
+<sub><a href="https://x.com/tokifyi">@tokifyi</a> · ♥ 30 · <a href="https://x.com/tokifyi/status/2121644293270200354">Пост</a></sub><br>
 <sub>Панорама Ванкувера на закате, целиком нарисованная на JavaScript.</sub>
 </td>
 </tr>
@@ -294,7 +294,7 @@
 <td width="33%" valign="top">
 <a href="https://davinci-mechanics.vercel.app/"><img src="../assets/gifs/289.gif" width="100%" alt="Живой кодекс да Винчи"></a><br>
 <b><a href="https://davinci-mechanics.vercel.app/">Живой кодекс да Винчи</a></b><br>
-<sub>🆕 · <a href="https://x.com/CoderRw11326">@CoderRw11326</a> · ♥ 6 · <a href="https://x.com/CoderRw11326/status/2121286814103421012">▶ Видео</a></sub><br>
+<sub><a href="https://x.com/CoderRw11326">@CoderRw11326</a> · ♥ 6 · <a href="https://x.com/CoderRw11326/status/2121286814103421012">▶ Видео</a></sub><br>
 <sub>Откройте блокнот — перо набрасывает машины Леонардо, и они превращаются в деревянные механизмы, которые можно крутить и разбирать. Никаких 3D-моделей, текстур и аудиофайлов — всё кодом.</sub><br>
 <sub><a href="https://github.com/coding-nanami/davinci-mechanics">Исходный код</a></sub>
 </td>

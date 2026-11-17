@@ -7,7 +7,7 @@
 [![Awesome](https://awesome.re/badge.svg)](https://awesome.re)
 [![Works](https://img.shields.io/badge/работы-185-6b4eff)](#-игры)
 [![Demos](https://img.shields.io/badge/видеодемо-135-ff7a59)](#-видеодемо)
-[![Links checked](https://img.shields.io/badge/ссылки_проверены-2026--11--17-2ea44f)](#-как-помочь)
+[![Links checked](https://img.shields.io/badge/ссылки_проверены-2026--11--18-2ea44f)](#-как-помочь)
 [![License: CC0-1.0](https://img.shields.io/badge/License-CC0_1.0-lightgrey.svg)](LICENSE)
 
 [English](README.md) · [简体中文](README.zh-CN.md) · [繁體中文](README.zh-TW.md) · [日本語](README.ja.md) · [한국어](README.ko.md) · [Español](README.es.md) · [Português](README.pt-BR.md) · [Français](README.fr.md) · [Deutsch](README.de.md) · **Русский**
@@ -16,11 +16,11 @@
 
 </div>
 
-185 работ онлайн и 135 видеодемо на Claude Fable 5.2, все ссылки проверены 2026-11-17. Обновляется каждый день; ⭐ помогает.
+185 работ онлайн и 135 видеодемо на Claude Fable 5.2, все ссылки проверены 2026-11-18. Обновляется каждый день; ⭐ помогает.
 
 ## 📑 Содержание
 
-[⭐ Самые любимые](#-самые-любимые) · [🎮 Игры](#-игры) 89 · [🌍 3D-миры и сцены](#-3d-миры-и-сцены) 42 · [🧰 Сайты и инструменты](#-сайты-и-инструменты) 40 · [🎬 Анимация и фильмы](#-анимация-и-фильмы) 14 · [📺 Видеодемо](#-видеодемо) 135 · [🤝 Как помочь](#-как-помочь)
+[⭐ Самые любимые](#-самые-любимые) · [🆕 Новое](#-новое) · [🎮 Игры](#-игры) 89 · [🌍 3D-миры и сцены](#-3d-миры-и-сцены) 42 · [🧰 Сайты и инструменты](#-сайты-и-инструменты) 40 · [🎬 Анимация и фильмы](#-анимация-и-фильмы) 14 · [📺 Видеодемо](#-видеодемо) 135 · [🤝 Как помочь](#-как-помочь)
 
 ## ⭐ Самые любимые
 
@@ -69,6 +69,33 @@
 <sub><a href="https://x.com/anabology">@anabology</a> · ♥ 5.4k · <a href="https://x.com/anabology/status/2120010995309457643">▶ Видео</a></sub><br>
 <sub>«Make the video of your dreams» — два кадра, 9 часов.</sub><br>
 <sub><a href="https://fablelist.000ooo.ooo/ru/prompts/?w=claudia-gallery&ref=gh"><b>✨ Получить промпт</b></a></sub>
+</td>
+</tr>
+</table>
+
+## 🆕 Новое
+
+Опубликовано за последние 24 часа, по числу лайков.
+
+<table>
+<tr>
+<td width="33%" valign="top">
+<a href="https://stormy.ai/hands"><img src="assets/gifs/316.gif" width="100%" alt="Hands: как устроена рука робота"></a><br>
+<b><a href="https://stormy.ai/hands">Hands: как устроена рука робота</a></b><br>
+<sub>🆕 · <a href="https://x.com/Karmedge">@Karmedge</a> · ♥ 130 · <a href="https://x.com/Karmedge/status/2122394153497842080">▶ Видео</a></sub><br>
+<sub>Интерактивное объяснение того, как работает рука человекоподобного робота, почему её трудно сделать и сколько она стоит. Сделано более чем за 1 миллиард токенов.</sub>
+</td>
+<td width="33%" valign="top">
+<a href="https://github.com/amirmushichge/fly-in-kit"><img src="assets/gifs/320.gif" width="100%" alt="Fly-In Kit: мини-игра с полётом для кафе"></a><br>
+<b><a href="https://github.com/amirmushichge/fly-in-kit">Fly-In Kit: мини-игра с полётом для кафе</a></b><br>
+<sub>🆕 · <a href="https://x.com/AmirMushich">@AmirMushich</a> · ♥ 83 · <a href="https://x.com/AmirMushich/status/2122421769462284615">▶ Видео</a></sub><br>
+<sub>Воссоздаёт настоящие улицы вокруг кофейни, 7,970 зданий: летите, соберите 5 зёрен и сядьте на крышу, чтобы выиграть бесплатный кофе. Подходит для любого заведения на карте.</sub>
+</td>
+<td width="33%" valign="top">
+<a href="https://patch.gg/play/blendi/solar"><img src="assets/gifs/323.gif" width="100%" alt="Solar — крошечная Солнечная система, по которой можно летать"></a><br>
+<b><a href="https://patch.gg/play/blendi/solar">Solar — крошечная Солнечная система, по которой можно летать</a></b><br>
+<sub>🆕 · <a href="https://x.com/BlendiByl">@BlendiByl</a> · ♥ 38 · <a href="https://x.com/BlendiByl/status/2122673770607591855">▶ Видео</a></sub><br>
+<sub>По мотивам Outer Wilds: настоящие орбиты и гравитация, непрерывные перелёты между планетами, и каждый мир нарисован кодом. Открытый исходный код.</sub>
 </td>
 </tr>
 </table>
@@ -172,7 +199,7 @@
 <td width="33%" valign="top">
 <a href="https://app.usecrayon.ai/play/76dbd04f-0684-4486-8cc4-eae0585295e8"><img src="assets/gifs/288.gif" width="100%" alt="Гоку: Путь четырёх звёзд"></a><br>
 <b><a href="https://app.usecrayon.ai/play/76dbd04f-0684-4486-8cc4-eae0585295e8">Гоку: Путь четырёх звёзд</a></b><br>
-<sub>🆕 · <a href="https://x.com/aniketjart">@aniketjart</a> · ♥ 1.4k · <a href="https://x.com/aniketjart/status/2121793239175119279">▶ Видео</a></sub><br>
+<sub><a href="https://x.com/aniketjart">@aniketjart</a> · ♥ 1.4k · <a href="https://x.com/aniketjart/status/2121793239175119279">▶ Видео</a></sub><br>
 <sub>Фанатская экшен-игра по арке армии Красной ленты из Dragon Ball, сделанная на three.js. В разработке; первые две карты уже играбельны.</sub>
 </td>
 <td width="33%" valign="top">
@@ -247,7 +274,7 @@
 <td width="33%" valign="top">
 <a href="https://valsera-game.vercel.app/"><img src="assets/gifs/279.gif" width="100%" alt="Valsera — сайд-скроллер RPG"></a><br>
 <b><a href="https://valsera-game.vercel.app/">Valsera — сайд-скроллер RPG</a></b><br>
-<sub>🆕 · <a href="https://x.com/kevin_t_ngo">@kevin_t_ngo</a> · ♥ 502 · <a href="https://x.com/kevin_t_ngo/status/2121701020598415465">▶ Видео</a></sub><br>
+<sub><a href="https://x.com/kevin_t_ngo">@kevin_t_ngo</a> · ♥ 502 · <a href="https://x.com/kevin_t_ngo/status/2121701020598415465">▶ Видео</a></sub><br>
 <sub>RPG с боковой прокруткой прямо в браузере; вся графика нарисована кодом, без моделей изображений и готовых ассетов.</sub>
 </td>
 <td width="33%" valign="top">
@@ -410,7 +437,7 @@
 <td width="33%" valign="top">
 <a href="https://fable-rover.vercel.app"><img src="assets/gifs/278.gif" width="100%" alt="ER-6 Terrain Explorer — самоуправляемый марсоход"></a><br>
 <b><a href="https://fable-rover.vercel.app">ER-6 Terrain Explorer — самоуправляемый марсоход</a></b><br>
-<sub>🆕 · <a href="https://x.com/DilumSanjaya">@DilumSanjaya</a> · ♥ 790 · <a href="https://x.com/DilumSanjaya/status/2120561077385867663">▶ Видео</a></sub><br>
+<sub><a href="https://x.com/DilumSanjaya">@DilumSanjaya</a> · ♥ 790 · <a href="https://x.com/DilumSanjaya/status/2120561077385867663">▶ Видео</a></sub><br>
 <sub>Fable 5.2 спроектировал подвеску rocker-bogie, как у марсоходов NASA, и смоделировал езду по инопланетному рельефу.</sub>
 </td>
 <td width="33%" valign="top">
@@ -617,7 +644,7 @@
 <td width="33%" valign="top">
 <a href="https://roverkit.vercel.app"><img src="assets/gifs/277.gif" width="100%" alt="RoverKit — собери и смоделируй робота-машинку"></a><br>
 <b><a href="https://roverkit.vercel.app">RoverKit — собери и смоделируй робота-машинку</a></b><br>
-<sub>🆕 · <a href="https://x.com/DilumSanjaya">@DilumSanjaya</a> · ♥ 1.1k · <a href="https://x.com/DilumSanjaya/status/2121286147393651085">▶ Видео</a></sub><br>
+<sub><a href="https://x.com/DilumSanjaya">@DilumSanjaya</a> · ♥ 1.1k · <a href="https://x.com/DilumSanjaya/status/2121286147393651085">▶ Видео</a></sub><br>
 <sub>Пошаговое руководство по сборке робота-машинки с симулятором, настраиваемой ареной и наглядным разбором кода. Поддерживает Arduino и ESP32.</sub>
 </td>
 <td width="33%" valign="top">
@@ -653,7 +680,7 @@
 <td width="33%" valign="top">
 <a href="https://auden-english-135.netlify.app/"><img src="assets/gifs/281.gif" width="100%" alt="Утраченный курс поэзии Одена 1941 года, восстановленный"></a><br>
 <b><a href="https://auden-english-135.netlify.app/">Утраченный курс поэзии Одена 1941 года, восстановленный</a></b><br>
-<sub>🆕 · <a href="https://x.com/emollick">@emollick</a> · ♥ 593 · <a href="https://x.com/emollick/status/2121641417483169934">Пост</a></sub><br>
+<sub><a href="https://x.com/emollick">@emollick</a> · ♥ 593 · <a href="https://x.com/emollick/status/2121641417483169934">Пост</a></sub><br>
 <sub>Fable 5.2 восстановил курс У. Х. Одена, «самый сложный в гуманитарных науках», по малоизвестной книге из Internet Archive и разрозненным заметкам.</sub>
 </td>
 </tr>
@@ -810,7 +837,7 @@
 <td width="33%" valign="top">
 <a href="https://github.com/0xCodez/thousand-peaks"><img src="assets/gifs/282.gif" width="100%" alt="Dragon of a Thousand Peaks — дракон тысячи вершин"></a><br>
 <b><a href="https://github.com/0xCodez/thousand-peaks">Dragon of a Thousand Peaks — дракон тысячи вершин</a></b><br>
-<sub>🆕 · <a href="https://x.com/0xMovez">@0xMovez</a> · ♥ 132 · <a href="https://x.com/0xMovez/status/2121721290687983906">▶ Видео</a></sub><br>
+<sub><a href="https://x.com/0xMovez">@0xMovez</a> · ♥ 132 · <a href="https://x.com/0xMovez/status/2121721290687983906">▶ Видео</a></sub><br>
 <sub>90-секундный боевой фильм на чистом three.js без ассетов и видеомоделей; Fable 5.2 руководил 8 параллельными агентами, музыка и звуки синтезированы кодом.</sub>
 </td>
 </tr>
@@ -898,7 +925,7 @@
 <td width="33%" valign="top">
 <a href="https://x.com/JungleSilicon/status/2121782359901212987"><img src="assets/gifs/291.gif" width="100%" alt="Гауссовы сплаты в стиле пиксель-арта"></a><br>
 <b><a href="https://x.com/JungleSilicon/status/2121782359901212987">Гауссовы сплаты в стиле пиксель-арта</a></b><br>
-<sub>🆕 · <a href="https://x.com/JungleSilicon">@JungleSilicon</a> · ♥ 4.7k · <a href="https://x.com/JungleSilicon/status/2121782359901212987">▶ Видео</a></sub><br>
+<sub><a href="https://x.com/JungleSilicon">@JungleSilicon</a> · ♥ 4.7k · <a href="https://x.com/JungleSilicon/status/2121782359901212987">▶ Видео</a></sub><br>
 
 </td>
 </tr>
