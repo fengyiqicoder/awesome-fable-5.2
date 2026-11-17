@@ -2,7 +2,7 @@
 
 [← メインリストに戻る](../README.ja.md) · [English](animation.md) · [简体中文](animation.zh-CN.md) · [繁體中文](animation.zh-TW.md) · **日本語** · [한국어](animation.ko.md) · [Español](animation.es.md) · [Português](animation.pt-BR.md) · [Français](animation.fr.md) · [Deutsch](animation.de.md) · [Русский](animation.ru.md)
 
-トップページには各カテゴリで 100 いいね以上の上位 12 件だけを載せています。このページはこのカテゴリの全件を、いいね数順に並べたものです。
+トップページには各カテゴリで 100 いいね以上の上位 36 件だけを載せています。このページはこのカテゴリの全件を、いいね数順に並べたものです。
 
 <table>
 <tr>

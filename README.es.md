@@ -168,6 +168,189 @@
 <sub><a href="https://fablelist.000ooo.ooo/es/prompts/?w=lanternfall&ref=gh"><b>✨ Consigue el prompt</b></a></sub>
 </td>
 </tr>
+<tr>
+<td width="33%" valign="top">
+<a href="https://app.usecrayon.ai/play/76dbd04f-0684-4486-8cc4-eae0585295e8"><img src="assets/gifs/288.gif" width="100%" alt="Goku: Four-Star Road"></a><br>
+<b><a href="https://app.usecrayon.ai/play/76dbd04f-0684-4486-8cc4-eae0585295e8">Goku: Four-Star Road</a></b><br>
+<sub>🆕 · <a href="https://x.com/aniketjart">@aniketjart</a> · ♥ 1.3k · <a href="https://x.com/aniketjart/status/2121793239175119279">▶ Video</a></sub><br>
+<sub>Un juego de acción fan basado en la saga del Ejército Red Ribbon de Dragon Ball, hecho con three.js. Está en desarrollo; se pueden jugar los dos primeros mapas.</sub>
+</td>
+<td width="33%" valign="top">
+<a href="https://op7418.github.io/guizang-game-skill/"><img src="assets/gifs/131.gif" width="100%" alt="Mist-Locked Mountain Gate — juego de acción 3D"></a><br>
+<b><a href="https://op7418.github.io/guizang-game-skill/">Mist-Locked Mountain Gate — juego de acción 3D</a></b><br>
+<sub><a href="https://x.com/op7418">@op7418</a> · ♥ 1.2k · <a href="https://x.com/op7418/status/2120694045299327187">▶ Video</a></sub><br>
+<sub>Una tarde, 4,500 millones de tokens. Modelos, escenas y movimientos, todo por Fable, empaquetado en un único archivo HTML de 30 MB.</sub><br>
+<sub><a href="https://fablelist.000ooo.ooo/es/prompts/?w=mist-locked-mountain-gate-3d-action-game&ref=gh"><b>✨ Consigue el prompt</b></a></sub>
+</td>
+<td width="33%" valign="top">
+<a href="https://wavedash.com/games/rooftop-rally"><img src="assets/gifs/129.gif" width="100%" alt="Rooftop Rally — pickleball en Unreal 5.9"></a><br>
+<b><a href="https://wavedash.com/games/rooftop-rally">Rooftop Rally — pickleball en Unreal 5.9</a></b><br>
+<sub><a href="https://x.com/chongdashu">@chongdashu</a> · ♥ 1.1k · <a href="https://x.com/chongdashu/status/2120154573356793883">▶ Video</a></sub><br>
+<sub>Fable 5.2 con la vista previa de Unreal Engine 5.9. Personajes de Tripo; los demás recursos 3D y el resto, de Fable.</sub><br>
+<sub><a href="https://x.com/chongdashu/status/2120310120509014219">Cómo se hizo</a></sub><br>
+<sub><a href="https://fablelist.000ooo.ooo/es/prompts/?w=rooftop-rally-pickleball-in-unreal-5-9&ref=gh"><b>✨ Consigue el prompt</b></a></sub>
+</td>
+</tr>
+<tr>
+<td width="33%" valign="top">
+<a href="https://claude.ai/artifact/MXxb36zKgN261ckbGhmNin"><img src="assets/gifs/002.gif" width="100%" alt="Three Games (Saltline · The Clockmaker's Heart · Tidewright)"></a><br>
+<b><a href="https://claude.ai/artifact/MXxb36zKgN261ckbGhmNin">Three Games (Saltline · The Clockmaker's Heart · Tidewright)</a></b><br>
+<sub><a href="https://x.com/felixrieseberg">@felixrieseberg</a> · ♥ 809 · <a href="https://x.com/vineerpasam/status/2119955306096857145">▶ Video</a></sub><br>
+<sub>Firmado por Felix Rieseberg: "Todos los juegos hechos con Claude Fable 5.2. Primeros borradores, sin feedback humano." El enlace más compartido del día del lanzamiento.</sub><br>
+<sub><a href="https://claude.ai/artifact/6MjtQjf4ee1ZZjEpafaEpa">The Clockmaker's Heart</a> · <a href="https://claude.ai/artifact/JTgyEMn7sn1q2riWrMb7D4">Tidewright</a></sub><br>
+<sub><a href="https://fablelist.000ooo.ooo/es/prompts/?w=three-games-saltline-the-clockmaker-s-heart-tidewright&ref=gh"><b>✨ Consigue el prompt</b></a></sub>
+</td>
+<td width="33%" valign="top">
+<a href="https://patch.gg/blendi/coloured-pencil"><img src="assets/gifs/247.gif" width="100%" alt="Coloured Pencil"></a><br>
+<b><a href="https://patch.gg/blendi/coloured-pencil">Coloured Pencil</a></b><br>
+<sub><a href="https://x.com/BlendiByl">@BlendiByl</a> · ♥ 763 · <a href="https://x.com/BlendiByl/status/2121130385723789637">▶ Video</a></sub><br>
+<sub>Un fragmento de juego a lápices de colores; el sombreado de cada superficie y todo el pueblo son código. Código abierto.</sub><br>
+<sub><a href="https://fablelist.000ooo.ooo/es/prompts/?w=coloured-pencil&ref=gh"><b>✨ Consigue el prompt</b></a></sub>
+</td>
+<td width="33%" valign="top">
+<a href="https://heat.pplx.app"><img src="assets/gifs/313.gif" width="100%" alt="VICE '86: conducción en mundo abierto por un Miami de neón de 1986"></a><br>
+<b><a href="https://heat.pplx.app">VICE '86: conducción en mundo abierto por un Miami de neón de 1986</a></b><br>
+<sub>🆕 · <a href="https://x.com/AravSrinivas">@AravSrinivas</a> · ♥ 761 · <a href="https://x.com/AravSrinivas/status/2122338465648103676">▶ Video</a></sub><br>
+<sub>Un juego de conducción en mundo abierto que corre en el navegador. Sin motor de juego ni three.js: tiene su propio renderizador WebGL2, y la ciudad, los coches, la lluvia y el sonido de los motores se generan por código, unas 63,000 líneas de JavaScript.</sub>
+</td>
+</tr>
+<tr>
+<td width="33%" valign="top">
+<a href="https://www.spawn.co/@mattshumer/voxel-engine"><img src="assets/gifs/004.gif" width="100%" alt="Voxel Engine"></a><br>
+<b><a href="https://www.spawn.co/@mattshumer/voxel-engine">Voxel Engine</a></b><br>
+<sub><a href="https://x.com/mattshumer_">@mattshumer_</a> · ♥ 743 · <a href="https://x.com/mattshumer_/status/2119870965106483384">▶ Video</a></sub><br>
+<sub>Hecho con un solo prompt. Con sonido.</sub><br>
+<sub><a href="https://fablelist.000ooo.ooo/es/prompts/?w=voxel-engine&ref=gh"><b>✨ Consigue el prompt</b></a></sub>
+</td>
+<td width="33%" valign="top">
+<a href="https://patch.gg/blendi/patchwork-quilt"><img src="assets/gifs/190.gif" width="100%" alt="Patchwork Quilt"></a><br>
+<b><a href="https://patch.gg/blendi/patchwork-quilt">Patchwork Quilt</a></b><br>
+<sub><a href="https://x.com/BlendiByl">@BlendiByl</a> · ♥ 673 · <a href="https://x.com/BlendiByl/status/2120746541636047347">▶ Video</a></sub><br>
+<sub>Un fragmento de juego estilo patchwork y stop-motion. Todo el mapa es código. Código abierto.</sub><br>
+<sub><a href="https://fablelist.000ooo.ooo/es/prompts/?w=patchwork-quilt&ref=gh"><b>✨ Consigue el prompt</b></a></sub>
+</td>
+<td width="33%" valign="top">
+<a href="https://bannerfall.itch.io/siege-wing"><img src="assets/gifs/271.gif" width="100%" alt="Siege Wing — un helicóptero en una guerra medieval"></a><br>
+<b><a href="https://bannerfall.itch.io/siege-wing">Siege Wing — un helicóptero en una guerra medieval</a></b><br>
+<sub><a href="https://x.com/builderjaydub">@builderjaydub</a> · ♥ 570 · <a href="https://x.com/builderjaydub/status/2120223731520040966">▶ Video</a></sub><br>
+<sub>Pilota un helicóptero con cañón, cohetes y misiles, esquiva las balistas romanas y derriba el castillo.</sub>
+</td>
+</tr>
+<tr>
+<td width="33%" valign="top">
+<a href="https://i-would-have-gotten-away-with-it.netlify.app/"><img src="assets/gifs/007.gif" width="100%" alt="I Would Have Gotten Away With It"></a><br>
+<b><a href="https://i-would-have-gotten-away-with-it.netlify.app/">I Would Have Gotten Away With It</a></b><br>
+<sub><a href="https://x.com/emollick">@emollick</a> · ♥ 513 · <a href="https://x.com/emollick/status/2119876449494540554">▶ Video</a></sub><br>
+<sub>Un Scooby-Doo al revés: eres el villano que espanta a los niños entrometidos. Fable también hizo el tráiler, la música y el sonido.</sub><br>
+<sub><a href="https://fablelist.000ooo.ooo/es/prompts/?w=i-would-have-gotten-away-with-it&ref=gh"><b>✨ Consigue el prompt</b></a></sub>
+</td>
+<td width="33%" valign="top">
+<a href="https://valsera-game.vercel.app/"><img src="assets/gifs/279.gif" width="100%" alt="Valsera — RPG de desplazamiento lateral"></a><br>
+<b><a href="https://valsera-game.vercel.app/">Valsera — RPG de desplazamiento lateral</a></b><br>
+<sub>🆕 · <a href="https://x.com/kevin_t_ngo">@kevin_t_ngo</a> · ♥ 503 · <a href="https://x.com/kevin_t_ngo/status/2121701020598415465">▶ Video</a></sub><br>
+<sub>Un RPG de scroll lateral que se juega en el navegador; todos los gráficos están dibujados con código, sin modelos de imagen ni arte prefabricado.</sub>
+</td>
+<td width="33%" valign="top">
+<a href="https://noclipepe.pages.dev/rug/"><img src="assets/gifs/010.gif" width="100%" alt="Childhood Rug Racer"></a><br>
+<b><a href="https://noclipepe.pages.dev/rug/">Childhood Rug Racer</a></b><br>
+<sub><a href="https://x.com/noclipepe">@noclipepe</a> · ♥ 426 · <a href="https://x.com/noclipepe/status/2119728047754547326">▶ Video</a></sub><br>
+<sub>Un juego de carreras sobre la alfombra de juegos de tu infancia, con el mismo prompt que GPT-6.2 Sol. El autor llama al modelo "Fable 5.5 (routing)".</sub><br>
+<sub><a href="https://fablelist.000ooo.ooo/es/prompts/?w=childhood-rug-racer&ref=gh"><b>✨ Consigue el prompt</b></a></sub>
+</td>
+</tr>
+<tr>
+<td width="33%" valign="top">
+<a href="https://gilt-and-gutter.vercel.app/"><img src="assets/gifs/127.gif" width="100%" alt="Gilt & Gutter"></a><br>
+<b><a href="https://gilt-and-gutter.vercel.app/">Gilt & Gutter</a></b><br>
+<sub><a href="https://x.com/kevin_t_ngo">@kevin_t_ngo</a> · ♥ 330 · <a href="https://x.com/kevin_t_ngo/status/2119900487688622171">▶ Video</a></sub><br>
+<sub>Un shooter en primera persona 1 contra 1 con dos personajes jugables.</sub><br>
+<sub><a href="https://fablelist.000ooo.ooo/es/prompts/?w=gilt-gutter&ref=gh"><b>✨ Consigue el prompt</b></a></sub>
+</td>
+<td width="33%" valign="top">
+<a href="https://finderchangchang.github.io/cloud-stunt-3d/"><img src="assets/gifs/014.gif" width="100%" alt="Cloud Stunt 3D"></a><br>
+<b><a href="https://finderchangchang.github.io/cloud-stunt-3d/">Cloud Stunt 3D</a></b><br>
+<sub><a href="https://x.com/jev_chat">@jev_chat</a> · ♥ 329 · <a href="https://x.com/jev_chat/status/2120015641151426838">▶ Video</a></sub><br>
+<sub>Generado en 30 minutos; también hay un enlace a una versión "dorada" optimizada.</sub><br>
+<sub><a href="https://finderchangchang.github.io/cloud-stunt-3d/golden/">Optimized</a></sub><br>
+<sub><a href="https://x.com/jev_chat/status/2120015641151426838">📝 Prompt del creador (gratis)</a></sub>
+</td>
+<td width="33%" valign="top">
+<a href="https://valle-morta.vercel.app/"><img src="assets/gifs/298.gif" width="100%" alt="Valle Morta"></a><br>
+<b><a href="https://valle-morta.vercel.app/">Valle Morta</a></b><br>
+<sub>🆕 · <a href="https://x.com/LexnLin">@LexnLin</a> · ♥ 318 · <a href="https://x.com/LexnLin/status/2121934071429468543">▶ Video</a></sub><br>
+<sub>Un shooter de supervivencia zombi en primera persona en un valle alpino devastado por la guerra, hecho en dos días. Sin assets 3D prefabricados; todo lo visual se genera con código.</sub><br>
+<sub><a href="https://github.com/Leonxlnx/valle-morta">Código fuente</a></sub>
+</td>
+</tr>
+<tr>
+<td width="33%" valign="top">
+<a href="https://www.spawn.co/@mattshumer/hogwarts-royale"><img src="assets/gifs/005.gif" width="100%" alt="Hogwarts Royale"></a><br>
+<b><a href="https://www.spawn.co/@mattshumer/hogwarts-royale">Hogwarts Royale</a></b><br>
+<sub><a href="https://x.com/mattshumer_">@mattshumer_</a> · ♥ 312 · <a href="https://x.com/mattshumer_/status/2119872098306810226">▶ Video</a></sub><br>
+<sub>"Crea un mashup de Harry Potter y Fortnite" — un battle royale jugable.</sub><br>
+<sub><a href="https://x.com/mattshumer_/status/2119872098306810226">📝 Prompt del creador (gratis)</a></sub>
+</td>
+<td width="33%" valign="top">
+<a href="https://dread-and-district.netlify.app"><img src="assets/gifs/130.gif" width="100%" alt="Dread & District"></a><br>
+<b><a href="https://dread-and-district.netlify.app">Dread & District</a></b><br>
+<sub><a href="https://x.com/emollick">@emollick</a> · ♥ 304 · <a href="https://x.com/emollick/status/2120248525254742318">▶ Video</a></sub><br>
+<sub>Un simulador de transporte de fantasía "con corazón": un párrafo vago y luego un montón de agentes discutiendo sobre arte, lore y chistes. La buena logística vence al mal.</sub><br>
+<sub><a href="https://fablelist.000ooo.ooo/es/prompts/?w=dread-district&ref=gh"><b>✨ Consigue el prompt</b></a></sub>
+</td>
+<td width="33%" valign="top">
+<a href="https://unsung-vale.vercel.app/"><img src="assets/gifs/262.gif" width="100%" alt="Unsung Vale — RPG de mundo abierto"></a><br>
+<b><a href="https://unsung-vale.vercel.app/">Unsung Vale — RPG de mundo abierto</a></b><br>
+<sub><a href="https://x.com/LexnLin">@LexnLin</a> · ♥ 303 · <a href="https://x.com/LexnLin/status/2121253191748669705">▶ Video</a></sub><br>
+<sub>Una demo de RPG de mundo abierto en tercera persona. Sin recursos: todo lo que se ve en pantalla está hecho con código.</sub><br>
+<sub><a href="https://github.com/Leonxlnx/unsung-vale">Código fuente</a></sub>
+</td>
+</tr>
+<tr>
+<td width="33%" valign="top">
+<a href="https://lauramionel.github.io/cayley-flight-simulator/"><img src="assets/gifs/198.gif" width="100%" alt="Cayley flight simulator"></a><br>
+<b><a href="https://lauramionel.github.io/cayley-flight-simulator/">Cayley flight simulator</a></b><br>
+<sub><a href="https://x.com/lionel_mora">@lionel_mora</a> · ♥ 296 · <a href="https://x.com/lionel_mora/status/2120554787812860294">▶ Video</a></sub><br>
+<sub>Un intento durante la noche: física real de alas que calcula la sustentación y la resistencia de cada parte del ala.</sub><br>
+<sub><a href="https://fablelist.000ooo.ooo/es/prompts/?w=cayley-flight-simulator&ref=gh"><b>✨ Consigue el prompt</b></a></sub>
+</td>
+<td width="33%" valign="top">
+<a href="https://github.com/amirmushichge/worm-rider"><img src="assets/gifs/015.gif" width="100%" alt="Worm Rider"></a><br>
+<b><a href="https://github.com/amirmushichge/worm-rider">Worm Rider</a></b><br>
+<sub><a href="https://x.com/AmirMushich">@AmirMushich</a> · ♥ 252 · <a href="https://x.com/AmirMushich/status/2119937977426338283">▶ Video</a></sub><br>
+<sub>Código abierto. 220 KB, 3,400 líneas, 10 prompts, todos los modelos construidos desde cero en Claude Code.</sub><br>
+<sub><a href="https://fablelist.000ooo.ooo/es/prompts/?w=worm-rider&ref=gh"><b>✨ Consigue el prompt</b></a></sub>
+</td>
+<td width="33%" valign="top">
+<a href="https://maad-maxxing.vercel.app/"><img src="assets/gifs/199.gif" width="100%" alt="MAAD MAXXING"></a><br>
+<b><a href="https://maad-maxxing.vercel.app/">MAAD MAXXING</a></b><br>
+<sub><a href="https://x.com/Andrew_Blumson">@Andrew_Blumson</a> · ♥ 249 · <a href="https://x.com/Andrew_Blumson/status/2120599812512833557">▶ Video</a></sub><br>
+<sub>100% código, sin recursos. Las primeras 3 etapas son jugables; audio de ElevenLabs.</sub><br>
+<sub><a href="https://fablelist.000ooo.ooo/es/prompts/?w=maad-maxxing&ref=gh"><b>✨ Consigue el prompt</b></a></sub>
+</td>
+</tr>
+<tr>
+<td width="33%" valign="top">
+<a href="https://sanwan.ai/games/xingyun-moba/"><img src="assets/gifs/256.gif" width="100%" alt="Starfall — un MOBA en el navegador"></a><br>
+<b><a href="https://sanwan.ai/games/xingyun-moba/">Starfall — un MOBA en el navegador</a></b><br>
+<sub><a href="https://x.com/FuSheng_0306">@FuSheng_0306</a> · ♥ 242 · <a href="https://x.com/FuSheng_0306/status/2121237878097207583">▶ Video</a></sub><br>
+<sub>Un prompt, unas 20 horas de Fable 5.2: cinco héroes, un jugador humano y NPCs.</sub><br>
+<sub><a href="https://fablelist.000ooo.ooo/es/prompts/?w=starfall-a-browser-moba&ref=gh"><b>✨ Consigue el prompt</b></a></sub>
+</td>
+<td width="33%" valign="top">
+<a href="https://frontier.every.to/experiments/first-crush"><img src="assets/gifs/133.gif" width="100%" alt="First Crush"></a><br>
+<b><a href="https://frontier.every.to/experiments/first-crush">First Crush</a></b><br>
+<sub><a href="https://x.com/kieranklaassen">@kieranklaassen</a> · ♥ 229 · <a href="https://x.com/kieranklaassen/status/2119871673294037280">▶ Video</a></sub><br>
+<sub>Un juego de vinificación: friega la tina, tritura 250 kg de fruta, lee el densímetro, elige una levadura, y te explica por qué. Haz clic en "Try it" en la página.</sub><br>
+<sub><a href="https://fablelist.000ooo.ooo/es/prompts/?w=first-crush&ref=gh"><b>✨ Consigue el prompt</b></a></sub>
+</td>
+<td width="33%" valign="top">
+<a href="https://noclipepe.pages.dev/dino"><img src="assets/gifs/011.gif" width="100%" alt="Rambo Dino"></a><br>
+<b><a href="https://noclipepe.pages.dev/dino">Rambo Dino</a></b><br>
+<sub><a href="https://x.com/noclipepe">@noclipepe</a> · ♥ 182 · <a href="https://x.com/noclipepe/status/2119927838321328577">▶ Video</a></sub><br>
+<sub>El juego del T-Rex de Chrome, reconstruido. Comparado con Opus 5.5, Gemini 4 Carbon y GPT-6 Astra.</sub><br>
+<sub><a href="https://fablelist.000ooo.ooo/es/prompts/?w=rambo-dino&ref=gh"><b>✨ Consigue el prompt</b></a></sub>
+</td>
+</tr>
 </table>
 
 <p align="center"><b><a href="all/games.es.md">Ver los 88 →</a></b></p>
@@ -266,6 +449,87 @@
 <sub><a href="https://x.com/SamGCoder">@SamGCoder</a> · ♥ 298 · <a href="https://x.com/SamGCoder/status/2120943068321054975">▶ Video</a></sub><br>
 <sub>Una escena de jardín escrita en Rust, compilada a WASM y renderizada con WebGPU.</sub><br>
 <sub><a href="https://fablelist.000ooo.ooo/es/prompts/?w=the-garden&ref=gh"><b>✨ Consigue el prompt</b></a></sub>
+</td>
+</tr>
+<tr>
+<td width="33%" valign="top">
+<a href="https://github.com/Leonxlnx/walking-block"><img src="assets/gifs/318.gif" width="100%" alt="Walking Block: un bloque de pisos soviético que camina"></a><br>
+<b><a href="https://github.com/Leonxlnx/walking-block">Walking Block: un bloque de pisos soviético que camina</a></b><br>
+<sub>🆕 · <a href="https://x.com/LexnLin">@LexnLin</a> · ♥ 282 · <a href="https://x.com/LexnLin/status/2122359035751989341">▶ Video</a></sub><br>
+<sub>Un enorme bloque soviético de paneles sobre ocho patas mecánicas cruza un campo mojado entre la niebla del atardecer. La geometría, las texturas y los shaders son código three.js, y de la misma escena se renderiza un corto de 45 segundos.</sub>
+</td>
+<td width="33%" valign="top">
+<a href="http://taoistvibe.com"><img src="assets/gifs/307.gif" width="100%" alt="Chill Taoist Vibe: una colina con un templo taoísta"></a><br>
+<b><a href="http://taoistvibe.com">Chill Taoist Vibe: una colina con un templo taoísta</a></b><br>
+<sub>🆕 · <a href="https://x.com/qiqileyuan">@qiqileyuan</a> · ♥ 250 · <a href="https://x.com/qiqileyuan/status/2122006851298693277">▶ Video</a></sub><br>
+<sub>Un templo taoísta de estilo Ghibli en una pequeña montaña. Sigue al viejo sacerdote cuesta arriba, quema incienso, saca un palillo de la fortuna, medita o simplemente siéntate en la mecedora a ver pasar las estaciones. Las estatuas y el personaje principal vienen de Tripo3D; todo lo demás es código generado.</sub>
+</td>
+<td width="33%" valign="top">
+<a href="https://claude.ai/artifact/R6YBDkAm2GjAC5A65D9djx"><img src="assets/gifs/142.gif" width="100%" alt="Una demo de Claude a la que puedes entrar caminando"></a><br>
+<b><a href="https://claude.ai/artifact/R6YBDkAm2GjAC5A65D9djx">Una demo de Claude a la que puedes entrar caminando</a></b><br>
+<sub><a href="https://x.com/dfeinition">@dfeinition</a> · ♥ 213 · <a href="https://x.com/dfeinition/status/2120330644261589051">▶ Video</a></sub><br>
+<sub>Inspirada en @rileybrown: entra y siéntate frente a cualquier computadora.</sub><br>
+<sub><a href="https://fablelist.000ooo.ooo/es/prompts/?w=a-claude-demo-you-can-walk-into&ref=gh"><b>✨ Consigue el prompt</b></a></sub>
+</td>
+</tr>
+<tr>
+<td width="33%" valign="top">
+<a href="https://claude.ai/artifact/2PBXuQAnWDS2NpiPXHNLfL"><img src="assets/gifs/028.gif" width="100%" alt="Orca Jelly"></a><br>
+<b><a href="https://claude.ai/artifact/2PBXuQAnWDS2NpiPXHNLfL">Orca Jelly</a></b><br>
+<sub><a href="https://x.com/vib3coded">@vib3coded</a> · ♥ 203 · <a href="https://x.com/vib3coded/status/2119951060752375827">▶ Video</a></sub><br>
+<sub>Un estudio de material de orca de gomita con cuerpo blando. Se enlaza la versión de Opus 5.5 para comparar.</sub><br>
+<sub><a href="https://claude.ai/artifact/75KLotWzZQ5RR23BGLePb8">Opus 5.5 version</a></sub><br>
+<sub><a href="https://x.com/vib3coded/status/2119951060752375827">📝 Prompt del creador (gratis)</a></sub>
+</td>
+<td width="33%" valign="top">
+<a href="https://planet.tokyoaivisuals.club/"><img src="assets/gifs/266.gif" width="100%" alt="Code Planet"></a><br>
+<b><a href="https://planet.tokyoaivisuals.club/">Code Planet</a></b><br>
+<sub><a href="https://x.com/KanaWorks_AI">@KanaWorks_AI</a> · ♥ 198 · <a href="https://x.com/KanaWorks_AI/status/2121413647213932688">▶ Video</a></sub><br>
+<sub>Un planeta entero en menos de 320 KB de código. Vuela desde el mar y las praderas, pasando por cerezos en flor, hasta el espacio, directo en el navegador.</sub>
+</td>
+<td width="33%" valign="top">
+<a href="https://butterfly.kyzo.io"><img src="assets/gifs/314.gif" width="100%" alt="Hidden Layers: una mariposa de cristal en un invernadero"></a><br>
+<b><a href="https://butterfly.kyzo.io">Hidden Layers: una mariposa de cristal en un invernadero</a></b><br>
+<sub>🆕 · <a href="https://x.com/ky__zo">@ky__zo</a> · ♥ 182 · <a href="https://x.com/ky__zo/status/2122274109795054036">▶ Video</a></sub><br>
+<sub>Desplázate para volar con una mariposa de cristal que no puede salir de un invernadero a través de seis mundos. three.js puro, sin archivos de modelos ni texturas; costó 1.32 mil millones de tokens y $905 de API.</sub>
+</td>
+</tr>
+<tr>
+<td width="33%" valign="top">
+<a href="https://claude.ai/artifact/9EgZpErM17kH2a9Q3WXW6f"><img src="assets/gifs/027.gif" width="100%" alt="Voxel World in a Bottle"></a><br>
+<b><a href="https://claude.ai/artifact/9EgZpErM17kH2a9Q3WXW6f">Voxel World in a Bottle</a></b><br>
+<sub><a href="https://x.com/vib3coded">@vib3coded</a> · ♥ 162 · <a href="https://x.com/vib3coded/status/2120104517282775514">▶ Video</a></sub><br>
+<sub>30 minutos, $12.81.</sub><br>
+<sub><a href="https://x.com/vib3coded/status/2120104517282775514">📝 Prompt del creador (gratis)</a></sub>
+</td>
+<td width="33%" valign="top">
+<a href="https://github.com/Leonxlnx/beautiful-wonderland"><img src="assets/gifs/301.gif" width="100%" alt="Beautiful Wonderland"></a><br>
+<b><a href="https://github.com/Leonxlnx/beautiful-wonderland">Beautiful Wonderland</a></b><br>
+<sub>🆕 · <a href="https://x.com/LexnLin">@LexnLin</a> · ♥ 143 · <a href="https://x.com/LexnLin/status/2122056542778535977">▶ Video</a></sub><br>
+<sub>Un pequeño mundo pintado en three.js, más un corto de 40 segundos en 4K renderizado a partir de él.</sub>
+</td>
+<td width="33%" valign="top">
+<a href="https://patch.gg/blendi/impossible-spaces"><img src="assets/gifs/135.gif" width="100%" alt="Impossible Spaces"></a><br>
+<b><a href="https://patch.gg/blendi/impossible-spaces">Impossible Spaces</a></b><br>
+<sub><a href="https://x.com/BlendiByl">@BlendiByl</a> · ♥ 137 · <a href="https://x.com/BlendiByl/status/2120314459793355262">▶ Video</a></sub><br>
+<sub>Una experiencia psicodélica de "espacios imposibles". Código abierto.</sub><br>
+<sub><a href="https://fablelist.000ooo.ooo/es/prompts/?w=impossible-spaces&ref=gh"><b>✨ Consigue el prompt</b></a></sub>
+</td>
+</tr>
+<tr>
+<td width="33%" valign="top">
+<a href="https://claude.ai/artifact/7ge282etTXSS4edGFTFa85"><img src="assets/gifs/026.gif" width="100%" alt="3D Sailing Ship"></a><br>
+<b><a href="https://claude.ai/artifact/7ge282etTXSS4edGFTFa85">3D Sailing Ship</a></b><br>
+<sub><a href="https://x.com/marcthecreatorr">@marcthecreatorr</a> · ♥ 112 · <a href="https://x.com/marcthecreatorr/status/2119890973560054072">▶ Video</a></sub><br>
+<sub>Three.js puro, sin Blender ni recursos externos. ~38 minutos, ~$17.</sub><br>
+<sub><a href="https://fablelist.000ooo.ooo/es/prompts/?w=3d-sailing-ship&ref=gh"><b>✨ Consigue el prompt</b></a></sub>
+</td>
+<td width="33%" valign="top">
+<a href="https://tests.jazii.dev/"><img src="assets/gifs/025.gif" width="100%" alt="Pirate Ship"></a><br>
+<b><a href="https://tests.jazii.dev/">Pirate Ship</a></b><br>
+<sub><a href="https://x.com/notjazii">@notjazii</a> · ♥ 110 · <a href="https://x.com/notjazii/status/2119905661505122575">▶ Video</a></sub><br>
+<sub>Un intento, ~1.5 horas, ~35M de tokens (~$34).</sub><br>
+<sub><a href="https://fablelist.000ooo.ooo/es/prompts/?w=pirate-ship&ref=gh"><b>✨ Consigue el prompt</b></a></sub>
 </td>
 </tr>
 </table>
@@ -369,6 +633,96 @@
 <sub><a href="https://x.com/kieranklaassen">@kieranklaassen</a> · ♥ 895 · <a href="https://x.com/kieranklaassen/status/2119868196773929160">▶ Video</a></sub><br>
 <sub>Un DAW ambient construido en una semana de noches por un excompositor de cine: soporte para Ableton Push, micrófonos, efectos, un sintetizador y un agente que compone contigo. Haz clic en "Try it" en la página.</sub><br>
 <sub><a href="https://fablelist.000ooo.ooo/es/prompts/?w=ambient-town&ref=gh"><b>✨ Consigue el prompt</b></a></sub>
+</td>
+</tr>
+<tr>
+<td width="33%" valign="top">
+<a href="https://itspsneha.com/supplements"><img src="assets/gifs/037.gif" width="100%" alt="Qué vitaminas comprar en India"></a><br>
+<b><a href="https://itspsneha.com/supplements">Qué vitaminas comprar en India</a></b><br>
+<sub><a href="https://x.com/itspsneha">@itspsneha</a> · ♥ 738 · <a href="https://x.com/itspsneha/status/2120048494761451974">Publicación</a></sub><br>
+<sub>Hecho tras leer los informes de laboratorio de 109 lotes analizados.</sub><br>
+<sub><a href="https://fablelist.000ooo.ooo/es/prompts/?w=which-vitamins-to-buy-in-india&ref=gh"><b>✨ Consigue el prompt</b></a></sub>
+</td>
+<td width="33%" valign="top">
+<a href="https://v2.video/riley/the-history-of-writing/v1"><img src="assets/gifs/039.gif" width="100%" alt="The History of Writing"></a><br>
+<b><a href="https://v2.video/riley/the-history-of-writing/v1">The History of Writing</a></b><br>
+<sub><a href="https://x.com/rileybrown">@rileybrown</a> · ♥ 667 · <a href="https://x.com/rileybrown/status/2119946022767980985">▶ Video</a></sub><br>
+<sub>Una película interactiva a partir de un solo prompt; prompt y archivos compartidos.</sub><br>
+<sub><a href="https://x.com/rileybrown/status/2119946022767980985">📝 Prompt del creador (gratis)</a></sub>
+</td>
+<td width="33%" valign="top">
+<a href="https://auden-english-135.netlify.app/"><img src="assets/gifs/281.gif" width="100%" alt="La clase de poesía perdida de Auden de 1941, reconstruida"></a><br>
+<b><a href="https://auden-english-135.netlify.app/">La clase de poesía perdida de Auden de 1941, reconstruida</a></b><br>
+<sub>🆕 · <a href="https://x.com/emollick">@emollick</a> · ♥ 594 · <a href="https://x.com/emollick/status/2121641417483169934">Publicación</a></sub><br>
+<sub>Fable 5.2 reconstruyó la clase de W. H. Auden, "la más difícil de las humanidades", a partir de un libro poco conocido del Internet Archive y notas dispersas.</sub>
+</td>
+</tr>
+<tr>
+<td width="33%" valign="top">
+<a href="https://where-is-everybody-fermi.netlify.app/"><img src="assets/gifs/146.gif" width="100%" alt="Where Is Everybody?"></a><br>
+<b><a href="https://where-is-everybody-fermi.netlify.app/">Where Is Everybody?</a></b><br>
+<sub><a href="https://x.com/emollick">@emollick</a> · ♥ 456 · <a href="https://x.com/emollick/status/2120359214157603139">Publicación</a></sub><br>
+<sub>Al pedirle "resolver la paradoja de Fermi", reúne datos, pone a prueba hipótesis y las somete a la crítica de sus detractores.</sub><br>
+<sub><a href="https://resolving-the-great-silence.netlify.app/">Gemini Carbon version</a></sub><br>
+<sub><a href="https://x.com/emollick/status/2120359214157603139">📝 Prompt del creador (gratis)</a></sub>
+</td>
+<td width="33%" valign="top">
+<a href="https://gsplan.org"><img src="assets/gifs/206.gif" width="100%" alt="Vista de asientos de Galatasaray"></a><br>
+<b><a href="https://gsplan.org">Vista de asientos de Galatasaray</a></b><br>
+<sub><a href="https://x.com/molenbeek84">@molenbeek84</a> · ♥ 429 · <a href="https://x.com/molenbeek84/status/2120847639411331097">Publicación</a></sub><br>
+<sub>Mira la vista de la cancha desde cada sector del RAMS Park antes de comprar un boleto.</sub><br>
+<sub><a href="https://fablelist.000ooo.ooo/es/prompts/?w=galatasaray-seat-view&ref=gh"><b>✨ Consigue el prompt</b></a></sub>
+</td>
+<td width="33%" valign="top">
+<a href="https://www.bubbbly.com/christmas-cards"><img src="assets/gifs/315.gif" width="100%" alt="Christmas Cards: tarjetas de Navidad interactivas"></a><br>
+<b><a href="https://www.bubbbly.com/christmas-cards">Christmas Cards: tarjetas de Navidad interactivas</a></b><br>
+<sub>🆕 · <a href="https://x.com/ann_nnng">@ann_nnng</a> · ♥ 259 · <a href="https://x.com/ann_nnng/status/2122283549000712249">▶ Video</a></sub><br>
+<sub>Un conjunto de tarjetas de Navidad interactivas, como un gato con bufanda roja en un alféizar viendo caer la nieve.</sub>
+</td>
+</tr>
+<tr>
+<td width="33%" valign="top">
+<a href="https://origamihelper.com"><img src="assets/gifs/220.gif" width="100%" alt="Origami Helper"></a><br>
+<b><a href="https://origamihelper.com">Origami Helper</a></b><br>
+<sub><a href="https://x.com/ryoma_nakajima">@ryoma_nakajima</a> · ♥ 219 · <a href="https://x.com/ryoma_nakajima/status/2120472383241011323">▶ Video</a></sub><br>
+<sub>Aprende pliegues de origami en 3D desde cualquier ángulo, con AR. Gratis, sin registro, hecho en un día.</sub><br>
+<sub><a href="https://fablelist.000ooo.ooo/es/prompts/?w=origami-helper&ref=gh"><b>✨ Consigue el prompt</b></a></sub>
+</td>
+<td width="33%" valign="top">
+<a href="https://typed.page/"><img src="assets/gifs/036.gif" width="100%" alt="Typed"></a><br>
+<b><a href="https://typed.page/">Typed</a></b><br>
+<sub><a href="https://x.com/clairevo">@clairevo</a> · ♥ 205 · <a href="https://x.com/clairevo/status/2119905651359142132">▶ Video</a></sub><br>
+<sub>Una máquina de escribir totalmente funcional: escribe o haz clic en las teclas, temporizadores de escritura, corrector líquido y autocorrección.</sub><br>
+<sub><a href="https://fablelist.000ooo.ooo/es/prompts/?w=typed&ref=gh"><b>✨ Consigue el prompt</b></a></sub>
+</td>
+<td width="33%" valign="top">
+<a href="https://clockendbader.github.io/fable-builds/heartbeat/"><img src="assets/gifs/259.gif" width="100%" alt="One Heartbeat"></a><br>
+<b><a href="https://clockendbader.github.io/fable-builds/heartbeat/">One Heartbeat</a></b><br>
+<sub><a href="https://x.com/clockendbader">@clockendbader</a> · ♥ 153 · <a href="https://x.com/clockendbader/status/2121246903207961069">Publicación</a></sub><br>
+<sub>Un corazón 3D latiendo con ECG y trazas de presión en vivo y sonidos cardíacos; compara ritmo normal, fibrilación auricular, bloqueo cardíaco y estenosis aórtica. También escribió sus propias pruebas.</sub><br>
+<sub><a href="https://fablelist.000ooo.ooo/es/prompts/?w=one-heartbeat&ref=gh"><b>✨ Consigue el prompt</b></a></sub>
+</td>
+</tr>
+<tr>
+<td width="33%" valign="top">
+<a href="https://patch.gg/patch/anymove"><img src="assets/gifs/149.gif" width="100%" alt="anymove"></a><br>
+<b><a href="https://patch.gg/patch/anymove">anymove</a></b><br>
+<sub><a href="https://x.com/rehan_shei">@rehan_shei</a> · ♥ 141 · <a href="https://x.com/rehan_shei/status/2120409150870159414">▶ Video</a></sub><br>
+<sub>Traslada los movimientos de un clip de video de IA a un rig 3D real, sin traje de mocap ni keyframes. Código abierto.</sub><br>
+<sub><a href="https://fablelist.000ooo.ooo/es/prompts/?w=anymove&ref=gh"><b>✨ Consigue el prompt</b></a></sub>
+</td>
+<td width="33%" valign="top">
+<a href="https://motionsites.ai/?prompt=vante-ribbon-hero"><img src="assets/gifs/048.gif" width="100%" alt="Ribbon Hero"></a><br>
+<b><a href="https://motionsites.ai/?prompt=vante-ribbon-hero">Ribbon Hero</a></b><br>
+<sub><a href="https://x.com/viktoroddy">@viktoroddy</a> · ♥ 139 · <a href="https://x.com/viktoroddy/status/2119985044542705916">▶ Video</a></sub><br>
+<sub>Una sección hero hecha con Fable 5.2 + GPT Image 2.6.</sub>
+</td>
+<td width="33%" valign="top">
+<a href="https://nikechan.com/"><img src="assets/gifs/049.gif" width="100%" alt="Rediseño de nikechan.com"></a><br>
+<b><a href="https://nikechan.com/">Rediseño de nikechan.com</a></b><br>
+<sub><a href="https://x.com/tegnike">@tegnike</a> · ♥ 130 · <a href="https://x.com/tegnike/status/2120110145841578173">Publicación</a></sub><br>
+<sub>Un sitio personal rediseñado de principio a fin.</sub><br>
+<sub><a href="https://fablelist.000ooo.ooo/es/prompts/?w=nikechan-com-redesign&ref=gh"><b>✨ Consigue el prompt</b></a></sub>
 </td>
 </tr>
 </table>
@@ -555,6 +909,185 @@ Los creadores publicaron un video pero no un enlace. Haz clic en la vista previa
 <sub><a href="https://x.com/aollivier82">@aollivier82</a> · ♥ 3.2k · <a href="https://x.com/aollivier82/status/2120260208245043663">▶ Video</a></sub><br>
 <br>
 <sub><a href="https://fablelist.000ooo.ooo/es/prompts/?w=the-history-of-computer-graphics-animated&ref=gh"><b>✨ Consigue el prompt</b></a></sub>
+</td>
+</tr>
+<tr>
+<td width="33%" valign="top">
+<a href="https://x.com/timhwang/status/2122011842549600506"><img src="assets/gifs/303.gif" width="100%" alt="Un chatbot de 6M de parámetros en un cartucho de Game Boy"></a><br>
+<b><a href="https://x.com/timhwang/status/2122011842549600506">Un chatbot de 6M de parámetros en un cartucho de Game Boy</a></b><br>
+<sub>🆕 · <a href="https://x.com/timhwang">@timhwang</a> · ♥ 3.2k · <a href="https://x.com/timhwang/status/2122011842549600506">▶ Video</a></sub><br>
+
+</td>
+<td width="33%" valign="top">
+<a href="https://x.com/M__Houser/status/2120253236309569696"><img src="assets/gifs/154.gif" width="100%" alt="Age of Dragon, un mundo abierto hecho por alguien que no programa"></a><br>
+<b><a href="https://x.com/M__Houser/status/2120253236309569696">Age of Dragon, un mundo abierto hecho por alguien que no programa</a></b><br>
+<sub><a href="https://x.com/M__Houser">@M__Houser</a> · ♥ 2.6k · <a href="https://x.com/M__Houser/status/2120253236309569696">▶ Video</a></sub><br>
+<br>
+<sub><a href="https://fablelist.000ooo.ooo/es/prompts/?w=age-of-dragon-an-open-world-by-a&ref=gh"><b>✨ Consigue el prompt</b></a></sub>
+</td>
+<td width="33%" valign="top">
+<a href="https://x.com/aecyydesign/status/2120239401821487149"><img src="assets/gifs/209.gif" width="100%" alt="Una animación hecha con Blender"></a><br>
+<b><a href="https://x.com/aecyydesign/status/2120239401821487149">Una animación hecha con Blender</a></b><br>
+<sub><a href="https://x.com/aecyydesign">@aecyydesign</a> · ♥ 2.5k · <a href="https://x.com/aecyydesign/status/2120239401821487149">▶ Video</a></sub><br>
+<br>
+<sub><a href="https://fablelist.000ooo.ooo/es/prompts/?w=an-animation-made-with-blender&ref=gh"><b>✨ Consigue el prompt</b></a></sub>
+</td>
+</tr>
+<tr>
+<td width="33%" valign="top">
+<a href="https://x.com/alexalbert__/status/2119916954337349737"><img src="assets/gifs/062.gif" width="100%" alt="Los cuadernos de Da Vinci, interactivos"></a><br>
+<b><a href="https://x.com/alexalbert__/status/2119916954337349737">Los cuadernos de Da Vinci, interactivos</a></b><br>
+<sub><a href="https://x.com/alexalbert__">@alexalbert__</a> · ♥ 2.5k · <a href="https://x.com/alexalbert__/status/2119916954337349737">▶ Video</a></sub><br>
+<sub>Un PDF de cuaderno de hace 500 años convertido en inventos con los que puedes jugar.</sub><br>
+<sub><a href="https://fablelist.000ooo.ooo/es/prompts/?w=da-vinci-s-notebooks-interactive&ref=gh"><b>✨ Consigue el prompt</b></a></sub>
+</td>
+<td width="33%" valign="top">
+<a href="https://x.com/ChrisGPT/status/2119998815856218494"><img src="assets/gifs/066.gif" width="100%" alt="Un mensaje para los editores de video"></a><br>
+<b><a href="https://x.com/ChrisGPT/status/2119998815856218494">Un mensaje para los editores de video</a></b><br>
+<sub><a href="https://x.com/ChrisGPT">@ChrisGPT</a> · ♥ 2.5k · <a href="https://x.com/ChrisGPT/status/2119998815856218494">▶ Video</a></sub><br>
+<br>
+<sub><a href="https://fablelist.000ooo.ooo/es/prompts/?w=a-message-to-video-editors&ref=gh"><b>✨ Consigue el prompt</b></a></sub>
+</td>
+<td width="33%" valign="top">
+<a href="https://x.com/hayashimon1/status/2121943011525624151"><img src="assets/gifs/311.gif" width="100%" alt="Un paseo por el andén de una vieja estación, con Blender MCP"></a><br>
+<b><a href="https://x.com/hayashimon1/status/2121943011525624151">Un paseo por el andén de una vieja estación, con Blender MCP</a></b><br>
+<sub>🆕 · <a href="https://x.com/hayashimon1">@hayashimon1</a> · ♥ 2.4k · <a href="https://x.com/hayashimon1/status/2121943011525624151">▶ Video</a></sub><br>
+
+</td>
+</tr>
+<tr>
+<td width="33%" valign="top">
+<a href="https://x.com/theo/status/2119926277801144695"><img src="assets/gifs/063.gif" width="100%" alt="Fishslop run"></a><br>
+<b><a href="https://x.com/theo/status/2119926277801144695">Fishslop run</a></b><br>
+<sub><a href="https://x.com/theo">@theo</a> · ♥ 2.3k · <a href="https://x.com/theo/status/2119926277801144695">▶ Video</a></sub><br>
+<sub>76 minutos, ~$42.</sub><br>
+<sub><a href="https://fablelist.000ooo.ooo/es/prompts/?w=fishslop-run&ref=gh"><b>✨ Consigue el prompt</b></a></sub>
+</td>
+<td width="33%" valign="top">
+<a href="https://x.com/GPTabby/status/2119909996645298519"><img src="assets/gifs/210.gif" width="100%" alt="Un juego de carreras en Unreal Engine 5 con un solo prompt"></a><br>
+<b><a href="https://x.com/GPTabby/status/2119909996645298519">Un juego de carreras en Unreal Engine 5 con un solo prompt</a></b><br>
+<sub><a href="https://x.com/GPTabby">@GPTabby</a> · ♥ 2.2k · <a href="https://x.com/GPTabby/status/2119909996645298519">▶ Video</a></sub><br>
+<br>
+<sub><a href="https://fablelist.000ooo.ooo/es/prompts/?w=a-racing-game-in-unreal-engine-5-from&ref=gh"><b>✨ Consigue el prompt</b></a></sub>
+</td>
+<td width="33%" valign="top">
+<a href="https://x.com/ryoma_nakajima/status/2120052388434473233"><img src="assets/gifs/211.gif" width="100%" alt="Por fin puede doblar origami"></a><br>
+<b><a href="https://x.com/ryoma_nakajima/status/2120052388434473233">Por fin puede doblar origami</a></b><br>
+<sub><a href="https://x.com/ryoma_nakajima">@ryoma_nakajima</a> · ♥ 2.0k · <a href="https://x.com/ryoma_nakajima/status/2120052388434473233">▶ Video</a></sub><br>
+<br>
+<sub><a href="https://x.com/ryoma_nakajima/status/2120052388434473233">📝 Prompt del creador (gratis)</a></sub>
+</td>
+</tr>
+<tr>
+<td width="33%" valign="top">
+<a href="https://x.com/_sholtodouglas/status/2119935331499925557"><img src="assets/gifs/064.gif" width="100%" alt="FPS de arena con portales"></a><br>
+<b><a href="https://x.com/_sholtodouglas/status/2119935331499925557">FPS de arena con portales</a></b><br>
+<sub><a href="https://x.com/_sholtodouglas">@_sholtodouglas</a> · ♥ 2.0k · <a href="https://x.com/_sholtodouglas/status/2119935331499925557">▶ Video</a></sub><br>
+<sub>Probado en la oficina.</sub><br>
+<sub><a href="https://fablelist.000ooo.ooo/es/prompts/?w=arena-fps-with-portals&ref=gh"><b>✨ Consigue el prompt</b></a></sub>
+</td>
+<td width="33%" valign="top">
+<a href="https://x.com/alexmichael/status/2119876626179870838"><img src="assets/gifs/212.gif" width="100%" alt="Un video completo escribiendo Python para Blender"></a><br>
+<b><a href="https://x.com/alexmichael/status/2119876626179870838">Un video completo escribiendo Python para Blender</a></b><br>
+<sub><a href="https://x.com/alexmichael">@alexmichael</a> · ♥ 1.9k · <a href="https://x.com/alexmichael/status/2119876626179870838">▶ Video</a></sub><br>
+<br>
+<sub><a href="https://fablelist.000ooo.ooo/es/prompts/?w=a-whole-video-made-by-writing-python-for&ref=gh"><b>✨ Consigue el prompt</b></a></sub>
+</td>
+<td width="33%" valign="top">
+<a href="https://x.com/Kashiko_AIart/status/2120640633346097400"><img src="assets/gifs/214.gif" width="100%" alt="&quot;Muéstrame tu trabajo&quot;"></a><br>
+<b><a href="https://x.com/Kashiko_AIart/status/2120640633346097400">"Muéstrame tu trabajo"</a></b><br>
+<sub><a href="https://x.com/Kashiko_AIart">@Kashiko_AIart</a> · ♥ 1.8k · <a href="https://x.com/Kashiko_AIart/status/2120640633346097400">▶ Video</a></sub><br>
+<br>
+<sub><a href="https://fablelist.000ooo.ooo/es/prompts/?w=show-me-your-work&ref=gh"><b>✨ Consigue el prompt</b></a></sub>
+</td>
+</tr>
+<tr>
+<td width="33%" valign="top">
+<a href="https://x.com/chrisjdimarco/status/2120752985949057215"><img src="assets/gifs/276.gif" width="100%" alt="Un enjambre de 1.048.576 nanobots que se transforman en una mano, una ballena, un cohete o una doble hélice de ADN"></a><br>
+<b><a href="https://x.com/chrisjdimarco/status/2120752985949057215">Un enjambre de 1.048.576 nanobots que se transforman en una mano, una ballena, un cohete o una doble hélice de ADN</a></b><br>
+<sub><a href="https://x.com/chrisjdimarco">@chrisjdimarco</a> · ♥ 1.7k · <a href="https://x.com/chrisjdimarco/status/2120752985949057215">▶ Video</a></sub><br>
+
+</td>
+<td width="33%" valign="top">
+<a href="https://x.com/_MaxBlade/status/2120109725740159390"><img src="assets/gifs/093.gif" width="100%" alt="4 horas en Unreal Engine 5.9 con MCP"></a><br>
+<b><a href="https://x.com/_MaxBlade/status/2120109725740159390">4 horas en Unreal Engine 5.9 con MCP</a></b><br>
+<sub><a href="https://x.com/_MaxBlade">@_MaxBlade</a> · ♥ 1.7k · <a href="https://x.com/_MaxBlade/status/2120109725740159390">▶ Video</a></sub><br>
+<br>
+<sub><a href="https://fablelist.000ooo.ooo/es/prompts/?w=4-hours-in-unreal-engine-5-9-via&ref=gh"><b>✨ Consigue el prompt</b></a></sub>
+</td>
+<td width="33%" valign="top">
+<a href="https://x.com/LexnLin/status/2119880654858977333"><img src="assets/gifs/065.gif" width="100%" alt="Escena 3D con cámara rápida"></a><br>
+<b><a href="https://x.com/LexnLin/status/2119880654858977333">Escena 3D con cámara rápida</a></b><br>
+<sub><a href="https://x.com/LexnLin">@LexnLin</a> · ♥ 1.7k · <a href="https://x.com/LexnLin/status/2119880654858977333">▶ Video</a></sub><br>
+<sub>30 minutos con algunos subagentes de Opus 5.5.</sub><br>
+<sub><a href="https://fablelist.000ooo.ooo/es/prompts/?w=fast-camera-3d-scene&ref=gh"><b>✨ Consigue el prompt</b></a></sub>
+</td>
+</tr>
+<tr>
+<td width="33%" valign="top">
+<a href="https://x.com/JungleSilicon/status/2120452158961397975"><img src="assets/gifs/213.gif" width="100%" alt="Gaussian splats en pixel art"></a><br>
+<b><a href="https://x.com/JungleSilicon/status/2120452158961397975">Gaussian splats en pixel art</a></b><br>
+<sub><a href="https://x.com/JungleSilicon">@JungleSilicon</a> · ♥ 1.6k · <a href="https://x.com/JungleSilicon/status/2120452158961397975">▶ Video</a></sub><br>
+<br>
+<sub><a href="https://fablelist.000ooo.ooo/es/prompts/?w=pixel-art-gaussian-splats&ref=gh"><b>✨ Consigue el prompt</b></a></sub>
+</td>
+<td width="33%" valign="top">
+<a href="https://x.com/MrTacticalX/status/2119955647542542439"><img src="assets/gifs/069.gif" width="100%" alt="Glass Pool (Fable vs Opus)"></a><br>
+<b><a href="https://x.com/MrTacticalX/status/2119955647542542439">Glass Pool (Fable vs Opus)</a></b><br>
+<sub><a href="https://x.com/MrTacticalX">@MrTacticalX</a> · ♥ 1.5k · <a href="https://x.com/MrTacticalX/status/2119955647542542439">▶ Video</a></sub><br>
+<br>
+<sub><a href="https://fablelist.000ooo.ooo/es/prompts/?w=glass-pool-fable-vs-opus&ref=gh"><b>✨ Consigue el prompt</b></a></sub>
+</td>
+<td width="33%" valign="top">
+<a href="https://x.com/ryanvogel/status/2122000027543617844"><img src="assets/gifs/304.gif" width="100%" alt="Un corto de Portal 2 renderizado en Blender"></a><br>
+<b><a href="https://x.com/ryanvogel/status/2122000027543617844">Un corto de Portal 2 renderizado en Blender</a></b><br>
+<sub>🆕 · <a href="https://x.com/ryanvogel">@ryanvogel</a> · ♥ 1.5k · <a href="https://x.com/ryanvogel/status/2122000027543617844">▶ Video</a></sub><br>
+
+</td>
+</tr>
+<tr>
+<td width="33%" valign="top">
+<a href="https://x.com/akakuma0219/status/2120030634248929556"><img src="assets/gifs/155.gif" width="100%" alt="Ciclos de carrera de previz a partir de tres palabras"></a><br>
+<b><a href="https://x.com/akakuma0219/status/2120030634248929556">Ciclos de carrera de previz a partir de tres palabras</a></b><br>
+<sub><a href="https://x.com/akakuma0219">@akakuma0219</a> · ♥ 1.4k · <a href="https://x.com/akakuma0219/status/2120030634248929556">▶ Video</a></sub><br>
+<br>
+<sub><a href="https://fablelist.000ooo.ooo/es/prompts/?w=previz-run-cycles-from-three-words&ref=gh"><b>✨ Consigue el prompt</b></a></sub>
+</td>
+<td width="33%" valign="top">
+<a href="https://x.com/DeryaTR_/status/2120382619082727604"><img src="assets/gifs/238.gif" width="100%" alt="La vida de una célula T, una película de 8 minutos"></a><br>
+<b><a href="https://x.com/DeryaTR_/status/2120382619082727604">La vida de una célula T, una película de 8 minutos</a></b><br>
+<sub><a href="https://x.com/DeryaTR_">@DeryaTR_</a> · ♥ 1.4k · <a href="https://x.com/DeryaTR_/status/2120382619082727604">▶ Video</a></sub><br>
+<br>
+<sub><a href="https://fablelist.000ooo.ooo/es/prompts/?w=the-life-of-a-t-cell-an-8&ref=gh"><b>✨ Consigue el prompt</b></a></sub>
+</td>
+<td width="33%" valign="top">
+<a href="https://x.com/RezAIT00/status/2120498246426706176"><img src="assets/gifs/193.gif" width="100%" alt="Desperté con esto: entorno de juego en Blender + Unreal"></a><br>
+<b><a href="https://x.com/RezAIT00/status/2120498246426706176">Desperté con esto: entorno de juego en Blender + Unreal</a></b><br>
+<sub><a href="https://x.com/RezAIT00">@RezAIT00</a> · ♥ 1.3k · <a href="https://x.com/RezAIT00/status/2120498246426706176">▶ Video</a></sub><br>
+<br>
+<sub><a href="https://fablelist.000ooo.ooo/es/prompts/?w=woke-up-to-this-game-environment-in-blender&ref=gh"><b>✨ Consigue el prompt</b></a></sub>
+</td>
+</tr>
+<tr>
+<td width="33%" valign="top">
+<a href="https://x.com/xikhar/status/2119966147328299284"><img src="assets/gifs/156.gif" width="100%" alt="Bugatti Tourbillon modelado y renderizado en Blender"></a><br>
+<b><a href="https://x.com/xikhar/status/2119966147328299284">Bugatti Tourbillon modelado y renderizado en Blender</a></b><br>
+<sub><a href="https://x.com/xikhar">@xikhar</a> · ♥ 1.3k · <a href="https://x.com/xikhar/status/2119966147328299284">▶ Video</a></sub><br>
+<br>
+<sub><a href="https://x.com/xikhar/status/2119966147328299284">📝 Prompt del creador (gratis)</a></sub>
+</td>
+<td width="33%" valign="top">
+<a href="https://x.com/KHvostikk/status/2119939061049889130"><img src="assets/gifs/215.gif" width="100%" alt="De video a animación 3D"></a><br>
+<b><a href="https://x.com/KHvostikk/status/2119939061049889130">De video a animación 3D</a></b><br>
+<sub><a href="https://x.com/KHvostikk">@KHvostikk</a> · ♥ 1.2k · <a href="https://x.com/KHvostikk/status/2119939061049889130">▶ Video</a></sub><br>
+<br>
+<sub><a href="https://fablelist.000ooo.ooo/es/prompts/?w=video-to-3d-animation&ref=gh"><b>✨ Consigue el prompt</b></a></sub>
+</td>
+<td width="33%" valign="top">
+<a href="https://x.com/chetaslua/status/2119870650722763052"><img src="assets/gifs/067.gif" width="100%" alt="Un sistema operativo desde una carpeta vacía"></a><br>
+<b><a href="https://x.com/chetaslua/status/2119870650722763052">Un sistema operativo desde una carpeta vacía</a></b><br>
+<sub><a href="https://x.com/chetaslua">@chetaslua</a> · ♥ 1.2k · <a href="https://x.com/chetaslua/status/2119870650722763052">▶ Video</a></sub><br>
+<sub>Demo de Anthropic con más de 1,000 agentes coordinados.</sub>
 </td>
 </tr>
 </table>
