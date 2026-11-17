@@ -46,21 +46,21 @@
 <sub><a href="https://fablelist.000ooo.ooo/zh/prompts/?w=keep-password-strength-meter&ref=gh"><b>✨ 获取提示词</b></a></sub>
 </td>
 <td width="33%" valign="top">
+<a href="https://sakuga-vfx.vercel.app"><img src="../assets/gifs/299.gif" width="100%" alt="Sakuga Set 动画感 UI 控件"></a><br>
+<b><a href="https://sakuga-vfx.vercel.app">Sakuga Set 动画感 UI 控件</a></b><br>
+<sub>🆕 · <a href="https://x.com/crtvTeknologist">@crtvTeknologist</a> · ♥ 1.4k · <a href="https://x.com/crtvTeknologist/status/2122088829565698218">▶ 视频</a></sub><br>
+<sub>12 个像日本动画一样有反应的 UI 控件：按钮压扁落地带「ドン!」，开关拖影溅开，滑块后面卷起云团；特效全是代码画的，单文件无依赖</sub><br>
+<sub><a href="https://github.com/finktheartist/sakuga-vfx">源码</a></sub>
+</td>
+</tr>
+<tr>
+<td width="33%" valign="top">
 <a href="https://masterofvfx2070.github.io/xray-mirror/"><img src="../assets/gifs/205.gif" width="100%" alt="X-Ray Mirror X 光镜子"></a><br>
 <b><a href="https://masterofvfx2070.github.io/xray-mirror/">X-Ray Mirror X 光镜子</a></b><br>
 <sub><a href="https://x.com/HashemGhaili">@HashemGhaili</a> · ♥ 1.4k · <a href="https://x.com/HashemGhaili/status/2120202746121085321">▶ 视频</a></sub><br>
 <sub>摄像头对着脸，实时看到头骨、大脑和肌肉；张嘴下巴跟着动，举起手能看到手骨，画面不出本机</sub><br>
 <sub><a href="https://github.com/MasterOfVFX2070/xray-mirror">源码</a></sub><br>
 <sub><a href="https://fablelist.000ooo.ooo/zh/prompts/?w=x-ray-mirror&ref=gh"><b>✨ 获取提示词</b></a></sub>
-</td>
-</tr>
-<tr>
-<td width="33%" valign="top">
-<a href="https://sakuga-vfx.vercel.app"><img src="../assets/gifs/299.gif" width="100%" alt="Sakuga Set 动画感 UI 控件"></a><br>
-<b><a href="https://sakuga-vfx.vercel.app">Sakuga Set 动画感 UI 控件</a></b><br>
-<sub>🆕 · <a href="https://x.com/crtvTeknologist">@crtvTeknologist</a> · ♥ 1.4k · <a href="https://x.com/crtvTeknologist/status/2122088829565698218">▶ 视频</a></sub><br>
-<sub>12 个像日本动画一样有反应的 UI 控件：按钮压扁落地带「ドン!」，开关拖影溅开，滑块后面卷起云团；特效全是代码画的，单文件无依赖</sub><br>
-<sub><a href="https://github.com/finktheartist/sakuga-vfx">源码</a></sub>
 </td>
 <td width="33%" valign="top">
 <a href="https://xianxie6.github.io/animals-planner-2027/"><img src="../assets/gifs/181.gif" width="100%" alt="动物也上班 3D 电子手帐"></a><br>
@@ -94,7 +94,7 @@
 <td width="33%" valign="top">
 <a href="https://frontier.every.to/experiments/ambient-town"><img src="../assets/gifs/148.gif" width="100%" alt="Ambient Town 氛围音乐工作站"></a><br>
 <b><a href="https://frontier.every.to/experiments/ambient-town">Ambient Town 氛围音乐工作站</a></b><br>
-<sub><a href="https://x.com/kieranklaassen">@kieranklaassen</a> · ♥ 895 · <a href="https://x.com/kieranklaassen/status/2119868196773929160">▶ 视频</a></sub><br>
+<sub><a href="https://x.com/kieranklaassen">@kieranklaassen</a> · ♥ 896 · <a href="https://x.com/kieranklaassen/status/2119868196773929160">▶ 视频</a></sub><br>
 <sub>前电影配乐师花一周晚上做的 DAW：支持 Ableton Push、多路麦克风、效果器，还有一起作曲的 Agent；页面里点 Try it</sub><br>
 <sub><a href="https://fablelist.000ooo.ooo/zh/prompts/?w=ambient-town&ref=gh"><b>✨ 获取提示词</b></a></sub>
 </td>
@@ -103,7 +103,7 @@
 <td width="33%" valign="top">
 <a href="https://itspsneha.com/supplements"><img src="../assets/gifs/037.gif" width="100%" alt="印度维生素该买哪些"></a><br>
 <b><a href="https://itspsneha.com/supplements">印度维生素该买哪些</a></b><br>
-<sub><a href="https://x.com/itspsneha">@itspsneha</a> · ♥ 738 · <a href="https://x.com/itspsneha/status/2120048494761451974">原帖</a></sub><br>
+<sub><a href="https://x.com/itspsneha">@itspsneha</a> · ♥ 739 · <a href="https://x.com/itspsneha/status/2120048494761451974">原帖</a></sub><br>
 <sub>读了 109 批检测报告做成的指南页</sub><br>
 <sub><a href="https://fablelist.000ooo.ooo/zh/prompts/?w=which-vitamins-to-buy-in-india&ref=gh"><b>✨ 获取提示词</b></a></sub>
 </td>
@@ -117,7 +117,7 @@
 <td width="33%" valign="top">
 <a href="https://auden-english-135.netlify.app/"><img src="../assets/gifs/281.gif" width="100%" alt="Auden 1941 年失传诗歌课复原"></a><br>
 <b><a href="https://auden-english-135.netlify.app/">Auden 1941 年失传诗歌课复原</a></b><br>
-<sub>🆕 · <a href="https://x.com/emollick">@emollick</a> · ♥ 594 · <a href="https://x.com/emollick/status/2121641417483169934">原帖</a></sub><br>
+<sub>🆕 · <a href="https://x.com/emollick">@emollick</a> · ♥ 593 · <a href="https://x.com/emollick/status/2121641417483169934">原帖</a></sub><br>
 <sub>让它复原诗人奥登 1941 年那门「人文学科最难」的课：从互联网档案馆的旧书和零散笔记里拼出可读的课程</sub>
 </td>
 </tr>
@@ -131,24 +131,24 @@
 <sub><a href="https://x.com/emollick/status/2120359214157603139">📝 作者公开的提示词（免费）</a></sub>
 </td>
 <td width="33%" valign="top">
+<a href="https://www.bubbbly.com/christmas-cards"><img src="../assets/gifs/315.gif" width="100%" alt="Christmas Cards 互动圣诞贺卡"></a><br>
+<b><a href="https://www.bubbbly.com/christmas-cards">Christmas Cards 互动圣诞贺卡</a></b><br>
+<sub>🆕 · <a href="https://x.com/ann_nnng">@ann_nnng</a> · ♥ 448 · <a href="https://x.com/ann_nnng/status/2122283549000712249">▶ 视频</a></sub><br>
+<sub>一组可以互动的圣诞贺卡，比如围红围巾的猫在窗台上看雪</sub>
+</td>
+<td width="33%" valign="top">
 <a href="https://gsplan.org"><img src="../assets/gifs/206.gif" width="100%" alt="加拉塔萨雷球场座位视角"></a><br>
 <b><a href="https://gsplan.org">加拉塔萨雷球场座位视角</a></b><br>
 <sub><a href="https://x.com/molenbeek84">@molenbeek84</a> · ♥ 429 · <a href="https://x.com/molenbeek84/status/2120847639411331097">原帖</a></sub><br>
 <sub>买票前看 RAMS Park 每个看台位置看到的球场</sub><br>
 <sub><a href="https://fablelist.000ooo.ooo/zh/prompts/?w=galatasaray-seat-view&ref=gh"><b>✨ 获取提示词</b></a></sub>
 </td>
-<td width="33%" valign="top">
-<a href="https://www.bubbbly.com/christmas-cards"><img src="../assets/gifs/315.gif" width="100%" alt="Christmas Cards 互动圣诞贺卡"></a><br>
-<b><a href="https://www.bubbbly.com/christmas-cards">Christmas Cards 互动圣诞贺卡</a></b><br>
-<sub>🆕 · <a href="https://x.com/ann_nnng">@ann_nnng</a> · ♥ 259 · <a href="https://x.com/ann_nnng/status/2122283549000712249">▶ 视频</a></sub><br>
-<sub>一组可以互动的圣诞贺卡，比如围红围巾的猫在窗台上看雪</sub>
-</td>
 </tr>
 <tr>
 <td width="33%" valign="top">
 <a href="https://origamihelper.com"><img src="../assets/gifs/220.gif" width="100%" alt="Origami Helper 3D 折纸教程"></a><br>
 <b><a href="https://origamihelper.com">Origami Helper 3D 折纸教程</a></b><br>
-<sub><a href="https://x.com/ryoma_nakajima">@ryoma_nakajima</a> · ♥ 219 · <a href="https://x.com/ryoma_nakajima/status/2120472383241011323">▶ 视频</a></sub><br>
+<sub><a href="https://x.com/ryoma_nakajima">@ryoma_nakajima</a> · ♥ 220 · <a href="https://x.com/ryoma_nakajima/status/2120472383241011323">▶ 视频</a></sub><br>
 <sub>3D 看折纸步骤，可以任意角度转，支持 AR，免费免注册，一天做完</sub><br>
 <sub><a href="https://fablelist.000ooo.ooo/zh/prompts/?w=origami-helper&ref=gh"><b>✨ 获取提示词</b></a></sub>
 </td>
@@ -193,30 +193,30 @@
 <td width="33%" valign="top">
 <a href="https://stormy.ai/hands"><img src="../assets/gifs/316.gif" width="100%" alt="Hands 机器人手讲解页"></a><br>
 <b><a href="https://stormy.ai/hands">Hands 机器人手讲解页</a></b><br>
-<sub>🆕 · <a href="https://x.com/Karmedge">@Karmedge</a> · ♥ 82 · <a href="https://x.com/Karmedge/status/2122394153497842080">▶ 视频</a></sub><br>
+<sub>🆕 · <a href="https://x.com/Karmedge">@Karmedge</a> · ♥ 130 · <a href="https://x.com/Karmedge/status/2122394153497842080">▶ 视频</a></sub><br>
 <sub>讲人形机器人的手怎么工作、为什么难做、成本多少的互动讲解页，花了 10 亿多 token</sub>
+</td>
+<td width="33%" valign="top">
+<a href="https://fieldnote-crm-pi.vercel.app"><img src="../assets/gifs/317.gif" width="100%" alt="Fieldnote CRM 仪表盘"></a><br>
+<b><a href="https://fieldnote-crm-pi.vercel.app">Fieldnote CRM 仪表盘</a></b><br>
+<sub>🆕 · <a href="https://x.com/dejvdesign">@dejvdesign</a> · ♥ 115 · <a href="https://x.com/dejvdesign/status/2122335319634874710">▶ 视频</a></sub><br>
+<sub>带实时交互动效的 CRM 仪表盘界面，和 @madebymicrodose 合作</sub>
 </td>
 <td width="33%" valign="top">
 <a href="https://github.com/kanaworksai-hue/harappa"><img src="../assets/gifs/250.gif" width="100%" alt="Harappa 原野生成 Blender 插件"></a><br>
 <b><a href="https://github.com/kanaworksai-hue/harappa">Harappa 原野生成 Blender 插件</a></b><br>
-<sub><a href="https://x.com/KanaWorks_AI">@KanaWorks_AI</a> · ♥ 79 · <a href="https://x.com/KanaWorks_AI/status/2121221880673972463">▶ 视频</a></sub><br>
+<sub><a href="https://x.com/KanaWorks_AI">@KanaWorks_AI</a> · ♥ 85 · <a href="https://x.com/KanaWorks_AI/status/2121221880673972463">▶ 视频</a></sub><br>
 <sub>免费 Blender 插件，一键把光秃的山丘变成动画背景式的原野：草、花、云、树、季节和画风都能换</sub><br>
 <sub><a href="https://fablelist.000ooo.ooo/zh/prompts/?w=harappa-blender-add-on&ref=gh"><b>✨ 获取提示词</b></a></sub>
-</td>
-<td width="33%" valign="top">
-<a href="https://sael.net/seat-arena"><img src="../assets/gifs/182.gif" width="100%" alt="Best Seat in the House 演唱会座位视角"></a><br>
-<b><a href="https://sael.net/seat-arena">Best Seat in the House 演唱会座位视角</a></b><br>
-<sub><a href="https://x.com/RyanSael">@RyanSael</a> · ♥ 61 · <a href="https://x.com/RyanSael/status/2120544205558915329">▶ 视频</a></sub><br>
-<sub>买票前先看每个座位看到的舞台，完全可交互</sub><br>
-<sub><a href="https://fablelist.000ooo.ooo/zh/prompts/?w=best-seat-in-the-house&ref=gh"><b>✨ 获取提示词</b></a></sub>
 </td>
 </tr>
 <tr>
 <td width="33%" valign="top">
-<a href="https://fieldnote-crm-pi.vercel.app"><img src="../assets/gifs/317.gif" width="100%" alt="Fieldnote CRM 仪表盘"></a><br>
-<b><a href="https://fieldnote-crm-pi.vercel.app">Fieldnote CRM 仪表盘</a></b><br>
-<sub>🆕 · <a href="https://x.com/dejvdesign">@dejvdesign</a> · ♥ 59 · <a href="https://x.com/dejvdesign/status/2122335319634874710">▶ 视频</a></sub><br>
-<sub>带实时交互动效的 CRM 仪表盘界面，和 @madebymicrodose 合作</sub>
+<a href="https://sael.net/seat-arena"><img src="../assets/gifs/182.gif" width="100%" alt="Best Seat in the House 演唱会座位视角"></a><br>
+<b><a href="https://sael.net/seat-arena">Best Seat in the House 演唱会座位视角</a></b><br>
+<sub><a href="https://x.com/RyanSael">@RyanSael</a> · ♥ 62 · <a href="https://x.com/RyanSael/status/2120544205558915329">▶ 视频</a></sub><br>
+<sub>买票前先看每个座位看到的舞台，完全可交互</sub><br>
+<sub><a href="https://fablelist.000ooo.ooo/zh/prompts/?w=best-seat-in-the-house&ref=gh"><b>✨ 获取提示词</b></a></sub>
 </td>
 <td width="33%" valign="top">
 <a href="https://tetriss22.github.io/pc-build-lab/"><img src="../assets/gifs/147.gif" width="100%" alt="PC Build Lab 装机实验室"></a><br>
@@ -235,6 +235,13 @@
 </tr>
 <tr>
 <td width="33%" valign="top">
+<a href="https://rain-1.github.io/intel4004/web/4004-lesion.html"><img src="../assets/gifs/310.gif" width="100%" alt="4004 Lesion Map 4004 芯片损伤图"></a><br>
+<b><a href="https://rain-1.github.io/intel4004/web/4004-lesion.html">4004 Lesion Map 4004 芯片损伤图</a></b><br>
+<sub>🆕 · <a href="https://x.com/slimer48484">@slimer48484</a> · ♥ 10 · <a href="https://x.com/slimer48484/status/2122231197409398920">原帖</a></sub><br>
+<sub>把 Intel 4004 的 2,242 个晶体管逐个弄坏再跑测试，做成一张可以悬停查看「坏了这个会怎样」的芯片地图</sub><br>
+<sub><a href="https://github.com/rain-1/intel4004">源码</a></sub>
+</td>
+<td width="33%" valign="top">
 <a href="https://jwt-designs-preview.noone-697.workers.dev/"><img src="../assets/gifs/046.gif" width="100%" alt="JWT 落地页 20 种改版"></a><br>
 <b><a href="https://jwt-designs-preview.noone-697.workers.dev/">JWT 落地页 20 种改版</a></b><br>
 <sub><a href="https://x.com/Tmeister">@Tmeister</a> · ♥ 9 · <a href="https://x.com/Tmeister/status/2119983842841018482">原帖</a></sub><br>
@@ -249,20 +256,13 @@
 <sub><a href="https://www.asumacodes.xyz/arena/focus-room">番茄钟专注室</a> · <a href="https://www.asumacodes.xyz/arena/bug-hunt">找 Bug 对比</a> · <a href="https://www.asumacodes.xyz/arena">系列首页</a></sub><br>
 <sub><a href="https://x.com/AsumaCodes/status/2120130668848177432">📝 作者公开的提示词（免费）</a></sub>
 </td>
+</tr>
+<tr>
 <td width="33%" valign="top">
 <a href="https://uberdesigner.ai/t/araneae"><img src="../assets/gifs/290.gif" width="100%" alt="araneae 蜘蛛长文"></a><br>
 <b><a href="https://uberdesigner.ai/t/araneae">araneae 蜘蛛长文</a></b><br>
 <sub>🆕 · <a href="https://x.com/seanaiux">@seanaiux</a> · ♥ 8 · <a href="https://x.com/seanaiux/status/2121688869439455410">▶ 视频</a></sub><br>
 <sub>让它做一个能吓到自己的网页：一只蜘蛛从黑暗里垂下，滚动页面一路看它的巢、眼睛、毒牙和腿，最后你成了那只苍蝇</sub>
-</td>
-</tr>
-<tr>
-<td width="33%" valign="top">
-<a href="https://rain-1.github.io/intel4004/web/4004-lesion.html"><img src="../assets/gifs/310.gif" width="100%" alt="4004 Lesion Map 4004 芯片损伤图"></a><br>
-<b><a href="https://rain-1.github.io/intel4004/web/4004-lesion.html">4004 Lesion Map 4004 芯片损伤图</a></b><br>
-<sub>🆕 · <a href="https://x.com/slimer48484">@slimer48484</a> · ♥ 8 · <a href="https://x.com/slimer48484/status/2122231197409398920">原帖</a></sub><br>
-<sub>把 Intel 4004 的 2,242 个晶体管逐个弄坏再跑测试，做成一张可以悬停查看「坏了这个会怎样」的芯片地图</sub><br>
-<sub><a href="https://github.com/rain-1/intel4004">源码</a></sub>
 </td>
 <td width="33%" valign="top">
 <a href="https://claude.ai/artifact/TiymxxFXzMo7xhWUaecbzk"><img src="https://pbs.twimg.com/media/HWwrmvIb0AAMLPK.jpg?name=small" width="100%" alt="独栋住宅设计提案书"></a><br>
