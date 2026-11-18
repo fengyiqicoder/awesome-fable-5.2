@@ -1,4 +1,4 @@
-# 🧰 Webseiten & Tools · alle 40
+# 🧰 Webseiten & Tools · alle 43
 
 [← Zurück zur Liste](../README.de.md) · [English](web-and-tools.md) · [简体中文](web-and-tools.zh-CN.md) · [繁體中文](web-and-tools.zh-TW.md) · [日本語](web-and-tools.ja.md) · [한국어](web-and-tools.ko.md) · [Español](web-and-tools.es.md) · [Português](web-and-tools.pt-BR.md) · [Français](web-and-tools.fr.md) · **Deutsch** · [Русский](web-and-tools.ru.md)
 
@@ -94,7 +94,7 @@ Die Hauptseite zeigt pro Bereich höchstens die 24 Einträge mit den meisten Lik
 <td width="33%" valign="top">
 <a href="https://frontier.every.to/experiments/ambient-town"><img src="../assets/gifs/148.gif" width="100%" alt="Ambient Town"></a><br>
 <b><a href="https://frontier.every.to/experiments/ambient-town">Ambient Town</a></b><br>
-<sub><a href="https://x.com/kieranklaassen">@kieranklaassen</a> · ♥ 896 · <a href="https://x.com/kieranklaassen/status/2119868196773929160">▶ Video</a></sub><br>
+<sub><a href="https://x.com/kieranklaassen">@kieranklaassen</a> · ♥ 897 · <a href="https://x.com/kieranklaassen/status/2119868196773929160">▶ Video</a></sub><br>
 <sub>Eine Ambient-DAW, in einer Woche voller Nächte von einem ehemaligen Filmkomponisten gebaut: Ableton-Push-Unterstützung, Mikrofone, Effekte, ein Synthesizer und ein Agent, der mit dir komponiert. Klicke auf der Seite auf „Try it“.</sub><br>
 <sub><a href="https://fablelist.000ooo.ooo/de/prompts/?w=ambient-town&ref=gh"><b>✨ Prompt holen</b></a></sub>
 </td>
@@ -123,28 +123,41 @@ Die Hauptseite zeigt pro Bereich höchstens die 24 Einträge mit den meisten Lik
 </tr>
 <tr>
 <td width="33%" valign="top">
+<a href="https://www.bubbbly.com/christmas-cards"><img src="../assets/gifs/315.gif" width="100%" alt="Christmas Cards: interaktive Weihnachtskarten"></a><br>
+<b><a href="https://www.bubbbly.com/christmas-cards">Christmas Cards: interaktive Weihnachtskarten</a></b><br>
+<sub>🆕 · <a href="https://x.com/ann_nnng">@ann_nnng</a> · ♥ 464 · <a href="https://x.com/ann_nnng/status/2122283549000712249">▶ Video</a></sub><br>
+<sub>Eine Reihe interaktiver Weihnachtskarten, etwa eine Katze mit rotem Schal auf der Fensterbank, die dem Schneefall zusieht.</sub>
+</td>
+<td width="33%" valign="top">
 <a href="https://where-is-everybody-fermi.netlify.app/"><img src="../assets/gifs/146.gif" width="100%" alt="Where Is Everybody?"></a><br>
 <b><a href="https://where-is-everybody-fermi.netlify.app/">Where Is Everybody?</a></b><br>
-<sub><a href="https://x.com/emollick">@emollick</a> · ♥ 456 · <a href="https://x.com/emollick/status/2120359214157603139">Post</a></sub><br>
+<sub><a href="https://x.com/emollick">@emollick</a> · ♥ 457 · <a href="https://x.com/emollick/status/2120359214157603139">Post</a></sub><br>
 <sub>Auf die Aufgabe „solve the Fermi Paradox“ sammelt es Daten, testet Hypothesen und prüft sie gegen Kritiker.</sub><br>
 <sub><a href="https://resolving-the-great-silence.netlify.app/">Gemini Carbon version</a></sub><br>
 <sub><a href="https://x.com/emollick/status/2120359214157603139">📝 Prompt des Creators (kostenlos)</a></sub>
 </td>
 <td width="33%" valign="top">
-<a href="https://www.bubbbly.com/christmas-cards"><img src="../assets/gifs/315.gif" width="100%" alt="Christmas Cards: interaktive Weihnachtskarten"></a><br>
-<b><a href="https://www.bubbbly.com/christmas-cards">Christmas Cards: interaktive Weihnachtskarten</a></b><br>
-<sub>🆕 · <a href="https://x.com/ann_nnng">@ann_nnng</a> · ♥ 448 · <a href="https://x.com/ann_nnng/status/2122283549000712249">▶ Video</a></sub><br>
-<sub>Eine Reihe interaktiver Weihnachtskarten, etwa eine Katze mit rotem Schal auf der Fensterbank, die dem Schneefall zusieht.</sub>
-</td>
-<td width="33%" valign="top">
 <a href="https://gsplan.org"><img src="../assets/gifs/206.gif" width="100%" alt="Galatasaray-Sitzplatzansicht"></a><br>
 <b><a href="https://gsplan.org">Galatasaray-Sitzplatzansicht</a></b><br>
-<sub><a href="https://x.com/molenbeek84">@molenbeek84</a> · ♥ 429 · <a href="https://x.com/molenbeek84/status/2120847639411331097">Post</a></sub><br>
+<sub><a href="https://x.com/molenbeek84">@molenbeek84</a> · ♥ 428 · <a href="https://x.com/molenbeek84/status/2120847639411331097">Post</a></sub><br>
 <sub>Sieh die Aussicht aufs Spielfeld von jedem Block im RAMS Park, bevor du ein Ticket kaufst.</sub><br>
 <sub><a href="https://fablelist.000ooo.ooo/de/prompts/?w=galatasaray-seat-view&ref=gh"><b>✨ Prompt holen</b></a></sub>
 </td>
 </tr>
 <tr>
+<td width="33%" valign="top">
+<a href="https://rubber-hose-ui.vercel.app"><img src="../assets/gifs/332.gif" width="100%" alt="Rubber Hose UI: Bedienelemente als Cartoonfiguren der 1930er"></a><br>
+<b><a href="https://rubber-hose-ui.vercel.app">Rubber Hose UI: Bedienelemente als Cartoonfiguren der 1930er</a></b><br>
+<sub>🆕 · <a href="https://x.com/crtvTeknologist">@crtvTeknologist</a> · ♥ 345 · <a href="https://x.com/crtvTeknologist/status/2122433522166124616">▶ Video</a></sub><br>
+<sub>Elf Web-Bedienelemente im Rubber-Hose-Stil: Der Slider ist eine Posaune, der Toast ein Toaster, und der Button bekommt bei jedem Klick ein blaues Auge. Reines JS und canvas, keine Abhängigkeiten, Open Source.</sub><br>
+<sub><a href="https://github.com/finktheartist/rubber-hose-ui">Quellcode</a></sub>
+</td>
+<td width="33%" valign="top">
+<a href="https://claude.ai/artifact/4P1urBdptp6gWiJo3R6Vpv"><img src="../assets/gifs/333.gif" width="100%" alt="Breakcore-Video-Sampler"></a><br>
+<b><a href="https://claude.ai/artifact/4P1urBdptp6gWiJo3R6Vpv">Breakcore-Video-Sampler</a></b><br>
+<sub>🆕 · <a href="https://x.com/parhelion318">@parhelion318</a> · ♥ 292 · <a href="https://x.com/parhelion318/status/2122723067533398064">▶ Video</a></sub><br>
+<sub>Ein Sampler im Browser, der Videoclips zerhackt und zu Breakcore-Rhythmen neu anordnet.</sub>
+</td>
 <td width="33%" valign="top">
 <a href="https://origamihelper.com"><img src="../assets/gifs/220.gif" width="100%" alt="Origami Helper"></a><br>
 <b><a href="https://origamihelper.com">Origami Helper</a></b><br>
@@ -152,6 +165,8 @@ Die Hauptseite zeigt pro Bereich höchstens die 24 Einträge mit den meisten Lik
 <sub>Lerne Origami-Faltungen in 3D aus jedem Winkel, mit AR. Kostenlos, ohne Anmeldung, an einem Tag gebaut.</sub><br>
 <sub><a href="https://fablelist.000ooo.ooo/de/prompts/?w=origami-helper&ref=gh"><b>✨ Prompt holen</b></a></sub>
 </td>
+</tr>
+<tr>
 <td width="33%" valign="top">
 <a href="https://typed.page/"><img src="../assets/gifs/036.gif" width="100%" alt="Typed"></a><br>
 <b><a href="https://typed.page/">Typed</a></b><br>
@@ -166,6 +181,12 @@ Die Hauptseite zeigt pro Bereich höchstens die 24 Einträge mit den meisten Lik
 <sub>Ein schlagendes 3D-Herz mit Live-EKG- und Druckkurven sowie Herztönen; vergleiche normal, Vorhofflimmern, Herzblock und Aortenstenose. Es hat auch seine eigenen Tests geschrieben.</sub><br>
 <sub><a href="https://fablelist.000ooo.ooo/de/prompts/?w=one-heartbeat&ref=gh"><b>✨ Prompt holen</b></a></sub>
 </td>
+<td width="33%" valign="top">
+<a href="https://stormy.ai/hands"><img src="../assets/gifs/316.gif" width="100%" alt="Hands: wie eine Roboterhand funktioniert"></a><br>
+<b><a href="https://stormy.ai/hands">Hands: wie eine Roboterhand funktioniert</a></b><br>
+<sub>🆕 · <a href="https://x.com/Karmedge">@Karmedge</a> · ♥ 150 · <a href="https://x.com/Karmedge/status/2122394153497842080">▶ Video</a></sub><br>
+<sub>Eine interaktive Erklärseite dazu, wie die Hand eines humanoiden Roboters funktioniert, warum sie schwer zu bauen ist und was sie kostet. Mit über 1 Milliarde Tokens gebaut.</sub>
+</td>
 </tr>
 <tr>
 <td width="33%" valign="top">
@@ -178,9 +199,17 @@ Die Hauptseite zeigt pro Bereich höchstens die 24 Einträge mit den meisten Lik
 <td width="33%" valign="top">
 <a href="https://motionsites.ai/?prompt=vante-ribbon-hero"><img src="../assets/gifs/048.gif" width="100%" alt="Ribbon Hero"></a><br>
 <b><a href="https://motionsites.ai/?prompt=vante-ribbon-hero">Ribbon Hero</a></b><br>
-<sub><a href="https://x.com/viktoroddy">@viktoroddy</a> · ♥ 139 · <a href="https://x.com/viktoroddy/status/2119985044542705916">▶ Video</a></sub><br>
+<sub><a href="https://x.com/viktoroddy">@viktoroddy</a> · ♥ 140 · <a href="https://x.com/viktoroddy/status/2119985044542705916">▶ Video</a></sub><br>
 <sub>Ein Hero-Bereich, gemacht mit Fable 5.2 + GPT Image 2.6.</sub>
 </td>
+<td width="33%" valign="top">
+<a href="https://fieldnote-crm-pi.vercel.app"><img src="../assets/gifs/317.gif" width="100%" alt="Fieldnote CRM-Dashboard"></a><br>
+<b><a href="https://fieldnote-crm-pi.vercel.app">Fieldnote CRM-Dashboard</a></b><br>
+<sub>🆕 · <a href="https://x.com/dejvdesign">@dejvdesign</a> · ♥ 132 · <a href="https://x.com/dejvdesign/status/2122335319634874710">▶ Video</a></sub><br>
+<sub>Eine CRM-Dashboard-Oberfläche mit Live-Interaktionen, entstanden mit @madebymicrodose.</sub>
+</td>
+</tr>
+<tr>
 <td width="33%" valign="top">
 <a href="https://nikechan.com/"><img src="../assets/gifs/049.gif" width="100%" alt="nikechan.com Redesign"></a><br>
 <b><a href="https://nikechan.com/">nikechan.com Redesign</a></b><br>
@@ -188,24 +217,16 @@ Die Hauptseite zeigt pro Bereich höchstens die 24 Einträge mit den meisten Lik
 <sub>Eine persönliche Website, komplett neu gestaltet.</sub><br>
 <sub><a href="https://fablelist.000ooo.ooo/de/prompts/?w=nikechan-com-redesign&ref=gh"><b>✨ Prompt holen</b></a></sub>
 </td>
-</tr>
-<tr>
 <td width="33%" valign="top">
-<a href="https://stormy.ai/hands"><img src="../assets/gifs/316.gif" width="100%" alt="Hands: wie eine Roboterhand funktioniert"></a><br>
-<b><a href="https://stormy.ai/hands">Hands: wie eine Roboterhand funktioniert</a></b><br>
-<sub>🆕 · <a href="https://x.com/Karmedge">@Karmedge</a> · ♥ 130 · <a href="https://x.com/Karmedge/status/2122394153497842080">▶ Video</a></sub><br>
-<sub>Eine interaktive Erklärseite dazu, wie die Hand eines humanoiden Roboters funktioniert, warum sie schwer zu bauen ist und was sie kostet. Mit über 1 Milliarde Tokens gebaut.</sub>
-</td>
-<td width="33%" valign="top">
-<a href="https://fieldnote-crm-pi.vercel.app"><img src="../assets/gifs/317.gif" width="100%" alt="Fieldnote CRM-Dashboard"></a><br>
-<b><a href="https://fieldnote-crm-pi.vercel.app">Fieldnote CRM-Dashboard</a></b><br>
-<sub>🆕 · <a href="https://x.com/dejvdesign">@dejvdesign</a> · ♥ 115 · <a href="https://x.com/dejvdesign/status/2122335319634874710">▶ Video</a></sub><br>
-<sub>Eine CRM-Dashboard-Oberfläche mit Live-Interaktionen, entstanden mit @madebymicrodose.</sub>
+<a href="https://omage1.xyz"><img src="../assets/gifs/337.gif" width="100%" alt="omage-1: der OP-1 Field Synth im Browser"></a><br>
+<b><a href="https://omage1.xyz">omage-1: der OP-1 Field Synth im Browser</a></b><br>
+<sub>🆕 · <a href="https://x.com/jamesmbickerton">@jamesmbickerton</a> · ♥ 95 · <a href="https://x.com/jamesmbickerton/status/2122688041219133815">▶ Video</a></sub><br>
+<sub>Eine inoffizielle Hommage, die den OP-1 Field von Teenage Engineering als Browser-App nachbaut, die man sofort spielen kann.</sub>
 </td>
 <td width="33%" valign="top">
 <a href="https://github.com/kanaworksai-hue/harappa"><img src="../assets/gifs/250.gif" width="100%" alt="Harappa (Blender-Add-on)"></a><br>
 <b><a href="https://github.com/kanaworksai-hue/harappa">Harappa (Blender-Add-on)</a></b><br>
-<sub><a href="https://x.com/KanaWorks_AI">@KanaWorks_AI</a> · ♥ 85 · <a href="https://x.com/KanaWorks_AI/status/2121221880673972463">▶ Video</a></sub><br>
+<sub><a href="https://x.com/KanaWorks_AI">@KanaWorks_AI</a> · ♥ 88 · <a href="https://x.com/KanaWorks_AI/status/2121221880673972463">▶ Video</a></sub><br>
 <sub>Ein kostenloses Blender-Add-on, das einen kahlen Hügel mit einem Klick in eine Anime-Wiese verwandelt, mit Gras, Blumen, Wolken, Bäumen, Jahreszeiten und Stilen.</sub><br>
 <sub><a href="https://fablelist.000ooo.ooo/de/prompts/?w=harappa-blender-add-on&ref=gh"><b>✨ Prompt holen</b></a></sub>
 </td>
@@ -214,7 +235,7 @@ Die Hauptseite zeigt pro Bereich höchstens die 24 Einträge mit den meisten Lik
 <td width="33%" valign="top">
 <a href="https://sael.net/seat-arena"><img src="../assets/gifs/182.gif" width="100%" alt="Best Seat in the House"></a><br>
 <b><a href="https://sael.net/seat-arena">Best Seat in the House</a></b><br>
-<sub><a href="https://x.com/RyanSael">@RyanSael</a> · ♥ 62 · <a href="https://x.com/RyanSael/status/2120544205558915329">▶ Video</a></sub><br>
+<sub><a href="https://x.com/RyanSael">@RyanSael</a> · ♥ 63 · <a href="https://x.com/RyanSael/status/2120544205558915329">▶ Video</a></sub><br>
 <sub>Sitzpläne für Konzerte, in denen du die genaue Aussicht von jedem Platz siehst, bevor du kaufst. Voll interaktiv.</sub><br>
 <sub><a href="https://fablelist.000ooo.ooo/de/prompts/?w=best-seat-in-the-house&ref=gh"><b>✨ Prompt holen</b></a></sub>
 </td>

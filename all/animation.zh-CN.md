@@ -1,4 +1,4 @@
-# 🎬 动画与短片（附源码） · 全部 14 个
+# 🎬 动画与短片（附源码） · 全部 17 个
 
 [← 回到首页](../README.zh-CN.md) · [English](animation.md) · **简体中文** · [繁體中文](animation.zh-TW.md) · [日本語](animation.ja.md) · [한국어](animation.ko.md) · [Español](animation.es.md) · [Português](animation.pt-BR.md) · [Français](animation.fr.md) · [Deutsch](animation.de.md) · [Русский](animation.ru.md)
 
@@ -16,13 +16,13 @@
 <td width="33%" valign="top">
 <a href="https://github.com/BubbleBrainBB/awesome-fable-5.2/tree/main/cat-garden"><img src="../assets/gifs/319.gif" width="100%" alt="Cat Garden 猫眼里的植物园"></a><br>
 <b><a href="https://github.com/BubbleBrainBB/awesome-fable-5.2/tree/main/cat-garden">Cat Garden 猫眼里的植物园</a></b><br>
-<sub>🆕 · <a href="https://x.com/BubbleBrain">@BubbleBrain</a> · ♥ 1.3k · <a href="https://x.com/BubbleBrain/status/2122313967473434639">▶ 视频</a></sub><br>
+<sub>🆕 · <a href="https://x.com/BubbleBrain">@BubbleBrain</a> · ♥ 1.4k · <a href="https://x.com/BubbleBrain/status/2122313967473434639">▶ 视频</a></sub><br>
 <sub>110 秒一镜到底短片：猫钻进植物园一路看、闻、扑；画面由自己写的路径追踪器渲染，声音用 numpy 合成，没用任何素材</sub>
 </td>
 <td width="33%" valign="top">
 <a href="https://github.com/amirmushichge/shred-kit"><img src="../assets/gifs/269.gif" width="100%" alt="Shred Kit 碎纸动画模板"></a><br>
 <b><a href="https://github.com/amirmushichge/shred-kit">Shred Kit 碎纸动画模板</a></b><br>
-<sub><a href="https://x.com/AmirMushich">@AmirMushich</a> · ♥ 431 · <a href="https://x.com/AmirMushich/status/2121339167800213934">▶ 视频</a></sub><br>
+<sub><a href="https://x.com/AmirMushich">@AmirMushich</a> · ♥ 430 · <a href="https://x.com/AmirMushich/status/2121339167800213934">▶ 视频</a></sub><br>
 <sub>Fable 5.2 + Blender 做的 8 秒碎纸短片，做成了免费模板</sub>
 </td>
 </tr>
@@ -30,7 +30,7 @@
 <td width="33%" valign="top">
 <a href="https://github.com/ChetasLua/pelican-riding-a-bicycle"><img src="../assets/gifs/150.gif" width="100%" alt="骑车的鹈鹕：60 秒手绘风短片"></a><br>
 <b><a href="https://github.com/ChetasLua/pelican-riding-a-bicycle">骑车的鹈鹕：60 秒手绘风短片</a></b><br>
-<sub><a href="https://x.com/chetaslua">@chetaslua</a> · ♥ 357 · <a href="https://x.com/chetaslua/status/2120438091647218025">▶ 视频</a></sub><br>
+<sub><a href="https://x.com/chetaslua">@chetaslua</a> · ♥ 358 · <a href="https://x.com/chetaslua/status/2120438091647218025">▶ 视频</a></sub><br>
 <sub>一个 HTML 文件，画面和声音全是代码，没有图片、音频和库</sub><br>
 <sub><a href="https://github.com/ChetasLua/mona-lisa-js">蒙娜丽莎</a></sub><br>
 <sub><a href="https://fablelist.000ooo.ooo/zh/prompts/?w=the-pelican-tired-of-the-road&ref=gh"><b>✨ 获取提示词</b></a></sub>
@@ -65,9 +65,29 @@
 <sub><a href="https://fablelist.000ooo.ooo/zh/prompts/?w=godzilla-nights&ref=gh"><b>✨ 获取提示词</b></a></sub>
 </td>
 <td width="33%" valign="top">
+<a href="https://github.com/moritzkremb/robovac-pov"><img src="../assets/gifs/334.gif" width="100%" alt="Robovac POV 扫地机器人视角短片"></a><br>
+<b><a href="https://github.com/moritzkremb/robovac-pov">Robovac POV 扫地机器人视角短片</a></b><br>
+<sub>🆕 · <a href="https://x.com/moritzkremb">@moritzkremb</a> · ♥ 216 · <a href="https://x.com/moritzkremb/status/2122702891819377117">▶ 视频</a></sub><br>
+<sub>53 秒扫地机器人第一视角的写实短片，全用代码生成：C++ 写的场景和 GPU 路径追踪器，模拟镜头、对焦、运动模糊和颗粒，地毯约 90 万根纤维，声音用 Python 合成</sub>
+</td>
+</tr>
+<tr>
+<td width="33%" valign="top">
+<a href="https://github.com/Leonxlnx/ink-dragon"><img src="../assets/gifs/335.gif" width="100%" alt="Ink Dragon 一滴墨化成龙"></a><br>
+<b><a href="https://github.com/Leonxlnx/ink-dragon">Ink Dragon 一滴墨化成龙</a></b><br>
+<sub>🆕 · <a href="https://x.com/LexnLin">@LexnLin</a> · ♥ 180 · <a href="https://x.com/LexnLin/status/2122698775831671258">▶ 视频</a></sub><br>
+<sub>45 秒 Blender 短片：一滴墨落进水里化成一条龙；墨水模拟、体积和渲染全由 Python 脚本生成</sub>
+</td>
+<td width="33%" valign="top">
+<a href="https://github.com/Leonxlnx/mechanical-moon"><img src="../assets/gifs/336.gif" width="100%" alt="Mechanical Moon 机械月亮"></a><br>
+<b><a href="https://github.com/Leonxlnx/mechanical-moon">Mechanical Moon 机械月亮</a></b><br>
+<sub>🆕 · <a href="https://x.com/LexnLin">@LexnLin</a> · ♥ 155 · <a href="https://x.com/LexnLin/status/2122823164635881853">▶ 视频</a></sub><br>
+<sub>45 秒 Blender 程序化短片：裂开的月亮里藏着一座金色发条巨构，全用 Python 脚本搭建，EEVEE 渲染</sub>
+</td>
+<td width="33%" valign="top">
 <a href="https://github.com/0xCodez/thousand-peaks"><img src="../assets/gifs/282.gif" width="100%" alt="Dragon of a Thousand Peaks 千峰之龙"></a><br>
 <b><a href="https://github.com/0xCodez/thousand-peaks">Dragon of a Thousand Peaks 千峰之龙</a></b><br>
-<sub><a href="https://x.com/0xMovez">@0xMovez</a> · ♥ 132 · <a href="https://x.com/0xMovez/status/2121721290687983906">▶ 视频</a></sub><br>
+<sub><a href="https://x.com/0xMovez">@0xMovez</a> · ♥ 133 · <a href="https://x.com/0xMovez/status/2121721290687983906">▶ 视频</a></sub><br>
 <sub>90 秒纯 three.js 打斗短片，无素材无视频模型；Fable 当导演带 8 个并行 Agent，音乐音效也是代码合成</sub>
 </td>
 </tr>

@@ -5,8 +5,8 @@
 <h3>用 Claude Fable 5.2 做出來、能直接打開玩的東西</h3>
 
 [![Awesome](https://awesome.re/badge.svg)](https://awesome.re)
-[![Works](https://img.shields.io/badge/線上作品-185-6b4eff)](#-遊戲)
-[![Demos](https://img.shields.io/badge/影片展示-135-ff7a59)](#-影片展示)
+[![Works](https://img.shields.io/badge/線上作品-195-6b4eff)](#-遊戲)
+[![Demos](https://img.shields.io/badge/影片展示-140-ff7a59)](#-影片展示)
 [![Links checked](https://img.shields.io/badge/連結實測-2026--11--18-2ea44f)](#-投稿)
 [![License: CC0-1.0](https://img.shields.io/badge/License-CC0_1.0-lightgrey.svg)](LICENSE)
 
@@ -16,11 +16,11 @@
 
 </div>
 
-185 個能直接打開的作品 + 135 個影片展示，都是用 Claude Fable 5.2 做的，連結 2026-11-18 實測過。每天更新，覺得有用就按個 ⭐。
+195 個能直接打開的作品 + 140 個影片展示，都是用 Claude Fable 5.2 做的，連結 2026-11-18 實測過。每天更新，覺得有用就按個 ⭐。
 
 ## 📑 目錄
 
-[⭐ 最受歡迎](#-最受歡迎) · [🆕 最新](#-最新) · [🎮 遊戲](#-遊戲) 89 · [🌍 3D 世界與場景](#-3d-世界與場景) 42 · [🧰 網頁與工具](#-網頁與工具) 40 · [🎬 動畫與短片](#-動畫與短片) 14 · [📺 影片展示](#-影片展示) 135 · [🤝 投稿](#-投稿)
+[⭐ 最受歡迎](#-最受歡迎) · [🆕 最新](#-最新) · [🎮 遊戲](#-遊戲) 92 · [🌍 3D 世界與場景](#-3d-世界與場景) 43 · [🧰 網頁與工具](#-網頁與工具) 43 · [🎬 動畫與短片](#-動畫與短片) 17 · [📺 影片展示](#-影片展示) 140 · [🤝 投稿](#-投稿)
 
 ## ⭐ 最受歡迎
 
@@ -36,7 +36,7 @@
 <td width="33%" valign="top">
 <a href="https://claude.ai/artifact/BGY1SztrAYcJQHSsnHHGmp"><img src="assets/gifs/001.gif" width="100%" alt="Saltline — 第一人稱射擊遊戲"></a><br>
 <b><a href="https://claude.ai/artifact/BGY1SztrAYcJQHSsnHHGmp">Saltline — 第一人稱射擊遊戲</a></b><br>
-<sub><a href="https://x.com/felixrieseberg">@felixrieseberg</a> · ♥ 14.9k · <a href="https://x.com/felixrieseberg/status/2119925633564463609">▶ 影片</a></sub><br>
+<sub><a href="https://x.com/felixrieseberg">@felixrieseberg</a> · ♥ 15.0k · <a href="https://x.com/felixrieseberg/status/2119925633564463609">▶ 影片</a></sub><br>
 <sub>Anthropic 工程師作品。一次性提示、無人工回饋，耗時 8 小時、約 $550。模型、音效與貼圖全由程式碼生成。</sub><br>
 <sub><a href="https://fablelist.000ooo.ooo/zh-tw/prompts/?w=saltline-first-person-shooter&ref=gh"><b>✨ 取得提示詞</b></a></sub>
 </td>
@@ -49,6 +49,13 @@
 </td>
 </tr>
 <tr>
+<td width="33%" valign="top">
+<a href="https://viktorkav.com.br/apoio/uno-com-escada/fable/"><img src="assets/gifs/329.gif" width="100%" alt="Uno com Escada：車頂綁梯子的 Fiat Uno 賽道"></a><br>
+<b><a href="https://viktorkav.com.br/apoio/uno-com-escada/fable/">Uno com Escada：車頂綁梯子的 Fiat Uno 賽道</a></b><br>
+<sub>🆕 · <a href="https://x.com/ViktorKav">@ViktorKav</a> · ♥ 8.0k · <a href="https://x.com/ViktorKav/status/2122647483281015155">▶ 影片</a></sub><br>
+<sub>開著車頂綁梯子的 1996 年 Uno Mille 跑賽道。單一個 603 KB 的 HTML 檔，沒有引擎、3D 函式庫或貼圖；車子、樹林、天空和引擎聲全由程式碼產生。</sub><br>
+<sub><a href="https://github.com/viktorkav/uno-com-escada">原始碼</a></sub>
+</td>
 <td width="33%" valign="top">
 <a href="https://nyc.somethingbig.ai/"><img src="assets/gifs/125.gif" width="100%" alt="CROSSTOWN — 開放世界紐約（早期預覽）"></a><br>
 <b><a href="https://nyc.somethingbig.ai/">CROSSTOWN — 開放世界紐約（早期預覽）</a></b><br>
@@ -63,13 +70,6 @@
 <sub>一則提示就在 Blender 中建好整個房間並以 4K 渲染。這是筆電螢幕上顯示的網頁。</sub><br>
 <sub><a href="https://x.com/rileybrown/status/2119902109709537708">📝 作者公開的提示詞（免費）</a></sub>
 </td>
-<td width="33%" valign="top">
-<a href="https://claudia.gallery"><img src="assets/gifs/038.gif" width="100%" alt="Claudia Gallery"></a><br>
-<b><a href="https://claudia.gallery">Claudia Gallery</a></b><br>
-<sub><a href="https://x.com/anabology">@anabology</a> · ♥ 5.4k · <a href="https://x.com/anabology/status/2120010995309457643">▶ 影片</a></sub><br>
-<sub>「做出你夢想中的影片」——兩個鏡頭，9 小時。</sub><br>
-<sub><a href="https://fablelist.000ooo.ooo/zh-tw/prompts/?w=claudia-gallery&ref=gh"><b>✨ 取得提示詞</b></a></sub>
-</td>
 </tr>
 </table>
 
@@ -80,24 +80,25 @@
 <table>
 <tr>
 <td width="33%" valign="top">
+<a href="https://viktorkav.com.br/apoio/uno-com-escada/fable/"><img src="assets/gifs/329.gif" width="100%" alt="Uno com Escada：車頂綁梯子的 Fiat Uno 賽道"></a><br>
+<b><a href="https://viktorkav.com.br/apoio/uno-com-escada/fable/">Uno com Escada：車頂綁梯子的 Fiat Uno 賽道</a></b><br>
+<sub>🆕 · <a href="https://x.com/ViktorKav">@ViktorKav</a> · ♥ 8.0k · <a href="https://x.com/ViktorKav/status/2122647483281015155">▶ 影片</a></sub><br>
+<sub>開著車頂綁梯子的 1996 年 Uno Mille 跑賽道。單一個 603 KB 的 HTML 檔，沒有引擎、3D 函式庫或貼圖；車子、樹林、天空和引擎聲全由程式碼產生。</sub><br>
+<sub><a href="https://github.com/viktorkav/uno-com-escada">原始碼</a></sub>
+</td>
+<td width="33%" valign="top">
 <a href="https://omw-game.kimaki.dev"><img src="assets/gifs/308.gif" width="100%" alt="omw：油畫筆觸的城堡山谷"></a><br>
 <b><a href="https://omw-game.kimaki.dev">omw：油畫筆觸的城堡山谷</a></b><br>
-<sub>🆕 · <a href="https://x.com/__morse">@__morse</a> · ♥ 4.4k · <a href="https://x.com/__morse/status/2122013410309153042">▶ 影片</a></sub><br>
+<sub>🆕 · <a href="https://x.com/__morse">@__morse</a> · ♥ 4.5k · <a href="https://x.com/__morse/status/2122013410309153042">▶ 影片</a></sub><br>
 <sub>把 @de5imulate 那張「omw」像素畫重做成瀏覽器裡能玩的 three.js 遊戲，畫面像一幅油畫。</sub><br>
 <sub><a href="https://github.com/remorses/castle-valley">原始碼</a></sub>
 </td>
 <td width="33%" valign="top">
-<a href="https://sakuga-vfx.vercel.app"><img src="assets/gifs/299.gif" width="100%" alt="Sakuga Set"></a><br>
-<b><a href="https://sakuga-vfx.vercel.app">Sakuga Set</a></b><br>
-<sub>🆕 · <a href="https://x.com/crtvTeknologist">@crtvTeknologist</a> · ♥ 1.4k · <a href="https://x.com/crtvTeknologist/status/2122088829565698218">▶ 影片</a></sub><br>
-<sub>12 個像動畫一樣有反應的 UI 控制項：按鈕壓扁落地還帶「ドン!」，開關拖影濺開，滑桿捲起雲團。特效全用程式碼畫，每個一個檔案、零依賴。</sub><br>
-<sub><a href="https://github.com/finktheartist/sakuga-vfx">原始碼</a></sub>
-</td>
-<td width="33%" valign="top">
-<a href="https://app.usecrayon.ai/play/76dbd04f-0684-4486-8cc4-eae0585295e8"><img src="assets/gifs/288.gif" width="100%" alt="悟空：四星之路"></a><br>
-<b><a href="https://app.usecrayon.ai/play/76dbd04f-0684-4486-8cc4-eae0585295e8">悟空：四星之路</a></b><br>
-<sub><a href="https://x.com/aniketjart">@aniketjart</a> · ♥ 1.4k · <a href="https://x.com/aniketjart/status/2121793239175119279">▶ 影片</a></sub><br>
-<sub>照著龍珠紅緞帶軍篇做的同人動作遊戲，用 three.js 寫成。還在製作中，目前能玩前兩張地圖。</sub>
+<a href="https://xikhar.github.io/papertrails/"><img src="assets/gifs/330.gif" width="100%" alt="Papertrails：無盡的立體書紙世界"></a><br>
+<b><a href="https://xikhar.github.io/papertrails/">Papertrails：無盡的立體書紙世界</a></b><br>
+<sub>🆕 · <a href="https://x.com/xikhar">@xikhar</a> · ♥ 1.5k · <a href="https://x.com/xikhar/status/2122682962647122403">▶ 影片</a></sub><br>
+<sub>小紙人往前走，樹、房子和山丘像立體書一樣從地面立起來，穿過沙漠、雪地、森林與晝夜。以 Fable 5.2、Opus 5.5 和 three.js 製作。</sub><br>
+<sub><a href="https://github.com/xikhar/papertrails">原始碼</a></sub>
 </td>
 </tr>
 </table>
@@ -116,7 +117,7 @@
 <td width="33%" valign="top">
 <a href="https://claude.ai/artifact/BGY1SztrAYcJQHSsnHHGmp"><img src="assets/gifs/001.gif" width="100%" alt="Saltline — 第一人稱射擊遊戲"></a><br>
 <b><a href="https://claude.ai/artifact/BGY1SztrAYcJQHSsnHHGmp">Saltline — 第一人稱射擊遊戲</a></b><br>
-<sub><a href="https://x.com/felixrieseberg">@felixrieseberg</a> · ♥ 14.9k · <a href="https://x.com/felixrieseberg/status/2119925633564463609">▶ 影片</a></sub><br>
+<sub><a href="https://x.com/felixrieseberg">@felixrieseberg</a> · ♥ 15.0k · <a href="https://x.com/felixrieseberg/status/2119925633564463609">▶ 影片</a></sub><br>
 <sub>Anthropic 工程師作品。一次性提示、無人工回饋，耗時 8 小時、約 $550。模型、音效與貼圖全由程式碼生成。</sub><br>
 <sub><a href="https://fablelist.000ooo.ooo/zh-tw/prompts/?w=saltline-first-person-shooter&ref=gh"><b>✨ 取得提示詞</b></a></sub>
 </td>
@@ -130,6 +131,13 @@
 </tr>
 <tr>
 <td width="33%" valign="top">
+<a href="https://viktorkav.com.br/apoio/uno-com-escada/fable/"><img src="assets/gifs/329.gif" width="100%" alt="Uno com Escada：車頂綁梯子的 Fiat Uno 賽道"></a><br>
+<b><a href="https://viktorkav.com.br/apoio/uno-com-escada/fable/">Uno com Escada：車頂綁梯子的 Fiat Uno 賽道</a></b><br>
+<sub>🆕 · <a href="https://x.com/ViktorKav">@ViktorKav</a> · ♥ 8.0k · <a href="https://x.com/ViktorKav/status/2122647483281015155">▶ 影片</a></sub><br>
+<sub>開著車頂綁梯子的 1996 年 Uno Mille 跑賽道。單一個 603 KB 的 HTML 檔，沒有引擎、3D 函式庫或貼圖；車子、樹林、天空和引擎聲全由程式碼產生。</sub><br>
+<sub><a href="https://github.com/viktorkav/uno-com-escada">原始碼</a></sub>
+</td>
+<td width="33%" valign="top">
 <a href="https://nyc.somethingbig.ai/"><img src="assets/gifs/125.gif" width="100%" alt="CROSSTOWN — 開放世界紐約（早期預覽）"></a><br>
 <b><a href="https://nyc.somethingbig.ai/">CROSSTOWN — 開放世界紐約（早期預覽）</a></b><br>
 <sub><a href="https://x.com/mattshumer_">@mattshumer_</a> · ♥ 7.5k · <a href="https://x.com/mattshumer_/status/2120282133503820150">▶ 影片</a></sub><br>
@@ -139,10 +147,12 @@
 <td width="33%" valign="top">
 <a href="https://omw-game.kimaki.dev"><img src="assets/gifs/308.gif" width="100%" alt="omw：油畫筆觸的城堡山谷"></a><br>
 <b><a href="https://omw-game.kimaki.dev">omw：油畫筆觸的城堡山谷</a></b><br>
-<sub>🆕 · <a href="https://x.com/__morse">@__morse</a> · ♥ 4.4k · <a href="https://x.com/__morse/status/2122013410309153042">▶ 影片</a></sub><br>
+<sub>🆕 · <a href="https://x.com/__morse">@__morse</a> · ♥ 4.5k · <a href="https://x.com/__morse/status/2122013410309153042">▶ 影片</a></sub><br>
 <sub>把 @de5imulate 那張「omw」像素畫重做成瀏覽器裡能玩的 three.js 遊戲，畫面像一幅油畫。</sub><br>
 <sub><a href="https://github.com/remorses/castle-valley">原始碼</a></sub>
 </td>
+</tr>
+<tr>
 <td width="33%" valign="top">
 <a href="https://what-the-water-keeps.vercel.app/"><img src="assets/gifs/008.gif" width="100%" alt="What the Water Keeps"></a><br>
 <b><a href="https://what-the-water-keeps.vercel.app/">What the Water Keeps</a></b><br>
@@ -150,8 +160,6 @@
 <sub>乘船穿越 8 個如夢似幻的世界，可直接在瀏覽器中遊玩。</sub><br>
 <sub><a href="https://fablelist.000ooo.ooo/zh-tw/prompts/?w=what-the-water-keeps&ref=gh"><b>✨ 取得提示詞</b></a></sub>
 </td>
-</tr>
-<tr>
 <td width="33%" valign="top">
 <a href="https://tennis.sixfingerpunch.com/"><img src="assets/gifs/197.gif" width="100%" alt="Tennis"></a><br>
 <b><a href="https://tennis.sixfingerpunch.com/">Tennis</a></b><br>
@@ -165,6 +173,8 @@
 <sub><a href="https://x.com/BlendiByl">@BlendiByl</a> · ♥ 2.6k · <a href="https://x.com/BlendiByl/status/2121594536153718972">▶ 影片</a></sub><br>
 <sub>一天做完：7 種法術、約 1,800 塊可破壞的物理碎片，沒有模型也沒有貼圖，開源。</sub>
 </td>
+</tr>
+<tr>
 <td width="33%" valign="top">
 <a href="https://www.spawn.co/@mattshumer/earth?room=local"><img src="assets/gifs/003.gif" width="100%" alt="Mirror Earth"></a><br>
 <b><a href="https://www.spawn.co/@mattshumer/earth?room=local">Mirror Earth</a></b><br>
@@ -172,8 +182,6 @@
 <sub>把整個地球做成可破壞的遊戲世界，天氣與真實地球即時同步。</sub><br>
 <sub><a href="https://fablelist.000ooo.ooo/zh-tw/prompts/?w=mirror-earth&ref=gh"><b>✨ 取得提示詞</b></a></sub>
 </td>
-</tr>
-<tr>
 <td width="33%" valign="top">
 <a href="https://portals-endless-worlds.netlify.app/"><img src="assets/gifs/006.gif" width="100%" alt="Portals: Endless Worlds"></a><br>
 <b><a href="https://portals-endless-worlds.netlify.app/">Portals: Endless Worlds</a></b><br>
@@ -189,6 +197,8 @@
 <sub>黑暗奇幻的魂系 Boss 戰，可在瀏覽器中遊玩。</sub><br>
 <sub><a href="https://fablelist.000ooo.ooo/zh-tw/prompts/?w=evensong&ref=gh"><b>✨ 取得提示詞</b></a></sub>
 </td>
+</tr>
+<tr>
 <td width="33%" valign="top">
 <a href="https://loktar00.github.io/lanternfall/"><img src="assets/gifs/128.gif" width="100%" alt="LANTERNFALL"></a><br>
 <b><a href="https://loktar00.github.io/lanternfall/">LANTERNFALL</a></b><br>
@@ -196,20 +206,11 @@
 <sub>整款遊戲——動畫、模型、一切——都由 Fable 生成。看看敵人死亡時的效果。</sub><br>
 <sub><a href="https://fablelist.000ooo.ooo/zh-tw/prompts/?w=lanternfall&ref=gh"><b>✨ 取得提示詞</b></a></sub>
 </td>
-</tr>
-<tr>
 <td width="33%" valign="top">
 <a href="https://app.usecrayon.ai/play/76dbd04f-0684-4486-8cc4-eae0585295e8"><img src="assets/gifs/288.gif" width="100%" alt="悟空：四星之路"></a><br>
 <b><a href="https://app.usecrayon.ai/play/76dbd04f-0684-4486-8cc4-eae0585295e8">悟空：四星之路</a></b><br>
 <sub><a href="https://x.com/aniketjart">@aniketjart</a> · ♥ 1.4k · <a href="https://x.com/aniketjart/status/2121793239175119279">▶ 影片</a></sub><br>
 <sub>照著龍珠紅緞帶軍篇做的同人動作遊戲，用 three.js 寫成。還在製作中，目前能玩前兩張地圖。</sub>
-</td>
-<td width="33%" valign="top">
-<a href="https://op7418.github.io/guizang-game-skill/"><img src="assets/gifs/131.gif" width="100%" alt="Mist-Locked Mountain Gate — 3D 動作遊戲"></a><br>
-<b><a href="https://op7418.github.io/guizang-game-skill/">Mist-Locked Mountain Gate — 3D 動作遊戲</a></b><br>
-<sub><a href="https://x.com/op7418">@op7418</a> · ♥ 1.2k · <a href="https://x.com/op7418/status/2120694045299327187">▶ 影片</a></sub><br>
-<sub>一個下午、45 億 token。模型、場景與招式全由 Fable 完成，打包成單一 30 MB 的 HTML 檔案。</sub><br>
-<sub><a href="https://fablelist.000ooo.ooo/zh-tw/prompts/?w=mist-locked-mountain-gate-3d-action-game&ref=gh"><b>✨ 取得提示詞</b></a></sub>
 </td>
 <td width="33%" valign="top">
 <a href="https://heat.pplx.app"><img src="assets/gifs/313.gif" width="100%" alt="VICE '86：霓虹 1986 邁阿密的開放世界駕駛"></a><br>
@@ -219,6 +220,13 @@
 </td>
 </tr>
 <tr>
+<td width="33%" valign="top">
+<a href="https://op7418.github.io/guizang-game-skill/"><img src="assets/gifs/131.gif" width="100%" alt="Mist-Locked Mountain Gate — 3D 動作遊戲"></a><br>
+<b><a href="https://op7418.github.io/guizang-game-skill/">Mist-Locked Mountain Gate — 3D 動作遊戲</a></b><br>
+<sub><a href="https://x.com/op7418">@op7418</a> · ♥ 1.2k · <a href="https://x.com/op7418/status/2120694045299327187">▶ 影片</a></sub><br>
+<sub>一個下午、45 億 token。模型、場景與招式全由 Fable 完成，打包成單一 30 MB 的 HTML 檔案。</sub><br>
+<sub><a href="https://fablelist.000ooo.ooo/zh-tw/prompts/?w=mist-locked-mountain-gate-3d-action-game&ref=gh"><b>✨ 取得提示詞</b></a></sub>
+</td>
 <td width="33%" valign="top">
 <a href="https://wavedash.com/games/rooftop-rally"><img src="assets/gifs/129.gif" width="100%" alt="Rooftop Rally — Unreal 5.9 的匹克球"></a><br>
 <b><a href="https://wavedash.com/games/rooftop-rally">Rooftop Rally — Unreal 5.9 的匹克球</a></b><br>
@@ -235,6 +243,8 @@
 <sub><a href="https://claude.ai/artifact/6MjtQjf4ee1ZZjEpafaEpa">The Clockmaker's Heart</a> · <a href="https://claude.ai/artifact/JTgyEMn7sn1q2riWrMb7D4">Tidewright</a></sub><br>
 <sub><a href="https://fablelist.000ooo.ooo/zh-tw/prompts/?w=three-games-saltline-the-clockmaker-s-heart-tidewright&ref=gh"><b>✨ 取得提示詞</b></a></sub>
 </td>
+</tr>
+<tr>
 <td width="33%" valign="top">
 <a href="https://patch.gg/blendi/coloured-pencil"><img src="assets/gifs/247.gif" width="100%" alt="Coloured Pencil"></a><br>
 <b><a href="https://patch.gg/blendi/coloured-pencil">Coloured Pencil</a></b><br>
@@ -242,54 +252,45 @@
 <sub>色鉛筆風格的遊戲片段；每個表面的明暗和整座小鎮都是程式碼。開源。</sub><br>
 <sub><a href="https://fablelist.000ooo.ooo/zh-tw/prompts/?w=coloured-pencil&ref=gh"><b>✨ 取得提示詞</b></a></sub>
 </td>
-</tr>
-<tr>
 <td width="33%" valign="top">
 <a href="https://www.spawn.co/@mattshumer/voxel-engine"><img src="assets/gifs/004.gif" width="100%" alt="Voxel Engine"></a><br>
 <b><a href="https://www.spawn.co/@mattshumer/voxel-engine">Voxel Engine</a></b><br>
-<sub><a href="https://x.com/mattshumer_">@mattshumer_</a> · ♥ 743 · <a href="https://x.com/mattshumer_/status/2119870965106483384">▶ 影片</a></sub><br>
+<sub><a href="https://x.com/mattshumer_">@mattshumer_</a> · ♥ 742 · <a href="https://x.com/mattshumer_/status/2119870965106483384">▶ 影片</a></sub><br>
 <sub>僅用一則提示打造。請開聲音。</sub><br>
 <sub><a href="https://fablelist.000ooo.ooo/zh-tw/prompts/?w=voxel-engine&ref=gh"><b>✨ 取得提示詞</b></a></sub>
 </td>
 <td width="33%" valign="top">
 <a href="https://patch.gg/blendi/patchwork-quilt"><img src="assets/gifs/190.gif" width="100%" alt="Patchwork Quilt"></a><br>
 <b><a href="https://patch.gg/blendi/patchwork-quilt">Patchwork Quilt</a></b><br>
-<sub><a href="https://x.com/BlendiByl">@BlendiByl</a> · ♥ 673 · <a href="https://x.com/BlendiByl/status/2120746541636047347">▶ 影片</a></sub><br>
+<sub><a href="https://x.com/BlendiByl">@BlendiByl</a> · ♥ 670 · <a href="https://x.com/BlendiByl/status/2120746541636047347">▶ 影片</a></sub><br>
 <sub>拼布、定格動畫風格的遊戲片段。整張地圖都是程式碼。開源。</sub><br>
 <sub><a href="https://fablelist.000ooo.ooo/zh-tw/prompts/?w=patchwork-quilt&ref=gh"><b>✨ 取得提示詞</b></a></sub>
-</td>
-<td width="33%" valign="top">
-<a href="https://bannerfall.itch.io/siege-wing"><img src="assets/gifs/271.gif" width="100%" alt="Siege Wing — 直升機闖進中世紀戰爭"></a><br>
-<b><a href="https://bannerfall.itch.io/siege-wing">Siege Wing — 直升機闖進中世紀戰爭</a></b><br>
-<sub><a href="https://x.com/builderjaydub">@builderjaydub</a> · ♥ 573 · <a href="https://x.com/builderjaydub/status/2120223731520040966">▶ 影片</a></sub><br>
-<sub>駕駛直升機，用火砲、火箭和飛彈，閃過羅馬弩砲，攻下城堡。</sub>
 </td>
 </tr>
 <tr>
 <td width="33%" valign="top">
+<a href="https://bannerfall.itch.io/siege-wing"><img src="assets/gifs/271.gif" width="100%" alt="Siege Wing — 直升機闖進中世紀戰爭"></a><br>
+<b><a href="https://bannerfall.itch.io/siege-wing">Siege Wing — 直升機闖進中世紀戰爭</a></b><br>
+<sub><a href="https://x.com/builderjaydub">@builderjaydub</a> · ♥ 576 · <a href="https://x.com/builderjaydub/status/2120223731520040966">▶ 影片</a></sub><br>
+<sub>駕駛直升機，用火砲、火箭和飛彈，閃過羅馬弩砲，攻下城堡。</sub>
+</td>
+<td width="33%" valign="top">
+<a href="https://patch.gg/play/blendi/solar"><img src="assets/gifs/323.gif" width="100%" alt="Solar：可以飛來飛去的迷你太陽系"></a><br>
+<b><a href="https://patch.gg/play/blendi/solar">Solar：可以飛來飛去的迷你太陽系</a></b><br>
+<sub>🆕 · <a href="https://x.com/BlendiByl">@BlendiByl</a> · ♥ 536 · <a href="https://x.com/BlendiByl/status/2122673770607591855">▶ 影片</a></sub><br>
+<sub>靈感來自 Outer Wilds：真實的軌道與重力，行星之間一路不中斷地飛行，每顆星球都由程式碼畫出。開源。</sub>
+</td>
+<td width="33%" valign="top">
 <a href="https://i-would-have-gotten-away-with-it.netlify.app/"><img src="assets/gifs/007.gif" width="100%" alt="I Would Have Gotten Away With It"></a><br>
 <b><a href="https://i-would-have-gotten-away-with-it.netlify.app/">I Would Have Gotten Away With It</a></b><br>
-<sub><a href="https://x.com/emollick">@emollick</a> · ♥ 514 · <a href="https://x.com/emollick/status/2119876449494540554">▶ 影片</a></sub><br>
+<sub><a href="https://x.com/emollick">@emollick</a> · ♥ 515 · <a href="https://x.com/emollick/status/2119876449494540554">▶ 影片</a></sub><br>
 <sub>反過來的《史酷比》：你是反派，要嚇跑多管閒事的孩子們。預告片、音樂與音效也都出自 Fable。</sub><br>
 <sub><a href="https://fablelist.000ooo.ooo/zh-tw/prompts/?w=i-would-have-gotten-away-with-it&ref=gh"><b>✨ 取得提示詞</b></a></sub>
-</td>
-<td width="33%" valign="top">
-<a href="https://valsera-game.vercel.app/"><img src="assets/gifs/279.gif" width="100%" alt="Valsera — 橫向捲軸 RPG"></a><br>
-<b><a href="https://valsera-game.vercel.app/">Valsera — 橫向捲軸 RPG</a></b><br>
-<sub><a href="https://x.com/kevin_t_ngo">@kevin_t_ngo</a> · ♥ 502 · <a href="https://x.com/kevin_t_ngo/status/2121701020598415465">▶ 影片</a></sub><br>
-<sub>瀏覽器就能玩的橫向捲軸 RPG，所有畫面都用程式碼畫成，沒用圖像模型或現成美術素材。</sub>
-</td>
-<td width="33%" valign="top">
-<a href="https://noclipepe.pages.dev/rug/"><img src="assets/gifs/010.gif" width="100%" alt="Childhood Rug Racer"></a><br>
-<b><a href="https://noclipepe.pages.dev/rug/">Childhood Rug Racer</a></b><br>
-<sub><a href="https://x.com/noclipepe">@noclipepe</a> · ♥ 426 · <a href="https://x.com/noclipepe/status/2119728047754547326">▶ 影片</a></sub><br>
-<sub>在童年遊戲地毯上賽車的遊戲，與 GPT-6.2 Sol 使用相同提示。作者稱這個模型為「Fable 5.5（路由）」。</sub><br>
-<sub><a href="https://fablelist.000ooo.ooo/zh-tw/prompts/?w=childhood-rug-racer&ref=gh"><b>✨ 取得提示詞</b></a></sub>
 </td>
 </tr>
 </table>
 
-<p align="center"><b><a href="all/games.zh-TW.md">查看全部 89 個 →</a></b></p>
+<p align="center"><b><a href="all/games.zh-TW.md">查看全部 92 個 →</a></b></p>
 
 <div align="right"><a href="#-目錄">↑ 回到目錄</a></div>
 
@@ -312,14 +313,21 @@
 <sub><a href="https://fablelist.000ooo.ooo/zh-tw/prompts/?w=painted-valley&ref=gh"><b>✨ 取得提示詞</b></a></sub>
 </td>
 <td width="33%" valign="top">
+<a href="https://xikhar.github.io/papertrails/"><img src="assets/gifs/330.gif" width="100%" alt="Papertrails：無盡的立體書紙世界"></a><br>
+<b><a href="https://xikhar.github.io/papertrails/">Papertrails：無盡的立體書紙世界</a></b><br>
+<sub>🆕 · <a href="https://x.com/xikhar">@xikhar</a> · ♥ 1.5k · <a href="https://x.com/xikhar/status/2122682962647122403">▶ 影片</a></sub><br>
+<sub>小紙人往前走，樹、房子和山丘像立體書一樣從地面立起來，穿過沙漠、雪地、森林與晝夜。以 Fable 5.2、Opus 5.5 和 three.js 製作。</sub><br>
+<sub><a href="https://github.com/xikhar/papertrails">原始碼</a></sub>
+</td>
+</tr>
+<tr>
+<td width="33%" valign="top">
 <a href="https://claude.ai/artifact/CTjrZXVdUgKJ6qJXrvvr28"><img src="assets/gifs/218.gif" width="100%" alt="Ancient Babylon, 600 BC"></a><br>
 <b><a href="https://claude.ai/artifact/CTjrZXVdUgKJ6qJXrvvr28">Ancient Babylon, 600 BC</a></b><br>
 <sub><a href="https://x.com/literallydenis">@literallydenis</a> · ♥ 1.2k · <a href="https://x.com/literallydenis/status/2120866958790848953">▶ 影片</a></sub><br>
 <sub>歷時 8 小時，根據它自己找到的歷史文獻與平面圖重建的巴比倫。可自由漫步。</sub><br>
 <sub><a href="https://fablelist.000ooo.ooo/zh-tw/prompts/?w=ancient-babylon-600-bc&ref=gh"><b>✨ 取得提示詞</b></a></sub>
 </td>
-</tr>
-<tr>
 <td width="33%" valign="top">
 <a href="https://indiranagar-live.vercel.app"><img src="assets/gifs/024.gif" width="100%" alt="英迪拉訥格爾 1 平方公里"></a><br>
 <b><a href="https://indiranagar-live.vercel.app">英迪拉訥格爾 1 平方公里</a></b><br>
@@ -330,40 +338,46 @@
 <td width="33%" valign="top">
 <a href="https://fable-rome.surge.sh/"><img src="assets/gifs/136.gif" width="100%" alt="Rome, AD 320"></a><br>
 <b><a href="https://fable-rome.surge.sh/">Rome, AD 320</a></b><br>
-<sub><a href="https://x.com/petergostev">@petergostev</a> · ♥ 969 · <a href="https://x.com/petergostev/status/2120167560700383572">▶ 影片</a></sub><br>
+<sub><a href="https://x.com/petergostev">@petergostev</a> · ♥ 968 · <a href="https://x.com/petergostev/status/2120167560700383572">▶ 影片</a></sub><br>
 <sub>一則提示，Fable 5.2（Max）連跑一整夜，$2,618。</sub><br>
 <sub><a href="https://x.com/petergostev/status/2120167560700383572">📝 作者公開的提示詞（免費）</a></sub>
-</td>
-<td width="33%" valign="top">
-<a href="https://github.com/Leonxlnx/room-at-dawn"><img src="assets/gifs/219.gif" width="100%" alt="Room at Dawn"></a><br>
-<b><a href="https://github.com/Leonxlnx/room-at-dawn">Room at Dawn</a></b><br>
-<sub><a href="https://x.com/LexnLin">@LexnLin</a> · ♥ 864 · <a href="https://x.com/LexnLin/status/2120910879361548565">▶ 影片</a></sub><br>
-<sub>three.js 打造的擬真臥室，沒有預製模型或貼圖；一切都是程式碼。</sub><br>
-<sub><a href="https://fablelist.000ooo.ooo/zh-tw/prompts/?w=room-at-dawn&ref=gh"><b>✨ 取得提示詞</b></a></sub>
 </td>
 </tr>
 <tr>
 <td width="33%" valign="top">
+<a href="https://github.com/Leonxlnx/room-at-dawn"><img src="assets/gifs/219.gif" width="100%" alt="Room at Dawn"></a><br>
+<b><a href="https://github.com/Leonxlnx/room-at-dawn">Room at Dawn</a></b><br>
+<sub><a href="https://x.com/LexnLin">@LexnLin</a> · ♥ 854 · <a href="https://x.com/LexnLin/status/2120910879361548565">▶ 影片</a></sub><br>
+<sub>three.js 打造的擬真臥室，沒有預製模型或貼圖；一切都是程式碼。</sub><br>
+<sub><a href="https://fablelist.000ooo.ooo/zh-tw/prompts/?w=room-at-dawn&ref=gh"><b>✨ 取得提示詞</b></a></sub>
+</td>
+<td width="33%" valign="top">
 <a href="https://fable-rover.vercel.app"><img src="assets/gifs/278.gif" width="100%" alt="ER-6 Terrain Explorer — 自動駕駛的火星車"></a><br>
 <b><a href="https://fable-rover.vercel.app">ER-6 Terrain Explorer — 自動駕駛的火星車</a></b><br>
-<sub><a href="https://x.com/DilumSanjaya">@DilumSanjaya</a> · ♥ 790 · <a href="https://x.com/DilumSanjaya/status/2120561077385867663">▶ 影片</a></sub><br>
+<sub><a href="https://x.com/DilumSanjaya">@DilumSanjaya</a> · ♥ 792 · <a href="https://x.com/DilumSanjaya/status/2120561077385867663">▶ 影片</a></sub><br>
 <sub>Fable 5.2 設計了 NASA 火星車那種搖臂轉向架懸吊，再模擬它在外星地形上行駛。</sub>
 </td>
 <td width="33%" valign="top">
 <a href="https://ship-42-catch.netlify.app/"><img src="assets/gifs/297.gif" width="100%" alt="Ship 42 Catch"></a><br>
 <b><a href="https://ship-42-catch.netlify.app/">Ship 42 Catch</a></b><br>
-<sub>🆕 · <a href="https://x.com/emollick">@emollick</a> · ♥ 735 · <a href="https://x.com/emollick/status/2122036763468214711">▶ 影片</a></sub><br>
+<sub>🆕 · <a href="https://x.com/emollick">@emollick</a> · ♥ 737 · <a href="https://x.com/emollick/status/2122036763468214711">▶ 影片</a></sub><br>
 <sub>Fable 和 Opus 找來星艦被發射塔「筷子」夾住的影片，用 three.js 高細節重現最後 40 秒，可以切換視角。</sub>
-</td>
-<td width="33%" valign="top">
-<a href="https://supernatural-ft.vercel.app/fire-in-ice"><img src="assets/gifs/221.gif" width="100%" alt="Fire in Ice"></a><br>
-<b><a href="https://supernatural-ft.vercel.app/fire-in-ice">Fire in Ice</a></b><br>
-<sub><a href="https://x.com/tkm_hmng8">@tkm_hmng8</a> · ♥ 550 · <a href="https://x.com/tkm_hmng8/status/2120813043101946324">▶ 影片</a></sub><br>
-<sub>寫在原生 WebGPU（不用 three.js）上的冰中燃燒的逼真火焰。</sub><br>
-<sub><a href="https://fablelist.000ooo.ooo/zh-tw/prompts/?w=fire-in-ice&ref=gh"><b>✨ 取得提示詞</b></a></sub>
 </td>
 </tr>
 <tr>
+<td width="33%" valign="top">
+<a href="https://supernatural-ft.vercel.app/fire-in-ice"><img src="assets/gifs/221.gif" width="100%" alt="Fire in Ice"></a><br>
+<b><a href="https://supernatural-ft.vercel.app/fire-in-ice">Fire in Ice</a></b><br>
+<sub><a href="https://x.com/tkm_hmng8">@tkm_hmng8</a> · ♥ 549 · <a href="https://x.com/tkm_hmng8/status/2120813043101946324">▶ 影片</a></sub><br>
+<sub>寫在原生 WebGPU（不用 three.js）上的冰中燃燒的逼真火焰。</sub><br>
+<sub><a href="https://fablelist.000ooo.ooo/zh-tw/prompts/?w=fire-in-ice&ref=gh"><b>✨ 取得提示詞</b></a></sub>
+</td>
+<td width="33%" valign="top">
+<a href="https://github.com/Leonxlnx/walking-block"><img src="assets/gifs/318.gif" width="100%" alt="Walking Block：會走路的蘇聯公寓樓"></a><br>
+<b><a href="https://github.com/Leonxlnx/walking-block">Walking Block：會走路的蘇聯公寓樓</a></b><br>
+<sub>🆕 · <a href="https://x.com/LexnLin">@LexnLin</a> · ♥ 413 · <a href="https://x.com/LexnLin/status/2122359035751989341">▶ 影片</a></sub><br>
+<sub>一棟巨大的蘇聯板樓靠八條機械腿，在暮色霧氣中穿過濕地。幾何、貼圖和著色器全是 three.js 程式碼，同一場景還渲染出一段 45 秒短片。</sub>
+</td>
 <td width="33%" valign="top">
 <a href="https://bay.theojaffee.net"><img src="assets/gifs/137.gif" width="100%" alt="Bay Area Through Time"></a><br>
 <b><a href="https://bay.theojaffee.net">Bay Area Through Time</a></b><br>
@@ -372,12 +386,8 @@
 <sub><a href="https://nyc.theojaffee.net">New York City</a></sub><br>
 <sub><a href="https://fablelist.000ooo.ooo/zh-tw/prompts/?w=bay-area-through-time&ref=gh"><b>✨ 取得提示詞</b></a></sub>
 </td>
-<td width="33%" valign="top">
-<a href="https://github.com/Leonxlnx/walking-block"><img src="assets/gifs/318.gif" width="100%" alt="Walking Block：會走路的蘇聯公寓樓"></a><br>
-<b><a href="https://github.com/Leonxlnx/walking-block">Walking Block：會走路的蘇聯公寓樓</a></b><br>
-<sub>🆕 · <a href="https://x.com/LexnLin">@LexnLin</a> · ♥ 370 · <a href="https://x.com/LexnLin/status/2122359035751989341">▶ 影片</a></sub><br>
-<sub>一棟巨大的蘇聯板樓靠八條機械腿，在暮色霧氣中穿過濕地。幾何、貼圖和著色器全是 three.js 程式碼，同一場景還渲染出一段 45 秒短片。</sub>
-</td>
+</tr>
+<tr>
 <td width="33%" valign="top">
 <a href="http://procedural-arm-rig.vercel.app"><img src="assets/gifs/140.gif" width="100%" alt="Procedural Arm Rig"></a><br>
 <b><a href="http://procedural-arm-rig.vercel.app">Procedural Arm Rig</a></b><br>
@@ -385,8 +395,6 @@
 <sub>不去一次做完 AAA 遊戲，而是做一隻手臂：骨架、權重繪製的網格、IK，握拳時肌肉會隆起。</sub><br>
 <sub><a href="https://fablelist.000ooo.ooo/zh-tw/prompts/?w=procedural-arm-rig&ref=gh"><b>✨ 取得提示詞</b></a></sub>
 </td>
-</tr>
-<tr>
 <td width="33%" valign="top">
 <a href="https://samg-coder.github.io/solstice-garden/"><img src="assets/gifs/248.gif" width="100%" alt="The Garden"></a><br>
 <b><a href="https://samg-coder.github.io/solstice-garden/">The Garden</a></b><br>
@@ -400,14 +408,14 @@
 <sub>🆕 · <a href="https://x.com/qiqileyuan">@qiqileyuan</a> · ♥ 253 · <a href="https://x.com/qiqileyuan/status/2122006851298693277">▶ 影片</a></sub><br>
 <sub>吉卜力畫風的道觀小山。跟著老道人上山，燒香、求籤、打坐，或者坐在搖椅上看四季變化。神像和主角模型來自 Tripo3D，其餘全是程式碼生成。</sub>
 </td>
+</tr>
+<tr>
 <td width="33%" valign="top">
 <a href="https://butterfly.kyzo.io"><img src="assets/gifs/314.gif" width="100%" alt="Hidden Layers：玻璃溫室裡的透翅蝶"></a><br>
 <b><a href="https://butterfly.kyzo.io">Hidden Layers：玻璃溫室裡的透翅蝶</a></b><br>
-<sub>🆕 · <a href="https://x.com/ky__zo">@ky__zo</a> · ♥ 224 · <a href="https://x.com/ky__zo/status/2122274109795054036">▶ 影片</a></sub><br>
+<sub>🆕 · <a href="https://x.com/ky__zo">@ky__zo</a> · ♥ 229 · <a href="https://x.com/ky__zo/status/2122274109795054036">▶ 影片</a></sub><br>
 <sub>捲動頁面，帶著一隻飛不出玻璃溫室的透翅蝶穿越六個世界。純 three.js，沒有模型檔和貼圖；花了 13.2 億 token、905 美元 API 費用。</sub>
 </td>
-</tr>
-<tr>
 <td width="33%" valign="top">
 <a href="https://claude.ai/artifact/R6YBDkAm2GjAC5A65D9djx"><img src="assets/gifs/142.gif" width="100%" alt="可以走進去的 Claude 展示"></a><br>
 <b><a href="https://claude.ai/artifact/R6YBDkAm2GjAC5A65D9djx">可以走進去的 Claude 展示</a></b><br>
@@ -418,23 +426,23 @@
 <td width="33%" valign="top">
 <a href="https://claude.ai/artifact/2PBXuQAnWDS2NpiPXHNLfL"><img src="assets/gifs/028.gif" width="100%" alt="Orca Jelly"></a><br>
 <b><a href="https://claude.ai/artifact/2PBXuQAnWDS2NpiPXHNLfL">Orca Jelly</a></b><br>
-<sub><a href="https://x.com/vib3coded">@vib3coded</a> · ♥ 203 · <a href="https://x.com/vib3coded/status/2119951060752375827">▶ 影片</a></sub><br>
+<sub><a href="https://x.com/vib3coded">@vib3coded</a> · ♥ 204 · <a href="https://x.com/vib3coded/status/2119951060752375827">▶ 影片</a></sub><br>
 <sub>軟體物理的橡皮糖虎鯨材質研究。並附上 Opus 5.5 的版本供比較。</sub><br>
 <sub><a href="https://claude.ai/artifact/75KLotWzZQ5RR23BGLePb8">Opus 5.5 version</a></sub><br>
 <sub><a href="https://x.com/vib3coded/status/2119951060752375827">📝 作者公開的提示詞（免費）</a></sub>
 </td>
+</tr>
+<tr>
 <td width="33%" valign="top">
 <a href="https://planet.tokyoaivisuals.club/"><img src="assets/gifs/266.gif" width="100%" alt="Code Planet"></a><br>
 <b><a href="https://planet.tokyoaivisuals.club/">Code Planet</a></b><br>
 <sub><a href="https://x.com/KanaWorks_AI">@KanaWorks_AI</a> · ♥ 198 · <a href="https://x.com/KanaWorks_AI/status/2121413647213932688">▶ 影片</a></sub><br>
 <sub>不到 320KB 程式碼的整顆行星。從大海與草地飛越櫻花，一路飛上太空，直接在瀏覽器中。</sub>
 </td>
-</tr>
-<tr>
 <td width="33%" valign="top">
 <a href="https://claude.ai/artifact/9EgZpErM17kH2a9Q3WXW6f"><img src="assets/gifs/027.gif" width="100%" alt="瓶中的體素世界"></a><br>
 <b><a href="https://claude.ai/artifact/9EgZpErM17kH2a9Q3WXW6f">瓶中的體素世界</a></b><br>
-<sub><a href="https://x.com/vib3coded">@vib3coded</a> · ♥ 162 · <a href="https://x.com/vib3coded/status/2120104517282775514">▶ 影片</a></sub><br>
+<sub><a href="https://x.com/vib3coded">@vib3coded</a> · ♥ 163 · <a href="https://x.com/vib3coded/status/2120104517282775514">▶ 影片</a></sub><br>
 <sub>30 分鐘，$12.81。</sub><br>
 <sub><a href="https://x.com/vib3coded/status/2120104517282775514">📝 作者公開的提示詞（免費）</a></sub>
 </td>
@@ -444,6 +452,8 @@
 <sub>🆕 · <a href="https://x.com/LexnLin">@LexnLin</a> · ♥ 145 · <a href="https://x.com/LexnLin/status/2122056542778535977">▶ 影片</a></sub><br>
 <sub>用 three.js 寫的手繪質感小世界，還從中渲染出一段 40 秒 4K 短片。</sub>
 </td>
+</tr>
+<tr>
 <td width="33%" valign="top">
 <a href="https://patch.gg/blendi/impossible-spaces"><img src="assets/gifs/135.gif" width="100%" alt="Impossible Spaces"></a><br>
 <b><a href="https://patch.gg/blendi/impossible-spaces">Impossible Spaces</a></b><br>
@@ -451,8 +461,6 @@
 <sub>迷幻的「不可能空間」體驗。開源。</sub><br>
 <sub><a href="https://fablelist.000ooo.ooo/zh-tw/prompts/?w=impossible-spaces&ref=gh"><b>✨ 取得提示詞</b></a></sub>
 </td>
-</tr>
-<tr>
 <td width="33%" valign="top">
 <a href="https://claude.ai/artifact/7ge282etTXSS4edGFTFa85"><img src="assets/gifs/026.gif" width="100%" alt="3D Sailing Ship"></a><br>
 <b><a href="https://claude.ai/artifact/7ge282etTXSS4edGFTFa85">3D Sailing Ship</a></b><br>
@@ -470,7 +478,7 @@
 </tr>
 </table>
 
-<p align="center"><b><a href="all/3d-worlds.zh-TW.md">查看全部 42 個 →</a></b></p>
+<p align="center"><b><a href="all/3d-worlds.zh-TW.md">查看全部 43 個 →</a></b></p>
 
 <div align="right"><a href="#-目錄">↑ 回到目錄</a></div>
 
@@ -566,7 +574,7 @@
 <td width="33%" valign="top">
 <a href="https://frontier.every.to/experiments/ambient-town"><img src="assets/gifs/148.gif" width="100%" alt="Ambient Town"></a><br>
 <b><a href="https://frontier.every.to/experiments/ambient-town">Ambient Town</a></b><br>
-<sub><a href="https://x.com/kieranklaassen">@kieranklaassen</a> · ♥ 896 · <a href="https://x.com/kieranklaassen/status/2119868196773929160">▶ 影片</a></sub><br>
+<sub><a href="https://x.com/kieranklaassen">@kieranklaassen</a> · ♥ 897 · <a href="https://x.com/kieranklaassen/status/2119868196773929160">▶ 影片</a></sub><br>
 <sub>一位前電影配樂家花了一週夜晚打造的氛圍音樂 DAW：支援 Ableton Push、麥克風、效果器、合成器，還有能與你一起作曲的 Agent。請點頁面上的「Try it」。</sub><br>
 <sub><a href="https://fablelist.000ooo.ooo/zh-tw/prompts/?w=ambient-town&ref=gh"><b>✨ 取得提示詞</b></a></sub>
 </td>
@@ -595,28 +603,41 @@
 </tr>
 <tr>
 <td width="33%" valign="top">
+<a href="https://www.bubbbly.com/christmas-cards"><img src="assets/gifs/315.gif" width="100%" alt="Christmas Cards：互動聖誕賀卡"></a><br>
+<b><a href="https://www.bubbbly.com/christmas-cards">Christmas Cards：互動聖誕賀卡</a></b><br>
+<sub>🆕 · <a href="https://x.com/ann_nnng">@ann_nnng</a> · ♥ 464 · <a href="https://x.com/ann_nnng/status/2122283549000712249">▶ 影片</a></sub><br>
+<sub>一組可以互動的聖誕賀卡，例如圍著紅圍巾的貓在窗台上看雪落下。</sub>
+</td>
+<td width="33%" valign="top">
 <a href="https://where-is-everybody-fermi.netlify.app/"><img src="assets/gifs/146.gif" width="100%" alt="Where Is Everybody?"></a><br>
 <b><a href="https://where-is-everybody-fermi.netlify.app/">Where Is Everybody?</a></b><br>
-<sub><a href="https://x.com/emollick">@emollick</a> · ♥ 456 · <a href="https://x.com/emollick/status/2120359214157603139">原文</a></sub><br>
+<sub><a href="https://x.com/emollick">@emollick</a> · ♥ 457 · <a href="https://x.com/emollick/status/2120359214157603139">原文</a></sub><br>
 <sub>被要求「解決費米悖論」：它整理資料、檢驗假說，並對著批評者做壓力測試。</sub><br>
 <sub><a href="https://resolving-the-great-silence.netlify.app/">Gemini Carbon version</a></sub><br>
 <sub><a href="https://x.com/emollick/status/2120359214157603139">📝 作者公開的提示詞（免費）</a></sub>
 </td>
 <td width="33%" valign="top">
-<a href="https://www.bubbbly.com/christmas-cards"><img src="assets/gifs/315.gif" width="100%" alt="Christmas Cards：互動聖誕賀卡"></a><br>
-<b><a href="https://www.bubbbly.com/christmas-cards">Christmas Cards：互動聖誕賀卡</a></b><br>
-<sub>🆕 · <a href="https://x.com/ann_nnng">@ann_nnng</a> · ♥ 448 · <a href="https://x.com/ann_nnng/status/2122283549000712249">▶ 影片</a></sub><br>
-<sub>一組可以互動的聖誕賀卡，例如圍著紅圍巾的貓在窗台上看雪落下。</sub>
-</td>
-<td width="33%" valign="top">
 <a href="https://gsplan.org"><img src="assets/gifs/206.gif" width="100%" alt="Galatasaray 座位視野"></a><br>
 <b><a href="https://gsplan.org">Galatasaray 座位視野</a></b><br>
-<sub><a href="https://x.com/molenbeek84">@molenbeek84</a> · ♥ 429 · <a href="https://x.com/molenbeek84/status/2120847639411331097">原文</a></sub><br>
+<sub><a href="https://x.com/molenbeek84">@molenbeek84</a> · ♥ 428 · <a href="https://x.com/molenbeek84/status/2120847639411331097">原文</a></sub><br>
 <sub>買票前就能看到 RAMS Park 每個看台區望向球場的視野。</sub><br>
 <sub><a href="https://fablelist.000ooo.ooo/zh-tw/prompts/?w=galatasaray-seat-view&ref=gh"><b>✨ 取得提示詞</b></a></sub>
 </td>
 </tr>
 <tr>
+<td width="33%" valign="top">
+<a href="https://rubber-hose-ui.vercel.app"><img src="assets/gifs/332.gif" width="100%" alt="Rubber Hose UI：1930 年代卡通角色控制項"></a><br>
+<b><a href="https://rubber-hose-ui.vercel.app">Rubber Hose UI：1930 年代卡通角色控制項</a></b><br>
+<sub>🆕 · <a href="https://x.com/crtvTeknologist">@crtvTeknologist</a> · ♥ 345 · <a href="https://x.com/crtvTeknologist/status/2122433522166124616">▶ 影片</a></sub><br>
+<sub>11 個網頁控制項畫成橡皮管卡通：滑桿是長號，提示框是烤麵包機，按鈕每按一次就多一個黑眼圈。原生 JS 加 canvas，零依賴，開源。</sub><br>
+<sub><a href="https://github.com/finktheartist/rubber-hose-ui">原始碼</a></sub>
+</td>
+<td width="33%" valign="top">
+<a href="https://claude.ai/artifact/4P1urBdptp6gWiJo3R6Vpv"><img src="assets/gifs/333.gif" width="100%" alt="Breakcore 影片取樣器"></a><br>
+<b><a href="https://claude.ai/artifact/4P1urBdptp6gWiJo3R6Vpv">Breakcore 影片取樣器</a></b><br>
+<sub>🆕 · <a href="https://x.com/parhelion318">@parhelion318</a> · ♥ 292 · <a href="https://x.com/parhelion318/status/2122723067533398064">▶ 影片</a></sub><br>
+<sub>在瀏覽器裡把影片片段切碎，重排成 breakcore 節奏的取樣器。</sub>
+</td>
 <td width="33%" valign="top">
 <a href="https://origamihelper.com"><img src="assets/gifs/220.gif" width="100%" alt="Origami Helper"></a><br>
 <b><a href="https://origamihelper.com">Origami Helper</a></b><br>
@@ -624,6 +645,8 @@
 <sub>以 AR 從任何角度用 3D 學習摺紙。免費、免註冊，一天做成。</sub><br>
 <sub><a href="https://fablelist.000ooo.ooo/zh-tw/prompts/?w=origami-helper&ref=gh"><b>✨ 取得提示詞</b></a></sub>
 </td>
+</tr>
+<tr>
 <td width="33%" valign="top">
 <a href="https://typed.page/"><img src="assets/gifs/036.gif" width="100%" alt="Typed"></a><br>
 <b><a href="https://typed.page/">Typed</a></b><br>
@@ -638,32 +661,16 @@
 <sub>跳動的 3D 心臟，有即時心電圖與壓力曲線及心音；可比較正常、心房顫動、心臟傳導阻滯與主動脈瓣狹窄。它還自己寫了測試。</sub><br>
 <sub><a href="https://fablelist.000ooo.ooo/zh-tw/prompts/?w=one-heartbeat&ref=gh"><b>✨ 取得提示詞</b></a></sub>
 </td>
-</tr>
-<tr>
 <td width="33%" valign="top">
-<a href="https://patch.gg/patch/anymove"><img src="assets/gifs/149.gif" width="100%" alt="anymove"></a><br>
-<b><a href="https://patch.gg/patch/anymove">anymove</a></b><br>
-<sub><a href="https://x.com/rehan_shei">@rehan_shei</a> · ♥ 141 · <a href="https://x.com/rehan_shei/status/2120409150870159414">▶ 影片</a></sub><br>
-<sub>把 AI 影片中的動作解算到真實的 3D 骨架上——不用動捕服、不用關鍵幀。開源。</sub><br>
-<sub><a href="https://fablelist.000ooo.ooo/zh-tw/prompts/?w=anymove&ref=gh"><b>✨ 取得提示詞</b></a></sub>
-</td>
-<td width="33%" valign="top">
-<a href="https://motionsites.ai/?prompt=vante-ribbon-hero"><img src="assets/gifs/048.gif" width="100%" alt="Ribbon Hero"></a><br>
-<b><a href="https://motionsites.ai/?prompt=vante-ribbon-hero">Ribbon Hero</a></b><br>
-<sub><a href="https://x.com/viktoroddy">@viktoroddy</a> · ♥ 139 · <a href="https://x.com/viktoroddy/status/2119985044542705916">▶ 影片</a></sub><br>
-<sub>以 Fable 5.2 ＋ GPT Image 2.6 製作的首屏區塊。</sub>
-</td>
-<td width="33%" valign="top">
-<a href="https://nikechan.com/"><img src="assets/gifs/049.gif" width="100%" alt="nikechan.com 改版"></a><br>
-<b><a href="https://nikechan.com/">nikechan.com 改版</a></b><br>
-<sub><a href="https://x.com/tegnike">@tegnike</a> · ♥ 130 · <a href="https://x.com/tegnike/status/2120110145841578173">原文</a></sub><br>
-<sub>從頭到尾重新設計的個人網站。</sub><br>
-<sub><a href="https://fablelist.000ooo.ooo/zh-tw/prompts/?w=nikechan-com-redesign&ref=gh"><b>✨ 取得提示詞</b></a></sub>
+<a href="https://stormy.ai/hands"><img src="assets/gifs/316.gif" width="100%" alt="Hands：機器人的手怎麼運作"></a><br>
+<b><a href="https://stormy.ai/hands">Hands：機器人的手怎麼運作</a></b><br>
+<sub>🆕 · <a href="https://x.com/Karmedge">@Karmedge</a> · ♥ 150 · <a href="https://x.com/Karmedge/status/2122394153497842080">▶ 影片</a></sub><br>
+<sub>互動講解頁：人形機器人的手怎麼運作、為什麼難做、成本多少。用了超過 10 億 token。</sub>
 </td>
 </tr>
 </table>
 
-<p align="center"><b><a href="all/web-and-tools.zh-TW.md">查看全部 40 個 →</a></b></p>
+<p align="center"><b><a href="all/web-and-tools.zh-TW.md">查看全部 43 個 →</a></b></p>
 
 <div align="right"><a href="#-目錄">↑ 回到目錄</a></div>
 
@@ -681,13 +688,13 @@
 <td width="33%" valign="top">
 <a href="https://github.com/BubbleBrainBB/awesome-fable-5.2/tree/main/cat-garden"><img src="assets/gifs/319.gif" width="100%" alt="Cat Garden：貓眼裡的植物園"></a><br>
 <b><a href="https://github.com/BubbleBrainBB/awesome-fable-5.2/tree/main/cat-garden">Cat Garden：貓眼裡的植物園</a></b><br>
-<sub>🆕 · <a href="https://x.com/BubbleBrain">@BubbleBrain</a> · ♥ 1.3k · <a href="https://x.com/BubbleBrain/status/2122313967473434639">▶ 影片</a></sub><br>
+<sub>🆕 · <a href="https://x.com/BubbleBrain">@BubbleBrain</a> · ♥ 1.4k · <a href="https://x.com/BubbleBrain/status/2122313967473434639">▶ 影片</a></sub><br>
 <sub>110 秒一鏡到底短片：一隻貓在植物園裡走、聞、撲。畫面來自專門寫的路徑追蹤器，聲音用 numpy 合成，沒用任何素材。</sub>
 </td>
 <td width="33%" valign="top">
 <a href="https://github.com/amirmushichge/shred-kit"><img src="assets/gifs/269.gif" width="100%" alt="Shred Kit 碎紙模板"></a><br>
 <b><a href="https://github.com/amirmushichge/shred-kit">Shred Kit 碎紙模板</a></b><br>
-<sub><a href="https://x.com/AmirMushich">@AmirMushich</a> · ♥ 431 · <a href="https://x.com/AmirMushich/status/2121339167800213934">▶ 影片</a></sub><br>
+<sub><a href="https://x.com/AmirMushich">@AmirMushich</a> · ♥ 430 · <a href="https://x.com/AmirMushich/status/2121339167800213934">▶ 影片</a></sub><br>
 <sub>以 Fable 5.2 與 Blender 製作的 8 秒碎紙短影音，作為免費模板分享。</sub>
 </td>
 </tr>
@@ -695,7 +702,7 @@
 <td width="33%" valign="top">
 <a href="https://github.com/ChetasLua/pelican-riding-a-bicycle"><img src="assets/gifs/150.gif" width="100%" alt="The Pelican, Tired of the Road"></a><br>
 <b><a href="https://github.com/ChetasLua/pelican-riding-a-bicycle">The Pelican, Tired of the Road</a></b><br>
-<sub><a href="https://x.com/chetaslua">@chetaslua</a> · ♥ 357 · <a href="https://x.com/chetaslua/status/2120438091647218025">▶ 影片</a></sub><br>
+<sub><a href="https://x.com/chetaslua">@chetaslua</a> · ♥ 358 · <a href="https://x.com/chetaslua/status/2120438091647218025">▶ 影片</a></sub><br>
 <sub>一部 60 秒的手繪風影片，主角是 SVG 測試裡的鵜鶘。單一 HTML 檔案；每個像素、每個聲音都是程式碼。</sub><br>
 <sub><a href="https://github.com/ChetasLua/mona-lisa-js">Mona Lisa in JS</a></sub><br>
 <sub><a href="https://fablelist.000ooo.ooo/zh-tw/prompts/?w=the-pelican-tired-of-the-road&ref=gh"><b>✨ 取得提示詞</b></a></sub>
@@ -730,9 +737,29 @@
 <sub><a href="https://fablelist.000ooo.ooo/zh-tw/prompts/?w=godzilla-nights&ref=gh"><b>✨ 取得提示詞</b></a></sub>
 </td>
 <td width="33%" valign="top">
+<a href="https://github.com/moritzkremb/robovac-pov"><img src="assets/gifs/334.gif" width="100%" alt="Robovac POV：掃地機器人視角的寫實短片"></a><br>
+<b><a href="https://github.com/moritzkremb/robovac-pov">Robovac POV：掃地機器人視角的寫實短片</a></b><br>
+<sub>🆕 · <a href="https://x.com/moritzkremb">@moritzkremb</a> · ♥ 216 · <a href="https://x.com/moritzkremb/status/2122702891819377117">▶ 影片</a></sub><br>
+<sub>一支只用程式碼做出的 53 秒短片：用 C++ 寫的世界、自製 GPU 路徑追蹤器、模擬對焦、動態模糊與顆粒的鏡頭、約 900,000 根纖維的地毯，聲音以 Python 合成。</sub>
+</td>
+</tr>
+<tr>
+<td width="33%" valign="top">
+<a href="https://github.com/Leonxlnx/ink-dragon"><img src="assets/gifs/335.gif" width="100%" alt="Ink Dragon：一滴墨化成龍"></a><br>
+<b><a href="https://github.com/Leonxlnx/ink-dragon">Ink Dragon：一滴墨化成龍</a></b><br>
+<sub>🆕 · <a href="https://x.com/LexnLin">@LexnLin</a> · ♥ 180 · <a href="https://x.com/LexnLin/status/2122698775831671258">▶ 影片</a></sub><br>
+<sub>45 秒的 Blender 短片，一滴黑墨落入水中化成一條龍。墨水模擬、體積和算圖全由 Python 腳本產生。</sub>
+</td>
+<td width="33%" valign="top">
+<a href="https://github.com/Leonxlnx/mechanical-moon"><img src="assets/gifs/336.gif" width="100%" alt="Mechanical Moon"></a><br>
+<b><a href="https://github.com/Leonxlnx/mechanical-moon">Mechanical Moon</a></b><br>
+<sub>🆕 · <a href="https://x.com/LexnLin">@LexnLin</a> · ♥ 155 · <a href="https://x.com/LexnLin/status/2122823164635881853">▶ 影片</a></sub><br>
+<sub>45 秒的 Blender 程序化短片：裂開的月亮裡藏著金色發條巨構，完全用 Python 腳本打造，以 EEVEE 算圖。</sub>
+</td>
+<td width="33%" valign="top">
 <a href="https://github.com/0xCodez/thousand-peaks"><img src="assets/gifs/282.gif" width="100%" alt="Dragon of a Thousand Peaks — 千峰之龍"></a><br>
 <b><a href="https://github.com/0xCodez/thousand-peaks">Dragon of a Thousand Peaks — 千峰之龍</a></b><br>
-<sub><a href="https://x.com/0xMovez">@0xMovez</a> · ♥ 132 · <a href="https://x.com/0xMovez/status/2121721290687983906">▶ 影片</a></sub><br>
+<sub><a href="https://x.com/0xMovez">@0xMovez</a> · ♥ 133 · <a href="https://x.com/0xMovez/status/2121721290687983906">▶ 影片</a></sub><br>
 <sub>90 秒純 three.js 打鬥短片，零素材、零影片模型；Fable 5.2 指揮 8 個並行 Agent，音樂音效也用程式碼合成。</sub>
 </td>
 </tr>
@@ -747,7 +774,7 @@
 </tr>
 </table>
 
-<p align="center"><b><a href="all/animation.zh-TW.md">查看全部 14 個 →</a></b></p>
+<p align="center"><b><a href="all/animation.zh-TW.md">查看全部 17 個 →</a></b></p>
 
 <div align="right"><a href="#-目錄">↑ 回到目錄</a></div>
 
@@ -806,7 +833,7 @@
 <td width="33%" valign="top">
 <a href="https://x.com/yohakutoink/status/2120824797215310208"><img src="assets/gifs/261.gif" width="100%" alt="用程式碼畫一幅複製品——「原作這裡有個髒斑，我的沒有」"></a><br>
 <b><a href="https://x.com/yohakutoink/status/2120824797215310208">用程式碼畫一幅複製品——「原作這裡有個髒斑，我的沒有」</a></b><br>
-<sub><a href="https://x.com/yohakutoink">@yohakutoink</a> · ♥ 6.4k · <a href="https://x.com/yohakutoink/status/2120824797215310208">▶ 影片</a></sub><br>
+<sub><a href="https://x.com/yohakutoink">@yohakutoink</a> · ♥ 6.5k · <a href="https://x.com/yohakutoink/status/2120824797215310208">▶ 影片</a></sub><br>
 <br>
 <sub><a href="https://fablelist.000ooo.ooo/zh-tw/prompts/?w=painting-a-copy-in-code-the-original-has&ref=gh"><b>✨ 取得提示詞</b></a></sub>
 </td>
@@ -818,13 +845,25 @@
 <sub><a href="https://x.com/matabee_GTO/status/2120995946372985144">📝 作者公開的提示詞（免費）</a></sub>
 </td>
 <td width="33%" valign="top">
+<a href="https://x.com/aj_dev_smith/status/2122538394710687871"><img src="assets/gifs/324.gif" width="100%" alt="用同一個人聲錄下的 64 個音演奏任何歌曲"></a><br>
+<b><a href="https://x.com/aj_dev_smith/status/2122538394710687871">用同一個人聲錄下的 64 個音演奏任何歌曲</a></b><br>
+<sub>🆕 · <a href="https://x.com/aj_dev_smith">@aj_dev_smith</a> · ♥ 4.8k · <a href="https://x.com/aj_dev_smith/status/2122538394710687871">▶ 影片</a></sub><br>
+
+</td>
+</tr>
+<tr>
+<td width="33%" valign="top">
 <a href="https://x.com/JungleSilicon/status/2121782359901212987"><img src="assets/gifs/291.gif" width="100%" alt="像素風高斯潑濺"></a><br>
 <b><a href="https://x.com/JungleSilicon/status/2121782359901212987">像素風高斯潑濺</a></b><br>
 <sub><a href="https://x.com/JungleSilicon">@JungleSilicon</a> · ♥ 4.7k · <a href="https://x.com/JungleSilicon/status/2121782359901212987">▶ 影片</a></sub><br>
 
 </td>
-</tr>
-<tr>
+<td width="33%" valign="top">
+<a href="https://x.com/Dstudio_ai/status/2122569461547098595"><img src="assets/gifs/328.gif" width="100%" alt="用 Tripo 3D 模型做的手遊風大廳畫面"></a><br>
+<b><a href="https://x.com/Dstudio_ai/status/2122569461547098595">用 Tripo 3D 模型做的手遊風大廳畫面</a></b><br>
+<sub>🆕 · <a href="https://x.com/Dstudio_ai">@Dstudio_ai</a> · ♥ 4.6k · <a href="https://x.com/Dstudio_ai/status/2122569461547098595">▶ 影片</a></sub><br>
+
+</td>
 <td width="33%" valign="top">
 <a href="https://x.com/MrTacticalX/status/2121082861902070130"><img src="assets/gifs/253.gif" width="100%" alt="三個 Fable 5.2 Agent 在 7 小時 41 分內造出一台電腦"></a><br>
 <b><a href="https://x.com/MrTacticalX/status/2121082861902070130">三個 Fable 5.2 Agent 在 7 小時 41 分內造出一台電腦</a></b><br>
@@ -832,6 +871,8 @@
 <br>
 <sub><a href="https://fablelist.000ooo.ooo/zh-tw/prompts/?w=three-fable-5-2-agents-build-a-computer&ref=gh"><b>✨ 取得提示詞</b></a></sub>
 </td>
+</tr>
+<tr>
 <td width="33%" valign="top">
 <a href="https://x.com/XRarchitect/status/2120947265007440052"><img src="assets/gifs/237.gif" width="100%" alt="Atlas ＋ Fable 5.2 ＋ three.js"></a><br>
 <b><a href="https://x.com/XRarchitect/status/2120947265007440052">Atlas ＋ Fable 5.2 ＋ three.js</a></b><br>
@@ -840,9 +881,15 @@
 <sub><a href="https://fablelist.000ooo.ooo/zh-tw/prompts/?w=atlas-fable-5-2-three-js&ref=gh"><b>✨ 取得提示詞</b></a></sub>
 </td>
 <td width="33%" valign="top">
+<a href="https://x.com/shiromamono/status/2122473903100731694"><img src="assets/gifs/339.gif" width="100%" alt="一支為了讓你微笑而做的影片"></a><br>
+<b><a href="https://x.com/shiromamono/status/2122473903100731694">一支為了讓你微笑而做的影片</a></b><br>
+<sub>🆕 · <a href="https://x.com/shiromamono">@shiromamono</a> · ♥ 3.5k · <a href="https://x.com/shiromamono/status/2122473903100731694">▶ 影片</a></sub><br>
+
+</td>
+<td width="33%" valign="top">
 <a href="https://x.com/timhwang/status/2122011842549600506"><img src="assets/gifs/303.gif" width="100%" alt="把 600 萬參數聊天模型塞進 Game Boy 卡帶"></a><br>
 <b><a href="https://x.com/timhwang/status/2122011842549600506">把 600 萬參數聊天模型塞進 Game Boy 卡帶</a></b><br>
-<sub>🆕 · <a href="https://x.com/timhwang">@timhwang</a> · ♥ 3.3k · <a href="https://x.com/timhwang/status/2122011842549600506">▶ 影片</a></sub><br>
+<sub>🆕 · <a href="https://x.com/timhwang">@timhwang</a> · ♥ 3.4k · <a href="https://x.com/timhwang/status/2122011842549600506">▶ 影片</a></sub><br>
 
 </td>
 </tr>
@@ -855,32 +902,11 @@
 <sub><a href="https://fablelist.000ooo.ooo/zh-tw/prompts/?w=the-history-of-computer-graphics-animated&ref=gh"><b>✨ 取得提示詞</b></a></sub>
 </td>
 <td width="33%" valign="top">
-<a href="https://x.com/Dstudio_ai/status/2122569461547098595"><img src="assets/gifs/328.gif" width="100%" alt="用 Tripo 3D 模型做的手遊風大廳畫面"></a><br>
-<b><a href="https://x.com/Dstudio_ai/status/2122569461547098595">用 Tripo 3D 模型做的手遊風大廳畫面</a></b><br>
-<sub>🆕 · <a href="https://x.com/Dstudio_ai">@Dstudio_ai</a> · ♥ 2.9k · <a href="https://x.com/Dstudio_ai/status/2122569461547098595">▶ 影片</a></sub><br>
-
-</td>
-<td width="33%" valign="top">
 <a href="https://x.com/M__Houser/status/2120253236309569696"><img src="assets/gifs/154.gif" width="100%" alt="Age of Dragon：非程式設計師打造的開放世界"></a><br>
 <b><a href="https://x.com/M__Houser/status/2120253236309569696">Age of Dragon：非程式設計師打造的開放世界</a></b><br>
 <sub><a href="https://x.com/M__Houser">@M__Houser</a> · ♥ 2.6k · <a href="https://x.com/M__Houser/status/2120253236309569696">▶ 影片</a></sub><br>
 <br>
 <sub><a href="https://fablelist.000ooo.ooo/zh-tw/prompts/?w=age-of-dragon-an-open-world-by-a&ref=gh"><b>✨ 取得提示詞</b></a></sub>
-</td>
-</tr>
-<tr>
-<td width="33%" valign="top">
-<a href="https://x.com/aj_dev_smith/status/2122538394710687871"><img src="assets/gifs/324.gif" width="100%" alt="用同一個人聲錄下的 64 個音演奏任何歌曲"></a><br>
-<b><a href="https://x.com/aj_dev_smith/status/2122538394710687871">用同一個人聲錄下的 64 個音演奏任何歌曲</a></b><br>
-<sub>🆕 · <a href="https://x.com/aj_dev_smith">@aj_dev_smith</a> · ♥ 2.6k · <a href="https://x.com/aj_dev_smith/status/2122538394710687871">▶ 影片</a></sub><br>
-
-</td>
-<td width="33%" valign="top">
-<a href="https://x.com/aecyydesign/status/2120239401821487149"><img src="assets/gifs/209.gif" width="100%" alt="用 Blender 做的動畫"></a><br>
-<b><a href="https://x.com/aecyydesign/status/2120239401821487149">用 Blender 做的動畫</a></b><br>
-<sub><a href="https://x.com/aecyydesign">@aecyydesign</a> · ♥ 2.5k · <a href="https://x.com/aecyydesign/status/2120239401821487149">▶ 影片</a></sub><br>
-<br>
-<sub><a href="https://fablelist.000ooo.ooo/zh-tw/prompts/?w=an-animation-made-with-blender&ref=gh"><b>✨ 取得提示詞</b></a></sub>
 </td>
 <td width="33%" valign="top">
 <a href="https://x.com/hayashimon1/status/2121943011525624151"><img src="assets/gifs/311.gif" width="100%" alt="用 Blender MCP 走過一座老車站月台"></a><br>
@@ -890,6 +916,13 @@
 </td>
 </tr>
 <tr>
+<td width="33%" valign="top">
+<a href="https://x.com/aecyydesign/status/2120239401821487149"><img src="assets/gifs/209.gif" width="100%" alt="用 Blender 做的動畫"></a><br>
+<b><a href="https://x.com/aecyydesign/status/2120239401821487149">用 Blender 做的動畫</a></b><br>
+<sub><a href="https://x.com/aecyydesign">@aecyydesign</a> · ♥ 2.5k · <a href="https://x.com/aecyydesign/status/2120239401821487149">▶ 影片</a></sub><br>
+<br>
+<sub><a href="https://fablelist.000ooo.ooo/zh-tw/prompts/?w=an-animation-made-with-blender&ref=gh"><b>✨ 取得提示詞</b></a></sub>
+</td>
 <td width="33%" valign="top">
 <a href="https://x.com/alexalbert__/status/2119916954337349737"><img src="assets/gifs/062.gif" width="100%" alt="達文西手稿互動版"></a><br>
 <b><a href="https://x.com/alexalbert__/status/2119916954337349737">達文西手稿互動版</a></b><br>
@@ -904,6 +937,14 @@
 <br>
 <sub><a href="https://fablelist.000ooo.ooo/zh-tw/prompts/?w=a-message-to-video-editors&ref=gh"><b>✨ 取得提示詞</b></a></sub>
 </td>
+</tr>
+<tr>
+<td width="33%" valign="top">
+<a href="https://x.com/kotaniko98765/status/2122266561960665539"><img src="assets/gifs/340.gif" width="100%" alt="一個週末做出來的當沖交易遊戲"></a><br>
+<b><a href="https://x.com/kotaniko98765/status/2122266561960665539">一個週末做出來的當沖交易遊戲</a></b><br>
+<sub>🆕 · <a href="https://x.com/kotaniko98765">@kotaniko98765</a> · ♥ 2.4k · <a href="https://x.com/kotaniko98765/status/2122266561960665539">▶ 影片</a></sub><br>
+
+</td>
 <td width="33%" valign="top">
 <a href="https://x.com/theo/status/2119926277801144695"><img src="assets/gifs/063.gif" width="100%" alt="Fishslop run"></a><br>
 <b><a href="https://x.com/theo/status/2119926277801144695">Fishslop run</a></b><br>
@@ -911,8 +952,6 @@
 <sub>76 分鐘，約 $42。</sub><br>
 <sub><a href="https://fablelist.000ooo.ooo/zh-tw/prompts/?w=fishslop-run&ref=gh"><b>✨ 取得提示詞</b></a></sub>
 </td>
-</tr>
-<tr>
 <td width="33%" valign="top">
 <a href="https://x.com/GPTabby/status/2119909996645298519"><img src="assets/gifs/210.gif" width="100%" alt="一則提示做出 Unreal Engine 5 賽車遊戲"></a><br>
 <b><a href="https://x.com/GPTabby/status/2119909996645298519">一則提示做出 Unreal Engine 5 賽車遊戲</a></b><br>
@@ -920,24 +959,10 @@
 <br>
 <sub><a href="https://fablelist.000ooo.ooo/zh-tw/prompts/?w=a-racing-game-in-unreal-engine-5-from&ref=gh"><b>✨ 取得提示詞</b></a></sub>
 </td>
-<td width="33%" valign="top">
-<a href="https://x.com/ryoma_nakajima/status/2120052388434473233"><img src="assets/gifs/211.gif" width="100%" alt="它終於會摺紙了"></a><br>
-<b><a href="https://x.com/ryoma_nakajima/status/2120052388434473233">它終於會摺紙了</a></b><br>
-<sub><a href="https://x.com/ryoma_nakajima">@ryoma_nakajima</a> · ♥ 2.0k · <a href="https://x.com/ryoma_nakajima/status/2120052388434473233">▶ 影片</a></sub><br>
-<br>
-<sub><a href="https://x.com/ryoma_nakajima/status/2120052388434473233">📝 作者公開的提示詞（免費）</a></sub>
-</td>
-<td width="33%" valign="top">
-<a href="https://x.com/_sholtodouglas/status/2119935331499925557"><img src="assets/gifs/064.gif" width="100%" alt="有傳送門的競技場 FPS"></a><br>
-<b><a href="https://x.com/_sholtodouglas/status/2119935331499925557">有傳送門的競技場 FPS</a></b><br>
-<sub><a href="https://x.com/_sholtodouglas">@_sholtodouglas</a> · ♥ 2.0k · <a href="https://x.com/_sholtodouglas/status/2119935331499925557">▶ 影片</a></sub><br>
-<sub>已在辦公室試玩過。</sub><br>
-<sub><a href="https://fablelist.000ooo.ooo/zh-tw/prompts/?w=arena-fps-with-portals&ref=gh"><b>✨ 取得提示詞</b></a></sub>
-</td>
 </tr>
 </table>
 
-<p align="center"><b><a href="all/video-demos.zh-TW.md">查看全部 135 個 →</a></b></p>
+<p align="center"><b><a href="all/video-demos.zh-TW.md">查看全部 140 個 →</a></b></p>
 
 ## 🤝 投稿
 
@@ -957,8 +982,8 @@
 
 ## 📰 更新
 
+- **2026-11-18**：新增 10 個作品和 5 個影片展示。
 - **2026-11-17**：新增 9 個作品和 7 個影片展示。
 - **2026-11-16**：新增 10 個作品和 6 個影片展示。
 - **2026-11-15**：新增 10 個作品和 10 個影片展示。
-- **2026-11-14**：新增 13 個作品和 2 個影片展示。
 - **2026-11-10**：首版，57 個作品 + 61 個影片展示，每個都有動圖預覽。

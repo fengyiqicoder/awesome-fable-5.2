@@ -1,4 +1,4 @@
-# 🎮 ゲーム · 全 89 件
+# 🎮 ゲーム · 全 92 件
 
 [← メインリストに戻る](../README.ja.md) · [English](games.md) · [简体中文](games.zh-CN.md) · [繁體中文](games.zh-TW.md) · **日本語** · [한국어](games.ko.md) · [Español](games.es.md) · [Português](games.pt-BR.md) · [Français](games.fr.md) · [Deutsch](games.de.md) · [Русский](games.ru.md)
 
@@ -16,7 +16,7 @@
 <td width="33%" valign="top">
 <a href="https://claude.ai/artifact/BGY1SztrAYcJQHSsnHHGmp"><img src="../assets/gifs/001.gif" width="100%" alt="Saltline — 一人称シューティング"></a><br>
 <b><a href="https://claude.ai/artifact/BGY1SztrAYcJQHSsnHHGmp">Saltline — 一人称シューティング</a></b><br>
-<sub><a href="https://x.com/felixrieseberg">@felixrieseberg</a> · ♥ 14.9k · <a href="https://x.com/felixrieseberg/status/2119925633564463609">▶ 動画</a></sub><br>
+<sub><a href="https://x.com/felixrieseberg">@felixrieseberg</a> · ♥ 15.0k · <a href="https://x.com/felixrieseberg/status/2119925633564463609">▶ 動画</a></sub><br>
 <sub>Anthropic のエンジニア作。ワンショットのプロンプト、人間のフィードバックなしで 8 時間、約 $550。モデル・サウンド・テクスチャはすべてコードで生成。</sub><br>
 <sub><a href="https://fablelist.000ooo.ooo/ja/prompts/?w=saltline-first-person-shooter&ref=gh"><b>✨ プロンプトを入手</b></a></sub>
 </td>
@@ -30,6 +30,13 @@
 </tr>
 <tr>
 <td width="33%" valign="top">
+<a href="https://viktorkav.com.br/apoio/uno-com-escada/fable/"><img src="../assets/gifs/329.gif" width="100%" alt="Uno com Escada：はしごを載せた Fiat Uno でサーキットを走る"></a><br>
+<b><a href="https://viktorkav.com.br/apoio/uno-com-escada/fable/">Uno com Escada：はしごを載せた Fiat Uno でサーキットを走る</a></b><br>
+<sub>🆕 · <a href="https://x.com/ViktorKav">@ViktorKav</a> · ♥ 8.0k · <a href="https://x.com/ViktorKav/status/2122647483281015155">▶ 動画</a></sub><br>
+<sub>屋根にはしごを積んだ 1996 年式 Uno Mille でサーキットを走る。603 KB の HTML ファイル 1 つで、エンジンも 3D ライブラリもテクスチャもなし。車、森、空、エンジン音まですべてコード製。</sub><br>
+<sub><a href="https://github.com/viktorkav/uno-com-escada">ソースコード</a></sub>
+</td>
+<td width="33%" valign="top">
 <a href="https://nyc.somethingbig.ai/"><img src="../assets/gifs/125.gif" width="100%" alt="CROSSTOWN — オープンワールドのニューヨーク（早期プレビュー）"></a><br>
 <b><a href="https://nyc.somethingbig.ai/">CROSSTOWN — オープンワールドのニューヨーク（早期プレビュー）</a></b><br>
 <sub><a href="https://x.com/mattshumer_">@mattshumer_</a> · ♥ 7.5k · <a href="https://x.com/mattshumer_/status/2120282133503820150">▶ 動画</a></sub><br>
@@ -39,10 +46,12 @@
 <td width="33%" valign="top">
 <a href="https://omw-game.kimaki.dev"><img src="../assets/gifs/308.gif" width="100%" alt="omw：油絵タッチの城の谷"></a><br>
 <b><a href="https://omw-game.kimaki.dev">omw：油絵タッチの城の谷</a></b><br>
-<sub>🆕 · <a href="https://x.com/__morse">@__morse</a> · ♥ 4.4k · <a href="https://x.com/__morse/status/2122013410309153042">▶ 動画</a></sub><br>
+<sub>🆕 · <a href="https://x.com/__morse">@__morse</a> · ♥ 4.5k · <a href="https://x.com/__morse/status/2122013410309153042">▶ 動画</a></sub><br>
 <sub>@de5imulate の「omw」ピクセルアートを、ブラウザで遊べる three.js ゲームとして再現。画面は油絵のような描画。</sub><br>
 <sub><a href="https://github.com/remorses/castle-valley">ソースコード</a></sub>
 </td>
+</tr>
+<tr>
 <td width="33%" valign="top">
 <a href="https://what-the-water-keeps.vercel.app/"><img src="../assets/gifs/008.gif" width="100%" alt="What the Water Keeps"></a><br>
 <b><a href="https://what-the-water-keeps.vercel.app/">What the Water Keeps</a></b><br>
@@ -50,8 +59,6 @@
 <sub>夢のような 8 つの世界を舟で巡る、ブラウザで遊べる作品。</sub><br>
 <sub><a href="https://fablelist.000ooo.ooo/ja/prompts/?w=what-the-water-keeps&ref=gh"><b>✨ プロンプトを入手</b></a></sub>
 </td>
-</tr>
-<tr>
 <td width="33%" valign="top">
 <a href="https://tennis.sixfingerpunch.com/"><img src="../assets/gifs/197.gif" width="100%" alt="Tennis"></a><br>
 <b><a href="https://tennis.sixfingerpunch.com/">Tennis</a></b><br>
@@ -65,6 +72,8 @@
 <sub><a href="https://x.com/BlendiByl">@BlendiByl</a> · ♥ 2.6k · <a href="https://x.com/BlendiByl/status/2121594536153718972">▶ 動画</a></sub><br>
 <sub>1日で制作：呪文7種、壊せる物理パーツ約1,800個、モデルもテクスチャもなし、オープンソース。</sub>
 </td>
+</tr>
+<tr>
 <td width="33%" valign="top">
 <a href="https://www.spawn.co/@mattshumer/earth?room=local"><img src="../assets/gifs/003.gif" width="100%" alt="Mirror Earth"></a><br>
 <b><a href="https://www.spawn.co/@mattshumer/earth?room=local">Mirror Earth</a></b><br>
@@ -72,8 +81,6 @@
 <sub>地球まるごとを壊せるゲーム世界にし、天候は実際の地球とリアルタイムで連動。</sub><br>
 <sub><a href="https://fablelist.000ooo.ooo/ja/prompts/?w=mirror-earth&ref=gh"><b>✨ プロンプトを入手</b></a></sub>
 </td>
-</tr>
-<tr>
 <td width="33%" valign="top">
 <a href="https://portals-endless-worlds.netlify.app/"><img src="../assets/gifs/006.gif" width="100%" alt="Portals: Endless Worlds"></a><br>
 <b><a href="https://portals-endless-worlds.netlify.app/">Portals: Endless Worlds</a></b><br>
@@ -89,6 +96,8 @@
 <sub>ダークファンタジーのソウルライク風ボス戦。ブラウザで遊べる。</sub><br>
 <sub><a href="https://fablelist.000ooo.ooo/ja/prompts/?w=evensong&ref=gh"><b>✨ プロンプトを入手</b></a></sub>
 </td>
+</tr>
+<tr>
 <td width="33%" valign="top">
 <a href="https://loktar00.github.io/lanternfall/"><img src="../assets/gifs/128.gif" width="100%" alt="LANTERNFALL"></a><br>
 <b><a href="https://loktar00.github.io/lanternfall/">LANTERNFALL</a></b><br>
@@ -96,20 +105,11 @@
 <sub>アニメーションもモデルも、ゲーム全体を Fable が生成。敵が倒れるときのエフェクトに注目。</sub><br>
 <sub><a href="https://fablelist.000ooo.ooo/ja/prompts/?w=lanternfall&ref=gh"><b>✨ プロンプトを入手</b></a></sub>
 </td>
-</tr>
-<tr>
 <td width="33%" valign="top">
 <a href="https://app.usecrayon.ai/play/76dbd04f-0684-4486-8cc4-eae0585295e8"><img src="../assets/gifs/288.gif" width="100%" alt="悟空：フォースターロード"></a><br>
 <b><a href="https://app.usecrayon.ai/play/76dbd04f-0684-4486-8cc4-eae0585295e8">悟空：フォースターロード</a></b><br>
 <sub><a href="https://x.com/aniketjart">@aniketjart</a> · ♥ 1.4k · <a href="https://x.com/aniketjart/status/2121793239175119279">▶ 動画</a></sub><br>
 <sub>ドラゴンボールのレッドリボン軍編をもとにした three.js 製のファンアクションゲーム。制作途中で、最初の 2 マップを遊べます。</sub>
-</td>
-<td width="33%" valign="top">
-<a href="https://op7418.github.io/guizang-game-skill/"><img src="../assets/gifs/131.gif" width="100%" alt="Mist-Locked Mountain Gate — 3D アクションゲーム"></a><br>
-<b><a href="https://op7418.github.io/guizang-game-skill/">Mist-Locked Mountain Gate — 3D アクションゲーム</a></b><br>
-<sub><a href="https://x.com/op7418">@op7418</a> · ♥ 1.2k · <a href="https://x.com/op7418/status/2120694045299327187">▶ 動画</a></sub><br>
-<sub>ある午後に 45 億トークン。モデル・シーン・アクションはすべて Fable 制作、30 MB の単一 HTML ファイルにまとめた。</sub><br>
-<sub><a href="https://fablelist.000ooo.ooo/ja/prompts/?w=mist-locked-mountain-gate-3d-action-game&ref=gh"><b>✨ プロンプトを入手</b></a></sub>
 </td>
 <td width="33%" valign="top">
 <a href="https://heat.pplx.app"><img src="../assets/gifs/313.gif" width="100%" alt="VICE '86：ネオン輝く1986年マイアミのオープンワールドドライブ"></a><br>
@@ -119,6 +119,13 @@
 </td>
 </tr>
 <tr>
+<td width="33%" valign="top">
+<a href="https://op7418.github.io/guizang-game-skill/"><img src="../assets/gifs/131.gif" width="100%" alt="Mist-Locked Mountain Gate — 3D アクションゲーム"></a><br>
+<b><a href="https://op7418.github.io/guizang-game-skill/">Mist-Locked Mountain Gate — 3D アクションゲーム</a></b><br>
+<sub><a href="https://x.com/op7418">@op7418</a> · ♥ 1.2k · <a href="https://x.com/op7418/status/2120694045299327187">▶ 動画</a></sub><br>
+<sub>ある午後に 45 億トークン。モデル・シーン・アクションはすべて Fable 制作、30 MB の単一 HTML ファイルにまとめた。</sub><br>
+<sub><a href="https://fablelist.000ooo.ooo/ja/prompts/?w=mist-locked-mountain-gate-3d-action-game&ref=gh"><b>✨ プロンプトを入手</b></a></sub>
+</td>
 <td width="33%" valign="top">
 <a href="https://wavedash.com/games/rooftop-rally"><img src="../assets/gifs/129.gif" width="100%" alt="Rooftop Rally — Unreal 5.9 のピックルボール"></a><br>
 <b><a href="https://wavedash.com/games/rooftop-rally">Rooftop Rally — Unreal 5.9 のピックルボール</a></b><br>
@@ -135,6 +142,8 @@
 <sub><a href="https://claude.ai/artifact/6MjtQjf4ee1ZZjEpafaEpa">The Clockmaker's Heart</a> · <a href="https://claude.ai/artifact/JTgyEMn7sn1q2riWrMb7D4">Tidewright</a></sub><br>
 <sub><a href="https://fablelist.000ooo.ooo/ja/prompts/?w=three-games-saltline-the-clockmaker-s-heart-tidewright&ref=gh"><b>✨ プロンプトを入手</b></a></sub>
 </td>
+</tr>
+<tr>
 <td width="33%" valign="top">
 <a href="https://patch.gg/blendi/coloured-pencil"><img src="../assets/gifs/247.gif" width="100%" alt="Coloured Pencil"></a><br>
 <b><a href="https://patch.gg/blendi/coloured-pencil">Coloured Pencil</a></b><br>
@@ -142,52 +151,56 @@
 <sub>色鉛筆風ゲームの一場面。すべての面の陰影も町全体もコード。オープンソース。</sub><br>
 <sub><a href="https://fablelist.000ooo.ooo/ja/prompts/?w=coloured-pencil&ref=gh"><b>✨ プロンプトを入手</b></a></sub>
 </td>
-</tr>
-<tr>
 <td width="33%" valign="top">
 <a href="https://www.spawn.co/@mattshumer/voxel-engine"><img src="../assets/gifs/004.gif" width="100%" alt="Voxel Engine"></a><br>
 <b><a href="https://www.spawn.co/@mattshumer/voxel-engine">Voxel Engine</a></b><br>
-<sub><a href="https://x.com/mattshumer_">@mattshumer_</a> · ♥ 743 · <a href="https://x.com/mattshumer_/status/2119870965106483384">▶ 動画</a></sub><br>
+<sub><a href="https://x.com/mattshumer_">@mattshumer_</a> · ♥ 742 · <a href="https://x.com/mattshumer_/status/2119870965106483384">▶ 動画</a></sub><br>
 <sub>たった 1 つのプロンプトで構築。音を出してどうぞ。</sub><br>
 <sub><a href="https://fablelist.000ooo.ooo/ja/prompts/?w=voxel-engine&ref=gh"><b>✨ プロンプトを入手</b></a></sub>
 </td>
 <td width="33%" valign="top">
 <a href="https://patch.gg/blendi/patchwork-quilt"><img src="../assets/gifs/190.gif" width="100%" alt="Patchwork Quilt"></a><br>
 <b><a href="https://patch.gg/blendi/patchwork-quilt">Patchwork Quilt</a></b><br>
-<sub><a href="https://x.com/BlendiByl">@BlendiByl</a> · ♥ 673 · <a href="https://x.com/BlendiByl/status/2120746541636047347">▶ 動画</a></sub><br>
+<sub><a href="https://x.com/BlendiByl">@BlendiByl</a> · ♥ 670 · <a href="https://x.com/BlendiByl/status/2120746541636047347">▶ 動画</a></sub><br>
 <sub>パッチワークでストップモーション風のゲームの一場面。マップ全体がコード。オープンソース。</sub><br>
 <sub><a href="https://fablelist.000ooo.ooo/ja/prompts/?w=patchwork-quilt&ref=gh"><b>✨ プロンプトを入手</b></a></sub>
-</td>
-<td width="33%" valign="top">
-<a href="https://bannerfall.itch.io/siege-wing"><img src="../assets/gifs/271.gif" width="100%" alt="Siege Wing — 中世の戦争にヘリで参戦"></a><br>
-<b><a href="https://bannerfall.itch.io/siege-wing">Siege Wing — 中世の戦争にヘリで参戦</a></b><br>
-<sub><a href="https://x.com/builderjaydub">@builderjaydub</a> · ♥ 573 · <a href="https://x.com/builderjaydub/status/2120223731520040966">▶ 動画</a></sub><br>
-<sub>大砲・ロケット・ミサイルを積んだヘリで、ローマのバリスタをかわしつつ城を落とす。</sub>
 </td>
 </tr>
 <tr>
 <td width="33%" valign="top">
+<a href="https://bannerfall.itch.io/siege-wing"><img src="../assets/gifs/271.gif" width="100%" alt="Siege Wing — 中世の戦争にヘリで参戦"></a><br>
+<b><a href="https://bannerfall.itch.io/siege-wing">Siege Wing — 中世の戦争にヘリで参戦</a></b><br>
+<sub><a href="https://x.com/builderjaydub">@builderjaydub</a> · ♥ 576 · <a href="https://x.com/builderjaydub/status/2120223731520040966">▶ 動画</a></sub><br>
+<sub>大砲・ロケット・ミサイルを積んだヘリで、ローマのバリスタをかわしつつ城を落とす。</sub>
+</td>
+<td width="33%" valign="top">
+<a href="https://patch.gg/play/blendi/solar"><img src="../assets/gifs/323.gif" width="100%" alt="Solar — 自由に飛び回れる小さな太陽系"></a><br>
+<b><a href="https://patch.gg/play/blendi/solar">Solar — 自由に飛び回れる小さな太陽系</a></b><br>
+<sub>🆕 · <a href="https://x.com/BlendiByl">@BlendiByl</a> · ♥ 536 · <a href="https://x.com/BlendiByl/status/2122673770607591855">▶ 動画</a></sub><br>
+<sub>Outer Wilds にインスパイア：本物の軌道と重力、惑星間を途切れずに飛行でき、すべての世界がコードで描かれています。オープンソース。</sub>
+</td>
+<td width="33%" valign="top">
 <a href="https://i-would-have-gotten-away-with-it.netlify.app/"><img src="../assets/gifs/007.gif" width="100%" alt="I Would Have Gotten Away With It"></a><br>
 <b><a href="https://i-would-have-gotten-away-with-it.netlify.app/">I Would Have Gotten Away With It</a></b><br>
-<sub><a href="https://x.com/emollick">@emollick</a> · ♥ 514 · <a href="https://x.com/emollick/status/2119876449494540554">▶ 動画</a></sub><br>
+<sub><a href="https://x.com/emollick">@emollick</a> · ♥ 515 · <a href="https://x.com/emollick/status/2119876449494540554">▶ 動画</a></sub><br>
 <sub>逆スクービー・ドゥー：あなたは悪役で、おせっかいな子供たちを追い払う。トレーラー、音楽、サウンドも Fable が制作。</sub><br>
 <sub><a href="https://fablelist.000ooo.ooo/ja/prompts/?w=i-would-have-gotten-away-with-it&ref=gh"><b>✨ プロンプトを入手</b></a></sub>
 </td>
+</tr>
+<tr>
 <td width="33%" valign="top">
 <a href="https://valsera-game.vercel.app/"><img src="../assets/gifs/279.gif" width="100%" alt="Valsera — 横スクロール RPG"></a><br>
 <b><a href="https://valsera-game.vercel.app/">Valsera — 横スクロール RPG</a></b><br>
-<sub><a href="https://x.com/kevin_t_ngo">@kevin_t_ngo</a> · ♥ 502 · <a href="https://x.com/kevin_t_ngo/status/2121701020598415465">▶ 動画</a></sub><br>
+<sub><a href="https://x.com/kevin_t_ngo">@kevin_t_ngo</a> · ♥ 507 · <a href="https://x.com/kevin_t_ngo/status/2121701020598415465">▶ 動画</a></sub><br>
 <sub>ブラウザで遊べる横スクロール RPG。画像生成モデルや既存の素材は使わず、ビジュアルはすべてコードで描画。</sub>
 </td>
 <td width="33%" valign="top">
 <a href="https://noclipepe.pages.dev/rug/"><img src="../assets/gifs/010.gif" width="100%" alt="Childhood Rug Racer"></a><br>
 <b><a href="https://noclipepe.pages.dev/rug/">Childhood Rug Racer</a></b><br>
-<sub><a href="https://x.com/noclipepe">@noclipepe</a> · ♥ 426 · <a href="https://x.com/noclipepe/status/2119728047754547326">▶ 動画</a></sub><br>
+<sub><a href="https://x.com/noclipepe">@noclipepe</a> · ♥ 425 · <a href="https://x.com/noclipepe/status/2119728047754547326">▶ 動画</a></sub><br>
 <sub>子供の頃の遊び用ラグの上を走るレースゲーム。GPT-6.2 Sol と同じプロンプト。作者はこのモデルを「Fable 5.5（ルーティング）」と呼んでいる。</sub><br>
 <sub><a href="https://fablelist.000ooo.ooo/ja/prompts/?w=childhood-rug-racer&ref=gh"><b>✨ プロンプトを入手</b></a></sub>
 </td>
-</tr>
-<tr>
 <td width="33%" valign="top">
 <a href="https://finderchangchang.github.io/cloud-stunt-3d/"><img src="../assets/gifs/014.gif" width="100%" alt="Cloud Stunt 3D"></a><br>
 <b><a href="https://finderchangchang.github.io/cloud-stunt-3d/">Cloud Stunt 3D</a></b><br>
@@ -196,6 +209,8 @@
 <sub><a href="https://finderchangchang.github.io/cloud-stunt-3d/golden/">Optimized</a></sub><br>
 <sub><a href="https://x.com/jev_chat/status/2120015641151426838">📝 作者公開のプロンプト（無料）</a></sub>
 </td>
+</tr>
+<tr>
 <td width="33%" valign="top">
 <a href="https://gilt-and-gutter.vercel.app/"><img src="../assets/gifs/127.gif" width="100%" alt="Gilt & Gutter"></a><br>
 <b><a href="https://gilt-and-gutter.vercel.app/">Gilt & Gutter</a></b><br>
@@ -206,18 +221,24 @@
 <td width="33%" valign="top">
 <a href="https://valle-morta.vercel.app/"><img src="../assets/gifs/298.gif" width="100%" alt="Valle Morta"></a><br>
 <b><a href="https://valle-morta.vercel.app/">Valle Morta</a></b><br>
-<sub>🆕 · <a href="https://x.com/LexnLin">@LexnLin</a> · ♥ 322 · <a href="https://x.com/LexnLin/status/2121934071429468543">▶ 動画</a></sub><br>
+<sub>🆕 · <a href="https://x.com/LexnLin">@LexnLin</a> · ♥ 324 · <a href="https://x.com/LexnLin/status/2121934071429468543">▶ 動画</a></sub><br>
 <sub>2 日で作った一人称ゾンビサバイバルシューター。舞台は戦火のアルプスの谷。既製の 3D 素材は使わず、映像はすべてコードで生成。</sub><br>
 <sub><a href="https://github.com/Leonxlnx/valle-morta">ソースコード</a></sub>
 </td>
-</tr>
-<tr>
 <td width="33%" valign="top">
 <a href="https://www.spawn.co/@mattshumer/hogwarts-royale"><img src="../assets/gifs/005.gif" width="100%" alt="Hogwarts Royale"></a><br>
 <b><a href="https://www.spawn.co/@mattshumer/hogwarts-royale">Hogwarts Royale</a></b><br>
 <sub><a href="https://x.com/mattshumer_">@mattshumer_</a> · ♥ 311 · <a href="https://x.com/mattshumer_/status/2119872098306810226">▶ 動画</a></sub><br>
 <sub>「ハリー・ポッターと Fortnite のマッシュアップを作って」——遊べるバトルロイヤル。</sub><br>
 <sub><a href="https://x.com/mattshumer_/status/2119872098306810226">📝 作者公開のプロンプト（無料）</a></sub>
+</td>
+</tr>
+<tr>
+<td width="33%" valign="top">
+<a href="https://mariana.pplx.app"><img src="../assets/gifs/331.gif" width="100%" alt="HADAL：マリアナ海溝へのダイブ"></a><br>
+<b><a href="https://mariana.pplx.app">HADAL：マリアナ海溝へのダイブ</a></b><br>
+<sub>🆕 · <a href="https://x.com/AravSrinivas">@AravSrinivas</a> · ♥ 311 · <a href="https://x.com/AravSrinivas/status/2122713692324384793">▶ 動画</a></sub><br>
+<sub>日の差すサンゴ礁から出発し、潜水艦に乗って沈没船や鯨骨を過ぎ、チャレンジャー海淵まで潜りながら 18 の発見をスキャンする。自作の WebGPU レンダラーで、エンジンもアセットもなし。373 KB の HTML ファイル 1 つ。</sub>
 </td>
 <td width="33%" valign="top">
 <a href="https://dread-and-district.netlify.app"><img src="../assets/gifs/130.gif" width="100%" alt="Dread & District"></a><br>
@@ -238,7 +259,7 @@
 <td width="33%" valign="top">
 <a href="https://lauramionel.github.io/cayley-flight-simulator/"><img src="../assets/gifs/198.gif" width="100%" alt="Cayley 飛行シミュレーター"></a><br>
 <b><a href="https://lauramionel.github.io/cayley-flight-simulator/">Cayley 飛行シミュレーター</a></b><br>
-<sub><a href="https://x.com/lionel_mora">@lionel_mora</a> · ♥ 296 · <a href="https://x.com/lionel_mora/status/2120554787812860294">▶ 動画</a></sub><br>
+<sub><a href="https://x.com/lionel_mora">@lionel_mora</a> · ♥ 297 · <a href="https://x.com/lionel_mora/status/2120554787812860294">▶ 動画</a></sub><br>
 <sub>一晩でワンショット：翼の各部分の揚力と抗力を計算する本格的な翼の物理。</sub><br>
 <sub><a href="https://fablelist.000ooo.ooo/ja/prompts/?w=cayley-flight-simulator&ref=gh"><b>✨ プロンプトを入手</b></a></sub>
 </td>
@@ -252,7 +273,7 @@
 <td width="33%" valign="top">
 <a href="https://maad-maxxing.vercel.app/"><img src="../assets/gifs/199.gif" width="100%" alt="MAAD MAXXING"></a><br>
 <b><a href="https://maad-maxxing.vercel.app/">MAAD MAXXING</a></b><br>
-<sub><a href="https://x.com/Andrew_Blumson">@Andrew_Blumson</a> · ♥ 249 · <a href="https://x.com/Andrew_Blumson/status/2120599812512833557">▶ 動画</a></sub><br>
+<sub><a href="https://x.com/Andrew_Blumson">@Andrew_Blumson</a> · ♥ 246 · <a href="https://x.com/Andrew_Blumson/status/2120599812512833557">▶ 動画</a></sub><br>
 <sub>100% コード、アセットなし。最初の 3 ステージが遊べる。音声は ElevenLabs。</sub><br>
 <sub><a href="https://fablelist.000ooo.ooo/ja/prompts/?w=maad-maxxing&ref=gh"><b>✨ プロンプトを入手</b></a></sub>
 </td>
@@ -275,7 +296,7 @@
 <td width="33%" valign="top">
 <a href="https://noclipepe.pages.dev/dino"><img src="../assets/gifs/011.gif" width="100%" alt="Rambo Dino"></a><br>
 <b><a href="https://noclipepe.pages.dev/dino">Rambo Dino</a></b><br>
-<sub><a href="https://x.com/noclipepe">@noclipepe</a> · ♥ 182 · <a href="https://x.com/noclipepe/status/2119927838321328577">▶ 動画</a></sub><br>
+<sub><a href="https://x.com/noclipepe">@noclipepe</a> · ♥ 183 · <a href="https://x.com/noclipepe/status/2119927838321328577">▶ 動画</a></sub><br>
 <sub>Chrome の T-Rex ゲームを作り直したもの。Opus 5.5、Gemini 4 Carbon、GPT-6 Astra と比較。</sub><br>
 <sub><a href="https://fablelist.000ooo.ooo/ja/prompts/?w=rambo-dino&ref=gh"><b>✨ プロンプトを入手</b></a></sub>
 </td>
@@ -284,7 +305,7 @@
 <td width="33%" valign="top">
 <a href="https://cozylisbon.vercel.app"><img src="../assets/gifs/200.gif" width="100%" alt="Cozy Lisbon"></a><br>
 <b><a href="https://cozylisbon.vercel.app">Cozy Lisbon</a></b><br>
-<sub><a href="https://x.com/goncalo_canhoto">@goncalo_canhoto</a> · ♥ 171 · <a href="https://x.com/goncalo_canhoto/status/2119932946346094690">▶ 動画</a></sub><br>
+<sub><a href="https://x.com/goncalo_canhoto">@goncalo_canhoto</a> · ♥ 172 · <a href="https://x.com/goncalo_canhoto/status/2119932946346094690">▶ 動画</a></sub><br>
 <sub>リスボンの上を小さな飛行機が飛ぶ、1 プロンプトのほのぼのゲーム。</sub><br>
 <sub><a href="https://fablelist.000ooo.ooo/ja/prompts/?w=cozy-lisbon&ref=gh"><b>✨ プロンプトを入手</b></a></sub>
 </td>
@@ -329,6 +350,12 @@
 </tr>
 <tr>
 <td width="33%" valign="top">
+<a href="https://github.com/amirmushichge/fly-in-kit"><img src="../assets/gifs/320.gif" width="100%" alt="Fly-In Kit：カフェのための飛行ミニゲーム"></a><br>
+<b><a href="https://github.com/amirmushichge/fly-in-kit">Fly-In Kit：カフェのための飛行ミニゲーム</a></b><br>
+<sub>🆕 · <a href="https://x.com/AmirMushich">@AmirMushich</a> · ♥ 107 · <a href="https://x.com/AmirMushich/status/2122421769462284615">▶ 動画</a></sub><br>
+<sub>コーヒーショップ周辺の実際の街並み、7,970 棟を再現。飛んで豆を 5 つ集め、屋上に着陸すると無料コーヒーがもらえる。地図上のどんな店にも使える。</sub>
+</td>
+<td width="33%" valign="top">
 <a href="https://loktar00.github.io/llm-test-pages/fable52-dino-chase/"><img src="../assets/gifs/222.gif" width="100%" alt="Thunder Valley 恐竜チェイス"></a><br>
 <b><a href="https://loktar00.github.io/llm-test-pages/fable52-dino-chase/">Thunder Valley 恐竜チェイス</a></b><br>
 <sub><a href="https://x.com/loktar00">@loktar00</a> · ♥ 99 · <a href="https://x.com/loktar00/status/2120905457380507991">▶ 動画</a></sub><br>
@@ -342,20 +369,14 @@
 <sub>逆バックルーム：あなたがモンスターで、人間を捕まえるのが仕事。</sub><br>
 <sub><a href="https://fablelist.000ooo.ooo/ja/prompts/?w=feed-the-backrooms&ref=gh"><b>✨ プロンプトを入手</b></a></sub>
 </td>
+</tr>
+<tr>
 <td width="33%" valign="top">
 <a href="https://rivergame-kappa.vercel.app"><img src="../assets/gifs/132.gif" width="100%" alt="The Waking River"></a><br>
 <b><a href="https://rivergame-kappa.vercel.app">The Waking River</a></b><br>
 <sub><a href="https://x.com/flxrnc">@flxrnc</a> · ♥ 93 · <a href="https://x.com/flxrnc/status/2120494277528580110">▶ 動画</a></sub><br>
 <sub>1 つのプロンプトと数回の追加指示：眠っていた 5 つの世界が、舟で進むにつれて目覚める。音楽はコードから生成。</sub><br>
 <sub><a href="https://x.com/flxrnc/status/2120494277528580110">📝 作者公開のプロンプト（無料）</a></sub>
-</td>
-</tr>
-<tr>
-<td width="33%" valign="top">
-<a href="https://github.com/amirmushichge/fly-in-kit"><img src="../assets/gifs/320.gif" width="100%" alt="Fly-In Kit：カフェのための飛行ミニゲーム"></a><br>
-<b><a href="https://github.com/amirmushichge/fly-in-kit">Fly-In Kit：カフェのための飛行ミニゲーム</a></b><br>
-<sub>🆕 · <a href="https://x.com/AmirMushich">@AmirMushich</a> · ♥ 83 · <a href="https://x.com/AmirMushich/status/2122421769462284615">▶ 動画</a></sub><br>
-<sub>コーヒーショップ周辺の実際の街並み、7,970 棟を再現。飛んで豆を 5 つ集め、屋上に着陸すると無料コーヒーがもらえる。地図上のどんな店にも使える。</sub>
 </td>
 <td width="33%" valign="top">
 <a href="https://app.usecrayon.ai/play/992c2130-43da-416b-a577-aed9514d3057"><img src="../assets/gifs/177.gif" width="100%" alt="SKYWAKE"></a><br>
@@ -367,7 +388,7 @@
 <td width="33%" valign="top">
 <a href="https://app.usecrayon.ai/play/0cd7624e-1297-417e-a5be-b3c3036a496a"><img src="../assets/gifs/249.gif" width="100%" alt="KUMOKIRI"></a><br>
 <b><a href="https://app.usecrayon.ai/play/0cd7624e-1297-417e-a5be-b3c3036a496a">KUMOKIRI</a></b><br>
-<sub><a href="https://x.com/aniketjart">@aniketjart</a> · ♥ 74 · <a href="https://x.com/aniketjart/status/2121101334900617631">▶ 動画</a></sub><br>
+<sub><a href="https://x.com/aniketjart">@aniketjart</a> · ♥ 73 · <a href="https://x.com/aniketjart/status/2121101334900617631">▶ 動画</a></sub><br>
 <sub>Fable 5.2、Crayon、three.js で作った絵画調のサムライゲーム。</sub><br>
 <sub><a href="https://fablelist.000ooo.ooo/ja/prompts/?w=kumokiri&ref=gh"><b>✨ プロンプトを入手</b></a></sub>
 </td>
@@ -404,12 +425,20 @@
 <sub><a href="https://fablelist.000ooo.ooo/ja/prompts/?w=kestrel-head-solstice-racing&ref=gh"><b>✨ プロンプトを入手</b></a></sub>
 </td>
 <td width="33%" valign="top">
+<a href="https://nisen0808-web.github.io/xiyou-td-play/"><img src="../assets/gifs/338.gif" width="100%" alt="Xiyou X：西遊記のタワーディフェンス"></a><br>
+<b><a href="https://nisen0808-web.github.io/xiyou-td-play/">Xiyou X：西遊記のタワーディフェンス</a></b><br>
+<sub>🆕 · <a href="https://x.com/PhyrexNi">@PhyrexNi</a> · ♥ 55 · <a href="https://x.com/PhyrexNi/status/2122602578978709908">投稿</a></sub><br>
+<sub>8 ステージ、5 段階の難易度、特別なキャラクターカードのガチャがあるタワーディフェンスのテスト版。PC でもスマホのブラウザでも動き、横向きがおすすめ。</sub>
+</td>
+<td width="33%" valign="top">
 <a href="https://shubhu121.github.io/hitdude/play/"><img src="../assets/gifs/203.gif" width="100%" alt="HITOFUDE"></a><br>
 <b><a href="https://shubhu121.github.io/hitdude/play/">HITOFUDE</a></b><br>
 <sub><a href="https://x.com/positronx_">@positronx_</a> · ♥ 52 · <a href="https://x.com/positronx_/status/2120374208043876422">▶ 動画</a></sub><br>
 <sub>全フレームを、紙に墨で描くようにコードで筆書き。ボスはステージを消し、あなたの剣は筆。</sub><br>
 <sub><a href="https://fablelist.000ooo.ooo/ja/prompts/?w=hitofude&ref=gh"><b>✨ プロンプトを入手</b></a></sub>
 </td>
+</tr>
+<tr>
 <td width="33%" valign="top">
 <a href="https://higgsfield.ai/@higgsfield.studio/blogs/fable-5-2-built-this-rpg-from-pure-code-here-s-every-step"><img src="../assets/gifs/022.gif" width="100%" alt="VOWLORN"></a><br>
 <b><a href="https://higgsfield.ai/@higgsfield.studio/blogs/fable-5-2-built-this-rpg-from-pure-code-here-s-every-step">VOWLORN</a></b><br>
@@ -418,8 +447,6 @@
 <sub><a href="https://higgsfield.ai/@higgsfield.studio/blogs/claude-fable-5-2-built-a-dragon-riding-game-play-it-free">Dragon-riding game</a> · <a href="https://higgsfield.ai/@higgsfield.studio/blogs/one-drawing-fable-5-2-turned-it-into-a-horror-game">Drawing-to-horror game</a></sub><br>
 <sub><a href="https://fablelist.000ooo.ooo/ja/prompts/?w=vowlorn&ref=gh"><b>✨ プロンプトを入手</b></a></sub>
 </td>
-</tr>
-<tr>
 <td width="33%" valign="top">
 <a href="https://fowllabs.com/fable-5-2/chairmageddon/"><img src="../assets/gifs/179.gif" width="100%" alt="Chairmageddon"></a><br>
 <b><a href="https://fowllabs.com/fable-5-2/chairmageddon/">Chairmageddon</a></b><br>
@@ -434,6 +461,8 @@
 <sub>HTML ファイル 1 つ、603 行、アセットゼロ：本格的なドリフト物理、生成された山、合成されたエンジン音とタイヤ音。</sub><br>
 <sub><a href="https://fablelist.000ooo.ooo/ja/prompts/?w=midnight-pass&ref=gh"><b>✨ プロンプトを入手</b></a></sub>
 </td>
+</tr>
+<tr>
 <td width="33%" valign="top">
 <a href="https://claude.ai/artifact/4nPXUKJjQWNsZEHVNmXXCt"><img src="../assets/gifs/017.gif" width="100%" alt="Stray Cat"></a><br>
 <b><a href="https://claude.ai/artifact/4nPXUKJjQWNsZEHVNmXXCt">Stray Cat</a></b><br>
@@ -441,8 +470,6 @@
 <sub>子猫を助け、犬を威嚇し、老いたオス猫に鳴き返す。すべての音は合成。</sub><br>
 <sub><a href="https://fablelist.000ooo.ooo/ja/prompts/?w=stray-cat&ref=gh"><b>✨ プロンプトを入手</b></a></sub>
 </td>
-</tr>
-<tr>
 <td width="33%" valign="top">
 <a href="https://sael.net/demo/farewell-light/"><img src="../assets/gifs/183.gif" width="100%" alt="Farewell Light"></a><br>
 <b><a href="https://sael.net/demo/farewell-light/">Farewell Light</a></b><br>
@@ -456,6 +483,8 @@
 <sub><a href="https://x.com/argofowl">@argofowl</a> · ♥ 43 · <a href="https://x.com/argofowl/status/2121276206683410839">▶ 動画</a></sub><br>
 <sub>深夜3時の猫になって、飼い主を起こさずに机の上の物をひとつずつ落としていく。3D モデルなしの HTML 1ファイル。</sub>
 </td>
+</tr>
+<tr>
 <td width="33%" valign="top">
 <a href="https://remix.gg/g/survivors"><img src="../assets/gifs/223.gif" width="100%" alt="Survivors"></a><br>
 <b><a href="https://remix.gg/g/survivors">Survivors</a></b><br>
@@ -463,20 +492,12 @@
 <sub>WoW 風のレベルアップとルートを備えた Vampire Survivors。ソロ、または最大 4 人のコープ。</sub><br>
 <sub><a href="https://fablelist.000ooo.ooo/ja/prompts/?w=survivors&ref=gh"><b>✨ プロンプトを入手</b></a></sub>
 </td>
-</tr>
-<tr>
 <td width="33%" valign="top">
 <a href="https://loktar00.github.io/llm-test-pages/fable52-hang-glider/"><img src="../assets/gifs/225.gif" width="100%" alt="Thermal"></a><br>
 <b><a href="https://loktar00.github.io/llm-test-pages/fable52-hang-glider/">Thermal</a></b><br>
 <sub><a href="https://x.com/loktar00">@loktar00</a> · ♥ 40 · <a href="https://x.com/loktar00/status/2121005021131083851">▶ 動画</a></sub><br>
 <sub>小さなハンググライダーゲーム：上昇気流に乗って目標を目指す。</sub><br>
 <sub><a href="https://fablelist.000ooo.ooo/ja/prompts/?w=thermal&ref=gh"><b>✨ プロンプトを入手</b></a></sub>
-</td>
-<td width="33%" valign="top">
-<a href="https://patch.gg/play/blendi/solar"><img src="../assets/gifs/323.gif" width="100%" alt="Solar — 自由に飛び回れる小さな太陽系"></a><br>
-<b><a href="https://patch.gg/play/blendi/solar">Solar — 自由に飛び回れる小さな太陽系</a></b><br>
-<sub>🆕 · <a href="https://x.com/BlendiByl">@BlendiByl</a> · ♥ 38 · <a href="https://x.com/BlendiByl/status/2122673770607591855">▶ 動画</a></sub><br>
-<sub>Outer Wilds にインスパイア：本物の軌道と重力、惑星間を途切れずに飛行でき、すべての世界がコードで描かれています。オープンソース。</sub>
 </td>
 <td width="33%" valign="top">
 <a href="https://www.aigameshare.com/games/animal-card-battle-game?play=1&mode=fullscreen"><img src="../assets/gifs/224.gif" width="100%" alt="Thimble Knights"></a><br>
@@ -588,7 +609,7 @@
 <td width="33%" valign="top">
 <a href="https://www.nightclub-driftspeed.xyz/"><img src="../assets/gifs/251.gif" width="100%" alt="NightClub: Drift & Speed"></a><br>
 <b><a href="https://www.nightclub-driftspeed.xyz/">NightClub: Drift & Speed</a></b><br>
-<sub><a href="https://x.com/Story91_">@Story91_</a> · ♥ 17 · <a href="https://x.com/Story91_/status/2121016763190059194">▶ 動画</a></sub><br>
+<sub><a href="https://x.com/Story91_">@Story91_</a> · ♥ 18 · <a href="https://x.com/Story91_/status/2121016763190059194">▶ 動画</a></sub><br>
 <sub>世界ランキング付きのブラウザドリフトレースゲーム。空のフォルダから 72 時間で制作。</sub><br>
 <sub><a href="https://fablelist.000ooo.ooo/ja/prompts/?w=nightclub-drift-speed&ref=gh"><b>✨ プロンプトを入手</b></a></sub>
 </td>
@@ -625,16 +646,16 @@
 </tr>
 <tr>
 <td width="33%" valign="top">
+<a href="http://poke-jam.vercel.app"><img src="../assets/gifs/267.gif" width="100%" alt="Poke Dodge"></a><br>
+<b><a href="http://poke-jam.vercel.app">Poke Dodge</a></b><br>
+<sub><a href="https://x.com/crtvTeknologist">@crtvTeknologist</a> · ♥ 11 · <a href="https://x.com/crtvTeknologist/status/2121319366830809285">▶ 動画</a></sub><br>
+<sub>NBA Jam 風味の 2 対 2 ポケモン×ドッジボールのマッシュアップ：ジムのラダー、タイプ相性、持ち物、ステージは Three.js。</sub>
+</td>
+<td width="33%" valign="top">
 <a href="https://aashishgtbit.github.io/PaletteRider/"><img src="../assets/gifs/275.gif" width="100%" alt="PaletteRider — 名画の中を自転車で走る"></a><br>
 <b><a href="https://aashishgtbit.github.io/PaletteRider/">PaletteRider — 名画の中を自転車で走る</a></b><br>
 <sub><a href="https://x.com/Aashish_Tiwari_">@Aashish_Tiwari_</a> · ♥ 10 · <a href="https://x.com/Aashish_Tiwari_/status/2120963463610880150">▶ 動画</a></sub><br>
 <sub>クレー『城と太陽』やゴッホ『夜のカフェテラス』の街を自転車で駆け抜ける。音楽も Fable 5.2 が作った。</sub>
-</td>
-<td width="33%" valign="top">
-<a href="http://poke-jam.vercel.app"><img src="../assets/gifs/267.gif" width="100%" alt="Poke Dodge"></a><br>
-<b><a href="http://poke-jam.vercel.app">Poke Dodge</a></b><br>
-<sub><a href="https://x.com/crtvTeknologist">@crtvTeknologist</a> · ♥ 9 · <a href="https://x.com/crtvTeknologist/status/2121319366830809285">▶ 動画</a></sub><br>
-<sub>NBA Jam 風味の 2 対 2 ポケモン×ドッジボールのマッシュアップ：ジムのラダー、タイプ相性、持ち物、ステージは Three.js。</sub>
 </td>
 <td width="33%" valign="top">
 <a href="https://www.aigameshare.com/games/great-wave-off-kanagawa?play=1&mode=fullscreen"><img src="../assets/gifs/235.gif" width="100%" alt="Great Wave"></a><br>
@@ -677,7 +698,7 @@
 <td width="33%" valign="top">
 <a href="https://vippi.vercel.app/"><img src="../assets/gifs/020.gif" width="100%" alt="Vippi"></a><br>
 <b><a href="https://vippi.vercel.app/">Vippi</a></b><br>
-<sub><a href="https://x.com/Shrit1401">@Shrit1401</a> · ♥ 1 · <a href="https://x.com/Shrit1401/status/2120060593763926314">▶ 動画</a></sub><br>
+<sub><a href="https://x.com/Shrit1401">@Shrit1401</a> · ♥ 2 · <a href="https://x.com/Shrit1401/status/2120060593763926314">▶ 動画</a></sub><br>
 <sub>COD 風シューター。作者の不気味ゲーム用ベンチマークのリンクも付属。</sub><br>
 <sub><a href="https://claude.ai/artifact/HSxhHE91J2jhLsB8WiTgUc">Creepy-game test</a></sub><br>
 <sub><a href="https://fablelist.000ooo.ooo/ja/prompts/?w=vippi&ref=gh"><b>✨ プロンプトを入手</b></a></sub>

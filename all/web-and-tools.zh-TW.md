@@ -1,4 +1,4 @@
-# 🧰 網頁與工具 · 全部 40 個
+# 🧰 網頁與工具 · 全部 43 個
 
 [← 回到首頁](../README.zh-TW.md) · [English](web-and-tools.md) · [简体中文](web-and-tools.zh-CN.md) · **繁體中文** · [日本語](web-and-tools.ja.md) · [한국어](web-and-tools.ko.md) · [Español](web-and-tools.es.md) · [Português](web-and-tools.pt-BR.md) · [Français](web-and-tools.fr.md) · [Deutsch](web-and-tools.de.md) · [Русский](web-and-tools.ru.md)
 
@@ -94,7 +94,7 @@
 <td width="33%" valign="top">
 <a href="https://frontier.every.to/experiments/ambient-town"><img src="../assets/gifs/148.gif" width="100%" alt="Ambient Town"></a><br>
 <b><a href="https://frontier.every.to/experiments/ambient-town">Ambient Town</a></b><br>
-<sub><a href="https://x.com/kieranklaassen">@kieranklaassen</a> · ♥ 896 · <a href="https://x.com/kieranklaassen/status/2119868196773929160">▶ 影片</a></sub><br>
+<sub><a href="https://x.com/kieranklaassen">@kieranklaassen</a> · ♥ 897 · <a href="https://x.com/kieranklaassen/status/2119868196773929160">▶ 影片</a></sub><br>
 <sub>一位前電影配樂家花了一週夜晚打造的氛圍音樂 DAW：支援 Ableton Push、麥克風、效果器、合成器，還有能與你一起作曲的 Agent。請點頁面上的「Try it」。</sub><br>
 <sub><a href="https://fablelist.000ooo.ooo/zh-tw/prompts/?w=ambient-town&ref=gh"><b>✨ 取得提示詞</b></a></sub>
 </td>
@@ -123,28 +123,41 @@
 </tr>
 <tr>
 <td width="33%" valign="top">
+<a href="https://www.bubbbly.com/christmas-cards"><img src="../assets/gifs/315.gif" width="100%" alt="Christmas Cards：互動聖誕賀卡"></a><br>
+<b><a href="https://www.bubbbly.com/christmas-cards">Christmas Cards：互動聖誕賀卡</a></b><br>
+<sub>🆕 · <a href="https://x.com/ann_nnng">@ann_nnng</a> · ♥ 464 · <a href="https://x.com/ann_nnng/status/2122283549000712249">▶ 影片</a></sub><br>
+<sub>一組可以互動的聖誕賀卡，例如圍著紅圍巾的貓在窗台上看雪落下。</sub>
+</td>
+<td width="33%" valign="top">
 <a href="https://where-is-everybody-fermi.netlify.app/"><img src="../assets/gifs/146.gif" width="100%" alt="Where Is Everybody?"></a><br>
 <b><a href="https://where-is-everybody-fermi.netlify.app/">Where Is Everybody?</a></b><br>
-<sub><a href="https://x.com/emollick">@emollick</a> · ♥ 456 · <a href="https://x.com/emollick/status/2120359214157603139">原文</a></sub><br>
+<sub><a href="https://x.com/emollick">@emollick</a> · ♥ 457 · <a href="https://x.com/emollick/status/2120359214157603139">原文</a></sub><br>
 <sub>被要求「解決費米悖論」：它整理資料、檢驗假說，並對著批評者做壓力測試。</sub><br>
 <sub><a href="https://resolving-the-great-silence.netlify.app/">Gemini Carbon version</a></sub><br>
 <sub><a href="https://x.com/emollick/status/2120359214157603139">📝 作者公開的提示詞（免費）</a></sub>
 </td>
 <td width="33%" valign="top">
-<a href="https://www.bubbbly.com/christmas-cards"><img src="../assets/gifs/315.gif" width="100%" alt="Christmas Cards：互動聖誕賀卡"></a><br>
-<b><a href="https://www.bubbbly.com/christmas-cards">Christmas Cards：互動聖誕賀卡</a></b><br>
-<sub>🆕 · <a href="https://x.com/ann_nnng">@ann_nnng</a> · ♥ 448 · <a href="https://x.com/ann_nnng/status/2122283549000712249">▶ 影片</a></sub><br>
-<sub>一組可以互動的聖誕賀卡，例如圍著紅圍巾的貓在窗台上看雪落下。</sub>
-</td>
-<td width="33%" valign="top">
 <a href="https://gsplan.org"><img src="../assets/gifs/206.gif" width="100%" alt="Galatasaray 座位視野"></a><br>
 <b><a href="https://gsplan.org">Galatasaray 座位視野</a></b><br>
-<sub><a href="https://x.com/molenbeek84">@molenbeek84</a> · ♥ 429 · <a href="https://x.com/molenbeek84/status/2120847639411331097">原文</a></sub><br>
+<sub><a href="https://x.com/molenbeek84">@molenbeek84</a> · ♥ 428 · <a href="https://x.com/molenbeek84/status/2120847639411331097">原文</a></sub><br>
 <sub>買票前就能看到 RAMS Park 每個看台區望向球場的視野。</sub><br>
 <sub><a href="https://fablelist.000ooo.ooo/zh-tw/prompts/?w=galatasaray-seat-view&ref=gh"><b>✨ 取得提示詞</b></a></sub>
 </td>
 </tr>
 <tr>
+<td width="33%" valign="top">
+<a href="https://rubber-hose-ui.vercel.app"><img src="../assets/gifs/332.gif" width="100%" alt="Rubber Hose UI：1930 年代卡通角色控制項"></a><br>
+<b><a href="https://rubber-hose-ui.vercel.app">Rubber Hose UI：1930 年代卡通角色控制項</a></b><br>
+<sub>🆕 · <a href="https://x.com/crtvTeknologist">@crtvTeknologist</a> · ♥ 345 · <a href="https://x.com/crtvTeknologist/status/2122433522166124616">▶ 影片</a></sub><br>
+<sub>11 個網頁控制項畫成橡皮管卡通：滑桿是長號，提示框是烤麵包機，按鈕每按一次就多一個黑眼圈。原生 JS 加 canvas，零依賴，開源。</sub><br>
+<sub><a href="https://github.com/finktheartist/rubber-hose-ui">原始碼</a></sub>
+</td>
+<td width="33%" valign="top">
+<a href="https://claude.ai/artifact/4P1urBdptp6gWiJo3R6Vpv"><img src="../assets/gifs/333.gif" width="100%" alt="Breakcore 影片取樣器"></a><br>
+<b><a href="https://claude.ai/artifact/4P1urBdptp6gWiJo3R6Vpv">Breakcore 影片取樣器</a></b><br>
+<sub>🆕 · <a href="https://x.com/parhelion318">@parhelion318</a> · ♥ 292 · <a href="https://x.com/parhelion318/status/2122723067533398064">▶ 影片</a></sub><br>
+<sub>在瀏覽器裡把影片片段切碎，重排成 breakcore 節奏的取樣器。</sub>
+</td>
 <td width="33%" valign="top">
 <a href="https://origamihelper.com"><img src="../assets/gifs/220.gif" width="100%" alt="Origami Helper"></a><br>
 <b><a href="https://origamihelper.com">Origami Helper</a></b><br>
@@ -152,6 +165,8 @@
 <sub>以 AR 從任何角度用 3D 學習摺紙。免費、免註冊，一天做成。</sub><br>
 <sub><a href="https://fablelist.000ooo.ooo/zh-tw/prompts/?w=origami-helper&ref=gh"><b>✨ 取得提示詞</b></a></sub>
 </td>
+</tr>
+<tr>
 <td width="33%" valign="top">
 <a href="https://typed.page/"><img src="../assets/gifs/036.gif" width="100%" alt="Typed"></a><br>
 <b><a href="https://typed.page/">Typed</a></b><br>
@@ -166,6 +181,12 @@
 <sub>跳動的 3D 心臟，有即時心電圖與壓力曲線及心音；可比較正常、心房顫動、心臟傳導阻滯與主動脈瓣狹窄。它還自己寫了測試。</sub><br>
 <sub><a href="https://fablelist.000ooo.ooo/zh-tw/prompts/?w=one-heartbeat&ref=gh"><b>✨ 取得提示詞</b></a></sub>
 </td>
+<td width="33%" valign="top">
+<a href="https://stormy.ai/hands"><img src="../assets/gifs/316.gif" width="100%" alt="Hands：機器人的手怎麼運作"></a><br>
+<b><a href="https://stormy.ai/hands">Hands：機器人的手怎麼運作</a></b><br>
+<sub>🆕 · <a href="https://x.com/Karmedge">@Karmedge</a> · ♥ 150 · <a href="https://x.com/Karmedge/status/2122394153497842080">▶ 影片</a></sub><br>
+<sub>互動講解頁：人形機器人的手怎麼運作、為什麼難做、成本多少。用了超過 10 億 token。</sub>
+</td>
 </tr>
 <tr>
 <td width="33%" valign="top">
@@ -178,9 +199,17 @@
 <td width="33%" valign="top">
 <a href="https://motionsites.ai/?prompt=vante-ribbon-hero"><img src="../assets/gifs/048.gif" width="100%" alt="Ribbon Hero"></a><br>
 <b><a href="https://motionsites.ai/?prompt=vante-ribbon-hero">Ribbon Hero</a></b><br>
-<sub><a href="https://x.com/viktoroddy">@viktoroddy</a> · ♥ 139 · <a href="https://x.com/viktoroddy/status/2119985044542705916">▶ 影片</a></sub><br>
+<sub><a href="https://x.com/viktoroddy">@viktoroddy</a> · ♥ 140 · <a href="https://x.com/viktoroddy/status/2119985044542705916">▶ 影片</a></sub><br>
 <sub>以 Fable 5.2 ＋ GPT Image 2.6 製作的首屏區塊。</sub>
 </td>
+<td width="33%" valign="top">
+<a href="https://fieldnote-crm-pi.vercel.app"><img src="../assets/gifs/317.gif" width="100%" alt="Fieldnote CRM 儀表板"></a><br>
+<b><a href="https://fieldnote-crm-pi.vercel.app">Fieldnote CRM 儀表板</a></b><br>
+<sub>🆕 · <a href="https://x.com/dejvdesign">@dejvdesign</a> · ♥ 132 · <a href="https://x.com/dejvdesign/status/2122335319634874710">▶ 影片</a></sub><br>
+<sub>帶即時互動效果的 CRM 儀表板介面，與 @madebymicrodose 合作。</sub>
+</td>
+</tr>
+<tr>
 <td width="33%" valign="top">
 <a href="https://nikechan.com/"><img src="../assets/gifs/049.gif" width="100%" alt="nikechan.com 改版"></a><br>
 <b><a href="https://nikechan.com/">nikechan.com 改版</a></b><br>
@@ -188,24 +217,16 @@
 <sub>從頭到尾重新設計的個人網站。</sub><br>
 <sub><a href="https://fablelist.000ooo.ooo/zh-tw/prompts/?w=nikechan-com-redesign&ref=gh"><b>✨ 取得提示詞</b></a></sub>
 </td>
-</tr>
-<tr>
 <td width="33%" valign="top">
-<a href="https://stormy.ai/hands"><img src="../assets/gifs/316.gif" width="100%" alt="Hands：機器人的手怎麼運作"></a><br>
-<b><a href="https://stormy.ai/hands">Hands：機器人的手怎麼運作</a></b><br>
-<sub>🆕 · <a href="https://x.com/Karmedge">@Karmedge</a> · ♥ 130 · <a href="https://x.com/Karmedge/status/2122394153497842080">▶ 影片</a></sub><br>
-<sub>互動講解頁：人形機器人的手怎麼運作、為什麼難做、成本多少。用了超過 10 億 token。</sub>
-</td>
-<td width="33%" valign="top">
-<a href="https://fieldnote-crm-pi.vercel.app"><img src="../assets/gifs/317.gif" width="100%" alt="Fieldnote CRM 儀表板"></a><br>
-<b><a href="https://fieldnote-crm-pi.vercel.app">Fieldnote CRM 儀表板</a></b><br>
-<sub>🆕 · <a href="https://x.com/dejvdesign">@dejvdesign</a> · ♥ 115 · <a href="https://x.com/dejvdesign/status/2122335319634874710">▶ 影片</a></sub><br>
-<sub>帶即時互動效果的 CRM 儀表板介面，與 @madebymicrodose 合作。</sub>
+<a href="https://omage1.xyz"><img src="../assets/gifs/337.gif" width="100%" alt="omage-1：瀏覽器裡的 OP-1 Field 合成器"></a><br>
+<b><a href="https://omage1.xyz">omage-1：瀏覽器裡的 OP-1 Field 合成器</a></b><br>
+<sub>🆕 · <a href="https://x.com/jamesmbickerton">@jamesmbickerton</a> · ♥ 95 · <a href="https://x.com/jamesmbickerton/status/2122688041219133815">▶ 影片</a></sub><br>
+<sub>非官方致敬作，把 Teenage Engineering 的 OP-1 Field 重做成瀏覽器應用程式，打開就能彈。</sub>
 </td>
 <td width="33%" valign="top">
 <a href="https://github.com/kanaworksai-hue/harappa"><img src="../assets/gifs/250.gif" width="100%" alt="Harappa（Blender 外掛）"></a><br>
 <b><a href="https://github.com/kanaworksai-hue/harappa">Harappa（Blender 外掛）</a></b><br>
-<sub><a href="https://x.com/KanaWorks_AI">@KanaWorks_AI</a> · ♥ 85 · <a href="https://x.com/KanaWorks_AI/status/2121221880673972463">▶ 影片</a></sub><br>
+<sub><a href="https://x.com/KanaWorks_AI">@KanaWorks_AI</a> · ♥ 88 · <a href="https://x.com/KanaWorks_AI/status/2121221880673972463">▶ 影片</a></sub><br>
 <sub>免費的 Blender 外掛，一鍵把光禿禿的山丘變成動漫風草地，有草、花、雲、樹、季節與多種風格。</sub><br>
 <sub><a href="https://fablelist.000ooo.ooo/zh-tw/prompts/?w=harappa-blender-add-on&ref=gh"><b>✨ 取得提示詞</b></a></sub>
 </td>
@@ -214,7 +235,7 @@
 <td width="33%" valign="top">
 <a href="https://sael.net/seat-arena"><img src="../assets/gifs/182.gif" width="100%" alt="Best Seat in the House"></a><br>
 <b><a href="https://sael.net/seat-arena">Best Seat in the House</a></b><br>
-<sub><a href="https://x.com/RyanSael">@RyanSael</a> · ♥ 62 · <a href="https://x.com/RyanSael/status/2120544205558915329">▶ 影片</a></sub><br>
+<sub><a href="https://x.com/RyanSael">@RyanSael</a> · ♥ 63 · <a href="https://x.com/RyanSael/status/2120544205558915329">▶ 影片</a></sub><br>
 <sub>演唱會座位圖，買票前就能看到每個座位的實際視野。完全可互動。</sub><br>
 <sub><a href="https://fablelist.000ooo.ooo/zh-tw/prompts/?w=best-seat-in-the-house&ref=gh"><b>✨ 取得提示詞</b></a></sub>
 </td>

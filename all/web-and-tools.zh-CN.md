@@ -1,4 +1,4 @@
-# 🧰 网页与工具 · 全部 40 个
+# 🧰 网页与工具 · 全部 43 个
 
 [← 回到首页](../README.zh-CN.md) · [English](web-and-tools.md) · **简体中文** · [繁體中文](web-and-tools.zh-TW.md) · [日本語](web-and-tools.ja.md) · [한국어](web-and-tools.ko.md) · [Español](web-and-tools.es.md) · [Português](web-and-tools.pt-BR.md) · [Français](web-and-tools.fr.md) · [Deutsch](web-and-tools.de.md) · [Русский](web-and-tools.ru.md)
 
@@ -94,7 +94,7 @@
 <td width="33%" valign="top">
 <a href="https://frontier.every.to/experiments/ambient-town"><img src="../assets/gifs/148.gif" width="100%" alt="Ambient Town 氛围音乐工作站"></a><br>
 <b><a href="https://frontier.every.to/experiments/ambient-town">Ambient Town 氛围音乐工作站</a></b><br>
-<sub><a href="https://x.com/kieranklaassen">@kieranklaassen</a> · ♥ 896 · <a href="https://x.com/kieranklaassen/status/2119868196773929160">▶ 视频</a></sub><br>
+<sub><a href="https://x.com/kieranklaassen">@kieranklaassen</a> · ♥ 897 · <a href="https://x.com/kieranklaassen/status/2119868196773929160">▶ 视频</a></sub><br>
 <sub>前电影配乐师花一周晚上做的 DAW：支持 Ableton Push、多路麦克风、效果器，还有一起作曲的 Agent；页面里点 Try it</sub><br>
 <sub><a href="https://fablelist.000ooo.ooo/zh/prompts/?w=ambient-town&ref=gh"><b>✨ 获取提示词</b></a></sub>
 </td>
@@ -123,28 +123,41 @@
 </tr>
 <tr>
 <td width="33%" valign="top">
+<a href="https://www.bubbbly.com/christmas-cards"><img src="../assets/gifs/315.gif" width="100%" alt="Christmas Cards 互动圣诞贺卡"></a><br>
+<b><a href="https://www.bubbbly.com/christmas-cards">Christmas Cards 互动圣诞贺卡</a></b><br>
+<sub>🆕 · <a href="https://x.com/ann_nnng">@ann_nnng</a> · ♥ 464 · <a href="https://x.com/ann_nnng/status/2122283549000712249">▶ 视频</a></sub><br>
+<sub>一组可以互动的圣诞贺卡，比如围红围巾的猫在窗台上看雪</sub>
+</td>
+<td width="33%" valign="top">
 <a href="https://where-is-everybody-fermi.netlify.app/"><img src="../assets/gifs/146.gif" width="100%" alt="Where is everybody? 费米悖论调查"></a><br>
 <b><a href="https://where-is-everybody-fermi.netlify.app/">Where is everybody? 费米悖论调查</a></b><br>
-<sub><a href="https://x.com/emollick">@emollick</a> · ♥ 456 · <a href="https://x.com/emollick/status/2120359214157603139">原帖</a></sub><br>
+<sub><a href="https://x.com/emollick">@emollick</a> · ♥ 457 · <a href="https://x.com/emollick/status/2120359214157603139">原帖</a></sub><br>
 <sub>让它「解决费米悖论」：整理数据、检验假说、接受批评后给出最可能的答案</sub><br>
 <sub><a href="https://resolving-the-great-silence.netlify.app/">Gemini版</a></sub><br>
 <sub><a href="https://x.com/emollick/status/2120359214157603139">📝 作者公开的提示词（免费）</a></sub>
 </td>
 <td width="33%" valign="top">
-<a href="https://www.bubbbly.com/christmas-cards"><img src="../assets/gifs/315.gif" width="100%" alt="Christmas Cards 互动圣诞贺卡"></a><br>
-<b><a href="https://www.bubbbly.com/christmas-cards">Christmas Cards 互动圣诞贺卡</a></b><br>
-<sub>🆕 · <a href="https://x.com/ann_nnng">@ann_nnng</a> · ♥ 448 · <a href="https://x.com/ann_nnng/status/2122283549000712249">▶ 视频</a></sub><br>
-<sub>一组可以互动的圣诞贺卡，比如围红围巾的猫在窗台上看雪</sub>
-</td>
-<td width="33%" valign="top">
 <a href="https://gsplan.org"><img src="../assets/gifs/206.gif" width="100%" alt="加拉塔萨雷球场座位视角"></a><br>
 <b><a href="https://gsplan.org">加拉塔萨雷球场座位视角</a></b><br>
-<sub><a href="https://x.com/molenbeek84">@molenbeek84</a> · ♥ 429 · <a href="https://x.com/molenbeek84/status/2120847639411331097">原帖</a></sub><br>
+<sub><a href="https://x.com/molenbeek84">@molenbeek84</a> · ♥ 428 · <a href="https://x.com/molenbeek84/status/2120847639411331097">原帖</a></sub><br>
 <sub>买票前看 RAMS Park 每个看台位置看到的球场</sub><br>
 <sub><a href="https://fablelist.000ooo.ooo/zh/prompts/?w=galatasaray-seat-view&ref=gh"><b>✨ 获取提示词</b></a></sub>
 </td>
 </tr>
 <tr>
+<td width="33%" valign="top">
+<a href="https://rubber-hose-ui.vercel.app"><img src="../assets/gifs/332.gif" width="100%" alt="Rubber Hose UI 1930 年代卡通风控件"></a><br>
+<b><a href="https://rubber-hose-ui.vercel.app">Rubber Hose UI 1930 年代卡通风控件</a></b><br>
+<sub>🆕 · <a href="https://x.com/crtvTeknologist">@crtvTeknologist</a> · ♥ 345 · <a href="https://x.com/crtvTeknologist/status/2122433522166124616">▶ 视频</a></sub><br>
+<sub>11 个网页控件全是橡皮管卡通角色：滑块是长号，提示框是烤面包机，按钮每按一次多一只黑眼圈；原生 JS 加 canvas，无依赖，开源</sub><br>
+<sub><a href="https://github.com/finktheartist/rubber-hose-ui">源码</a></sub>
+</td>
+<td width="33%" valign="top">
+<a href="https://claude.ai/artifact/4P1urBdptp6gWiJo3R6Vpv"><img src="../assets/gifs/333.gif" width="100%" alt="Breakcore 视频采样器"></a><br>
+<b><a href="https://claude.ai/artifact/4P1urBdptp6gWiJo3R6Vpv">Breakcore 视频采样器</a></b><br>
+<sub>🆕 · <a href="https://x.com/parhelion318">@parhelion318</a> · ♥ 292 · <a href="https://x.com/parhelion318/status/2122723067533398064">▶ 视频</a></sub><br>
+<sub>在浏览器里把视频片段切碎、重排成 breakcore 节奏的采样器</sub>
+</td>
 <td width="33%" valign="top">
 <a href="https://origamihelper.com"><img src="../assets/gifs/220.gif" width="100%" alt="Origami Helper 3D 折纸教程"></a><br>
 <b><a href="https://origamihelper.com">Origami Helper 3D 折纸教程</a></b><br>
@@ -152,6 +165,8 @@
 <sub>3D 看折纸步骤，可以任意角度转，支持 AR，免费免注册，一天做完</sub><br>
 <sub><a href="https://fablelist.000ooo.ooo/zh/prompts/?w=origami-helper&ref=gh"><b>✨ 获取提示词</b></a></sub>
 </td>
+</tr>
+<tr>
 <td width="33%" valign="top">
 <a href="https://typed.page/"><img src="../assets/gifs/036.gif" width="100%" alt="Typed 打字机"></a><br>
 <b><a href="https://typed.page/">Typed 打字机</a></b><br>
@@ -166,6 +181,12 @@
 <sub>实时心电和压力曲线、心音，可对比正常、房颤、传导阻滞和主动脉瓣狭窄；还自己写了测试</sub><br>
 <sub><a href="https://fablelist.000ooo.ooo/zh/prompts/?w=one-heartbeat&ref=gh"><b>✨ 获取提示词</b></a></sub>
 </td>
+<td width="33%" valign="top">
+<a href="https://stormy.ai/hands"><img src="../assets/gifs/316.gif" width="100%" alt="Hands 机器人手讲解页"></a><br>
+<b><a href="https://stormy.ai/hands">Hands 机器人手讲解页</a></b><br>
+<sub>🆕 · <a href="https://x.com/Karmedge">@Karmedge</a> · ♥ 150 · <a href="https://x.com/Karmedge/status/2122394153497842080">▶ 视频</a></sub><br>
+<sub>讲人形机器人的手怎么工作、为什么难做、成本多少的互动讲解页，花了 10 亿多 token</sub>
+</td>
 </tr>
 <tr>
 <td width="33%" valign="top">
@@ -178,9 +199,17 @@
 <td width="33%" valign="top">
 <a href="https://motionsites.ai/?prompt=vante-ribbon-hero"><img src="../assets/gifs/048.gif" width="100%" alt="Ribbon Hero 首屏"></a><br>
 <b><a href="https://motionsites.ai/?prompt=vante-ribbon-hero">Ribbon Hero 首屏</a></b><br>
-<sub><a href="https://x.com/viktoroddy">@viktoroddy</a> · ♥ 139 · <a href="https://x.com/viktoroddy/status/2119985044542705916">▶ 视频</a></sub><br>
+<sub><a href="https://x.com/viktoroddy">@viktoroddy</a> · ♥ 140 · <a href="https://x.com/viktoroddy/status/2119985044542705916">▶ 视频</a></sub><br>
 <sub>Fable 5.2 + GPT Image 2.6</sub>
 </td>
+<td width="33%" valign="top">
+<a href="https://fieldnote-crm-pi.vercel.app"><img src="../assets/gifs/317.gif" width="100%" alt="Fieldnote CRM 仪表盘"></a><br>
+<b><a href="https://fieldnote-crm-pi.vercel.app">Fieldnote CRM 仪表盘</a></b><br>
+<sub>🆕 · <a href="https://x.com/dejvdesign">@dejvdesign</a> · ♥ 132 · <a href="https://x.com/dejvdesign/status/2122335319634874710">▶ 视频</a></sub><br>
+<sub>带实时交互动效的 CRM 仪表盘界面，和 @madebymicrodose 合作</sub>
+</td>
+</tr>
+<tr>
 <td width="33%" valign="top">
 <a href="https://nikechan.com/"><img src="../assets/gifs/049.gif" width="100%" alt="nikechan 个人站改版"></a><br>
 <b><a href="https://nikechan.com/">nikechan 个人站改版</a></b><br>
@@ -188,24 +217,16 @@
 <sub>日本开发者让它重做整站设计</sub><br>
 <sub><a href="https://fablelist.000ooo.ooo/zh/prompts/?w=nikechan-com-redesign&ref=gh"><b>✨ 获取提示词</b></a></sub>
 </td>
-</tr>
-<tr>
 <td width="33%" valign="top">
-<a href="https://stormy.ai/hands"><img src="../assets/gifs/316.gif" width="100%" alt="Hands 机器人手讲解页"></a><br>
-<b><a href="https://stormy.ai/hands">Hands 机器人手讲解页</a></b><br>
-<sub>🆕 · <a href="https://x.com/Karmedge">@Karmedge</a> · ♥ 130 · <a href="https://x.com/Karmedge/status/2122394153497842080">▶ 视频</a></sub><br>
-<sub>讲人形机器人的手怎么工作、为什么难做、成本多少的互动讲解页，花了 10 亿多 token</sub>
-</td>
-<td width="33%" valign="top">
-<a href="https://fieldnote-crm-pi.vercel.app"><img src="../assets/gifs/317.gif" width="100%" alt="Fieldnote CRM 仪表盘"></a><br>
-<b><a href="https://fieldnote-crm-pi.vercel.app">Fieldnote CRM 仪表盘</a></b><br>
-<sub>🆕 · <a href="https://x.com/dejvdesign">@dejvdesign</a> · ♥ 115 · <a href="https://x.com/dejvdesign/status/2122335319634874710">▶ 视频</a></sub><br>
-<sub>带实时交互动效的 CRM 仪表盘界面，和 @madebymicrodose 合作</sub>
+<a href="https://omage1.xyz"><img src="../assets/gifs/337.gif" width="100%" alt="omage-1 浏览器里的 OP-1 Field 合成器"></a><br>
+<b><a href="https://omage1.xyz">omage-1 浏览器里的 OP-1 Field 合成器</a></b><br>
+<sub>🆕 · <a href="https://x.com/jamesmbickerton">@jamesmbickerton</a> · ♥ 95 · <a href="https://x.com/jamesmbickerton/status/2122688041219133815">▶ 视频</a></sub><br>
+<sub>把 Teenage Engineering 的 OP-1 Field 做成浏览器应用的非官方致敬版，打开就能弹</sub>
 </td>
 <td width="33%" valign="top">
 <a href="https://github.com/kanaworksai-hue/harappa"><img src="../assets/gifs/250.gif" width="100%" alt="Harappa 原野生成 Blender 插件"></a><br>
 <b><a href="https://github.com/kanaworksai-hue/harappa">Harappa 原野生成 Blender 插件</a></b><br>
-<sub><a href="https://x.com/KanaWorks_AI">@KanaWorks_AI</a> · ♥ 85 · <a href="https://x.com/KanaWorks_AI/status/2121221880673972463">▶ 视频</a></sub><br>
+<sub><a href="https://x.com/KanaWorks_AI">@KanaWorks_AI</a> · ♥ 88 · <a href="https://x.com/KanaWorks_AI/status/2121221880673972463">▶ 视频</a></sub><br>
 <sub>免费 Blender 插件，一键把光秃的山丘变成动画背景式的原野：草、花、云、树、季节和画风都能换</sub><br>
 <sub><a href="https://fablelist.000ooo.ooo/zh/prompts/?w=harappa-blender-add-on&ref=gh"><b>✨ 获取提示词</b></a></sub>
 </td>
@@ -214,7 +235,7 @@
 <td width="33%" valign="top">
 <a href="https://sael.net/seat-arena"><img src="../assets/gifs/182.gif" width="100%" alt="Best Seat in the House 演唱会座位视角"></a><br>
 <b><a href="https://sael.net/seat-arena">Best Seat in the House 演唱会座位视角</a></b><br>
-<sub><a href="https://x.com/RyanSael">@RyanSael</a> · ♥ 62 · <a href="https://x.com/RyanSael/status/2120544205558915329">▶ 视频</a></sub><br>
+<sub><a href="https://x.com/RyanSael">@RyanSael</a> · ♥ 63 · <a href="https://x.com/RyanSael/status/2120544205558915329">▶ 视频</a></sub><br>
 <sub>买票前先看每个座位看到的舞台，完全可交互</sub><br>
 <sub><a href="https://fablelist.000ooo.ooo/zh/prompts/?w=best-seat-in-the-house&ref=gh"><b>✨ 获取提示词</b></a></sub>
 </td>
