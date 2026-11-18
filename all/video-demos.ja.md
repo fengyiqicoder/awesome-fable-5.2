@@ -1,4 +1,4 @@
-# 📺 動画デモ · 全 140 件
+# 📺 動画デモ · 全 143 件
 
 [← メインリストに戻る](../README.ja.md) · [English](video-demos.md) · [简体中文](video-demos.zh-CN.md) · [繁體中文](video-demos.zh-TW.md) · **日本語** · [한국어](video-demos.ko.md) · [Español](video-demos.es.md) · [Português](video-demos.pt-BR.md) · [Français](video-demos.fr.md) · [Deutsch](video-demos.de.md) · [Русский](video-demos.ru.md)
 
@@ -62,6 +62,20 @@
 <sub><a href="https://fablelist.000ooo.ooo/ja/prompts/?w=painting-a-copy-in-code-the-original-has&ref=gh"><b>✨ プロンプトを入手</b></a></sub>
 </td>
 <td width="33%" valign="top">
+<a href="https://x.com/aj_dev_smith/status/2122538394710687871"><img src="../assets/gifs/324.gif" width="100%" alt="1人の声で録った 64 音でどんな曲も演奏"></a><br>
+<b><a href="https://x.com/aj_dev_smith/status/2122538394710687871">1人の声で録った 64 音でどんな曲も演奏</a></b><br>
+<sub>🆕 · <a href="https://x.com/aj_dev_smith">@aj_dev_smith</a> · ♥ 5.2k · <a href="https://x.com/aj_dev_smith/status/2122538394710687871">▶ 動画</a></sub><br>
+
+</td>
+<td width="33%" valign="top">
+<a href="https://x.com/Dstudio_ai/status/2122569461547098595"><img src="../assets/gifs/328.gif" width="100%" alt="Tripo の 3D モデルで作ったソシャゲ風ロビー画面"></a><br>
+<b><a href="https://x.com/Dstudio_ai/status/2122569461547098595">Tripo の 3D モデルで作ったソシャゲ風ロビー画面</a></b><br>
+<sub>🆕 · <a href="https://x.com/Dstudio_ai">@Dstudio_ai</a> · ♥ 5.1k · <a href="https://x.com/Dstudio_ai/status/2122569461547098595">▶ 動画</a></sub><br>
+
+</td>
+</tr>
+<tr>
+<td width="33%" valign="top">
 <a href="https://x.com/matabee_GTO/status/2120995946372985144"><img src="../assets/gifs/254.gif" width="100%" alt="1 プロンプト：作れる限り最も不快な動画を作って"></a><br>
 <b><a href="https://x.com/matabee_GTO/status/2120995946372985144">1 プロンプト：作れる限り最も不快な動画を作って</a></b><br>
 <sub><a href="https://x.com/matabee_GTO">@matabee_GTO</a> · ♥ 4.9k · <a href="https://x.com/matabee_GTO/status/2120995946372985144">▶ 動画</a></sub><br>
@@ -69,23 +83,9 @@
 <sub><a href="https://x.com/matabee_GTO/status/2120995946372985144">📝 作者公開のプロンプト（無料）</a></sub>
 </td>
 <td width="33%" valign="top">
-<a href="https://x.com/aj_dev_smith/status/2122538394710687871"><img src="../assets/gifs/324.gif" width="100%" alt="1人の声で録った 64 音でどんな曲も演奏"></a><br>
-<b><a href="https://x.com/aj_dev_smith/status/2122538394710687871">1人の声で録った 64 音でどんな曲も演奏</a></b><br>
-<sub>🆕 · <a href="https://x.com/aj_dev_smith">@aj_dev_smith</a> · ♥ 4.8k · <a href="https://x.com/aj_dev_smith/status/2122538394710687871">▶ 動画</a></sub><br>
-
-</td>
-</tr>
-<tr>
-<td width="33%" valign="top">
 <a href="https://x.com/JungleSilicon/status/2121782359901212987"><img src="../assets/gifs/291.gif" width="100%" alt="ピクセルアートのガウシアンスプラット"></a><br>
 <b><a href="https://x.com/JungleSilicon/status/2121782359901212987">ピクセルアートのガウシアンスプラット</a></b><br>
-<sub><a href="https://x.com/JungleSilicon">@JungleSilicon</a> · ♥ 4.7k · <a href="https://x.com/JungleSilicon/status/2121782359901212987">▶ 動画</a></sub><br>
-
-</td>
-<td width="33%" valign="top">
-<a href="https://x.com/Dstudio_ai/status/2122569461547098595"><img src="../assets/gifs/328.gif" width="100%" alt="Tripo の 3D モデルで作ったソシャゲ風ロビー画面"></a><br>
-<b><a href="https://x.com/Dstudio_ai/status/2122569461547098595">Tripo の 3D モデルで作ったソシャゲ風ロビー画面</a></b><br>
-<sub>🆕 · <a href="https://x.com/Dstudio_ai">@Dstudio_ai</a> · ♥ 4.6k · <a href="https://x.com/Dstudio_ai/status/2122569461547098595">▶ 動画</a></sub><br>
+<sub><a href="https://x.com/JungleSilicon">@JungleSilicon</a> · ♥ 4.8k · <a href="https://x.com/JungleSilicon/status/2121782359901212987">▶ 動画</a></sub><br>
 
 </td>
 <td width="33%" valign="top">
@@ -107,7 +107,7 @@
 <td width="33%" valign="top">
 <a href="https://x.com/shiromamono/status/2122473903100731694"><img src="../assets/gifs/339.gif" width="100%" alt="笑顔になるために作られた動画"></a><br>
 <b><a href="https://x.com/shiromamono/status/2122473903100731694">笑顔になるために作られた動画</a></b><br>
-<sub>🆕 · <a href="https://x.com/shiromamono">@shiromamono</a> · ♥ 3.5k · <a href="https://x.com/shiromamono/status/2122473903100731694">▶ 動画</a></sub><br>
+<sub>🆕 · <a href="https://x.com/shiromamono">@shiromamono</a> · ♥ 3.7k · <a href="https://x.com/shiromamono/status/2122473903100731694">▶ 動画</a></sub><br>
 
 </td>
 <td width="33%" valign="top">
@@ -166,7 +166,7 @@
 <td width="33%" valign="top">
 <a href="https://x.com/kotaniko98765/status/2122266561960665539"><img src="../assets/gifs/340.gif" width="100%" alt="週末で作ったデイトレードゲーム"></a><br>
 <b><a href="https://x.com/kotaniko98765/status/2122266561960665539">週末で作ったデイトレードゲーム</a></b><br>
-<sub>🆕 · <a href="https://x.com/kotaniko98765">@kotaniko98765</a> · ♥ 2.4k · <a href="https://x.com/kotaniko98765/status/2122266561960665539">▶ 動画</a></sub><br>
+<sub>🆕 · <a href="https://x.com/kotaniko98765">@kotaniko98765</a> · ♥ 2.5k · <a href="https://x.com/kotaniko98765/status/2122266561960665539">▶ 動画</a></sub><br>
 
 </td>
 <td width="33%" valign="top">
@@ -216,17 +216,17 @@
 <sub><a href="https://fablelist.000ooo.ooo/ja/prompts/?w=show-me-your-work&ref=gh"><b>✨ プロンプトを入手</b></a></sub>
 </td>
 <td width="33%" valign="top">
+<a href="https://x.com/chrisjdimarco/status/2120752985949057215"><img src="../assets/gifs/276.gif" width="100%" alt="手・クジラ・ロケット・DNA の二重らせんに変形する 1,048,576 体のナノボット群"></a><br>
+<b><a href="https://x.com/chrisjdimarco/status/2120752985949057215">手・クジラ・ロケット・DNA の二重らせんに変形する 1,048,576 体のナノボット群</a></b><br>
+<sub><a href="https://x.com/chrisjdimarco">@chrisjdimarco</a> · ♥ 1.7k · <a href="https://x.com/chrisjdimarco/status/2120752985949057215">▶ 動画</a></sub><br>
+
+</td>
+<td width="33%" valign="top">
 <a href="https://x.com/_MaxBlade/status/2120109725740159390"><img src="../assets/gifs/093.gif" width="100%" alt="MCP 経由で Unreal Engine 5.9 を 4 時間"></a><br>
 <b><a href="https://x.com/_MaxBlade/status/2120109725740159390">MCP 経由で Unreal Engine 5.9 を 4 時間</a></b><br>
 <sub><a href="https://x.com/_MaxBlade">@_MaxBlade</a> · ♥ 1.7k · <a href="https://x.com/_MaxBlade/status/2120109725740159390">▶ 動画</a></sub><br>
 <br>
 <sub><a href="https://fablelist.000ooo.ooo/ja/prompts/?w=4-hours-in-unreal-engine-5-9-via&ref=gh"><b>✨ プロンプトを入手</b></a></sub>
-</td>
-<td width="33%" valign="top">
-<a href="https://x.com/chrisjdimarco/status/2120752985949057215"><img src="../assets/gifs/276.gif" width="100%" alt="手・クジラ・ロケット・DNA の二重らせんに変形する 1,048,576 体のナノボット群"></a><br>
-<b><a href="https://x.com/chrisjdimarco/status/2120752985949057215">手・クジラ・ロケット・DNA の二重らせんに変形する 1,048,576 体のナノボット群</a></b><br>
-<sub><a href="https://x.com/chrisjdimarco">@chrisjdimarco</a> · ♥ 1.7k · <a href="https://x.com/chrisjdimarco/status/2120752985949057215">▶ 動画</a></sub><br>
-
 </td>
 </tr>
 <tr>
@@ -245,25 +245,25 @@
 <sub><a href="https://fablelist.000ooo.ooo/ja/prompts/?w=pixel-art-gaussian-splats&ref=gh"><b>✨ プロンプトを入手</b></a></sub>
 </td>
 <td width="33%" valign="top">
+<a href="https://x.com/fe_yukichi/status/2122489950981779504"><img src="../assets/gifs/326.gif" width="100%" alt="Blender でモデリングしたダルうさぎ"></a><br>
+<b><a href="https://x.com/fe_yukichi/status/2122489950981779504">Blender でモデリングしたダルうさぎ</a></b><br>
+<sub>🆕 · <a href="https://x.com/fe_yukichi">@fe_yukichi</a> · ♥ 1.6k · <a href="https://x.com/fe_yukichi/status/2122489950981779504">▶ 動画</a></sub><br>
+
+</td>
+</tr>
+<tr>
+<td width="33%" valign="top">
 <a href="https://x.com/ryanvogel/status/2122000027543617844"><img src="../assets/gifs/304.gif" width="100%" alt="Blender でレンダリングした Portal 2 の短編"></a><br>
 <b><a href="https://x.com/ryanvogel/status/2122000027543617844">Blender でレンダリングした Portal 2 の短編</a></b><br>
 <sub>🆕 · <a href="https://x.com/ryanvogel">@ryanvogel</a> · ♥ 1.5k · <a href="https://x.com/ryanvogel/status/2122000027543617844">▶ 動画</a></sub><br>
 
 </td>
-</tr>
-<tr>
 <td width="33%" valign="top">
 <a href="https://x.com/MrTacticalX/status/2119955647542542439"><img src="../assets/gifs/069.gif" width="100%" alt="Glass Pool（Fable vs Opus）"></a><br>
 <b><a href="https://x.com/MrTacticalX/status/2119955647542542439">Glass Pool（Fable vs Opus）</a></b><br>
 <sub><a href="https://x.com/MrTacticalX">@MrTacticalX</a> · ♥ 1.5k · <a href="https://x.com/MrTacticalX/status/2119955647542542439">▶ 動画</a></sub><br>
 <br>
 <sub><a href="https://fablelist.000ooo.ooo/ja/prompts/?w=glass-pool-fable-vs-opus&ref=gh"><b>✨ プロンプトを入手</b></a></sub>
-</td>
-<td width="33%" valign="top">
-<a href="https://x.com/fe_yukichi/status/2122489950981779504"><img src="../assets/gifs/326.gif" width="100%" alt="Blender でモデリングしたダルうさぎ"></a><br>
-<b><a href="https://x.com/fe_yukichi/status/2122489950981779504">Blender でモデリングしたダルうさぎ</a></b><br>
-<sub>🆕 · <a href="https://x.com/fe_yukichi">@fe_yukichi</a> · ♥ 1.4k · <a href="https://x.com/fe_yukichi/status/2122489950981779504">▶ 動画</a></sub><br>
-
 </td>
 <td width="33%" valign="top">
 <a href="https://x.com/akakuma0219/status/2120030634248929556"><img src="../assets/gifs/155.gif" width="100%" alt="3 語から作るプリヴィズ用ランサイクル"></a><br>
@@ -304,20 +304,26 @@
 
 </td>
 <td width="33%" valign="top">
+<a href="https://x.com/viktoroddy/status/2122711903877358056"><img src="../assets/gifs/341.gif" width="100%" alt="センスのあるブランドのランディングページ集"></a><br>
+<b><a href="https://x.com/viktoroddy/status/2122711903877358056">センスのあるブランドのランディングページ集</a></b><br>
+<sub>🆕 · <a href="https://x.com/viktoroddy">@viktoroddy</a> · ♥ 1.2k · <a href="https://x.com/viktoroddy/status/2122711903877358056">▶ 動画</a></sub><br>
+
+</td>
+<td width="33%" valign="top">
 <a href="https://x.com/KHvostikk/status/2119939061049889130"><img src="../assets/gifs/215.gif" width="100%" alt="動画から 3D アニメーションへ"></a><br>
 <b><a href="https://x.com/KHvostikk/status/2119939061049889130">動画から 3D アニメーションへ</a></b><br>
 <sub><a href="https://x.com/KHvostikk">@KHvostikk</a> · ♥ 1.2k · <a href="https://x.com/KHvostikk/status/2119939061049889130">▶ 動画</a></sub><br>
 <br>
 <sub><a href="https://fablelist.000ooo.ooo/ja/prompts/?w=video-to-3d-animation&ref=gh"><b>✨ プロンプトを入手</b></a></sub>
 </td>
+</tr>
+<tr>
 <td width="33%" valign="top">
 <a href="https://x.com/chetaslua/status/2119870650722763052"><img src="../assets/gifs/067.gif" width="100%" alt="空のフォルダから作った OS"></a><br>
 <b><a href="https://x.com/chetaslua/status/2119870650722763052">空のフォルダから作った OS</a></b><br>
 <sub><a href="https://x.com/chetaslua">@chetaslua</a> · ♥ 1.2k · <a href="https://x.com/chetaslua/status/2119870650722763052">▶ 動画</a></sub><br>
 <sub>Anthropic のデモ。1,000 以上の Agent が連携。</sub>
 </td>
-</tr>
-<tr>
 <td width="33%" valign="top">
 <a href="https://x.com/vib3coded/status/2119876781700505627"><img src="../assets/gifs/068.gif" width="100%" alt="やみつきになる音量スライダー"></a><br>
 <b><a href="https://x.com/vib3coded/status/2119876781700505627">やみつきになる音量スライダー</a></b><br>
@@ -325,6 +331,14 @@
 <sub>10 分、$8.43。</sub><br>
 <sub><a href="https://x.com/vib3coded/status/2119876781700505627">📝 作者公開のプロンプト（無料）</a></sub>
 </td>
+<td width="33%" valign="top">
+<a href="https://x.com/ChrisGPT/status/2122866766590173419"><img src="../assets/gifs/346.gif" width="100%" alt="4 日で作った水中漂流サバイバルゲーム"></a><br>
+<b><a href="https://x.com/ChrisGPT/status/2122866766590173419">4 日で作った水中漂流サバイバルゲーム</a></b><br>
+<sub>🆕 · <a href="https://x.com/ChrisGPT">@ChrisGPT</a> · ♥ 1.1k · <a href="https://x.com/ChrisGPT/status/2122866766590173419">▶ 動画</a></sub><br>
+
+</td>
+</tr>
+<tr>
 <td width="33%" valign="top">
 <a href="https://x.com/ericmaskfr/status/2119910195325481026"><img src="../assets/gifs/070.gif" width="100%" alt="1 プロンプトで GTA 6"></a><br>
 <b><a href="https://x.com/ericmaskfr/status/2119910195325481026">1 プロンプトで GTA 6</a></b><br>
@@ -335,11 +349,9 @@
 <td width="33%" valign="top">
 <a href="https://x.com/MengTo/status/2121896633848017145"><img src="../assets/gifs/294.gif" width="100%" alt="Dark Souls 風のブラウザゲーム"></a><br>
 <b><a href="https://x.com/MengTo/status/2121896633848017145">Dark Souls 風のブラウザゲーム</a></b><br>
-<sub><a href="https://x.com/MengTo">@MengTo</a> · ♥ 984 · <a href="https://x.com/MengTo/status/2121896633848017145">▶ 動画</a></sub><br>
+<sub><a href="https://x.com/MengTo">@MengTo</a> · ♥ 1.0k · <a href="https://x.com/MengTo/status/2121896633848017145">▶ 動画</a></sub><br>
 
 </td>
-</tr>
-<tr>
 <td width="33%" valign="top">
 <a href="https://x.com/oalanicolas/status/2120138473826877590"><img src="../assets/gifs/239.gif" width="100%" alt="アパートまるごとのデザイン"></a><br>
 <b><a href="https://x.com/oalanicolas/status/2120138473826877590">アパートまるごとのデザイン</a></b><br>
@@ -347,12 +359,20 @@
 <br>
 <sub><a href="https://fablelist.000ooo.ooo/ja/prompts/?w=a-full-apartment-design&ref=gh"><b>✨ プロンプトを入手</b></a></sub>
 </td>
+</tr>
+<tr>
 <td width="33%" valign="top">
 <a href="https://x.com/kinderlayer/status/2120112222227648957"><img src="../assets/gifs/116.gif" width="100%" alt="カーペットからライオン（Fable vs Gemini）"></a><br>
 <b><a href="https://x.com/kinderlayer/status/2120112222227648957">カーペットからライオン（Fable vs Gemini）</a></b><br>
-<sub><a href="https://x.com/kinderlayer">@kinderlayer</a> · ♥ 877 · <a href="https://x.com/kinderlayer/status/2120112222227648957">▶ 動画</a></sub><br>
+<sub><a href="https://x.com/kinderlayer">@kinderlayer</a> · ♥ 878 · <a href="https://x.com/kinderlayer/status/2120112222227648957">▶ 動画</a></sub><br>
 <br>
 <sub><a href="https://fablelist.000ooo.ooo/ja/prompts/?w=lion-from-a-carpet-fable-vs-gemini&ref=gh"><b>✨ プロンプトを入手</b></a></sub>
+</td>
+<td width="33%" valign="top">
+<a href="https://x.com/nickvernij/status/2122361634190696575"><img src="../assets/gifs/321.gif" width="100%" alt="Street View API から作ったアムステルダムの街並み"></a><br>
+<b><a href="https://x.com/nickvernij/status/2122361634190696575">Street View API から作ったアムステルダムの街並み</a></b><br>
+<sub>🆕 · <a href="https://x.com/nickvernij">@nickvernij</a> · ♥ 863 · <a href="https://x.com/nickvernij/status/2122361634190696575">▶ 動画</a></sub><br>
+
 </td>
 <td width="33%" valign="top">
 <a href="https://x.com/KHvostikk/status/2120621109125202344"><img src="../assets/gifs/242.gif" width="100%" alt="画像から PBR テクスチャ付き 3D モデルへ"></a><br>
@@ -364,15 +384,9 @@
 </tr>
 <tr>
 <td width="33%" valign="top">
-<a href="https://x.com/nickvernij/status/2122361634190696575"><img src="../assets/gifs/321.gif" width="100%" alt="Street View API から作ったアムステルダムの街並み"></a><br>
-<b><a href="https://x.com/nickvernij/status/2122361634190696575">Street View API から作ったアムステルダムの街並み</a></b><br>
-<sub>🆕 · <a href="https://x.com/nickvernij">@nickvernij</a> · ♥ 845 · <a href="https://x.com/nickvernij/status/2122361634190696575">▶ 動画</a></sub><br>
-
-</td>
-<td width="33%" valign="top">
 <a href="https://x.com/tm_uchal/status/2120573380768518390"><img src="../assets/gifs/240.gif" width="100%" alt="AI アバター動画"></a><br>
 <b><a href="https://x.com/tm_uchal/status/2120573380768518390">AI アバター動画</a></b><br>
-<sub><a href="https://x.com/tm_uchal">@tm_uchal</a> · ♥ 837 · <a href="https://x.com/tm_uchal/status/2120573380768518390">▶ 動画</a></sub><br>
+<sub><a href="https://x.com/tm_uchal">@tm_uchal</a> · ♥ 838 · <a href="https://x.com/tm_uchal/status/2120573380768518390">▶ 動画</a></sub><br>
 <br>
 <sub><a href="https://fablelist.000ooo.ooo/ja/prompts/?w=ai-avatar-video&ref=gh"><b>✨ プロンプトを入手</b></a></sub>
 </td>
@@ -382,6 +396,12 @@
 <sub><a href="https://x.com/scottstts">@scottstts</a> · ♥ 806 · <a href="https://x.com/scottstts/status/2120254108104007712">▶ 動画</a></sub><br>
 <br>
 <sub><a href="https://fablelist.000ooo.ooo/ja/prompts/?w=dragon-s-nest-three-js-tripo&ref=gh"><b>✨ プロンプトを入手</b></a></sub>
+</td>
+<td width="33%" valign="top">
+<a href="https://x.com/shiromamono/status/2122858333694730472"><img src="../assets/gifs/347.gif" width="100%" alt="キーボードを弾きながら歌う女の子の MV"></a><br>
+<b><a href="https://x.com/shiromamono/status/2122858333694730472">キーボードを弾きながら歌う女の子の MV</a></b><br>
+<sub>🆕 · <a href="https://x.com/shiromamono">@shiromamono</a> · ♥ 785 · <a href="https://x.com/shiromamono/status/2122858333694730472">▶ 動画</a></sub><br>
+
 </td>
 </tr>
 <tr>
@@ -394,7 +414,7 @@
 <td width="33%" valign="top">
 <a href="https://x.com/jaimintf/status/2120553374286594292"><img src="../assets/gifs/243.gif" width="100%" alt="予約前に見られる列車の座席ビュー"></a><br>
 <b><a href="https://x.com/jaimintf/status/2120553374286594292">予約前に見られる列車の座席ビュー</a></b><br>
-<sub><a href="https://x.com/jaimintf">@jaimintf</a> · ♥ 769 · <a href="https://x.com/jaimintf/status/2120553374286594292">▶ 動画</a></sub><br>
+<sub><a href="https://x.com/jaimintf">@jaimintf</a> · ♥ 770 · <a href="https://x.com/jaimintf/status/2120553374286594292">▶ 動画</a></sub><br>
 <br>
 <sub><a href="https://fablelist.000ooo.ooo/ja/prompts/?w=train-seat-view-before-you-book&ref=gh"><b>✨ プロンプトを入手</b></a></sub>
 </td>
@@ -410,7 +430,7 @@
 <td width="33%" valign="top">
 <a href="https://x.com/rute1203d/status/2120077147872391540"><img src="../assets/gifs/158.gif" width="100%" alt="「最高の動画を見せて」——ひねり付き"></a><br>
 <b><a href="https://x.com/rute1203d/status/2120077147872391540">「最高の動画を見せて」——ひねり付き</a></b><br>
-<sub><a href="https://x.com/rute1203d">@rute1203d</a> · ♥ 762 · <a href="https://x.com/rute1203d/status/2120077147872391540">▶ 動画</a></sub><br>
+<sub><a href="https://x.com/rute1203d">@rute1203d</a> · ♥ 764 · <a href="https://x.com/rute1203d/status/2120077147872391540">▶ 動画</a></sub><br>
 <br>
 <sub><a href="https://fablelist.000ooo.ooo/ja/prompts/?w=show-me-your-best-video-with-a-twist&ref=gh"><b>✨ プロンプトを入手</b></a></sub>
 </td>
@@ -422,25 +442,25 @@
 <sub><a href="https://fablelist.000ooo.ooo/ja/prompts/?w=one-shot-reel&ref=gh"><b>✨ プロンプトを入手</b></a></sub>
 </td>
 <td width="33%" valign="top">
-<a href="https://x.com/JaydenDavisNC/status/2120306434575392793"><img src="../assets/gifs/194.gif" width="100%" alt="外部アセットなし、Three.js の一人称シューター"></a><br>
-<b><a href="https://x.com/JaydenDavisNC/status/2120306434575392793">外部アセットなし、Three.js の一人称シューター</a></b><br>
-<sub><a href="https://x.com/JaydenDavisNC">@JaydenDavisNC</a> · ♥ 737 · <a href="https://x.com/JaydenDavisNC/status/2120306434575392793">▶ 動画</a></sub><br>
+<a href="https://x.com/anikrisn/status/2119950148294119483"><img src="../assets/gifs/241.gif" width="100%" alt="光る等角投影の池ジオラマ"></a><br>
+<b><a href="https://x.com/anikrisn/status/2119950148294119483">光る等角投影の池ジオラマ</a></b><br>
+<sub><a href="https://x.com/anikrisn">@anikrisn</a> · ♥ 740 · <a href="https://x.com/anikrisn/status/2119950148294119483">▶ 動画</a></sub><br>
 <br>
-<sub><a href="https://fablelist.000ooo.ooo/ja/prompts/?w=a-first-person-shooter-in-three-js-no&ref=gh"><b>✨ プロンプトを入手</b></a></sub>
+<sub><a href="https://fablelist.000ooo.ooo/ja/prompts/?w=glowing-isometric-pond-diorama&ref=gh"><b>✨ プロンプトを入手</b></a></sub>
 </td>
 </tr>
 <tr>
 <td width="33%" valign="top">
-<a href="https://x.com/anikrisn/status/2119950148294119483"><img src="../assets/gifs/241.gif" width="100%" alt="光る等角投影の池ジオラマ"></a><br>
-<b><a href="https://x.com/anikrisn/status/2119950148294119483">光る等角投影の池ジオラマ</a></b><br>
-<sub><a href="https://x.com/anikrisn">@anikrisn</a> · ♥ 737 · <a href="https://x.com/anikrisn/status/2119950148294119483">▶ 動画</a></sub><br>
+<a href="https://x.com/JaydenDavisNC/status/2120306434575392793"><img src="../assets/gifs/194.gif" width="100%" alt="外部アセットなし、Three.js の一人称シューター"></a><br>
+<b><a href="https://x.com/JaydenDavisNC/status/2120306434575392793">外部アセットなし、Three.js の一人称シューター</a></b><br>
+<sub><a href="https://x.com/JaydenDavisNC">@JaydenDavisNC</a> · ♥ 738 · <a href="https://x.com/JaydenDavisNC/status/2120306434575392793">▶ 動画</a></sub><br>
 <br>
-<sub><a href="https://fablelist.000ooo.ooo/ja/prompts/?w=glowing-isometric-pond-diorama&ref=gh"><b>✨ プロンプトを入手</b></a></sub>
+<sub><a href="https://fablelist.000ooo.ooo/ja/prompts/?w=a-first-person-shooter-in-three-js-no&ref=gh"><b>✨ プロンプトを入手</b></a></sub>
 </td>
 <td width="33%" valign="top">
-<a href="https://x.com/viktoroddy/status/2122711903877358056"><img src="../assets/gifs/341.gif" width="100%" alt="センスのあるブランドのランディングページ集"></a><br>
-<b><a href="https://x.com/viktoroddy/status/2122711903877358056">センスのあるブランドのランディングページ集</a></b><br>
-<sub>🆕 · <a href="https://x.com/viktoroddy">@viktoroddy</a> · ♥ 732 · <a href="https://x.com/viktoroddy/status/2122711903877358056">▶ 動画</a></sub><br>
+<a href="https://x.com/jakemor/status/2122551786045059205"><img src="../assets/gifs/327.gif" width="100%" alt="Function — 229 回のループビルドで作ったキーボード"></a><br>
+<b><a href="https://x.com/jakemor/status/2122551786045059205">Function — 229 回のループビルドで作ったキーボード</a></b><br>
+<sub>🆕 · <a href="https://x.com/jakemor">@jakemor</a> · ♥ 734 · <a href="https://x.com/jakemor/status/2122551786045059205">▶ 動画</a></sub><br>
 
 </td>
 <td width="33%" valign="top">
@@ -469,7 +489,7 @@
 <td width="33%" valign="top">
 <a href="https://x.com/AstrablueAI/status/2121635642836918385"><img src="../assets/gifs/292.gif" width="100%" alt="FABLE-OUS：一発で作ったミュージックビデオ"></a><br>
 <b><a href="https://x.com/AstrablueAI/status/2121635642836918385">FABLE-OUS：一発で作ったミュージックビデオ</a></b><br>
-<sub><a href="https://x.com/AstrablueAI">@AstrablueAI</a> · ♥ 676 · <a href="https://x.com/AstrablueAI/status/2121635642836918385">▶ 動画</a></sub><br>
+<sub><a href="https://x.com/AstrablueAI">@AstrablueAI</a> · ♥ 685 · <a href="https://x.com/AstrablueAI/status/2121635642836918385">▶ 動画</a></sub><br>
 
 </td>
 </tr>
@@ -482,32 +502,32 @@
 <sub><a href="https://fablelist.000ooo.ooo/ja/prompts/?w=a-90s-cereal-commercial&ref=gh"><b>✨ プロンプトを入手</b></a></sub>
 </td>
 <td width="33%" valign="top">
-<a href="https://x.com/ICO_AIvideo/status/2120311646933680355"><img src="../assets/gifs/195.gif" width="100%" alt="Blender で作ったループ短編"></a><br>
-<b><a href="https://x.com/ICO_AIvideo/status/2120311646933680355">Blender で作ったループ短編</a></b><br>
-<sub><a href="https://x.com/ICO_AIvideo">@ICO_AIvideo</a> · ♥ 671 · <a href="https://x.com/ICO_AIvideo/status/2120311646933680355">▶ 動画</a></sub><br>
-<br>
-<sub><a href="https://fablelist.000ooo.ooo/ja/prompts/?w=a-looping-short-made-in-blender&ref=gh"><b>✨ プロンプトを入手</b></a></sub>
+<a href="https://x.com/Ssr360535694/status/2122934850407510386"><img src="../assets/gifs/348.gif" width="100%" alt="Fable 5.2 が指揮し、Opus 5.5 が実行した VFX ショット"></a><br>
+<b><a href="https://x.com/Ssr360535694/status/2122934850407510386">Fable 5.2 が指揮し、Opus 5.5 が実行した VFX ショット</a></b><br>
+<sub>🆕 · <a href="https://x.com/Ssr360535694">@Ssr360535694</a> · ♥ 674 · <a href="https://x.com/Ssr360535694/status/2122934850407510386">▶ 動画</a></sub><br>
+
 </td>
 <td width="33%" valign="top">
 <a href="https://x.com/nikosolenne/status/2122497144976261202"><img src="../assets/gifs/342.gif" width="100%" alt="デザイナーとして雇いたくなるモデルによる Web デザイン"></a><br>
 <b><a href="https://x.com/nikosolenne/status/2122497144976261202">デザイナーとして雇いたくなるモデルによる Web デザイン</a></b><br>
-<sub>🆕 · <a href="https://x.com/nikosolenne">@nikosolenne</a> · ♥ 671 · <a href="https://x.com/nikosolenne/status/2122497144976261202">▶ 動画</a></sub><br>
+<sub>🆕 · <a href="https://x.com/nikosolenne">@nikosolenne</a> · ♥ 672 · <a href="https://x.com/nikosolenne/status/2122497144976261202">▶ 動画</a></sub><br>
 
 </td>
 </tr>
 <tr>
+<td width="33%" valign="top">
+<a href="https://x.com/ICO_AIvideo/status/2120311646933680355"><img src="../assets/gifs/195.gif" width="100%" alt="Blender で作ったループ短編"></a><br>
+<b><a href="https://x.com/ICO_AIvideo/status/2120311646933680355">Blender で作ったループ短編</a></b><br>
+<sub><a href="https://x.com/ICO_AIvideo">@ICO_AIvideo</a> · ♥ 670 · <a href="https://x.com/ICO_AIvideo/status/2120311646933680355">▶ 動画</a></sub><br>
+<br>
+<sub><a href="https://fablelist.000ooo.ooo/ja/prompts/?w=a-looping-short-made-in-blender&ref=gh"><b>✨ プロンプトを入手</b></a></sub>
+</td>
 <td width="33%" valign="top">
 <a href="https://x.com/KanaWorks_AI/status/2120098607382880627"><img src="../assets/gifs/159.gif" width="100%" alt="果てしない地形上空を飛ぶ 37 秒ノーカット"></a><br>
 <b><a href="https://x.com/KanaWorks_AI/status/2120098607382880627">果てしない地形上空を飛ぶ 37 秒ノーカット</a></b><br>
 <sub><a href="https://x.com/KanaWorks_AI">@KanaWorks_AI</a> · ♥ 664 · <a href="https://x.com/KanaWorks_AI/status/2120098607382880627">▶ 動画</a></sub><br>
 <br>
 <sub><a href="https://fablelist.000ooo.ooo/ja/prompts/?w=37-second-uncut-flight-over-endless-terrain&ref=gh"><b>✨ プロンプトを入手</b></a></sub>
-</td>
-<td width="33%" valign="top">
-<a href="https://x.com/jakemor/status/2122551786045059205"><img src="../assets/gifs/327.gif" width="100%" alt="Function — 229 回のループビルドで作ったキーボード"></a><br>
-<b><a href="https://x.com/jakemor/status/2122551786045059205">Function — 229 回のループビルドで作ったキーボード</a></b><br>
-<sub>🆕 · <a href="https://x.com/jakemor">@jakemor</a> · ♥ 640 · <a href="https://x.com/jakemor/status/2122551786045059205">▶ 動画</a></sub><br>
-
 </td>
 <td width="33%" valign="top">
 <a href="https://x.com/theo/status/2120104895646937409"><img src="../assets/gifs/075.gif" width="100%" alt="デザインになったデータパイプラインの解説記事"></a><br>
@@ -521,7 +541,7 @@
 <td width="33%" valign="top">
 <a href="https://x.com/LexnLin/status/2120167637133238295"><img src="../assets/gifs/160.gif" width="100%" alt="Claude ロゴアニメーション"></a><br>
 <b><a href="https://x.com/LexnLin/status/2120167637133238295">Claude ロゴアニメーション</a></b><br>
-<sub><a href="https://x.com/LexnLin">@LexnLin</a> · ♥ 631 · <a href="https://x.com/LexnLin/status/2120167637133238295">▶ 動画</a></sub><br>
+<sub><a href="https://x.com/LexnLin">@LexnLin</a> · ♥ 630 · <a href="https://x.com/LexnLin/status/2120167637133238295">▶ 動画</a></sub><br>
 <br>
 <sub><a href="https://fablelist.000ooo.ooo/ja/prompts/?w=claude-logo-animation&ref=gh"><b>✨ プロンプトを入手</b></a></sub>
 </td>
@@ -533,19 +553,19 @@
 <sub><a href="https://fablelist.000ooo.ooo/ja/prompts/?w=a-library-at-midnight&ref=gh"><b>✨ プロンプトを入手</b></a></sub>
 </td>
 <td width="33%" valign="top">
+<a href="https://x.com/PhotoGarrido/status/2122292866894680476"><img src="../assets/gifs/322.gif" width="100%" alt="Houdini の滝ベンチマーク"></a><br>
+<b><a href="https://x.com/PhotoGarrido/status/2122292866894680476">Houdini の滝ベンチマーク</a></b><br>
+<sub>🆕 · <a href="https://x.com/PhotoGarrido">@PhotoGarrido</a> · ♥ 623 · <a href="https://x.com/PhotoGarrido/status/2122292866894680476">▶ 動画</a></sub><br>
+
+</td>
+</tr>
+<tr>
+<td width="33%" valign="top">
 <a href="https://x.com/mxvdl/status/2120809570344050705"><img src="../assets/gifs/245.gif" width="100%" alt="Three.js 筆致シェーダーの解説"></a><br>
 <b><a href="https://x.com/mxvdl/status/2120809570344050705">Three.js 筆致シェーダーの解説</a></b><br>
 <sub><a href="https://x.com/mxvdl">@mxvdl</a> · ♥ 605 · <a href="https://x.com/mxvdl/status/2120809570344050705">▶ 動画</a></sub><br>
 <br>
 <sub><a href="https://fablelist.000ooo.ooo/ja/prompts/?w=three-js-brush-stroke-shader-breakdown&ref=gh"><b>✨ プロンプトを入手</b></a></sub>
-</td>
-</tr>
-<tr>
-<td width="33%" valign="top">
-<a href="https://x.com/PhotoGarrido/status/2122292866894680476"><img src="../assets/gifs/322.gif" width="100%" alt="Houdini の滝ベンチマーク"></a><br>
-<b><a href="https://x.com/PhotoGarrido/status/2122292866894680476">Houdini の滝ベンチマーク</a></b><br>
-<sub>🆕 · <a href="https://x.com/PhotoGarrido">@PhotoGarrido</a> · ♥ 601 · <a href="https://x.com/PhotoGarrido/status/2122292866894680476">▶ 動画</a></sub><br>
-
 </td>
 <td width="33%" valign="top">
 <a href="https://x.com/kevin_t_ngo/status/2120540964909711415"><img src="../assets/gifs/167.gif" width="100%" alt="アニメ番組のオープニング"></a><br>
@@ -557,7 +577,7 @@
 <td width="33%" valign="top">
 <a href="https://x.com/MrTacticalX/status/2120342453807157720"><img src="../assets/gifs/161.gif" width="100%" alt="Blender のメカニカルキーボード、タイピング付き"></a><br>
 <b><a href="https://x.com/MrTacticalX/status/2120342453807157720">Blender のメカニカルキーボード、タイピング付き</a></b><br>
-<sub><a href="https://x.com/MrTacticalX">@MrTacticalX</a> · ♥ 562 · <a href="https://x.com/MrTacticalX/status/2120342453807157720">▶ 動画</a></sub><br>
+<sub><a href="https://x.com/MrTacticalX">@MrTacticalX</a> · ♥ 563 · <a href="https://x.com/MrTacticalX/status/2120342453807157720">▶ 動画</a></sub><br>
 <br>
 <sub><a href="https://fablelist.000ooo.ooo/ja/prompts/?w=a-mechanical-keyboard-in-blender-typing-included&ref=gh"><b>✨ プロンプトを入手</b></a></sub>
 </td>
@@ -566,7 +586,7 @@
 <td width="33%" valign="top">
 <a href="https://x.com/dom_scholz/status/2119933150025363661"><img src="../assets/gifs/072.gif" width="100%" alt="Opus 5.5 vs Fable 5.2"></a><br>
 <b><a href="https://x.com/dom_scholz/status/2119933150025363661">Opus 5.5 vs Fable 5.2</a></b><br>
-<sub><a href="https://x.com/dom_scholz">@dom_scholz</a> · ♥ 551 · <a href="https://x.com/dom_scholz/status/2119933150025363661">▶ 動画</a></sub><br>
+<sub><a href="https://x.com/dom_scholz">@dom_scholz</a> · ♥ 555 · <a href="https://x.com/dom_scholz/status/2119933150025363661">▶ 動画</a></sub><br>
 <br>
 <sub><a href="https://fablelist.000ooo.ooo/ja/prompts/?w=opus-5-5-vs-fable-5-2&ref=gh"><b>✨ プロンプトを入手</b></a></sub>
 </td>
@@ -595,7 +615,7 @@
 <td width="33%" valign="top">
 <a href="https://x.com/oalanicolas/status/2120266468780585456"><img src="../assets/gifs/163.gif" width="100%" alt="まだ建っていない家のウォークスルー"></a><br>
 <b><a href="https://x.com/oalanicolas/status/2120266468780585456">まだ建っていない家のウォークスルー</a></b><br>
-<sub><a href="https://x.com/oalanicolas">@oalanicolas</a> · ♥ 500 · <a href="https://x.com/oalanicolas/status/2120266468780585456">▶ 動画</a></sub><br>
+<sub><a href="https://x.com/oalanicolas">@oalanicolas</a> · ♥ 501 · <a href="https://x.com/oalanicolas/status/2120266468780585456">▶ 動画</a></sub><br>
 <br>
 <sub><a href="https://x.com/oalanicolas/status/2120266468780585456">📝 作者公開のプロンプト（無料）</a></sub>
 </td>
@@ -617,7 +637,7 @@
 <td width="33%" valign="top">
 <a href="https://x.com/seiiiiiiiiiiru/status/2121724395354018201"><img src="../assets/gifs/296.gif" width="100%" alt="Claude x Blender のモーションキャプチャ"></a><br>
 <b><a href="https://x.com/seiiiiiiiiiiru/status/2121724395354018201">Claude x Blender のモーションキャプチャ</a></b><br>
-<sub><a href="https://x.com/seiiiiiiiiiiru">@seiiiiiiiiiiru</a> · ♥ 483 · <a href="https://x.com/seiiiiiiiiiiru/status/2121724395354018201">▶ 動画</a></sub><br>
+<sub><a href="https://x.com/seiiiiiiiiiiru">@seiiiiiiiiiiru</a> · ♥ 485 · <a href="https://x.com/seiiiiiiiiiiru/status/2121724395354018201">▶ 動画</a></sub><br>
 
 </td>
 <td width="33%" valign="top">
@@ -645,12 +665,18 @@
 <td width="33%" valign="top">
 <a href="https://x.com/mattshumer_/status/2119900920347828670"><img src="../assets/gifs/073.gif" width="100%" alt="映画まるごとをコードで"></a><br>
 <b><a href="https://x.com/mattshumer_/status/2119900920347828670">映画まるごとをコードで</a></b><br>
-<sub><a href="https://x.com/mattshumer_">@mattshumer_</a> · ♥ 468 · <a href="https://x.com/mattshumer_/status/2119900920347828670">▶ 動画</a></sub><br>
+<sub><a href="https://x.com/mattshumer_">@mattshumer_</a> · ♥ 469 · <a href="https://x.com/mattshumer_/status/2119900920347828670">▶ 動画</a></sub><br>
 <sub>声もグラフィックも、すべて。</sub><br>
 <sub><a href="https://fablelist.000ooo.ooo/ja/prompts/?w=a-whole-movie-in-code&ref=gh"><b>✨ プロンプトを入手</b></a></sub>
 </td>
 </tr>
 <tr>
+<td width="33%" valign="top">
+<a href="https://x.com/jeanalexandre_b/status/2120783430606840084"><img src="../assets/gifs/287.gif" width="100%" alt="10 万個の色の点で写真を描き直す、コードだけで"></a><br>
+<b><a href="https://x.com/jeanalexandre_b/status/2120783430606840084">10 万個の色の点で写真を描き直す、コードだけで</a></b><br>
+<sub><a href="https://x.com/jeanalexandre_b">@jeanalexandre_b</a> · ♥ 468 · <a href="https://x.com/jeanalexandre_b/status/2120783430606840084">▶ 動画</a></sub><br>
+
+</td>
 <td width="33%" valign="top">
 <a href="https://x.com/amrnth0/status/2120849097871810973"><img src="../assets/gifs/284.gif" width="100%" alt="Railway ハッキング事件をアニメで解説"></a><br>
 <b><a href="https://x.com/amrnth0/status/2120849097871810973">Railway ハッキング事件をアニメで解説</a></b><br>
@@ -658,35 +684,29 @@
 
 </td>
 <td width="33%" valign="top">
-<a href="https://x.com/jeanalexandre_b/status/2120783430606840084"><img src="../assets/gifs/287.gif" width="100%" alt="10 万個の色の点で写真を描き直す、コードだけで"></a><br>
-<b><a href="https://x.com/jeanalexandre_b/status/2120783430606840084">10 万個の色の点で写真を描き直す、コードだけで</a></b><br>
-<sub><a href="https://x.com/jeanalexandre_b">@jeanalexandre_b</a> · ♥ 456 · <a href="https://x.com/jeanalexandre_b/status/2120783430606840084">▶ 動画</a></sub><br>
+<a href="https://x.com/withbassam/status/2121536898976100486"><img src="../assets/gifs/312.gif" width="100%" alt="アラビア語由来の星の名前の星図"></a><br>
+<b><a href="https://x.com/withbassam/status/2121536898976100486">アラビア語由来の星の名前の星図</a></b><br>
+<sub>🆕 · <a href="https://x.com/withbassam">@withbassam</a> · ♥ 446 · <a href="https://x.com/withbassam/status/2121536898976100486">▶ 動画</a></sub><br>
 
 </td>
+</tr>
+<tr>
 <td width="33%" valign="top">
 <a href="https://x.com/Vtuber7144/status/2121739961938428167"><img src="../assets/gifs/305.gif" width="100%" alt="ノイズだらけの参考素材をきれいなセルルックに"></a><br>
 <b><a href="https://x.com/Vtuber7144/status/2121739961938428167">ノイズだらけの参考素材をきれいなセルルックに</a></b><br>
 <sub>🆕 · <a href="https://x.com/Vtuber7144">@Vtuber7144</a> · ♥ 445 · <a href="https://x.com/Vtuber7144/status/2121739961938428167">▶ 動画</a></sub><br>
 
 </td>
-</tr>
-<tr>
-<td width="33%" valign="top">
-<a href="https://x.com/withbassam/status/2121536898976100486"><img src="../assets/gifs/312.gif" width="100%" alt="アラビア語由来の星の名前の星図"></a><br>
-<b><a href="https://x.com/withbassam/status/2121536898976100486">アラビア語由来の星の名前の星図</a></b><br>
-<sub>🆕 · <a href="https://x.com/withbassam">@withbassam</a> · ♥ 445 · <a href="https://x.com/withbassam/status/2121536898976100486">▶ 動画</a></sub><br>
-
-</td>
 <td width="33%" valign="top">
 <a href="https://x.com/so_ainsight/status/2121970275353010214"><img src="../assets/gifs/343.gif" width="100%" alt="Higgsfield も HeyGen も使わない AI アバター動画"></a><br>
 <b><a href="https://x.com/so_ainsight/status/2121970275353010214">Higgsfield も HeyGen も使わない AI アバター動画</a></b><br>
-<sub>🆕 · <a href="https://x.com/so_ainsight">@so_ainsight</a> · ♥ 440 · <a href="https://x.com/so_ainsight/status/2121970275353010214">▶ 動画</a></sub><br>
+<sub>🆕 · <a href="https://x.com/so_ainsight">@so_ainsight</a> · ♥ 443 · <a href="https://x.com/so_ainsight/status/2121970275353010214">▶ 動画</a></sub><br>
 
 </td>
 <td width="33%" valign="top">
 <a href="https://x.com/solotechdev/status/2120071690482794603"><img src="../assets/gifs/096.gif" width="100%" alt="SwiftUI の瞳の色アプリ"></a><br>
 <b><a href="https://x.com/solotechdev/status/2120071690482794603">SwiftUI の瞳の色アプリ</a></b><br>
-<sub><a href="https://x.com/solotechdev">@solotechdev</a> · ♥ 433 · <a href="https://x.com/solotechdev/status/2120071690482794603">▶ 動画</a></sub><br>
+<sub><a href="https://x.com/solotechdev">@solotechdev</a> · ♥ 434 · <a href="https://x.com/solotechdev/status/2120071690482794603">▶ 動画</a></sub><br>
 <br>
 <sub><a href="https://fablelist.000ooo.ooo/ja/prompts/?w=swiftui-eye-color-app&ref=gh"><b>✨ プロンプトを入手</b></a></sub>
 </td>
@@ -730,7 +750,7 @@
 <td width="33%" valign="top">
 <a href="https://x.com/Bhavani_00007/status/2119902204320780676"><img src="../assets/gifs/077.gif" width="100%" alt="ロケット打ち上げ（Fable vs Opus）"></a><br>
 <b><a href="https://x.com/Bhavani_00007/status/2119902204320780676">ロケット打ち上げ（Fable vs Opus）</a></b><br>
-<sub><a href="https://x.com/Bhavani_00007">@Bhavani_00007</a> · ♥ 333 · <a href="https://x.com/Bhavani_00007/status/2119902204320780676">▶ 動画</a></sub><br>
+<sub><a href="https://x.com/Bhavani_00007">@Bhavani_00007</a> · ♥ 332 · <a href="https://x.com/Bhavani_00007/status/2119902204320780676">▶ 動画</a></sub><br>
 <br>
 <sub><a href="https://fablelist.000ooo.ooo/ja/prompts/?w=rocket-launch-fable-vs-opus&ref=gh"><b>✨ プロンプトを入手</b></a></sub>
 </td>
@@ -776,7 +796,7 @@
 <td width="33%" valign="top">
 <a href="https://x.com/elvar_official/status/2121579587222016201"><img src="../assets/gifs/295.gif" width="100%" alt="43年分のゲームパッドをワンショットで"></a><br>
 <b><a href="https://x.com/elvar_official/status/2121579587222016201">43年分のゲームパッドをワンショットで</a></b><br>
-<sub><a href="https://x.com/elvar_official">@elvar_official</a> · ♥ 279 · <a href="https://x.com/elvar_official/status/2121579587222016201">▶ 動画</a></sub><br>
+<sub><a href="https://x.com/elvar_official">@elvar_official</a> · ♥ 280 · <a href="https://x.com/elvar_official/status/2121579587222016201">▶ 動画</a></sub><br>
 
 </td>
 </tr>
@@ -929,7 +949,7 @@
 <td width="33%" valign="top">
 <a href="https://x.com/aug5thmusic/status/2119907891419480107"><img src="../assets/gifs/104.gif" width="100%" alt="バッハ風フーガ"></a><br>
 <b><a href="https://x.com/aug5thmusic/status/2119907891419480107">バッハ風フーガ</a></b><br>
-<sub><a href="https://x.com/aug5thmusic">@aug5thmusic</a> · ♥ 128 · <a href="https://x.com/aug5thmusic/status/2119907891419480107">▶ 動画</a></sub><br>
+<sub><a href="https://x.com/aug5thmusic">@aug5thmusic</a> · ♥ 129 · <a href="https://x.com/aug5thmusic/status/2119907891419480107">▶ 動画</a></sub><br>
 <sub>LilyPond で記述。</sub><br>
 <sub><a href="https://x.com/aug5thmusic/status/2119907891419480107">📝 作者公開のプロンプト（無料）</a></sub>
 </td>

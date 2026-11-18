@@ -1,4 +1,4 @@
-# 📺 영상 데모 · 전체 140개
+# 📺 영상 데모 · 전체 143개
 
 [← 메인 목록으로](../README.ko.md) · [English](video-demos.md) · [简体中文](video-demos.zh-CN.md) · [繁體中文](video-demos.zh-TW.md) · [日本語](video-demos.ja.md) · **한국어** · [Español](video-demos.es.md) · [Português](video-demos.pt-BR.md) · [Français](video-demos.fr.md) · [Deutsch](video-demos.de.md) · [Русский](video-demos.ru.md)
 
@@ -62,6 +62,20 @@
 <sub><a href="https://fablelist.000ooo.ooo/ko/prompts/?w=painting-a-copy-in-code-the-original-has&ref=gh"><b>✨ 프롬프트 받기</b></a></sub>
 </td>
 <td width="33%" valign="top">
+<a href="https://x.com/aj_dev_smith/status/2122538394710687871"><img src="../assets/gifs/324.gif" width="100%" alt="한 사람 목소리로 녹음한 64개 음으로 어떤 노래든 연주"></a><br>
+<b><a href="https://x.com/aj_dev_smith/status/2122538394710687871">한 사람 목소리로 녹음한 64개 음으로 어떤 노래든 연주</a></b><br>
+<sub>🆕 · <a href="https://x.com/aj_dev_smith">@aj_dev_smith</a> · ♥ 5.2k · <a href="https://x.com/aj_dev_smith/status/2122538394710687871">▶ 영상</a></sub><br>
+
+</td>
+<td width="33%" valign="top">
+<a href="https://x.com/Dstudio_ai/status/2122569461547098595"><img src="../assets/gifs/328.gif" width="100%" alt="Tripo 3D 모델로 만든 모바일 게임풍 로비 화면"></a><br>
+<b><a href="https://x.com/Dstudio_ai/status/2122569461547098595">Tripo 3D 모델로 만든 모바일 게임풍 로비 화면</a></b><br>
+<sub>🆕 · <a href="https://x.com/Dstudio_ai">@Dstudio_ai</a> · ♥ 5.1k · <a href="https://x.com/Dstudio_ai/status/2122569461547098595">▶ 영상</a></sub><br>
+
+</td>
+</tr>
+<tr>
+<td width="33%" valign="top">
 <a href="https://x.com/matabee_GTO/status/2120995946372985144"><img src="../assets/gifs/254.gif" width="100%" alt="프롬프트 하나: 가장 불편한 영상을 만들어줘"></a><br>
 <b><a href="https://x.com/matabee_GTO/status/2120995946372985144">프롬프트 하나: 가장 불편한 영상을 만들어줘</a></b><br>
 <sub><a href="https://x.com/matabee_GTO">@matabee_GTO</a> · ♥ 4.9k · <a href="https://x.com/matabee_GTO/status/2120995946372985144">▶ 영상</a></sub><br>
@@ -69,23 +83,9 @@
 <sub><a href="https://x.com/matabee_GTO/status/2120995946372985144">📝 제작자 공개 프롬프트 (무료)</a></sub>
 </td>
 <td width="33%" valign="top">
-<a href="https://x.com/aj_dev_smith/status/2122538394710687871"><img src="../assets/gifs/324.gif" width="100%" alt="한 사람 목소리로 녹음한 64개 음으로 어떤 노래든 연주"></a><br>
-<b><a href="https://x.com/aj_dev_smith/status/2122538394710687871">한 사람 목소리로 녹음한 64개 음으로 어떤 노래든 연주</a></b><br>
-<sub>🆕 · <a href="https://x.com/aj_dev_smith">@aj_dev_smith</a> · ♥ 4.8k · <a href="https://x.com/aj_dev_smith/status/2122538394710687871">▶ 영상</a></sub><br>
-
-</td>
-</tr>
-<tr>
-<td width="33%" valign="top">
 <a href="https://x.com/JungleSilicon/status/2121782359901212987"><img src="../assets/gifs/291.gif" width="100%" alt="픽셀 아트 가우시안 스플랫"></a><br>
 <b><a href="https://x.com/JungleSilicon/status/2121782359901212987">픽셀 아트 가우시안 스플랫</a></b><br>
-<sub><a href="https://x.com/JungleSilicon">@JungleSilicon</a> · ♥ 4.7k · <a href="https://x.com/JungleSilicon/status/2121782359901212987">▶ 영상</a></sub><br>
-
-</td>
-<td width="33%" valign="top">
-<a href="https://x.com/Dstudio_ai/status/2122569461547098595"><img src="../assets/gifs/328.gif" width="100%" alt="Tripo 3D 모델로 만든 모바일 게임풍 로비 화면"></a><br>
-<b><a href="https://x.com/Dstudio_ai/status/2122569461547098595">Tripo 3D 모델로 만든 모바일 게임풍 로비 화면</a></b><br>
-<sub>🆕 · <a href="https://x.com/Dstudio_ai">@Dstudio_ai</a> · ♥ 4.6k · <a href="https://x.com/Dstudio_ai/status/2122569461547098595">▶ 영상</a></sub><br>
+<sub><a href="https://x.com/JungleSilicon">@JungleSilicon</a> · ♥ 4.8k · <a href="https://x.com/JungleSilicon/status/2121782359901212987">▶ 영상</a></sub><br>
 
 </td>
 <td width="33%" valign="top">
@@ -107,7 +107,7 @@
 <td width="33%" valign="top">
 <a href="https://x.com/shiromamono/status/2122473903100731694"><img src="../assets/gifs/339.gif" width="100%" alt="웃음 짓게 하려고 만든 영상"></a><br>
 <b><a href="https://x.com/shiromamono/status/2122473903100731694">웃음 짓게 하려고 만든 영상</a></b><br>
-<sub>🆕 · <a href="https://x.com/shiromamono">@shiromamono</a> · ♥ 3.5k · <a href="https://x.com/shiromamono/status/2122473903100731694">▶ 영상</a></sub><br>
+<sub>🆕 · <a href="https://x.com/shiromamono">@shiromamono</a> · ♥ 3.7k · <a href="https://x.com/shiromamono/status/2122473903100731694">▶ 영상</a></sub><br>
 
 </td>
 <td width="33%" valign="top">
@@ -166,7 +166,7 @@
 <td width="33%" valign="top">
 <a href="https://x.com/kotaniko98765/status/2122266561960665539"><img src="../assets/gifs/340.gif" width="100%" alt="주말 동안 만든 데이 트레이딩 게임"></a><br>
 <b><a href="https://x.com/kotaniko98765/status/2122266561960665539">주말 동안 만든 데이 트레이딩 게임</a></b><br>
-<sub>🆕 · <a href="https://x.com/kotaniko98765">@kotaniko98765</a> · ♥ 2.4k · <a href="https://x.com/kotaniko98765/status/2122266561960665539">▶ 영상</a></sub><br>
+<sub>🆕 · <a href="https://x.com/kotaniko98765">@kotaniko98765</a> · ♥ 2.5k · <a href="https://x.com/kotaniko98765/status/2122266561960665539">▶ 영상</a></sub><br>
 
 </td>
 <td width="33%" valign="top">
@@ -216,17 +216,17 @@
 <sub><a href="https://fablelist.000ooo.ooo/ko/prompts/?w=show-me-your-work&ref=gh"><b>✨ 프롬프트 받기</b></a></sub>
 </td>
 <td width="33%" valign="top">
+<a href="https://x.com/chrisjdimarco/status/2120752985949057215"><img src="../assets/gifs/276.gif" width="100%" alt="손, 고래, 로켓, DNA 이중나선으로 변신하는 나노봇 1,048,576개 군집"></a><br>
+<b><a href="https://x.com/chrisjdimarco/status/2120752985949057215">손, 고래, 로켓, DNA 이중나선으로 변신하는 나노봇 1,048,576개 군집</a></b><br>
+<sub><a href="https://x.com/chrisjdimarco">@chrisjdimarco</a> · ♥ 1.7k · <a href="https://x.com/chrisjdimarco/status/2120752985949057215">▶ 영상</a></sub><br>
+
+</td>
+<td width="33%" valign="top">
 <a href="https://x.com/_MaxBlade/status/2120109725740159390"><img src="../assets/gifs/093.gif" width="100%" alt="MCP로 Unreal Engine 5.9에서 4시간"></a><br>
 <b><a href="https://x.com/_MaxBlade/status/2120109725740159390">MCP로 Unreal Engine 5.9에서 4시간</a></b><br>
 <sub><a href="https://x.com/_MaxBlade">@_MaxBlade</a> · ♥ 1.7k · <a href="https://x.com/_MaxBlade/status/2120109725740159390">▶ 영상</a></sub><br>
 <br>
 <sub><a href="https://fablelist.000ooo.ooo/ko/prompts/?w=4-hours-in-unreal-engine-5-9-via&ref=gh"><b>✨ 프롬프트 받기</b></a></sub>
-</td>
-<td width="33%" valign="top">
-<a href="https://x.com/chrisjdimarco/status/2120752985949057215"><img src="../assets/gifs/276.gif" width="100%" alt="손, 고래, 로켓, DNA 이중나선으로 변신하는 나노봇 1,048,576개 군집"></a><br>
-<b><a href="https://x.com/chrisjdimarco/status/2120752985949057215">손, 고래, 로켓, DNA 이중나선으로 변신하는 나노봇 1,048,576개 군집</a></b><br>
-<sub><a href="https://x.com/chrisjdimarco">@chrisjdimarco</a> · ♥ 1.7k · <a href="https://x.com/chrisjdimarco/status/2120752985949057215">▶ 영상</a></sub><br>
-
 </td>
 </tr>
 <tr>
@@ -245,25 +245,25 @@
 <sub><a href="https://fablelist.000ooo.ooo/ko/prompts/?w=pixel-art-gaussian-splats&ref=gh"><b>✨ 프롬프트 받기</b></a></sub>
 </td>
 <td width="33%" valign="top">
+<a href="https://x.com/fe_yukichi/status/2122489950981779504"><img src="../assets/gifs/326.gif" width="100%" alt="Blender로 모델링한 게으른 토끼"></a><br>
+<b><a href="https://x.com/fe_yukichi/status/2122489950981779504">Blender로 모델링한 게으른 토끼</a></b><br>
+<sub>🆕 · <a href="https://x.com/fe_yukichi">@fe_yukichi</a> · ♥ 1.6k · <a href="https://x.com/fe_yukichi/status/2122489950981779504">▶ 영상</a></sub><br>
+
+</td>
+</tr>
+<tr>
+<td width="33%" valign="top">
 <a href="https://x.com/ryanvogel/status/2122000027543617844"><img src="../assets/gifs/304.gif" width="100%" alt="Blender로 렌더링한 Portal 2 단편"></a><br>
 <b><a href="https://x.com/ryanvogel/status/2122000027543617844">Blender로 렌더링한 Portal 2 단편</a></b><br>
 <sub>🆕 · <a href="https://x.com/ryanvogel">@ryanvogel</a> · ♥ 1.5k · <a href="https://x.com/ryanvogel/status/2122000027543617844">▶ 영상</a></sub><br>
 
 </td>
-</tr>
-<tr>
 <td width="33%" valign="top">
 <a href="https://x.com/MrTacticalX/status/2119955647542542439"><img src="../assets/gifs/069.gif" width="100%" alt="Glass Pool (Fable vs Opus)"></a><br>
 <b><a href="https://x.com/MrTacticalX/status/2119955647542542439">Glass Pool (Fable vs Opus)</a></b><br>
 <sub><a href="https://x.com/MrTacticalX">@MrTacticalX</a> · ♥ 1.5k · <a href="https://x.com/MrTacticalX/status/2119955647542542439">▶ 영상</a></sub><br>
 <br>
 <sub><a href="https://fablelist.000ooo.ooo/ko/prompts/?w=glass-pool-fable-vs-opus&ref=gh"><b>✨ 프롬프트 받기</b></a></sub>
-</td>
-<td width="33%" valign="top">
-<a href="https://x.com/fe_yukichi/status/2122489950981779504"><img src="../assets/gifs/326.gif" width="100%" alt="Blender로 모델링한 게으른 토끼"></a><br>
-<b><a href="https://x.com/fe_yukichi/status/2122489950981779504">Blender로 모델링한 게으른 토끼</a></b><br>
-<sub>🆕 · <a href="https://x.com/fe_yukichi">@fe_yukichi</a> · ♥ 1.4k · <a href="https://x.com/fe_yukichi/status/2122489950981779504">▶ 영상</a></sub><br>
-
 </td>
 <td width="33%" valign="top">
 <a href="https://x.com/akakuma0219/status/2120030634248929556"><img src="../assets/gifs/155.gif" width="100%" alt="세 단어로 만든 프리비즈 달리기 사이클"></a><br>
@@ -304,20 +304,26 @@
 
 </td>
 <td width="33%" valign="top">
+<a href="https://x.com/viktoroddy/status/2122711903877358056"><img src="../assets/gifs/341.gif" width="100%" alt="감각 있는 브랜드 랜딩 페이지 모음"></a><br>
+<b><a href="https://x.com/viktoroddy/status/2122711903877358056">감각 있는 브랜드 랜딩 페이지 모음</a></b><br>
+<sub>🆕 · <a href="https://x.com/viktoroddy">@viktoroddy</a> · ♥ 1.2k · <a href="https://x.com/viktoroddy/status/2122711903877358056">▶ 영상</a></sub><br>
+
+</td>
+<td width="33%" valign="top">
 <a href="https://x.com/KHvostikk/status/2119939061049889130"><img src="../assets/gifs/215.gif" width="100%" alt="영상에서 3D 애니메이션으로"></a><br>
 <b><a href="https://x.com/KHvostikk/status/2119939061049889130">영상에서 3D 애니메이션으로</a></b><br>
 <sub><a href="https://x.com/KHvostikk">@KHvostikk</a> · ♥ 1.2k · <a href="https://x.com/KHvostikk/status/2119939061049889130">▶ 영상</a></sub><br>
 <br>
 <sub><a href="https://fablelist.000ooo.ooo/ko/prompts/?w=video-to-3d-animation&ref=gh"><b>✨ 프롬프트 받기</b></a></sub>
 </td>
+</tr>
+<tr>
 <td width="33%" valign="top">
 <a href="https://x.com/chetaslua/status/2119870650722763052"><img src="../assets/gifs/067.gif" width="100%" alt="빈 폴더에서 만든 운영체제"></a><br>
 <b><a href="https://x.com/chetaslua/status/2119870650722763052">빈 폴더에서 만든 운영체제</a></b><br>
 <sub><a href="https://x.com/chetaslua">@chetaslua</a> · ♥ 1.2k · <a href="https://x.com/chetaslua/status/2119870650722763052">▶ 영상</a></sub><br>
 <sub>1,000개 이상의 에이전트가 협업하는 Anthropic의 데모.</sub>
 </td>
-</tr>
-<tr>
 <td width="33%" valign="top">
 <a href="https://x.com/vib3coded/status/2119876781700505627"><img src="../assets/gifs/068.gif" width="100%" alt="중독성 있는 볼륨 슬라이더"></a><br>
 <b><a href="https://x.com/vib3coded/status/2119876781700505627">중독성 있는 볼륨 슬라이더</a></b><br>
@@ -325,6 +331,14 @@
 <sub>10분, $8.43.</sub><br>
 <sub><a href="https://x.com/vib3coded/status/2119876781700505627">📝 제작자 공개 프롬프트 (무료)</a></sub>
 </td>
+<td width="33%" valign="top">
+<a href="https://x.com/ChrisGPT/status/2122866766590173419"><img src="../assets/gifs/346.gif" width="100%" alt="4일 만에 만든 수중 조난 생존 게임"></a><br>
+<b><a href="https://x.com/ChrisGPT/status/2122866766590173419">4일 만에 만든 수중 조난 생존 게임</a></b><br>
+<sub>🆕 · <a href="https://x.com/ChrisGPT">@ChrisGPT</a> · ♥ 1.1k · <a href="https://x.com/ChrisGPT/status/2122866766590173419">▶ 영상</a></sub><br>
+
+</td>
+</tr>
+<tr>
 <td width="33%" valign="top">
 <a href="https://x.com/ericmaskfr/status/2119910195325481026"><img src="../assets/gifs/070.gif" width="100%" alt="프롬프트 하나로 만든 GTA 6"></a><br>
 <b><a href="https://x.com/ericmaskfr/status/2119910195325481026">프롬프트 하나로 만든 GTA 6</a></b><br>
@@ -335,11 +349,9 @@
 <td width="33%" valign="top">
 <a href="https://x.com/MengTo/status/2121896633848017145"><img src="../assets/gifs/294.gif" width="100%" alt="Dark Souls에서 영감받은 브라우저 게임"></a><br>
 <b><a href="https://x.com/MengTo/status/2121896633848017145">Dark Souls에서 영감받은 브라우저 게임</a></b><br>
-<sub><a href="https://x.com/MengTo">@MengTo</a> · ♥ 984 · <a href="https://x.com/MengTo/status/2121896633848017145">▶ 영상</a></sub><br>
+<sub><a href="https://x.com/MengTo">@MengTo</a> · ♥ 1.0k · <a href="https://x.com/MengTo/status/2121896633848017145">▶ 영상</a></sub><br>
 
 </td>
-</tr>
-<tr>
 <td width="33%" valign="top">
 <a href="https://x.com/oalanicolas/status/2120138473826877590"><img src="../assets/gifs/239.gif" width="100%" alt="아파트 전체 디자인"></a><br>
 <b><a href="https://x.com/oalanicolas/status/2120138473826877590">아파트 전체 디자인</a></b><br>
@@ -347,12 +359,20 @@
 <br>
 <sub><a href="https://fablelist.000ooo.ooo/ko/prompts/?w=a-full-apartment-design&ref=gh"><b>✨ 프롬프트 받기</b></a></sub>
 </td>
+</tr>
+<tr>
 <td width="33%" valign="top">
 <a href="https://x.com/kinderlayer/status/2120112222227648957"><img src="../assets/gifs/116.gif" width="100%" alt="카펫에서 나온 사자 (Fable vs Gemini)"></a><br>
 <b><a href="https://x.com/kinderlayer/status/2120112222227648957">카펫에서 나온 사자 (Fable vs Gemini)</a></b><br>
-<sub><a href="https://x.com/kinderlayer">@kinderlayer</a> · ♥ 877 · <a href="https://x.com/kinderlayer/status/2120112222227648957">▶ 영상</a></sub><br>
+<sub><a href="https://x.com/kinderlayer">@kinderlayer</a> · ♥ 878 · <a href="https://x.com/kinderlayer/status/2120112222227648957">▶ 영상</a></sub><br>
 <br>
 <sub><a href="https://fablelist.000ooo.ooo/ko/prompts/?w=lion-from-a-carpet-fable-vs-gemini&ref=gh"><b>✨ 프롬프트 받기</b></a></sub>
+</td>
+<td width="33%" valign="top">
+<a href="https://x.com/nickvernij/status/2122361634190696575"><img src="../assets/gifs/321.gif" width="100%" alt="Street View API로 만든 암스테르담 거리 장면"></a><br>
+<b><a href="https://x.com/nickvernij/status/2122361634190696575">Street View API로 만든 암스테르담 거리 장면</a></b><br>
+<sub>🆕 · <a href="https://x.com/nickvernij">@nickvernij</a> · ♥ 863 · <a href="https://x.com/nickvernij/status/2122361634190696575">▶ 영상</a></sub><br>
+
 </td>
 <td width="33%" valign="top">
 <a href="https://x.com/KHvostikk/status/2120621109125202344"><img src="../assets/gifs/242.gif" width="100%" alt="이미지에서 PBR 텍스처가 있는 3D 모델로"></a><br>
@@ -364,15 +384,9 @@
 </tr>
 <tr>
 <td width="33%" valign="top">
-<a href="https://x.com/nickvernij/status/2122361634190696575"><img src="../assets/gifs/321.gif" width="100%" alt="Street View API로 만든 암스테르담 거리 장면"></a><br>
-<b><a href="https://x.com/nickvernij/status/2122361634190696575">Street View API로 만든 암스테르담 거리 장면</a></b><br>
-<sub>🆕 · <a href="https://x.com/nickvernij">@nickvernij</a> · ♥ 845 · <a href="https://x.com/nickvernij/status/2122361634190696575">▶ 영상</a></sub><br>
-
-</td>
-<td width="33%" valign="top">
 <a href="https://x.com/tm_uchal/status/2120573380768518390"><img src="../assets/gifs/240.gif" width="100%" alt="AI 아바타 영상"></a><br>
 <b><a href="https://x.com/tm_uchal/status/2120573380768518390">AI 아바타 영상</a></b><br>
-<sub><a href="https://x.com/tm_uchal">@tm_uchal</a> · ♥ 837 · <a href="https://x.com/tm_uchal/status/2120573380768518390">▶ 영상</a></sub><br>
+<sub><a href="https://x.com/tm_uchal">@tm_uchal</a> · ♥ 838 · <a href="https://x.com/tm_uchal/status/2120573380768518390">▶ 영상</a></sub><br>
 <br>
 <sub><a href="https://fablelist.000ooo.ooo/ko/prompts/?w=ai-avatar-video&ref=gh"><b>✨ 프롬프트 받기</b></a></sub>
 </td>
@@ -382,6 +396,12 @@
 <sub><a href="https://x.com/scottstts">@scottstts</a> · ♥ 806 · <a href="https://x.com/scottstts/status/2120254108104007712">▶ 영상</a></sub><br>
 <br>
 <sub><a href="https://fablelist.000ooo.ooo/ko/prompts/?w=dragon-s-nest-three-js-tripo&ref=gh"><b>✨ 프롬프트 받기</b></a></sub>
+</td>
+<td width="33%" valign="top">
+<a href="https://x.com/shiromamono/status/2122858333694730472"><img src="../assets/gifs/347.gif" width="100%" alt="키보드를 치며 노래하는 소녀의 뮤직비디오"></a><br>
+<b><a href="https://x.com/shiromamono/status/2122858333694730472">키보드를 치며 노래하는 소녀의 뮤직비디오</a></b><br>
+<sub>🆕 · <a href="https://x.com/shiromamono">@shiromamono</a> · ♥ 785 · <a href="https://x.com/shiromamono/status/2122858333694730472">▶ 영상</a></sub><br>
+
 </td>
 </tr>
 <tr>
@@ -394,7 +414,7 @@
 <td width="33%" valign="top">
 <a href="https://x.com/jaimintf/status/2120553374286594292"><img src="../assets/gifs/243.gif" width="100%" alt="예매 전에 보는 기차 좌석 시야"></a><br>
 <b><a href="https://x.com/jaimintf/status/2120553374286594292">예매 전에 보는 기차 좌석 시야</a></b><br>
-<sub><a href="https://x.com/jaimintf">@jaimintf</a> · ♥ 769 · <a href="https://x.com/jaimintf/status/2120553374286594292">▶ 영상</a></sub><br>
+<sub><a href="https://x.com/jaimintf">@jaimintf</a> · ♥ 770 · <a href="https://x.com/jaimintf/status/2120553374286594292">▶ 영상</a></sub><br>
 <br>
 <sub><a href="https://fablelist.000ooo.ooo/ko/prompts/?w=train-seat-view-before-you-book&ref=gh"><b>✨ 프롬프트 받기</b></a></sub>
 </td>
@@ -410,7 +430,7 @@
 <td width="33%" valign="top">
 <a href="https://x.com/rute1203d/status/2120077147872391540"><img src="../assets/gifs/158.gif" width="100%" alt="&quot;당신의 최고의 영상을 보여줘&quot; — 반전 포함"></a><br>
 <b><a href="https://x.com/rute1203d/status/2120077147872391540">"당신의 최고의 영상을 보여줘" — 반전 포함</a></b><br>
-<sub><a href="https://x.com/rute1203d">@rute1203d</a> · ♥ 762 · <a href="https://x.com/rute1203d/status/2120077147872391540">▶ 영상</a></sub><br>
+<sub><a href="https://x.com/rute1203d">@rute1203d</a> · ♥ 764 · <a href="https://x.com/rute1203d/status/2120077147872391540">▶ 영상</a></sub><br>
 <br>
 <sub><a href="https://fablelist.000ooo.ooo/ko/prompts/?w=show-me-your-best-video-with-a-twist&ref=gh"><b>✨ 프롬프트 받기</b></a></sub>
 </td>
@@ -422,25 +442,25 @@
 <sub><a href="https://fablelist.000ooo.ooo/ko/prompts/?w=one-shot-reel&ref=gh"><b>✨ 프롬프트 받기</b></a></sub>
 </td>
 <td width="33%" valign="top">
-<a href="https://x.com/JaydenDavisNC/status/2120306434575392793"><img src="../assets/gifs/194.gif" width="100%" alt="외부 에셋 없이 Three.js로 만든 1인칭 슈터"></a><br>
-<b><a href="https://x.com/JaydenDavisNC/status/2120306434575392793">외부 에셋 없이 Three.js로 만든 1인칭 슈터</a></b><br>
-<sub><a href="https://x.com/JaydenDavisNC">@JaydenDavisNC</a> · ♥ 737 · <a href="https://x.com/JaydenDavisNC/status/2120306434575392793">▶ 영상</a></sub><br>
+<a href="https://x.com/anikrisn/status/2119950148294119483"><img src="../assets/gifs/241.gif" width="100%" alt="빛나는 아이소메트릭 연못 디오라마"></a><br>
+<b><a href="https://x.com/anikrisn/status/2119950148294119483">빛나는 아이소메트릭 연못 디오라마</a></b><br>
+<sub><a href="https://x.com/anikrisn">@anikrisn</a> · ♥ 740 · <a href="https://x.com/anikrisn/status/2119950148294119483">▶ 영상</a></sub><br>
 <br>
-<sub><a href="https://fablelist.000ooo.ooo/ko/prompts/?w=a-first-person-shooter-in-three-js-no&ref=gh"><b>✨ 프롬프트 받기</b></a></sub>
+<sub><a href="https://fablelist.000ooo.ooo/ko/prompts/?w=glowing-isometric-pond-diorama&ref=gh"><b>✨ 프롬프트 받기</b></a></sub>
 </td>
 </tr>
 <tr>
 <td width="33%" valign="top">
-<a href="https://x.com/anikrisn/status/2119950148294119483"><img src="../assets/gifs/241.gif" width="100%" alt="빛나는 아이소메트릭 연못 디오라마"></a><br>
-<b><a href="https://x.com/anikrisn/status/2119950148294119483">빛나는 아이소메트릭 연못 디오라마</a></b><br>
-<sub><a href="https://x.com/anikrisn">@anikrisn</a> · ♥ 737 · <a href="https://x.com/anikrisn/status/2119950148294119483">▶ 영상</a></sub><br>
+<a href="https://x.com/JaydenDavisNC/status/2120306434575392793"><img src="../assets/gifs/194.gif" width="100%" alt="외부 에셋 없이 Three.js로 만든 1인칭 슈터"></a><br>
+<b><a href="https://x.com/JaydenDavisNC/status/2120306434575392793">외부 에셋 없이 Three.js로 만든 1인칭 슈터</a></b><br>
+<sub><a href="https://x.com/JaydenDavisNC">@JaydenDavisNC</a> · ♥ 738 · <a href="https://x.com/JaydenDavisNC/status/2120306434575392793">▶ 영상</a></sub><br>
 <br>
-<sub><a href="https://fablelist.000ooo.ooo/ko/prompts/?w=glowing-isometric-pond-diorama&ref=gh"><b>✨ 프롬프트 받기</b></a></sub>
+<sub><a href="https://fablelist.000ooo.ooo/ko/prompts/?w=a-first-person-shooter-in-three-js-no&ref=gh"><b>✨ 프롬프트 받기</b></a></sub>
 </td>
 <td width="33%" valign="top">
-<a href="https://x.com/viktoroddy/status/2122711903877358056"><img src="../assets/gifs/341.gif" width="100%" alt="감각 있는 브랜드 랜딩 페이지 모음"></a><br>
-<b><a href="https://x.com/viktoroddy/status/2122711903877358056">감각 있는 브랜드 랜딩 페이지 모음</a></b><br>
-<sub>🆕 · <a href="https://x.com/viktoroddy">@viktoroddy</a> · ♥ 732 · <a href="https://x.com/viktoroddy/status/2122711903877358056">▶ 영상</a></sub><br>
+<a href="https://x.com/jakemor/status/2122551786045059205"><img src="../assets/gifs/327.gif" width="100%" alt="Function — 229번 반복 빌드로 만든 키보드"></a><br>
+<b><a href="https://x.com/jakemor/status/2122551786045059205">Function — 229번 반복 빌드로 만든 키보드</a></b><br>
+<sub>🆕 · <a href="https://x.com/jakemor">@jakemor</a> · ♥ 734 · <a href="https://x.com/jakemor/status/2122551786045059205">▶ 영상</a></sub><br>
 
 </td>
 <td width="33%" valign="top">
@@ -469,7 +489,7 @@
 <td width="33%" valign="top">
 <a href="https://x.com/AstrablueAI/status/2121635642836918385"><img src="../assets/gifs/292.gif" width="100%" alt="FABLE-OUS, 원샷 뮤직비디오"></a><br>
 <b><a href="https://x.com/AstrablueAI/status/2121635642836918385">FABLE-OUS, 원샷 뮤직비디오</a></b><br>
-<sub><a href="https://x.com/AstrablueAI">@AstrablueAI</a> · ♥ 676 · <a href="https://x.com/AstrablueAI/status/2121635642836918385">▶ 영상</a></sub><br>
+<sub><a href="https://x.com/AstrablueAI">@AstrablueAI</a> · ♥ 685 · <a href="https://x.com/AstrablueAI/status/2121635642836918385">▶ 영상</a></sub><br>
 
 </td>
 </tr>
@@ -482,32 +502,32 @@
 <sub><a href="https://fablelist.000ooo.ooo/ko/prompts/?w=a-90s-cereal-commercial&ref=gh"><b>✨ 프롬프트 받기</b></a></sub>
 </td>
 <td width="33%" valign="top">
-<a href="https://x.com/ICO_AIvideo/status/2120311646933680355"><img src="../assets/gifs/195.gif" width="100%" alt="Blender로 만든 루프 단편"></a><br>
-<b><a href="https://x.com/ICO_AIvideo/status/2120311646933680355">Blender로 만든 루프 단편</a></b><br>
-<sub><a href="https://x.com/ICO_AIvideo">@ICO_AIvideo</a> · ♥ 671 · <a href="https://x.com/ICO_AIvideo/status/2120311646933680355">▶ 영상</a></sub><br>
-<br>
-<sub><a href="https://fablelist.000ooo.ooo/ko/prompts/?w=a-looping-short-made-in-blender&ref=gh"><b>✨ 프롬프트 받기</b></a></sub>
+<a href="https://x.com/Ssr360535694/status/2122934850407510386"><img src="../assets/gifs/348.gif" width="100%" alt="Fable 5.2가 지휘하고 Opus 5.5가 실행한 VFX 샷"></a><br>
+<b><a href="https://x.com/Ssr360535694/status/2122934850407510386">Fable 5.2가 지휘하고 Opus 5.5가 실행한 VFX 샷</a></b><br>
+<sub>🆕 · <a href="https://x.com/Ssr360535694">@Ssr360535694</a> · ♥ 674 · <a href="https://x.com/Ssr360535694/status/2122934850407510386">▶ 영상</a></sub><br>
+
 </td>
 <td width="33%" valign="top">
 <a href="https://x.com/nikosolenne/status/2122497144976261202"><img src="../assets/gifs/342.gif" width="100%" alt="디자이너로 고용하고 싶은 모델의 웹사이트 디자인"></a><br>
 <b><a href="https://x.com/nikosolenne/status/2122497144976261202">디자이너로 고용하고 싶은 모델의 웹사이트 디자인</a></b><br>
-<sub>🆕 · <a href="https://x.com/nikosolenne">@nikosolenne</a> · ♥ 671 · <a href="https://x.com/nikosolenne/status/2122497144976261202">▶ 영상</a></sub><br>
+<sub>🆕 · <a href="https://x.com/nikosolenne">@nikosolenne</a> · ♥ 672 · <a href="https://x.com/nikosolenne/status/2122497144976261202">▶ 영상</a></sub><br>
 
 </td>
 </tr>
 <tr>
+<td width="33%" valign="top">
+<a href="https://x.com/ICO_AIvideo/status/2120311646933680355"><img src="../assets/gifs/195.gif" width="100%" alt="Blender로 만든 루프 단편"></a><br>
+<b><a href="https://x.com/ICO_AIvideo/status/2120311646933680355">Blender로 만든 루프 단편</a></b><br>
+<sub><a href="https://x.com/ICO_AIvideo">@ICO_AIvideo</a> · ♥ 670 · <a href="https://x.com/ICO_AIvideo/status/2120311646933680355">▶ 영상</a></sub><br>
+<br>
+<sub><a href="https://fablelist.000ooo.ooo/ko/prompts/?w=a-looping-short-made-in-blender&ref=gh"><b>✨ 프롬프트 받기</b></a></sub>
+</td>
 <td width="33%" valign="top">
 <a href="https://x.com/KanaWorks_AI/status/2120098607382880627"><img src="../assets/gifs/159.gif" width="100%" alt="끝없는 지형 위를 나는 37초 롱테이크 비행"></a><br>
 <b><a href="https://x.com/KanaWorks_AI/status/2120098607382880627">끝없는 지형 위를 나는 37초 롱테이크 비행</a></b><br>
 <sub><a href="https://x.com/KanaWorks_AI">@KanaWorks_AI</a> · ♥ 664 · <a href="https://x.com/KanaWorks_AI/status/2120098607382880627">▶ 영상</a></sub><br>
 <br>
 <sub><a href="https://fablelist.000ooo.ooo/ko/prompts/?w=37-second-uncut-flight-over-endless-terrain&ref=gh"><b>✨ 프롬프트 받기</b></a></sub>
-</td>
-<td width="33%" valign="top">
-<a href="https://x.com/jakemor/status/2122551786045059205"><img src="../assets/gifs/327.gif" width="100%" alt="Function — 229번 반복 빌드로 만든 키보드"></a><br>
-<b><a href="https://x.com/jakemor/status/2122551786045059205">Function — 229번 반복 빌드로 만든 키보드</a></b><br>
-<sub>🆕 · <a href="https://x.com/jakemor">@jakemor</a> · ♥ 640 · <a href="https://x.com/jakemor/status/2122551786045059205">▶ 영상</a></sub><br>
-
 </td>
 <td width="33%" valign="top">
 <a href="https://x.com/theo/status/2120104895646937409"><img src="../assets/gifs/075.gif" width="100%" alt="데이터 파이프라인 문서가 디자인이 되다"></a><br>
@@ -521,7 +541,7 @@
 <td width="33%" valign="top">
 <a href="https://x.com/LexnLin/status/2120167637133238295"><img src="../assets/gifs/160.gif" width="100%" alt="Claude 로고 애니메이션"></a><br>
 <b><a href="https://x.com/LexnLin/status/2120167637133238295">Claude 로고 애니메이션</a></b><br>
-<sub><a href="https://x.com/LexnLin">@LexnLin</a> · ♥ 631 · <a href="https://x.com/LexnLin/status/2120167637133238295">▶ 영상</a></sub><br>
+<sub><a href="https://x.com/LexnLin">@LexnLin</a> · ♥ 630 · <a href="https://x.com/LexnLin/status/2120167637133238295">▶ 영상</a></sub><br>
 <br>
 <sub><a href="https://fablelist.000ooo.ooo/ko/prompts/?w=claude-logo-animation&ref=gh"><b>✨ 프롬프트 받기</b></a></sub>
 </td>
@@ -533,19 +553,19 @@
 <sub><a href="https://fablelist.000ooo.ooo/ko/prompts/?w=a-library-at-midnight&ref=gh"><b>✨ 프롬프트 받기</b></a></sub>
 </td>
 <td width="33%" valign="top">
+<a href="https://x.com/PhotoGarrido/status/2122292866894680476"><img src="../assets/gifs/322.gif" width="100%" alt="Houdini 폭포 벤치마크"></a><br>
+<b><a href="https://x.com/PhotoGarrido/status/2122292866894680476">Houdini 폭포 벤치마크</a></b><br>
+<sub>🆕 · <a href="https://x.com/PhotoGarrido">@PhotoGarrido</a> · ♥ 623 · <a href="https://x.com/PhotoGarrido/status/2122292866894680476">▶ 영상</a></sub><br>
+
+</td>
+</tr>
+<tr>
+<td width="33%" valign="top">
 <a href="https://x.com/mxvdl/status/2120809570344050705"><img src="../assets/gifs/245.gif" width="100%" alt="Three.js 붓터치 셰이더 해설"></a><br>
 <b><a href="https://x.com/mxvdl/status/2120809570344050705">Three.js 붓터치 셰이더 해설</a></b><br>
 <sub><a href="https://x.com/mxvdl">@mxvdl</a> · ♥ 605 · <a href="https://x.com/mxvdl/status/2120809570344050705">▶ 영상</a></sub><br>
 <br>
 <sub><a href="https://fablelist.000ooo.ooo/ko/prompts/?w=three-js-brush-stroke-shader-breakdown&ref=gh"><b>✨ 프롬프트 받기</b></a></sub>
-</td>
-</tr>
-<tr>
-<td width="33%" valign="top">
-<a href="https://x.com/PhotoGarrido/status/2122292866894680476"><img src="../assets/gifs/322.gif" width="100%" alt="Houdini 폭포 벤치마크"></a><br>
-<b><a href="https://x.com/PhotoGarrido/status/2122292866894680476">Houdini 폭포 벤치마크</a></b><br>
-<sub>🆕 · <a href="https://x.com/PhotoGarrido">@PhotoGarrido</a> · ♥ 601 · <a href="https://x.com/PhotoGarrido/status/2122292866894680476">▶ 영상</a></sub><br>
-
 </td>
 <td width="33%" valign="top">
 <a href="https://x.com/kevin_t_ngo/status/2120540964909711415"><img src="../assets/gifs/167.gif" width="100%" alt="애니메이션 쇼 오프닝"></a><br>
@@ -557,7 +577,7 @@
 <td width="33%" valign="top">
 <a href="https://x.com/MrTacticalX/status/2120342453807157720"><img src="../assets/gifs/161.gif" width="100%" alt="Blender로 만든 기계식 키보드, 타이핑까지"></a><br>
 <b><a href="https://x.com/MrTacticalX/status/2120342453807157720">Blender로 만든 기계식 키보드, 타이핑까지</a></b><br>
-<sub><a href="https://x.com/MrTacticalX">@MrTacticalX</a> · ♥ 562 · <a href="https://x.com/MrTacticalX/status/2120342453807157720">▶ 영상</a></sub><br>
+<sub><a href="https://x.com/MrTacticalX">@MrTacticalX</a> · ♥ 563 · <a href="https://x.com/MrTacticalX/status/2120342453807157720">▶ 영상</a></sub><br>
 <br>
 <sub><a href="https://fablelist.000ooo.ooo/ko/prompts/?w=a-mechanical-keyboard-in-blender-typing-included&ref=gh"><b>✨ 프롬프트 받기</b></a></sub>
 </td>
@@ -566,7 +586,7 @@
 <td width="33%" valign="top">
 <a href="https://x.com/dom_scholz/status/2119933150025363661"><img src="../assets/gifs/072.gif" width="100%" alt="Opus 5.5 vs Fable 5.2"></a><br>
 <b><a href="https://x.com/dom_scholz/status/2119933150025363661">Opus 5.5 vs Fable 5.2</a></b><br>
-<sub><a href="https://x.com/dom_scholz">@dom_scholz</a> · ♥ 551 · <a href="https://x.com/dom_scholz/status/2119933150025363661">▶ 영상</a></sub><br>
+<sub><a href="https://x.com/dom_scholz">@dom_scholz</a> · ♥ 555 · <a href="https://x.com/dom_scholz/status/2119933150025363661">▶ 영상</a></sub><br>
 <br>
 <sub><a href="https://fablelist.000ooo.ooo/ko/prompts/?w=opus-5-5-vs-fable-5-2&ref=gh"><b>✨ 프롬프트 받기</b></a></sub>
 </td>
@@ -595,7 +615,7 @@
 <td width="33%" valign="top">
 <a href="https://x.com/oalanicolas/status/2120266468780585456"><img src="../assets/gifs/163.gif" width="100%" alt="아직 짓지 않은 집 둘러보기"></a><br>
 <b><a href="https://x.com/oalanicolas/status/2120266468780585456">아직 짓지 않은 집 둘러보기</a></b><br>
-<sub><a href="https://x.com/oalanicolas">@oalanicolas</a> · ♥ 500 · <a href="https://x.com/oalanicolas/status/2120266468780585456">▶ 영상</a></sub><br>
+<sub><a href="https://x.com/oalanicolas">@oalanicolas</a> · ♥ 501 · <a href="https://x.com/oalanicolas/status/2120266468780585456">▶ 영상</a></sub><br>
 <br>
 <sub><a href="https://x.com/oalanicolas/status/2120266468780585456">📝 제작자 공개 프롬프트 (무료)</a></sub>
 </td>
@@ -617,7 +637,7 @@
 <td width="33%" valign="top">
 <a href="https://x.com/seiiiiiiiiiiru/status/2121724395354018201"><img src="../assets/gifs/296.gif" width="100%" alt="Claude x Blender 모션 캡처"></a><br>
 <b><a href="https://x.com/seiiiiiiiiiiru/status/2121724395354018201">Claude x Blender 모션 캡처</a></b><br>
-<sub><a href="https://x.com/seiiiiiiiiiiru">@seiiiiiiiiiiru</a> · ♥ 483 · <a href="https://x.com/seiiiiiiiiiiru/status/2121724395354018201">▶ 영상</a></sub><br>
+<sub><a href="https://x.com/seiiiiiiiiiiru">@seiiiiiiiiiiru</a> · ♥ 485 · <a href="https://x.com/seiiiiiiiiiiru/status/2121724395354018201">▶ 영상</a></sub><br>
 
 </td>
 <td width="33%" valign="top">
@@ -645,12 +665,18 @@
 <td width="33%" valign="top">
 <a href="https://x.com/mattshumer_/status/2119900920347828670"><img src="../assets/gifs/073.gif" width="100%" alt="코드로 만든 영화 한 편"></a><br>
 <b><a href="https://x.com/mattshumer_/status/2119900920347828670">코드로 만든 영화 한 편</a></b><br>
-<sub><a href="https://x.com/mattshumer_">@mattshumer_</a> · ♥ 468 · <a href="https://x.com/mattshumer_/status/2119900920347828670">▶ 영상</a></sub><br>
+<sub><a href="https://x.com/mattshumer_">@mattshumer_</a> · ♥ 469 · <a href="https://x.com/mattshumer_/status/2119900920347828670">▶ 영상</a></sub><br>
 <sub>목소리, 그래픽, 전부 코드.</sub><br>
 <sub><a href="https://fablelist.000ooo.ooo/ko/prompts/?w=a-whole-movie-in-code&ref=gh"><b>✨ 프롬프트 받기</b></a></sub>
 </td>
 </tr>
 <tr>
+<td width="33%" valign="top">
+<a href="https://x.com/jeanalexandre_b/status/2120783430606840084"><img src="../assets/gifs/287.gif" width="100%" alt="색 점 10만 개로 사진을 다시 그리기, 코드만으로"></a><br>
+<b><a href="https://x.com/jeanalexandre_b/status/2120783430606840084">색 점 10만 개로 사진을 다시 그리기, 코드만으로</a></b><br>
+<sub><a href="https://x.com/jeanalexandre_b">@jeanalexandre_b</a> · ♥ 468 · <a href="https://x.com/jeanalexandre_b/status/2120783430606840084">▶ 영상</a></sub><br>
+
+</td>
 <td width="33%" valign="top">
 <a href="https://x.com/amrnth0/status/2120849097871810973"><img src="../assets/gifs/284.gif" width="100%" alt="Railway 해킹 사건을 애니메이션으로 설명"></a><br>
 <b><a href="https://x.com/amrnth0/status/2120849097871810973">Railway 해킹 사건을 애니메이션으로 설명</a></b><br>
@@ -658,35 +684,29 @@
 
 </td>
 <td width="33%" valign="top">
-<a href="https://x.com/jeanalexandre_b/status/2120783430606840084"><img src="../assets/gifs/287.gif" width="100%" alt="색 점 10만 개로 사진을 다시 그리기, 코드만으로"></a><br>
-<b><a href="https://x.com/jeanalexandre_b/status/2120783430606840084">색 점 10만 개로 사진을 다시 그리기, 코드만으로</a></b><br>
-<sub><a href="https://x.com/jeanalexandre_b">@jeanalexandre_b</a> · ♥ 456 · <a href="https://x.com/jeanalexandre_b/status/2120783430606840084">▶ 영상</a></sub><br>
+<a href="https://x.com/withbassam/status/2121536898976100486"><img src="../assets/gifs/312.gif" width="100%" alt="아랍어 별 이름으로 그린 별 지도"></a><br>
+<b><a href="https://x.com/withbassam/status/2121536898976100486">아랍어 별 이름으로 그린 별 지도</a></b><br>
+<sub>🆕 · <a href="https://x.com/withbassam">@withbassam</a> · ♥ 446 · <a href="https://x.com/withbassam/status/2121536898976100486">▶ 영상</a></sub><br>
 
 </td>
+</tr>
+<tr>
 <td width="33%" valign="top">
 <a href="https://x.com/Vtuber7144/status/2121739961938428167"><img src="../assets/gifs/305.gif" width="100%" alt="노이즈 많은 참고 이미지를 깔끔한 셀 셰이딩 그림으로"></a><br>
 <b><a href="https://x.com/Vtuber7144/status/2121739961938428167">노이즈 많은 참고 이미지를 깔끔한 셀 셰이딩 그림으로</a></b><br>
 <sub>🆕 · <a href="https://x.com/Vtuber7144">@Vtuber7144</a> · ♥ 445 · <a href="https://x.com/Vtuber7144/status/2121739961938428167">▶ 영상</a></sub><br>
 
 </td>
-</tr>
-<tr>
-<td width="33%" valign="top">
-<a href="https://x.com/withbassam/status/2121536898976100486"><img src="../assets/gifs/312.gif" width="100%" alt="아랍어 별 이름으로 그린 별 지도"></a><br>
-<b><a href="https://x.com/withbassam/status/2121536898976100486">아랍어 별 이름으로 그린 별 지도</a></b><br>
-<sub>🆕 · <a href="https://x.com/withbassam">@withbassam</a> · ♥ 445 · <a href="https://x.com/withbassam/status/2121536898976100486">▶ 영상</a></sub><br>
-
-</td>
 <td width="33%" valign="top">
 <a href="https://x.com/so_ainsight/status/2121970275353010214"><img src="../assets/gifs/343.gif" width="100%" alt="Higgsfield나 HeyGen 없이 만든 AI 아바타 영상"></a><br>
 <b><a href="https://x.com/so_ainsight/status/2121970275353010214">Higgsfield나 HeyGen 없이 만든 AI 아바타 영상</a></b><br>
-<sub>🆕 · <a href="https://x.com/so_ainsight">@so_ainsight</a> · ♥ 440 · <a href="https://x.com/so_ainsight/status/2121970275353010214">▶ 영상</a></sub><br>
+<sub>🆕 · <a href="https://x.com/so_ainsight">@so_ainsight</a> · ♥ 443 · <a href="https://x.com/so_ainsight/status/2121970275353010214">▶ 영상</a></sub><br>
 
 </td>
 <td width="33%" valign="top">
 <a href="https://x.com/solotechdev/status/2120071690482794603"><img src="../assets/gifs/096.gif" width="100%" alt="SwiftUI 눈 색깔 앱"></a><br>
 <b><a href="https://x.com/solotechdev/status/2120071690482794603">SwiftUI 눈 색깔 앱</a></b><br>
-<sub><a href="https://x.com/solotechdev">@solotechdev</a> · ♥ 433 · <a href="https://x.com/solotechdev/status/2120071690482794603">▶ 영상</a></sub><br>
+<sub><a href="https://x.com/solotechdev">@solotechdev</a> · ♥ 434 · <a href="https://x.com/solotechdev/status/2120071690482794603">▶ 영상</a></sub><br>
 <br>
 <sub><a href="https://fablelist.000ooo.ooo/ko/prompts/?w=swiftui-eye-color-app&ref=gh"><b>✨ 프롬프트 받기</b></a></sub>
 </td>
@@ -730,7 +750,7 @@
 <td width="33%" valign="top">
 <a href="https://x.com/Bhavani_00007/status/2119902204320780676"><img src="../assets/gifs/077.gif" width="100%" alt="로켓 발사 (Fable vs Opus)"></a><br>
 <b><a href="https://x.com/Bhavani_00007/status/2119902204320780676">로켓 발사 (Fable vs Opus)</a></b><br>
-<sub><a href="https://x.com/Bhavani_00007">@Bhavani_00007</a> · ♥ 333 · <a href="https://x.com/Bhavani_00007/status/2119902204320780676">▶ 영상</a></sub><br>
+<sub><a href="https://x.com/Bhavani_00007">@Bhavani_00007</a> · ♥ 332 · <a href="https://x.com/Bhavani_00007/status/2119902204320780676">▶ 영상</a></sub><br>
 <br>
 <sub><a href="https://fablelist.000ooo.ooo/ko/prompts/?w=rocket-launch-fable-vs-opus&ref=gh"><b>✨ 프롬프트 받기</b></a></sub>
 </td>
@@ -776,7 +796,7 @@
 <td width="33%" valign="top">
 <a href="https://x.com/elvar_official/status/2121579587222016201"><img src="../assets/gifs/295.gif" width="100%" alt="원테이크로 보는 게임패드 43년"></a><br>
 <b><a href="https://x.com/elvar_official/status/2121579587222016201">원테이크로 보는 게임패드 43년</a></b><br>
-<sub><a href="https://x.com/elvar_official">@elvar_official</a> · ♥ 279 · <a href="https://x.com/elvar_official/status/2121579587222016201">▶ 영상</a></sub><br>
+<sub><a href="https://x.com/elvar_official">@elvar_official</a> · ♥ 280 · <a href="https://x.com/elvar_official/status/2121579587222016201">▶ 영상</a></sub><br>
 
 </td>
 </tr>
@@ -929,7 +949,7 @@
 <td width="33%" valign="top">
 <a href="https://x.com/aug5thmusic/status/2119907891419480107"><img src="../assets/gifs/104.gif" width="100%" alt="바흐 스타일 푸가"></a><br>
 <b><a href="https://x.com/aug5thmusic/status/2119907891419480107">바흐 스타일 푸가</a></b><br>
-<sub><a href="https://x.com/aug5thmusic">@aug5thmusic</a> · ♥ 128 · <a href="https://x.com/aug5thmusic/status/2119907891419480107">▶ 영상</a></sub><br>
+<sub><a href="https://x.com/aug5thmusic">@aug5thmusic</a> · ♥ 129 · <a href="https://x.com/aug5thmusic/status/2119907891419480107">▶ 영상</a></sub><br>
 <sub>LilyPond로 작성.</sub><br>
 <sub><a href="https://x.com/aug5thmusic/status/2119907891419480107">📝 제작자 공개 프롬프트 (무료)</a></sub>
 </td>
