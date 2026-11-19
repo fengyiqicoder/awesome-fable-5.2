@@ -20,18 +20,18 @@
 <sub>고양이가 식물원을 걷고, 냄새 맡고, 덮치는 110초 원테이크 영상. 화면은 직접 작성한 패스 트레이서로, 소리는 numpy로 합성했으며 에셋은 전혀 쓰지 않았다.</sub>
 </td>
 <td width="33%" valign="top">
-<a href="https://github.com/amirmushichge/shred-kit"><img src="../assets/gifs/269.gif" width="100%" alt="Shred Kit 종이 파쇄 템플릿"></a><br>
-<b><a href="https://github.com/amirmushichge/shred-kit">Shred Kit 종이 파쇄 템플릿</a></b><br>
-<sub><a href="https://x.com/AmirMushich">@AmirMushich</a> · ♥ 432 · <a href="https://x.com/AmirMushich/status/2121339167800213934">▶ 영상</a></sub><br>
-<sub>Fable 5.2와 Blender로 만든 8초짜리 종이 파쇄 릴, 무료 템플릿으로 공유.</sub>
+<a href="https://github.com/moritzkremb/robovac-pov"><img src="../assets/gifs/334.gif" width="100%" alt="Robovac POV: 로봇청소기 시점의 실사 같은 영상"></a><br>
+<b><a href="https://github.com/moritzkremb/robovac-pov">Robovac POV: 로봇청소기 시점의 실사 같은 영상</a></b><br>
+<sub>🆕 · <a href="https://x.com/moritzkremb">@moritzkremb</a> · ♥ 442 · <a href="https://x.com/moritzkremb/status/2122702891819377117">▶ 영상</a></sub><br>
+<sub>코드만으로 만든 53초 영상. C++로 짠 세계, 자체 GPU 패스 트레이서, 초점과 모션 블러, 그레인까지 흉내 낸 카메라, 약 900,000가닥의 섬유로 된 러그, 소리는 Python으로 합성.</sub>
 </td>
 </tr>
 <tr>
 <td width="33%" valign="top">
-<a href="https://github.com/moritzkremb/robovac-pov"><img src="../assets/gifs/334.gif" width="100%" alt="Robovac POV: 로봇청소기 시점의 실사 같은 영상"></a><br>
-<b><a href="https://github.com/moritzkremb/robovac-pov">Robovac POV: 로봇청소기 시점의 실사 같은 영상</a></b><br>
-<sub>🆕 · <a href="https://x.com/moritzkremb">@moritzkremb</a> · ♥ 416 · <a href="https://x.com/moritzkremb/status/2122702891819377117">▶ 영상</a></sub><br>
-<sub>코드만으로 만든 53초 영상. C++로 짠 세계, 자체 GPU 패스 트레이서, 초점과 모션 블러, 그레인까지 흉내 낸 카메라, 약 900,000가닥의 섬유로 된 러그, 소리는 Python으로 합성.</sub>
+<a href="https://github.com/amirmushichge/shred-kit"><img src="../assets/gifs/269.gif" width="100%" alt="Shred Kit 종이 파쇄 템플릿"></a><br>
+<b><a href="https://github.com/amirmushichge/shred-kit">Shred Kit 종이 파쇄 템플릿</a></b><br>
+<sub><a href="https://x.com/AmirMushich">@AmirMushich</a> · ♥ 432 · <a href="https://x.com/AmirMushich/status/2121339167800213934">▶ 영상</a></sub><br>
+<sub>Fable 5.2와 Blender로 만든 8초짜리 종이 파쇄 릴, 무료 템플릿으로 공유.</sub>
 </td>
 <td width="33%" valign="top">
 <a href="https://github.com/ChetasLua/pelican-riding-a-bicycle"><img src="../assets/gifs/150.gif" width="100%" alt="The Pelican, Tired of the Road"></a><br>
@@ -44,7 +44,7 @@
 <td width="33%" valign="top">
 <a href="https://github.com/Leonxlnx/mechanical-moon"><img src="../assets/gifs/336.gif" width="100%" alt="Mechanical Moon"></a><br>
 <b><a href="https://github.com/Leonxlnx/mechanical-moon">Mechanical Moon</a></b><br>
-<sub>🆕 · <a href="https://x.com/LexnLin">@LexnLin</a> · ♥ 351 · <a href="https://x.com/LexnLin/status/2122823164635881853">▶ 영상</a></sub><br>
+<sub>🆕 · <a href="https://x.com/LexnLin">@LexnLin</a> · ♥ 352 · <a href="https://x.com/LexnLin/status/2122823164635881853">▶ 영상</a></sub><br>
 <sub>갈라진 달 안에 황금빛 태엽 거대 구조물이 들어 있는 45초 프로시저럴 Blender 영상. 전부 Python 스크립트로 만들고 EEVEE로 렌더링.</sub>
 </td>
 </tr>
@@ -93,22 +93,22 @@
 </tr>
 <tr>
 <td width="33%" valign="top">
+<a href="https://github.com/ChetasLua/the-last-good-pelican-fable-5.2"><img src="../assets/gifs/352.gif" width="100%" alt="The Last Good Pelican"></a><br>
+<b><a href="https://github.com/ChetasLua/the-last-good-pelican-fable-5.2">The Last Good Pelican</a></b><br>
+<sub>🆕 · <a href="https://x.com/chetaslua">@chetaslua</a> · ♥ 134 · <a href="https://x.com/chetaslua/status/2123100140189958401">▶ 영상</a></sub><br>
+<sub>오프라인 HTML 파일 하나에 담긴 60초짜리 손그림풍 단편. 벤치마크 펠리컨 중 유일하게 제대로 그려진 한 마리의 하루. 그림은 모두 Canvas 2D, 소리는 모두 Web Audio.</sub>
+</td>
+<td width="33%" valign="top">
 <a href="https://github.com/anstapnever/blackout"><img src="../assets/gifs/052.gif" width="100%" alt="Blackout"></a><br>
 <b><a href="https://github.com/anstapnever/blackout">Blackout</a></b><br>
-<sub><a href="https://x.com/anstapnever">@anstapnever</a> · ♥ 118 · <a href="https://x.com/anstapnever/status/2119915123070644263">▶ 영상</a></sub><br>
+<sub><a href="https://x.com/anstapnever">@anstapnever</a> · ♥ 119 · <a href="https://x.com/anstapnever/status/2119915123070644263">▶ 영상</a></sub><br>
 <sub>79초 애니메이션 단편, 전부 코드.</sub><br>
 <sub><a href="https://x.com/anstapnever/status/2119915123070644263">📝 제작자 공개 프롬프트 (무료)</a></sub>
 </td>
 <td width="33%" valign="top">
-<a href="https://github.com/ChetasLua/the-last-good-pelican-fable-5.2"><img src="../assets/gifs/352.gif" width="100%" alt="The Last Good Pelican"></a><br>
-<b><a href="https://github.com/ChetasLua/the-last-good-pelican-fable-5.2">The Last Good Pelican</a></b><br>
-<sub>🆕 · <a href="https://x.com/chetaslua">@chetaslua</a> · ♥ 107 · <a href="https://x.com/chetaslua/status/2123100140189958401">▶ 영상</a></sub><br>
-<sub>오프라인 HTML 파일 하나에 담긴 60초짜리 손그림풍 단편. 벤치마크 펠리컨 중 유일하게 제대로 그려진 한 마리의 하루. 그림은 모두 Canvas 2D, 소리는 모두 Web Audio.</sub>
-</td>
-<td width="33%" valign="top">
 <a href="https://github.com/Leonxlnx/koi-pond-keycap"><img src="../assets/gifs/351.gif" width="100%" alt="Koi Pond Keycap"></a><br>
 <b><a href="https://github.com/Leonxlnx/koi-pond-keycap">Koi Pond Keycap</a></b><br>
-<sub>🆕 · <a href="https://x.com/LexnLin">@LexnLin</a> · ♥ 72 · <a href="https://x.com/LexnLin/status/2123174205306908806">▶ 영상</a></sub><br>
+<sub>🆕 · <a href="https://x.com/LexnLin">@LexnLin</a> · ♥ 105 · <a href="https://x.com/LexnLin/status/2123174205306908806">▶ 영상</a></sub><br>
 <sub>투명 레진 키캡 안에 잉어 연못이 담긴 45초짜리 Blender 영상. 손가락이 키를 누르면 물결이 수면을 가로지르고 잉어들이 흩어진다. 전부 Python 프로시저럴 방식이며 외부 모델이나 텍스처는 쓰지 않았다.</sub>
 </td>
 </tr>

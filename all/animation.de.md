@@ -20,18 +20,18 @@ Die Hauptseite zeigt pro Bereich höchstens die 24 Einträge mit den meisten Lik
 <sub>Ein 110-Sekunden-Film in einer Einstellung: Eine Katze läuft, schnuppert und springt durch einen botanischen Garten. Das Bild stammt aus einem eigens geschriebenen Path Tracer, der Ton wird mit numpy synthetisiert, ganz ohne Assets.</sub>
 </td>
 <td width="33%" valign="top">
-<a href="https://github.com/amirmushichge/shred-kit"><img src="../assets/gifs/269.gif" width="100%" alt="Shred Kit Papier-Schredder-Vorlage"></a><br>
-<b><a href="https://github.com/amirmushichge/shred-kit">Shred Kit Papier-Schredder-Vorlage</a></b><br>
-<sub><a href="https://x.com/AmirMushich">@AmirMushich</a> · ♥ 432 · <a href="https://x.com/AmirMushich/status/2121339167800213934">▶ Video</a></sub><br>
-<sub>Ein 8-sekündiges Papier-Schredder-Reel, gemacht mit Fable 5.2 und Blender, als kostenlose Vorlage geteilt.</sub>
+<a href="https://github.com/moritzkremb/robovac-pov"><img src="../assets/gifs/334.gif" width="100%" alt="Robovac POV: ein lebensechter Film aus Sicht eines Saugroboters"></a><br>
+<b><a href="https://github.com/moritzkremb/robovac-pov">Robovac POV: ein lebensechter Film aus Sicht eines Saugroboters</a></b><br>
+<sub>🆕 · <a href="https://x.com/moritzkremb">@moritzkremb</a> · ♥ 442 · <a href="https://x.com/moritzkremb/status/2122702891819377117">▶ Video</a></sub><br>
+<sub>Ein 53-Sekunden-Film nur aus Code: eine in C++ geschriebene Welt, ein eigener GPU-Path-Tracer, eine simulierte Kamera mit Fokus, Bewegungsunschärfe und Korn, ein Teppich aus rund 900,000 Fasern und in Python synthetisierter Ton.</sub>
 </td>
 </tr>
 <tr>
 <td width="33%" valign="top">
-<a href="https://github.com/moritzkremb/robovac-pov"><img src="../assets/gifs/334.gif" width="100%" alt="Robovac POV: ein lebensechter Film aus Sicht eines Saugroboters"></a><br>
-<b><a href="https://github.com/moritzkremb/robovac-pov">Robovac POV: ein lebensechter Film aus Sicht eines Saugroboters</a></b><br>
-<sub>🆕 · <a href="https://x.com/moritzkremb">@moritzkremb</a> · ♥ 416 · <a href="https://x.com/moritzkremb/status/2122702891819377117">▶ Video</a></sub><br>
-<sub>Ein 53-Sekunden-Film nur aus Code: eine in C++ geschriebene Welt, ein eigener GPU-Path-Tracer, eine simulierte Kamera mit Fokus, Bewegungsunschärfe und Korn, ein Teppich aus rund 900,000 Fasern und in Python synthetisierter Ton.</sub>
+<a href="https://github.com/amirmushichge/shred-kit"><img src="../assets/gifs/269.gif" width="100%" alt="Shred Kit Papier-Schredder-Vorlage"></a><br>
+<b><a href="https://github.com/amirmushichge/shred-kit">Shred Kit Papier-Schredder-Vorlage</a></b><br>
+<sub><a href="https://x.com/AmirMushich">@AmirMushich</a> · ♥ 432 · <a href="https://x.com/AmirMushich/status/2121339167800213934">▶ Video</a></sub><br>
+<sub>Ein 8-sekündiges Papier-Schredder-Reel, gemacht mit Fable 5.2 und Blender, als kostenlose Vorlage geteilt.</sub>
 </td>
 <td width="33%" valign="top">
 <a href="https://github.com/ChetasLua/pelican-riding-a-bicycle"><img src="../assets/gifs/150.gif" width="100%" alt="The Pelican, Tired of the Road"></a><br>
@@ -44,7 +44,7 @@ Die Hauptseite zeigt pro Bereich höchstens die 24 Einträge mit den meisten Lik
 <td width="33%" valign="top">
 <a href="https://github.com/Leonxlnx/mechanical-moon"><img src="../assets/gifs/336.gif" width="100%" alt="Mechanical Moon"></a><br>
 <b><a href="https://github.com/Leonxlnx/mechanical-moon">Mechanical Moon</a></b><br>
-<sub>🆕 · <a href="https://x.com/LexnLin">@LexnLin</a> · ♥ 351 · <a href="https://x.com/LexnLin/status/2122823164635881853">▶ Video</a></sub><br>
+<sub>🆕 · <a href="https://x.com/LexnLin">@LexnLin</a> · ♥ 352 · <a href="https://x.com/LexnLin/status/2122823164635881853">▶ Video</a></sub><br>
 <sub>Ein prozeduraler 45-Sekunden-Film in Blender: ein aufgebrochener Mond mit einer goldenen Uhrwerk-Megastruktur im Inneren, vollständig mit Python-Skripten gebaut und in EEVEE gerendert.</sub>
 </td>
 </tr>
@@ -93,22 +93,22 @@ Die Hauptseite zeigt pro Bereich höchstens die 24 Einträge mit den meisten Lik
 </tr>
 <tr>
 <td width="33%" valign="top">
+<a href="https://github.com/ChetasLua/the-last-good-pelican-fable-5.2"><img src="../assets/gifs/352.gif" width="100%" alt="The Last Good Pelican"></a><br>
+<b><a href="https://github.com/ChetasLua/the-last-good-pelican-fable-5.2">The Last Good Pelican</a></b><br>
+<sub>🆕 · <a href="https://x.com/chetaslua">@chetaslua</a> · ♥ 134 · <a href="https://x.com/chetaslua/status/2123100140189958401">▶ Video</a></sub><br>
+<sub>Ein 60-sekündiger Kurzfilm im handgezeichneten Look in einer einzigen Offline-HTML-Datei: ein Tag im Leben des einzigen Benchmark-Pelikans, der richtig gelungen ist. Canvas 2D für jede Zeichnung, Web Audio für jeden Ton.</sub>
+</td>
+<td width="33%" valign="top">
 <a href="https://github.com/anstapnever/blackout"><img src="../assets/gifs/052.gif" width="100%" alt="Blackout"></a><br>
 <b><a href="https://github.com/anstapnever/blackout">Blackout</a></b><br>
-<sub><a href="https://x.com/anstapnever">@anstapnever</a> · ♥ 118 · <a href="https://x.com/anstapnever/status/2119915123070644263">▶ Video</a></sub><br>
+<sub><a href="https://x.com/anstapnever">@anstapnever</a> · ♥ 119 · <a href="https://x.com/anstapnever/status/2119915123070644263">▶ Video</a></sub><br>
 <sub>Ein 79-sekündiger Anime-Kurzfilm, alles Code.</sub><br>
 <sub><a href="https://x.com/anstapnever/status/2119915123070644263">📝 Prompt des Creators (kostenlos)</a></sub>
 </td>
 <td width="33%" valign="top">
-<a href="https://github.com/ChetasLua/the-last-good-pelican-fable-5.2"><img src="../assets/gifs/352.gif" width="100%" alt="The Last Good Pelican"></a><br>
-<b><a href="https://github.com/ChetasLua/the-last-good-pelican-fable-5.2">The Last Good Pelican</a></b><br>
-<sub>🆕 · <a href="https://x.com/chetaslua">@chetaslua</a> · ♥ 107 · <a href="https://x.com/chetaslua/status/2123100140189958401">▶ Video</a></sub><br>
-<sub>Ein 60-sekündiger Kurzfilm im handgezeichneten Look in einer einzigen Offline-HTML-Datei: ein Tag im Leben des einzigen Benchmark-Pelikans, der richtig gelungen ist. Canvas 2D für jede Zeichnung, Web Audio für jeden Ton.</sub>
-</td>
-<td width="33%" valign="top">
 <a href="https://github.com/Leonxlnx/koi-pond-keycap"><img src="../assets/gifs/351.gif" width="100%" alt="Koi Pond Keycap"></a><br>
 <b><a href="https://github.com/Leonxlnx/koi-pond-keycap">Koi Pond Keycap</a></b><br>
-<sub>🆕 · <a href="https://x.com/LexnLin">@LexnLin</a> · ♥ 72 · <a href="https://x.com/LexnLin/status/2123174205306908806">▶ Video</a></sub><br>
+<sub>🆕 · <a href="https://x.com/LexnLin">@LexnLin</a> · ♥ 105 · <a href="https://x.com/LexnLin/status/2123174205306908806">▶ Video</a></sub><br>
 <sub>Ein 45-sekündiger Blender-Film einer klaren Kunstharz-Tastenkappe mit einem Koi-Teich darin: Ein Finger drückt die Taste, Wellen laufen über das Wasser und die Kois schießen davon. Vollständig prozedurales Python, ohne externe Modelle oder Texturen.</sub>
 </td>
 </tr>

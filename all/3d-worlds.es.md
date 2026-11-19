@@ -1,4 +1,4 @@
-# 🌍 Mundos y escenas 3D · los 43
+# 🌍 Mundos y escenas 3D · los 45
 
 [← Volver a la lista](../README.es.md) · [English](3d-worlds.md) · [简体中文](3d-worlds.zh-CN.md) · [繁體中文](3d-worlds.zh-TW.md) · [日本語](3d-worlds.ja.md) · [한국어](3d-worlds.ko.md) · **Español** · [Português](3d-worlds.pt-BR.md) · [Français](3d-worlds.fr.md) · [Deutsch](3d-worlds.de.md) · [Русский](3d-worlds.ru.md)
 
@@ -46,7 +46,7 @@ La página principal muestra como máximo las 24 entradas con más «me gusta» 
 <td width="33%" valign="top">
 <a href="https://fable-rome.surge.sh/"><img src="../assets/gifs/136.gif" width="100%" alt="Rome, AD 320"></a><br>
 <b><a href="https://fable-rome.surge.sh/">Rome, AD 320</a></b><br>
-<sub><a href="https://x.com/petergostev">@petergostev</a> · ♥ 969 · <a href="https://x.com/petergostev/status/2120167560700383572">▶ Video</a></sub><br>
+<sub><a href="https://x.com/petergostev">@petergostev</a> · ♥ 972 · <a href="https://x.com/petergostev/status/2120167560700383572">▶ Video</a></sub><br>
 <sub>Un prompt, Fable 5.2 (Max) corriendo toda la noche, $2,618.</sub><br>
 <sub><a href="https://x.com/petergostev/status/2120167560700383572">📝 Prompt del creador (gratis)</a></sub>
 </td>
@@ -62,7 +62,7 @@ La página principal muestra como máximo las 24 entradas con más «me gusta» 
 <td width="33%" valign="top">
 <a href="https://fable-rover.vercel.app"><img src="../assets/gifs/278.gif" width="100%" alt="ER-6 Terrain Explorer — un rover marciano autónomo"></a><br>
 <b><a href="https://fable-rover.vercel.app">ER-6 Terrain Explorer — un rover marciano autónomo</a></b><br>
-<sub><a href="https://x.com/DilumSanjaya">@DilumSanjaya</a> · ♥ 795 · <a href="https://x.com/DilumSanjaya/status/2120561077385867663">▶ Video</a></sub><br>
+<sub><a href="https://x.com/DilumSanjaya">@DilumSanjaya</a> · ♥ 796 · <a href="https://x.com/DilumSanjaya/status/2120561077385867663">▶ Video</a></sub><br>
 <sub>Fable 5.2 diseñó una suspensión rocker-bogie como la de los rovers de la NASA y simuló su conducción por terreno alienígena.</sub>
 </td>
 <td width="33%" valign="top">
@@ -113,7 +113,7 @@ La página principal muestra como máximo las 24 entradas con más «me gusta» 
 <td width="33%" valign="top">
 <a href="http://taoistvibe.com"><img src="../assets/gifs/307.gif" width="100%" alt="Chill Taoist Vibe: una colina con un templo taoísta"></a><br>
 <b><a href="http://taoistvibe.com">Chill Taoist Vibe: una colina con un templo taoísta</a></b><br>
-<sub><a href="https://x.com/qiqileyuan">@qiqileyuan</a> · ♥ 254 · <a href="https://x.com/qiqileyuan/status/2122006851298693277">▶ Video</a></sub><br>
+<sub><a href="https://x.com/qiqileyuan">@qiqileyuan</a> · ♥ 253 · <a href="https://x.com/qiqileyuan/status/2122006851298693277">▶ Video</a></sub><br>
 <sub>Un templo taoísta de estilo Ghibli en una pequeña montaña. Sigue al viejo sacerdote cuesta arriba, quema incienso, saca un palillo de la fortuna, medita o simplemente siéntate en la mecedora a ver pasar las estaciones. Las estatuas y el personaje principal vienen de Tripo3D; todo lo demás es código generado.</sub>
 </td>
 </tr>
@@ -193,12 +193,20 @@ La página principal muestra como máximo las 24 entradas con más «me gusta» 
 <sub><a href="https://fablelist.000ooo.ooo/es/prompts/?w=sr-71-engine-teardown&ref=gh"><b>✨ Consigue el prompt</b></a></sub>
 </td>
 <td width="33%" valign="top">
+<a href="https://coralback-ray.wasmer.app/"><img src="../assets/gifs/357.gif" width="100%" alt="Coralback Ray"></a><br>
+<b><a href="https://coralback-ray.wasmer.app/">Coralback Ray</a></b><br>
+<sub>🆕 · <a href="https://x.com/thebuggeddev">@thebuggeddev</a> · ♥ 75 · <a href="https://x.com/thebuggeddev/status/2123021723188744248">▶ Video</a></sub><br>
+<sub>Una raya en 3D que nada en tu navegador, hecha a partir de un solo modelo GLB. Sin huesos: el rig corre en el vertex shader y el nado se calcula con empuje, arrastre y gravedad.</sub>
+</td>
+<td width="33%" valign="top">
 <a href="https://vancouver.webly.site"><img src="../assets/gifs/032.gif" width="100%" alt="Vancouver From Above"></a><br>
 <b><a href="https://vancouver.webly.site">Vancouver From Above</a></b><br>
 <sub><a href="https://x.com/tokifyi">@tokifyi</a> · ♥ 72 · <a href="https://x.com/tokifyi/status/2120020272153764172">Publicación</a></sub><br>
 <sub>La ciudad reconstruida en three.js.</sub><br>
 <sub><a href="https://fablelist.000ooo.ooo/es/prompts/?w=vancouver-from-above&ref=gh"><b>✨ Consigue el prompt</b></a></sub>
 </td>
+</tr>
+<tr>
 <td width="33%" valign="top">
 <a href="https://fable-jerusalem.vercel.app/"><img src="../assets/gifs/138.gif" width="100%" alt="Jerusalén en la Pascua"></a><br>
 <b><a href="https://fable-jerusalem.vercel.app/">Jerusalén en la Pascua</a></b><br>
@@ -206,8 +214,6 @@ La página principal muestra como máximo las 24 entradas con más «me gusta» 
 <sub>Una Jerusalén 3D inmersiva y con rigor histórico, hecha con Blender. Recorre sus calles.</sub><br>
 <sub><a href="https://x.com/kplikethebird/status/2119900775727902732">📝 Prompt del creador (gratis)</a></sub>
 </td>
-</tr>
-<tr>
 <td width="33%" valign="top">
 <a href="https://starknightt.github.io/summer-festival/"><img src="../assets/gifs/309.gif" width="100%" alt="Summer Festival: un pueblo costero de noche"></a><br>
 <b><a href="https://starknightt.github.io/summer-festival/">Summer Festival: un pueblo costero de noche</a></b><br>
@@ -223,6 +229,8 @@ La página principal muestra como máximo las 24 entradas con más «me gusta» 
 <sub><a href="https://github.com/tornikegomareli/Matrix">Código fuente</a></sub><br>
 <sub><a href="https://fablelist.000ooo.ooo/es/prompts/?w=matrix-vibe&ref=gh"><b>✨ Consigue el prompt</b></a></sub>
 </td>
+</tr>
+<tr>
 <td width="33%" valign="top">
 <a href="https://loktar00.github.io/pine-hollow/"><img src="../assets/gifs/191.gif" width="100%" alt="Pine Hollow — una pista de esquí viva"></a><br>
 <b><a href="https://loktar00.github.io/pine-hollow/">Pine Hollow — una pista de esquí viva</a></b><br>
@@ -231,8 +239,6 @@ La página principal muestra como máximo las 24 entradas con más «me gusta» 
 <sub><a href="https://loktar00.github.io/sled-free-exact/">Sled Free</a> · <a href="https://loktar00.github.io/sled-free/">Grumble Peak</a></sub><br>
 <sub><a href="https://fablelist.000ooo.ooo/es/prompts/?w=pine-hollow-a-living-ski-hill&ref=gh"><b>✨ Consigue el prompt</b></a></sub>
 </td>
-</tr>
-<tr>
 <td width="33%" valign="top">
 <a href="https://vancouver-claude.webly.site"><img src="../assets/gifs/280.gif" width="100%" alt="Vancouver, hora dorada sobre English Bay"></a><br>
 <b><a href="https://vancouver-claude.webly.site">Vancouver, hora dorada sobre English Bay</a></b><br>
@@ -246,6 +252,8 @@ La página principal muestra como máximo las 24 entradas con más «me gusta» 
 <sub>Una pieza de pixel art convertida en un mundo 3D interactivo, con una ballena que muestra cómo se hizo.</sub><br>
 <sub><a href="https://fablelist.000ooo.ooo/es/prompts/?w=pixel-art-to-3d-world&ref=gh"><b>✨ Consigue el prompt</b></a></sub>
 </td>
+</tr>
+<tr>
 <td width="33%" valign="top">
 <a href="https://galaxy-dive.vercel.app"><img src="../assets/gifs/141.gif" width="100%" alt="Galaxy Dive"></a><br>
 <b><a href="https://galaxy-dive.vercel.app">Galaxy Dive</a></b><br>
@@ -253,8 +261,6 @@ La página principal muestra como máximo las 24 entradas con más «me gusta» 
 <sub>"Dios tardó 6 días, Fable 5.2 tardó 20 min." Vuela hacia el interior de una galaxia.</sub><br>
 <sub><a href="https://fablelist.000ooo.ooo/es/prompts/?w=galaxy-dive&ref=gh"><b>✨ Consigue el prompt</b></a></sub>
 </td>
-</tr>
-<tr>
 <td width="33%" valign="top">
 <a href="https://calibre-watch-snowy.vercel.app/"><img src="../assets/gifs/192.gif" width="100%" alt="Reloj Calibre 5.2"></a><br>
 <b><a href="https://calibre-watch-snowy.vercel.app/">Reloj Calibre 5.2</a></b><br>
@@ -268,6 +274,8 @@ La página principal muestra como máximo las 24 entradas con más «me gusta» 
 <sub><a href="https://x.com/tokifyi">@tokifyi</a> · ♥ 22 · <a href="https://x.com/tokifyi/status/2121367097972531412">▶ Video</a></sub><br>
 <sub>Un prompt, canvas de JavaScript puro: el puente, el horizonte, la niebla, los reflejos y un tranvía, sin imágenes ni librerías.</sub>
 </td>
+</tr>
+<tr>
 <td width="33%" valign="top">
 <a href="https://claude.ai/artifact/7nmzhxeamcunJbKVK32ptz"><img src="../assets/gifs/029.gif" width="100%" alt="Voxel Colosseum"></a><br>
 <b><a href="https://claude.ai/artifact/7nmzhxeamcunJbKVK32ptz">Voxel Colosseum</a></b><br>
@@ -276,8 +284,6 @@ La página principal muestra como máximo las 24 entradas con más «me gusta» 
 <sub><a href="https://claude.ai/artifact/B7ZmVS7Yr3BUc99ZyGk2bX">Opus 5.5 version</a></sub><br>
 <sub><a href="https://fablelist.000ooo.ooo/es/prompts/?w=voxel-colosseum&ref=gh"><b>✨ Consigue el prompt</b></a></sub>
 </td>
-</tr>
-<tr>
 <td width="33%" valign="top">
 <a href="https://glittery-stardust-885b97.netlify.app"><img src="../assets/gifs/233.gif" width="100%" alt="HX-6 Hexapod, Three Worlds"></a><br>
 <b><a href="https://glittery-stardust-885b97.netlify.app">HX-6 Hexapod, Three Worlds</a></b><br>
@@ -292,14 +298,14 @@ La página principal muestra como máximo las 24 entradas con más «me gusta» 
 <sub>Un sitio personal reconstruido como un recorrido con scroll desde la Tierra hasta un agujero negro.</sub><br>
 <sub><a href="https://fablelist.000ooo.ooo/es/prompts/?w=one-way-trip-to-a-black-hole&ref=gh"><b>✨ Consigue el prompt</b></a></sub>
 </td>
+</tr>
+<tr>
 <td width="33%" valign="top">
 <a href="https://madebysourasith-sudo.github.io/red-wing-jet/"><img src="../assets/gifs/265.gif" width="100%" alt="Jet privado Red Wing"></a><br>
 <b><a href="https://madebysourasith-sudo.github.io/red-wing-jet/">Jet privado Red Wing</a></b><br>
 <sub><a href="https://x.com/titepommee">@titepommee</a> · ♥ 8 · <a href="https://x.com/titepommee/status/2121259736217911357">▶ Video</a></sub><br>
 <sub>Camina alrededor del jet, haz clic en la puerta, baja la escalera y entra: salón, dormitorio, hasta el baño.</sub>
 </td>
-</tr>
-<tr>
 <td width="33%" valign="top">
 <a href="https://davinci-mechanics.vercel.app/"><img src="../assets/gifs/289.gif" width="100%" alt="El códice vivo de Da Vinci"></a><br>
 <b><a href="https://davinci-mechanics.vercel.app/">El códice vivo de Da Vinci</a></b><br>
@@ -314,6 +320,8 @@ La página principal muestra como máximo las 24 entradas con más «me gusta» 
 <sub>~20,000 asteroides en órbita; sigue añadiendo rocas hasta que tu dispositivo baja de 30 fps.</sub><br>
 <sub><a href="https://fablelist.000ooo.ooo/es/prompts/?w=belt-stress-test&ref=gh"><b>✨ Consigue el prompt</b></a></sub>
 </td>
+</tr>
+<tr>
 <td width="33%" valign="top">
 <a href="https://claude.ai/artifact/BCDCNHRTq3y9W4Px3xc4DN"><img src="../assets/gifs/030.gif" width="100%" alt="Una aldea sobre un caracol gigante"></a><br>
 <b><a href="https://claude.ai/artifact/BCDCNHRTq3y9W4Px3xc4DN">Una aldea sobre un caracol gigante</a></b><br>
@@ -321,14 +329,18 @@ La página principal muestra como máximo las 24 entradas con más «me gusta» 
 <sub>"Dale vida a un castillo 3D en un archivo HTML." WebGL2 escrito a mano, sin librerías, ~5,500 árboles, ciclo de día y noche.</sub><br>
 <sub><a href="https://x.com/L34342Lin/status/2120030246108066195">📝 Prompt del creador (gratis)</a></sub>
 </td>
-</tr>
-<tr>
 <td width="33%" valign="top">
 <a href="https://claude.ai/artifact/UqU4w7jSr6pzF2McsbyQjJ"><img src="../assets/gifs/031.gif" width="100%" alt="Transformación de una pagoda de madera"></a><br>
 <b><a href="https://claude.ai/artifact/UqU4w7jSr6pzF2McsbyQjJ">Transformación de una pagoda de madera</a></b><br>
 <sub><a href="https://x.com/acupofai">@acupofai</a> · ♥ 0 · <a href="https://x.com/acupofai/status/2120119243043995748">▶ Video</a></sub><br>
 <sub>3,357 piezas arman una pagoda de cinco pisos que se convierte en una espadachina. Música calculada en código.</sub><br>
 <sub><a href="https://fablelist.000ooo.ooo/es/prompts/?w=wooden-pagoda-transformation&ref=gh"><b>✨ Consigue el prompt</b></a></sub>
+</td>
+<td width="33%" valign="top">
+<a href="https://cyrilremacle-byte.github.io/francis-turbine-explorer/"><img src="../assets/gifs/355.gif" width="100%" alt="Francis Turbine Explorer"></a><br>
+<b><a href="https://cyrilremacle-byte.github.io/francis-turbine-explorer/">Francis Turbine Explorer</a></b><br>
+<sub>🆕 · <a href="https://x.com/cyril_remacle">@cyril_remacle</a> · ♥ 0 · <a href="https://x.com/cyril_remacle/status/2122048423528485116">Publicación</a></sub><br>
+<sub>Una turbina Francis en 3D interactiva que puedes abrir, desmontar y poner en marcha tú mismo, con visita guiada, vista despiezada y calculadora de potencia hidráulica en vivo. En inglés y francés.</sub>
 </td>
 </tr>
 </table>

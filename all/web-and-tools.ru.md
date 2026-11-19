@@ -1,4 +1,4 @@
-# 🧰 Сайты и инструменты · все 44
+# 🧰 Сайты и инструменты · все 45
 
 [← Назад к списку](../README.ru.md) · [English](web-and-tools.md) · [简体中文](web-and-tools.zh-CN.md) · [繁體中文](web-and-tools.zh-TW.md) · [日本語](web-and-tools.ja.md) · [한국어](web-and-tools.ko.md) · [Español](web-and-tools.es.md) · [Português](web-and-tools.pt-BR.md) · [Français](web-and-tools.fr.md) · [Deutsch](web-and-tools.de.md) · **Русский**
 
@@ -125,23 +125,29 @@
 <td width="33%" valign="top">
 <a href="https://omage1.xyz"><img src="../assets/gifs/337.gif" width="100%" alt="omage-1: синтезатор OP-1 Field в браузере"></a><br>
 <b><a href="https://omage1.xyz">omage-1: синтезатор OP-1 Field в браузере</a></b><br>
-<sub>🆕 · <a href="https://x.com/jamesmbickerton">@jamesmbickerton</a> · ♥ 561 · <a href="https://x.com/jamesmbickerton/status/2122688041219133815">▶ Видео</a></sub><br>
+<sub>🆕 · <a href="https://x.com/jamesmbickerton">@jamesmbickerton</a> · ♥ 567 · <a href="https://x.com/jamesmbickerton/status/2122688041219133815">▶ Видео</a></sub><br>
 <sub>Неофициальный оммаж: OP-1 Field от Teenage Engineering, воссозданный как браузерное приложение, на котором можно сразу играть.</sub>
 </td>
 <td width="33%" valign="top">
 <a href="https://claude.ai/artifact/4P1urBdptp6gWiJo3R6Vpv"><img src="../assets/gifs/333.gif" width="100%" alt="Breakcore-видеосэмплер"></a><br>
 <b><a href="https://claude.ai/artifact/4P1urBdptp6gWiJo3R6Vpv">Breakcore-видеосэмплер</a></b><br>
-<sub>🆕 · <a href="https://x.com/parhelion318">@parhelion318</a> · ♥ 540 · <a href="https://x.com/parhelion318/status/2122723067533398064">▶ Видео</a></sub><br>
+<sub>🆕 · <a href="https://x.com/parhelion318">@parhelion318</a> · ♥ 541 · <a href="https://x.com/parhelion318/status/2122723067533398064">▶ Видео</a></sub><br>
 <sub>Сэмплер в браузере, который нарезает видеоклипы и пересобирает их в ритмы breakcore.</sub>
 </td>
 <td width="33%" valign="top">
-<a href="https://www.bubbbly.com/christmas-cards"><img src="../assets/gifs/315.gif" width="100%" alt="Christmas Cards: интерактивные рождественские открытки"></a><br>
-<b><a href="https://www.bubbbly.com/christmas-cards">Christmas Cards: интерактивные рождественские открытки</a></b><br>
-<sub>🆕 · <a href="https://x.com/ann_nnng">@ann_nnng</a> · ♥ 473 · <a href="https://x.com/ann_nnng/status/2122283549000712249">▶ Видео</a></sub><br>
-<sub>Набор интерактивных рождественских открыток, например кот в красном шарфе на подоконнике смотрит, как падает снег.</sub>
+<a href="https://hexagonal.earth"><img src="../assets/gifs/349.gif" width="100%" alt="Hexagonal Earth"></a><br>
+<b><a href="https://hexagonal.earth">Hexagonal Earth</a></b><br>
+<sub>🆕 · <a href="https://x.com/avsa">@avsa</a> · ♥ 495 · <a href="https://x.com/avsa/status/2123123638551392755">Пост</a></sub><br>
+<sub>Диорама всего мира из шестиугольников, построенная на реальных данных о высотах, глубинах океана, влажности, ветрах и реках. Fable 5.2 сгенерировал сотни маленьких 3D-объектов из пиксельных сплатов и сам расставил их в сцене.</sub>
 </td>
 </tr>
 <tr>
+<td width="33%" valign="top">
+<a href="https://www.bubbbly.com/christmas-cards"><img src="../assets/gifs/315.gif" width="100%" alt="Christmas Cards: интерактивные рождественские открытки"></a><br>
+<b><a href="https://www.bubbbly.com/christmas-cards">Christmas Cards: интерактивные рождественские открытки</a></b><br>
+<sub>🆕 · <a href="https://x.com/ann_nnng">@ann_nnng</a> · ♥ 474 · <a href="https://x.com/ann_nnng/status/2122283549000712249">▶ Видео</a></sub><br>
+<sub>Набор интерактивных рождественских открыток, например кот в красном шарфе на подоконнике смотрит, как падает снег.</sub>
+</td>
 <td width="33%" valign="top">
 <a href="https://where-is-everybody-fermi.netlify.app/"><img src="../assets/gifs/146.gif" width="100%" alt="Where Is Everybody?"></a><br>
 <b><a href="https://where-is-everybody-fermi.netlify.app/">Where Is Everybody?</a></b><br>
@@ -157,15 +163,15 @@
 <sub>Посмотрите на вид на поле с каждого сектора на RAMS Park, прежде чем покупать билет.</sub><br>
 <sub><a href="https://fablelist.000ooo.ooo/ru/prompts/?w=galatasaray-seat-view&ref=gh"><b>✨ Получить промпт</b></a></sub>
 </td>
+</tr>
+<tr>
 <td width="33%" valign="top">
 <a href="https://rubber-hose-ui.vercel.app"><img src="../assets/gifs/332.gif" width="100%" alt="Rubber Hose UI: элементы управления в виде мультяшек 1930-х"></a><br>
 <b><a href="https://rubber-hose-ui.vercel.app">Rubber Hose UI: элементы управления в виде мультяшек 1930-х</a></b><br>
-<sub>🆕 · <a href="https://x.com/crtvTeknologist">@crtvTeknologist</a> · ♥ 349 · <a href="https://x.com/crtvTeknologist/status/2122433522166124616">▶ Видео</a></sub><br>
+<sub>🆕 · <a href="https://x.com/crtvTeknologist">@crtvTeknologist</a> · ♥ 350 · <a href="https://x.com/crtvTeknologist/status/2122433522166124616">▶ Видео</a></sub><br>
 <sub>Одиннадцать веб-контролов в стиле rubber hose: слайдер стал тромбоном, тост стал тостером, а кнопка получает синяк под глазом при каждом нажатии. Чистый JS и canvas, без зависимостей, открытый код.</sub><br>
 <sub><a href="https://github.com/finktheartist/rubber-hose-ui">Исходный код</a></sub>
 </td>
-</tr>
-<tr>
 <td width="33%" valign="top">
 <a href="https://origamihelper.com"><img src="../assets/gifs/220.gif" width="100%" alt="Origami Helper"></a><br>
 <b><a href="https://origamihelper.com">Origami Helper</a></b><br>
@@ -179,12 +185,6 @@
 <sub><a href="https://x.com/clairevo">@clairevo</a> · ♥ 205 · <a href="https://x.com/clairevo/status/2119905651359142132">▶ Видео</a></sub><br>
 <sub>Полностью рабочая печатная машинка: печатайте или кликайте по клавишам, таймеры письма, корректор, автозамена.</sub><br>
 <sub><a href="https://fablelist.000ooo.ooo/ru/prompts/?w=typed&ref=gh"><b>✨ Получить промпт</b></a></sub>
-</td>
-<td width="33%" valign="top">
-<a href="https://hexagonal.earth"><img src="../assets/gifs/349.gif" width="100%" alt="Hexagonal Earth"></a><br>
-<b><a href="https://hexagonal.earth">Hexagonal Earth</a></b><br>
-<sub>🆕 · <a href="https://x.com/avsa">@avsa</a> · ♥ 181 · <a href="https://x.com/avsa/status/2123123638551392755">Пост</a></sub><br>
-<sub>Диорама всего мира из шестиугольников, построенная на реальных данных о высотах, глубинах океана, влажности, ветрах и реках. Fable 5.2 сгенерировал сотни маленьких 3D-объектов из пиксельных сплатов и сам расставил их в сцене.</sub>
 </td>
 </tr>
 <tr>
@@ -255,6 +255,12 @@
 </tr>
 <tr>
 <td width="33%" valign="top">
+<a href="http://promptronic3000.com"><img src="../assets/gifs/358.gif" width="100%" alt="Promptronic 3000"></a><br>
+<b><a href="http://promptronic3000.com">Promptronic 3000</a></b><br>
+<sub>🆕 · <a href="https://x.com/fabianstelzer">@fabianstelzer</a> · ♥ 44 · <a href="https://x.com/fabianstelzer/status/2123121678670520627">▶ Видео</a></sub><br>
+<sub>Агентный модульный синтезатор в браузере: подключите Claude или другого агента по MCP, чтобы собирать патчи и даже новые модули текстом, и делитесь ими по ссылке.</sub>
+</td>
+<td width="33%" valign="top">
 <a href="https://ai.itokoba.com/ichimai/"><img src="../assets/gifs/260.gif" width="100%" alt="Ichimai — как далеко может зайти одна страница"></a><br>
 <b><a href="https://ai.itokoba.com/ichimai/">Ichimai — как далеко может зайти одна страница</a></b><br>
 <sub><a href="https://x.com/hideki_climax">@hideki_climax</a> · ♥ 12 · <a href="https://x.com/hideki_climax/status/2120165464722809190">▶ Видео</a></sub><br>
@@ -268,6 +274,8 @@
 <sub>Каждый из 2,242 транзисторов Intel 4004 по очереди ломали в симуляции на уровне транзисторов. Наведите курсор на любой транзистор на карте чипа и увидите, что перестаёт работать.</sub><br>
 <sub><a href="https://github.com/rain-1/intel4004">Исходный код</a></sub>
 </td>
+</tr>
+<tr>
 <td width="33%" valign="top">
 <a href="https://jwt-designs-preview.noone-697.workers.dev/"><img src="../assets/gifs/046.gif" width="100%" alt="20 редизайнов лендинга"></a><br>
 <b><a href="https://jwt-designs-preview.noone-697.workers.dev/">20 редизайнов лендинга</a></b><br>
@@ -275,8 +283,6 @@
 <sub>20 альтернатив лендингу плагина для JWT из одного простого промпта.</sub><br>
 <sub><a href="https://x.com/Tmeister/status/2119983842841018482">📝 Промпт автора (бесплатно)</a></sub>
 </td>
-</tr>
-<tr>
 <td width="33%" valign="top">
 <a href="https://www.asumacodes.xyz/arena/driftwood"><img src="../assets/gifs/047.gif" width="100%" alt="Driftwood (Fable vs Opus)"></a><br>
 <b><a href="https://www.asumacodes.xyz/arena/driftwood">Driftwood (Fable vs Opus)</a></b><br>
@@ -291,6 +297,8 @@
 <sub><a href="https://x.com/seanaiux">@seanaiux</a> · ♥ 8 · <a href="https://x.com/seanaiux/status/2121688869439455410">▶ Видео</a></sub><br>
 <sub>Задача — сайт, который его напугает: паук спускается из темноты, а прокрутка ведёт через его логово, глаза, клыки и лапы, пока мухой не становитесь вы.</sub>
 </td>
+</tr>
+<tr>
 <td width="33%" valign="top">
 <a href="https://claude.ai/artifact/TiymxxFXzMo7xhWUaecbzk"><img src="https://pbs.twimg.com/media/HWwrmvIb0AAMLPK.jpg?name=small" width="100%" alt="Проект дома"></a><br>
 <b><a href="https://claude.ai/artifact/TiymxxFXzMo7xhWUaecbzk">Проект дома</a></b><br>
@@ -298,8 +306,6 @@
 <sub>Проект отдельно стоящего дома (на корейском), сделан за день.</sub><br>
 <sub><a href="https://fablelist.000ooo.ooo/ru/prompts/?w=house-design-proposal&ref=gh"><b>✨ Получить промпт</b></a></sub>
 </td>
-</tr>
-<tr>
 <td width="33%" valign="top">
 <a href="https://claude.ai/artifact/9yQkezie4jY3oz2YDLFDiq"><img src="../assets/gifs/040.gif" width="100%" alt="Bay Drum Kit"></a><br>
 <b><a href="https://claude.ai/artifact/9yQkezie4jY3oz2YDLFDiq">Bay Drum Kit</a></b><br>
@@ -314,6 +320,8 @@
 <sub>Один заход.</sub><br>
 <sub><a href="https://fablelist.000ooo.ooo/ru/prompts/?w=dub-techno-track-visualizer&ref=gh"><b>✨ Получить промпт</b></a></sub>
 </td>
+</tr>
+<tr>
 <td width="33%" valign="top">
 <a href="https://claude.ai/artifact/5ufHvxgvXTf5YgQeTR8TbG"><img src="../assets/gifs/044.gif" width="100%" alt="Ramayana Family Tree"></a><br>
 <b><a href="https://claude.ai/artifact/5ufHvxgvXTf5YgQeTR8TbG">Ramayana Family Tree</a></b><br>
@@ -321,8 +329,6 @@
 <sub>Связи главного актёра по крови и браку с 65 звёздами Болливуда.</sub><br>
 <sub><a href="https://fablelist.000ooo.ooo/ru/prompts/?w=ramayana-family-tree&ref=gh"><b>✨ Получить промпт</b></a></sub>
 </td>
-</tr>
-<tr>
 <td width="33%" valign="top">
 <a href="https://claude.ai/artifact/4aEy6FtUi7jrm9U7uYgp8K"><img src="../assets/gifs/042.gif" width="100%" alt="Demoscene Demo"></a><br>
 <b><a href="https://claude.ai/artifact/4aEy6FtUi7jrm9U7uYgp8K">Demoscene Demo</a></b><br>

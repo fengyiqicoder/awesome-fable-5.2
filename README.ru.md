@@ -5,7 +5,7 @@
 <h3>Что люди сделали с Claude Fable 5.2 — открывай и играй</h3>
 
 [![Awesome](https://awesome.re/badge.svg)](https://awesome.re)
-[![Works](https://img.shields.io/badge/работы-201-6b4eff)](#-игры)
+[![Works](https://img.shields.io/badge/работы-205-6b4eff)](#-игры)
 [![Demos](https://img.shields.io/badge/видеодемо-145-ff7a59)](#-видеодемо)
 [![Links checked](https://img.shields.io/badge/ссылки_проверены-2026--11--19-2ea44f)](#-как-помочь)
 [![License: CC0-1.0](https://img.shields.io/badge/License-CC0_1.0-lightgrey.svg)](LICENSE)
@@ -16,11 +16,11 @@
 
 </div>
 
-201 работ онлайн и 145 видеодемо на Claude Fable 5.2, все ссылки проверены 2026-11-19. Обновляется каждый день; ⭐ помогает.
+205 работ онлайн и 145 видеодемо на Claude Fable 5.2, все ссылки проверены 2026-11-19. Обновляется каждый день; ⭐ помогает.
 
 ## 📑 Содержание
 
-[⭐ Самые любимые](#-самые-любимые) · [🆕 Новое](#-новое) · [🎮 Игры](#-игры) 95 · [🌍 3D-миры и сцены](#-3d-миры-и-сцены) 43 · [🧰 Сайты и инструменты](#-сайты-и-инструменты) 44 · [🎬 Анимация и фильмы](#-анимация-и-фильмы) 19 · [📺 Видеодемо](#-видеодемо) 145 · [🤝 Как помочь](#-как-помочь)
+[⭐ Самые любимые](#-самые-любимые) · [🆕 Новое](#-новое) · [🎮 Игры](#-игры) 96 · [🌍 3D-миры и сцены](#-3d-миры-и-сцены) 45 · [🧰 Сайты и инструменты](#-сайты-и-инструменты) 45 · [🎬 Анимация и фильмы](#-анимация-и-фильмы) 19 · [📺 Видеодемо](#-видеодемо) 145 · [🤝 Как помочь](#-как-помочь)
 
 ## ⭐ Самые любимые
 
@@ -237,7 +237,7 @@
 <td width="33%" valign="top">
 <a href="https://claude.ai/artifact/MXxb36zKgN261ckbGhmNin"><img src="assets/gifs/002.gif" width="100%" alt="Three Games (Saltline · The Clockmaker's Heart · Tidewright)"></a><br>
 <b><a href="https://claude.ai/artifact/MXxb36zKgN261ckbGhmNin">Three Games (Saltline · The Clockmaker's Heart · Tidewright)</a></b><br>
-<sub><a href="https://x.com/felixrieseberg">@felixrieseberg</a> · ♥ 807 · <a href="https://x.com/vineerpasam/status/2119955306096857145">▶ Видео</a></sub><br>
+<sub><a href="https://x.com/felixrieseberg">@felixrieseberg</a> · ♥ 806 · <a href="https://x.com/vineerpasam/status/2119955306096857145">▶ Видео</a></sub><br>
 <sub>Подпись Felix Rieseberg: «Все игры сделаны с помощью Claude Fable 5.2. Первые черновики, без обратной связи от человека». Самая репостнутая ссылка в день запуска.</sub><br>
 <sub><a href="https://claude.ai/artifact/6MjtQjf4ee1ZZjEpafaEpa">The Clockmaker's Heart</a> · <a href="https://claude.ai/artifact/JTgyEMn7sn1q2riWrMb7D4">Tidewright</a></sub><br>
 <sub><a href="https://fablelist.000ooo.ooo/ru/prompts/?w=three-games-saltline-the-clockmaker-s-heart-tidewright&ref=gh"><b>✨ Получить промпт</b></a></sub>
@@ -247,13 +247,13 @@
 <td width="33%" valign="top">
 <a href="https://patch.gg/play/blendi/solar"><img src="assets/gifs/323.gif" width="100%" alt="Solar — крошечная Солнечная система, по которой можно летать"></a><br>
 <b><a href="https://patch.gg/play/blendi/solar">Solar — крошечная Солнечная система, по которой можно летать</a></b><br>
-<sub>🆕 · <a href="https://x.com/BlendiByl">@BlendiByl</a> · ♥ 789 · <a href="https://x.com/BlendiByl/status/2122673770607591855">▶ Видео</a></sub><br>
+<sub>🆕 · <a href="https://x.com/BlendiByl">@BlendiByl</a> · ♥ 791 · <a href="https://x.com/BlendiByl/status/2122673770607591855">▶ Видео</a></sub><br>
 <sub>По мотивам Outer Wilds: настоящие орбиты и гравитация, непрерывные перелёты между планетами, и каждый мир нарисован кодом. Открытый исходный код.</sub>
 </td>
 <td width="33%" valign="top">
 <a href="https://patch.gg/blendi/coloured-pencil"><img src="assets/gifs/247.gif" width="100%" alt="Coloured Pencil"></a><br>
 <b><a href="https://patch.gg/blendi/coloured-pencil">Coloured Pencil</a></b><br>
-<sub><a href="https://x.com/BlendiByl">@BlendiByl</a> · ♥ 761 · <a href="https://x.com/BlendiByl/status/2121130385723789637">▶ Видео</a></sub><br>
+<sub><a href="https://x.com/BlendiByl">@BlendiByl</a> · ♥ 762 · <a href="https://x.com/BlendiByl/status/2121130385723789637">▶ Видео</a></sub><br>
 <sub>Фрагмент игры в стиле цветных карандашей; штриховка каждой поверхности и весь город — код. Открытый исходный код.</sub><br>
 <sub><a href="https://fablelist.000ooo.ooo/ru/prompts/?w=coloured-pencil&ref=gh"><b>✨ Получить промпт</b></a></sub>
 </td>
@@ -282,14 +282,14 @@
 <td width="33%" valign="top">
 <a href="https://i-would-have-gotten-away-with-it.netlify.app/"><img src="assets/gifs/007.gif" width="100%" alt="I Would Have Gotten Away With It"></a><br>
 <b><a href="https://i-would-have-gotten-away-with-it.netlify.app/">I Would Have Gotten Away With It</a></b><br>
-<sub><a href="https://x.com/emollick">@emollick</a> · ♥ 516 · <a href="https://x.com/emollick/status/2119876449494540554">▶ Видео</a></sub><br>
+<sub><a href="https://x.com/emollick">@emollick</a> · ♥ 517 · <a href="https://x.com/emollick/status/2119876449494540554">▶ Видео</a></sub><br>
 <sub>Скуби-Ду наоборот: вы злодей и пугаете назойливых ребят. Трейлер, музыку и звук тоже сделал Fable.</sub><br>
 <sub><a href="https://fablelist.000ooo.ooo/ru/prompts/?w=i-would-have-gotten-away-with-it&ref=gh"><b>✨ Получить промпт</b></a></sub>
 </td>
 </tr>
 </table>
 
-<p align="center"><b><a href="all/games.ru.md">Смотреть все 95 →</a></b></p>
+<p align="center"><b><a href="all/games.ru.md">Смотреть все 96 →</a></b></p>
 
 <div align="right"><a href="#-содержание">↑ К содержанию</a></div>
 
@@ -337,7 +337,7 @@
 <td width="33%" valign="top">
 <a href="https://fable-rome.surge.sh/"><img src="assets/gifs/136.gif" width="100%" alt="Rome, AD 320"></a><br>
 <b><a href="https://fable-rome.surge.sh/">Rome, AD 320</a></b><br>
-<sub><a href="https://x.com/petergostev">@petergostev</a> · ♥ 969 · <a href="https://x.com/petergostev/status/2120167560700383572">▶ Видео</a></sub><br>
+<sub><a href="https://x.com/petergostev">@petergostev</a> · ♥ 972 · <a href="https://x.com/petergostev/status/2120167560700383572">▶ Видео</a></sub><br>
 <sub>Один промпт, Fable 5.2 (Max) работал всю ночь, 2 618 $.</sub><br>
 <sub><a href="https://x.com/petergostev/status/2120167560700383572">📝 Промпт автора (бесплатно)</a></sub>
 </td>
@@ -353,7 +353,7 @@
 <td width="33%" valign="top">
 <a href="https://fable-rover.vercel.app"><img src="assets/gifs/278.gif" width="100%" alt="ER-6 Terrain Explorer — самоуправляемый марсоход"></a><br>
 <b><a href="https://fable-rover.vercel.app">ER-6 Terrain Explorer — самоуправляемый марсоход</a></b><br>
-<sub><a href="https://x.com/DilumSanjaya">@DilumSanjaya</a> · ♥ 795 · <a href="https://x.com/DilumSanjaya/status/2120561077385867663">▶ Видео</a></sub><br>
+<sub><a href="https://x.com/DilumSanjaya">@DilumSanjaya</a> · ♥ 796 · <a href="https://x.com/DilumSanjaya/status/2120561077385867663">▶ Видео</a></sub><br>
 <sub>Fable 5.2 спроектировал подвеску rocker-bogie, как у марсоходов NASA, и смоделировал езду по инопланетному рельефу.</sub>
 </td>
 <td width="33%" valign="top">
@@ -404,7 +404,7 @@
 <td width="33%" valign="top">
 <a href="http://taoistvibe.com"><img src="assets/gifs/307.gif" width="100%" alt="Chill Taoist Vibe: холм с даосским храмом"></a><br>
 <b><a href="http://taoistvibe.com">Chill Taoist Vibe: холм с даосским храмом</a></b><br>
-<sub><a href="https://x.com/qiqileyuan">@qiqileyuan</a> · ♥ 254 · <a href="https://x.com/qiqileyuan/status/2122006851298693277">▶ Видео</a></sub><br>
+<sub><a href="https://x.com/qiqileyuan">@qiqileyuan</a> · ♥ 253 · <a href="https://x.com/qiqileyuan/status/2122006851298693277">▶ Видео</a></sub><br>
 <sub>Даосский храм в стиле Ghibli на небольшой горе. Поднимитесь за старым монахом, зажгите благовония, вытяните палочку с предсказанием, помедитируйте или просто сидите в кресле-качалке и смотрите, как сменяются времена года. Статуи и главный герой сделаны в Tripo3D, всё остальное — сгенерированный код.</sub>
 </td>
 </tr>
@@ -477,7 +477,7 @@
 </tr>
 </table>
 
-<p align="center"><b><a href="all/3d-worlds.ru.md">Смотреть все 43 →</a></b></p>
+<p align="center"><b><a href="all/3d-worlds.ru.md">Смотреть все 45 →</a></b></p>
 
 <div align="right"><a href="#-содержание">↑ К содержанию</a></div>
 
@@ -604,23 +604,29 @@
 <td width="33%" valign="top">
 <a href="https://omage1.xyz"><img src="assets/gifs/337.gif" width="100%" alt="omage-1: синтезатор OP-1 Field в браузере"></a><br>
 <b><a href="https://omage1.xyz">omage-1: синтезатор OP-1 Field в браузере</a></b><br>
-<sub>🆕 · <a href="https://x.com/jamesmbickerton">@jamesmbickerton</a> · ♥ 561 · <a href="https://x.com/jamesmbickerton/status/2122688041219133815">▶ Видео</a></sub><br>
+<sub>🆕 · <a href="https://x.com/jamesmbickerton">@jamesmbickerton</a> · ♥ 567 · <a href="https://x.com/jamesmbickerton/status/2122688041219133815">▶ Видео</a></sub><br>
 <sub>Неофициальный оммаж: OP-1 Field от Teenage Engineering, воссозданный как браузерное приложение, на котором можно сразу играть.</sub>
 </td>
 <td width="33%" valign="top">
 <a href="https://claude.ai/artifact/4P1urBdptp6gWiJo3R6Vpv"><img src="assets/gifs/333.gif" width="100%" alt="Breakcore-видеосэмплер"></a><br>
 <b><a href="https://claude.ai/artifact/4P1urBdptp6gWiJo3R6Vpv">Breakcore-видеосэмплер</a></b><br>
-<sub>🆕 · <a href="https://x.com/parhelion318">@parhelion318</a> · ♥ 540 · <a href="https://x.com/parhelion318/status/2122723067533398064">▶ Видео</a></sub><br>
+<sub>🆕 · <a href="https://x.com/parhelion318">@parhelion318</a> · ♥ 541 · <a href="https://x.com/parhelion318/status/2122723067533398064">▶ Видео</a></sub><br>
 <sub>Сэмплер в браузере, который нарезает видеоклипы и пересобирает их в ритмы breakcore.</sub>
 </td>
 <td width="33%" valign="top">
-<a href="https://www.bubbbly.com/christmas-cards"><img src="assets/gifs/315.gif" width="100%" alt="Christmas Cards: интерактивные рождественские открытки"></a><br>
-<b><a href="https://www.bubbbly.com/christmas-cards">Christmas Cards: интерактивные рождественские открытки</a></b><br>
-<sub>🆕 · <a href="https://x.com/ann_nnng">@ann_nnng</a> · ♥ 473 · <a href="https://x.com/ann_nnng/status/2122283549000712249">▶ Видео</a></sub><br>
-<sub>Набор интерактивных рождественских открыток, например кот в красном шарфе на подоконнике смотрит, как падает снег.</sub>
+<a href="https://hexagonal.earth"><img src="assets/gifs/349.gif" width="100%" alt="Hexagonal Earth"></a><br>
+<b><a href="https://hexagonal.earth">Hexagonal Earth</a></b><br>
+<sub>🆕 · <a href="https://x.com/avsa">@avsa</a> · ♥ 495 · <a href="https://x.com/avsa/status/2123123638551392755">Пост</a></sub><br>
+<sub>Диорама всего мира из шестиугольников, построенная на реальных данных о высотах, глубинах океана, влажности, ветрах и реках. Fable 5.2 сгенерировал сотни маленьких 3D-объектов из пиксельных сплатов и сам расставил их в сцене.</sub>
 </td>
 </tr>
 <tr>
+<td width="33%" valign="top">
+<a href="https://www.bubbbly.com/christmas-cards"><img src="assets/gifs/315.gif" width="100%" alt="Christmas Cards: интерактивные рождественские открытки"></a><br>
+<b><a href="https://www.bubbbly.com/christmas-cards">Christmas Cards: интерактивные рождественские открытки</a></b><br>
+<sub>🆕 · <a href="https://x.com/ann_nnng">@ann_nnng</a> · ♥ 474 · <a href="https://x.com/ann_nnng/status/2122283549000712249">▶ Видео</a></sub><br>
+<sub>Набор интерактивных рождественских открыток, например кот в красном шарфе на подоконнике смотрит, как падает снег.</sub>
+</td>
 <td width="33%" valign="top">
 <a href="https://where-is-everybody-fermi.netlify.app/"><img src="assets/gifs/146.gif" width="100%" alt="Where Is Everybody?"></a><br>
 <b><a href="https://where-is-everybody-fermi.netlify.app/">Where Is Everybody?</a></b><br>
@@ -636,15 +642,15 @@
 <sub>Посмотрите на вид на поле с каждого сектора на RAMS Park, прежде чем покупать билет.</sub><br>
 <sub><a href="https://fablelist.000ooo.ooo/ru/prompts/?w=galatasaray-seat-view&ref=gh"><b>✨ Получить промпт</b></a></sub>
 </td>
+</tr>
+<tr>
 <td width="33%" valign="top">
 <a href="https://rubber-hose-ui.vercel.app"><img src="assets/gifs/332.gif" width="100%" alt="Rubber Hose UI: элементы управления в виде мультяшек 1930-х"></a><br>
 <b><a href="https://rubber-hose-ui.vercel.app">Rubber Hose UI: элементы управления в виде мультяшек 1930-х</a></b><br>
-<sub>🆕 · <a href="https://x.com/crtvTeknologist">@crtvTeknologist</a> · ♥ 349 · <a href="https://x.com/crtvTeknologist/status/2122433522166124616">▶ Видео</a></sub><br>
+<sub>🆕 · <a href="https://x.com/crtvTeknologist">@crtvTeknologist</a> · ♥ 350 · <a href="https://x.com/crtvTeknologist/status/2122433522166124616">▶ Видео</a></sub><br>
 <sub>Одиннадцать веб-контролов в стиле rubber hose: слайдер стал тромбоном, тост стал тостером, а кнопка получает синяк под глазом при каждом нажатии. Чистый JS и canvas, без зависимостей, открытый код.</sub><br>
 <sub><a href="https://github.com/finktheartist/rubber-hose-ui">Исходный код</a></sub>
 </td>
-</tr>
-<tr>
 <td width="33%" valign="top">
 <a href="https://origamihelper.com"><img src="assets/gifs/220.gif" width="100%" alt="Origami Helper"></a><br>
 <b><a href="https://origamihelper.com">Origami Helper</a></b><br>
@@ -659,16 +665,10 @@
 <sub>Полностью рабочая печатная машинка: печатайте или кликайте по клавишам, таймеры письма, корректор, автозамена.</sub><br>
 <sub><a href="https://fablelist.000ooo.ooo/ru/prompts/?w=typed&ref=gh"><b>✨ Получить промпт</b></a></sub>
 </td>
-<td width="33%" valign="top">
-<a href="https://hexagonal.earth"><img src="assets/gifs/349.gif" width="100%" alt="Hexagonal Earth"></a><br>
-<b><a href="https://hexagonal.earth">Hexagonal Earth</a></b><br>
-<sub>🆕 · <a href="https://x.com/avsa">@avsa</a> · ♥ 181 · <a href="https://x.com/avsa/status/2123123638551392755">Пост</a></sub><br>
-<sub>Диорама всего мира из шестиугольников, построенная на реальных данных о высотах, глубинах океана, влажности, ветрах и реках. Fable 5.2 сгенерировал сотни маленьких 3D-объектов из пиксельных сплатов и сам расставил их в сцене.</sub>
-</td>
 </tr>
 </table>
 
-<p align="center"><b><a href="all/web-and-tools.ru.md">Смотреть все 44 →</a></b></p>
+<p align="center"><b><a href="all/web-and-tools.ru.md">Смотреть все 45 →</a></b></p>
 
 <div align="right"><a href="#-содержание">↑ К содержанию</a></div>
 
@@ -690,18 +690,18 @@
 <sub>110-секундный фильм одним кадром: кошка идёт по ботаническому саду, принюхивается и прыгает. Картинку считает специально написанный трассировщик путей, звук синтезирован в numpy, без каких-либо готовых ассетов.</sub>
 </td>
 <td width="33%" valign="top">
-<a href="https://github.com/amirmushichge/shred-kit"><img src="assets/gifs/269.gif" width="100%" alt="Shred Kit — шаблон бумажного шредера"></a><br>
-<b><a href="https://github.com/amirmushichge/shred-kit">Shred Kit — шаблон бумажного шредера</a></b><br>
-<sub><a href="https://x.com/AmirMushich">@AmirMushich</a> · ♥ 432 · <a href="https://x.com/AmirMushich/status/2121339167800213934">▶ Видео</a></sub><br>
-<sub>8-секундный рилс с измельчением бумаги, сделан с Fable 5.2 и Blender, опубликован как бесплатный шаблон.</sub>
+<a href="https://github.com/moritzkremb/robovac-pov"><img src="assets/gifs/334.gif" width="100%" alt="Robovac POV: реалистичный фильм глазами робота-пылесоса"></a><br>
+<b><a href="https://github.com/moritzkremb/robovac-pov">Robovac POV: реалистичный фильм глазами робота-пылесоса</a></b><br>
+<sub>🆕 · <a href="https://x.com/moritzkremb">@moritzkremb</a> · ♥ 442 · <a href="https://x.com/moritzkremb/status/2122702891819377117">▶ Видео</a></sub><br>
+<sub>53-секундный фильм, сделанный только кодом: мир на C++, собственный GPU-трассировщик путей, симуляция камеры с фокусом, размытием движения и зерном, ковёр примерно из 900,000 ворсинок и звук, синтезированный на Python.</sub>
 </td>
 </tr>
 <tr>
 <td width="33%" valign="top">
-<a href="https://github.com/moritzkremb/robovac-pov"><img src="assets/gifs/334.gif" width="100%" alt="Robovac POV: реалистичный фильм глазами робота-пылесоса"></a><br>
-<b><a href="https://github.com/moritzkremb/robovac-pov">Robovac POV: реалистичный фильм глазами робота-пылесоса</a></b><br>
-<sub>🆕 · <a href="https://x.com/moritzkremb">@moritzkremb</a> · ♥ 416 · <a href="https://x.com/moritzkremb/status/2122702891819377117">▶ Видео</a></sub><br>
-<sub>53-секундный фильм, сделанный только кодом: мир на C++, собственный GPU-трассировщик путей, симуляция камеры с фокусом, размытием движения и зерном, ковёр примерно из 900,000 ворсинок и звук, синтезированный на Python.</sub>
+<a href="https://github.com/amirmushichge/shred-kit"><img src="assets/gifs/269.gif" width="100%" alt="Shred Kit — шаблон бумажного шредера"></a><br>
+<b><a href="https://github.com/amirmushichge/shred-kit">Shred Kit — шаблон бумажного шредера</a></b><br>
+<sub><a href="https://x.com/AmirMushich">@AmirMushich</a> · ♥ 432 · <a href="https://x.com/AmirMushich/status/2121339167800213934">▶ Видео</a></sub><br>
+<sub>8-секундный рилс с измельчением бумаги, сделан с Fable 5.2 и Blender, опубликован как бесплатный шаблон.</sub>
 </td>
 <td width="33%" valign="top">
 <a href="https://github.com/ChetasLua/pelican-riding-a-bicycle"><img src="assets/gifs/150.gif" width="100%" alt="The Pelican, Tired of the Road"></a><br>
@@ -714,7 +714,7 @@
 <td width="33%" valign="top">
 <a href="https://github.com/Leonxlnx/mechanical-moon"><img src="assets/gifs/336.gif" width="100%" alt="Mechanical Moon"></a><br>
 <b><a href="https://github.com/Leonxlnx/mechanical-moon">Mechanical Moon</a></b><br>
-<sub>🆕 · <a href="https://x.com/LexnLin">@LexnLin</a> · ♥ 351 · <a href="https://x.com/LexnLin/status/2122823164635881853">▶ Видео</a></sub><br>
+<sub>🆕 · <a href="https://x.com/LexnLin">@LexnLin</a> · ♥ 352 · <a href="https://x.com/LexnLin/status/2122823164635881853">▶ Видео</a></sub><br>
 <sub>45-секундный процедурный фильм в Blender: расколотая луна с золотой часовой мегаструктурой внутри, полностью собранная Python-скриптами и отрендеренная в EEVEE.</sub>
 </td>
 </tr>
@@ -763,17 +763,23 @@
 </tr>
 <tr>
 <td width="33%" valign="top">
+<a href="https://github.com/ChetasLua/the-last-good-pelican-fable-5.2"><img src="assets/gifs/352.gif" width="100%" alt="The Last Good Pelican"></a><br>
+<b><a href="https://github.com/ChetasLua/the-last-good-pelican-fable-5.2">The Last Good Pelican</a></b><br>
+<sub>🆕 · <a href="https://x.com/chetaslua">@chetaslua</a> · ♥ 134 · <a href="https://x.com/chetaslua/status/2123100140189958401">▶ Видео</a></sub><br>
+<sub>60-секундная короткометражка в рисованном стиле в одном офлайн-файле HTML: один день из жизни единственного бенчмарк-пеликана, который получился правильно. Вся графика на Canvas 2D, весь звук на Web Audio.</sub>
+</td>
+<td width="33%" valign="top">
 <a href="https://github.com/anstapnever/blackout"><img src="assets/gifs/052.gif" width="100%" alt="Blackout"></a><br>
 <b><a href="https://github.com/anstapnever/blackout">Blackout</a></b><br>
-<sub><a href="https://x.com/anstapnever">@anstapnever</a> · ♥ 118 · <a href="https://x.com/anstapnever/status/2119915123070644263">▶ Видео</a></sub><br>
+<sub><a href="https://x.com/anstapnever">@anstapnever</a> · ♥ 119 · <a href="https://x.com/anstapnever/status/2119915123070644263">▶ Видео</a></sub><br>
 <sub>79-секундная аниме-короткометражка, всё на коде.</sub><br>
 <sub><a href="https://x.com/anstapnever/status/2119915123070644263">📝 Промпт автора (бесплатно)</a></sub>
 </td>
 <td width="33%" valign="top">
-<a href="https://github.com/ChetasLua/the-last-good-pelican-fable-5.2"><img src="assets/gifs/352.gif" width="100%" alt="The Last Good Pelican"></a><br>
-<b><a href="https://github.com/ChetasLua/the-last-good-pelican-fable-5.2">The Last Good Pelican</a></b><br>
-<sub>🆕 · <a href="https://x.com/chetaslua">@chetaslua</a> · ♥ 107 · <a href="https://x.com/chetaslua/status/2123100140189958401">▶ Видео</a></sub><br>
-<sub>60-секундная короткометражка в рисованном стиле в одном офлайн-файле HTML: один день из жизни единственного бенчмарк-пеликана, который получился правильно. Вся графика на Canvas 2D, весь звук на Web Audio.</sub>
+<a href="https://github.com/Leonxlnx/koi-pond-keycap"><img src="assets/gifs/351.gif" width="100%" alt="Koi Pond Keycap"></a><br>
+<b><a href="https://github.com/Leonxlnx/koi-pond-keycap">Koi Pond Keycap</a></b><br>
+<sub>🆕 · <a href="https://x.com/LexnLin">@LexnLin</a> · ♥ 105 · <a href="https://x.com/LexnLin/status/2123174205306908806">▶ Видео</a></sub><br>
+<sub>45-секундный ролик в Blender: прозрачный кейкап из смолы с прудом с карпами кои внутри. Палец нажимает клавишу, по воде бегут круги, карпы бросаются врассыпную. Полностью процедурный Python, без внешних моделей и текстур.</sub>
 </td>
 </tr>
 </table>
@@ -986,7 +992,7 @@
 
 ## 📰 Новости
 
-- **2026-11-19**: +4 работ и +2 видеодемо.
+- **2026-11-19**: +8 работ и +2 видеодемо.
 - **2026-11-18**: +12 работ и +8 видеодемо.
 - **2026-11-17**: +9 работ и +7 видеодемо.
 - **2026-11-16**: +10 работ и +6 видеодемо.

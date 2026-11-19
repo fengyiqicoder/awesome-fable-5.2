@@ -1,4 +1,4 @@
-# 🌍 3D Worlds & Scenes · all 43
+# 🌍 3D Worlds & Scenes · all 45
 
 [← Back to the main list](../README.md) · **English** · [简体中文](3d-worlds.zh-CN.md) · [繁體中文](3d-worlds.zh-TW.md) · [日本語](3d-worlds.ja.md) · [한국어](3d-worlds.ko.md) · [Español](3d-worlds.es.md) · [Português](3d-worlds.pt-BR.md) · [Français](3d-worlds.fr.md) · [Deutsch](3d-worlds.de.md) · [Русский](3d-worlds.ru.md)
 
@@ -46,7 +46,7 @@ The main page shows at most the top 24 posts with 100+ likes; this page has ever
 <td width="33%" valign="top">
 <a href="https://fable-rome.surge.sh/"><img src="../assets/gifs/136.gif" width="100%" alt="Rome, AD 320"></a><br>
 <b><a href="https://fable-rome.surge.sh/">Rome, AD 320</a></b><br>
-<sub><a href="https://x.com/petergostev">@petergostev</a> · ♥ 969 · <a href="https://x.com/petergostev/status/2120167560700383572">▶ Video</a></sub><br>
+<sub><a href="https://x.com/petergostev">@petergostev</a> · ♥ 972 · <a href="https://x.com/petergostev/status/2120167560700383572">▶ Video</a></sub><br>
 <sub>One prompt, Fable 5.2 (Max) running overnight, $2,618.</sub><br>
 <sub><a href="https://x.com/petergostev/status/2120167560700383572">📝 Creator's prompt (free)</a></sub>
 </td>
@@ -62,7 +62,7 @@ The main page shows at most the top 24 posts with 100+ likes; this page has ever
 <td width="33%" valign="top">
 <a href="https://fable-rover.vercel.app"><img src="../assets/gifs/278.gif" width="100%" alt="ER-6 Terrain Explorer — a self-driving Mars rover"></a><br>
 <b><a href="https://fable-rover.vercel.app">ER-6 Terrain Explorer — a self-driving Mars rover</a></b><br>
-<sub><a href="https://x.com/DilumSanjaya">@DilumSanjaya</a> · ♥ 795 · <a href="https://x.com/DilumSanjaya/status/2120561077385867663">▶ Video</a></sub><br>
+<sub><a href="https://x.com/DilumSanjaya">@DilumSanjaya</a> · ♥ 796 · <a href="https://x.com/DilumSanjaya/status/2120561077385867663">▶ Video</a></sub><br>
 <sub>Fable 5.2 designed a rocker-bogie suspension like NASA's Mars rovers, then simulated it driving over alien terrain.</sub>
 </td>
 <td width="33%" valign="top">
@@ -113,7 +113,7 @@ The main page shows at most the top 24 posts with 100+ likes; this page has ever
 <td width="33%" valign="top">
 <a href="http://taoistvibe.com"><img src="../assets/gifs/307.gif" width="100%" alt="Chill Taoist Vibe: a Taoist temple hill"></a><br>
 <b><a href="http://taoistvibe.com">Chill Taoist Vibe: a Taoist temple hill</a></b><br>
-<sub><a href="https://x.com/qiqileyuan">@qiqileyuan</a> · ♥ 254 · <a href="https://x.com/qiqileyuan/status/2122006851298693277">▶ Video</a></sub><br>
+<sub><a href="https://x.com/qiqileyuan">@qiqileyuan</a> · ♥ 253 · <a href="https://x.com/qiqileyuan/status/2122006851298693277">▶ Video</a></sub><br>
 <sub>A Ghibli-style Taoist temple on a small mountain. Follow the old priest uphill, burn incense, draw a fortune stick, meditate, or just sit in the rocking chair and watch the seasons change. Statues and the main character come from Tripo3D; everything else is generated code.</sub>
 </td>
 </tr>
@@ -193,12 +193,20 @@ The main page shows at most the top 24 posts with 100+ likes; this page has ever
 <sub><a href="https://fablelist.000ooo.ooo/prompts/?w=sr-71-engine-teardown&ref=gh"><b>✨ Get the prompt</b></a></sub>
 </td>
 <td width="33%" valign="top">
+<a href="https://coralback-ray.wasmer.app/"><img src="../assets/gifs/357.gif" width="100%" alt="Coralback Ray"></a><br>
+<b><a href="https://coralback-ray.wasmer.app/">Coralback Ray</a></b><br>
+<sub>🆕 · <a href="https://x.com/thebuggeddev">@thebuggeddev</a> · ♥ 75 · <a href="https://x.com/thebuggeddev/status/2123021723188744248">▶ Video</a></sub><br>
+<sub>A 3D ray swimming in your browser, built from a single GLB model. No bones: the rig runs in the vertex shader, and the swimming is driven by thrust, drag and gravity.</sub>
+</td>
+<td width="33%" valign="top">
 <a href="https://vancouver.webly.site"><img src="../assets/gifs/032.gif" width="100%" alt="Vancouver From Above"></a><br>
 <b><a href="https://vancouver.webly.site">Vancouver From Above</a></b><br>
 <sub><a href="https://x.com/tokifyi">@tokifyi</a> · ♥ 72 · <a href="https://x.com/tokifyi/status/2120020272153764172">Post</a></sub><br>
 <sub>The city rebuilt in three.js.</sub><br>
 <sub><a href="https://fablelist.000ooo.ooo/prompts/?w=vancouver-from-above&ref=gh"><b>✨ Get the prompt</b></a></sub>
 </td>
+</tr>
+<tr>
 <td width="33%" valign="top">
 <a href="https://fable-jerusalem.vercel.app/"><img src="../assets/gifs/138.gif" width="100%" alt="Jerusalem at Passover"></a><br>
 <b><a href="https://fable-jerusalem.vercel.app/">Jerusalem at Passover</a></b><br>
@@ -206,8 +214,6 @@ The main page shows at most the top 24 posts with 100+ likes; this page has ever
 <sub>An immersive, historically grounded 3D Jerusalem built with Blender. Wander the streets.</sub><br>
 <sub><a href="https://x.com/kplikethebird/status/2119900775727902732">📝 Creator's prompt (free)</a></sub>
 </td>
-</tr>
-<tr>
 <td width="33%" valign="top">
 <a href="https://starknightt.github.io/summer-festival/"><img src="../assets/gifs/309.gif" width="100%" alt="Summer Festival: a seaside town at night"></a><br>
 <b><a href="https://starknightt.github.io/summer-festival/">Summer Festival: a seaside town at night</a></b><br>
@@ -223,6 +229,8 @@ The main page shows at most the top 24 posts with 100+ likes; this page has ever
 <sub><a href="https://github.com/tornikegomareli/Matrix">Source</a></sub><br>
 <sub><a href="https://fablelist.000ooo.ooo/prompts/?w=matrix-vibe&ref=gh"><b>✨ Get the prompt</b></a></sub>
 </td>
+</tr>
+<tr>
 <td width="33%" valign="top">
 <a href="https://loktar00.github.io/pine-hollow/"><img src="../assets/gifs/191.gif" width="100%" alt="Pine Hollow — a living ski hill"></a><br>
 <b><a href="https://loktar00.github.io/pine-hollow/">Pine Hollow — a living ski hill</a></b><br>
@@ -231,8 +239,6 @@ The main page shows at most the top 24 posts with 100+ likes; this page has ever
 <sub><a href="https://loktar00.github.io/sled-free-exact/">Sled Free</a> · <a href="https://loktar00.github.io/sled-free/">Grumble Peak</a></sub><br>
 <sub><a href="https://fablelist.000ooo.ooo/prompts/?w=pine-hollow-a-living-ski-hill&ref=gh"><b>✨ Get the prompt</b></a></sub>
 </td>
-</tr>
-<tr>
 <td width="33%" valign="top">
 <a href="https://vancouver-claude.webly.site"><img src="../assets/gifs/280.gif" width="100%" alt="Vancouver, golden hour over English Bay"></a><br>
 <b><a href="https://vancouver-claude.webly.site">Vancouver, golden hour over English Bay</a></b><br>
@@ -246,6 +252,8 @@ The main page shows at most the top 24 posts with 100+ likes; this page has ever
 <sub>A piece of pixel art turned into an interactive 3D world, with a whale showing how it was made.</sub><br>
 <sub><a href="https://fablelist.000ooo.ooo/prompts/?w=pixel-art-to-3d-world&ref=gh"><b>✨ Get the prompt</b></a></sub>
 </td>
+</tr>
+<tr>
 <td width="33%" valign="top">
 <a href="https://galaxy-dive.vercel.app"><img src="../assets/gifs/141.gif" width="100%" alt="Galaxy Dive"></a><br>
 <b><a href="https://galaxy-dive.vercel.app">Galaxy Dive</a></b><br>
@@ -253,8 +261,6 @@ The main page shows at most the top 24 posts with 100+ likes; this page has ever
 <sub>"God took 6 days, Fable 5.2 took 20 min." Fly into a galaxy.</sub><br>
 <sub><a href="https://fablelist.000ooo.ooo/prompts/?w=galaxy-dive&ref=gh"><b>✨ Get the prompt</b></a></sub>
 </td>
-</tr>
-<tr>
 <td width="33%" valign="top">
 <a href="https://calibre-watch-snowy.vercel.app/"><img src="../assets/gifs/192.gif" width="100%" alt="Calibre 5.2 watch"></a><br>
 <b><a href="https://calibre-watch-snowy.vercel.app/">Calibre 5.2 watch</a></b><br>
@@ -268,6 +274,8 @@ The main page shows at most the top 24 posts with 100+ likes; this page has ever
 <sub><a href="https://x.com/tokifyi">@tokifyi</a> · ♥ 22 · <a href="https://x.com/tokifyi/status/2121367097972531412">▶ Video</a></sub><br>
 <sub>One prompt, pure JavaScript canvas: the bridge, skyline, fog, reflections and a cable car, no images or libraries.</sub>
 </td>
+</tr>
+<tr>
 <td width="33%" valign="top">
 <a href="https://claude.ai/artifact/7nmzhxeamcunJbKVK32ptz"><img src="../assets/gifs/029.gif" width="100%" alt="Voxel Colosseum"></a><br>
 <b><a href="https://claude.ai/artifact/7nmzhxeamcunJbKVK32ptz">Voxel Colosseum</a></b><br>
@@ -276,8 +284,6 @@ The main page shows at most the top 24 posts with 100+ likes; this page has ever
 <sub><a href="https://claude.ai/artifact/B7ZmVS7Yr3BUc99ZyGk2bX">Opus 5.5 version</a></sub><br>
 <sub><a href="https://fablelist.000ooo.ooo/prompts/?w=voxel-colosseum&ref=gh"><b>✨ Get the prompt</b></a></sub>
 </td>
-</tr>
-<tr>
 <td width="33%" valign="top">
 <a href="https://glittery-stardust-885b97.netlify.app"><img src="../assets/gifs/233.gif" width="100%" alt="HX-6 Hexapod, Three Worlds"></a><br>
 <b><a href="https://glittery-stardust-885b97.netlify.app">HX-6 Hexapod, Three Worlds</a></b><br>
@@ -292,14 +298,14 @@ The main page shows at most the top 24 posts with 100+ likes; this page has ever
 <sub>A personal site rebuilt as a scroll journey from Earth to a black hole.</sub><br>
 <sub><a href="https://fablelist.000ooo.ooo/prompts/?w=one-way-trip-to-a-black-hole&ref=gh"><b>✨ Get the prompt</b></a></sub>
 </td>
+</tr>
+<tr>
 <td width="33%" valign="top">
 <a href="https://madebysourasith-sudo.github.io/red-wing-jet/"><img src="../assets/gifs/265.gif" width="100%" alt="Red Wing private jet"></a><br>
 <b><a href="https://madebysourasith-sudo.github.io/red-wing-jet/">Red Wing private jet</a></b><br>
 <sub><a href="https://x.com/titepommee">@titepommee</a> · ♥ 8 · <a href="https://x.com/titepommee/status/2121259736217911357">▶ Video</a></sub><br>
 <sub>Walk around the jet, click the door, the stairs come down and you step in: lounge, bedroom, even the bathroom.</sub>
 </td>
-</tr>
-<tr>
 <td width="33%" valign="top">
 <a href="https://davinci-mechanics.vercel.app/"><img src="../assets/gifs/289.gif" width="100%" alt="Da Vinci's Living Codex"></a><br>
 <b><a href="https://davinci-mechanics.vercel.app/">Da Vinci's Living Codex</a></b><br>
@@ -314,6 +320,8 @@ The main page shows at most the top 24 posts with 100+ likes; this page has ever
 <sub>~20,000 orbiting asteroids; it keeps adding rocks until your device drops below 30 fps.</sub><br>
 <sub><a href="https://fablelist.000ooo.ooo/prompts/?w=belt-stress-test&ref=gh"><b>✨ Get the prompt</b></a></sub>
 </td>
+</tr>
+<tr>
 <td width="33%" valign="top">
 <a href="https://claude.ai/artifact/BCDCNHRTq3y9W4Px3xc4DN"><img src="../assets/gifs/030.gif" width="100%" alt="A Hamlet on a Giant Snail"></a><br>
 <b><a href="https://claude.ai/artifact/BCDCNHRTq3y9W4Px3xc4DN">A Hamlet on a Giant Snail</a></b><br>
@@ -321,14 +329,18 @@ The main page shows at most the top 24 posts with 100+ likes; this page has ever
 <sub>"Bring a 3D castle to life in an HTML file." Hand-written WebGL2, no libraries, ~5,500 trees, day/night cycle.</sub><br>
 <sub><a href="https://x.com/L34342Lin/status/2120030246108066195">📝 Creator's prompt (free)</a></sub>
 </td>
-</tr>
-<tr>
 <td width="33%" valign="top">
 <a href="https://claude.ai/artifact/UqU4w7jSr6pzF2McsbyQjJ"><img src="../assets/gifs/031.gif" width="100%" alt="Wooden Pagoda Transformation"></a><br>
 <b><a href="https://claude.ai/artifact/UqU4w7jSr6pzF2McsbyQjJ">Wooden Pagoda Transformation</a></b><br>
 <sub><a href="https://x.com/acupofai">@acupofai</a> · ♥ 0 · <a href="https://x.com/acupofai/status/2120119243043995748">▶ Video</a></sub><br>
 <sub>3,357 parts assemble a five-storey pagoda that turns into a swordswoman. Music computed in code.</sub><br>
 <sub><a href="https://fablelist.000ooo.ooo/prompts/?w=wooden-pagoda-transformation&ref=gh"><b>✨ Get the prompt</b></a></sub>
+</td>
+<td width="33%" valign="top">
+<a href="https://cyrilremacle-byte.github.io/francis-turbine-explorer/"><img src="../assets/gifs/355.gif" width="100%" alt="Francis Turbine Explorer"></a><br>
+<b><a href="https://cyrilremacle-byte.github.io/francis-turbine-explorer/">Francis Turbine Explorer</a></b><br>
+<sub>🆕 · <a href="https://x.com/cyril_remacle">@cyril_remacle</a> · ♥ 0 · <a href="https://x.com/cyril_remacle/status/2122048423528485116">Post</a></sub><br>
+<sub>An interactive 3D Francis turbine you can cut open, pull apart and run yourself, with a guided tour, an exploded view and a live hydropower calculator. In English and French.</sub>
 </td>
 </tr>
 </table>

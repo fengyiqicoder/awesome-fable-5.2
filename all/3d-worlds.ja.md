@@ -1,4 +1,4 @@
-# 🌍 3D ワールドとシーン · 全 43 件
+# 🌍 3D ワールドとシーン · 全 45 件
 
 [← メインリストに戻る](../README.ja.md) · [English](3d-worlds.md) · [简体中文](3d-worlds.zh-CN.md) · [繁體中文](3d-worlds.zh-TW.md) · **日本語** · [한국어](3d-worlds.ko.md) · [Español](3d-worlds.es.md) · [Português](3d-worlds.pt-BR.md) · [Français](3d-worlds.fr.md) · [Deutsch](3d-worlds.de.md) · [Русский](3d-worlds.ru.md)
 
@@ -46,7 +46,7 @@
 <td width="33%" valign="top">
 <a href="https://fable-rome.surge.sh/"><img src="../assets/gifs/136.gif" width="100%" alt="Rome, AD 320"></a><br>
 <b><a href="https://fable-rome.surge.sh/">Rome, AD 320</a></b><br>
-<sub><a href="https://x.com/petergostev">@petergostev</a> · ♥ 969 · <a href="https://x.com/petergostev/status/2120167560700383572">▶ 動画</a></sub><br>
+<sub><a href="https://x.com/petergostev">@petergostev</a> · ♥ 972 · <a href="https://x.com/petergostev/status/2120167560700383572">▶ 動画</a></sub><br>
 <sub>1 つのプロンプト、Fable 5.2（Max）が一晩中稼働、$2,618。</sub><br>
 <sub><a href="https://x.com/petergostev/status/2120167560700383572">📝 作者公開のプロンプト（無料）</a></sub>
 </td>
@@ -62,7 +62,7 @@
 <td width="33%" valign="top">
 <a href="https://fable-rover.vercel.app"><img src="../assets/gifs/278.gif" width="100%" alt="ER-6 Terrain Explorer — 自動走行する火星ローバー"></a><br>
 <b><a href="https://fable-rover.vercel.app">ER-6 Terrain Explorer — 自動走行する火星ローバー</a></b><br>
-<sub><a href="https://x.com/DilumSanjaya">@DilumSanjaya</a> · ♥ 795 · <a href="https://x.com/DilumSanjaya/status/2120561077385867663">▶ 動画</a></sub><br>
+<sub><a href="https://x.com/DilumSanjaya">@DilumSanjaya</a> · ♥ 796 · <a href="https://x.com/DilumSanjaya/status/2120561077385867663">▶ 動画</a></sub><br>
 <sub>Fable 5.2 が NASA の火星ローバーと同じロッカー・ボギー式サスペンションを設計し、異星の地形を走らせるシミュレーションまで作った。</sub>
 </td>
 <td width="33%" valign="top">
@@ -113,7 +113,7 @@
 <td width="33%" valign="top">
 <a href="http://taoistvibe.com"><img src="../assets/gifs/307.gif" width="100%" alt="Chill Taoist Vibe：道教寺院のある小さな山"></a><br>
 <b><a href="http://taoistvibe.com">Chill Taoist Vibe：道教寺院のある小さな山</a></b><br>
-<sub><a href="https://x.com/qiqileyuan">@qiqileyuan</a> · ♥ 254 · <a href="https://x.com/qiqileyuan/status/2122006851298693277">▶ 動画</a></sub><br>
+<sub><a href="https://x.com/qiqileyuan">@qiqileyuan</a> · ♥ 253 · <a href="https://x.com/qiqileyuan/status/2122006851298693277">▶ 動画</a></sub><br>
 <sub>ジブリ風の、小さな山に建つ道教寺院。老道士について山を登り、線香をあげ、おみくじを引き、瞑想する。揺り椅子に座って四季の移ろいを眺めるだけでもいい。神像と主人公のモデルは Tripo3D、それ以外はすべて生成されたコード。</sub>
 </td>
 </tr>
@@ -193,12 +193,20 @@
 <sub><a href="https://fablelist.000ooo.ooo/ja/prompts/?w=sr-71-engine-teardown&ref=gh"><b>✨ プロンプトを入手</b></a></sub>
 </td>
 <td width="33%" valign="top">
+<a href="https://coralback-ray.wasmer.app/"><img src="../assets/gifs/357.gif" width="100%" alt="Coralback Ray"></a><br>
+<b><a href="https://coralback-ray.wasmer.app/">Coralback Ray</a></b><br>
+<sub>🆕 · <a href="https://x.com/thebuggeddev">@thebuggeddev</a> · ♥ 75 · <a href="https://x.com/thebuggeddev/status/2123021723188744248">▶ 動画</a></sub><br>
+<sub>ブラウザの中を泳ぐ 3D のエイ。GLB モデル 1 つだけから作られた。ボーンはなく、リグは頂点シェーダーで動き、泳ぎは推力・抗力・重力で計算される。</sub>
+</td>
+<td width="33%" valign="top">
 <a href="https://vancouver.webly.site"><img src="../assets/gifs/032.gif" width="100%" alt="Vancouver From Above"></a><br>
 <b><a href="https://vancouver.webly.site">Vancouver From Above</a></b><br>
 <sub><a href="https://x.com/tokifyi">@tokifyi</a> · ♥ 72 · <a href="https://x.com/tokifyi/status/2120020272153764172">投稿</a></sub><br>
 <sub>three.js で再構築した都市。</sub><br>
 <sub><a href="https://fablelist.000ooo.ooo/ja/prompts/?w=vancouver-from-above&ref=gh"><b>✨ プロンプトを入手</b></a></sub>
 </td>
+</tr>
+<tr>
 <td width="33%" valign="top">
 <a href="https://fable-jerusalem.vercel.app/"><img src="../assets/gifs/138.gif" width="100%" alt="Jerusalem at Passover"></a><br>
 <b><a href="https://fable-jerusalem.vercel.app/">Jerusalem at Passover</a></b><br>
@@ -206,8 +214,6 @@
 <sub>Blender で作った、史実に基づく没入型 3D エルサレム。街を歩き回れる。</sub><br>
 <sub><a href="https://x.com/kplikethebird/status/2119900775727902732">📝 作者公開のプロンプト（無料）</a></sub>
 </td>
-</tr>
-<tr>
 <td width="33%" valign="top">
 <a href="https://starknightt.github.io/summer-festival/"><img src="../assets/gifs/309.gif" width="100%" alt="Summer Festival：夜の海辺の町"></a><br>
 <b><a href="https://starknightt.github.io/summer-festival/">Summer Festival：夜の海辺の町</a></b><br>
@@ -223,6 +229,8 @@
 <sub><a href="https://github.com/tornikegomareli/Matrix">ソースコード</a></sub><br>
 <sub><a href="https://fablelist.000ooo.ooo/ja/prompts/?w=matrix-vibe&ref=gh"><b>✨ プロンプトを入手</b></a></sub>
 </td>
+</tr>
+<tr>
 <td width="33%" valign="top">
 <a href="https://loktar00.github.io/pine-hollow/"><img src="../assets/gifs/191.gif" width="100%" alt="Pine Hollow — 生きているスキー場"></a><br>
 <b><a href="https://loktar00.github.io/pine-hollow/">Pine Hollow — 生きているスキー場</a></b><br>
@@ -231,8 +239,6 @@
 <sub><a href="https://loktar00.github.io/sled-free-exact/">Sled Free</a> · <a href="https://loktar00.github.io/sled-free/">Grumble Peak</a></sub><br>
 <sub><a href="https://fablelist.000ooo.ooo/ja/prompts/?w=pine-hollow-a-living-ski-hill&ref=gh"><b>✨ プロンプトを入手</b></a></sub>
 </td>
-</tr>
-<tr>
 <td width="33%" valign="top">
 <a href="https://vancouver-claude.webly.site"><img src="../assets/gifs/280.gif" width="100%" alt="バンクーバー、イングリッシュ・ベイのゴールデンアワー"></a><br>
 <b><a href="https://vancouver-claude.webly.site">バンクーバー、イングリッシュ・ベイのゴールデンアワー</a></b><br>
@@ -246,6 +252,8 @@
 <sub>1 枚のピクセルアートがインタラクティブな 3D ワールドに。クジラが作り方を見せてくれる。</sub><br>
 <sub><a href="https://fablelist.000ooo.ooo/ja/prompts/?w=pixel-art-to-3d-world&ref=gh"><b>✨ プロンプトを入手</b></a></sub>
 </td>
+</tr>
+<tr>
 <td width="33%" valign="top">
 <a href="https://galaxy-dive.vercel.app"><img src="../assets/gifs/141.gif" width="100%" alt="Galaxy Dive"></a><br>
 <b><a href="https://galaxy-dive.vercel.app">Galaxy Dive</a></b><br>
@@ -253,8 +261,6 @@
 <sub>「神は 6 日、Fable 5.2 は 20 分。」銀河へ飛び込む。</sub><br>
 <sub><a href="https://fablelist.000ooo.ooo/ja/prompts/?w=galaxy-dive&ref=gh"><b>✨ プロンプトを入手</b></a></sub>
 </td>
-</tr>
-<tr>
 <td width="33%" valign="top">
 <a href="https://calibre-watch-snowy.vercel.app/"><img src="../assets/gifs/192.gif" width="100%" alt="Calibre 5.2 腕時計"></a><br>
 <b><a href="https://calibre-watch-snowy.vercel.app/">Calibre 5.2 腕時計</a></b><br>
@@ -268,6 +274,8 @@
 <sub><a href="https://x.com/tokifyi">@tokifyi</a> · ♥ 22 · <a href="https://x.com/tokifyi/status/2121367097972531412">▶ 動画</a></sub><br>
 <sub>1 つのプロンプト、純粋な JavaScript canvas：橋、スカイライン、霧、反射、ケーブルカー。画像もライブラリもなし。</sub>
 </td>
+</tr>
+<tr>
 <td width="33%" valign="top">
 <a href="https://claude.ai/artifact/7nmzhxeamcunJbKVK32ptz"><img src="../assets/gifs/029.gif" width="100%" alt="Voxel Colosseum"></a><br>
 <b><a href="https://claude.ai/artifact/7nmzhxeamcunJbKVK32ptz">Voxel Colosseum</a></b><br>
@@ -276,8 +284,6 @@
 <sub><a href="https://claude.ai/artifact/B7ZmVS7Yr3BUc99ZyGk2bX">Opus 5.5 version</a></sub><br>
 <sub><a href="https://fablelist.000ooo.ooo/ja/prompts/?w=voxel-colosseum&ref=gh"><b>✨ プロンプトを入手</b></a></sub>
 </td>
-</tr>
-<tr>
 <td width="33%" valign="top">
 <a href="https://glittery-stardust-885b97.netlify.app"><img src="../assets/gifs/233.gif" width="100%" alt="HX-6 ヘキサポッド、3 つの世界"></a><br>
 <b><a href="https://glittery-stardust-885b97.netlify.app">HX-6 ヘキサポッド、3 つの世界</a></b><br>
@@ -292,14 +298,14 @@
 <sub>個人サイトを、地球からブラックホールまでのスクロール旅として作り直したもの。</sub><br>
 <sub><a href="https://fablelist.000ooo.ooo/ja/prompts/?w=one-way-trip-to-a-black-hole&ref=gh"><b>✨ プロンプトを入手</b></a></sub>
 </td>
+</tr>
+<tr>
 <td width="33%" valign="top">
 <a href="https://madebysourasith-sudo.github.io/red-wing-jet/"><img src="../assets/gifs/265.gif" width="100%" alt="Red Wing プライベートジェット"></a><br>
 <b><a href="https://madebysourasith-sudo.github.io/red-wing-jet/">Red Wing プライベートジェット</a></b><br>
 <sub><a href="https://x.com/titepommee">@titepommee</a> · ♥ 8 · <a href="https://x.com/titepommee/status/2121259736217911357">▶ 動画</a></sub><br>
 <sub>ジェットの周りを歩き、ドアをクリックするとタラップが降り、乗り込める：ラウンジ、ベッドルーム、バスルームまで。</sub>
 </td>
-</tr>
-<tr>
 <td width="33%" valign="top">
 <a href="https://davinci-mechanics.vercel.app/"><img src="../assets/gifs/289.gif" width="100%" alt="ダ・ヴィンチの生きた手稿"></a><br>
 <b><a href="https://davinci-mechanics.vercel.app/">ダ・ヴィンチの生きた手稿</a></b><br>
@@ -314,6 +320,8 @@
 <sub>約 20,000 個の小惑星が周回。お使いのデバイスが 30 fps を下回るまで岩を増やし続ける。</sub><br>
 <sub><a href="https://fablelist.000ooo.ooo/ja/prompts/?w=belt-stress-test&ref=gh"><b>✨ プロンプトを入手</b></a></sub>
 </td>
+</tr>
+<tr>
 <td width="33%" valign="top">
 <a href="https://claude.ai/artifact/BCDCNHRTq3y9W4Px3xc4DN"><img src="../assets/gifs/030.gif" width="100%" alt="巨大カタツムリの上の集落"></a><br>
 <b><a href="https://claude.ai/artifact/BCDCNHRTq3y9W4Px3xc4DN">巨大カタツムリの上の集落</a></b><br>
@@ -321,14 +329,18 @@
 <sub>「HTML ファイル 1 つで 3D の城を生き生きと」。手書きの WebGL2、ライブラリなし、約 5,500 本の木、昼夜サイクル。</sub><br>
 <sub><a href="https://x.com/L34342Lin/status/2120030246108066195">📝 作者公開のプロンプト（無料）</a></sub>
 </td>
-</tr>
-<tr>
 <td width="33%" valign="top">
 <a href="https://claude.ai/artifact/UqU4w7jSr6pzF2McsbyQjJ"><img src="../assets/gifs/031.gif" width="100%" alt="木造五重塔の変身"></a><br>
 <b><a href="https://claude.ai/artifact/UqU4w7jSr6pzF2McsbyQjJ">木造五重塔の変身</a></b><br>
 <sub><a href="https://x.com/acupofai">@acupofai</a> · ♥ 0 · <a href="https://x.com/acupofai/status/2120119243043995748">▶ 動画</a></sub><br>
 <sub>3,357 個のパーツが五重塔に組み上がり、女剣士に変身。音楽はコードで計算。</sub><br>
 <sub><a href="https://fablelist.000ooo.ooo/ja/prompts/?w=wooden-pagoda-transformation&ref=gh"><b>✨ プロンプトを入手</b></a></sub>
+</td>
+<td width="33%" valign="top">
+<a href="https://cyrilremacle-byte.github.io/francis-turbine-explorer/"><img src="../assets/gifs/355.gif" width="100%" alt="Francis Turbine Explorer"></a><br>
+<b><a href="https://cyrilremacle-byte.github.io/francis-turbine-explorer/">Francis Turbine Explorer</a></b><br>
+<sub>🆕 · <a href="https://x.com/cyril_remacle">@cyril_remacle</a> · ♥ 0 · <a href="https://x.com/cyril_remacle/status/2122048423528485116">投稿</a></sub><br>
+<sub>切り開いたり分解したり、自分で動かしたりできるインタラクティブな 3D フランシス水車。ガイドツアー、分解図、リアルタイム発電量計算機付き。英語とフランス語に対応。</sub>
 </td>
 </tr>
 </table>

@@ -20,18 +20,18 @@
 <sub>猫が植物園を歩き、匂いを嗅ぎ、飛びかかる 110 秒のワンカット映像。映像は専用に書かれたパストレーサー、音は numpy で合成、素材は一切なし。</sub>
 </td>
 <td width="33%" valign="top">
-<a href="https://github.com/amirmushichge/shred-kit"><img src="../assets/gifs/269.gif" width="100%" alt="Shred Kit ペーパーシュレッダーのテンプレート"></a><br>
-<b><a href="https://github.com/amirmushichge/shred-kit">Shred Kit ペーパーシュレッダーのテンプレート</a></b><br>
-<sub><a href="https://x.com/AmirMushich">@AmirMushich</a> · ♥ 432 · <a href="https://x.com/AmirMushich/status/2121339167800213934">▶ 動画</a></sub><br>
-<sub>Fable 5.2 と Blender で作った 8 秒のペーパーシュレッダーリール。無料テンプレートとして公開。</sub>
+<a href="https://github.com/moritzkremb/robovac-pov"><img src="../assets/gifs/334.gif" width="100%" alt="Robovac POV：ロボット掃除機目線のリアルな映像"></a><br>
+<b><a href="https://github.com/moritzkremb/robovac-pov">Robovac POV：ロボット掃除機目線のリアルな映像</a></b><br>
+<sub>🆕 · <a href="https://x.com/moritzkremb">@moritzkremb</a> · ♥ 442 · <a href="https://x.com/moritzkremb/status/2122702891819377117">▶ 動画</a></sub><br>
+<sub>コードだけで作った 53 秒の映像。C++ で書いた世界、自作の GPU パストレーサー、フォーカスやモーションブラー、粒状感まで再現したカメラ、約 900,000 本の繊維でできたラグ、音は Python で合成。</sub>
 </td>
 </tr>
 <tr>
 <td width="33%" valign="top">
-<a href="https://github.com/moritzkremb/robovac-pov"><img src="../assets/gifs/334.gif" width="100%" alt="Robovac POV：ロボット掃除機目線のリアルな映像"></a><br>
-<b><a href="https://github.com/moritzkremb/robovac-pov">Robovac POV：ロボット掃除機目線のリアルな映像</a></b><br>
-<sub>🆕 · <a href="https://x.com/moritzkremb">@moritzkremb</a> · ♥ 416 · <a href="https://x.com/moritzkremb/status/2122702891819377117">▶ 動画</a></sub><br>
-<sub>コードだけで作った 53 秒の映像。C++ で書いた世界、自作の GPU パストレーサー、フォーカスやモーションブラー、粒状感まで再現したカメラ、約 900,000 本の繊維でできたラグ、音は Python で合成。</sub>
+<a href="https://github.com/amirmushichge/shred-kit"><img src="../assets/gifs/269.gif" width="100%" alt="Shred Kit ペーパーシュレッダーのテンプレート"></a><br>
+<b><a href="https://github.com/amirmushichge/shred-kit">Shred Kit ペーパーシュレッダーのテンプレート</a></b><br>
+<sub><a href="https://x.com/AmirMushich">@AmirMushich</a> · ♥ 432 · <a href="https://x.com/AmirMushich/status/2121339167800213934">▶ 動画</a></sub><br>
+<sub>Fable 5.2 と Blender で作った 8 秒のペーパーシュレッダーリール。無料テンプレートとして公開。</sub>
 </td>
 <td width="33%" valign="top">
 <a href="https://github.com/ChetasLua/pelican-riding-a-bicycle"><img src="../assets/gifs/150.gif" width="100%" alt="The Pelican, Tired of the Road"></a><br>
@@ -44,7 +44,7 @@
 <td width="33%" valign="top">
 <a href="https://github.com/Leonxlnx/mechanical-moon"><img src="../assets/gifs/336.gif" width="100%" alt="Mechanical Moon"></a><br>
 <b><a href="https://github.com/Leonxlnx/mechanical-moon">Mechanical Moon</a></b><br>
-<sub>🆕 · <a href="https://x.com/LexnLin">@LexnLin</a> · ♥ 351 · <a href="https://x.com/LexnLin/status/2122823164635881853">▶ 動画</a></sub><br>
+<sub>🆕 · <a href="https://x.com/LexnLin">@LexnLin</a> · ♥ 352 · <a href="https://x.com/LexnLin/status/2122823164635881853">▶ 動画</a></sub><br>
 <sub>割れた月の内部に金色のゼンマイ仕掛けの巨大構造物がある、45 秒のプロシージャル Blender 映像。すべて Python スクリプトで作り、EEVEE でレンダリング。</sub>
 </td>
 </tr>
@@ -93,22 +93,22 @@
 </tr>
 <tr>
 <td width="33%" valign="top">
+<a href="https://github.com/ChetasLua/the-last-good-pelican-fable-5.2"><img src="../assets/gifs/352.gif" width="100%" alt="The Last Good Pelican"></a><br>
+<b><a href="https://github.com/ChetasLua/the-last-good-pelican-fable-5.2">The Last Good Pelican</a></b><br>
+<sub>🆕 · <a href="https://x.com/chetaslua">@chetaslua</a> · ♥ 134 · <a href="https://x.com/chetaslua/status/2123100140189958401">▶ 動画</a></sub><br>
+<sub>オフラインで動く HTML ファイル 1 つに収まった、手描き風の 60 秒短編。ベンチマーク用のペリカンのうち唯一うまく描かれた一羽の、ある一日。絵はすべて Canvas 2D、音はすべて Web Audio。</sub>
+</td>
+<td width="33%" valign="top">
 <a href="https://github.com/anstapnever/blackout"><img src="../assets/gifs/052.gif" width="100%" alt="Blackout"></a><br>
 <b><a href="https://github.com/anstapnever/blackout">Blackout</a></b><br>
-<sub><a href="https://x.com/anstapnever">@anstapnever</a> · ♥ 118 · <a href="https://x.com/anstapnever/status/2119915123070644263">▶ 動画</a></sub><br>
+<sub><a href="https://x.com/anstapnever">@anstapnever</a> · ♥ 119 · <a href="https://x.com/anstapnever/status/2119915123070644263">▶ 動画</a></sub><br>
 <sub>すべてコードで作った 79 秒のアニメ短編。</sub><br>
 <sub><a href="https://x.com/anstapnever/status/2119915123070644263">📝 作者公開のプロンプト（無料）</a></sub>
 </td>
 <td width="33%" valign="top">
-<a href="https://github.com/ChetasLua/the-last-good-pelican-fable-5.2"><img src="../assets/gifs/352.gif" width="100%" alt="The Last Good Pelican"></a><br>
-<b><a href="https://github.com/ChetasLua/the-last-good-pelican-fable-5.2">The Last Good Pelican</a></b><br>
-<sub>🆕 · <a href="https://x.com/chetaslua">@chetaslua</a> · ♥ 107 · <a href="https://x.com/chetaslua/status/2123100140189958401">▶ 動画</a></sub><br>
-<sub>オフラインで動く HTML ファイル 1 つに収まった、手描き風の 60 秒短編。ベンチマーク用のペリカンのうち唯一うまく描かれた一羽の、ある一日。絵はすべて Canvas 2D、音はすべて Web Audio。</sub>
-</td>
-<td width="33%" valign="top">
 <a href="https://github.com/Leonxlnx/koi-pond-keycap"><img src="../assets/gifs/351.gif" width="100%" alt="Koi Pond Keycap"></a><br>
 <b><a href="https://github.com/Leonxlnx/koi-pond-keycap">Koi Pond Keycap</a></b><br>
-<sub>🆕 · <a href="https://x.com/LexnLin">@LexnLin</a> · ♥ 72 · <a href="https://x.com/LexnLin/status/2123174205306908806">▶ 動画</a></sub><br>
+<sub>🆕 · <a href="https://x.com/LexnLin">@LexnLin</a> · ♥ 105 · <a href="https://x.com/LexnLin/status/2123174205306908806">▶ 動画</a></sub><br>
 <sub>透明なレジンのキーキャップの中に鯉の池がある 45 秒の Blender 映像。指がキーを押すと波紋が水面を走り、鯉がさっと散る。すべて Python によるプロシージャル生成で、外部のモデルやテクスチャは不使用。</sub>
 </td>
 </tr>

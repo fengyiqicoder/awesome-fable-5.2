@@ -1,4 +1,4 @@
-# 🧰 网页与工具 · 全部 44 个
+# 🧰 网页与工具 · 全部 45 个
 
 [← 回到首页](../README.zh-CN.md) · [English](web-and-tools.md) · **简体中文** · [繁體中文](web-and-tools.zh-TW.md) · [日本語](web-and-tools.ja.md) · [한국어](web-and-tools.ko.md) · [Español](web-and-tools.es.md) · [Português](web-and-tools.pt-BR.md) · [Français](web-and-tools.fr.md) · [Deutsch](web-and-tools.de.md) · [Русский](web-and-tools.ru.md)
 
@@ -125,23 +125,29 @@
 <td width="33%" valign="top">
 <a href="https://omage1.xyz"><img src="../assets/gifs/337.gif" width="100%" alt="omage-1 浏览器里的 OP-1 Field 合成器"></a><br>
 <b><a href="https://omage1.xyz">omage-1 浏览器里的 OP-1 Field 合成器</a></b><br>
-<sub>🆕 · <a href="https://x.com/jamesmbickerton">@jamesmbickerton</a> · ♥ 561 · <a href="https://x.com/jamesmbickerton/status/2122688041219133815">▶ 视频</a></sub><br>
+<sub>🆕 · <a href="https://x.com/jamesmbickerton">@jamesmbickerton</a> · ♥ 567 · <a href="https://x.com/jamesmbickerton/status/2122688041219133815">▶ 视频</a></sub><br>
 <sub>把 Teenage Engineering 的 OP-1 Field 做成浏览器应用的非官方致敬版，打开就能弹</sub>
 </td>
 <td width="33%" valign="top">
 <a href="https://claude.ai/artifact/4P1urBdptp6gWiJo3R6Vpv"><img src="../assets/gifs/333.gif" width="100%" alt="Breakcore 视频采样器"></a><br>
 <b><a href="https://claude.ai/artifact/4P1urBdptp6gWiJo3R6Vpv">Breakcore 视频采样器</a></b><br>
-<sub>🆕 · <a href="https://x.com/parhelion318">@parhelion318</a> · ♥ 540 · <a href="https://x.com/parhelion318/status/2122723067533398064">▶ 视频</a></sub><br>
+<sub>🆕 · <a href="https://x.com/parhelion318">@parhelion318</a> · ♥ 541 · <a href="https://x.com/parhelion318/status/2122723067533398064">▶ 视频</a></sub><br>
 <sub>在浏览器里把视频片段切碎、重排成 breakcore 节奏的采样器</sub>
 </td>
 <td width="33%" valign="top">
-<a href="https://www.bubbbly.com/christmas-cards"><img src="../assets/gifs/315.gif" width="100%" alt="Christmas Cards 互动圣诞贺卡"></a><br>
-<b><a href="https://www.bubbbly.com/christmas-cards">Christmas Cards 互动圣诞贺卡</a></b><br>
-<sub>🆕 · <a href="https://x.com/ann_nnng">@ann_nnng</a> · ♥ 473 · <a href="https://x.com/ann_nnng/status/2122283549000712249">▶ 视频</a></sub><br>
-<sub>一组可以互动的圣诞贺卡，比如围红围巾的猫在窗台上看雪</sub>
+<a href="https://hexagonal.earth"><img src="../assets/gifs/349.gif" width="100%" alt="Hexagonal Earth 六边形拼成的地球沙盘"></a><br>
+<b><a href="https://hexagonal.earth">Hexagonal Earth 六边形拼成的地球沙盘</a></b><br>
+<sub>🆕 · <a href="https://x.com/avsa">@avsa</a> · ♥ 495 · <a href="https://x.com/avsa/status/2123123638551392755">原帖</a></sub><br>
+<sub>用海拔、洋深、湿度、风、河流等真实数据搭出的六边形世界地图；上面几百种小物件是 Fable 5.2 一个个生成的 3D 像素点云，再由它自己摆进场景</sub>
 </td>
 </tr>
 <tr>
+<td width="33%" valign="top">
+<a href="https://www.bubbbly.com/christmas-cards"><img src="../assets/gifs/315.gif" width="100%" alt="Christmas Cards 互动圣诞贺卡"></a><br>
+<b><a href="https://www.bubbbly.com/christmas-cards">Christmas Cards 互动圣诞贺卡</a></b><br>
+<sub>🆕 · <a href="https://x.com/ann_nnng">@ann_nnng</a> · ♥ 474 · <a href="https://x.com/ann_nnng/status/2122283549000712249">▶ 视频</a></sub><br>
+<sub>一组可以互动的圣诞贺卡，比如围红围巾的猫在窗台上看雪</sub>
+</td>
 <td width="33%" valign="top">
 <a href="https://where-is-everybody-fermi.netlify.app/"><img src="../assets/gifs/146.gif" width="100%" alt="Where is everybody? 费米悖论调查"></a><br>
 <b><a href="https://where-is-everybody-fermi.netlify.app/">Where is everybody? 费米悖论调查</a></b><br>
@@ -157,15 +163,15 @@
 <sub>买票前看 RAMS Park 每个看台位置看到的球场</sub><br>
 <sub><a href="https://fablelist.000ooo.ooo/zh/prompts/?w=galatasaray-seat-view&ref=gh"><b>✨ 获取提示词</b></a></sub>
 </td>
+</tr>
+<tr>
 <td width="33%" valign="top">
 <a href="https://rubber-hose-ui.vercel.app"><img src="../assets/gifs/332.gif" width="100%" alt="Rubber Hose UI 1930 年代卡通风控件"></a><br>
 <b><a href="https://rubber-hose-ui.vercel.app">Rubber Hose UI 1930 年代卡通风控件</a></b><br>
-<sub>🆕 · <a href="https://x.com/crtvTeknologist">@crtvTeknologist</a> · ♥ 349 · <a href="https://x.com/crtvTeknologist/status/2122433522166124616">▶ 视频</a></sub><br>
+<sub>🆕 · <a href="https://x.com/crtvTeknologist">@crtvTeknologist</a> · ♥ 350 · <a href="https://x.com/crtvTeknologist/status/2122433522166124616">▶ 视频</a></sub><br>
 <sub>11 个网页控件全是橡皮管卡通角色：滑块是长号，提示框是烤面包机，按钮每按一次多一只黑眼圈；原生 JS 加 canvas，无依赖，开源</sub><br>
 <sub><a href="https://github.com/finktheartist/rubber-hose-ui">源码</a></sub>
 </td>
-</tr>
-<tr>
 <td width="33%" valign="top">
 <a href="https://origamihelper.com"><img src="../assets/gifs/220.gif" width="100%" alt="Origami Helper 3D 折纸教程"></a><br>
 <b><a href="https://origamihelper.com">Origami Helper 3D 折纸教程</a></b><br>
@@ -179,12 +185,6 @@
 <sub><a href="https://x.com/clairevo">@clairevo</a> · ♥ 205 · <a href="https://x.com/clairevo/status/2119905651359142132">▶ 视频</a></sub><br>
 <sub>能打字、计时、涂改液、自动更正的完整打字机</sub><br>
 <sub><a href="https://fablelist.000ooo.ooo/zh/prompts/?w=typed&ref=gh"><b>✨ 获取提示词</b></a></sub>
-</td>
-<td width="33%" valign="top">
-<a href="https://hexagonal.earth"><img src="../assets/gifs/349.gif" width="100%" alt="Hexagonal Earth 六边形拼成的地球沙盘"></a><br>
-<b><a href="https://hexagonal.earth">Hexagonal Earth 六边形拼成的地球沙盘</a></b><br>
-<sub>🆕 · <a href="https://x.com/avsa">@avsa</a> · ♥ 181 · <a href="https://x.com/avsa/status/2123123638551392755">原帖</a></sub><br>
-<sub>用海拔、洋深、湿度、风、河流等真实数据搭出的六边形世界地图；上面几百种小物件是 Fable 5.2 一个个生成的 3D 像素点云，再由它自己摆进场景</sub>
 </td>
 </tr>
 <tr>
@@ -255,6 +255,12 @@
 </tr>
 <tr>
 <td width="33%" valign="top">
+<a href="http://promptronic3000.com"><img src="../assets/gifs/358.gif" width="100%" alt="Promptronic 3000 Agent 模块合成器"></a><br>
+<b><a href="http://promptronic3000.com">Promptronic 3000 Agent 模块合成器</a></b><br>
+<sub>🆕 · <a href="https://x.com/fabianstelzer">@fabianstelzer</a> · ♥ 44 · <a href="https://x.com/fabianstelzer/status/2123121678670520627">▶ 视频</a></sub><br>
+<sub>网页模块合成器：通过 MCP 接上 Claude 等 Agent，用一句话连出音色，连模块本身也能让它现写；音色和模块都能用网址分享</sub>
+</td>
+<td width="33%" valign="top">
 <a href="https://ai.itokoba.com/ichimai/"><img src="../assets/gifs/260.gif" width="100%" alt="一枚：一页能做到什么程度"></a><br>
 <b><a href="https://ai.itokoba.com/ichimai/">一枚：一页能做到什么程度</a></b><br>
 <sub><a href="https://x.com/hideki_climax">@hideki_climax</a> · ♥ 12 · <a href="https://x.com/hideki_climax/status/2120165464722809190">▶ 视频</a></sub><br>
@@ -268,6 +274,8 @@
 <sub>把 Intel 4004 的 2,242 个晶体管逐个弄坏再跑测试，做成一张可以悬停查看「坏了这个会怎样」的芯片地图</sub><br>
 <sub><a href="https://github.com/rain-1/intel4004">源码</a></sub>
 </td>
+</tr>
+<tr>
 <td width="33%" valign="top">
 <a href="https://jwt-designs-preview.noone-697.workers.dev/"><img src="../assets/gifs/046.gif" width="100%" alt="JWT 落地页 20 种改版"></a><br>
 <b><a href="https://jwt-designs-preview.noone-697.workers.dev/">JWT 落地页 20 种改版</a></b><br>
@@ -275,8 +283,6 @@
 <sub>一条简单提示词出 20 版</sub><br>
 <sub><a href="https://x.com/Tmeister/status/2119983842841018482">📝 作者公开的提示词（免费）</a></sub>
 </td>
-</tr>
-<tr>
 <td width="33%" valign="top">
 <a href="https://www.asumacodes.xyz/arena/driftwood"><img src="../assets/gifs/047.gif" width="100%" alt="Driftwood 落地页（Fable 对 Opus）"></a><br>
 <b><a href="https://www.asumacodes.xyz/arena/driftwood">Driftwood 落地页（Fable 对 Opus）</a></b><br>
@@ -291,6 +297,8 @@
 <sub><a href="https://x.com/seanaiux">@seanaiux</a> · ♥ 8 · <a href="https://x.com/seanaiux/status/2121688869439455410">▶ 视频</a></sub><br>
 <sub>让它做一个能吓到自己的网页：一只蜘蛛从黑暗里垂下，滚动页面一路看它的巢、眼睛、毒牙和腿，最后你成了那只苍蝇</sub>
 </td>
+</tr>
+<tr>
 <td width="33%" valign="top">
 <a href="https://claude.ai/artifact/TiymxxFXzMo7xhWUaecbzk"><img src="https://pbs.twimg.com/media/HWwrmvIb0AAMLPK.jpg?name=small" width="100%" alt="独栋住宅设计提案书"></a><br>
 <b><a href="https://claude.ai/artifact/TiymxxFXzMo7xhWUaecbzk">独栋住宅设计提案书</a></b><br>
@@ -298,8 +306,6 @@
 <sub>韩文，一天做完</sub><br>
 <sub><a href="https://fablelist.000ooo.ooo/zh/prompts/?w=house-design-proposal&ref=gh"><b>✨ 获取提示词</b></a></sub>
 </td>
-</tr>
-<tr>
 <td width="33%" valign="top">
 <a href="https://claude.ai/artifact/9yQkezie4jY3oz2YDLFDiq"><img src="../assets/gifs/040.gif" width="100%" alt="鼓组网站"></a><br>
 <b><a href="https://claude.ai/artifact/9yQkezie4jY3oz2YDLFDiq">鼓组网站</a></b><br>
@@ -314,6 +320,8 @@
 <sub>一次生成</sub><br>
 <sub><a href="https://fablelist.000ooo.ooo/zh/prompts/?w=dub-techno-track-visualizer&ref=gh"><b>✨ 获取提示词</b></a></sub>
 </td>
+</tr>
+<tr>
 <td width="33%" valign="top">
 <a href="https://claude.ai/artifact/5ufHvxgvXTf5YgQeTR8TbG"><img src="../assets/gifs/044.gif" width="100%" alt="《罗摩衍那》男主的宝莱坞家谱"></a><br>
 <b><a href="https://claude.ai/artifact/5ufHvxgvXTf5YgQeTR8TbG">《罗摩衍那》男主的宝莱坞家谱</a></b><br>
@@ -321,8 +329,6 @@
 <sub>血缘婚姻牵出 65 位明星</sub><br>
 <sub><a href="https://fablelist.000ooo.ooo/zh/prompts/?w=ramayana-family-tree&ref=gh"><b>✨ 获取提示词</b></a></sub>
 </td>
-</tr>
-<tr>
 <td width="33%" valign="top">
 <a href="https://claude.ai/artifact/4aEy6FtUi7jrm9U7uYgp8K"><img src="../assets/gifs/042.gif" width="100%" alt="Demoscene 浏览器演示"></a><br>
 <b><a href="https://claude.ai/artifact/4aEy6FtUi7jrm9U7uYgp8K">Demoscene 浏览器演示</a></b><br>

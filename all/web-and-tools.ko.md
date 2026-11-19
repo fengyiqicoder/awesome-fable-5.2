@@ -1,4 +1,4 @@
-# 🧰 웹 페이지와 도구 · 전체 44개
+# 🧰 웹 페이지와 도구 · 전체 45개
 
 [← 메인 목록으로](../README.ko.md) · [English](web-and-tools.md) · [简体中文](web-and-tools.zh-CN.md) · [繁體中文](web-and-tools.zh-TW.md) · [日本語](web-and-tools.ja.md) · **한국어** · [Español](web-and-tools.es.md) · [Português](web-and-tools.pt-BR.md) · [Français](web-and-tools.fr.md) · [Deutsch](web-and-tools.de.md) · [Русский](web-and-tools.ru.md)
 
@@ -125,23 +125,29 @@
 <td width="33%" valign="top">
 <a href="https://omage1.xyz"><img src="../assets/gifs/337.gif" width="100%" alt="omage-1: 브라우저 속 OP-1 Field 신시사이저"></a><br>
 <b><a href="https://omage1.xyz">omage-1: 브라우저 속 OP-1 Field 신시사이저</a></b><br>
-<sub>🆕 · <a href="https://x.com/jamesmbickerton">@jamesmbickerton</a> · ♥ 561 · <a href="https://x.com/jamesmbickerton/status/2122688041219133815">▶ 영상</a></sub><br>
+<sub>🆕 · <a href="https://x.com/jamesmbickerton">@jamesmbickerton</a> · ♥ 567 · <a href="https://x.com/jamesmbickerton/status/2122688041219133815">▶ 영상</a></sub><br>
 <sub>Teenage Engineering의 OP-1 Field를 브라우저 앱으로 다시 만든 비공식 오마주. 열자마자 연주할 수 있다.</sub>
 </td>
 <td width="33%" valign="top">
 <a href="https://claude.ai/artifact/4P1urBdptp6gWiJo3R6Vpv"><img src="../assets/gifs/333.gif" width="100%" alt="Breakcore 비디오 샘플러"></a><br>
 <b><a href="https://claude.ai/artifact/4P1urBdptp6gWiJo3R6Vpv">Breakcore 비디오 샘플러</a></b><br>
-<sub>🆕 · <a href="https://x.com/parhelion318">@parhelion318</a> · ♥ 540 · <a href="https://x.com/parhelion318/status/2122723067533398064">▶ 영상</a></sub><br>
+<sub>🆕 · <a href="https://x.com/parhelion318">@parhelion318</a> · ♥ 541 · <a href="https://x.com/parhelion318/status/2122723067533398064">▶ 영상</a></sub><br>
 <sub>영상 클립을 잘게 잘라 breakcore 리듬으로 재배열하는 브라우저 샘플러.</sub>
 </td>
 <td width="33%" valign="top">
-<a href="https://www.bubbbly.com/christmas-cards"><img src="../assets/gifs/315.gif" width="100%" alt="Christmas Cards: 인터랙티브 크리스마스 카드"></a><br>
-<b><a href="https://www.bubbbly.com/christmas-cards">Christmas Cards: 인터랙티브 크리스마스 카드</a></b><br>
-<sub>🆕 · <a href="https://x.com/ann_nnng">@ann_nnng</a> · ♥ 473 · <a href="https://x.com/ann_nnng/status/2122283549000712249">▶ 영상</a></sub><br>
-<sub>인터랙티브 크리스마스 카드 모음. 빨간 목도리를 두른 고양이가 창가에서 내리는 눈을 바라보는 카드 등이 있다.</sub>
+<a href="https://hexagonal.earth"><img src="../assets/gifs/349.gif" width="100%" alt="Hexagonal Earth"></a><br>
+<b><a href="https://hexagonal.earth">Hexagonal Earth</a></b><br>
+<sub>🆕 · <a href="https://x.com/avsa">@avsa</a> · ♥ 495 · <a href="https://x.com/avsa/status/2123123638551392755">게시물</a></sub><br>
+<sub>실제 고도, 해양 수심, 습도, 바람, 하천 데이터로 만든 육각형 기반의 세계 디오라마. Fable 5.2가 수백 개의 작은 3D 픽셀 스플랫 오브젝트를 생성하고 직접 장면에 배치했다.</sub>
 </td>
 </tr>
 <tr>
+<td width="33%" valign="top">
+<a href="https://www.bubbbly.com/christmas-cards"><img src="../assets/gifs/315.gif" width="100%" alt="Christmas Cards: 인터랙티브 크리스마스 카드"></a><br>
+<b><a href="https://www.bubbbly.com/christmas-cards">Christmas Cards: 인터랙티브 크리스마스 카드</a></b><br>
+<sub>🆕 · <a href="https://x.com/ann_nnng">@ann_nnng</a> · ♥ 474 · <a href="https://x.com/ann_nnng/status/2122283549000712249">▶ 영상</a></sub><br>
+<sub>인터랙티브 크리스마스 카드 모음. 빨간 목도리를 두른 고양이가 창가에서 내리는 눈을 바라보는 카드 등이 있다.</sub>
+</td>
 <td width="33%" valign="top">
 <a href="https://where-is-everybody-fermi.netlify.app/"><img src="../assets/gifs/146.gif" width="100%" alt="Where Is Everybody?"></a><br>
 <b><a href="https://where-is-everybody-fermi.netlify.app/">Where Is Everybody?</a></b><br>
@@ -157,15 +163,15 @@
 <sub>티켓을 사기 전에 RAMS Park의 모든 블록에서 경기장이 어떻게 보이는지 확인하세요.</sub><br>
 <sub><a href="https://fablelist.000ooo.ooo/ko/prompts/?w=galatasaray-seat-view&ref=gh"><b>✨ 프롬프트 받기</b></a></sub>
 </td>
+</tr>
+<tr>
 <td width="33%" valign="top">
 <a href="https://rubber-hose-ui.vercel.app"><img src="../assets/gifs/332.gif" width="100%" alt="Rubber Hose UI: 1930년대 만화 캐릭터 컨트롤"></a><br>
 <b><a href="https://rubber-hose-ui.vercel.app">Rubber Hose UI: 1930년대 만화 캐릭터 컨트롤</a></b><br>
-<sub>🆕 · <a href="https://x.com/crtvTeknologist">@crtvTeknologist</a> · ♥ 349 · <a href="https://x.com/crtvTeknologist/status/2122433522166124616">▶ 영상</a></sub><br>
+<sub>🆕 · <a href="https://x.com/crtvTeknologist">@crtvTeknologist</a> · ♥ 350 · <a href="https://x.com/crtvTeknologist/status/2122433522166124616">▶ 영상</a></sub><br>
 <sub>웹 컨트롤 11개를 러버 호스 만화로 그렸다. 슬라이더는 트롬본, 토스트는 토스터, 버튼은 누를 때마다 눈에 멍이 든다. 순수 JS와 canvas, 의존성 없음, 오픈소스.</sub><br>
 <sub><a href="https://github.com/finktheartist/rubber-hose-ui">소스 코드</a></sub>
 </td>
-</tr>
-<tr>
 <td width="33%" valign="top">
 <a href="https://origamihelper.com"><img src="../assets/gifs/220.gif" width="100%" alt="Origami Helper"></a><br>
 <b><a href="https://origamihelper.com">Origami Helper</a></b><br>
@@ -179,12 +185,6 @@
 <sub><a href="https://x.com/clairevo">@clairevo</a> · ♥ 205 · <a href="https://x.com/clairevo/status/2119905651359142132">▶ 영상</a></sub><br>
 <sub>완전히 작동하는 타자기: 입력하거나 키를 클릭, 글쓰기 타이머, 수정액, 자동 교정.</sub><br>
 <sub><a href="https://fablelist.000ooo.ooo/ko/prompts/?w=typed&ref=gh"><b>✨ 프롬프트 받기</b></a></sub>
-</td>
-<td width="33%" valign="top">
-<a href="https://hexagonal.earth"><img src="../assets/gifs/349.gif" width="100%" alt="Hexagonal Earth"></a><br>
-<b><a href="https://hexagonal.earth">Hexagonal Earth</a></b><br>
-<sub>🆕 · <a href="https://x.com/avsa">@avsa</a> · ♥ 181 · <a href="https://x.com/avsa/status/2123123638551392755">게시물</a></sub><br>
-<sub>실제 고도, 해양 수심, 습도, 바람, 하천 데이터로 만든 육각형 기반의 세계 디오라마. Fable 5.2가 수백 개의 작은 3D 픽셀 스플랫 오브젝트를 생성하고 직접 장면에 배치했다.</sub>
 </td>
 </tr>
 <tr>
@@ -255,6 +255,12 @@
 </tr>
 <tr>
 <td width="33%" valign="top">
+<a href="http://promptronic3000.com"><img src="../assets/gifs/358.gif" width="100%" alt="Promptronic 3000"></a><br>
+<b><a href="http://promptronic3000.com">Promptronic 3000</a></b><br>
+<sub>🆕 · <a href="https://x.com/fabianstelzer">@fabianstelzer</a> · ♥ 44 · <a href="https://x.com/fabianstelzer/status/2123121678670520627">▶ 영상</a></sub><br>
+<sub>웹에서 쓰는 에이전트형 모듈러 신시사이저. MCP로 Claude 같은 Agent를 연결해 패치나 새 모듈까지 말로 만들고, URL로 공유한다.</sub>
+</td>
+<td width="33%" valign="top">
 <a href="https://ai.itokoba.com/ichimai/"><img src="../assets/gifs/260.gif" width="100%" alt="Ichimai — 한 페이지는 어디까지 갈 수 있을까"></a><br>
 <b><a href="https://ai.itokoba.com/ichimai/">Ichimai — 한 페이지는 어디까지 갈 수 있을까</a></b><br>
 <sub><a href="https://x.com/hideki_climax">@hideki_climax</a> · ♥ 12 · <a href="https://x.com/hideki_climax/status/2120165464722809190">▶ 영상</a></sub><br>
@@ -268,6 +274,8 @@
 <sub>트랜지스터 수준 시뮬레이션에서 Intel 4004의 트랜지스터 2,242개를 하나씩 고장 냈다. 칩 지도에서 트랜지스터에 마우스를 올리면 무엇이 멈추는지 볼 수 있다.</sub><br>
 <sub><a href="https://github.com/rain-1/intel4004">소스 코드</a></sub>
 </td>
+</tr>
+<tr>
 <td width="33%" valign="top">
 <a href="https://jwt-designs-preview.noone-697.workers.dev/"><img src="../assets/gifs/046.gif" width="100%" alt="랜딩 페이지 리디자인 20종"></a><br>
 <b><a href="https://jwt-designs-preview.noone-697.workers.dev/">랜딩 페이지 리디자인 20종</a></b><br>
@@ -275,8 +283,6 @@
 <sub>간단한 프롬프트 하나로 JWT 플러그인 랜딩 페이지의 대안 20개.</sub><br>
 <sub><a href="https://x.com/Tmeister/status/2119983842841018482">📝 제작자 공개 프롬프트 (무료)</a></sub>
 </td>
-</tr>
-<tr>
 <td width="33%" valign="top">
 <a href="https://www.asumacodes.xyz/arena/driftwood"><img src="../assets/gifs/047.gif" width="100%" alt="Driftwood (Fable vs Opus)"></a><br>
 <b><a href="https://www.asumacodes.xyz/arena/driftwood">Driftwood (Fable vs Opus)</a></b><br>
@@ -291,6 +297,8 @@
 <sub><a href="https://x.com/seanaiux">@seanaiux</a> · ♥ 8 · <a href="https://x.com/seanaiux/status/2121688869439455410">▶ 영상</a></sub><br>
 <sub>자신을 겁먹게 할 웹사이트를 만들어 달라고 했더니: 어둠에서 거미가 내려오고, 스크롤을 따라 거미줄, 눈, 송곳니, 다리를 지나 마지막엔 당신이 파리가 됩니다.</sub>
 </td>
+</tr>
+<tr>
 <td width="33%" valign="top">
 <a href="https://claude.ai/artifact/TiymxxFXzMo7xhWUaecbzk"><img src="https://pbs.twimg.com/media/HWwrmvIb0AAMLPK.jpg?name=small" width="100%" alt="주택 설계 제안서"></a><br>
 <b><a href="https://claude.ai/artifact/TiymxxFXzMo7xhWUaecbzk">주택 설계 제안서</a></b><br>
@@ -298,8 +306,6 @@
 <sub>단독주택 설계 제안서(한국어), 하루 만에 제작.</sub><br>
 <sub><a href="https://fablelist.000ooo.ooo/ko/prompts/?w=house-design-proposal&ref=gh"><b>✨ 프롬프트 받기</b></a></sub>
 </td>
-</tr>
-<tr>
 <td width="33%" valign="top">
 <a href="https://claude.ai/artifact/9yQkezie4jY3oz2YDLFDiq"><img src="../assets/gifs/040.gif" width="100%" alt="Bay Drum Kit"></a><br>
 <b><a href="https://claude.ai/artifact/9yQkezie4jY3oz2YDLFDiq">Bay Drum Kit</a></b><br>
@@ -314,6 +320,8 @@
 <sub>원샷.</sub><br>
 <sub><a href="https://fablelist.000ooo.ooo/ko/prompts/?w=dub-techno-track-visualizer&ref=gh"><b>✨ 프롬프트 받기</b></a></sub>
 </td>
+</tr>
+<tr>
 <td width="33%" valign="top">
 <a href="https://claude.ai/artifact/5ufHvxgvXTf5YgQeTR8TbG"><img src="../assets/gifs/044.gif" width="100%" alt="Ramayana Family Tree"></a><br>
 <b><a href="https://claude.ai/artifact/5ufHvxgvXTf5YgQeTR8TbG">Ramayana Family Tree</a></b><br>
@@ -321,8 +329,6 @@
 <sub>주연 배우와 볼리우드 스타 65명의 혈연·혼인 관계.</sub><br>
 <sub><a href="https://fablelist.000ooo.ooo/ko/prompts/?w=ramayana-family-tree&ref=gh"><b>✨ 프롬프트 받기</b></a></sub>
 </td>
-</tr>
-<tr>
 <td width="33%" valign="top">
 <a href="https://claude.ai/artifact/4aEy6FtUi7jrm9U7uYgp8K"><img src="../assets/gifs/042.gif" width="100%" alt="Demoscene Demo"></a><br>
 <b><a href="https://claude.ai/artifact/4aEy6FtUi7jrm9U7uYgp8K">Demoscene Demo</a></b><br>

@@ -1,4 +1,4 @@
-# 🧰 Páginas web y herramientas · los 44
+# 🧰 Páginas web y herramientas · los 45
 
 [← Volver a la lista](../README.es.md) · [English](web-and-tools.md) · [简体中文](web-and-tools.zh-CN.md) · [繁體中文](web-and-tools.zh-TW.md) · [日本語](web-and-tools.ja.md) · [한국어](web-and-tools.ko.md) · **Español** · [Português](web-and-tools.pt-BR.md) · [Français](web-and-tools.fr.md) · [Deutsch](web-and-tools.de.md) · [Русский](web-and-tools.ru.md)
 
@@ -125,23 +125,29 @@ La página principal muestra como máximo las 24 entradas con más «me gusta» 
 <td width="33%" valign="top">
 <a href="https://omage1.xyz"><img src="../assets/gifs/337.gif" width="100%" alt="omage-1: el sinte OP-1 Field en el navegador"></a><br>
 <b><a href="https://omage1.xyz">omage-1: el sinte OP-1 Field en el navegador</a></b><br>
-<sub>🆕 · <a href="https://x.com/jamesmbickerton">@jamesmbickerton</a> · ♥ 561 · <a href="https://x.com/jamesmbickerton/status/2122688041219133815">▶ Video</a></sub><br>
+<sub>🆕 · <a href="https://x.com/jamesmbickerton">@jamesmbickerton</a> · ♥ 567 · <a href="https://x.com/jamesmbickerton/status/2122688041219133815">▶ Video</a></sub><br>
 <sub>Un homenaje no oficial que reconstruye el OP-1 Field de Teenage Engineering como una app de navegador que puedes tocar al instante.</sub>
 </td>
 <td width="33%" valign="top">
 <a href="https://claude.ai/artifact/4P1urBdptp6gWiJo3R6Vpv"><img src="../assets/gifs/333.gif" width="100%" alt="Sampler de vídeo breakcore"></a><br>
 <b><a href="https://claude.ai/artifact/4P1urBdptp6gWiJo3R6Vpv">Sampler de vídeo breakcore</a></b><br>
-<sub>🆕 · <a href="https://x.com/parhelion318">@parhelion318</a> · ♥ 540 · <a href="https://x.com/parhelion318/status/2122723067533398064">▶ Video</a></sub><br>
+<sub>🆕 · <a href="https://x.com/parhelion318">@parhelion318</a> · ♥ 541 · <a href="https://x.com/parhelion318/status/2122723067533398064">▶ Video</a></sub><br>
 <sub>Un sampler para el navegador que trocea clips de vídeo y los reordena en ritmos breakcore.</sub>
 </td>
 <td width="33%" valign="top">
-<a href="https://www.bubbbly.com/christmas-cards"><img src="../assets/gifs/315.gif" width="100%" alt="Christmas Cards: tarjetas de Navidad interactivas"></a><br>
-<b><a href="https://www.bubbbly.com/christmas-cards">Christmas Cards: tarjetas de Navidad interactivas</a></b><br>
-<sub>🆕 · <a href="https://x.com/ann_nnng">@ann_nnng</a> · ♥ 473 · <a href="https://x.com/ann_nnng/status/2122283549000712249">▶ Video</a></sub><br>
-<sub>Un conjunto de tarjetas de Navidad interactivas, como un gato con bufanda roja en un alféizar viendo caer la nieve.</sub>
+<a href="https://hexagonal.earth"><img src="../assets/gifs/349.gif" width="100%" alt="Hexagonal Earth"></a><br>
+<b><a href="https://hexagonal.earth">Hexagonal Earth</a></b><br>
+<sub>🆕 · <a href="https://x.com/avsa">@avsa</a> · ♥ 495 · <a href="https://x.com/avsa/status/2123123638551392755">Publicación</a></sub><br>
+<sub>Un diorama del mundo entero hecho de hexágonos, construido con datos reales de elevación, profundidad oceánica, humedad, viento y ríos. Fable 5.2 generó cientos de pequeños objetos 3D de splats de píxeles y los colocó en la escena por su cuenta.</sub>
 </td>
 </tr>
 <tr>
+<td width="33%" valign="top">
+<a href="https://www.bubbbly.com/christmas-cards"><img src="../assets/gifs/315.gif" width="100%" alt="Christmas Cards: tarjetas de Navidad interactivas"></a><br>
+<b><a href="https://www.bubbbly.com/christmas-cards">Christmas Cards: tarjetas de Navidad interactivas</a></b><br>
+<sub>🆕 · <a href="https://x.com/ann_nnng">@ann_nnng</a> · ♥ 474 · <a href="https://x.com/ann_nnng/status/2122283549000712249">▶ Video</a></sub><br>
+<sub>Un conjunto de tarjetas de Navidad interactivas, como un gato con bufanda roja en un alféizar viendo caer la nieve.</sub>
+</td>
 <td width="33%" valign="top">
 <a href="https://where-is-everybody-fermi.netlify.app/"><img src="../assets/gifs/146.gif" width="100%" alt="Where Is Everybody?"></a><br>
 <b><a href="https://where-is-everybody-fermi.netlify.app/">Where Is Everybody?</a></b><br>
@@ -157,15 +163,15 @@ La página principal muestra como máximo las 24 entradas con más «me gusta» 
 <sub>Mira la vista de la cancha desde cada sector del RAMS Park antes de comprar un boleto.</sub><br>
 <sub><a href="https://fablelist.000ooo.ooo/es/prompts/?w=galatasaray-seat-view&ref=gh"><b>✨ Consigue el prompt</b></a></sub>
 </td>
+</tr>
+<tr>
 <td width="33%" valign="top">
 <a href="https://rubber-hose-ui.vercel.app"><img src="../assets/gifs/332.gif" width="100%" alt="Rubber Hose UI: controles como dibujos animados de los años 30"></a><br>
 <b><a href="https://rubber-hose-ui.vercel.app">Rubber Hose UI: controles como dibujos animados de los años 30</a></b><br>
-<sub>🆕 · <a href="https://x.com/crtvTeknologist">@crtvTeknologist</a> · ♥ 349 · <a href="https://x.com/crtvTeknologist/status/2122433522166124616">▶ Video</a></sub><br>
+<sub>🆕 · <a href="https://x.com/crtvTeknologist">@crtvTeknologist</a> · ♥ 350 · <a href="https://x.com/crtvTeknologist/status/2122433522166124616">▶ Video</a></sub><br>
 <sub>Once controles web dibujados al estilo rubber hose: el deslizador es un trombón, el toast es una tostadora y al botón le sale un ojo morado con cada pulsación. JS puro y canvas, sin dependencias, de código abierto.</sub><br>
 <sub><a href="https://github.com/finktheartist/rubber-hose-ui">Código fuente</a></sub>
 </td>
-</tr>
-<tr>
 <td width="33%" valign="top">
 <a href="https://origamihelper.com"><img src="../assets/gifs/220.gif" width="100%" alt="Origami Helper"></a><br>
 <b><a href="https://origamihelper.com">Origami Helper</a></b><br>
@@ -179,12 +185,6 @@ La página principal muestra como máximo las 24 entradas con más «me gusta» 
 <sub><a href="https://x.com/clairevo">@clairevo</a> · ♥ 205 · <a href="https://x.com/clairevo/status/2119905651359142132">▶ Video</a></sub><br>
 <sub>Una máquina de escribir totalmente funcional: escribe o haz clic en las teclas, temporizadores de escritura, corrector líquido y autocorrección.</sub><br>
 <sub><a href="https://fablelist.000ooo.ooo/es/prompts/?w=typed&ref=gh"><b>✨ Consigue el prompt</b></a></sub>
-</td>
-<td width="33%" valign="top">
-<a href="https://hexagonal.earth"><img src="../assets/gifs/349.gif" width="100%" alt="Hexagonal Earth"></a><br>
-<b><a href="https://hexagonal.earth">Hexagonal Earth</a></b><br>
-<sub>🆕 · <a href="https://x.com/avsa">@avsa</a> · ♥ 181 · <a href="https://x.com/avsa/status/2123123638551392755">Publicación</a></sub><br>
-<sub>Un diorama del mundo entero hecho de hexágonos, construido con datos reales de elevación, profundidad oceánica, humedad, viento y ríos. Fable 5.2 generó cientos de pequeños objetos 3D de splats de píxeles y los colocó en la escena por su cuenta.</sub>
 </td>
 </tr>
 <tr>
@@ -255,6 +255,12 @@ La página principal muestra como máximo las 24 entradas con más «me gusta» 
 </tr>
 <tr>
 <td width="33%" valign="top">
+<a href="http://promptronic3000.com"><img src="../assets/gifs/358.gif" width="100%" alt="Promptronic 3000"></a><br>
+<b><a href="http://promptronic3000.com">Promptronic 3000</a></b><br>
+<sub>🆕 · <a href="https://x.com/fabianstelzer">@fabianstelzer</a> · ♥ 44 · <a href="https://x.com/fabianstelzer/status/2123121678670520627">▶ Video</a></sub><br>
+<sub>Un sintetizador modular con agentes en la web: conecta Claude u otro agente por MCP para crear patches o incluso módulos nuevos con texto, y compártelos por URL.</sub>
+</td>
+<td width="33%" valign="top">
 <a href="https://ai.itokoba.com/ichimai/"><img src="../assets/gifs/260.gif" width="100%" alt="Ichimai — hasta dónde llega una sola página"></a><br>
 <b><a href="https://ai.itokoba.com/ichimai/">Ichimai — hasta dónde llega una sola página</a></b><br>
 <sub><a href="https://x.com/hideki_climax">@hideki_climax</a> · ♥ 12 · <a href="https://x.com/hideki_climax/status/2120165464722809190">▶ Video</a></sub><br>
@@ -268,6 +274,8 @@ La página principal muestra como máximo las 24 entradas con más «me gusta» 
 <sub>Cada uno de los 2,242 transistores del Intel 4004 se rompió, uno por uno, en una simulación a nivel de transistor. Pasa el cursor sobre cualquier transistor del mapa del chip para ver qué deja de funcionar.</sub><br>
 <sub><a href="https://github.com/rain-1/intel4004">Código fuente</a></sub>
 </td>
+</tr>
+<tr>
 <td width="33%" valign="top">
 <a href="https://jwt-designs-preview.noone-697.workers.dev/"><img src="../assets/gifs/046.gif" width="100%" alt="20 rediseños de landing page"></a><br>
 <b><a href="https://jwt-designs-preview.noone-697.workers.dev/">20 rediseños de landing page</a></b><br>
@@ -275,8 +283,6 @@ La página principal muestra como máximo las 24 entradas con más «me gusta» 
 <sub>20 alternativas a la landing page de un plugin de JWT a partir de un prompt simple.</sub><br>
 <sub><a href="https://x.com/Tmeister/status/2119983842841018482">📝 Prompt del creador (gratis)</a></sub>
 </td>
-</tr>
-<tr>
 <td width="33%" valign="top">
 <a href="https://www.asumacodes.xyz/arena/driftwood"><img src="../assets/gifs/047.gif" width="100%" alt="Driftwood (Fable vs Opus)"></a><br>
 <b><a href="https://www.asumacodes.xyz/arena/driftwood">Driftwood (Fable vs Opus)</a></b><br>
@@ -291,6 +297,8 @@ La página principal muestra como máximo las 24 entradas con más «me gusta» 
 <sub><a href="https://x.com/seanaiux">@seanaiux</a> · ♥ 8 · <a href="https://x.com/seanaiux/status/2121688869439455410">▶ Video</a></sub><br>
 <sub>Pidió una web que le diera miedo: una araña baja desde la oscuridad y el scroll la sigue por su guarida, sus ojos, sus colmillos y sus patas hasta que tú eres la mosca.</sub>
 </td>
+</tr>
+<tr>
 <td width="33%" valign="top">
 <a href="https://claude.ai/artifact/TiymxxFXzMo7xhWUaecbzk"><img src="https://pbs.twimg.com/media/HWwrmvIb0AAMLPK.jpg?name=small" width="100%" alt="Propuesta de diseño de casa"></a><br>
 <b><a href="https://claude.ai/artifact/TiymxxFXzMo7xhWUaecbzk">Propuesta de diseño de casa</a></b><br>
@@ -298,8 +306,6 @@ La página principal muestra como máximo las 24 entradas con más «me gusta» 
 <sub>Una propuesta de diseño para una casa unifamiliar (en coreano), hecha en un día.</sub><br>
 <sub><a href="https://fablelist.000ooo.ooo/es/prompts/?w=house-design-proposal&ref=gh"><b>✨ Consigue el prompt</b></a></sub>
 </td>
-</tr>
-<tr>
 <td width="33%" valign="top">
 <a href="https://claude.ai/artifact/9yQkezie4jY3oz2YDLFDiq"><img src="../assets/gifs/040.gif" width="100%" alt="Bay Drum Kit"></a><br>
 <b><a href="https://claude.ai/artifact/9yQkezie4jY3oz2YDLFDiq">Bay Drum Kit</a></b><br>
@@ -314,6 +320,8 @@ La página principal muestra como máximo las 24 entradas con más «me gusta» 
 <sub>Un intento.</sub><br>
 <sub><a href="https://fablelist.000ooo.ooo/es/prompts/?w=dub-techno-track-visualizer&ref=gh"><b>✨ Consigue el prompt</b></a></sub>
 </td>
+</tr>
+<tr>
 <td width="33%" valign="top">
 <a href="https://claude.ai/artifact/5ufHvxgvXTf5YgQeTR8TbG"><img src="../assets/gifs/044.gif" width="100%" alt="Ramayana Family Tree"></a><br>
 <b><a href="https://claude.ai/artifact/5ufHvxgvXTf5YgQeTR8TbG">Ramayana Family Tree</a></b><br>
@@ -321,8 +329,6 @@ La página principal muestra como máximo las 24 entradas con más «me gusta» 
 <sub>Los lazos de sangre y matrimonio del actor principal con 65 estrellas de Bollywood.</sub><br>
 <sub><a href="https://fablelist.000ooo.ooo/es/prompts/?w=ramayana-family-tree&ref=gh"><b>✨ Consigue el prompt</b></a></sub>
 </td>
-</tr>
-<tr>
 <td width="33%" valign="top">
 <a href="https://claude.ai/artifact/4aEy6FtUi7jrm9U7uYgp8K"><img src="../assets/gifs/042.gif" width="100%" alt="Demoscene Demo"></a><br>
 <b><a href="https://claude.ai/artifact/4aEy6FtUi7jrm9U7uYgp8K">Demoscene Demo</a></b><br>

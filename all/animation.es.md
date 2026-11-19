@@ -20,18 +20,18 @@ La página principal muestra como máximo las 24 entradas con más «me gusta» 
 <sub>Un corto de 110 segundos en plano secuencia de un gato que camina, olfatea y salta por un jardín botánico. La imagen sale de un path tracer escrito para ello y el sonido se sintetiza con numpy, sin ningún recurso externo.</sub>
 </td>
 <td width="33%" valign="top">
-<a href="https://github.com/amirmushichge/shred-kit"><img src="../assets/gifs/269.gif" width="100%" alt="Plantilla de trituración de papel Shred Kit"></a><br>
-<b><a href="https://github.com/amirmushichge/shred-kit">Plantilla de trituración de papel Shred Kit</a></b><br>
-<sub><a href="https://x.com/AmirMushich">@AmirMushich</a> · ♥ 432 · <a href="https://x.com/AmirMushich/status/2121339167800213934">▶ Video</a></sub><br>
-<sub>Un reel de 8 segundos de papel triturado hecho con Fable 5.2 y Blender, compartido como plantilla gratuita.</sub>
+<a href="https://github.com/moritzkremb/robovac-pov"><img src="../assets/gifs/334.gif" width="100%" alt="Robovac POV: un corto realista desde la vista de un robot aspirador"></a><br>
+<b><a href="https://github.com/moritzkremb/robovac-pov">Robovac POV: un corto realista desde la vista de un robot aspirador</a></b><br>
+<sub>🆕 · <a href="https://x.com/moritzkremb">@moritzkremb</a> · ♥ 442 · <a href="https://x.com/moritzkremb/status/2122702891819377117">▶ Video</a></sub><br>
+<sub>Un corto de 53 segundos hecho solo con código: un mundo escrito en C++, un path tracer propio en GPU, una cámara simulada con enfoque, desenfoque de movimiento y grano, una alfombra de unas 900,000 fibras y sonido sintetizado en Python.</sub>
 </td>
 </tr>
 <tr>
 <td width="33%" valign="top">
-<a href="https://github.com/moritzkremb/robovac-pov"><img src="../assets/gifs/334.gif" width="100%" alt="Robovac POV: un corto realista desde la vista de un robot aspirador"></a><br>
-<b><a href="https://github.com/moritzkremb/robovac-pov">Robovac POV: un corto realista desde la vista de un robot aspirador</a></b><br>
-<sub>🆕 · <a href="https://x.com/moritzkremb">@moritzkremb</a> · ♥ 416 · <a href="https://x.com/moritzkremb/status/2122702891819377117">▶ Video</a></sub><br>
-<sub>Un corto de 53 segundos hecho solo con código: un mundo escrito en C++, un path tracer propio en GPU, una cámara simulada con enfoque, desenfoque de movimiento y grano, una alfombra de unas 900,000 fibras y sonido sintetizado en Python.</sub>
+<a href="https://github.com/amirmushichge/shred-kit"><img src="../assets/gifs/269.gif" width="100%" alt="Plantilla de trituración de papel Shred Kit"></a><br>
+<b><a href="https://github.com/amirmushichge/shred-kit">Plantilla de trituración de papel Shred Kit</a></b><br>
+<sub><a href="https://x.com/AmirMushich">@AmirMushich</a> · ♥ 432 · <a href="https://x.com/AmirMushich/status/2121339167800213934">▶ Video</a></sub><br>
+<sub>Un reel de 8 segundos de papel triturado hecho con Fable 5.2 y Blender, compartido como plantilla gratuita.</sub>
 </td>
 <td width="33%" valign="top">
 <a href="https://github.com/ChetasLua/pelican-riding-a-bicycle"><img src="../assets/gifs/150.gif" width="100%" alt="The Pelican, Tired of the Road"></a><br>
@@ -44,7 +44,7 @@ La página principal muestra como máximo las 24 entradas con más «me gusta» 
 <td width="33%" valign="top">
 <a href="https://github.com/Leonxlnx/mechanical-moon"><img src="../assets/gifs/336.gif" width="100%" alt="Mechanical Moon"></a><br>
 <b><a href="https://github.com/Leonxlnx/mechanical-moon">Mechanical Moon</a></b><br>
-<sub>🆕 · <a href="https://x.com/LexnLin">@LexnLin</a> · ♥ 351 · <a href="https://x.com/LexnLin/status/2122823164635881853">▶ Video</a></sub><br>
+<sub>🆕 · <a href="https://x.com/LexnLin">@LexnLin</a> · ♥ 352 · <a href="https://x.com/LexnLin/status/2122823164635881853">▶ Video</a></sub><br>
 <sub>Un corto procedural de Blender de 45 segundos: una luna partida con una megaestructura dorada de relojería dentro, construida solo con scripts de Python y renderizada en EEVEE.</sub>
 </td>
 </tr>
@@ -93,22 +93,22 @@ La página principal muestra como máximo las 24 entradas con más «me gusta» 
 </tr>
 <tr>
 <td width="33%" valign="top">
+<a href="https://github.com/ChetasLua/the-last-good-pelican-fable-5.2"><img src="../assets/gifs/352.gif" width="100%" alt="The Last Good Pelican"></a><br>
+<b><a href="https://github.com/ChetasLua/the-last-good-pelican-fable-5.2">The Last Good Pelican</a></b><br>
+<sub>🆕 · <a href="https://x.com/chetaslua">@chetaslua</a> · ♥ 134 · <a href="https://x.com/chetaslua/status/2123100140189958401">▶ Video</a></sub><br>
+<sub>Un corto de 60 segundos con aspecto de dibujo a mano en un solo archivo HTML sin conexión: un día en la vida del único pelícano de benchmark que salió bien. Canvas 2D para cada dibujo, Web Audio para cada sonido.</sub>
+</td>
+<td width="33%" valign="top">
 <a href="https://github.com/anstapnever/blackout"><img src="../assets/gifs/052.gif" width="100%" alt="Blackout"></a><br>
 <b><a href="https://github.com/anstapnever/blackout">Blackout</a></b><br>
-<sub><a href="https://x.com/anstapnever">@anstapnever</a> · ♥ 118 · <a href="https://x.com/anstapnever/status/2119915123070644263">▶ Video</a></sub><br>
+<sub><a href="https://x.com/anstapnever">@anstapnever</a> · ♥ 119 · <a href="https://x.com/anstapnever/status/2119915123070644263">▶ Video</a></sub><br>
 <sub>Un corto anime de 79 segundos, todo en código.</sub><br>
 <sub><a href="https://x.com/anstapnever/status/2119915123070644263">📝 Prompt del creador (gratis)</a></sub>
 </td>
 <td width="33%" valign="top">
-<a href="https://github.com/ChetasLua/the-last-good-pelican-fable-5.2"><img src="../assets/gifs/352.gif" width="100%" alt="The Last Good Pelican"></a><br>
-<b><a href="https://github.com/ChetasLua/the-last-good-pelican-fable-5.2">The Last Good Pelican</a></b><br>
-<sub>🆕 · <a href="https://x.com/chetaslua">@chetaslua</a> · ♥ 107 · <a href="https://x.com/chetaslua/status/2123100140189958401">▶ Video</a></sub><br>
-<sub>Un corto de 60 segundos con aspecto de dibujo a mano en un solo archivo HTML sin conexión: un día en la vida del único pelícano de benchmark que salió bien. Canvas 2D para cada dibujo, Web Audio para cada sonido.</sub>
-</td>
-<td width="33%" valign="top">
 <a href="https://github.com/Leonxlnx/koi-pond-keycap"><img src="../assets/gifs/351.gif" width="100%" alt="Koi Pond Keycap"></a><br>
 <b><a href="https://github.com/Leonxlnx/koi-pond-keycap">Koi Pond Keycap</a></b><br>
-<sub>🆕 · <a href="https://x.com/LexnLin">@LexnLin</a> · ♥ 72 · <a href="https://x.com/LexnLin/status/2123174205306908806">▶ Video</a></sub><br>
+<sub>🆕 · <a href="https://x.com/LexnLin">@LexnLin</a> · ♥ 105 · <a href="https://x.com/LexnLin/status/2123174205306908806">▶ Video</a></sub><br>
 <sub>Un corto de 45 segundos en Blender de una tecla de resina transparente con un estanque de kois dentro: un dedo pulsa la tecla, las ondas recorren el agua y los kois salen disparados. Python totalmente procedural, sin modelos ni texturas externos.</sub>
 </td>
 </tr>

@@ -5,7 +5,7 @@
 <h3>Claude Fable 5.2 で作られた、実際に開いて遊べる作品</h3>
 
 [![Awesome](https://awesome.re/badge.svg)](https://awesome.re)
-[![Works](https://img.shields.io/badge/公開作品-201-6b4eff)](#-ゲーム)
+[![Works](https://img.shields.io/badge/公開作品-205-6b4eff)](#-ゲーム)
 [![Demos](https://img.shields.io/badge/動画デモ-145-ff7a59)](#-動画デモ)
 [![Links checked](https://img.shields.io/badge/リンク確認-2026--11--19-2ea44f)](#-投稿貢献)
 [![License: CC0-1.0](https://img.shields.io/badge/License-CC0_1.0-lightgrey.svg)](LICENSE)
@@ -16,11 +16,11 @@
 
 </div>
 
-Claude Fable 5.2 で作られた公開作品 201 件と動画デモ 145 件。リンクは 2026-11-19 に確認済み。毎日更新、役立ったら ⭐ を。
+Claude Fable 5.2 で作られた公開作品 205 件と動画デモ 145 件。リンクは 2026-11-19 に確認済み。毎日更新、役立ったら ⭐ を。
 
 ## 📑 目次
 
-[⭐ 人気の作品](#-人気の作品) · [🆕 新着](#-新着) · [🎮 ゲーム](#-ゲーム) 95 · [🌍 3D ワールドとシーン](#-3d-ワールドとシーン) 43 · [🧰 Web ページとツール](#-web-ページとツール) 44 · [🎬 アニメーションと映像](#-アニメーションと映像) 19 · [📺 動画デモ](#-動画デモ) 145 · [🤝 投稿・貢献](#-投稿貢献)
+[⭐ 人気の作品](#-人気の作品) · [🆕 新着](#-新着) · [🎮 ゲーム](#-ゲーム) 96 · [🌍 3D ワールドとシーン](#-3d-ワールドとシーン) 45 · [🧰 Web ページとツール](#-web-ページとツール) 45 · [🎬 アニメーションと映像](#-アニメーションと映像) 19 · [📺 動画デモ](#-動画デモ) 145 · [🤝 投稿・貢献](#-投稿貢献)
 
 ## ⭐ 人気の作品
 
@@ -237,7 +237,7 @@ Claude Fable 5.2 で作られた公開作品 201 件と動画デモ 145 件。�
 <td width="33%" valign="top">
 <a href="https://claude.ai/artifact/MXxb36zKgN261ckbGhmNin"><img src="assets/gifs/002.gif" width="100%" alt="Three Games（Saltline · The Clockmaker's Heart · Tidewright）"></a><br>
 <b><a href="https://claude.ai/artifact/MXxb36zKgN261ckbGhmNin">Three Games（Saltline · The Clockmaker's Heart · Tidewright）</a></b><br>
-<sub><a href="https://x.com/felixrieseberg">@felixrieseberg</a> · ♥ 807 · <a href="https://x.com/vineerpasam/status/2119955306096857145">▶ 動画</a></sub><br>
+<sub><a href="https://x.com/felixrieseberg">@felixrieseberg</a> · ♥ 806 · <a href="https://x.com/vineerpasam/status/2119955306096857145">▶ 動画</a></sub><br>
 <sub>Felix Rieseberg 名義：「すべて Claude Fable 5.2 で作ったゲーム。初稿、人間のフィードバックなし。」公開初日に最も共有されたリンク。</sub><br>
 <sub><a href="https://claude.ai/artifact/6MjtQjf4ee1ZZjEpafaEpa">The Clockmaker's Heart</a> · <a href="https://claude.ai/artifact/JTgyEMn7sn1q2riWrMb7D4">Tidewright</a></sub><br>
 <sub><a href="https://fablelist.000ooo.ooo/ja/prompts/?w=three-games-saltline-the-clockmaker-s-heart-tidewright&ref=gh"><b>✨ プロンプトを入手</b></a></sub>
@@ -247,13 +247,13 @@ Claude Fable 5.2 で作られた公開作品 201 件と動画デモ 145 件。�
 <td width="33%" valign="top">
 <a href="https://patch.gg/play/blendi/solar"><img src="assets/gifs/323.gif" width="100%" alt="Solar — 自由に飛び回れる小さな太陽系"></a><br>
 <b><a href="https://patch.gg/play/blendi/solar">Solar — 自由に飛び回れる小さな太陽系</a></b><br>
-<sub>🆕 · <a href="https://x.com/BlendiByl">@BlendiByl</a> · ♥ 789 · <a href="https://x.com/BlendiByl/status/2122673770607591855">▶ 動画</a></sub><br>
+<sub>🆕 · <a href="https://x.com/BlendiByl">@BlendiByl</a> · ♥ 791 · <a href="https://x.com/BlendiByl/status/2122673770607591855">▶ 動画</a></sub><br>
 <sub>Outer Wilds にインスパイア：本物の軌道と重力、惑星間を途切れずに飛行でき、すべての世界がコードで描かれています。オープンソース。</sub>
 </td>
 <td width="33%" valign="top">
 <a href="https://patch.gg/blendi/coloured-pencil"><img src="assets/gifs/247.gif" width="100%" alt="Coloured Pencil"></a><br>
 <b><a href="https://patch.gg/blendi/coloured-pencil">Coloured Pencil</a></b><br>
-<sub><a href="https://x.com/BlendiByl">@BlendiByl</a> · ♥ 761 · <a href="https://x.com/BlendiByl/status/2121130385723789637">▶ 動画</a></sub><br>
+<sub><a href="https://x.com/BlendiByl">@BlendiByl</a> · ♥ 762 · <a href="https://x.com/BlendiByl/status/2121130385723789637">▶ 動画</a></sub><br>
 <sub>色鉛筆風ゲームの一場面。すべての面の陰影も町全体もコード。オープンソース。</sub><br>
 <sub><a href="https://fablelist.000ooo.ooo/ja/prompts/?w=coloured-pencil&ref=gh"><b>✨ プロンプトを入手</b></a></sub>
 </td>
@@ -282,14 +282,14 @@ Claude Fable 5.2 で作られた公開作品 201 件と動画デモ 145 件。�
 <td width="33%" valign="top">
 <a href="https://i-would-have-gotten-away-with-it.netlify.app/"><img src="assets/gifs/007.gif" width="100%" alt="I Would Have Gotten Away With It"></a><br>
 <b><a href="https://i-would-have-gotten-away-with-it.netlify.app/">I Would Have Gotten Away With It</a></b><br>
-<sub><a href="https://x.com/emollick">@emollick</a> · ♥ 516 · <a href="https://x.com/emollick/status/2119876449494540554">▶ 動画</a></sub><br>
+<sub><a href="https://x.com/emollick">@emollick</a> · ♥ 517 · <a href="https://x.com/emollick/status/2119876449494540554">▶ 動画</a></sub><br>
 <sub>逆スクービー・ドゥー：あなたは悪役で、おせっかいな子供たちを追い払う。トレーラー、音楽、サウンドも Fable が制作。</sub><br>
 <sub><a href="https://fablelist.000ooo.ooo/ja/prompts/?w=i-would-have-gotten-away-with-it&ref=gh"><b>✨ プロンプトを入手</b></a></sub>
 </td>
 </tr>
 </table>
 
-<p align="center"><b><a href="all/games.ja.md">すべて見る（95）→</a></b></p>
+<p align="center"><b><a href="all/games.ja.md">すべて見る（96）→</a></b></p>
 
 <div align="right"><a href="#-目次">↑ 目次に戻る</a></div>
 
@@ -337,7 +337,7 @@ Claude Fable 5.2 で作られた公開作品 201 件と動画デモ 145 件。�
 <td width="33%" valign="top">
 <a href="https://fable-rome.surge.sh/"><img src="assets/gifs/136.gif" width="100%" alt="Rome, AD 320"></a><br>
 <b><a href="https://fable-rome.surge.sh/">Rome, AD 320</a></b><br>
-<sub><a href="https://x.com/petergostev">@petergostev</a> · ♥ 969 · <a href="https://x.com/petergostev/status/2120167560700383572">▶ 動画</a></sub><br>
+<sub><a href="https://x.com/petergostev">@petergostev</a> · ♥ 972 · <a href="https://x.com/petergostev/status/2120167560700383572">▶ 動画</a></sub><br>
 <sub>1 つのプロンプト、Fable 5.2（Max）が一晩中稼働、$2,618。</sub><br>
 <sub><a href="https://x.com/petergostev/status/2120167560700383572">📝 作者公開のプロンプト（無料）</a></sub>
 </td>
@@ -353,7 +353,7 @@ Claude Fable 5.2 で作られた公開作品 201 件と動画デモ 145 件。�
 <td width="33%" valign="top">
 <a href="https://fable-rover.vercel.app"><img src="assets/gifs/278.gif" width="100%" alt="ER-6 Terrain Explorer — 自動走行する火星ローバー"></a><br>
 <b><a href="https://fable-rover.vercel.app">ER-6 Terrain Explorer — 自動走行する火星ローバー</a></b><br>
-<sub><a href="https://x.com/DilumSanjaya">@DilumSanjaya</a> · ♥ 795 · <a href="https://x.com/DilumSanjaya/status/2120561077385867663">▶ 動画</a></sub><br>
+<sub><a href="https://x.com/DilumSanjaya">@DilumSanjaya</a> · ♥ 796 · <a href="https://x.com/DilumSanjaya/status/2120561077385867663">▶ 動画</a></sub><br>
 <sub>Fable 5.2 が NASA の火星ローバーと同じロッカー・ボギー式サスペンションを設計し、異星の地形を走らせるシミュレーションまで作った。</sub>
 </td>
 <td width="33%" valign="top">
@@ -404,7 +404,7 @@ Claude Fable 5.2 で作られた公開作品 201 件と動画デモ 145 件。�
 <td width="33%" valign="top">
 <a href="http://taoistvibe.com"><img src="assets/gifs/307.gif" width="100%" alt="Chill Taoist Vibe：道教寺院のある小さな山"></a><br>
 <b><a href="http://taoistvibe.com">Chill Taoist Vibe：道教寺院のある小さな山</a></b><br>
-<sub><a href="https://x.com/qiqileyuan">@qiqileyuan</a> · ♥ 254 · <a href="https://x.com/qiqileyuan/status/2122006851298693277">▶ 動画</a></sub><br>
+<sub><a href="https://x.com/qiqileyuan">@qiqileyuan</a> · ♥ 253 · <a href="https://x.com/qiqileyuan/status/2122006851298693277">▶ 動画</a></sub><br>
 <sub>ジブリ風の、小さな山に建つ道教寺院。老道士について山を登り、線香をあげ、おみくじを引き、瞑想する。揺り椅子に座って四季の移ろいを眺めるだけでもいい。神像と主人公のモデルは Tripo3D、それ以外はすべて生成されたコード。</sub>
 </td>
 </tr>
@@ -477,7 +477,7 @@ Claude Fable 5.2 で作られた公開作品 201 件と動画デモ 145 件。�
 </tr>
 </table>
 
-<p align="center"><b><a href="all/3d-worlds.ja.md">すべて見る（43）→</a></b></p>
+<p align="center"><b><a href="all/3d-worlds.ja.md">すべて見る（45）→</a></b></p>
 
 <div align="right"><a href="#-目次">↑ 目次に戻る</a></div>
 
@@ -604,23 +604,29 @@ Claude Fable 5.2 で作られた公開作品 201 件と動画デモ 145 件。�
 <td width="33%" valign="top">
 <a href="https://omage1.xyz"><img src="assets/gifs/337.gif" width="100%" alt="omage-1：ブラウザで動く OP-1 Field シンセ"></a><br>
 <b><a href="https://omage1.xyz">omage-1：ブラウザで動く OP-1 Field シンセ</a></b><br>
-<sub>🆕 · <a href="https://x.com/jamesmbickerton">@jamesmbickerton</a> · ♥ 561 · <a href="https://x.com/jamesmbickerton/status/2122688041219133815">▶ 動画</a></sub><br>
+<sub>🆕 · <a href="https://x.com/jamesmbickerton">@jamesmbickerton</a> · ♥ 567 · <a href="https://x.com/jamesmbickerton/status/2122688041219133815">▶ 動画</a></sub><br>
 <sub>Teenage Engineering の OP-1 Field をブラウザアプリとして作り直した非公式オマージュ。開いてすぐ弾ける。</sub>
 </td>
 <td width="33%" valign="top">
 <a href="https://claude.ai/artifact/4P1urBdptp6gWiJo3R6Vpv"><img src="assets/gifs/333.gif" width="100%" alt="Breakcore ビデオサンプラー"></a><br>
 <b><a href="https://claude.ai/artifact/4P1urBdptp6gWiJo3R6Vpv">Breakcore ビデオサンプラー</a></b><br>
-<sub>🆕 · <a href="https://x.com/parhelion318">@parhelion318</a> · ♥ 540 · <a href="https://x.com/parhelion318/status/2122723067533398064">▶ 動画</a></sub><br>
+<sub>🆕 · <a href="https://x.com/parhelion318">@parhelion318</a> · ♥ 541 · <a href="https://x.com/parhelion318/status/2122723067533398064">▶ 動画</a></sub><br>
 <sub>動画クリップを刻んで breakcore のリズムに並べ替える、ブラウザで動くサンプラー。</sub>
 </td>
 <td width="33%" valign="top">
-<a href="https://www.bubbbly.com/christmas-cards"><img src="assets/gifs/315.gif" width="100%" alt="Christmas Cards：インタラクティブなクリスマスカード"></a><br>
-<b><a href="https://www.bubbbly.com/christmas-cards">Christmas Cards：インタラクティブなクリスマスカード</a></b><br>
-<sub>🆕 · <a href="https://x.com/ann_nnng">@ann_nnng</a> · ♥ 473 · <a href="https://x.com/ann_nnng/status/2122283549000712249">▶ 動画</a></sub><br>
-<sub>インタラクティブなクリスマスカードのセット。赤いマフラーの猫が窓辺で降る雪を眺めるカードなど。</sub>
+<a href="https://hexagonal.earth"><img src="assets/gifs/349.gif" width="100%" alt="Hexagonal Earth"></a><br>
+<b><a href="https://hexagonal.earth">Hexagonal Earth</a></b><br>
+<sub>🆕 · <a href="https://x.com/avsa">@avsa</a> · ♥ 495 · <a href="https://x.com/avsa/status/2123123638551392755">投稿</a></sub><br>
+<sub>実際の標高、海の深さ、湿度、風、河川のデータから作った、六角形でできた世界全体のジオラマ。Fable 5.2 が数百個の小さな 3D ピクセルスプラットのオブジェクトを生成し、自分でシーンに配置した。</sub>
 </td>
 </tr>
 <tr>
+<td width="33%" valign="top">
+<a href="https://www.bubbbly.com/christmas-cards"><img src="assets/gifs/315.gif" width="100%" alt="Christmas Cards：インタラクティブなクリスマスカード"></a><br>
+<b><a href="https://www.bubbbly.com/christmas-cards">Christmas Cards：インタラクティブなクリスマスカード</a></b><br>
+<sub>🆕 · <a href="https://x.com/ann_nnng">@ann_nnng</a> · ♥ 474 · <a href="https://x.com/ann_nnng/status/2122283549000712249">▶ 動画</a></sub><br>
+<sub>インタラクティブなクリスマスカードのセット。赤いマフラーの猫が窓辺で降る雪を眺めるカードなど。</sub>
+</td>
 <td width="33%" valign="top">
 <a href="https://where-is-everybody-fermi.netlify.app/"><img src="assets/gifs/146.gif" width="100%" alt="Where Is Everybody?"></a><br>
 <b><a href="https://where-is-everybody-fermi.netlify.app/">Where Is Everybody?</a></b><br>
@@ -636,15 +642,15 @@ Claude Fable 5.2 で作られた公開作品 201 件と動画デモ 145 件。�
 <sub>チケット購入前に、RAMS Park の各ブロックからのピッチの眺めを確認できる。</sub><br>
 <sub><a href="https://fablelist.000ooo.ooo/ja/prompts/?w=galatasaray-seat-view&ref=gh"><b>✨ プロンプトを入手</b></a></sub>
 </td>
+</tr>
+<tr>
 <td width="33%" valign="top">
 <a href="https://rubber-hose-ui.vercel.app"><img src="assets/gifs/332.gif" width="100%" alt="Rubber Hose UI：1930 年代カートゥーン風の UI 部品"></a><br>
 <b><a href="https://rubber-hose-ui.vercel.app">Rubber Hose UI：1930 年代カートゥーン風の UI 部品</a></b><br>
-<sub>🆕 · <a href="https://x.com/crtvTeknologist">@crtvTeknologist</a> · ♥ 349 · <a href="https://x.com/crtvTeknologist/status/2122433522166124616">▶ 動画</a></sub><br>
+<sub>🆕 · <a href="https://x.com/crtvTeknologist">@crtvTeknologist</a> · ♥ 350 · <a href="https://x.com/crtvTeknologist/status/2122433522166124616">▶ 動画</a></sub><br>
 <sub>11 個の Web コントロールをラバーホース調のキャラクターに。スライダーはトロンボーン、トーストはトースター、ボタンは押すたびに目にあざができる。素の JS と canvas、依存なし、オープンソース。</sub><br>
 <sub><a href="https://github.com/finktheartist/rubber-hose-ui">ソースコード</a></sub>
 </td>
-</tr>
-<tr>
 <td width="33%" valign="top">
 <a href="https://origamihelper.com"><img src="assets/gifs/220.gif" width="100%" alt="Origami Helper"></a><br>
 <b><a href="https://origamihelper.com">Origami Helper</a></b><br>
@@ -659,16 +665,10 @@ Claude Fable 5.2 で作られた公開作品 201 件と動画デモ 145 件。�
 <sub>完全に動くタイプライター：タイプでもクリックでも入力でき、執筆タイマー、修正液、オートコレクト付き。</sub><br>
 <sub><a href="https://fablelist.000ooo.ooo/ja/prompts/?w=typed&ref=gh"><b>✨ プロンプトを入手</b></a></sub>
 </td>
-<td width="33%" valign="top">
-<a href="https://hexagonal.earth"><img src="assets/gifs/349.gif" width="100%" alt="Hexagonal Earth"></a><br>
-<b><a href="https://hexagonal.earth">Hexagonal Earth</a></b><br>
-<sub>🆕 · <a href="https://x.com/avsa">@avsa</a> · ♥ 181 · <a href="https://x.com/avsa/status/2123123638551392755">投稿</a></sub><br>
-<sub>実際の標高、海の深さ、湿度、風、河川のデータから作った、六角形でできた世界全体のジオラマ。Fable 5.2 が数百個の小さな 3D ピクセルスプラットのオブジェクトを生成し、自分でシーンに配置した。</sub>
-</td>
 </tr>
 </table>
 
-<p align="center"><b><a href="all/web-and-tools.ja.md">すべて見る（44）→</a></b></p>
+<p align="center"><b><a href="all/web-and-tools.ja.md">すべて見る（45）→</a></b></p>
 
 <div align="right"><a href="#-目次">↑ 目次に戻る</a></div>
 
@@ -690,18 +690,18 @@ Claude Fable 5.2 で作られた公開作品 201 件と動画デモ 145 件。�
 <sub>猫が植物園を歩き、匂いを嗅ぎ、飛びかかる 110 秒のワンカット映像。映像は専用に書かれたパストレーサー、音は numpy で合成、素材は一切なし。</sub>
 </td>
 <td width="33%" valign="top">
-<a href="https://github.com/amirmushichge/shred-kit"><img src="assets/gifs/269.gif" width="100%" alt="Shred Kit ペーパーシュレッダーのテンプレート"></a><br>
-<b><a href="https://github.com/amirmushichge/shred-kit">Shred Kit ペーパーシュレッダーのテンプレート</a></b><br>
-<sub><a href="https://x.com/AmirMushich">@AmirMushich</a> · ♥ 432 · <a href="https://x.com/AmirMushich/status/2121339167800213934">▶ 動画</a></sub><br>
-<sub>Fable 5.2 と Blender で作った 8 秒のペーパーシュレッダーリール。無料テンプレートとして公開。</sub>
+<a href="https://github.com/moritzkremb/robovac-pov"><img src="assets/gifs/334.gif" width="100%" alt="Robovac POV：ロボット掃除機目線のリアルな映像"></a><br>
+<b><a href="https://github.com/moritzkremb/robovac-pov">Robovac POV：ロボット掃除機目線のリアルな映像</a></b><br>
+<sub>🆕 · <a href="https://x.com/moritzkremb">@moritzkremb</a> · ♥ 442 · <a href="https://x.com/moritzkremb/status/2122702891819377117">▶ 動画</a></sub><br>
+<sub>コードだけで作った 53 秒の映像。C++ で書いた世界、自作の GPU パストレーサー、フォーカスやモーションブラー、粒状感まで再現したカメラ、約 900,000 本の繊維でできたラグ、音は Python で合成。</sub>
 </td>
 </tr>
 <tr>
 <td width="33%" valign="top">
-<a href="https://github.com/moritzkremb/robovac-pov"><img src="assets/gifs/334.gif" width="100%" alt="Robovac POV：ロボット掃除機目線のリアルな映像"></a><br>
-<b><a href="https://github.com/moritzkremb/robovac-pov">Robovac POV：ロボット掃除機目線のリアルな映像</a></b><br>
-<sub>🆕 · <a href="https://x.com/moritzkremb">@moritzkremb</a> · ♥ 416 · <a href="https://x.com/moritzkremb/status/2122702891819377117">▶ 動画</a></sub><br>
-<sub>コードだけで作った 53 秒の映像。C++ で書いた世界、自作の GPU パストレーサー、フォーカスやモーションブラー、粒状感まで再現したカメラ、約 900,000 本の繊維でできたラグ、音は Python で合成。</sub>
+<a href="https://github.com/amirmushichge/shred-kit"><img src="assets/gifs/269.gif" width="100%" alt="Shred Kit ペーパーシュレッダーのテンプレート"></a><br>
+<b><a href="https://github.com/amirmushichge/shred-kit">Shred Kit ペーパーシュレッダーのテンプレート</a></b><br>
+<sub><a href="https://x.com/AmirMushich">@AmirMushich</a> · ♥ 432 · <a href="https://x.com/AmirMushich/status/2121339167800213934">▶ 動画</a></sub><br>
+<sub>Fable 5.2 と Blender で作った 8 秒のペーパーシュレッダーリール。無料テンプレートとして公開。</sub>
 </td>
 <td width="33%" valign="top">
 <a href="https://github.com/ChetasLua/pelican-riding-a-bicycle"><img src="assets/gifs/150.gif" width="100%" alt="The Pelican, Tired of the Road"></a><br>
@@ -714,7 +714,7 @@ Claude Fable 5.2 で作られた公開作品 201 件と動画デモ 145 件。�
 <td width="33%" valign="top">
 <a href="https://github.com/Leonxlnx/mechanical-moon"><img src="assets/gifs/336.gif" width="100%" alt="Mechanical Moon"></a><br>
 <b><a href="https://github.com/Leonxlnx/mechanical-moon">Mechanical Moon</a></b><br>
-<sub>🆕 · <a href="https://x.com/LexnLin">@LexnLin</a> · ♥ 351 · <a href="https://x.com/LexnLin/status/2122823164635881853">▶ 動画</a></sub><br>
+<sub>🆕 · <a href="https://x.com/LexnLin">@LexnLin</a> · ♥ 352 · <a href="https://x.com/LexnLin/status/2122823164635881853">▶ 動画</a></sub><br>
 <sub>割れた月の内部に金色のゼンマイ仕掛けの巨大構造物がある、45 秒のプロシージャル Blender 映像。すべて Python スクリプトで作り、EEVEE でレンダリング。</sub>
 </td>
 </tr>
@@ -763,17 +763,23 @@ Claude Fable 5.2 で作られた公開作品 201 件と動画デモ 145 件。�
 </tr>
 <tr>
 <td width="33%" valign="top">
+<a href="https://github.com/ChetasLua/the-last-good-pelican-fable-5.2"><img src="assets/gifs/352.gif" width="100%" alt="The Last Good Pelican"></a><br>
+<b><a href="https://github.com/ChetasLua/the-last-good-pelican-fable-5.2">The Last Good Pelican</a></b><br>
+<sub>🆕 · <a href="https://x.com/chetaslua">@chetaslua</a> · ♥ 134 · <a href="https://x.com/chetaslua/status/2123100140189958401">▶ 動画</a></sub><br>
+<sub>オフラインで動く HTML ファイル 1 つに収まった、手描き風の 60 秒短編。ベンチマーク用のペリカンのうち唯一うまく描かれた一羽の、ある一日。絵はすべて Canvas 2D、音はすべて Web Audio。</sub>
+</td>
+<td width="33%" valign="top">
 <a href="https://github.com/anstapnever/blackout"><img src="assets/gifs/052.gif" width="100%" alt="Blackout"></a><br>
 <b><a href="https://github.com/anstapnever/blackout">Blackout</a></b><br>
-<sub><a href="https://x.com/anstapnever">@anstapnever</a> · ♥ 118 · <a href="https://x.com/anstapnever/status/2119915123070644263">▶ 動画</a></sub><br>
+<sub><a href="https://x.com/anstapnever">@anstapnever</a> · ♥ 119 · <a href="https://x.com/anstapnever/status/2119915123070644263">▶ 動画</a></sub><br>
 <sub>すべてコードで作った 79 秒のアニメ短編。</sub><br>
 <sub><a href="https://x.com/anstapnever/status/2119915123070644263">📝 作者公開のプロンプト（無料）</a></sub>
 </td>
 <td width="33%" valign="top">
-<a href="https://github.com/ChetasLua/the-last-good-pelican-fable-5.2"><img src="assets/gifs/352.gif" width="100%" alt="The Last Good Pelican"></a><br>
-<b><a href="https://github.com/ChetasLua/the-last-good-pelican-fable-5.2">The Last Good Pelican</a></b><br>
-<sub>🆕 · <a href="https://x.com/chetaslua">@chetaslua</a> · ♥ 107 · <a href="https://x.com/chetaslua/status/2123100140189958401">▶ 動画</a></sub><br>
-<sub>オフラインで動く HTML ファイル 1 つに収まった、手描き風の 60 秒短編。ベンチマーク用のペリカンのうち唯一うまく描かれた一羽の、ある一日。絵はすべて Canvas 2D、音はすべて Web Audio。</sub>
+<a href="https://github.com/Leonxlnx/koi-pond-keycap"><img src="assets/gifs/351.gif" width="100%" alt="Koi Pond Keycap"></a><br>
+<b><a href="https://github.com/Leonxlnx/koi-pond-keycap">Koi Pond Keycap</a></b><br>
+<sub>🆕 · <a href="https://x.com/LexnLin">@LexnLin</a> · ♥ 105 · <a href="https://x.com/LexnLin/status/2123174205306908806">▶ 動画</a></sub><br>
+<sub>透明なレジンのキーキャップの中に鯉の池がある 45 秒の Blender 映像。指がキーを押すと波紋が水面を走り、鯉がさっと散る。すべて Python によるプロシージャル生成で、外部のモデルやテクスチャは不使用。</sub>
 </td>
 </tr>
 </table>
@@ -986,7 +992,7 @@ Claude Fable 5.2 で作られた公開作品 201 件と動画デモ 145 件。�
 
 ## 📰 更新情報
 
-- **2026-11-19**：公開作品 +4、動画デモ +2。
+- **2026-11-19**：公開作品 +8、動画デモ +2。
 - **2026-11-18**：公開作品 +12、動画デモ +8。
 - **2026-11-17**：公開作品 +9、動画デモ +7。
 - **2026-11-16**：公開作品 +10、動画デモ +6。

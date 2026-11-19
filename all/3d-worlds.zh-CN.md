@@ -1,4 +1,4 @@
-# 🌍 3D 世界与场景 · 全部 43 个
+# 🌍 3D 世界与场景 · 全部 45 个
 
 [← 回到首页](../README.zh-CN.md) · [English](3d-worlds.md) · **简体中文** · [繁體中文](3d-worlds.zh-TW.md) · [日本語](3d-worlds.ja.md) · [한국어](3d-worlds.ko.md) · [Español](3d-worlds.es.md) · [Português](3d-worlds.pt-BR.md) · [Français](3d-worlds.fr.md) · [Deutsch](3d-worlds.de.md) · [Русский](3d-worlds.ru.md)
 
@@ -46,7 +46,7 @@
 <td width="33%" valign="top">
 <a href="https://fable-rome.surge.sh/"><img src="../assets/gifs/136.gif" width="100%" alt="Rome, AD 320 古罗马"></a><br>
 <b><a href="https://fable-rome.surge.sh/">Rome, AD 320 古罗马</a></b><br>
-<sub><a href="https://x.com/petergostev">@petergostev</a> · ♥ 969 · <a href="https://x.com/petergostev/status/2120167560700383572">▶ 视频</a></sub><br>
+<sub><a href="https://x.com/petergostev">@petergostev</a> · ♥ 972 · <a href="https://x.com/petergostev/status/2120167560700383572">▶ 视频</a></sub><br>
 <sub>一条提示词，Fable 5.2 Max 跑了一夜，花费 $2,618</sub><br>
 <sub><a href="https://x.com/petergostev/status/2120167560700383572">📝 作者公开的提示词（免费）</a></sub>
 </td>
@@ -62,7 +62,7 @@
 <td width="33%" valign="top">
 <a href="https://fable-rover.vercel.app"><img src="../assets/gifs/278.gif" width="100%" alt="ER-6 火星车地形探索"></a><br>
 <b><a href="https://fable-rover.vercel.app">ER-6 火星车地形探索</a></b><br>
-<sub><a href="https://x.com/DilumSanjaya">@DilumSanjaya</a> · ♥ 795 · <a href="https://x.com/DilumSanjaya/status/2120561077385867663">▶ 视频</a></sub><br>
+<sub><a href="https://x.com/DilumSanjaya">@DilumSanjaya</a> · ♥ 796 · <a href="https://x.com/DilumSanjaya/status/2120561077385867663">▶ 视频</a></sub><br>
 <sub>让它设计 NASA 火星车那种摇臂-转向架悬挂，再模拟它在外星地形上自动行驶</sub>
 </td>
 <td width="33%" valign="top">
@@ -113,7 +113,7 @@
 <td width="33%" valign="top">
 <a href="http://taoistvibe.com"><img src="../assets/gifs/307.gif" width="100%" alt="紫曜宫 Chill Taoist Vibe 道教小山"></a><br>
 <b><a href="http://taoistvibe.com">紫曜宫 Chill Taoist Vibe 道教小山</a></b><br>
-<sub><a href="https://x.com/qiqileyuan">@qiqileyuan</a> · ♥ 254 · <a href="https://x.com/qiqileyuan/status/2122006851298693277">▶ 视频</a></sub><br>
+<sub><a href="https://x.com/qiqileyuan">@qiqileyuan</a> · ♥ 253 · <a href="https://x.com/qiqileyuan/status/2122006851298693277">▶ 视频</a></sub><br>
 <sub>吉卜力画风的道观小山：跟着老道人上山，烧香、求签、打坐、站桩，或者坐在摇椅上看四季变化；神像和主角模型用 Tripo3D，其余全是代码生成</sub>
 </td>
 </tr>
@@ -193,12 +193,20 @@
 <sub><a href="https://fablelist.000ooo.ooo/zh/prompts/?w=sr-71-engine-teardown&ref=gh"><b>✨ 获取提示词</b></a></sub>
 </td>
 <td width="33%" valign="top">
+<a href="https://coralback-ray.wasmer.app/"><img src="../assets/gifs/357.gif" width="100%" alt="Coralback Ray 珊瑚背鳐"></a><br>
+<b><a href="https://coralback-ray.wasmer.app/">Coralback Ray 珊瑚背鳐</a></b><br>
+<sub>🆕 · <a href="https://x.com/thebuggeddev">@thebuggeddev</a> · ♥ 75 · <a href="https://x.com/thebuggeddev/status/2123021723188744248">▶ 视频</a></sub><br>
+<sub>浏览器里游动的 3D 鳐鱼：只给了一个 GLB 模型，绑定、动画和整片海都由它做；没有骨骼，全在顶点着色器里驱动，游动按推力、阻力和重力算</sub>
+</td>
+<td width="33%" valign="top">
 <a href="https://vancouver.webly.site"><img src="../assets/gifs/032.gif" width="100%" alt="温哥华鸟瞰"></a><br>
 <b><a href="https://vancouver.webly.site">温哥华鸟瞰</a></b><br>
 <sub><a href="https://x.com/tokifyi">@tokifyi</a> · ♥ 72 · <a href="https://x.com/tokifyi/status/2120020272153764172">原帖</a></sub><br>
 <sub>Three.js 重建城市</sub><br>
 <sub><a href="https://fablelist.000ooo.ooo/zh/prompts/?w=vancouver-from-above&ref=gh"><b>✨ 获取提示词</b></a></sub>
 </td>
+</tr>
+<tr>
 <td width="33%" valign="top">
 <a href="https://fable-jerusalem.vercel.app/"><img src="../assets/gifs/138.gif" width="100%" alt="逾越节的耶路撒冷"></a><br>
 <b><a href="https://fable-jerusalem.vercel.app/">逾越节的耶路撒冷</a></b><br>
@@ -206,8 +214,6 @@
 <sub>按史料用 Blender 建的沉浸式 3D 耶路撒冷，可以在街上走</sub><br>
 <sub><a href="https://x.com/kplikethebird/status/2119900775727902732">📝 作者公开的提示词（免费）</a></sub>
 </td>
-</tr>
-<tr>
 <td width="33%" valign="top">
 <a href="https://starknightt.github.io/summer-festival/"><img src="../assets/gifs/309.gif" width="100%" alt="Summer Festival 海边小镇夏日祭"></a><br>
 <b><a href="https://starknightt.github.io/summer-festival/">Summer Festival 海边小镇夏日祭</a></b><br>
@@ -223,6 +229,8 @@
 <sub><a href="https://github.com/tornikegomareli/Matrix">源码</a></sub><br>
 <sub><a href="https://fablelist.000ooo.ooo/zh/prompts/?w=matrix-vibe&ref=gh"><b>✨ 获取提示词</b></a></sub>
 </td>
+</tr>
+<tr>
 <td width="33%" valign="top">
 <a href="https://loktar00.github.io/pine-hollow/"><img src="../assets/gifs/191.gif" width="100%" alt="Pine Hollow 会动的滑雪场"></a><br>
 <b><a href="https://loktar00.github.io/pine-hollow/">Pine Hollow 会动的滑雪场</a></b><br>
@@ -231,8 +239,6 @@
 <sub><a href="https://loktar00.github.io/sled-free-exact/">雪橇游戏</a> · <a href="https://loktar00.github.io/sled-free/">雪橇游戏改版</a></sub><br>
 <sub><a href="https://fablelist.000ooo.ooo/zh/prompts/?w=pine-hollow-a-living-ski-hill&ref=gh"><b>✨ 获取提示词</b></a></sub>
 </td>
-</tr>
-<tr>
 <td width="33%" valign="top">
 <a href="https://vancouver-claude.webly.site"><img src="../assets/gifs/280.gif" width="100%" alt="温哥华英吉利湾黄金时刻"></a><br>
 <b><a href="https://vancouver-claude.webly.site">温哥华英吉利湾黄金时刻</a></b><br>
@@ -246,6 +252,8 @@
 <sub>把一幅像素画做成可以走进去的 3D 世界，鲸鱼带你看它是怎么做的</sub><br>
 <sub><a href="https://fablelist.000ooo.ooo/zh/prompts/?w=pixel-art-to-3d-world&ref=gh"><b>✨ 获取提示词</b></a></sub>
 </td>
+</tr>
+<tr>
 <td width="33%" valign="top">
 <a href="https://galaxy-dive.vercel.app"><img src="../assets/gifs/141.gif" width="100%" alt="Galaxy Dive 飞进星系"></a><br>
 <b><a href="https://galaxy-dive.vercel.app">Galaxy Dive 飞进星系</a></b><br>
@@ -253,8 +261,6 @@
 <sub>20 分钟生成</sub><br>
 <sub><a href="https://fablelist.000ooo.ooo/zh/prompts/?w=galaxy-dive&ref=gh"><b>✨ 获取提示词</b></a></sub>
 </td>
-</tr>
-<tr>
 <td width="33%" valign="top">
 <a href="https://calibre-watch-snowy.vercel.app/"><img src="../assets/gifs/192.gif" width="100%" alt="Calibre 5.2 机械表"></a><br>
 <b><a href="https://calibre-watch-snowy.vercel.app/">Calibre 5.2 机械表</a></b><br>
@@ -268,6 +274,8 @@
 <sub><a href="https://x.com/tokifyi">@tokifyi</a> · ♥ 22 · <a href="https://x.com/tokifyi/status/2121367097972531412">▶ 视频</a></sub><br>
 <sub>一条提示词，纯 JavaScript Canvas 画出金门大桥、天际线、雾、倒影和缆车，不用图片和库</sub>
 </td>
+</tr>
+<tr>
 <td width="33%" valign="top">
 <a href="https://claude.ai/artifact/7nmzhxeamcunJbKVK32ptz"><img src="../assets/gifs/029.gif" width="100%" alt="体素罗马斗兽场"></a><br>
 <b><a href="https://claude.ai/artifact/7nmzhxeamcunJbKVK32ptz">体素罗马斗兽场</a></b><br>
@@ -276,8 +284,6 @@
 <sub><a href="https://claude.ai/artifact/B7ZmVS7Yr3BUc99ZyGk2bX">Opus 5.5 版</a></sub><br>
 <sub><a href="https://fablelist.000ooo.ooo/zh/prompts/?w=voxel-colosseum&ref=gh"><b>✨ 获取提示词</b></a></sub>
 </td>
-</tr>
-<tr>
 <td width="33%" valign="top">
 <a href="https://glittery-stardust-885b97.netlify.app"><img src="../assets/gifs/233.gif" width="100%" alt="HX-6 六足机器人登陆三个星球"></a><br>
 <b><a href="https://glittery-stardust-885b97.netlify.app">HX-6 六足机器人登陆三个星球</a></b><br>
@@ -292,14 +298,14 @@
 <sub>从地球滑到黑洞</sub><br>
 <sub><a href="https://fablelist.000ooo.ooo/zh/prompts/?w=one-way-trip-to-a-black-hole&ref=gh"><b>✨ 获取提示词</b></a></sub>
 </td>
+</tr>
+<tr>
 <td width="33%" valign="top">
 <a href="https://madebysourasith-sudo.github.io/red-wing-jet/"><img src="../assets/gifs/265.gif" width="100%" alt="Red Wing 私人飞机"></a><br>
 <b><a href="https://madebysourasith-sudo.github.io/red-wing-jet/">Red Wing 私人飞机</a></b><br>
 <sub><a href="https://x.com/titepommee">@titepommee</a> · ♥ 8 · <a href="https://x.com/titepommee/status/2121259736217911357">▶ 视频</a></sub><br>
 <sub>绕着飞机走一圈，点舱门放下舷梯走进去，有休息区、卧室和洗手间</sub>
 </td>
-</tr>
-<tr>
 <td width="33%" valign="top">
 <a href="https://davinci-mechanics.vercel.app/"><img src="../assets/gifs/289.gif" width="100%" alt="Da Vinci's Living Codex 达·芬奇活手稿"></a><br>
 <b><a href="https://davinci-mechanics.vercel.app/">Da Vinci's Living Codex 达·芬奇活手稿</a></b><br>
@@ -314,6 +320,8 @@
 <sub>约 2 万颗小行星环绕，不断加岩石直到设备掉到 30 帧</sub><br>
 <sub><a href="https://fablelist.000ooo.ooo/zh/prompts/?w=belt-stress-test&ref=gh"><b>✨ 获取提示词</b></a></sub>
 </td>
+</tr>
+<tr>
 <td width="33%" valign="top">
 <a href="https://claude.ai/artifact/BCDCNHRTq3y9W4Px3xc4DN"><img src="../assets/gifs/030.gif" width="100%" alt="骑巨蜗牛的村庄"></a><br>
 <b><a href="https://claude.ai/artifact/BCDCNHRTq3y9W4Px3xc4DN">骑巨蜗牛的村庄</a></b><br>
@@ -321,14 +329,18 @@
 <sub>手写 WebGL2，无库无素材，昼夜循环、约 5500 棵树</sub><br>
 <sub><a href="https://x.com/L34342Lin/status/2120030246108066195">📝 作者公开的提示词（免费）</a></sub>
 </td>
-</tr>
-<tr>
 <td width="33%" valign="top">
 <a href="https://claude.ai/artifact/UqU4w7jSr6pzF2McsbyQjJ"><img src="../assets/gifs/031.gif" width="100%" alt="五层木塔变身斗笠女侠"></a><br>
 <b><a href="https://claude.ai/artifact/UqU4w7jSr6pzF2McsbyQjJ">五层木塔变身斗笠女侠</a></b><br>
 <sub><a href="https://x.com/acupofai">@acupofai</a> · ♥ 0 · <a href="https://x.com/acupofai/status/2120119243043995748">▶ 视频</a></sub><br>
 <sub>3357 个构件，配乐代码现算，可拖拽、点击变身</sub><br>
 <sub><a href="https://fablelist.000ooo.ooo/zh/prompts/?w=wooden-pagoda-transformation&ref=gh"><b>✨ 获取提示词</b></a></sub>
+</td>
+<td width="33%" valign="top">
+<a href="https://cyrilremacle-byte.github.io/francis-turbine-explorer/"><img src="../assets/gifs/355.gif" width="100%" alt="Francis Turbine Explorer 混流式水轮机"></a><br>
+<b><a href="https://cyrilremacle-byte.github.io/francis-turbine-explorer/">Francis Turbine Explorer 混流式水轮机</a></b><br>
+<sub>🆕 · <a href="https://x.com/cyril_remacle">@cyril_remacle</a> · ♥ 0 · <a href="https://x.com/cyril_remacle/status/2122048423528485116">原帖</a></sub><br>
+<sub>可交互的 3D 混流式水轮机展台：能剖开、拆散、自己开动，带导览和实时发电量计算器，支持英文和法文</sub>
 </td>
 </tr>
 </table>

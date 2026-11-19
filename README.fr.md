@@ -5,7 +5,7 @@
 <h3>Ce que les gens ont créé avec Claude Fable 5.2, à ouvrir et à jouer</h3>
 
 [![Awesome](https://awesome.re/badge.svg)](https://awesome.re)
-[![Works](https://img.shields.io/badge/œuvres-201-6b4eff)](#-jeux)
+[![Works](https://img.shields.io/badge/œuvres-205-6b4eff)](#-jeux)
 [![Demos](https://img.shields.io/badge/démos_vidéo-145-ff7a59)](#-démos-vidéo)
 [![Links checked](https://img.shields.io/badge/liens_vérifiés-2026--11--19-2ea44f)](#-contribuer)
 [![License: CC0-1.0](https://img.shields.io/badge/License-CC0_1.0-lightgrey.svg)](LICENSE)
@@ -16,11 +16,11 @@
 
 </div>
 
-201 œuvres en ligne et 145 démos vidéo créées avec Claude Fable 5.2, liens vérifiés le 2026-11-19. Mis à jour chaque jour ; une ⭐ aide à continuer.
+205 œuvres en ligne et 145 démos vidéo créées avec Claude Fable 5.2, liens vérifiés le 2026-11-19. Mis à jour chaque jour ; une ⭐ aide à continuer.
 
 ## 📑 Sommaire
 
-[⭐ Les plus aimés](#-les-plus-aimés) · [🆕 Récents](#-récents) · [🎮 Jeux](#-jeux) 95 · [🌍 Mondes et scènes 3D](#-mondes-et-scènes-3d) 43 · [🧰 Pages web et outils](#-pages-web-et-outils) 44 · [🎬 Animation et films](#-animation-et-films) 19 · [📺 Démos vidéo](#-démos-vidéo) 145 · [🤝 Contribuer](#-contribuer)
+[⭐ Les plus aimés](#-les-plus-aimés) · [🆕 Récents](#-récents) · [🎮 Jeux](#-jeux) 96 · [🌍 Mondes et scènes 3D](#-mondes-et-scènes-3d) 45 · [🧰 Pages web et outils](#-pages-web-et-outils) 45 · [🎬 Animation et films](#-animation-et-films) 19 · [📺 Démos vidéo](#-démos-vidéo) 145 · [🤝 Contribuer](#-contribuer)
 
 ## ⭐ Les plus aimés
 
@@ -237,7 +237,7 @@ Publiés ces 3 derniers jours, triés par j'aime.
 <td width="33%" valign="top">
 <a href="https://claude.ai/artifact/MXxb36zKgN261ckbGhmNin"><img src="assets/gifs/002.gif" width="100%" alt="Three Games (Saltline · The Clockmaker's Heart · Tidewright)"></a><br>
 <b><a href="https://claude.ai/artifact/MXxb36zKgN261ckbGhmNin">Three Games (Saltline · The Clockmaker's Heart · Tidewright)</a></b><br>
-<sub><a href="https://x.com/felixrieseberg">@felixrieseberg</a> · ♥ 807 · <a href="https://x.com/vineerpasam/status/2119955306096857145">▶ Vidéo</a></sub><br>
+<sub><a href="https://x.com/felixrieseberg">@felixrieseberg</a> · ♥ 806 · <a href="https://x.com/vineerpasam/status/2119955306096857145">▶ Vidéo</a></sub><br>
 <sub>Signé Felix Rieseberg : « Tous les jeux ont été faits avec Claude Fable 5.2. Premiers jets, sans retour humain. » Le lien le plus partagé du jour du lancement.</sub><br>
 <sub><a href="https://claude.ai/artifact/6MjtQjf4ee1ZZjEpafaEpa">The Clockmaker's Heart</a> · <a href="https://claude.ai/artifact/JTgyEMn7sn1q2riWrMb7D4">Tidewright</a></sub><br>
 <sub><a href="https://fablelist.000ooo.ooo/fr/prompts/?w=three-games-saltline-the-clockmaker-s-heart-tidewright&ref=gh"><b>✨ Obtenir le prompt</b></a></sub>
@@ -247,13 +247,13 @@ Publiés ces 3 derniers jours, triés par j'aime.
 <td width="33%" valign="top">
 <a href="https://patch.gg/play/blendi/solar"><img src="assets/gifs/323.gif" width="100%" alt="Solar : un minuscule système solaire à parcourir en vol"></a><br>
 <b><a href="https://patch.gg/play/blendi/solar">Solar : un minuscule système solaire à parcourir en vol</a></b><br>
-<sub>🆕 · <a href="https://x.com/BlendiByl">@BlendiByl</a> · ♥ 789 · <a href="https://x.com/BlendiByl/status/2122673770607591855">▶ Vidéo</a></sub><br>
+<sub>🆕 · <a href="https://x.com/BlendiByl">@BlendiByl</a> · ♥ 791 · <a href="https://x.com/BlendiByl/status/2122673770607591855">▶ Vidéo</a></sub><br>
 <sub>Inspiré d'Outer Wilds : orbites et gravité réelles, vols continus entre les planètes, et chaque monde dessiné en code. Open source.</sub>
 </td>
 <td width="33%" valign="top">
 <a href="https://patch.gg/blendi/coloured-pencil"><img src="assets/gifs/247.gif" width="100%" alt="Coloured Pencil"></a><br>
 <b><a href="https://patch.gg/blendi/coloured-pencil">Coloured Pencil</a></b><br>
-<sub><a href="https://x.com/BlendiByl">@BlendiByl</a> · ♥ 761 · <a href="https://x.com/BlendiByl/status/2121130385723789637">▶ Vidéo</a></sub><br>
+<sub><a href="https://x.com/BlendiByl">@BlendiByl</a> · ♥ 762 · <a href="https://x.com/BlendiByl/status/2121130385723789637">▶ Vidéo</a></sub><br>
 <sub>Une tranche de jeu au crayon de couleur ; l'ombrage de chaque surface et toute la ville sont du code. Open source.</sub><br>
 <sub><a href="https://fablelist.000ooo.ooo/fr/prompts/?w=coloured-pencil&ref=gh"><b>✨ Obtenir le prompt</b></a></sub>
 </td>
@@ -282,14 +282,14 @@ Publiés ces 3 derniers jours, triés par j'aime.
 <td width="33%" valign="top">
 <a href="https://i-would-have-gotten-away-with-it.netlify.app/"><img src="assets/gifs/007.gif" width="100%" alt="I Would Have Gotten Away With It"></a><br>
 <b><a href="https://i-would-have-gotten-away-with-it.netlify.app/">I Would Have Gotten Away With It</a></b><br>
-<sub><a href="https://x.com/emollick">@emollick</a> · ♥ 516 · <a href="https://x.com/emollick/status/2119876449494540554">▶ Vidéo</a></sub><br>
+<sub><a href="https://x.com/emollick">@emollick</a> · ♥ 517 · <a href="https://x.com/emollick/status/2119876449494540554">▶ Vidéo</a></sub><br>
 <sub>Un Scooby-Doo à l'envers : vous êtes le méchant qui fait fuir des gamins fouineurs. Fable a aussi fait la bande-annonce, la musique et le son.</sub><br>
 <sub><a href="https://fablelist.000ooo.ooo/fr/prompts/?w=i-would-have-gotten-away-with-it&ref=gh"><b>✨ Obtenir le prompt</b></a></sub>
 </td>
 </tr>
 </table>
 
-<p align="center"><b><a href="all/games.fr.md">Voir les 95 →</a></b></p>
+<p align="center"><b><a href="all/games.fr.md">Voir les 96 →</a></b></p>
 
 <div align="right"><a href="#-sommaire">↑ Retour au sommaire</a></div>
 
@@ -337,7 +337,7 @@ Publiés ces 3 derniers jours, triés par j'aime.
 <td width="33%" valign="top">
 <a href="https://fable-rome.surge.sh/"><img src="assets/gifs/136.gif" width="100%" alt="Rome, AD 320"></a><br>
 <b><a href="https://fable-rome.surge.sh/">Rome, AD 320</a></b><br>
-<sub><a href="https://x.com/petergostev">@petergostev</a> · ♥ 969 · <a href="https://x.com/petergostev/status/2120167560700383572">▶ Vidéo</a></sub><br>
+<sub><a href="https://x.com/petergostev">@petergostev</a> · ♥ 972 · <a href="https://x.com/petergostev/status/2120167560700383572">▶ Vidéo</a></sub><br>
 <sub>Un prompt, Fable 5.2 (Max) tournant toute la nuit, 2 618 $.</sub><br>
 <sub><a href="https://x.com/petergostev/status/2120167560700383572">📝 Prompt du créateur (gratuit)</a></sub>
 </td>
@@ -353,7 +353,7 @@ Publiés ces 3 derniers jours, triés par j'aime.
 <td width="33%" valign="top">
 <a href="https://fable-rover.vercel.app"><img src="assets/gifs/278.gif" width="100%" alt="ER-6 Terrain Explorer — un rover martien autonome"></a><br>
 <b><a href="https://fable-rover.vercel.app">ER-6 Terrain Explorer — un rover martien autonome</a></b><br>
-<sub><a href="https://x.com/DilumSanjaya">@DilumSanjaya</a> · ♥ 795 · <a href="https://x.com/DilumSanjaya/status/2120561077385867663">▶ Vidéo</a></sub><br>
+<sub><a href="https://x.com/DilumSanjaya">@DilumSanjaya</a> · ♥ 796 · <a href="https://x.com/DilumSanjaya/status/2120561077385867663">▶ Vidéo</a></sub><br>
 <sub>Fable 5.2 a conçu une suspension rocker-bogie comme celle des rovers martiens de la NASA, puis l'a simulée sur un terrain extraterrestre.</sub>
 </td>
 <td width="33%" valign="top">
@@ -404,7 +404,7 @@ Publiés ces 3 derniers jours, triés par j'aime.
 <td width="33%" valign="top">
 <a href="http://taoistvibe.com"><img src="assets/gifs/307.gif" width="100%" alt="Chill Taoist Vibe : une colline et son temple taoïste"></a><br>
 <b><a href="http://taoistvibe.com">Chill Taoist Vibe : une colline et son temple taoïste</a></b><br>
-<sub><a href="https://x.com/qiqileyuan">@qiqileyuan</a> · ♥ 254 · <a href="https://x.com/qiqileyuan/status/2122006851298693277">▶ Vidéo</a></sub><br>
+<sub><a href="https://x.com/qiqileyuan">@qiqileyuan</a> · ♥ 253 · <a href="https://x.com/qiqileyuan/status/2122006851298693277">▶ Vidéo</a></sub><br>
 <sub>Un temple taoïste façon Ghibli sur une petite montagne. Suivez le vieux prêtre vers le sommet, brûlez de l'encens, tirez une baguette divinatoire, méditez, ou restez dans le fauteuil à bascule à regarder passer les saisons. Les statues et le personnage principal viennent de Tripo3D ; tout le reste est du code généré.</sub>
 </td>
 </tr>
@@ -477,7 +477,7 @@ Publiés ces 3 derniers jours, triés par j'aime.
 </tr>
 </table>
 
-<p align="center"><b><a href="all/3d-worlds.fr.md">Voir les 43 →</a></b></p>
+<p align="center"><b><a href="all/3d-worlds.fr.md">Voir les 45 →</a></b></p>
 
 <div align="right"><a href="#-sommaire">↑ Retour au sommaire</a></div>
 
@@ -604,23 +604,29 @@ Publiés ces 3 derniers jours, triés par j'aime.
 <td width="33%" valign="top">
 <a href="https://omage1.xyz"><img src="assets/gifs/337.gif" width="100%" alt="omage-1 : le synthé OP-1 Field dans le navigateur"></a><br>
 <b><a href="https://omage1.xyz">omage-1 : le synthé OP-1 Field dans le navigateur</a></b><br>
-<sub>🆕 · <a href="https://x.com/jamesmbickerton">@jamesmbickerton</a> · ♥ 561 · <a href="https://x.com/jamesmbickerton/status/2122688041219133815">▶ Vidéo</a></sub><br>
+<sub>🆕 · <a href="https://x.com/jamesmbickerton">@jamesmbickerton</a> · ♥ 567 · <a href="https://x.com/jamesmbickerton/status/2122688041219133815">▶ Vidéo</a></sub><br>
 <sub>Un hommage non officiel qui recrée l'OP-1 Field de Teenage Engineering en application web, jouable tout de suite.</sub>
 </td>
 <td width="33%" valign="top">
 <a href="https://claude.ai/artifact/4P1urBdptp6gWiJo3R6Vpv"><img src="assets/gifs/333.gif" width="100%" alt="Sampler vidéo breakcore"></a><br>
 <b><a href="https://claude.ai/artifact/4P1urBdptp6gWiJo3R6Vpv">Sampler vidéo breakcore</a></b><br>
-<sub>🆕 · <a href="https://x.com/parhelion318">@parhelion318</a> · ♥ 540 · <a href="https://x.com/parhelion318/status/2122723067533398064">▶ Vidéo</a></sub><br>
+<sub>🆕 · <a href="https://x.com/parhelion318">@parhelion318</a> · ♥ 541 · <a href="https://x.com/parhelion318/status/2122723067533398064">▶ Vidéo</a></sub><br>
 <sub>Un sampler dans le navigateur qui découpe des clips vidéo et les réarrange en rythmes breakcore.</sub>
 </td>
 <td width="33%" valign="top">
-<a href="https://www.bubbbly.com/christmas-cards"><img src="assets/gifs/315.gif" width="100%" alt="Christmas Cards : cartes de Noël interactives"></a><br>
-<b><a href="https://www.bubbbly.com/christmas-cards">Christmas Cards : cartes de Noël interactives</a></b><br>
-<sub>🆕 · <a href="https://x.com/ann_nnng">@ann_nnng</a> · ♥ 473 · <a href="https://x.com/ann_nnng/status/2122283549000712249">▶ Vidéo</a></sub><br>
-<sub>Une série de cartes de Noël interactives, comme un chat en écharpe rouge sur un rebord de fenêtre qui regarde tomber la neige.</sub>
+<a href="https://hexagonal.earth"><img src="assets/gifs/349.gif" width="100%" alt="Hexagonal Earth"></a><br>
+<b><a href="https://hexagonal.earth">Hexagonal Earth</a></b><br>
+<sub>🆕 · <a href="https://x.com/avsa">@avsa</a> · ♥ 495 · <a href="https://x.com/avsa/status/2123123638551392755">Publication</a></sub><br>
+<sub>Un diorama du monde entier fait d'hexagones, construit à partir de données réelles d'altitude, de profondeur océanique, d'humidité, de vent et de rivières. Fable 5.2 a généré des centaines de petits objets 3D en splats de pixels et les a placés lui-même dans la scène.</sub>
 </td>
 </tr>
 <tr>
+<td width="33%" valign="top">
+<a href="https://www.bubbbly.com/christmas-cards"><img src="assets/gifs/315.gif" width="100%" alt="Christmas Cards : cartes de Noël interactives"></a><br>
+<b><a href="https://www.bubbbly.com/christmas-cards">Christmas Cards : cartes de Noël interactives</a></b><br>
+<sub>🆕 · <a href="https://x.com/ann_nnng">@ann_nnng</a> · ♥ 474 · <a href="https://x.com/ann_nnng/status/2122283549000712249">▶ Vidéo</a></sub><br>
+<sub>Une série de cartes de Noël interactives, comme un chat en écharpe rouge sur un rebord de fenêtre qui regarde tomber la neige.</sub>
+</td>
 <td width="33%" valign="top">
 <a href="https://where-is-everybody-fermi.netlify.app/"><img src="assets/gifs/146.gif" width="100%" alt="Where Is Everybody?"></a><br>
 <b><a href="https://where-is-everybody-fermi.netlify.app/">Where Is Everybody?</a></b><br>
@@ -636,15 +642,15 @@ Publiés ces 3 derniers jours, triés par j'aime.
 <sub>Voyez la vue du terrain depuis chaque tribune du RAMS Park avant d'acheter un billet.</sub><br>
 <sub><a href="https://fablelist.000ooo.ooo/fr/prompts/?w=galatasaray-seat-view&ref=gh"><b>✨ Obtenir le prompt</b></a></sub>
 </td>
+</tr>
+<tr>
 <td width="33%" valign="top">
 <a href="https://rubber-hose-ui.vercel.app"><img src="assets/gifs/332.gif" width="100%" alt="Rubber Hose UI : des contrôles en personnages de cartoon des années 1930"></a><br>
 <b><a href="https://rubber-hose-ui.vercel.app">Rubber Hose UI : des contrôles en personnages de cartoon des années 1930</a></b><br>
-<sub>🆕 · <a href="https://x.com/crtvTeknologist">@crtvTeknologist</a> · ♥ 349 · <a href="https://x.com/crtvTeknologist/status/2122433522166124616">▶ Vidéo</a></sub><br>
+<sub>🆕 · <a href="https://x.com/crtvTeknologist">@crtvTeknologist</a> · ♥ 350 · <a href="https://x.com/crtvTeknologist/status/2122433522166124616">▶ Vidéo</a></sub><br>
 <sub>Onze contrôles web dessinés façon rubber hose : le curseur est un trombone, le toast est un grille-pain, et le bouton prend un œil au beurre noir à chaque clic. JS natif et canvas, sans dépendance, open source.</sub><br>
 <sub><a href="https://github.com/finktheartist/rubber-hose-ui">Code source</a></sub>
 </td>
-</tr>
-<tr>
 <td width="33%" valign="top">
 <a href="https://origamihelper.com"><img src="assets/gifs/220.gif" width="100%" alt="Origami Helper"></a><br>
 <b><a href="https://origamihelper.com">Origami Helper</a></b><br>
@@ -659,16 +665,10 @@ Publiés ces 3 derniers jours, triés par j'aime.
 <sub>Une machine à écrire entièrement fonctionnelle : tapez ou cliquez sur les touches, minuteurs d'écriture, correcteur blanc, correction automatique.</sub><br>
 <sub><a href="https://fablelist.000ooo.ooo/fr/prompts/?w=typed&ref=gh"><b>✨ Obtenir le prompt</b></a></sub>
 </td>
-<td width="33%" valign="top">
-<a href="https://hexagonal.earth"><img src="assets/gifs/349.gif" width="100%" alt="Hexagonal Earth"></a><br>
-<b><a href="https://hexagonal.earth">Hexagonal Earth</a></b><br>
-<sub>🆕 · <a href="https://x.com/avsa">@avsa</a> · ♥ 181 · <a href="https://x.com/avsa/status/2123123638551392755">Publication</a></sub><br>
-<sub>Un diorama du monde entier fait d'hexagones, construit à partir de données réelles d'altitude, de profondeur océanique, d'humidité, de vent et de rivières. Fable 5.2 a généré des centaines de petits objets 3D en splats de pixels et les a placés lui-même dans la scène.</sub>
-</td>
 </tr>
 </table>
 
-<p align="center"><b><a href="all/web-and-tools.fr.md">Voir les 44 →</a></b></p>
+<p align="center"><b><a href="all/web-and-tools.fr.md">Voir les 45 →</a></b></p>
 
 <div align="right"><a href="#-sommaire">↑ Retour au sommaire</a></div>
 
@@ -690,18 +690,18 @@ Publiés ces 3 derniers jours, triés par j'aime.
 <sub>Un film de 110 secondes en plan-séquence où un chat marche, renifle et bondit dans un jardin botanique. L'image vient d'un path tracer écrit pour l'occasion et le son est synthétisé avec numpy, sans aucun asset.</sub>
 </td>
 <td width="33%" valign="top">
-<a href="https://github.com/amirmushichge/shred-kit"><img src="assets/gifs/269.gif" width="100%" alt="Shred Kit — modèle de déchiquetage de papier"></a><br>
-<b><a href="https://github.com/amirmushichge/shred-kit">Shred Kit — modèle de déchiquetage de papier</a></b><br>
-<sub><a href="https://x.com/AmirMushich">@AmirMushich</a> · ♥ 432 · <a href="https://x.com/AmirMushich/status/2121339167800213934">▶ Vidéo</a></sub><br>
-<sub>Un reel de 8 secondes de papier déchiqueté, fait avec Fable 5.2 et Blender, partagé comme modèle gratuit.</sub>
+<a href="https://github.com/moritzkremb/robovac-pov"><img src="assets/gifs/334.gif" width="100%" alt="Robovac POV : un film réaliste vu par un robot aspirateur"></a><br>
+<b><a href="https://github.com/moritzkremb/robovac-pov">Robovac POV : un film réaliste vu par un robot aspirateur</a></b><br>
+<sub>🆕 · <a href="https://x.com/moritzkremb">@moritzkremb</a> · ♥ 442 · <a href="https://x.com/moritzkremb/status/2122702891819377117">▶ Vidéo</a></sub><br>
+<sub>Un film de 53 secondes fait uniquement avec du code : un monde écrit en C++, un path tracer GPU maison, une caméra simulée avec mise au point, flou de mouvement et grain, un tapis d'environ 900,000 fibres et un son synthétisé en Python.</sub>
 </td>
 </tr>
 <tr>
 <td width="33%" valign="top">
-<a href="https://github.com/moritzkremb/robovac-pov"><img src="assets/gifs/334.gif" width="100%" alt="Robovac POV : un film réaliste vu par un robot aspirateur"></a><br>
-<b><a href="https://github.com/moritzkremb/robovac-pov">Robovac POV : un film réaliste vu par un robot aspirateur</a></b><br>
-<sub>🆕 · <a href="https://x.com/moritzkremb">@moritzkremb</a> · ♥ 416 · <a href="https://x.com/moritzkremb/status/2122702891819377117">▶ Vidéo</a></sub><br>
-<sub>Un film de 53 secondes fait uniquement avec du code : un monde écrit en C++, un path tracer GPU maison, une caméra simulée avec mise au point, flou de mouvement et grain, un tapis d'environ 900,000 fibres et un son synthétisé en Python.</sub>
+<a href="https://github.com/amirmushichge/shred-kit"><img src="assets/gifs/269.gif" width="100%" alt="Shred Kit — modèle de déchiquetage de papier"></a><br>
+<b><a href="https://github.com/amirmushichge/shred-kit">Shred Kit — modèle de déchiquetage de papier</a></b><br>
+<sub><a href="https://x.com/AmirMushich">@AmirMushich</a> · ♥ 432 · <a href="https://x.com/AmirMushich/status/2121339167800213934">▶ Vidéo</a></sub><br>
+<sub>Un reel de 8 secondes de papier déchiqueté, fait avec Fable 5.2 et Blender, partagé comme modèle gratuit.</sub>
 </td>
 <td width="33%" valign="top">
 <a href="https://github.com/ChetasLua/pelican-riding-a-bicycle"><img src="assets/gifs/150.gif" width="100%" alt="The Pelican, Tired of the Road"></a><br>
@@ -714,7 +714,7 @@ Publiés ces 3 derniers jours, triés par j'aime.
 <td width="33%" valign="top">
 <a href="https://github.com/Leonxlnx/mechanical-moon"><img src="assets/gifs/336.gif" width="100%" alt="Mechanical Moon"></a><br>
 <b><a href="https://github.com/Leonxlnx/mechanical-moon">Mechanical Moon</a></b><br>
-<sub>🆕 · <a href="https://x.com/LexnLin">@LexnLin</a> · ♥ 351 · <a href="https://x.com/LexnLin/status/2122823164635881853">▶ Vidéo</a></sub><br>
+<sub>🆕 · <a href="https://x.com/LexnLin">@LexnLin</a> · ♥ 352 · <a href="https://x.com/LexnLin/status/2122823164635881853">▶ Vidéo</a></sub><br>
 <sub>Un film Blender procédural de 45 secondes : une lune fendue qui renferme une mégastructure dorée d'horlogerie, construite entièrement avec des scripts Python et rendue dans EEVEE.</sub>
 </td>
 </tr>
@@ -763,17 +763,23 @@ Publiés ces 3 derniers jours, triés par j'aime.
 </tr>
 <tr>
 <td width="33%" valign="top">
+<a href="https://github.com/ChetasLua/the-last-good-pelican-fable-5.2"><img src="assets/gifs/352.gif" width="100%" alt="The Last Good Pelican"></a><br>
+<b><a href="https://github.com/ChetasLua/the-last-good-pelican-fable-5.2">The Last Good Pelican</a></b><br>
+<sub>🆕 · <a href="https://x.com/chetaslua">@chetaslua</a> · ♥ 134 · <a href="https://x.com/chetaslua/status/2123100140189958401">▶ Vidéo</a></sub><br>
+<sub>Un court-métrage de 60 secondes au rendu dessiné à la main, dans un seul fichier HTML hors ligne : une journée dans la vie du seul pélican de benchmark réussi. Canvas 2D pour chaque dessin, Web Audio pour chaque son.</sub>
+</td>
+<td width="33%" valign="top">
 <a href="https://github.com/anstapnever/blackout"><img src="assets/gifs/052.gif" width="100%" alt="Blackout"></a><br>
 <b><a href="https://github.com/anstapnever/blackout">Blackout</a></b><br>
-<sub><a href="https://x.com/anstapnever">@anstapnever</a> · ♥ 118 · <a href="https://x.com/anstapnever/status/2119915123070644263">▶ Vidéo</a></sub><br>
+<sub><a href="https://x.com/anstapnever">@anstapnever</a> · ♥ 119 · <a href="https://x.com/anstapnever/status/2119915123070644263">▶ Vidéo</a></sub><br>
 <sub>Un court métrage d'anime de 79 secondes, tout en code.</sub><br>
 <sub><a href="https://x.com/anstapnever/status/2119915123070644263">📝 Prompt du créateur (gratuit)</a></sub>
 </td>
 <td width="33%" valign="top">
-<a href="https://github.com/ChetasLua/the-last-good-pelican-fable-5.2"><img src="assets/gifs/352.gif" width="100%" alt="The Last Good Pelican"></a><br>
-<b><a href="https://github.com/ChetasLua/the-last-good-pelican-fable-5.2">The Last Good Pelican</a></b><br>
-<sub>🆕 · <a href="https://x.com/chetaslua">@chetaslua</a> · ♥ 107 · <a href="https://x.com/chetaslua/status/2123100140189958401">▶ Vidéo</a></sub><br>
-<sub>Un court-métrage de 60 secondes au rendu dessiné à la main, dans un seul fichier HTML hors ligne : une journée dans la vie du seul pélican de benchmark réussi. Canvas 2D pour chaque dessin, Web Audio pour chaque son.</sub>
+<a href="https://github.com/Leonxlnx/koi-pond-keycap"><img src="assets/gifs/351.gif" width="100%" alt="Koi Pond Keycap"></a><br>
+<b><a href="https://github.com/Leonxlnx/koi-pond-keycap">Koi Pond Keycap</a></b><br>
+<sub>🆕 · <a href="https://x.com/LexnLin">@LexnLin</a> · ♥ 105 · <a href="https://x.com/LexnLin/status/2123174205306908806">▶ Vidéo</a></sub><br>
+<sub>Un film Blender de 45 secondes : une touche en résine transparente renferme un bassin de carpes koï ; un doigt appuie, des ondes parcourent l'eau et les koïs filent. Python entièrement procédural, sans modèles ni textures externes.</sub>
 </td>
 </tr>
 </table>
@@ -986,7 +992,7 @@ Toutes les œuvres appartiennent à leurs créateurs. Ce dépôt se contente de 
 
 ## 📰 Nouveautés
 
-- **2026-11-19** : +4 œuvres et +2 démos vidéo.
+- **2026-11-19** : +8 œuvres et +2 démos vidéo.
 - **2026-11-18** : +12 œuvres et +8 démos vidéo.
 - **2026-11-17** : +9 œuvres et +7 démos vidéo.
 - **2026-11-16** : +10 œuvres et +6 démos vidéo.

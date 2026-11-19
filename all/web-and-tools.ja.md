@@ -1,4 +1,4 @@
-# 🧰 Web ページとツール · 全 44 件
+# 🧰 Web ページとツール · 全 45 件
 
 [← メインリストに戻る](../README.ja.md) · [English](web-and-tools.md) · [简体中文](web-and-tools.zh-CN.md) · [繁體中文](web-and-tools.zh-TW.md) · **日本語** · [한국어](web-and-tools.ko.md) · [Español](web-and-tools.es.md) · [Português](web-and-tools.pt-BR.md) · [Français](web-and-tools.fr.md) · [Deutsch](web-and-tools.de.md) · [Русский](web-and-tools.ru.md)
 
@@ -125,23 +125,29 @@
 <td width="33%" valign="top">
 <a href="https://omage1.xyz"><img src="../assets/gifs/337.gif" width="100%" alt="omage-1：ブラウザで動く OP-1 Field シンセ"></a><br>
 <b><a href="https://omage1.xyz">omage-1：ブラウザで動く OP-1 Field シンセ</a></b><br>
-<sub>🆕 · <a href="https://x.com/jamesmbickerton">@jamesmbickerton</a> · ♥ 561 · <a href="https://x.com/jamesmbickerton/status/2122688041219133815">▶ 動画</a></sub><br>
+<sub>🆕 · <a href="https://x.com/jamesmbickerton">@jamesmbickerton</a> · ♥ 567 · <a href="https://x.com/jamesmbickerton/status/2122688041219133815">▶ 動画</a></sub><br>
 <sub>Teenage Engineering の OP-1 Field をブラウザアプリとして作り直した非公式オマージュ。開いてすぐ弾ける。</sub>
 </td>
 <td width="33%" valign="top">
 <a href="https://claude.ai/artifact/4P1urBdptp6gWiJo3R6Vpv"><img src="../assets/gifs/333.gif" width="100%" alt="Breakcore ビデオサンプラー"></a><br>
 <b><a href="https://claude.ai/artifact/4P1urBdptp6gWiJo3R6Vpv">Breakcore ビデオサンプラー</a></b><br>
-<sub>🆕 · <a href="https://x.com/parhelion318">@parhelion318</a> · ♥ 540 · <a href="https://x.com/parhelion318/status/2122723067533398064">▶ 動画</a></sub><br>
+<sub>🆕 · <a href="https://x.com/parhelion318">@parhelion318</a> · ♥ 541 · <a href="https://x.com/parhelion318/status/2122723067533398064">▶ 動画</a></sub><br>
 <sub>動画クリップを刻んで breakcore のリズムに並べ替える、ブラウザで動くサンプラー。</sub>
 </td>
 <td width="33%" valign="top">
-<a href="https://www.bubbbly.com/christmas-cards"><img src="../assets/gifs/315.gif" width="100%" alt="Christmas Cards：インタラクティブなクリスマスカード"></a><br>
-<b><a href="https://www.bubbbly.com/christmas-cards">Christmas Cards：インタラクティブなクリスマスカード</a></b><br>
-<sub>🆕 · <a href="https://x.com/ann_nnng">@ann_nnng</a> · ♥ 473 · <a href="https://x.com/ann_nnng/status/2122283549000712249">▶ 動画</a></sub><br>
-<sub>インタラクティブなクリスマスカードのセット。赤いマフラーの猫が窓辺で降る雪を眺めるカードなど。</sub>
+<a href="https://hexagonal.earth"><img src="../assets/gifs/349.gif" width="100%" alt="Hexagonal Earth"></a><br>
+<b><a href="https://hexagonal.earth">Hexagonal Earth</a></b><br>
+<sub>🆕 · <a href="https://x.com/avsa">@avsa</a> · ♥ 495 · <a href="https://x.com/avsa/status/2123123638551392755">投稿</a></sub><br>
+<sub>実際の標高、海の深さ、湿度、風、河川のデータから作った、六角形でできた世界全体のジオラマ。Fable 5.2 が数百個の小さな 3D ピクセルスプラットのオブジェクトを生成し、自分でシーンに配置した。</sub>
 </td>
 </tr>
 <tr>
+<td width="33%" valign="top">
+<a href="https://www.bubbbly.com/christmas-cards"><img src="../assets/gifs/315.gif" width="100%" alt="Christmas Cards：インタラクティブなクリスマスカード"></a><br>
+<b><a href="https://www.bubbbly.com/christmas-cards">Christmas Cards：インタラクティブなクリスマスカード</a></b><br>
+<sub>🆕 · <a href="https://x.com/ann_nnng">@ann_nnng</a> · ♥ 474 · <a href="https://x.com/ann_nnng/status/2122283549000712249">▶ 動画</a></sub><br>
+<sub>インタラクティブなクリスマスカードのセット。赤いマフラーの猫が窓辺で降る雪を眺めるカードなど。</sub>
+</td>
 <td width="33%" valign="top">
 <a href="https://where-is-everybody-fermi.netlify.app/"><img src="../assets/gifs/146.gif" width="100%" alt="Where Is Everybody?"></a><br>
 <b><a href="https://where-is-everybody-fermi.netlify.app/">Where Is Everybody?</a></b><br>
@@ -157,15 +163,15 @@
 <sub>チケット購入前に、RAMS Park の各ブロックからのピッチの眺めを確認できる。</sub><br>
 <sub><a href="https://fablelist.000ooo.ooo/ja/prompts/?w=galatasaray-seat-view&ref=gh"><b>✨ プロンプトを入手</b></a></sub>
 </td>
+</tr>
+<tr>
 <td width="33%" valign="top">
 <a href="https://rubber-hose-ui.vercel.app"><img src="../assets/gifs/332.gif" width="100%" alt="Rubber Hose UI：1930 年代カートゥーン風の UI 部品"></a><br>
 <b><a href="https://rubber-hose-ui.vercel.app">Rubber Hose UI：1930 年代カートゥーン風の UI 部品</a></b><br>
-<sub>🆕 · <a href="https://x.com/crtvTeknologist">@crtvTeknologist</a> · ♥ 349 · <a href="https://x.com/crtvTeknologist/status/2122433522166124616">▶ 動画</a></sub><br>
+<sub>🆕 · <a href="https://x.com/crtvTeknologist">@crtvTeknologist</a> · ♥ 350 · <a href="https://x.com/crtvTeknologist/status/2122433522166124616">▶ 動画</a></sub><br>
 <sub>11 個の Web コントロールをラバーホース調のキャラクターに。スライダーはトロンボーン、トーストはトースター、ボタンは押すたびに目にあざができる。素の JS と canvas、依存なし、オープンソース。</sub><br>
 <sub><a href="https://github.com/finktheartist/rubber-hose-ui">ソースコード</a></sub>
 </td>
-</tr>
-<tr>
 <td width="33%" valign="top">
 <a href="https://origamihelper.com"><img src="../assets/gifs/220.gif" width="100%" alt="Origami Helper"></a><br>
 <b><a href="https://origamihelper.com">Origami Helper</a></b><br>
@@ -179,12 +185,6 @@
 <sub><a href="https://x.com/clairevo">@clairevo</a> · ♥ 205 · <a href="https://x.com/clairevo/status/2119905651359142132">▶ 動画</a></sub><br>
 <sub>完全に動くタイプライター：タイプでもクリックでも入力でき、執筆タイマー、修正液、オートコレクト付き。</sub><br>
 <sub><a href="https://fablelist.000ooo.ooo/ja/prompts/?w=typed&ref=gh"><b>✨ プロンプトを入手</b></a></sub>
-</td>
-<td width="33%" valign="top">
-<a href="https://hexagonal.earth"><img src="../assets/gifs/349.gif" width="100%" alt="Hexagonal Earth"></a><br>
-<b><a href="https://hexagonal.earth">Hexagonal Earth</a></b><br>
-<sub>🆕 · <a href="https://x.com/avsa">@avsa</a> · ♥ 181 · <a href="https://x.com/avsa/status/2123123638551392755">投稿</a></sub><br>
-<sub>実際の標高、海の深さ、湿度、風、河川のデータから作った、六角形でできた世界全体のジオラマ。Fable 5.2 が数百個の小さな 3D ピクセルスプラットのオブジェクトを生成し、自分でシーンに配置した。</sub>
 </td>
 </tr>
 <tr>
@@ -255,6 +255,12 @@
 </tr>
 <tr>
 <td width="33%" valign="top">
+<a href="http://promptronic3000.com"><img src="../assets/gifs/358.gif" width="100%" alt="Promptronic 3000"></a><br>
+<b><a href="http://promptronic3000.com">Promptronic 3000</a></b><br>
+<sub>🆕 · <a href="https://x.com/fabianstelzer">@fabianstelzer</a> · ♥ 44 · <a href="https://x.com/fabianstelzer/status/2123121678670520627">▶ 動画</a></sub><br>
+<sub>Web 上のエージェント型モジュラーシンセ。MCP で Claude などの Agent をつなぎ、パッチや新しいモジュールまで言葉で作らせ、URL で共有できる。</sub>
+</td>
+<td width="33%" valign="top">
 <a href="https://ai.itokoba.com/ichimai/"><img src="../assets/gifs/260.gif" width="100%" alt="Ichimai — 1 ページでどこまでいけるか"></a><br>
 <b><a href="https://ai.itokoba.com/ichimai/">Ichimai — 1 ページでどこまでいけるか</a></b><br>
 <sub><a href="https://x.com/hideki_climax">@hideki_climax</a> · ♥ 12 · <a href="https://x.com/hideki_climax/status/2120165464722809190">▶ 動画</a></sub><br>
@@ -268,6 +274,8 @@
 <sub>Intel 4004 の 2,242 個のトランジスタを、トランジスタレベルのシミュレーションで 1 個ずつ壊した。チップマップ上のトランジスタにカーソルを合わせると、何が動かなくなるかが分かる。</sub><br>
 <sub><a href="https://github.com/rain-1/intel4004">ソースコード</a></sub>
 </td>
+</tr>
+<tr>
 <td width="33%" valign="top">
 <a href="https://jwt-designs-preview.noone-697.workers.dev/"><img src="../assets/gifs/046.gif" width="100%" alt="ランディングページ 20 案"></a><br>
 <b><a href="https://jwt-designs-preview.noone-697.workers.dev/">ランディングページ 20 案</a></b><br>
@@ -275,8 +283,6 @@
 <sub>JWT プラグインのランディングページの代替案 20 個を、シンプルな 1 つのプロンプトから。</sub><br>
 <sub><a href="https://x.com/Tmeister/status/2119983842841018482">📝 作者公開のプロンプト（無料）</a></sub>
 </td>
-</tr>
-<tr>
 <td width="33%" valign="top">
 <a href="https://www.asumacodes.xyz/arena/driftwood"><img src="../assets/gifs/047.gif" width="100%" alt="Driftwood（Fable vs Opus）"></a><br>
 <b><a href="https://www.asumacodes.xyz/arena/driftwood">Driftwood（Fable vs Opus）</a></b><br>
@@ -291,6 +297,8 @@
 <sub><a href="https://x.com/seanaiux">@seanaiux</a> · ♥ 8 · <a href="https://x.com/seanaiux/status/2121688869439455410">▶ 動画</a></sub><br>
 <sub>「自分が怖くなるサイトを作って」と頼んだ作品。闇から蜘蛛が降りてきて、スクロールすると巣、目、牙、脚とたどり、最後にはあなたが獲物の蠅になります。</sub>
 </td>
+</tr>
+<tr>
 <td width="33%" valign="top">
 <a href="https://claude.ai/artifact/TiymxxFXzMo7xhWUaecbzk"><img src="https://pbs.twimg.com/media/HWwrmvIb0AAMLPK.jpg?name=small" width="100%" alt="住宅デザイン提案"></a><br>
 <b><a href="https://claude.ai/artifact/TiymxxFXzMo7xhWUaecbzk">住宅デザイン提案</a></b><br>
@@ -298,8 +306,6 @@
 <sub>戸建て住宅のデザイン提案（韓国語）、1 日で制作。</sub><br>
 <sub><a href="https://fablelist.000ooo.ooo/ja/prompts/?w=house-design-proposal&ref=gh"><b>✨ プロンプトを入手</b></a></sub>
 </td>
-</tr>
-<tr>
 <td width="33%" valign="top">
 <a href="https://claude.ai/artifact/9yQkezie4jY3oz2YDLFDiq"><img src="../assets/gifs/040.gif" width="100%" alt="Bay Drum Kit"></a><br>
 <b><a href="https://claude.ai/artifact/9yQkezie4jY3oz2YDLFDiq">Bay Drum Kit</a></b><br>
@@ -314,6 +320,8 @@
 <sub>ワンショット。</sub><br>
 <sub><a href="https://fablelist.000ooo.ooo/ja/prompts/?w=dub-techno-track-visualizer&ref=gh"><b>✨ プロンプトを入手</b></a></sub>
 </td>
+</tr>
+<tr>
 <td width="33%" valign="top">
 <a href="https://claude.ai/artifact/5ufHvxgvXTf5YgQeTR8TbG"><img src="../assets/gifs/044.gif" width="100%" alt="ラーマーヤナの家系図"></a><br>
 <b><a href="https://claude.ai/artifact/5ufHvxgvXTf5YgQeTR8TbG">ラーマーヤナの家系図</a></b><br>
@@ -321,8 +329,6 @@
 <sub>主演俳優と 65 人のボリウッドスターとの血縁・婚姻関係。</sub><br>
 <sub><a href="https://fablelist.000ooo.ooo/ja/prompts/?w=ramayana-family-tree&ref=gh"><b>✨ プロンプトを入手</b></a></sub>
 </td>
-</tr>
-<tr>
 <td width="33%" valign="top">
 <a href="https://claude.ai/artifact/4aEy6FtUi7jrm9U7uYgp8K"><img src="../assets/gifs/042.gif" width="100%" alt="Demoscene Demo"></a><br>
 <b><a href="https://claude.ai/artifact/4aEy6FtUi7jrm9U7uYgp8K">Demoscene Demo</a></b><br>

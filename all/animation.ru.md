@@ -20,18 +20,18 @@
 <sub>110-секундный фильм одним кадром: кошка идёт по ботаническому саду, принюхивается и прыгает. Картинку считает специально написанный трассировщик путей, звук синтезирован в numpy, без каких-либо готовых ассетов.</sub>
 </td>
 <td width="33%" valign="top">
-<a href="https://github.com/amirmushichge/shred-kit"><img src="../assets/gifs/269.gif" width="100%" alt="Shred Kit — шаблон бумажного шредера"></a><br>
-<b><a href="https://github.com/amirmushichge/shred-kit">Shred Kit — шаблон бумажного шредера</a></b><br>
-<sub><a href="https://x.com/AmirMushich">@AmirMushich</a> · ♥ 432 · <a href="https://x.com/AmirMushich/status/2121339167800213934">▶ Видео</a></sub><br>
-<sub>8-секундный рилс с измельчением бумаги, сделан с Fable 5.2 и Blender, опубликован как бесплатный шаблон.</sub>
+<a href="https://github.com/moritzkremb/robovac-pov"><img src="../assets/gifs/334.gif" width="100%" alt="Robovac POV: реалистичный фильм глазами робота-пылесоса"></a><br>
+<b><a href="https://github.com/moritzkremb/robovac-pov">Robovac POV: реалистичный фильм глазами робота-пылесоса</a></b><br>
+<sub>🆕 · <a href="https://x.com/moritzkremb">@moritzkremb</a> · ♥ 442 · <a href="https://x.com/moritzkremb/status/2122702891819377117">▶ Видео</a></sub><br>
+<sub>53-секундный фильм, сделанный только кодом: мир на C++, собственный GPU-трассировщик путей, симуляция камеры с фокусом, размытием движения и зерном, ковёр примерно из 900,000 ворсинок и звук, синтезированный на Python.</sub>
 </td>
 </tr>
 <tr>
 <td width="33%" valign="top">
-<a href="https://github.com/moritzkremb/robovac-pov"><img src="../assets/gifs/334.gif" width="100%" alt="Robovac POV: реалистичный фильм глазами робота-пылесоса"></a><br>
-<b><a href="https://github.com/moritzkremb/robovac-pov">Robovac POV: реалистичный фильм глазами робота-пылесоса</a></b><br>
-<sub>🆕 · <a href="https://x.com/moritzkremb">@moritzkremb</a> · ♥ 416 · <a href="https://x.com/moritzkremb/status/2122702891819377117">▶ Видео</a></sub><br>
-<sub>53-секундный фильм, сделанный только кодом: мир на C++, собственный GPU-трассировщик путей, симуляция камеры с фокусом, размытием движения и зерном, ковёр примерно из 900,000 ворсинок и звук, синтезированный на Python.</sub>
+<a href="https://github.com/amirmushichge/shred-kit"><img src="../assets/gifs/269.gif" width="100%" alt="Shred Kit — шаблон бумажного шредера"></a><br>
+<b><a href="https://github.com/amirmushichge/shred-kit">Shred Kit — шаблон бумажного шредера</a></b><br>
+<sub><a href="https://x.com/AmirMushich">@AmirMushich</a> · ♥ 432 · <a href="https://x.com/AmirMushich/status/2121339167800213934">▶ Видео</a></sub><br>
+<sub>8-секундный рилс с измельчением бумаги, сделан с Fable 5.2 и Blender, опубликован как бесплатный шаблон.</sub>
 </td>
 <td width="33%" valign="top">
 <a href="https://github.com/ChetasLua/pelican-riding-a-bicycle"><img src="../assets/gifs/150.gif" width="100%" alt="The Pelican, Tired of the Road"></a><br>
@@ -44,7 +44,7 @@
 <td width="33%" valign="top">
 <a href="https://github.com/Leonxlnx/mechanical-moon"><img src="../assets/gifs/336.gif" width="100%" alt="Mechanical Moon"></a><br>
 <b><a href="https://github.com/Leonxlnx/mechanical-moon">Mechanical Moon</a></b><br>
-<sub>🆕 · <a href="https://x.com/LexnLin">@LexnLin</a> · ♥ 351 · <a href="https://x.com/LexnLin/status/2122823164635881853">▶ Видео</a></sub><br>
+<sub>🆕 · <a href="https://x.com/LexnLin">@LexnLin</a> · ♥ 352 · <a href="https://x.com/LexnLin/status/2122823164635881853">▶ Видео</a></sub><br>
 <sub>45-секундный процедурный фильм в Blender: расколотая луна с золотой часовой мегаструктурой внутри, полностью собранная Python-скриптами и отрендеренная в EEVEE.</sub>
 </td>
 </tr>
@@ -93,22 +93,22 @@
 </tr>
 <tr>
 <td width="33%" valign="top">
+<a href="https://github.com/ChetasLua/the-last-good-pelican-fable-5.2"><img src="../assets/gifs/352.gif" width="100%" alt="The Last Good Pelican"></a><br>
+<b><a href="https://github.com/ChetasLua/the-last-good-pelican-fable-5.2">The Last Good Pelican</a></b><br>
+<sub>🆕 · <a href="https://x.com/chetaslua">@chetaslua</a> · ♥ 134 · <a href="https://x.com/chetaslua/status/2123100140189958401">▶ Видео</a></sub><br>
+<sub>60-секундная короткометражка в рисованном стиле в одном офлайн-файле HTML: один день из жизни единственного бенчмарк-пеликана, который получился правильно. Вся графика на Canvas 2D, весь звук на Web Audio.</sub>
+</td>
+<td width="33%" valign="top">
 <a href="https://github.com/anstapnever/blackout"><img src="../assets/gifs/052.gif" width="100%" alt="Blackout"></a><br>
 <b><a href="https://github.com/anstapnever/blackout">Blackout</a></b><br>
-<sub><a href="https://x.com/anstapnever">@anstapnever</a> · ♥ 118 · <a href="https://x.com/anstapnever/status/2119915123070644263">▶ Видео</a></sub><br>
+<sub><a href="https://x.com/anstapnever">@anstapnever</a> · ♥ 119 · <a href="https://x.com/anstapnever/status/2119915123070644263">▶ Видео</a></sub><br>
 <sub>79-секундная аниме-короткометражка, всё на коде.</sub><br>
 <sub><a href="https://x.com/anstapnever/status/2119915123070644263">📝 Промпт автора (бесплатно)</a></sub>
 </td>
 <td width="33%" valign="top">
-<a href="https://github.com/ChetasLua/the-last-good-pelican-fable-5.2"><img src="../assets/gifs/352.gif" width="100%" alt="The Last Good Pelican"></a><br>
-<b><a href="https://github.com/ChetasLua/the-last-good-pelican-fable-5.2">The Last Good Pelican</a></b><br>
-<sub>🆕 · <a href="https://x.com/chetaslua">@chetaslua</a> · ♥ 107 · <a href="https://x.com/chetaslua/status/2123100140189958401">▶ Видео</a></sub><br>
-<sub>60-секундная короткометражка в рисованном стиле в одном офлайн-файле HTML: один день из жизни единственного бенчмарк-пеликана, который получился правильно. Вся графика на Canvas 2D, весь звук на Web Audio.</sub>
-</td>
-<td width="33%" valign="top">
 <a href="https://github.com/Leonxlnx/koi-pond-keycap"><img src="../assets/gifs/351.gif" width="100%" alt="Koi Pond Keycap"></a><br>
 <b><a href="https://github.com/Leonxlnx/koi-pond-keycap">Koi Pond Keycap</a></b><br>
-<sub>🆕 · <a href="https://x.com/LexnLin">@LexnLin</a> · ♥ 72 · <a href="https://x.com/LexnLin/status/2123174205306908806">▶ Видео</a></sub><br>
+<sub>🆕 · <a href="https://x.com/LexnLin">@LexnLin</a> · ♥ 105 · <a href="https://x.com/LexnLin/status/2123174205306908806">▶ Видео</a></sub><br>
 <sub>45-секундный ролик в Blender: прозрачный кейкап из смолы с прудом с карпами кои внутри. Палец нажимает клавишу, по воде бегут круги, карпы бросаются врассыпную. Полностью процедурный Python, без внешних моделей и текстур.</sub>
 </td>
 </tr>
