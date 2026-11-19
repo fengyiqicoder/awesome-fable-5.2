@@ -16,7 +16,7 @@
 <td width="33%" valign="top">
 <a href="https://xikhar.github.io/papertrails/"><img src="../assets/gifs/330.gif" width="100%" alt="Papertrails 走到哪立到哪的立体书世界"></a><br>
 <b><a href="https://xikhar.github.io/papertrails/">Papertrails 走到哪立到哪的立体书世界</a></b><br>
-<sub>🆕 · <a href="https://x.com/xikhar">@xikhar</a> · ♥ 2.1k · <a href="https://x.com/xikhar/status/2122682962647122403">▶ 视频</a></sub><br>
+<sub>🆕 · <a href="https://x.com/xikhar">@xikhar</a> · ♥ 2.2k · <a href="https://x.com/xikhar/status/2122682962647122403">▶ 视频</a></sub><br>
 <sub>小纸人往前走，树、房子、山丘像翻立体书一样从地面立起来，沙漠、雪地、森林和昼夜无限延伸；Fable 5.2 和 Opus 5.5 配 three.js 做的</sub><br>
 <sub><a href="https://github.com/xikhar/papertrails">源码</a></sub>
 </td>
@@ -46,7 +46,7 @@
 <td width="33%" valign="top">
 <a href="https://fable-rome.surge.sh/"><img src="../assets/gifs/136.gif" width="100%" alt="Rome, AD 320 古罗马"></a><br>
 <b><a href="https://fable-rome.surge.sh/">Rome, AD 320 古罗马</a></b><br>
-<sub><a href="https://x.com/petergostev">@petergostev</a> · ♥ 968 · <a href="https://x.com/petergostev/status/2120167560700383572">▶ 视频</a></sub><br>
+<sub><a href="https://x.com/petergostev">@petergostev</a> · ♥ 969 · <a href="https://x.com/petergostev/status/2120167560700383572">▶ 视频</a></sub><br>
 <sub>一条提示词，Fable 5.2 Max 跑了一夜，花费 $2,618</sub><br>
 <sub><a href="https://x.com/petergostev/status/2120167560700383572">📝 作者公开的提示词（免费）</a></sub>
 </td>
@@ -62,13 +62,13 @@
 <td width="33%" valign="top">
 <a href="https://fable-rover.vercel.app"><img src="../assets/gifs/278.gif" width="100%" alt="ER-6 火星车地形探索"></a><br>
 <b><a href="https://fable-rover.vercel.app">ER-6 火星车地形探索</a></b><br>
-<sub><a href="https://x.com/DilumSanjaya">@DilumSanjaya</a> · ♥ 793 · <a href="https://x.com/DilumSanjaya/status/2120561077385867663">▶ 视频</a></sub><br>
+<sub><a href="https://x.com/DilumSanjaya">@DilumSanjaya</a> · ♥ 795 · <a href="https://x.com/DilumSanjaya/status/2120561077385867663">▶ 视频</a></sub><br>
 <sub>让它设计 NASA 火星车那种摇臂-转向架悬挂，再模拟它在外星地形上自动行驶</sub>
 </td>
 <td width="33%" valign="top">
 <a href="https://ship-42-catch.netlify.app/"><img src="../assets/gifs/297.gif" width="100%" alt="Ship 42 Catch 星舰筷子夹回收"></a><br>
 <b><a href="https://ship-42-catch.netlify.app/">Ship 42 Catch 星舰筷子夹回收</a></b><br>
-<sub>🆕 · <a href="https://x.com/emollick">@emollick</a> · ♥ 737 · <a href="https://x.com/emollick/status/2122036763468214711">▶ 视频</a></sub><br>
+<sub><a href="https://x.com/emollick">@emollick</a> · ♥ 738 · <a href="https://x.com/emollick/status/2122036763468214711">▶ 视频</a></sub><br>
 <sub>让 Fable 和 Opus 找来星舰被发射塔「筷子」夹住的视频，把最后 40 秒用 three.js 高细节重现，能切换视角</sub>
 </td>
 </tr>
@@ -89,7 +89,7 @@
 <td width="33%" valign="top">
 <a href="https://bay.theojaffee.net"><img src="../assets/gifs/137.gif" width="100%" alt="湾区 250 年"></a><br>
 <b><a href="https://bay.theojaffee.net">湾区 250 年</a></b><br>
-<sub><a href="https://x.com/theojaffee">@theojaffee</a> · ♥ 387 · <a href="https://x.com/theojaffee/status/2120312766544437738">▶ 视频</a></sub><br>
+<sub><a href="https://x.com/theojaffee">@theojaffee</a> · ♥ 388 · <a href="https://x.com/theojaffee/status/2120312766544437738">▶ 视频</a></sub><br>
 <sub>缩放到任意城市或街区，选 1769 年以来的任一年看当时的样子</sub><br>
 <sub><a href="https://nyc.theojaffee.net">纽约版</a></sub><br>
 <sub><a href="https://fablelist.000ooo.ooo/zh/prompts/?w=bay-area-through-time&ref=gh"><b>✨ 获取提示词</b></a></sub>
@@ -113,7 +113,7 @@
 <td width="33%" valign="top">
 <a href="http://taoistvibe.com"><img src="../assets/gifs/307.gif" width="100%" alt="紫曜宫 Chill Taoist Vibe 道教小山"></a><br>
 <b><a href="http://taoistvibe.com">紫曜宫 Chill Taoist Vibe 道教小山</a></b><br>
-<sub>🆕 · <a href="https://x.com/qiqileyuan">@qiqileyuan</a> · ♥ 254 · <a href="https://x.com/qiqileyuan/status/2122006851298693277">▶ 视频</a></sub><br>
+<sub><a href="https://x.com/qiqileyuan">@qiqileyuan</a> · ♥ 254 · <a href="https://x.com/qiqileyuan/status/2122006851298693277">▶ 视频</a></sub><br>
 <sub>吉卜力画风的道观小山：跟着老道人上山，烧香、求签、打坐、站桩，或者坐在摇椅上看四季变化；神像和主角模型用 Tripo3D，其余全是代码生成</sub>
 </td>
 </tr>
@@ -157,7 +157,7 @@
 <td width="33%" valign="top">
 <a href="https://github.com/Leonxlnx/beautiful-wonderland"><img src="../assets/gifs/301.gif" width="100%" alt="Beautiful Wonderland 手绘小世界"></a><br>
 <b><a href="https://github.com/Leonxlnx/beautiful-wonderland">Beautiful Wonderland 手绘小世界</a></b><br>
-<sub>🆕 · <a href="https://x.com/LexnLin">@LexnLin</a> · ♥ 145 · <a href="https://x.com/LexnLin/status/2122056542778535977">▶ 视频</a></sub><br>
+<sub><a href="https://x.com/LexnLin">@LexnLin</a> · ♥ 145 · <a href="https://x.com/LexnLin/status/2122056542778535977">▶ 视频</a></sub><br>
 <sub>three.js 写的一个手绘质感小世界，还从里面渲染了一段 40 秒 4K 短片</sub>
 </td>
 </tr>
@@ -211,7 +211,7 @@
 <td width="33%" valign="top">
 <a href="https://starknightt.github.io/summer-festival/"><img src="../assets/gifs/309.gif" width="100%" alt="Summer Festival 海边小镇夏日祭"></a><br>
 <b><a href="https://starknightt.github.io/summer-festival/">Summer Festival 海边小镇夏日祭</a></b><br>
-<sub>🆕 · <a href="https://x.com/prasenx">@prasenx</a> · ♥ 36 · <a href="https://x.com/prasenx/status/2121961933540917658">▶ 视频</a></sub><br>
+<sub><a href="https://x.com/prasenx">@prasenx</a> · ♥ 36 · <a href="https://x.com/prasenx/status/2121961933540917658">▶ 视频</a></sub><br>
 <sub>动画风的海边小镇夏日祭，可以在里面散步；three.js + WebGPU，Opus 5.5 和 Fable 5.2 一起做的</sub><br>
 <sub><a href="https://github.com/StarKnightt/summer-festival">源码</a></sub>
 </td>

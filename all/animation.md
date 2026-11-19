@@ -1,4 +1,4 @@
-# 🎬 Animation & Film (with source) · all 17
+# 🎬 Animation & Film (with source) · all 19
 
 [← Back to the main list](../README.md) · **English** · [简体中文](animation.zh-CN.md) · [繁體中文](animation.zh-TW.md) · [日本語](animation.ja.md) · [한국어](animation.ko.md) · [Español](animation.es.md) · [Português](animation.pt-BR.md) · [Français](animation.fr.md) · [Deutsch](animation.de.md) · [Русский](animation.ru.md)
 
@@ -30,30 +30,30 @@ The main page shows at most the top 24 posts with 100+ likes; this page has ever
 <td width="33%" valign="top">
 <a href="https://github.com/moritzkremb/robovac-pov"><img src="../assets/gifs/334.gif" width="100%" alt="Robovac POV: a lifelike film from a robot vacuum's view"></a><br>
 <b><a href="https://github.com/moritzkremb/robovac-pov">Robovac POV: a lifelike film from a robot vacuum's view</a></b><br>
-<sub>🆕 · <a href="https://x.com/moritzkremb">@moritzkremb</a> · ♥ 390 · <a href="https://x.com/moritzkremb/status/2122702891819377117">▶ Video</a></sub><br>
+<sub>🆕 · <a href="https://x.com/moritzkremb">@moritzkremb</a> · ♥ 416 · <a href="https://x.com/moritzkremb/status/2122702891819377117">▶ Video</a></sub><br>
 <sub>A 53-second film made only with code: a world written in C++, a custom GPU path tracer, a simulated camera with focus, motion blur and grain, a rug of about 900,000 fibres, and sound synthesized in Python.</sub>
 </td>
 <td width="33%" valign="top">
 <a href="https://github.com/ChetasLua/pelican-riding-a-bicycle"><img src="../assets/gifs/150.gif" width="100%" alt="The Pelican, Tired of the Road"></a><br>
 <b><a href="https://github.com/ChetasLua/pelican-riding-a-bicycle">The Pelican, Tired of the Road</a></b><br>
-<sub><a href="https://x.com/chetaslua">@chetaslua</a> · ♥ 357 · <a href="https://x.com/chetaslua/status/2120438091647218025">▶ Video</a></sub><br>
+<sub><a href="https://x.com/chetaslua">@chetaslua</a> · ♥ 358 · <a href="https://x.com/chetaslua/status/2120438091647218025">▶ Video</a></sub><br>
 <sub>A 60-second hand-painted-look film about the SVG-test pelican. One HTML file; every pixel and every sound is code.</sub><br>
 <sub><a href="https://github.com/ChetasLua/mona-lisa-js">Mona Lisa in JS</a></sub><br>
 <sub><a href="https://fablelist.000ooo.ooo/prompts/?w=the-pelican-tired-of-the-road&ref=gh"><b>✨ Get the prompt</b></a></sub>
 </td>
 <td width="33%" valign="top">
-<a href="https://github.com/Leonxlnx/castle-cinematic"><img src="../assets/gifs/302.gif" width="100%" alt="Castle Cinematic"></a><br>
-<b><a href="https://github.com/Leonxlnx/castle-cinematic">Castle Cinematic</a></b><br>
-<sub>🆕 · <a href="https://x.com/LexnLin">@LexnLin</a> · ♥ 326 · <a href="https://x.com/LexnLin/status/2122112228522623459">▶ Video</a></sub><br>
-<sub>A 45-second 4K film of a gothic castle on a cliff at sunset. Every frame comes from about 9,000 lines of Python in Blender, with no 3D assets or textures.</sub>
+<a href="https://github.com/Leonxlnx/mechanical-moon"><img src="../assets/gifs/336.gif" width="100%" alt="Mechanical Moon"></a><br>
+<b><a href="https://github.com/Leonxlnx/mechanical-moon">Mechanical Moon</a></b><br>
+<sub>🆕 · <a href="https://x.com/LexnLin">@LexnLin</a> · ♥ 351 · <a href="https://x.com/LexnLin/status/2122823164635881853">▶ Video</a></sub><br>
+<sub>A 45-second procedural Blender film of a cracked-open moon with a golden clockwork megastructure inside, built entirely with Python scripts and rendered in EEVEE.</sub>
 </td>
 </tr>
 <tr>
 <td width="33%" valign="top">
-<a href="https://github.com/Leonxlnx/mechanical-moon"><img src="../assets/gifs/336.gif" width="100%" alt="Mechanical Moon"></a><br>
-<b><a href="https://github.com/Leonxlnx/mechanical-moon">Mechanical Moon</a></b><br>
-<sub>🆕 · <a href="https://x.com/LexnLin">@LexnLin</a> · ♥ 310 · <a href="https://x.com/LexnLin/status/2122823164635881853">▶ Video</a></sub><br>
-<sub>A 45-second procedural Blender film of a cracked-open moon with a golden clockwork megastructure inside, built entirely with Python scripts and rendered in EEVEE.</sub>
+<a href="https://github.com/Leonxlnx/castle-cinematic"><img src="../assets/gifs/302.gif" width="100%" alt="Castle Cinematic"></a><br>
+<b><a href="https://github.com/Leonxlnx/castle-cinematic">Castle Cinematic</a></b><br>
+<sub><a href="https://x.com/LexnLin">@LexnLin</a> · ♥ 326 · <a href="https://x.com/LexnLin/status/2122112228522623459">▶ Video</a></sub><br>
+<sub>A 45-second 4K film of a gothic castle on a cliff at sunset. Every frame comes from about 9,000 lines of Python in Blender, with no 3D assets or textures.</sub>
 </td>
 <td width="33%" valign="top">
 <a href="https://github.com/anstapnever/one-sweep"><img src="../assets/gifs/051.gif" width="100%" alt="One Sweep"></a><br>
@@ -74,7 +74,7 @@ The main page shows at most the top 24 posts with 100+ likes; this page has ever
 <td width="33%" valign="top">
 <a href="https://github.com/ChetasLua/godzilla-nights"><img src="../assets/gifs/055.gif" width="100%" alt="Godzilla Nights"></a><br>
 <b><a href="https://github.com/ChetasLua/godzilla-nights">Godzilla Nights</a></b><br>
-<sub><a href="https://x.com/chetaslua">@chetaslua</a> · ♥ 229 · <a href="https://x.com/chetaslua/status/2119981510199808368">▶ Video</a></sub><br>
+<sub><a href="https://x.com/chetaslua">@chetaslua</a> · ♥ 230 · <a href="https://x.com/chetaslua/status/2119981510199808368">▶ Video</a></sub><br>
 <sub>Images drawn in pure code, lightly animated.</sub><br>
 <sub><a href="https://fablelist.000ooo.ooo/prompts/?w=godzilla-nights&ref=gh"><b>✨ Get the prompt</b></a></sub>
 </td>
@@ -87,7 +87,7 @@ The main page shows at most the top 24 posts with 100+ likes; this page has ever
 <td width="33%" valign="top">
 <a href="https://github.com/0xCodez/thousand-peaks"><img src="../assets/gifs/282.gif" width="100%" alt="Dragon of a Thousand Peaks"></a><br>
 <b><a href="https://github.com/0xCodez/thousand-peaks">Dragon of a Thousand Peaks</a></b><br>
-<sub><a href="https://x.com/0xMovez">@0xMovez</a> · ♥ 133 · <a href="https://x.com/0xMovez/status/2121721290687983906">▶ Video</a></sub><br>
+<sub><a href="https://x.com/0xMovez">@0xMovez</a> · ♥ 135 · <a href="https://x.com/0xMovez/status/2121721290687983906">▶ Video</a></sub><br>
 <sub>A 90-second fight film in pure three.js with zero assets or video models; Fable 5.2 directed 8 parallel agents, and music and sound are synthesized in code.</sub>
 </td>
 </tr>
@@ -99,6 +99,20 @@ The main page shows at most the top 24 posts with 100+ likes; this page has ever
 <sub>A 79-second anime short, all code.</sub><br>
 <sub><a href="https://x.com/anstapnever/status/2119915123070644263">📝 Creator's prompt (free)</a></sub>
 </td>
+<td width="33%" valign="top">
+<a href="https://github.com/ChetasLua/the-last-good-pelican-fable-5.2"><img src="../assets/gifs/352.gif" width="100%" alt="The Last Good Pelican"></a><br>
+<b><a href="https://github.com/ChetasLua/the-last-good-pelican-fable-5.2">The Last Good Pelican</a></b><br>
+<sub>🆕 · <a href="https://x.com/chetaslua">@chetaslua</a> · ♥ 107 · <a href="https://x.com/chetaslua/status/2123100140189958401">▶ Video</a></sub><br>
+<sub>A 60-second hand-drawn-look short in one offline HTML file: one day in the life of the only benchmark pelican that came out right. Canvas 2D for every drawing, Web Audio for every sound.</sub>
+</td>
+<td width="33%" valign="top">
+<a href="https://github.com/Leonxlnx/koi-pond-keycap"><img src="../assets/gifs/351.gif" width="100%" alt="Koi Pond Keycap"></a><br>
+<b><a href="https://github.com/Leonxlnx/koi-pond-keycap">Koi Pond Keycap</a></b><br>
+<sub>🆕 · <a href="https://x.com/LexnLin">@LexnLin</a> · ♥ 72 · <a href="https://x.com/LexnLin/status/2123174205306908806">▶ Video</a></sub><br>
+<sub>A 45-second Blender film of a clear resin keycap with a koi pond inside: a finger presses the key, ripples race across the water and the koi dart. Fully procedural Python, no external models or textures.</sub>
+</td>
+</tr>
+<tr>
 <td width="33%" valign="top">
 <a href="https://github.com/skild-ai/steel-webgpu/pull/7"><img src="../assets/gifs/057.gif" width="100%" alt="Robot Hand on a Spiral Staircase"></a><br>
 <b><a href="https://github.com/skild-ai/steel-webgpu/pull/7">Robot Hand on a Spiral Staircase</a></b><br>
@@ -113,15 +127,15 @@ The main page shows at most the top 24 posts with 100+ likes; this page has ever
 <sub>A mountain wakes up as a dragon. No image or video models. Author says "Fable 5.5".</sub><br>
 <sub><a href="https://x.com/seeconvm/status/2119777169542938662">📝 Creator's prompt (free)</a></sub>
 </td>
-</tr>
-<tr>
 <td width="33%" valign="top">
 <a href="https://github.com/Florencvv/kagami"><img src="../assets/gifs/053.gif" width="100%" alt="Kagami"></a><br>
 <b><a href="https://github.com/Florencvv/kagami">Kagami</a></b><br>
-<sub><a href="https://x.com/flxrnc">@flxrnc</a> · ♥ 36 · <a href="https://x.com/flxrnc/status/2119767052021903831">▶ Video</a></sub><br>
+<sub><a href="https://x.com/flxrnc">@flxrnc</a> · ♥ 35 · <a href="https://x.com/flxrnc/status/2119767052021903831">▶ Video</a></sub><br>
 <sub>84 seconds of anime where every frame is code. Author says "Fable 5.5".</sub><br>
 <sub><a href="https://x.com/flxrnc/status/2119767052021903831">📝 Creator's prompt (free)</a></sub>
 </td>
+</tr>
+<tr>
 <td width="33%" valign="top">
 <a href="https://usekumiko.app/"><img src="../assets/gifs/058.gif" width="100%" alt="Kumiko Launch Film"></a><br>
 <b><a href="https://usekumiko.app/">Kumiko Launch Film</a></b><br>

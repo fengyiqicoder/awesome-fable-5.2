@@ -1,4 +1,4 @@
-# 🎬 动画与短片（附源码） · 全部 17 个
+# 🎬 动画与短片（附源码） · 全部 19 个
 
 [← 回到首页](../README.zh-CN.md) · [English](animation.md) · **简体中文** · [繁體中文](animation.zh-TW.md) · [日本語](animation.ja.md) · [한국어](animation.ko.md) · [Español](animation.es.md) · [Português](animation.pt-BR.md) · [Français](animation.fr.md) · [Deutsch](animation.de.md) · [Русский](animation.ru.md)
 
@@ -30,30 +30,30 @@
 <td width="33%" valign="top">
 <a href="https://github.com/moritzkremb/robovac-pov"><img src="../assets/gifs/334.gif" width="100%" alt="Robovac POV 扫地机器人视角短片"></a><br>
 <b><a href="https://github.com/moritzkremb/robovac-pov">Robovac POV 扫地机器人视角短片</a></b><br>
-<sub>🆕 · <a href="https://x.com/moritzkremb">@moritzkremb</a> · ♥ 390 · <a href="https://x.com/moritzkremb/status/2122702891819377117">▶ 视频</a></sub><br>
+<sub>🆕 · <a href="https://x.com/moritzkremb">@moritzkremb</a> · ♥ 416 · <a href="https://x.com/moritzkremb/status/2122702891819377117">▶ 视频</a></sub><br>
 <sub>53 秒扫地机器人第一视角的写实短片，全用代码生成：C++ 写的场景和 GPU 路径追踪器，模拟镜头、对焦、运动模糊和颗粒，地毯约 90 万根纤维，声音用 Python 合成</sub>
 </td>
 <td width="33%" valign="top">
 <a href="https://github.com/ChetasLua/pelican-riding-a-bicycle"><img src="../assets/gifs/150.gif" width="100%" alt="骑车的鹈鹕：60 秒手绘风短片"></a><br>
 <b><a href="https://github.com/ChetasLua/pelican-riding-a-bicycle">骑车的鹈鹕：60 秒手绘风短片</a></b><br>
-<sub><a href="https://x.com/chetaslua">@chetaslua</a> · ♥ 357 · <a href="https://x.com/chetaslua/status/2120438091647218025">▶ 视频</a></sub><br>
+<sub><a href="https://x.com/chetaslua">@chetaslua</a> · ♥ 358 · <a href="https://x.com/chetaslua/status/2120438091647218025">▶ 视频</a></sub><br>
 <sub>一个 HTML 文件，画面和声音全是代码，没有图片、音频和库</sub><br>
 <sub><a href="https://github.com/ChetasLua/mona-lisa-js">蒙娜丽莎</a></sub><br>
 <sub><a href="https://fablelist.000ooo.ooo/zh/prompts/?w=the-pelican-tired-of-the-road&ref=gh"><b>✨ 获取提示词</b></a></sub>
 </td>
 <td width="33%" valign="top">
-<a href="https://github.com/Leonxlnx/castle-cinematic"><img src="../assets/gifs/302.gif" width="100%" alt="Castle Cinematic 悬崖古堡"></a><br>
-<b><a href="https://github.com/Leonxlnx/castle-cinematic">Castle Cinematic 悬崖古堡</a></b><br>
-<sub>🆕 · <a href="https://x.com/LexnLin">@LexnLin</a> · ♥ 326 · <a href="https://x.com/LexnLin/status/2122112228522623459">▶ 视频</a></sub><br>
-<sub>45 秒 4K 短片：夕阳下悬崖上的哥特古堡，每一帧都是 Blender 里约 9000 行 Python 生成，没用现成模型和贴图</sub>
+<a href="https://github.com/Leonxlnx/mechanical-moon"><img src="../assets/gifs/336.gif" width="100%" alt="Mechanical Moon 机械月亮"></a><br>
+<b><a href="https://github.com/Leonxlnx/mechanical-moon">Mechanical Moon 机械月亮</a></b><br>
+<sub>🆕 · <a href="https://x.com/LexnLin">@LexnLin</a> · ♥ 351 · <a href="https://x.com/LexnLin/status/2122823164635881853">▶ 视频</a></sub><br>
+<sub>45 秒 Blender 程序化短片：裂开的月亮里藏着一座金色发条巨构，全用 Python 脚本搭建，EEVEE 渲染</sub>
 </td>
 </tr>
 <tr>
 <td width="33%" valign="top">
-<a href="https://github.com/Leonxlnx/mechanical-moon"><img src="../assets/gifs/336.gif" width="100%" alt="Mechanical Moon 机械月亮"></a><br>
-<b><a href="https://github.com/Leonxlnx/mechanical-moon">Mechanical Moon 机械月亮</a></b><br>
-<sub>🆕 · <a href="https://x.com/LexnLin">@LexnLin</a> · ♥ 310 · <a href="https://x.com/LexnLin/status/2122823164635881853">▶ 视频</a></sub><br>
-<sub>45 秒 Blender 程序化短片：裂开的月亮里藏着一座金色发条巨构，全用 Python 脚本搭建，EEVEE 渲染</sub>
+<a href="https://github.com/Leonxlnx/castle-cinematic"><img src="../assets/gifs/302.gif" width="100%" alt="Castle Cinematic 悬崖古堡"></a><br>
+<b><a href="https://github.com/Leonxlnx/castle-cinematic">Castle Cinematic 悬崖古堡</a></b><br>
+<sub><a href="https://x.com/LexnLin">@LexnLin</a> · ♥ 326 · <a href="https://x.com/LexnLin/status/2122112228522623459">▶ 视频</a></sub><br>
+<sub>45 秒 4K 短片：夕阳下悬崖上的哥特古堡，每一帧都是 Blender 里约 9000 行 Python 生成，没用现成模型和贴图</sub>
 </td>
 <td width="33%" valign="top">
 <a href="https://github.com/anstapnever/one-sweep"><img src="../assets/gifs/051.gif" width="100%" alt="One Sweep 78 秒动漫打斗"></a><br>
@@ -74,7 +74,7 @@
 <td width="33%" valign="top">
 <a href="https://github.com/ChetasLua/godzilla-nights"><img src="../assets/gifs/055.gif" width="100%" alt="哥斯拉之夜"></a><br>
 <b><a href="https://github.com/ChetasLua/godzilla-nights">哥斯拉之夜</a></b><br>
-<sub><a href="https://x.com/chetaslua">@chetaslua</a> · ♥ 229 · <a href="https://x.com/chetaslua/status/2119981510199808368">▶ 视频</a></sub><br>
+<sub><a href="https://x.com/chetaslua">@chetaslua</a> · ♥ 230 · <a href="https://x.com/chetaslua/status/2119981510199808368">▶ 视频</a></sub><br>
 <sub>纯代码画图加动画</sub><br>
 <sub><a href="https://fablelist.000ooo.ooo/zh/prompts/?w=godzilla-nights&ref=gh"><b>✨ 获取提示词</b></a></sub>
 </td>
@@ -87,7 +87,7 @@
 <td width="33%" valign="top">
 <a href="https://github.com/0xCodez/thousand-peaks"><img src="../assets/gifs/282.gif" width="100%" alt="Dragon of a Thousand Peaks 千峰之龙"></a><br>
 <b><a href="https://github.com/0xCodez/thousand-peaks">Dragon of a Thousand Peaks 千峰之龙</a></b><br>
-<sub><a href="https://x.com/0xMovez">@0xMovez</a> · ♥ 133 · <a href="https://x.com/0xMovez/status/2121721290687983906">▶ 视频</a></sub><br>
+<sub><a href="https://x.com/0xMovez">@0xMovez</a> · ♥ 135 · <a href="https://x.com/0xMovez/status/2121721290687983906">▶ 视频</a></sub><br>
 <sub>90 秒纯 three.js 打斗短片，无素材无视频模型；Fable 当导演带 8 个并行 Agent，音乐音效也是代码合成</sub>
 </td>
 </tr>
@@ -99,6 +99,20 @@
 <br>
 <sub><a href="https://x.com/anstapnever/status/2119915123070644263">📝 作者公开的提示词（免费）</a></sub>
 </td>
+<td width="33%" valign="top">
+<a href="https://github.com/ChetasLua/the-last-good-pelican-fable-5.2"><img src="../assets/gifs/352.gif" width="100%" alt="The Last Good Pelican 最后一只画对的鹈鹕"></a><br>
+<b><a href="https://github.com/ChetasLua/the-last-good-pelican-fable-5.2">The Last Good Pelican 最后一只画对的鹈鹕</a></b><br>
+<sub>🆕 · <a href="https://x.com/chetaslua">@chetaslua</a> · ♥ 107 · <a href="https://x.com/chetaslua/status/2123100140189958401">▶ 视频</a></sub><br>
+<sub>60 秒手绘风短片，一个离线 HTML 文件：每出一个新模型就有一只骑车的鹈鹕被画出来当测试题，这是唯一画对的那只疲惫的一天；画面全用 Canvas 2D，声音全用 Web Audio 合成</sub>
+</td>
+<td width="33%" valign="top">
+<a href="https://github.com/Leonxlnx/koi-pond-keycap"><img src="../assets/gifs/351.gif" width="100%" alt="Koi Pond Keycap 键帽里的锦鲤池"></a><br>
+<b><a href="https://github.com/Leonxlnx/koi-pond-keycap">Koi Pond Keycap 键帽里的锦鲤池</a></b><br>
+<sub>🆕 · <a href="https://x.com/LexnLin">@LexnLin</a> · ♥ 72 · <a href="https://x.com/LexnLin/status/2123174205306908806">▶ 视频</a></sub><br>
+<sub>45 秒 Blender 短片：透明树脂键帽里装着一方锦鲤池，手指按下去水面起涟漪、锦鲤四散；全程 Python 程序化生成，没用外部模型和贴图</sub>
+</td>
+</tr>
+<tr>
 <td width="33%" valign="top">
 <a href="https://github.com/skild-ai/steel-webgpu/pull/7"><img src="../assets/gifs/057.gif" width="100%" alt="机器手指走螺旋楼梯"></a><br>
 <b><a href="https://github.com/skild-ai/steel-webgpu/pull/7">机器手指走螺旋楼梯</a></b><br>
@@ -113,15 +127,15 @@
 <sub>无生图无视频模型，5 组 Agent；作者写的是「Fable 5.5」</sub><br>
 <sub><a href="https://x.com/seeconvm/status/2119777169542938662">📝 作者公开的提示词（免费）</a></sub>
 </td>
-</tr>
-<tr>
 <td width="33%" valign="top">
 <a href="https://github.com/Florencvv/kagami"><img src="../assets/gifs/053.gif" width="100%" alt="Kagami 84 秒动漫"></a><br>
 <b><a href="https://github.com/Florencvv/kagami">Kagami 84 秒动漫</a></b><br>
-<sub><a href="https://x.com/flxrnc">@flxrnc</a> · ♥ 36 · <a href="https://x.com/flxrnc/status/2119767052021903831">▶ 视频</a></sub><br>
+<sub><a href="https://x.com/flxrnc">@flxrnc</a> · ♥ 35 · <a href="https://x.com/flxrnc/status/2119767052021903831">▶ 视频</a></sub><br>
 <sub>每一帧都是代码；作者写的是「Fable 5.5」</sub><br>
 <sub><a href="https://x.com/flxrnc/status/2119767052021903831">📝 作者公开的提示词（免费）</a></sub>
 </td>
+</tr>
+<tr>
 <td width="33%" valign="top">
 <a href="https://usekumiko.app/"><img src="../assets/gifs/058.gif" width="100%" alt="Kumiko 宣传片"></a><br>
 <b><a href="https://usekumiko.app/">Kumiko 宣传片</a></b><br>

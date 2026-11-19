@@ -5,9 +5,9 @@
 <h3>Was Leute mit Claude Fable 5.2 gebaut haben – zum Öffnen und Spielen</h3>
 
 [![Awesome](https://awesome.re/badge.svg)](https://awesome.re)
-[![Works](https://img.shields.io/badge/Werke-197-6b4eff)](#-spiele)
-[![Demos](https://img.shields.io/badge/Video-Demos-143-ff7a59)](#-video-demos)
-[![Links checked](https://img.shields.io/badge/Links_geprüft-2026--11--18-2ea44f)](#-mitmachen)
+[![Works](https://img.shields.io/badge/Werke-201-6b4eff)](#-spiele)
+[![Demos](https://img.shields.io/badge/Video-Demos-145-ff7a59)](#-video-demos)
+[![Links checked](https://img.shields.io/badge/Links_geprüft-2026--11--19-2ea44f)](#-mitmachen)
 [![License: CC0-1.0](https://img.shields.io/badge/License-CC0_1.0-lightgrey.svg)](LICENSE)
 
 [English](README.md) · [简体中文](README.zh-CN.md) · [繁體中文](README.zh-TW.md) · [日本語](README.ja.md) · [한국어](README.ko.md) · [Español](README.es.md) · [Português](README.pt-BR.md) · [Français](README.fr.md) · **Deutsch** · [Русский](README.ru.md)
@@ -16,11 +16,11 @@
 
 </div>
 
-197 Live-Werke und 143 Video-Demos, gebaut mit Claude Fable 5.2, alle Links am 2026-11-18 geprüft. Täglich aktualisiert; ein ⭐ hilft.
+201 Live-Werke und 145 Video-Demos, gebaut mit Claude Fable 5.2, alle Links am 2026-11-19 geprüft. Täglich aktualisiert; ein ⭐ hilft.
 
 ## 📑 Inhalt
 
-[⭐ Am beliebtesten](#-am-beliebtesten) · [🆕 Neu](#-neu) · [🎮 Spiele](#-spiele) 94 · [🌍 3D-Welten & Szenen](#-3d-welten--szenen) 43 · [🧰 Webseiten & Tools](#-webseiten--tools) 43 · [🎬 Animation & Film](#-animation--film) 17 · [📺 Video-Demos](#-video-demos) 143 · [🤝 Mitmachen](#-mitmachen)
+[⭐ Am beliebtesten](#-am-beliebtesten) · [🆕 Neu](#-neu) · [🎮 Spiele](#-spiele) 95 · [🌍 3D-Welten & Szenen](#-3d-welten--szenen) 43 · [🧰 Webseiten & Tools](#-webseiten--tools) 44 · [🎬 Animation & Film](#-animation--film) 19 · [📺 Video-Demos](#-video-demos) 145 · [🤝 Mitmachen](#-mitmachen)
 
 ## ⭐ Am beliebtesten
 
@@ -29,7 +29,7 @@
 <td width="33%" valign="top">
 <a href="https://starrynightrider.com"><img src="assets/gifs/173.gif" width="100%" alt="Starry Nightrider"></a><br>
 <b><a href="https://starrynightrider.com">Starry Nightrider</a></b><br>
-<sub><a href="https://x.com/ebbyamir">@ebbyamir</a> · ♥ 17.9k · <a href="https://x.com/ebbyamir/status/2120284261089673376">▶ Video</a></sub><br>
+<sub><a href="https://x.com/ebbyamir">@ebbyamir</a> · ♥ 18.0k · <a href="https://x.com/ebbyamir/status/2120284261089673376">▶ Video</a></sub><br>
 <sub>Van Gogh reitet durch seine Sternennacht, als Spiel.</sub><br>
 <sub><a href="https://fablelist.000ooo.ooo/de/prompts/?w=starry-nightrider&ref=gh"><b>✨ Prompt holen</b></a></sub>
 </td>
@@ -43,7 +43,7 @@
 <td width="33%" valign="top">
 <a href="https://viktorkav.com.br/apoio/uno-com-escada/fable/"><img src="assets/gifs/329.gif" width="100%" alt="Uno com Escada: ein Fiat Uno mit Leiter auf der Rennstrecke"></a><br>
 <b><a href="https://viktorkav.com.br/apoio/uno-com-escada/fable/">Uno com Escada: ein Fiat Uno mit Leiter auf der Rennstrecke</a></b><br>
-<sub>🆕 · <a href="https://x.com/ViktorKav">@ViktorKav</a> · ♥ 9.0k · <a href="https://x.com/ViktorKav/status/2122647483281015155">▶ Video</a></sub><br>
+<sub>🆕 · <a href="https://x.com/ViktorKav">@ViktorKav</a> · ♥ 9.2k · <a href="https://x.com/ViktorKav/status/2122647483281015155">▶ Video</a></sub><br>
 <sub>Fahr einen 1996er Uno Mille mit Leiter auf dem Dach über eine Rennstrecke. Eine einzige 603 KB große HTML-Datei ohne Engine, 3D-Bibliothek oder Texturen; Auto, Wald, Himmel und Motorsound entstehen komplett aus Code.</sub><br>
 <sub><a href="https://github.com/viktorkav/uno-com-escada">Quellcode</a></sub>
 </td>
@@ -82,23 +82,22 @@ In den letzten 3 Tagen gepostet, nach Likes sortiert.
 <td width="33%" valign="top">
 <a href="https://viktorkav.com.br/apoio/uno-com-escada/fable/"><img src="assets/gifs/329.gif" width="100%" alt="Uno com Escada: ein Fiat Uno mit Leiter auf der Rennstrecke"></a><br>
 <b><a href="https://viktorkav.com.br/apoio/uno-com-escada/fable/">Uno com Escada: ein Fiat Uno mit Leiter auf der Rennstrecke</a></b><br>
-<sub>🆕 · <a href="https://x.com/ViktorKav">@ViktorKav</a> · ♥ 9.0k · <a href="https://x.com/ViktorKav/status/2122647483281015155">▶ Video</a></sub><br>
+<sub>🆕 · <a href="https://x.com/ViktorKav">@ViktorKav</a> · ♥ 9.2k · <a href="https://x.com/ViktorKav/status/2122647483281015155">▶ Video</a></sub><br>
 <sub>Fahr einen 1996er Uno Mille mit Leiter auf dem Dach über eine Rennstrecke. Eine einzige 603 KB große HTML-Datei ohne Engine, 3D-Bibliothek oder Texturen; Auto, Wald, Himmel und Motorsound entstehen komplett aus Code.</sub><br>
 <sub><a href="https://github.com/viktorkav/uno-com-escada">Quellcode</a></sub>
 </td>
 <td width="33%" valign="top">
-<a href="https://omw-game.kimaki.dev"><img src="assets/gifs/308.gif" width="100%" alt="omw: ein Burgtal in Ölpinselstrichen"></a><br>
-<b><a href="https://omw-game.kimaki.dev">omw: ein Burgtal in Ölpinselstrichen</a></b><br>
-<sub>🆕 · <a href="https://x.com/__morse">@__morse</a> · ♥ 4.5k · <a href="https://x.com/__morse/status/2122013410309153042">▶ Video</a></sub><br>
-<sub>Die „omw“-Pixel-Art von @de5imulate als spielbares three.js-Spiel im Browser nachgebaut, gerendert wie ein Ölgemälde.</sub><br>
-<sub><a href="https://github.com/remorses/castle-valley">Quellcode</a></sub>
-</td>
-<td width="33%" valign="top">
 <a href="https://xikhar.github.io/papertrails/"><img src="assets/gifs/330.gif" width="100%" alt="Papertrails: eine endlose Pop-up-Papierwelt"></a><br>
 <b><a href="https://xikhar.github.io/papertrails/">Papertrails: eine endlose Pop-up-Papierwelt</a></b><br>
-<sub>🆕 · <a href="https://x.com/xikhar">@xikhar</a> · ♥ 2.1k · <a href="https://x.com/xikhar/status/2122682962647122403">▶ Video</a></sub><br>
+<sub>🆕 · <a href="https://x.com/xikhar">@xikhar</a> · ♥ 2.2k · <a href="https://x.com/xikhar/status/2122682962647122403">▶ Video</a></sub><br>
 <sub>Eine Papierfigur läuft los, während Bäume, Häuser und Hügel wie in einem Pop-up-Buch aus dem Boden klappen, durch Wüste, Schnee, Wald, Tag und Nacht. Gebaut mit Fable 5.2, Opus 5.5 und three.js.</sub><br>
 <sub><a href="https://github.com/xikhar/papertrails">Quellcode</a></sub>
+</td>
+<td width="33%" valign="top">
+<a href="https://github.com/BubbleBrainBB/awesome-fable-5.2/tree/main/cat-garden"><img src="assets/gifs/319.gif" width="100%" alt="Cat Garden: ein botanischer Garten durch die Augen einer Katze"></a><br>
+<b><a href="https://github.com/BubbleBrainBB/awesome-fable-5.2/tree/main/cat-garden">Cat Garden: ein botanischer Garten durch die Augen einer Katze</a></b><br>
+<sub>🆕 · <a href="https://x.com/BubbleBrain">@BubbleBrain</a> · ♥ 1.4k · <a href="https://x.com/BubbleBrain/status/2122313967473434639">▶ Video</a></sub><br>
+<sub>Ein 110-Sekunden-Film in einer Einstellung: Eine Katze läuft, schnuppert und springt durch einen botanischen Garten. Das Bild stammt aus einem eigens geschriebenen Path Tracer, der Ton wird mit numpy synthetisiert, ganz ohne Assets.</sub>
 </td>
 </tr>
 </table>
@@ -110,7 +109,7 @@ In den letzten 3 Tagen gepostet, nach Likes sortiert.
 <td width="33%" valign="top">
 <a href="https://starrynightrider.com"><img src="assets/gifs/173.gif" width="100%" alt="Starry Nightrider"></a><br>
 <b><a href="https://starrynightrider.com">Starry Nightrider</a></b><br>
-<sub><a href="https://x.com/ebbyamir">@ebbyamir</a> · ♥ 17.9k · <a href="https://x.com/ebbyamir/status/2120284261089673376">▶ Video</a></sub><br>
+<sub><a href="https://x.com/ebbyamir">@ebbyamir</a> · ♥ 18.0k · <a href="https://x.com/ebbyamir/status/2120284261089673376">▶ Video</a></sub><br>
 <sub>Van Gogh reitet durch seine Sternennacht, als Spiel.</sub><br>
 <sub><a href="https://fablelist.000ooo.ooo/de/prompts/?w=starry-nightrider&ref=gh"><b>✨ Prompt holen</b></a></sub>
 </td>
@@ -124,7 +123,7 @@ In den letzten 3 Tagen gepostet, nach Likes sortiert.
 <td width="33%" valign="top">
 <a href="https://viktorkav.com.br/apoio/uno-com-escada/fable/"><img src="assets/gifs/329.gif" width="100%" alt="Uno com Escada: ein Fiat Uno mit Leiter auf der Rennstrecke"></a><br>
 <b><a href="https://viktorkav.com.br/apoio/uno-com-escada/fable/">Uno com Escada: ein Fiat Uno mit Leiter auf der Rennstrecke</a></b><br>
-<sub>🆕 · <a href="https://x.com/ViktorKav">@ViktorKav</a> · ♥ 9.0k · <a href="https://x.com/ViktorKav/status/2122647483281015155">▶ Video</a></sub><br>
+<sub>🆕 · <a href="https://x.com/ViktorKav">@ViktorKav</a> · ♥ 9.2k · <a href="https://x.com/ViktorKav/status/2122647483281015155">▶ Video</a></sub><br>
 <sub>Fahr einen 1996er Uno Mille mit Leiter auf dem Dach über eine Rennstrecke. Eine einzige 603 KB große HTML-Datei ohne Engine, 3D-Bibliothek oder Texturen; Auto, Wald, Himmel und Motorsound entstehen komplett aus Code.</sub><br>
 <sub><a href="https://github.com/viktorkav/uno-com-escada">Quellcode</a></sub>
 </td>
@@ -147,7 +146,7 @@ In den letzten 3 Tagen gepostet, nach Likes sortiert.
 <td width="33%" valign="top">
 <a href="https://omw-game.kimaki.dev"><img src="assets/gifs/308.gif" width="100%" alt="omw: ein Burgtal in Ölpinselstrichen"></a><br>
 <b><a href="https://omw-game.kimaki.dev">omw: ein Burgtal in Ölpinselstrichen</a></b><br>
-<sub>🆕 · <a href="https://x.com/__morse">@__morse</a> · ♥ 4.5k · <a href="https://x.com/__morse/status/2122013410309153042">▶ Video</a></sub><br>
+<sub><a href="https://x.com/__morse">@__morse</a> · ♥ 4.5k · <a href="https://x.com/__morse/status/2122013410309153042">▶ Video</a></sub><br>
 <sub>Die „omw“-Pixel-Art von @de5imulate als spielbares three.js-Spiel im Browser nachgebaut, gerendert wie ein Ölgemälde.</sub><br>
 <sub><a href="https://github.com/remorses/castle-valley">Quellcode</a></sub>
 </td>
@@ -246,22 +245,22 @@ In den letzten 3 Tagen gepostet, nach Likes sortiert.
 </tr>
 <tr>
 <td width="33%" valign="top">
+<a href="https://patch.gg/play/blendi/solar"><img src="assets/gifs/323.gif" width="100%" alt="Solar: ein winziges Sonnensystem zum Herumfliegen"></a><br>
+<b><a href="https://patch.gg/play/blendi/solar">Solar: ein winziges Sonnensystem zum Herumfliegen</a></b><br>
+<sub>🆕 · <a href="https://x.com/BlendiByl">@BlendiByl</a> · ♥ 789 · <a href="https://x.com/BlendiByl/status/2122673770607591855">▶ Video</a></sub><br>
+<sub>Inspiriert von Outer Wilds: echte Umlaufbahnen und Schwerkraft, nahtlose Flüge zwischen Planeten, und jede Welt ist in Code gezeichnet. Open Source.</sub>
+</td>
+<td width="33%" valign="top">
 <a href="https://patch.gg/blendi/coloured-pencil"><img src="assets/gifs/247.gif" width="100%" alt="Coloured Pencil"></a><br>
 <b><a href="https://patch.gg/blendi/coloured-pencil">Coloured Pencil</a></b><br>
-<sub><a href="https://x.com/BlendiByl">@BlendiByl</a> · ♥ 760 · <a href="https://x.com/BlendiByl/status/2121130385723789637">▶ Video</a></sub><br>
+<sub><a href="https://x.com/BlendiByl">@BlendiByl</a> · ♥ 761 · <a href="https://x.com/BlendiByl/status/2121130385723789637">▶ Video</a></sub><br>
 <sub>Ein Spielausschnitt im Buntstift-Stil; die Schattierung jeder Oberfläche und die ganze Stadt sind Code. Open Source.</sub><br>
 <sub><a href="https://fablelist.000ooo.ooo/de/prompts/?w=coloured-pencil&ref=gh"><b>✨ Prompt holen</b></a></sub>
 </td>
 <td width="33%" valign="top">
-<a href="https://patch.gg/play/blendi/solar"><img src="assets/gifs/323.gif" width="100%" alt="Solar: ein winziges Sonnensystem zum Herumfliegen"></a><br>
-<b><a href="https://patch.gg/play/blendi/solar">Solar: ein winziges Sonnensystem zum Herumfliegen</a></b><br>
-<sub>🆕 · <a href="https://x.com/BlendiByl">@BlendiByl</a> · ♥ 743 · <a href="https://x.com/BlendiByl/status/2122673770607591855">▶ Video</a></sub><br>
-<sub>Inspiriert von Outer Wilds: echte Umlaufbahnen und Schwerkraft, nahtlose Flüge zwischen Planeten, und jede Welt ist in Code gezeichnet. Open Source.</sub>
-</td>
-<td width="33%" valign="top">
 <a href="https://www.spawn.co/@mattshumer/voxel-engine"><img src="assets/gifs/004.gif" width="100%" alt="Voxel Engine"></a><br>
 <b><a href="https://www.spawn.co/@mattshumer/voxel-engine">Voxel Engine</a></b><br>
-<sub><a href="https://x.com/mattshumer_">@mattshumer_</a> · ♥ 742 · <a href="https://x.com/mattshumer_/status/2119870965106483384">▶ Video</a></sub><br>
+<sub><a href="https://x.com/mattshumer_">@mattshumer_</a> · ♥ 743 · <a href="https://x.com/mattshumer_/status/2119870965106483384">▶ Video</a></sub><br>
 <sub>Aus einem einzigen Prompt entstanden. Ton an.</sub><br>
 <sub><a href="https://fablelist.000ooo.ooo/de/prompts/?w=voxel-engine&ref=gh"><b>✨ Prompt holen</b></a></sub>
 </td>
@@ -270,27 +269,27 @@ In den letzten 3 Tagen gepostet, nach Likes sortiert.
 <td width="33%" valign="top">
 <a href="https://patch.gg/blendi/patchwork-quilt"><img src="assets/gifs/190.gif" width="100%" alt="Patchwork Quilt"></a><br>
 <b><a href="https://patch.gg/blendi/patchwork-quilt">Patchwork Quilt</a></b><br>
-<sub><a href="https://x.com/BlendiByl">@BlendiByl</a> · ♥ 669 · <a href="https://x.com/BlendiByl/status/2120746541636047347">▶ Video</a></sub><br>
+<sub><a href="https://x.com/BlendiByl">@BlendiByl</a> · ♥ 670 · <a href="https://x.com/BlendiByl/status/2120746541636047347">▶ Video</a></sub><br>
 <sub>Ein Spielausschnitt im Patchwork- und Stop-Motion-Stil. Die ganze Map ist Code. Open Source.</sub><br>
 <sub><a href="https://fablelist.000ooo.ooo/de/prompts/?w=patchwork-quilt&ref=gh"><b>✨ Prompt holen</b></a></sub>
 </td>
 <td width="33%" valign="top">
 <a href="https://bannerfall.itch.io/siege-wing"><img src="assets/gifs/271.gif" width="100%" alt="Siege Wing — ein Hubschrauber im mittelalterlichen Krieg"></a><br>
 <b><a href="https://bannerfall.itch.io/siege-wing">Siege Wing — ein Hubschrauber im mittelalterlichen Krieg</a></b><br>
-<sub><a href="https://x.com/builderjaydub">@builderjaydub</a> · ♥ 576 · <a href="https://x.com/builderjaydub/status/2120223731520040966">▶ Video</a></sub><br>
+<sub><a href="https://x.com/builderjaydub">@builderjaydub</a> · ♥ 577 · <a href="https://x.com/builderjaydub/status/2120223731520040966">▶ Video</a></sub><br>
 <sub>Flieg einen Helikopter mit Kanone, Raketen und Lenkflugkörpern, weich römischen Ballisten aus und bring die Burg zu Fall.</sub>
 </td>
 <td width="33%" valign="top">
 <a href="https://i-would-have-gotten-away-with-it.netlify.app/"><img src="assets/gifs/007.gif" width="100%" alt="I Would Have Gotten Away With It"></a><br>
 <b><a href="https://i-would-have-gotten-away-with-it.netlify.app/">I Would Have Gotten Away With It</a></b><br>
-<sub><a href="https://x.com/emollick">@emollick</a> · ♥ 515 · <a href="https://x.com/emollick/status/2119876449494540554">▶ Video</a></sub><br>
+<sub><a href="https://x.com/emollick">@emollick</a> · ♥ 516 · <a href="https://x.com/emollick/status/2119876449494540554">▶ Video</a></sub><br>
 <sub>Ein umgekehrtes Scooby-Doo: Du bist der Bösewicht und vertreibst neugierige Kinder. Fable hat auch Trailer, Musik und Sound gemacht.</sub><br>
 <sub><a href="https://fablelist.000ooo.ooo/de/prompts/?w=i-would-have-gotten-away-with-it&ref=gh"><b>✨ Prompt holen</b></a></sub>
 </td>
 </tr>
 </table>
 
-<p align="center"><b><a href="all/games.de.md">Alle 94 ansehen →</a></b></p>
+<p align="center"><b><a href="all/games.de.md">Alle 95 ansehen →</a></b></p>
 
 <div align="right"><a href="#-inhalt">↑ Zurück zum Inhalt</a></div>
 
@@ -308,7 +307,7 @@ In den letzten 3 Tagen gepostet, nach Likes sortiert.
 <td width="33%" valign="top">
 <a href="https://xikhar.github.io/papertrails/"><img src="assets/gifs/330.gif" width="100%" alt="Papertrails: eine endlose Pop-up-Papierwelt"></a><br>
 <b><a href="https://xikhar.github.io/papertrails/">Papertrails: eine endlose Pop-up-Papierwelt</a></b><br>
-<sub>🆕 · <a href="https://x.com/xikhar">@xikhar</a> · ♥ 2.1k · <a href="https://x.com/xikhar/status/2122682962647122403">▶ Video</a></sub><br>
+<sub>🆕 · <a href="https://x.com/xikhar">@xikhar</a> · ♥ 2.2k · <a href="https://x.com/xikhar/status/2122682962647122403">▶ Video</a></sub><br>
 <sub>Eine Papierfigur läuft los, während Bäume, Häuser und Hügel wie in einem Pop-up-Buch aus dem Boden klappen, durch Wüste, Schnee, Wald, Tag und Nacht. Gebaut mit Fable 5.2, Opus 5.5 und three.js.</sub><br>
 <sub><a href="https://github.com/xikhar/papertrails">Quellcode</a></sub>
 </td>
@@ -338,7 +337,7 @@ In den letzten 3 Tagen gepostet, nach Likes sortiert.
 <td width="33%" valign="top">
 <a href="https://fable-rome.surge.sh/"><img src="assets/gifs/136.gif" width="100%" alt="Rome, AD 320"></a><br>
 <b><a href="https://fable-rome.surge.sh/">Rome, AD 320</a></b><br>
-<sub><a href="https://x.com/petergostev">@petergostev</a> · ♥ 968 · <a href="https://x.com/petergostev/status/2120167560700383572">▶ Video</a></sub><br>
+<sub><a href="https://x.com/petergostev">@petergostev</a> · ♥ 969 · <a href="https://x.com/petergostev/status/2120167560700383572">▶ Video</a></sub><br>
 <sub>Ein Prompt, Fable 5.2 (Max) lief über Nacht, 2.618 $.</sub><br>
 <sub><a href="https://x.com/petergostev/status/2120167560700383572">📝 Prompt des Creators (kostenlos)</a></sub>
 </td>
@@ -354,13 +353,13 @@ In den letzten 3 Tagen gepostet, nach Likes sortiert.
 <td width="33%" valign="top">
 <a href="https://fable-rover.vercel.app"><img src="assets/gifs/278.gif" width="100%" alt="ER-6 Terrain Explorer — ein selbstfahrender Mars-Rover"></a><br>
 <b><a href="https://fable-rover.vercel.app">ER-6 Terrain Explorer — ein selbstfahrender Mars-Rover</a></b><br>
-<sub><a href="https://x.com/DilumSanjaya">@DilumSanjaya</a> · ♥ 793 · <a href="https://x.com/DilumSanjaya/status/2120561077385867663">▶ Video</a></sub><br>
+<sub><a href="https://x.com/DilumSanjaya">@DilumSanjaya</a> · ♥ 795 · <a href="https://x.com/DilumSanjaya/status/2120561077385867663">▶ Video</a></sub><br>
 <sub>Fable 5.2 entwarf eine Rocker-Bogie-Aufhängung wie bei den Mars-Rovern der NASA und simulierte die Fahrt über außerirdisches Gelände.</sub>
 </td>
 <td width="33%" valign="top">
 <a href="https://ship-42-catch.netlify.app/"><img src="assets/gifs/297.gif" width="100%" alt="Ship 42 Catch"></a><br>
 <b><a href="https://ship-42-catch.netlify.app/">Ship 42 Catch</a></b><br>
-<sub>🆕 · <a href="https://x.com/emollick">@emollick</a> · ♥ 737 · <a href="https://x.com/emollick/status/2122036763468214711">▶ Video</a></sub><br>
+<sub><a href="https://x.com/emollick">@emollick</a> · ♥ 738 · <a href="https://x.com/emollick/status/2122036763468214711">▶ Video</a></sub><br>
 <sub>Fable und Opus haben das Video vom Starship-Fang am Turm gefunden und die letzten 40 Sekunden detailliert in three.js-3D nachgebaut. Die Kameraperspektive lässt sich wechseln.</sub>
 </td>
 </tr>
@@ -381,7 +380,7 @@ In den letzten 3 Tagen gepostet, nach Likes sortiert.
 <td width="33%" valign="top">
 <a href="https://bay.theojaffee.net"><img src="assets/gifs/137.gif" width="100%" alt="Bay Area Through Time"></a><br>
 <b><a href="https://bay.theojaffee.net">Bay Area Through Time</a></b><br>
-<sub><a href="https://x.com/theojaffee">@theojaffee</a> · ♥ 387 · <a href="https://x.com/theojaffee/status/2120312766544437738">▶ Video</a></sub><br>
+<sub><a href="https://x.com/theojaffee">@theojaffee</a> · ♥ 388 · <a href="https://x.com/theojaffee/status/2120312766544437738">▶ Video</a></sub><br>
 <sub>Zoome zu jeder Stadt oder jedem Viertel, wähle ein beliebiges Jahr bis 1769 zurück und sieh, wie es damals aussah.</sub><br>
 <sub><a href="https://nyc.theojaffee.net">New York City</a></sub><br>
 <sub><a href="https://fablelist.000ooo.ooo/de/prompts/?w=bay-area-through-time&ref=gh"><b>✨ Prompt holen</b></a></sub>
@@ -405,7 +404,7 @@ In den letzten 3 Tagen gepostet, nach Likes sortiert.
 <td width="33%" valign="top">
 <a href="http://taoistvibe.com"><img src="assets/gifs/307.gif" width="100%" alt="Chill Taoist Vibe: ein Hügel mit taoistischem Tempel"></a><br>
 <b><a href="http://taoistvibe.com">Chill Taoist Vibe: ein Hügel mit taoistischem Tempel</a></b><br>
-<sub>🆕 · <a href="https://x.com/qiqileyuan">@qiqileyuan</a> · ♥ 254 · <a href="https://x.com/qiqileyuan/status/2122006851298693277">▶ Video</a></sub><br>
+<sub><a href="https://x.com/qiqileyuan">@qiqileyuan</a> · ♥ 254 · <a href="https://x.com/qiqileyuan/status/2122006851298693277">▶ Video</a></sub><br>
 <sub>Ein taoistischer Tempel im Ghibli-Stil auf einem kleinen Berg. Folge dem alten Priester bergauf, zünde Räucherstäbchen an, zieh ein Orakelstäbchen, meditiere oder setz dich einfach in den Schaukelstuhl und sieh den Jahreszeiten zu. Statuen und Hauptfigur stammen von Tripo3D, alles andere ist generierter Code.</sub>
 </td>
 </tr>
@@ -449,7 +448,7 @@ In den letzten 3 Tagen gepostet, nach Likes sortiert.
 <td width="33%" valign="top">
 <a href="https://github.com/Leonxlnx/beautiful-wonderland"><img src="assets/gifs/301.gif" width="100%" alt="Beautiful Wonderland"></a><br>
 <b><a href="https://github.com/Leonxlnx/beautiful-wonderland">Beautiful Wonderland</a></b><br>
-<sub>🆕 · <a href="https://x.com/LexnLin">@LexnLin</a> · ♥ 145 · <a href="https://x.com/LexnLin/status/2122056542778535977">▶ Video</a></sub><br>
+<sub><a href="https://x.com/LexnLin">@LexnLin</a> · ♥ 145 · <a href="https://x.com/LexnLin/status/2122056542778535977">▶ Video</a></sub><br>
 <sub>Eine kleine gemalte Welt in three.js, dazu ein 40-sekündiger 4K-Film, der daraus gerendert wurde.</sub>
 </td>
 </tr>
@@ -489,7 +488,7 @@ In den letzten 3 Tagen gepostet, nach Likes sortiert.
 <td width="33%" valign="top">
 <a href="https://claudia.gallery"><img src="assets/gifs/038.gif" width="100%" alt="Claudia Gallery"></a><br>
 <b><a href="https://claudia.gallery">Claudia Gallery</a></b><br>
-<sub><a href="https://x.com/anabology">@anabology</a> · ♥ 5.4k · <a href="https://x.com/anabology/status/2120010995309457643">▶ Video</a></sub><br>
+<sub><a href="https://x.com/anabology">@anabology</a> · ♥ 5.5k · <a href="https://x.com/anabology/status/2120010995309457643">▶ Video</a></sub><br>
 <sub>„Make the video of your dreams“ – zwei Einstellungen, 9 Stunden.</sub><br>
 <sub><a href="https://fablelist.000ooo.ooo/de/prompts/?w=claudia-gallery&ref=gh"><b>✨ Prompt holen</b></a></sub>
 </td>
@@ -528,7 +527,7 @@ In den letzten 3 Tagen gepostet, nach Likes sortiert.
 <td width="33%" valign="top">
 <a href="https://sakuga-vfx.vercel.app"><img src="assets/gifs/299.gif" width="100%" alt="Sakuga Set"></a><br>
 <b><a href="https://sakuga-vfx.vercel.app">Sakuga Set</a></b><br>
-<sub>🆕 · <a href="https://x.com/crtvTeknologist">@crtvTeknologist</a> · ♥ 1.4k · <a href="https://x.com/crtvTeknologist/status/2122088829565698218">▶ Video</a></sub><br>
+<sub><a href="https://x.com/crtvTeknologist">@crtvTeknologist</a> · ♥ 1.4k · <a href="https://x.com/crtvTeknologist/status/2122088829565698218">▶ Video</a></sub><br>
 <sub>Zwölf UI-Elemente, die wie im Anime reagieren: Buttons quetschen sich und landen mit einem DON!, Schalter verwischen und spritzen, Slider wirbeln Wolken auf. Alle Effekte sind im Code gezeichnet, je eine Datei, ohne Abhängigkeiten.</sub><br>
 <sub><a href="https://github.com/finktheartist/sakuga-vfx">Quellcode</a></sub>
 </td>
@@ -583,7 +582,7 @@ In den letzten 3 Tagen gepostet, nach Likes sortiert.
 <td width="33%" valign="top">
 <a href="https://itspsneha.com/supplements"><img src="assets/gifs/037.gif" width="100%" alt="Which Vitamins to Buy in India"></a><br>
 <b><a href="https://itspsneha.com/supplements">Which Vitamins to Buy in India</a></b><br>
-<sub><a href="https://x.com/itspsneha">@itspsneha</a> · ♥ 738 · <a href="https://x.com/itspsneha/status/2120048494761451974">Post</a></sub><br>
+<sub><a href="https://x.com/itspsneha">@itspsneha</a> · ♥ 739 · <a href="https://x.com/itspsneha/status/2120048494761451974">Post</a></sub><br>
 <sub>Entstanden nach dem Lesen von Laborberichten zu 109 getesteten Chargen.</sub><br>
 <sub><a href="https://fablelist.000ooo.ooo/de/prompts/?w=which-vitamins-to-buy-in-india&ref=gh"><b>✨ Prompt holen</b></a></sub>
 </td>
@@ -605,19 +604,19 @@ In den letzten 3 Tagen gepostet, nach Likes sortiert.
 <td width="33%" valign="top">
 <a href="https://omage1.xyz"><img src="assets/gifs/337.gif" width="100%" alt="omage-1: der OP-1 Field Synth im Browser"></a><br>
 <b><a href="https://omage1.xyz">omage-1: der OP-1 Field Synth im Browser</a></b><br>
-<sub>🆕 · <a href="https://x.com/jamesmbickerton">@jamesmbickerton</a> · ♥ 495 · <a href="https://x.com/jamesmbickerton/status/2122688041219133815">▶ Video</a></sub><br>
+<sub>🆕 · <a href="https://x.com/jamesmbickerton">@jamesmbickerton</a> · ♥ 561 · <a href="https://x.com/jamesmbickerton/status/2122688041219133815">▶ Video</a></sub><br>
 <sub>Eine inoffizielle Hommage, die den OP-1 Field von Teenage Engineering als Browser-App nachbaut, die man sofort spielen kann.</sub>
 </td>
 <td width="33%" valign="top">
 <a href="https://claude.ai/artifact/4P1urBdptp6gWiJo3R6Vpv"><img src="assets/gifs/333.gif" width="100%" alt="Breakcore-Video-Sampler"></a><br>
 <b><a href="https://claude.ai/artifact/4P1urBdptp6gWiJo3R6Vpv">Breakcore-Video-Sampler</a></b><br>
-<sub>🆕 · <a href="https://x.com/parhelion318">@parhelion318</a> · ♥ 478 · <a href="https://x.com/parhelion318/status/2122723067533398064">▶ Video</a></sub><br>
+<sub>🆕 · <a href="https://x.com/parhelion318">@parhelion318</a> · ♥ 540 · <a href="https://x.com/parhelion318/status/2122723067533398064">▶ Video</a></sub><br>
 <sub>Ein Sampler im Browser, der Videoclips zerhackt und zu Breakcore-Rhythmen neu anordnet.</sub>
 </td>
 <td width="33%" valign="top">
 <a href="https://www.bubbbly.com/christmas-cards"><img src="assets/gifs/315.gif" width="100%" alt="Christmas Cards: interaktive Weihnachtskarten"></a><br>
 <b><a href="https://www.bubbbly.com/christmas-cards">Christmas Cards: interaktive Weihnachtskarten</a></b><br>
-<sub>🆕 · <a href="https://x.com/ann_nnng">@ann_nnng</a> · ♥ 472 · <a href="https://x.com/ann_nnng/status/2122283549000712249">▶ Video</a></sub><br>
+<sub>🆕 · <a href="https://x.com/ann_nnng">@ann_nnng</a> · ♥ 473 · <a href="https://x.com/ann_nnng/status/2122283549000712249">▶ Video</a></sub><br>
 <sub>Eine Reihe interaktiver Weihnachtskarten, etwa eine Katze mit rotem Schal auf der Fensterbank, die dem Schneefall zusieht.</sub>
 </td>
 </tr>
@@ -633,14 +632,14 @@ In den letzten 3 Tagen gepostet, nach Likes sortiert.
 <td width="33%" valign="top">
 <a href="https://gsplan.org"><img src="assets/gifs/206.gif" width="100%" alt="Galatasaray-Sitzplatzansicht"></a><br>
 <b><a href="https://gsplan.org">Galatasaray-Sitzplatzansicht</a></b><br>
-<sub><a href="https://x.com/molenbeek84">@molenbeek84</a> · ♥ 428 · <a href="https://x.com/molenbeek84/status/2120847639411331097">Post</a></sub><br>
+<sub><a href="https://x.com/molenbeek84">@molenbeek84</a> · ♥ 427 · <a href="https://x.com/molenbeek84/status/2120847639411331097">Post</a></sub><br>
 <sub>Sieh die Aussicht aufs Spielfeld von jedem Block im RAMS Park, bevor du ein Ticket kaufst.</sub><br>
 <sub><a href="https://fablelist.000ooo.ooo/de/prompts/?w=galatasaray-seat-view&ref=gh"><b>✨ Prompt holen</b></a></sub>
 </td>
 <td width="33%" valign="top">
 <a href="https://rubber-hose-ui.vercel.app"><img src="assets/gifs/332.gif" width="100%" alt="Rubber Hose UI: Bedienelemente als Cartoonfiguren der 1930er"></a><br>
 <b><a href="https://rubber-hose-ui.vercel.app">Rubber Hose UI: Bedienelemente als Cartoonfiguren der 1930er</a></b><br>
-<sub>🆕 · <a href="https://x.com/crtvTeknologist">@crtvTeknologist</a> · ♥ 348 · <a href="https://x.com/crtvTeknologist/status/2122433522166124616">▶ Video</a></sub><br>
+<sub>🆕 · <a href="https://x.com/crtvTeknologist">@crtvTeknologist</a> · ♥ 349 · <a href="https://x.com/crtvTeknologist/status/2122433522166124616">▶ Video</a></sub><br>
 <sub>Elf Web-Bedienelemente im Rubber-Hose-Stil: Der Slider ist eine Posaune, der Toast ein Toaster, und der Button bekommt bei jedem Klick ein blaues Auge. Reines JS und canvas, keine Abhängigkeiten, Open Source.</sub><br>
 <sub><a href="https://github.com/finktheartist/rubber-hose-ui">Quellcode</a></sub>
 </td>
@@ -649,7 +648,7 @@ In den letzten 3 Tagen gepostet, nach Likes sortiert.
 <td width="33%" valign="top">
 <a href="https://origamihelper.com"><img src="assets/gifs/220.gif" width="100%" alt="Origami Helper"></a><br>
 <b><a href="https://origamihelper.com">Origami Helper</a></b><br>
-<sub><a href="https://x.com/ryoma_nakajima">@ryoma_nakajima</a> · ♥ 220 · <a href="https://x.com/ryoma_nakajima/status/2120472383241011323">▶ Video</a></sub><br>
+<sub><a href="https://x.com/ryoma_nakajima">@ryoma_nakajima</a> · ♥ 221 · <a href="https://x.com/ryoma_nakajima/status/2120472383241011323">▶ Video</a></sub><br>
 <sub>Lerne Origami-Faltungen in 3D aus jedem Winkel, mit AR. Kostenlos, ohne Anmeldung, an einem Tag gebaut.</sub><br>
 <sub><a href="https://fablelist.000ooo.ooo/de/prompts/?w=origami-helper&ref=gh"><b>✨ Prompt holen</b></a></sub>
 </td>
@@ -661,16 +660,15 @@ In den letzten 3 Tagen gepostet, nach Likes sortiert.
 <sub><a href="https://fablelist.000ooo.ooo/de/prompts/?w=typed&ref=gh"><b>✨ Prompt holen</b></a></sub>
 </td>
 <td width="33%" valign="top">
-<a href="https://clockendbader.github.io/fable-builds/heartbeat/"><img src="assets/gifs/259.gif" width="100%" alt="One Heartbeat"></a><br>
-<b><a href="https://clockendbader.github.io/fable-builds/heartbeat/">One Heartbeat</a></b><br>
-<sub><a href="https://x.com/clockendbader">@clockendbader</a> · ♥ 153 · <a href="https://x.com/clockendbader/status/2121246903207961069">Post</a></sub><br>
-<sub>Ein schlagendes 3D-Herz mit Live-EKG- und Druckkurven sowie Herztönen; vergleiche normal, Vorhofflimmern, Herzblock und Aortenstenose. Es hat auch seine eigenen Tests geschrieben.</sub><br>
-<sub><a href="https://fablelist.000ooo.ooo/de/prompts/?w=one-heartbeat&ref=gh"><b>✨ Prompt holen</b></a></sub>
+<a href="https://hexagonal.earth"><img src="assets/gifs/349.gif" width="100%" alt="Hexagonal Earth"></a><br>
+<b><a href="https://hexagonal.earth">Hexagonal Earth</a></b><br>
+<sub>🆕 · <a href="https://x.com/avsa">@avsa</a> · ♥ 181 · <a href="https://x.com/avsa/status/2123123638551392755">Post</a></sub><br>
+<sub>Ein Diorama der ganzen Welt aus Sechsecken, gebaut aus echten Daten zu Höhe, Meerestiefe, Luftfeuchtigkeit, Wind und Flüssen. Fable 5.2 hat Hunderte kleiner 3D-Pixel-Splat-Objekte erzeugt und selbst in der Szene platziert.</sub>
 </td>
 </tr>
 </table>
 
-<p align="center"><b><a href="all/web-and-tools.de.md">Alle 43 ansehen →</a></b></p>
+<p align="center"><b><a href="all/web-and-tools.de.md">Alle 44 ansehen →</a></b></p>
 
 <div align="right"><a href="#-inhalt">↑ Zurück zum Inhalt</a></div>
 
@@ -702,30 +700,30 @@ In den letzten 3 Tagen gepostet, nach Likes sortiert.
 <td width="33%" valign="top">
 <a href="https://github.com/moritzkremb/robovac-pov"><img src="assets/gifs/334.gif" width="100%" alt="Robovac POV: ein lebensechter Film aus Sicht eines Saugroboters"></a><br>
 <b><a href="https://github.com/moritzkremb/robovac-pov">Robovac POV: ein lebensechter Film aus Sicht eines Saugroboters</a></b><br>
-<sub>🆕 · <a href="https://x.com/moritzkremb">@moritzkremb</a> · ♥ 390 · <a href="https://x.com/moritzkremb/status/2122702891819377117">▶ Video</a></sub><br>
+<sub>🆕 · <a href="https://x.com/moritzkremb">@moritzkremb</a> · ♥ 416 · <a href="https://x.com/moritzkremb/status/2122702891819377117">▶ Video</a></sub><br>
 <sub>Ein 53-Sekunden-Film nur aus Code: eine in C++ geschriebene Welt, ein eigener GPU-Path-Tracer, eine simulierte Kamera mit Fokus, Bewegungsunschärfe und Korn, ein Teppich aus rund 900,000 Fasern und in Python synthetisierter Ton.</sub>
 </td>
 <td width="33%" valign="top">
 <a href="https://github.com/ChetasLua/pelican-riding-a-bicycle"><img src="assets/gifs/150.gif" width="100%" alt="The Pelican, Tired of the Road"></a><br>
 <b><a href="https://github.com/ChetasLua/pelican-riding-a-bicycle">The Pelican, Tired of the Road</a></b><br>
-<sub><a href="https://x.com/chetaslua">@chetaslua</a> · ♥ 357 · <a href="https://x.com/chetaslua/status/2120438091647218025">▶ Video</a></sub><br>
+<sub><a href="https://x.com/chetaslua">@chetaslua</a> · ♥ 358 · <a href="https://x.com/chetaslua/status/2120438091647218025">▶ Video</a></sub><br>
 <sub>Ein 60-sekündiger Film im handgemalten Look über den Pelikan aus dem SVG-Test. Eine HTML-Datei; jedes Pixel und jeder Sound ist Code.</sub><br>
 <sub><a href="https://github.com/ChetasLua/mona-lisa-js">Mona Lisa in JS</a></sub><br>
 <sub><a href="https://fablelist.000ooo.ooo/de/prompts/?w=the-pelican-tired-of-the-road&ref=gh"><b>✨ Prompt holen</b></a></sub>
 </td>
 <td width="33%" valign="top">
-<a href="https://github.com/Leonxlnx/castle-cinematic"><img src="assets/gifs/302.gif" width="100%" alt="Castle Cinematic"></a><br>
-<b><a href="https://github.com/Leonxlnx/castle-cinematic">Castle Cinematic</a></b><br>
-<sub>🆕 · <a href="https://x.com/LexnLin">@LexnLin</a> · ♥ 326 · <a href="https://x.com/LexnLin/status/2122112228522623459">▶ Video</a></sub><br>
-<sub>Ein 45-sekündiger 4K-Film einer gotischen Burg auf einer Klippe im Sonnenuntergang. Jedes Bild stammt aus rund 9.000 Zeilen Python in Blender, ohne 3D-Assets oder Texturen.</sub>
+<a href="https://github.com/Leonxlnx/mechanical-moon"><img src="assets/gifs/336.gif" width="100%" alt="Mechanical Moon"></a><br>
+<b><a href="https://github.com/Leonxlnx/mechanical-moon">Mechanical Moon</a></b><br>
+<sub>🆕 · <a href="https://x.com/LexnLin">@LexnLin</a> · ♥ 351 · <a href="https://x.com/LexnLin/status/2122823164635881853">▶ Video</a></sub><br>
+<sub>Ein prozeduraler 45-Sekunden-Film in Blender: ein aufgebrochener Mond mit einer goldenen Uhrwerk-Megastruktur im Inneren, vollständig mit Python-Skripten gebaut und in EEVEE gerendert.</sub>
 </td>
 </tr>
 <tr>
 <td width="33%" valign="top">
-<a href="https://github.com/Leonxlnx/mechanical-moon"><img src="assets/gifs/336.gif" width="100%" alt="Mechanical Moon"></a><br>
-<b><a href="https://github.com/Leonxlnx/mechanical-moon">Mechanical Moon</a></b><br>
-<sub>🆕 · <a href="https://x.com/LexnLin">@LexnLin</a> · ♥ 310 · <a href="https://x.com/LexnLin/status/2122823164635881853">▶ Video</a></sub><br>
-<sub>Ein prozeduraler 45-Sekunden-Film in Blender: ein aufgebrochener Mond mit einer goldenen Uhrwerk-Megastruktur im Inneren, vollständig mit Python-Skripten gebaut und in EEVEE gerendert.</sub>
+<a href="https://github.com/Leonxlnx/castle-cinematic"><img src="assets/gifs/302.gif" width="100%" alt="Castle Cinematic"></a><br>
+<b><a href="https://github.com/Leonxlnx/castle-cinematic">Castle Cinematic</a></b><br>
+<sub><a href="https://x.com/LexnLin">@LexnLin</a> · ♥ 326 · <a href="https://x.com/LexnLin/status/2122112228522623459">▶ Video</a></sub><br>
+<sub>Ein 45-sekündiger 4K-Film einer gotischen Burg auf einer Klippe im Sonnenuntergang. Jedes Bild stammt aus rund 9.000 Zeilen Python in Blender, ohne 3D-Assets oder Texturen.</sub>
 </td>
 <td width="33%" valign="top">
 <a href="https://github.com/anstapnever/one-sweep"><img src="assets/gifs/051.gif" width="100%" alt="One Sweep"></a><br>
@@ -746,7 +744,7 @@ In den letzten 3 Tagen gepostet, nach Likes sortiert.
 <td width="33%" valign="top">
 <a href="https://github.com/ChetasLua/godzilla-nights"><img src="assets/gifs/055.gif" width="100%" alt="Godzilla Nights"></a><br>
 <b><a href="https://github.com/ChetasLua/godzilla-nights">Godzilla Nights</a></b><br>
-<sub><a href="https://x.com/chetaslua">@chetaslua</a> · ♥ 229 · <a href="https://x.com/chetaslua/status/2119981510199808368">▶ Video</a></sub><br>
+<sub><a href="https://x.com/chetaslua">@chetaslua</a> · ♥ 230 · <a href="https://x.com/chetaslua/status/2119981510199808368">▶ Video</a></sub><br>
 <sub>Bilder in reinem Code gezeichnet, leicht animiert.</sub><br>
 <sub><a href="https://fablelist.000ooo.ooo/de/prompts/?w=godzilla-nights&ref=gh"><b>✨ Prompt holen</b></a></sub>
 </td>
@@ -759,7 +757,7 @@ In den letzten 3 Tagen gepostet, nach Likes sortiert.
 <td width="33%" valign="top">
 <a href="https://github.com/0xCodez/thousand-peaks"><img src="assets/gifs/282.gif" width="100%" alt="Dragon of a Thousand Peaks — Drache der tausend Gipfel"></a><br>
 <b><a href="https://github.com/0xCodez/thousand-peaks">Dragon of a Thousand Peaks — Drache der tausend Gipfel</a></b><br>
-<sub><a href="https://x.com/0xMovez">@0xMovez</a> · ♥ 133 · <a href="https://x.com/0xMovez/status/2121721290687983906">▶ Video</a></sub><br>
+<sub><a href="https://x.com/0xMovez">@0xMovez</a> · ♥ 135 · <a href="https://x.com/0xMovez/status/2121721290687983906">▶ Video</a></sub><br>
 <sub>Ein 90-sekündiger Kampffilm in reinem three.js ohne Assets oder Videomodelle; Fable 5.2 führte als Regisseur 8 parallele Agenten, Musik und Sounds sind im Code synthetisiert.</sub>
 </td>
 </tr>
@@ -771,10 +769,16 @@ In den letzten 3 Tagen gepostet, nach Likes sortiert.
 <sub>Ein 79-sekündiger Anime-Kurzfilm, alles Code.</sub><br>
 <sub><a href="https://x.com/anstapnever/status/2119915123070644263">📝 Prompt des Creators (kostenlos)</a></sub>
 </td>
+<td width="33%" valign="top">
+<a href="https://github.com/ChetasLua/the-last-good-pelican-fable-5.2"><img src="assets/gifs/352.gif" width="100%" alt="The Last Good Pelican"></a><br>
+<b><a href="https://github.com/ChetasLua/the-last-good-pelican-fable-5.2">The Last Good Pelican</a></b><br>
+<sub>🆕 · <a href="https://x.com/chetaslua">@chetaslua</a> · ♥ 107 · <a href="https://x.com/chetaslua/status/2123100140189958401">▶ Video</a></sub><br>
+<sub>Ein 60-sekündiger Kurzfilm im handgezeichneten Look in einer einzigen Offline-HTML-Datei: ein Tag im Leben des einzigen Benchmark-Pelikans, der richtig gelungen ist. Canvas 2D für jede Zeichnung, Web Audio für jeden Ton.</sub>
+</td>
 </tr>
 </table>
 
-<p align="center"><b><a href="all/animation.de.md">Alle 17 ansehen →</a></b></p>
+<p align="center"><b><a href="all/animation.de.md">Alle 19 ansehen →</a></b></p>
 
 <div align="right"><a href="#-inhalt">↑ Zurück zum Inhalt</a></div>
 
@@ -840,13 +844,13 @@ Die Creator haben ein Video, aber keinen Link geteilt. Klick auf die Vorschau f�
 <td width="33%" valign="top">
 <a href="https://x.com/aj_dev_smith/status/2122538394710687871"><img src="assets/gifs/324.gif" width="100%" alt="Jedes Lied mit 64 aufgenommenen Tönen einer einzigen Stimme spielen"></a><br>
 <b><a href="https://x.com/aj_dev_smith/status/2122538394710687871">Jedes Lied mit 64 aufgenommenen Tönen einer einzigen Stimme spielen</a></b><br>
-<sub>🆕 · <a href="https://x.com/aj_dev_smith">@aj_dev_smith</a> · ♥ 5.2k · <a href="https://x.com/aj_dev_smith/status/2122538394710687871">▶ Video</a></sub><br>
+<sub>🆕 · <a href="https://x.com/aj_dev_smith">@aj_dev_smith</a> · ♥ 5.3k · <a href="https://x.com/aj_dev_smith/status/2122538394710687871">▶ Video</a></sub><br>
 
 </td>
 <td width="33%" valign="top">
 <a href="https://x.com/Dstudio_ai/status/2122569461547098595"><img src="assets/gifs/328.gif" width="100%" alt="Lobby-Bildschirm im Handyspiel-Stil mit einem Tripo-3D-Modell"></a><br>
 <b><a href="https://x.com/Dstudio_ai/status/2122569461547098595">Lobby-Bildschirm im Handyspiel-Stil mit einem Tripo-3D-Modell</a></b><br>
-<sub>🆕 · <a href="https://x.com/Dstudio_ai">@Dstudio_ai</a> · ♥ 5.1k · <a href="https://x.com/Dstudio_ai/status/2122569461547098595">▶ Video</a></sub><br>
+<sub>🆕 · <a href="https://x.com/Dstudio_ai">@Dstudio_ai</a> · ♥ 5.3k · <a href="https://x.com/Dstudio_ai/status/2122569461547098595">▶ Video</a></sub><br>
 
 </td>
 </tr>
@@ -854,7 +858,7 @@ Die Creator haben ein Video, aber keinen Link geteilt. Klick auf die Vorschau f�
 <td width="33%" valign="top">
 <a href="https://x.com/matabee_GTO/status/2120995946372985144"><img src="assets/gifs/254.gif" width="100%" alt="Ein Prompt: Mach das unangenehmste Video, das du kannst"></a><br>
 <b><a href="https://x.com/matabee_GTO/status/2120995946372985144">Ein Prompt: Mach das unangenehmste Video, das du kannst</a></b><br>
-<sub><a href="https://x.com/matabee_GTO">@matabee_GTO</a> · ♥ 4.9k · <a href="https://x.com/matabee_GTO/status/2120995946372985144">▶ Video</a></sub><br>
+<sub><a href="https://x.com/matabee_GTO">@matabee_GTO</a> · ♥ 5.0k · <a href="https://x.com/matabee_GTO/status/2120995946372985144">▶ Video</a></sub><br>
 <br>
 <sub><a href="https://x.com/matabee_GTO/status/2120995946372985144">📝 Prompt des Creators (kostenlos)</a></sub>
 </td>
@@ -889,7 +893,7 @@ Die Creator haben ein Video, aber keinen Link geteilt. Klick auf die Vorschau f�
 <td width="33%" valign="top">
 <a href="https://x.com/timhwang/status/2122011842549600506"><img src="assets/gifs/303.gif" width="100%" alt="Ein Chatbot mit 6 Mio. Parametern auf einem Game-Boy-Modul"></a><br>
 <b><a href="https://x.com/timhwang/status/2122011842549600506">Ein Chatbot mit 6 Mio. Parametern auf einem Game-Boy-Modul</a></b><br>
-<sub>🆕 · <a href="https://x.com/timhwang">@timhwang</a> · ♥ 3.4k · <a href="https://x.com/timhwang/status/2122011842549600506">▶ Video</a></sub><br>
+<sub><a href="https://x.com/timhwang">@timhwang</a> · ♥ 3.4k · <a href="https://x.com/timhwang/status/2122011842549600506">▶ Video</a></sub><br>
 
 </td>
 </tr>
@@ -911,7 +915,7 @@ Die Creator haben ein Video, aber keinen Link geteilt. Klick auf die Vorschau f�
 <td width="33%" valign="top">
 <a href="https://x.com/hayashimon1/status/2121943011525624151"><img src="assets/gifs/311.gif" width="100%" alt="Ein Gang über einen alten Bahnsteig, per Blender MCP"></a><br>
 <b><a href="https://x.com/hayashimon1/status/2121943011525624151">Ein Gang über einen alten Bahnsteig, per Blender MCP</a></b><br>
-<sub>🆕 · <a href="https://x.com/hayashimon1">@hayashimon1</a> · ♥ 2.5k · <a href="https://x.com/hayashimon1/status/2121943011525624151">▶ Video</a></sub><br>
+<sub><a href="https://x.com/hayashimon1">@hayashimon1</a> · ♥ 2.6k · <a href="https://x.com/hayashimon1/status/2121943011525624151">▶ Video</a></sub><br>
 
 </td>
 </tr>
@@ -962,7 +966,7 @@ Die Creator haben ein Video, aber keinen Link geteilt. Klick auf die Vorschau f�
 </tr>
 </table>
 
-<p align="center"><b><a href="all/video-demos.de.md">Alle 143 ansehen →</a></b></p>
+<p align="center"><b><a href="all/video-demos.de.md">Alle 145 ansehen →</a></b></p>
 
 ## 🤝 Mitmachen
 
@@ -982,8 +986,8 @@ Alle Werke gehören ihren Creators. Dieses Repository indexiert sie nur, mit kur
 
 ## 📰 Neuigkeiten
 
+- **2026-11-19**: +4 Live-Werke und +2 Video-Demos.
 - **2026-11-18**: +12 Live-Werke und +8 Video-Demos.
 - **2026-11-17**: +9 Live-Werke und +7 Video-Demos.
 - **2026-11-16**: +10 Live-Werke und +6 Video-Demos.
-- **2026-11-15**: +10 Live-Werke und +10 Video-Demos.
 - **2026-11-10**: Erste Version – 57 Live-Werke + 61 Video-Demos, jeweils mit GIF-Vorschau.

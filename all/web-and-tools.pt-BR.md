@@ -1,4 +1,4 @@
-# 🧰 Páginas e ferramentas · todos os 43
+# 🧰 Páginas e ferramentas · todos os 44
 
 [← Voltar à lista](../README.pt-BR.md) · [English](web-and-tools.md) · [简体中文](web-and-tools.zh-CN.md) · [繁體中文](web-and-tools.zh-TW.md) · [日本語](web-and-tools.ja.md) · [한국어](web-and-tools.ko.md) · [Español](web-and-tools.es.md) · **Português** · [Français](web-and-tools.fr.md) · [Deutsch](web-and-tools.de.md) · [Русский](web-and-tools.ru.md)
 
@@ -9,7 +9,7 @@ A página principal mostra no máximo as 24 entradas mais curtidas de cada seç�
 <td width="33%" valign="top">
 <a href="https://claudia.gallery"><img src="../assets/gifs/038.gif" width="100%" alt="Claudia Gallery"></a><br>
 <b><a href="https://claudia.gallery">Claudia Gallery</a></b><br>
-<sub><a href="https://x.com/anabology">@anabology</a> · ♥ 5.4k · <a href="https://x.com/anabology/status/2120010995309457643">▶ Vídeo</a></sub><br>
+<sub><a href="https://x.com/anabology">@anabology</a> · ♥ 5.5k · <a href="https://x.com/anabology/status/2120010995309457643">▶ Vídeo</a></sub><br>
 <sub>"Faça o vídeo dos seus sonhos" — duas cenas, 9 horas.</sub><br>
 <sub><a href="https://fablelist.000ooo.ooo/pt/prompts/?w=claudia-gallery&ref=gh"><b>✨ Pegue o prompt</b></a></sub>
 </td>
@@ -48,7 +48,7 @@ A página principal mostra no máximo as 24 entradas mais curtidas de cada seç�
 <td width="33%" valign="top">
 <a href="https://sakuga-vfx.vercel.app"><img src="../assets/gifs/299.gif" width="100%" alt="Sakuga Set"></a><br>
 <b><a href="https://sakuga-vfx.vercel.app">Sakuga Set</a></b><br>
-<sub>🆕 · <a href="https://x.com/crtvTeknologist">@crtvTeknologist</a> · ♥ 1.4k · <a href="https://x.com/crtvTeknologist/status/2122088829565698218">▶ Vídeo</a></sub><br>
+<sub><a href="https://x.com/crtvTeknologist">@crtvTeknologist</a> · ♥ 1.4k · <a href="https://x.com/crtvTeknologist/status/2122088829565698218">▶ Vídeo</a></sub><br>
 <sub>Doze controles de interface que reagem como anime: botões se achatam e aterrissam com um DON!, toggles deixam rastro e espirram, sliders levantam nuvens. Todos os efeitos são desenhados em código, um arquivo cada, sem dependências.</sub><br>
 <sub><a href="https://github.com/finktheartist/sakuga-vfx">Código-fonte</a></sub>
 </td>
@@ -103,7 +103,7 @@ A página principal mostra no máximo as 24 entradas mais curtidas de cada seç�
 <td width="33%" valign="top">
 <a href="https://itspsneha.com/supplements"><img src="../assets/gifs/037.gif" width="100%" alt="Which Vitamins to Buy in India"></a><br>
 <b><a href="https://itspsneha.com/supplements">Which Vitamins to Buy in India</a></b><br>
-<sub><a href="https://x.com/itspsneha">@itspsneha</a> · ♥ 738 · <a href="https://x.com/itspsneha/status/2120048494761451974">Post</a></sub><br>
+<sub><a href="https://x.com/itspsneha">@itspsneha</a> · ♥ 739 · <a href="https://x.com/itspsneha/status/2120048494761451974">Post</a></sub><br>
 <sub>Feito após ler laudos de laboratório de 109 lotes testados.</sub><br>
 <sub><a href="https://fablelist.000ooo.ooo/pt/prompts/?w=which-vitamins-to-buy-in-india&ref=gh"><b>✨ Pegue o prompt</b></a></sub>
 </td>
@@ -125,19 +125,19 @@ A página principal mostra no máximo as 24 entradas mais curtidas de cada seç�
 <td width="33%" valign="top">
 <a href="https://omage1.xyz"><img src="../assets/gifs/337.gif" width="100%" alt="omage-1: o sintetizador OP-1 Field no navegador"></a><br>
 <b><a href="https://omage1.xyz">omage-1: o sintetizador OP-1 Field no navegador</a></b><br>
-<sub>🆕 · <a href="https://x.com/jamesmbickerton">@jamesmbickerton</a> · ♥ 495 · <a href="https://x.com/jamesmbickerton/status/2122688041219133815">▶ Vídeo</a></sub><br>
+<sub>🆕 · <a href="https://x.com/jamesmbickerton">@jamesmbickerton</a> · ♥ 561 · <a href="https://x.com/jamesmbickerton/status/2122688041219133815">▶ Vídeo</a></sub><br>
 <sub>Uma homenagem não oficial que recria o OP-1 Field da Teenage Engineering como um app de navegador para tocar na hora.</sub>
 </td>
 <td width="33%" valign="top">
 <a href="https://claude.ai/artifact/4P1urBdptp6gWiJo3R6Vpv"><img src="../assets/gifs/333.gif" width="100%" alt="Sampler de vídeo breakcore"></a><br>
 <b><a href="https://claude.ai/artifact/4P1urBdptp6gWiJo3R6Vpv">Sampler de vídeo breakcore</a></b><br>
-<sub>🆕 · <a href="https://x.com/parhelion318">@parhelion318</a> · ♥ 478 · <a href="https://x.com/parhelion318/status/2122723067533398064">▶ Vídeo</a></sub><br>
+<sub>🆕 · <a href="https://x.com/parhelion318">@parhelion318</a> · ♥ 540 · <a href="https://x.com/parhelion318/status/2122723067533398064">▶ Vídeo</a></sub><br>
 <sub>Um sampler no navegador que pica clipes de vídeo e os reorganiza em ritmos de breakcore.</sub>
 </td>
 <td width="33%" valign="top">
 <a href="https://www.bubbbly.com/christmas-cards"><img src="../assets/gifs/315.gif" width="100%" alt="Christmas Cards: cartões de Natal interativos"></a><br>
 <b><a href="https://www.bubbbly.com/christmas-cards">Christmas Cards: cartões de Natal interativos</a></b><br>
-<sub>🆕 · <a href="https://x.com/ann_nnng">@ann_nnng</a> · ♥ 472 · <a href="https://x.com/ann_nnng/status/2122283549000712249">▶ Vídeo</a></sub><br>
+<sub>🆕 · <a href="https://x.com/ann_nnng">@ann_nnng</a> · ♥ 473 · <a href="https://x.com/ann_nnng/status/2122283549000712249">▶ Vídeo</a></sub><br>
 <sub>Um conjunto de cartões de Natal interativos, como um gato de cachecol vermelho no parapeito da janela vendo a neve cair.</sub>
 </td>
 </tr>
@@ -153,14 +153,14 @@ A página principal mostra no máximo as 24 entradas mais curtidas de cada seç�
 <td width="33%" valign="top">
 <a href="https://gsplan.org"><img src="../assets/gifs/206.gif" width="100%" alt="Vista dos assentos do Galatasaray"></a><br>
 <b><a href="https://gsplan.org">Vista dos assentos do Galatasaray</a></b><br>
-<sub><a href="https://x.com/molenbeek84">@molenbeek84</a> · ♥ 428 · <a href="https://x.com/molenbeek84/status/2120847639411331097">Post</a></sub><br>
+<sub><a href="https://x.com/molenbeek84">@molenbeek84</a> · ♥ 427 · <a href="https://x.com/molenbeek84/status/2120847639411331097">Post</a></sub><br>
 <sub>Veja a vista do campo de cada setor do RAMS Park antes de comprar o ingresso.</sub><br>
 <sub><a href="https://fablelist.000ooo.ooo/pt/prompts/?w=galatasaray-seat-view&ref=gh"><b>✨ Pegue o prompt</b></a></sub>
 </td>
 <td width="33%" valign="top">
 <a href="https://rubber-hose-ui.vercel.app"><img src="../assets/gifs/332.gif" width="100%" alt="Rubber Hose UI: controles como personagens de desenho dos anos 1930"></a><br>
 <b><a href="https://rubber-hose-ui.vercel.app">Rubber Hose UI: controles como personagens de desenho dos anos 1930</a></b><br>
-<sub>🆕 · <a href="https://x.com/crtvTeknologist">@crtvTeknologist</a> · ♥ 348 · <a href="https://x.com/crtvTeknologist/status/2122433522166124616">▶ Vídeo</a></sub><br>
+<sub>🆕 · <a href="https://x.com/crtvTeknologist">@crtvTeknologist</a> · ♥ 349 · <a href="https://x.com/crtvTeknologist/status/2122433522166124616">▶ Vídeo</a></sub><br>
 <sub>Onze controles web desenhados no estilo rubber hose: o slider é um trombone, o toast é uma torradeira e o botão ganha um olho roxo a cada clique. JS puro e canvas, sem dependências, código aberto.</sub><br>
 <sub><a href="https://github.com/finktheartist/rubber-hose-ui">Código-fonte</a></sub>
 </td>
@@ -169,7 +169,7 @@ A página principal mostra no máximo as 24 entradas mais curtidas de cada seç�
 <td width="33%" valign="top">
 <a href="https://origamihelper.com"><img src="../assets/gifs/220.gif" width="100%" alt="Origami Helper"></a><br>
 <b><a href="https://origamihelper.com">Origami Helper</a></b><br>
-<sub><a href="https://x.com/ryoma_nakajima">@ryoma_nakajima</a> · ♥ 220 · <a href="https://x.com/ryoma_nakajima/status/2120472383241011323">▶ Vídeo</a></sub><br>
+<sub><a href="https://x.com/ryoma_nakajima">@ryoma_nakajima</a> · ♥ 221 · <a href="https://x.com/ryoma_nakajima/status/2120472383241011323">▶ Vídeo</a></sub><br>
 <sub>Aprenda dobras de origami em 3D de qualquer ângulo, com AR. Grátis, sem cadastro, feito em um dia.</sub><br>
 <sub><a href="https://fablelist.000ooo.ooo/pt/prompts/?w=origami-helper&ref=gh"><b>✨ Pegue o prompt</b></a></sub>
 </td>
@@ -181,14 +181,20 @@ A página principal mostra no máximo as 24 entradas mais curtidas de cada seç�
 <sub><a href="https://fablelist.000ooo.ooo/pt/prompts/?w=typed&ref=gh"><b>✨ Pegue o prompt</b></a></sub>
 </td>
 <td width="33%" valign="top">
+<a href="https://hexagonal.earth"><img src="../assets/gifs/349.gif" width="100%" alt="Hexagonal Earth"></a><br>
+<b><a href="https://hexagonal.earth">Hexagonal Earth</a></b><br>
+<sub>🆕 · <a href="https://x.com/avsa">@avsa</a> · ♥ 181 · <a href="https://x.com/avsa/status/2123123638551392755">Post</a></sub><br>
+<sub>Um diorama do mundo inteiro feito de hexágonos, construído com dados reais de elevação, profundidade do oceano, umidade, vento e rios. O Fable 5.2 gerou centenas de pequenos objetos 3D de splats de pixels e os posicionou na cena por conta própria.</sub>
+</td>
+</tr>
+<tr>
+<td width="33%" valign="top">
 <a href="https://clockendbader.github.io/fable-builds/heartbeat/"><img src="../assets/gifs/259.gif" width="100%" alt="One Heartbeat"></a><br>
 <b><a href="https://clockendbader.github.io/fable-builds/heartbeat/">One Heartbeat</a></b><br>
 <sub><a href="https://x.com/clockendbader">@clockendbader</a> · ♥ 153 · <a href="https://x.com/clockendbader/status/2121246903207961069">Post</a></sub><br>
 <sub>Um coração 3D batendo com ECG e curvas de pressão ao vivo e sons cardíacos; compare normal, FA, bloqueio cardíaco e estenose aórtica. Ele também escreveu os próprios testes.</sub><br>
 <sub><a href="https://fablelist.000ooo.ooo/pt/prompts/?w=one-heartbeat&ref=gh"><b>✨ Pegue o prompt</b></a></sub>
 </td>
-</tr>
-<tr>
 <td width="33%" valign="top">
 <a href="https://stormy.ai/hands"><img src="../assets/gifs/316.gif" width="100%" alt="Hands: como funciona a mão de um robô"></a><br>
 <b><a href="https://stormy.ai/hands">Hands: como funciona a mão de um robô</a></b><br>
@@ -201,15 +207,15 @@ A página principal mostra no máximo as 24 entradas mais curtidas de cada seç�
 <sub><a href="https://x.com/viktoroddy">@viktoroddy</a> · ♥ 141 · <a href="https://x.com/viktoroddy/status/2119985044542705916">▶ Vídeo</a></sub><br>
 <sub>Uma seção hero feita com Fable 5.2 + GPT Image 2.6.</sub>
 </td>
+</tr>
+<tr>
 <td width="33%" valign="top">
 <a href="https://patch.gg/patch/anymove"><img src="../assets/gifs/149.gif" width="100%" alt="anymove"></a><br>
 <b><a href="https://patch.gg/patch/anymove">anymove</a></b><br>
-<sub><a href="https://x.com/rehan_shei">@rehan_shei</a> · ♥ 141 · <a href="https://x.com/rehan_shei/status/2120409150870159414">▶ Vídeo</a></sub><br>
+<sub><a href="https://x.com/rehan_shei">@rehan_shei</a> · ♥ 140 · <a href="https://x.com/rehan_shei/status/2120409150870159414">▶ Vídeo</a></sub><br>
 <sub>Resolve os movimentos de um clipe de vídeo de IA em um rig 3D real — sem traje de mocap, sem keyframes. Código aberto.</sub><br>
 <sub><a href="https://fablelist.000ooo.ooo/pt/prompts/?w=anymove&ref=gh"><b>✨ Pegue o prompt</b></a></sub>
 </td>
-</tr>
-<tr>
 <td width="33%" valign="top">
 <a href="https://fieldnote-crm-pi.vercel.app"><img src="../assets/gifs/317.gif" width="100%" alt="Dashboard do Fieldnote CRM"></a><br>
 <b><a href="https://fieldnote-crm-pi.vercel.app">Dashboard do Fieldnote CRM</a></b><br>
@@ -223,6 +229,8 @@ A página principal mostra no máximo as 24 entradas mais curtidas de cada seç�
 <sub>Um site pessoal redesenhado de ponta a ponta.</sub><br>
 <sub><a href="https://fablelist.000ooo.ooo/pt/prompts/?w=nikechan-com-redesign&ref=gh"><b>✨ Pegue o prompt</b></a></sub>
 </td>
+</tr>
+<tr>
 <td width="33%" valign="top">
 <a href="https://github.com/kanaworksai-hue/harappa"><img src="../assets/gifs/250.gif" width="100%" alt="Harappa (add-on do Blender)"></a><br>
 <b><a href="https://github.com/kanaworksai-hue/harappa">Harappa (add-on do Blender)</a></b><br>
@@ -230,8 +238,6 @@ A página principal mostra no máximo as 24 entradas mais curtidas de cada seç�
 <sub>Um add-on gratuito do Blender que transforma uma colina nua em um prado estilo anime com um clique, com grama, flores, nuvens, árvores, estações e estilos.</sub><br>
 <sub><a href="https://fablelist.000ooo.ooo/pt/prompts/?w=harappa-blender-add-on&ref=gh"><b>✨ Pegue o prompt</b></a></sub>
 </td>
-</tr>
-<tr>
 <td width="33%" valign="top">
 <a href="https://sael.net/seat-arena"><img src="../assets/gifs/182.gif" width="100%" alt="Best Seat in the House"></a><br>
 <b><a href="https://sael.net/seat-arena">Best Seat in the House</a></b><br>
@@ -246,6 +252,8 @@ A página principal mostra no máximo as 24 entradas mais curtidas de cada seç�
 <sub>Monte um PC gamer de US$ 1.279 peça por peça em 3D, em 8 etapas — e destrua-o de propósito antes de encostar em peças reais.</sub><br>
 <sub><a href="https://fablelist.000ooo.ooo/pt/prompts/?w=pc-build-lab&ref=gh"><b>✨ Pegue o prompt</b></a></sub>
 </td>
+</tr>
+<tr>
 <td width="33%" valign="top">
 <a href="https://ai.itokoba.com/ichimai/"><img src="../assets/gifs/260.gif" width="100%" alt="Ichimai — até onde uma página pode ir"></a><br>
 <b><a href="https://ai.itokoba.com/ichimai/">Ichimai — até onde uma página pode ir</a></b><br>
@@ -253,12 +261,10 @@ A página principal mostra no máximo as 24 entradas mais curtidas de cada seç�
 <sub>Só uma instrução: "faça a página web estática mais forte que mostre o que você sabe fazer agora".</sub><br>
 <sub><a href="https://x.com/hideki_climax/status/2120165464722809190">📝 Prompt do criador (grátis)</a></sub>
 </td>
-</tr>
-<tr>
 <td width="33%" valign="top">
 <a href="https://rain-1.github.io/intel4004/web/4004-lesion.html"><img src="../assets/gifs/310.gif" width="100%" alt="4004 Lesion Map"></a><br>
 <b><a href="https://rain-1.github.io/intel4004/web/4004-lesion.html">4004 Lesion Map</a></b><br>
-<sub>🆕 · <a href="https://x.com/slimer48484">@slimer48484</a> · ♥ 10 · <a href="https://x.com/slimer48484/status/2122231197409398920">Post</a></sub><br>
+<sub><a href="https://x.com/slimer48484">@slimer48484</a> · ♥ 10 · <a href="https://x.com/slimer48484/status/2122231197409398920">Post</a></sub><br>
 <sub>Cada um dos 2,242 transistores do Intel 4004 foi quebrado, um de cada vez, numa simulação em nível de transistor. Passe o cursor sobre qualquer transistor no mapa do chip para ver o que para de funcionar.</sub><br>
 <sub><a href="https://github.com/rain-1/intel4004">Código-fonte</a></sub>
 </td>
@@ -269,6 +275,8 @@ A página principal mostra no máximo as 24 entradas mais curtidas de cada seç�
 <sub>20 alternativas à landing page de um plugin JWT a partir de um prompt simples.</sub><br>
 <sub><a href="https://x.com/Tmeister/status/2119983842841018482">📝 Prompt do criador (grátis)</a></sub>
 </td>
+</tr>
+<tr>
 <td width="33%" valign="top">
 <a href="https://www.asumacodes.xyz/arena/driftwood"><img src="../assets/gifs/047.gif" width="100%" alt="Driftwood (Fable vs Opus)"></a><br>
 <b><a href="https://www.asumacodes.xyz/arena/driftwood">Driftwood (Fable vs Opus)</a></b><br>
@@ -277,8 +285,6 @@ A página principal mostra no máximo as 24 entradas mais curtidas de cada seç�
 <sub><a href="https://www.asumacodes.xyz/arena/focus-room">Focus room</a> · <a href="https://www.asumacodes.xyz/arena/bug-hunt">Bug hunt comparison</a> · <a href="https://www.asumacodes.xyz/arena">Series</a></sub><br>
 <sub><a href="https://x.com/AsumaCodes/status/2120130668848177432">📝 Prompt do criador (grátis)</a></sub>
 </td>
-</tr>
-<tr>
 <td width="33%" valign="top">
 <a href="https://uberdesigner.ai/t/araneae"><img src="../assets/gifs/290.gif" width="100%" alt="araneae"></a><br>
 <b><a href="https://uberdesigner.ai/t/araneae">araneae</a></b><br>
@@ -292,6 +298,8 @@ A página principal mostra no máximo as 24 entradas mais curtidas de cada seç�
 <sub>Uma proposta de projeto de casa isolada (em coreano), feita em um dia.</sub><br>
 <sub><a href="https://fablelist.000ooo.ooo/pt/prompts/?w=house-design-proposal&ref=gh"><b>✨ Pegue o prompt</b></a></sub>
 </td>
+</tr>
+<tr>
 <td width="33%" valign="top">
 <a href="https://claude.ai/artifact/9yQkezie4jY3oz2YDLFDiq"><img src="../assets/gifs/040.gif" width="100%" alt="Bay Drum Kit"></a><br>
 <b><a href="https://claude.ai/artifact/9yQkezie4jY3oz2YDLFDiq">Bay Drum Kit</a></b><br>
@@ -299,8 +307,6 @@ A página principal mostra no máximo as 24 entradas mais curtidas de cada seç�
 <sub>Cada batida reverbera por toda a baía.</sub><br>
 <sub><a href="https://fablelist.000ooo.ooo/pt/prompts/?w=bay-drum-kit&ref=gh"><b>✨ Pegue o prompt</b></a></sub>
 </td>
-</tr>
-<tr>
 <td width="33%" valign="top">
 <a href="https://claude.ai/artifact/Pk6rHPyRwfShT37kiU1sT6"><img src="../assets/gifs/041.gif" width="100%" alt="Dub Techno Track + Visualizer"></a><br>
 <b><a href="https://claude.ai/artifact/Pk6rHPyRwfShT37kiU1sT6">Dub Techno Track + Visualizer</a></b><br>
@@ -315,6 +321,8 @@ A página principal mostra no máximo as 24 entradas mais curtidas de cada seç�
 <sub>Os laços de sangue e casamento do ator principal com 65 estrelas de Bollywood.</sub><br>
 <sub><a href="https://fablelist.000ooo.ooo/pt/prompts/?w=ramayana-family-tree&ref=gh"><b>✨ Pegue o prompt</b></a></sub>
 </td>
+</tr>
+<tr>
 <td width="33%" valign="top">
 <a href="https://claude.ai/artifact/4aEy6FtUi7jrm9U7uYgp8K"><img src="../assets/gifs/042.gif" width="100%" alt="Demoscene Demo"></a><br>
 <b><a href="https://claude.ai/artifact/4aEy6FtUi7jrm9U7uYgp8K">Demoscene Demo</a></b><br>
@@ -322,8 +330,6 @@ A página principal mostra no máximo as 24 entradas mais curtidas de cada seç�
 <sub>"Faça uma demo na tradição da demoscene que rode no navegador."</sub><br>
 <sub><a href="https://x.com/ndril/status/2119899340642894235">📝 Prompt do criador (grátis)</a></sub>
 </td>
-</tr>
-<tr>
 <td width="33%" valign="top">
 <a href="https://claude.ai/artifact/H8E7AonW2KFrzdRimaLeXb"><img src="../assets/gifs/043.gif" width="100%" alt="112 Forms of Meditation"></a><br>
 <b><a href="https://claude.ai/artifact/H8E7AonW2KFrzdRimaLeXb">112 Forms of Meditation</a></b><br>
