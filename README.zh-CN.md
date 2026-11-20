@@ -5,9 +5,9 @@
 <h3>用 Claude Fable 5.2 做出来、能直接打开玩的东西</h3>
 
 [![Awesome](https://awesome.re/badge.svg)](https://awesome.re)
-[![Works](https://img.shields.io/badge/可打开作品-207-6b4eff)](#-游戏)
+[![Works](https://img.shields.io/badge/可打开作品-215-6b4eff)](#-游戏)
 [![Demos](https://img.shields.io/badge/视频演示-145-ff7a59)](#-只有视频)
-[![Links checked](https://img.shields.io/badge/链接实测-2026--11--19-2ea44f)](#-投稿)
+[![Links checked](https://img.shields.io/badge/链接实测-2026--11--20-2ea44f)](#-投稿)
 [![License: CC0-1.0](https://img.shields.io/badge/License-CC0_1.0-lightgrey.svg)](LICENSE)
 
 [English](README.md) · **简体中文** · [繁體中文](README.zh-TW.md) · [日本語](README.ja.md) · [한국어](README.ko.md) · [Español](README.es.md) · [Português](README.pt-BR.md) · [Français](README.fr.md) · [Deutsch](README.de.md) · [Русский](README.ru.md)
@@ -16,11 +16,11 @@
 
 </div>
 
-207 个能直接打开的作品 + 145 个视频演示，都是用 Claude Fable 5.2 做的，链接 2026-11-19 实测过。每天更新，觉得有用就点个 ⭐。
+215 个能直接打开的作品 + 145 个视频演示，都是用 Claude Fable 5.2 做的，链接 2026-11-20 实测过。每天更新，觉得有用就点个 ⭐。
 
 ## 📑 目录
 
-[⭐ 最受欢迎](#-最受欢迎) · [🆕 最新](#-最新) · [🎮 游戏](#-游戏) 97 · [🌍 3D 世界与场景](#-3d-世界与场景) 45 · [🧰 网页与工具](#-网页与工具) 46 · [🎬 动画与短片（附源码）](#-动画与短片附源码) 19 · [📺 只有视频](#-只有视频) 145 · [🤝 投稿](#-投稿)
+[⭐ 最受欢迎](#-最受欢迎) · [🆕 最新](#-最新) · [🎮 游戏](#-游戏) 101 · [🌍 3D 世界与场景](#-3d-世界与场景) 45 · [🧰 网页与工具](#-网页与工具) 50 · [🎬 动画与短片（附源码）](#-动画与短片附源码) 19 · [📺 只有视频](#-只有视频) 145 · [🤝 投稿](#-投稿)
 
 ## ⭐ 最受欢迎
 
@@ -96,7 +96,7 @@
 <td width="33%" valign="top">
 <a href="https://patch.gg/play/blendi/solar"><img src="assets/gifs/323.gif" width="100%" alt="Solar 可以飞来飞去的迷你太阳系"></a><br>
 <b><a href="https://patch.gg/play/blendi/solar">Solar 可以飞来飞去的迷你太阳系</a></b><br>
-<sub>🆕 · <a href="https://x.com/BlendiByl">@BlendiByl</a> · ♥ 793 · <a href="https://x.com/BlendiByl/status/2122673770607591855">▶ 视频</a></sub><br>
+<sub><a href="https://x.com/BlendiByl">@BlendiByl</a> · ♥ 793 · <a href="https://x.com/BlendiByl/status/2122673770607591855">▶ 视频</a></sub><br>
 <sub>受《星际拓荒》启发：真实轨道和引力，行星之间一路连续飞行，星球全由代码画出；开源</sub>
 </td>
 </tr>
@@ -214,7 +214,7 @@
 <td width="33%" valign="top">
 <a href="https://heat.pplx.app"><img src="assets/gifs/313.gif" width="100%" alt="VICE '86 霓虹 1986 迈阿密开放世界驾驶"></a><br>
 <b><a href="https://heat.pplx.app">VICE '86 霓虹 1986 迈阿密开放世界驾驶</a></b><br>
-<sub>🆕 · <a href="https://x.com/AravSrinivas">@AravSrinivas</a> · ♥ 1.3k · <a href="https://x.com/AravSrinivas/status/2122338465648103676">▶ 视频</a></sub><br>
+<sub><a href="https://x.com/AravSrinivas">@AravSrinivas</a> · ♥ 1.3k · <a href="https://x.com/AravSrinivas/status/2122338465648103676">▶ 视频</a></sub><br>
 <sub>浏览器里跑的开放世界驾驶游戏，没用游戏引擎和 three.js，自己写的 WebGL2 渲染器，城市、车、雨和引擎声全是代码生成，约 6.3 万行 JavaScript</sub>
 </td>
 </tr>
@@ -237,7 +237,7 @@
 <td width="33%" valign="top">
 <a href="https://claude.ai/artifact/MXxb36zKgN261ckbGhmNin"><img src="assets/gifs/002.gif" width="100%" alt="Three Games 合集页（Saltline / 钟表匠之心 / Tidewright）"></a><br>
 <b><a href="https://claude.ai/artifact/MXxb36zKgN261ckbGhmNin">Three Games 合集页（Saltline / 钟表匠之心 / Tidewright）</a></b><br>
-<sub><a href="https://x.com/felixrieseberg">@felixrieseberg</a> · ♥ 805 · <a href="https://x.com/vineerpasam/status/2119955306096857145">▶ 视频</a></sub><br>
+<sub><a href="https://x.com/felixrieseberg">@felixrieseberg</a> · ♥ 806 · <a href="https://x.com/vineerpasam/status/2119955306096857145">▶ 视频</a></sub><br>
 <sub>页面署名 Felix Rieseberg，写明三款都是 Fable 5.2 无人工反馈的初稿；被转发最多的链接（视频来自转发者 @vineerpasam）</sub><br>
 <sub><a href="https://claude.ai/artifact/6MjtQjf4ee1ZZjEpafaEpa">钟表匠之心</a> · <a href="https://claude.ai/artifact/JTgyEMn7sn1q2riWrMb7D4">Tidewright</a></sub><br>
 <sub><a href="https://fablelist.000ooo.ooo/zh/prompts/?w=three-games-saltline-the-clockmaker-s-heart-tidewright&ref=gh"><b>✨ 获取提示词</b></a></sub>
@@ -247,20 +247,20 @@
 <td width="33%" valign="top">
 <a href="https://patch.gg/play/blendi/solar"><img src="assets/gifs/323.gif" width="100%" alt="Solar 可以飞来飞去的迷你太阳系"></a><br>
 <b><a href="https://patch.gg/play/blendi/solar">Solar 可以飞来飞去的迷你太阳系</a></b><br>
-<sub>🆕 · <a href="https://x.com/BlendiByl">@BlendiByl</a> · ♥ 793 · <a href="https://x.com/BlendiByl/status/2122673770607591855">▶ 视频</a></sub><br>
+<sub><a href="https://x.com/BlendiByl">@BlendiByl</a> · ♥ 793 · <a href="https://x.com/BlendiByl/status/2122673770607591855">▶ 视频</a></sub><br>
 <sub>受《星际拓荒》启发：真实轨道和引力，行星之间一路连续飞行，星球全由代码画出；开源</sub>
 </td>
 <td width="33%" valign="top">
 <a href="https://patch.gg/blendi/coloured-pencil"><img src="assets/gifs/247.gif" width="100%" alt="Coloured Pencil 彩铅风游戏"></a><br>
 <b><a href="https://patch.gg/blendi/coloured-pencil">Coloured Pencil 彩铅风游戏</a></b><br>
-<sub><a href="https://x.com/BlendiByl">@BlendiByl</a> · ♥ 762 · <a href="https://x.com/BlendiByl/status/2121130385723789637">▶ 视频</a></sub><br>
+<sub><a href="https://x.com/BlendiByl">@BlendiByl</a> · ♥ 763 · <a href="https://x.com/BlendiByl/status/2121130385723789637">▶ 视频</a></sub><br>
 <sub>彩色铅笔质感的小镇游戏片段，所有着色和整个小镇都是代码；开源</sub><br>
 <sub><a href="https://fablelist.000ooo.ooo/zh/prompts/?w=coloured-pencil&ref=gh"><b>✨ 获取提示词</b></a></sub>
 </td>
 <td width="33%" valign="top">
 <a href="https://www.spawn.co/@mattshumer/voxel-engine"><img src="assets/gifs/004.gif" width="100%" alt="体素引擎"></a><br>
 <b><a href="https://www.spawn.co/@mattshumer/voxel-engine">体素引擎</a></b><br>
-<sub><a href="https://x.com/mattshumer_">@mattshumer_</a> · ♥ 743 · <a href="https://x.com/mattshumer_/status/2119870965106483384">▶ 视频</a></sub><br>
+<sub><a href="https://x.com/mattshumer_">@mattshumer_</a> · ♥ 744 · <a href="https://x.com/mattshumer_/status/2119870965106483384">▶ 视频</a></sub><br>
 <sub>一条提示词生成，要开声音</sub><br>
 <sub><a href="https://fablelist.000ooo.ooo/zh/prompts/?w=voxel-engine&ref=gh"><b>✨ 获取提示词</b></a></sub>
 </td>
@@ -276,7 +276,7 @@
 <td width="33%" valign="top">
 <a href="https://bannerfall.itch.io/siege-wing"><img src="assets/gifs/271.gif" width="100%" alt="Siege Wing 直升机攻城"></a><br>
 <b><a href="https://bannerfall.itch.io/siege-wing">Siege Wing 直升机攻城</a></b><br>
-<sub><a href="https://x.com/builderjaydub">@builderjaydub</a> · ♥ 577 · <a href="https://x.com/builderjaydub/status/2120223731520040966">▶ 视频</a></sub><br>
+<sub><a href="https://x.com/builderjaydub">@builderjaydub</a> · ♥ 578 · <a href="https://x.com/builderjaydub/status/2120223731520040966">▶ 视频</a></sub><br>
 <sub>开直升机打中世纪战争：火炮、火箭、导弹三种武器，躲罗马弩炮、拆城堡</sub>
 </td>
 <td width="33%" valign="top">
@@ -289,7 +289,7 @@
 </tr>
 </table>
 
-<p align="center"><b><a href="all/games.zh-CN.md">查看全部 97 个 →</a></b></p>
+<p align="center"><b><a href="all/games.zh-CN.md">查看全部 101 个 →</a></b></p>
 
 <div align="right"><a href="#-目录">↑ 回到目录</a></div>
 
@@ -374,7 +374,7 @@
 <td width="33%" valign="top">
 <a href="https://github.com/Leonxlnx/walking-block"><img src="assets/gifs/318.gif" width="100%" alt="Walking Block 会走路的苏联公寓楼"></a><br>
 <b><a href="https://github.com/Leonxlnx/walking-block">Walking Block 会走路的苏联公寓楼</a></b><br>
-<sub>🆕 · <a href="https://x.com/LexnLin">@LexnLin</a> · ♥ 415 · <a href="https://x.com/LexnLin/status/2122359035751989341">▶ 视频</a></sub><br>
+<sub><a href="https://x.com/LexnLin">@LexnLin</a> · ♥ 415 · <a href="https://x.com/LexnLin/status/2122359035751989341">▶ 视频</a></sub><br>
 <sub>长着八条机械腿的苏联板楼在暮色雾气里穿过湿地，几何、贴图、着色器全是 three.js 代码，还渲染了一段 45 秒短片</sub>
 </td>
 <td width="33%" valign="top">
@@ -412,13 +412,13 @@
 <td width="33%" valign="top">
 <a href="https://butterfly.kyzo.io"><img src="assets/gifs/314.gif" width="100%" alt="Hidden Layers 玻璃温室里的透翅蝶"></a><br>
 <b><a href="https://butterfly.kyzo.io">Hidden Layers 玻璃温室里的透翅蝶</a></b><br>
-<sub>🆕 · <a href="https://x.com/ky__zo">@ky__zo</a> · ♥ 229 · <a href="https://x.com/ky__zo/status/2122274109795054036">▶ 视频</a></sub><br>
+<sub><a href="https://x.com/ky__zo">@ky__zo</a> · ♥ 229 · <a href="https://x.com/ky__zo/status/2122274109795054036">▶ 视频</a></sub><br>
 <sub>滚动页面跟着一只飞不出玻璃温室的透翅蝶穿过六个世界，纯 three.js，没有模型文件和贴图；花了 13.2 亿 token、905 美元 API 费用</sub>
 </td>
 <td width="33%" valign="top">
 <a href="https://claude.ai/artifact/R6YBDkAm2GjAC5A65D9djx"><img src="assets/gifs/142.gif" width="100%" alt="能走进去的 Claude 演示间"></a><br>
 <b><a href="https://claude.ai/artifact/R6YBDkAm2GjAC5A65D9djx">能走进去的 Claude 演示间</a></b><br>
-<sub><a href="https://x.com/dfeinition">@dfeinition</a> · ♥ 213 · <a href="https://x.com/dfeinition/status/2120330644261589051">▶ 视频</a></sub><br>
+<sub><a href="https://x.com/dfeinition">@dfeinition</a> · ♥ 214 · <a href="https://x.com/dfeinition/status/2120330644261589051">▶ 视频</a></sub><br>
 <sub>受 @rileybrown 启发；走进房间，坐到任意一台电脑前</sub><br>
 <sub><a href="https://fablelist.000ooo.ooo/zh/prompts/?w=a-claude-demo-you-can-walk-into&ref=gh"><b>✨ 获取提示词</b></a></sub>
 </td>
@@ -580,9 +580,15 @@
 </tr>
 <tr>
 <td width="33%" valign="top">
+<a href="https://hexagonal.earth"><img src="assets/gifs/349.gif" width="100%" alt="Hexagonal Earth 六边形拼成的地球沙盘"></a><br>
+<b><a href="https://hexagonal.earth">Hexagonal Earth 六边形拼成的地球沙盘</a></b><br>
+<sub>🆕 · <a href="https://x.com/avsa">@avsa</a> · ♥ 746 · <a href="https://x.com/avsa/status/2123123638551392755">原帖</a></sub><br>
+<sub>用海拔、洋深、湿度、风、河流等真实数据搭出的六边形世界地图；上面几百种小物件是 Fable 5.2 一个个生成的 3D 像素点云，再由它自己摆进场景</sub>
+</td>
+<td width="33%" valign="top">
 <a href="https://itspsneha.com/supplements"><img src="assets/gifs/037.gif" width="100%" alt="印度维生素该买哪些"></a><br>
 <b><a href="https://itspsneha.com/supplements">印度维生素该买哪些</a></b><br>
-<sub><a href="https://x.com/itspsneha">@itspsneha</a> · ♥ 739 · <a href="https://x.com/itspsneha/status/2120048494761451974">原帖</a></sub><br>
+<sub><a href="https://x.com/itspsneha">@itspsneha</a> · ♥ 738 · <a href="https://x.com/itspsneha/status/2120048494761451974">原帖</a></sub><br>
 <sub>读了 109 批检测报告做成的指南页</sub><br>
 <sub><a href="https://fablelist.000ooo.ooo/zh/prompts/?w=which-vitamins-to-buy-in-india&ref=gh"><b>✨ 获取提示词</b></a></sub>
 </td>
@@ -592,12 +598,6 @@
 <sub><a href="https://x.com/rileybrown">@rileybrown</a> · ♥ 666 · <a href="https://x.com/rileybrown/status/2119946022767980985">▶ 视频</a></sub><br>
 <sub>一条提示词</sub><br>
 <sub><a href="https://x.com/rileybrown/status/2119946022767980985">📝 作者公开的提示词（免费）</a></sub>
-</td>
-<td width="33%" valign="top">
-<a href="https://hexagonal.earth"><img src="assets/gifs/349.gif" width="100%" alt="Hexagonal Earth 六边形拼成的地球沙盘"></a><br>
-<b><a href="https://hexagonal.earth">Hexagonal Earth 六边形拼成的地球沙盘</a></b><br>
-<sub>🆕 · <a href="https://x.com/avsa">@avsa</a> · ♥ 636 · <a href="https://x.com/avsa/status/2123123638551392755">原帖</a></sub><br>
-<sub>用海拔、洋深、湿度、风、河流等真实数据搭出的六边形世界地图；上面几百种小物件是 Fable 5.2 一个个生成的 3D 像素点云，再由它自己摆进场景</sub>
 </td>
 </tr>
 <tr>
@@ -624,7 +624,7 @@
 <td width="33%" valign="top">
 <a href="https://www.bubbbly.com/christmas-cards"><img src="assets/gifs/315.gif" width="100%" alt="Christmas Cards 互动圣诞贺卡"></a><br>
 <b><a href="https://www.bubbbly.com/christmas-cards">Christmas Cards 互动圣诞贺卡</a></b><br>
-<sub>🆕 · <a href="https://x.com/ann_nnng">@ann_nnng</a> · ♥ 475 · <a href="https://x.com/ann_nnng/status/2122283549000712249">▶ 视频</a></sub><br>
+<sub><a href="https://x.com/ann_nnng">@ann_nnng</a> · ♥ 475 · <a href="https://x.com/ann_nnng/status/2122283549000712249">▶ 视频</a></sub><br>
 <sub>一组可以互动的圣诞贺卡，比如围红围巾的猫在窗台上看雪</sub>
 </td>
 <td width="33%" valign="top">
@@ -647,9 +647,15 @@
 <td width="33%" valign="top">
 <a href="https://rubber-hose-ui.vercel.app"><img src="assets/gifs/332.gif" width="100%" alt="Rubber Hose UI 1930 年代卡通风控件"></a><br>
 <b><a href="https://rubber-hose-ui.vercel.app">Rubber Hose UI 1930 年代卡通风控件</a></b><br>
-<sub>🆕 · <a href="https://x.com/crtvTeknologist">@crtvTeknologist</a> · ♥ 351 · <a href="https://x.com/crtvTeknologist/status/2122433522166124616">▶ 视频</a></sub><br>
+<sub>🆕 · <a href="https://x.com/crtvTeknologist">@crtvTeknologist</a> · ♥ 352 · <a href="https://x.com/crtvTeknologist/status/2122433522166124616">▶ 视频</a></sub><br>
 <sub>11 个网页控件全是橡皮管卡通角色：滑块是长号，提示框是烤面包机，按钮每按一次多一只黑眼圈；原生 JS 加 canvas，无依赖，开源</sub><br>
 <sub><a href="https://github.com/finktheartist/rubber-hose-ui">源码</a></sub>
+</td>
+<td width="33%" valign="top">
+<a href="https://claude.ai/artifact/8yKUbL5KQgvfqcWH6UgZrq"><img src="assets/gifs/359.gif" width="100%" alt="Kastle Sim 口袋模块合成器模拟"></a><br>
+<b><a href="https://claude.ai/artifact/8yKUbL5KQgvfqcWH6UgZrq">Kastle Sim 口袋模块合成器模拟</a></b><br>
+<sub>🆕 · <a href="https://x.com/parhelion318">@parhelion318</a> · ♥ 348 · <a href="https://x.com/parhelion318/status/2123344270732202421">▶ 视频</a></sub><br>
+<sub>在浏览器里模拟 Bastl Kastle 迷你模块合成器，能接线、拧旋钮出声</sub>
 </td>
 <td width="33%" valign="top">
 <a href="https://origamihelper.com"><img src="assets/gifs/220.gif" width="100%" alt="Origami Helper 3D 折纸教程"></a><br>
@@ -658,17 +664,10 @@
 <sub>3D 看折纸步骤，可以任意角度转，支持 AR，免费免注册，一天做完</sub><br>
 <sub><a href="https://fablelist.000ooo.ooo/zh/prompts/?w=origami-helper&ref=gh"><b>✨ 获取提示词</b></a></sub>
 </td>
-<td width="33%" valign="top">
-<a href="https://typed.page/"><img src="assets/gifs/036.gif" width="100%" alt="Typed 打字机"></a><br>
-<b><a href="https://typed.page/">Typed 打字机</a></b><br>
-<sub><a href="https://x.com/clairevo">@clairevo</a> · ♥ 205 · <a href="https://x.com/clairevo/status/2119905651359142132">▶ 视频</a></sub><br>
-<sub>能打字、计时、涂改液、自动更正的完整打字机</sub><br>
-<sub><a href="https://fablelist.000ooo.ooo/zh/prompts/?w=typed&ref=gh"><b>✨ 获取提示词</b></a></sub>
-</td>
 </tr>
 </table>
 
-<p align="center"><b><a href="all/web-and-tools.zh-CN.md">查看全部 46 个 →</a></b></p>
+<p align="center"><b><a href="all/web-and-tools.zh-CN.md">查看全部 50 个 →</a></b></p>
 
 <div align="right"><a href="#-目录">↑ 回到目录</a></div>
 
@@ -686,13 +685,13 @@
 <td width="33%" valign="top">
 <a href="https://github.com/BubbleBrainBB/awesome-fable-5.2/tree/main/cat-garden"><img src="assets/gifs/319.gif" width="100%" alt="Cat Garden 猫眼里的植物园"></a><br>
 <b><a href="https://github.com/BubbleBrainBB/awesome-fable-5.2/tree/main/cat-garden">Cat Garden 猫眼里的植物园</a></b><br>
-<sub>🆕 · <a href="https://x.com/BubbleBrain">@BubbleBrain</a> · ♥ 1.4k · <a href="https://x.com/BubbleBrain/status/2122313967473434639">▶ 视频</a></sub><br>
+<sub><a href="https://x.com/BubbleBrain">@BubbleBrain</a> · ♥ 1.4k · <a href="https://x.com/BubbleBrain/status/2122313967473434639">▶ 视频</a></sub><br>
 <sub>110 秒一镜到底短片：猫钻进植物园一路看、闻、扑；画面由自己写的路径追踪器渲染，声音用 numpy 合成，没用任何素材</sub>
 </td>
 <td width="33%" valign="top">
 <a href="https://github.com/moritzkremb/robovac-pov"><img src="assets/gifs/334.gif" width="100%" alt="Robovac POV 扫地机器人视角短片"></a><br>
 <b><a href="https://github.com/moritzkremb/robovac-pov">Robovac POV 扫地机器人视角短片</a></b><br>
-<sub>🆕 · <a href="https://x.com/moritzkremb">@moritzkremb</a> · ♥ 447 · <a href="https://x.com/moritzkremb/status/2122702891819377117">▶ 视频</a></sub><br>
+<sub>🆕 · <a href="https://x.com/moritzkremb">@moritzkremb</a> · ♥ 452 · <a href="https://x.com/moritzkremb/status/2122702891819377117">▶ 视频</a></sub><br>
 <sub>53 秒扫地机器人第一视角的写实短片，全用代码生成：C++ 写的场景和 GPU 路径追踪器，模拟镜头、对焦、运动模糊和颗粒，地毯约 90 万根纤维，声音用 Python 合成</sub>
 </td>
 </tr>
@@ -706,7 +705,7 @@
 <td width="33%" valign="top">
 <a href="https://github.com/ChetasLua/pelican-riding-a-bicycle"><img src="assets/gifs/150.gif" width="100%" alt="骑车的鹈鹕：60 秒手绘风短片"></a><br>
 <b><a href="https://github.com/ChetasLua/pelican-riding-a-bicycle">骑车的鹈鹕：60 秒手绘风短片</a></b><br>
-<sub><a href="https://x.com/chetaslua">@chetaslua</a> · ♥ 357 · <a href="https://x.com/chetaslua/status/2120438091647218025">▶ 视频</a></sub><br>
+<sub><a href="https://x.com/chetaslua">@chetaslua</a> · ♥ 358 · <a href="https://x.com/chetaslua/status/2120438091647218025">▶ 视频</a></sub><br>
 <sub>一个 HTML 文件，画面和声音全是代码，没有图片、音频和库</sub><br>
 <sub><a href="https://github.com/ChetasLua/mona-lisa-js">蒙娜丽莎</a></sub><br>
 <sub><a href="https://fablelist.000ooo.ooo/zh/prompts/?w=the-pelican-tired-of-the-road&ref=gh"><b>✨ 获取提示词</b></a></sub>
@@ -735,7 +734,7 @@
 <td width="33%" valign="top">
 <a href="https://github.com/crossps/ballpoint"><img src="assets/gifs/056.gif" width="100%" alt="圆珠笔微距 ASMR"></a><br>
 <b><a href="https://github.com/crossps/ballpoint">圆珠笔微距 ASMR</a></b><br>
-<sub><a href="https://x.com/camperaigg">@camperaigg</a> · ♥ 241 · <a href="https://x.com/camperaigg/status/2119777467074580741">▶ 视频</a></sub><br>
+<sub><a href="https://x.com/camperaigg">@camperaigg</a> · ♥ 242 · <a href="https://x.com/camperaigg/status/2119777467074580741">▶ 视频</a></sub><br>
 <sub>开源证明不是视频模型生成</sub><br>
 <sub><a href="https://fablelist.000ooo.ooo/zh/prompts/?w=ballpoint&ref=gh"><b>✨ 获取提示词</b></a></sub>
 </td>
@@ -757,7 +756,7 @@
 <td width="33%" valign="top">
 <a href="https://github.com/ChetasLua/the-last-good-pelican-fable-5.2"><img src="assets/gifs/352.gif" width="100%" alt="The Last Good Pelican 最后一只画对的鹈鹕"></a><br>
 <b><a href="https://github.com/ChetasLua/the-last-good-pelican-fable-5.2">The Last Good Pelican 最后一只画对的鹈鹕</a></b><br>
-<sub>🆕 · <a href="https://x.com/chetaslua">@chetaslua</a> · ♥ 141 · <a href="https://x.com/chetaslua/status/2123100140189958401">▶ 视频</a></sub><br>
+<sub>🆕 · <a href="https://x.com/chetaslua">@chetaslua</a> · ♥ 142 · <a href="https://x.com/chetaslua/status/2123100140189958401">▶ 视频</a></sub><br>
 <sub>60 秒手绘风短片，一个离线 HTML 文件：每出一个新模型就有一只骑车的鹈鹕被画出来当测试题，这是唯一画对的那只疲惫的一天；画面全用 Canvas 2D，声音全用 Web Audio 合成</sub>
 </td>
 </tr>
@@ -769,17 +768,17 @@
 <sub>90 秒纯 three.js 打斗短片，无素材无视频模型；Fable 当导演带 8 个并行 Agent，音乐音效也是代码合成</sub>
 </td>
 <td width="33%" valign="top">
+<a href="https://github.com/Leonxlnx/koi-pond-keycap"><img src="assets/gifs/351.gif" width="100%" alt="Koi Pond Keycap 键帽里的锦鲤池"></a><br>
+<b><a href="https://github.com/Leonxlnx/koi-pond-keycap">Koi Pond Keycap 键帽里的锦鲤池</a></b><br>
+<sub>🆕 · <a href="https://x.com/LexnLin">@LexnLin</a> · ♥ 129 · <a href="https://x.com/LexnLin/status/2123174205306908806">▶ 视频</a></sub><br>
+<sub>45 秒 Blender 短片：透明树脂键帽里装着一方锦鲤池，手指按下去水面起涟漪、锦鲤四散；全程 Python 程序化生成，没用外部模型和贴图</sub>
+</td>
+<td width="33%" valign="top">
 <a href="https://github.com/anstapnever/blackout"><img src="assets/gifs/052.gif" width="100%" alt="Blackout 79 秒动漫"></a><br>
 <b><a href="https://github.com/anstapnever/blackout">Blackout 79 秒动漫</a></b><br>
 <sub><a href="https://x.com/anstapnever">@anstapnever</a> · ♥ 119 · <a href="https://x.com/anstapnever/status/2119915123070644263">▶ 视频</a></sub><br>
 <br>
 <sub><a href="https://x.com/anstapnever/status/2119915123070644263">📝 作者公开的提示词（免费）</a></sub>
-</td>
-<td width="33%" valign="top">
-<a href="https://github.com/Leonxlnx/koi-pond-keycap"><img src="assets/gifs/351.gif" width="100%" alt="Koi Pond Keycap 键帽里的锦鲤池"></a><br>
-<b><a href="https://github.com/Leonxlnx/koi-pond-keycap">Koi Pond Keycap 键帽里的锦鲤池</a></b><br>
-<sub>🆕 · <a href="https://x.com/LexnLin">@LexnLin</a> · ♥ 115 · <a href="https://x.com/LexnLin/status/2123174205306908806">▶ 视频</a></sub><br>
-<sub>45 秒 Blender 短片：透明树脂键帽里装着一方锦鲤池，手指按下去水面起涟漪、锦鲤四散；全程 Python 程序化生成，没用外部模型和贴图</sub>
 </td>
 </tr>
 </table>
@@ -850,13 +849,13 @@
 <td width="33%" valign="top">
 <a href="https://x.com/aj_dev_smith/status/2122538394710687871"><img src="assets/gifs/324.gif" width="100%" alt="录下自己唱和吹口哨的每一个音，64 段单音拼起来就能用人声演奏几乎任何歌曲，视频里没有放任何原曲"></a><br>
 <b><a href="https://x.com/aj_dev_smith/status/2122538394710687871">录下自己唱和吹口哨的每一个音，64 段单音拼起来就能用人声演奏几乎任何歌曲，视频里没有放任何原曲</a></b><br>
-<sub>🆕 · <a href="https://x.com/aj_dev_smith">@aj_dev_smith</a> · ♥ 5.3k · <a href="https://x.com/aj_dev_smith/status/2122538394710687871">▶ 视频</a></sub><br>
+<sub><a href="https://x.com/aj_dev_smith">@aj_dev_smith</a> · ♥ 5.3k · <a href="https://x.com/aj_dev_smith/status/2122538394710687871">▶ 视频</a></sub><br>
 
 </td>
 <td width="33%" valign="top">
 <a href="https://x.com/Dstudio_ai/status/2122569461547098595"><img src="assets/gifs/328.gif" width="100%" alt="用 Tripo 做 3D 模型，再让它做出手游风格的大厅界面，反馈两三次，背景和运镜都在对话里交代"></a><br>
 <b><a href="https://x.com/Dstudio_ai/status/2122569461547098595">用 Tripo 做 3D 模型，再让它做出手游风格的大厅界面，反馈两三次，背景和运镜都在对话里交代</a></b><br>
-<sub>🆕 · <a href="https://x.com/Dstudio_ai">@Dstudio_ai</a> · ♥ 5.3k · <a href="https://x.com/Dstudio_ai/status/2122569461547098595">▶ 视频</a></sub><br>
+<sub><a href="https://x.com/Dstudio_ai">@Dstudio_ai</a> · ♥ 5.3k · <a href="https://x.com/Dstudio_ai/status/2122569461547098595">▶ 视频</a></sub><br>
 
 </td>
 </tr>
@@ -992,9 +991,9 @@
 
 ## 📰 更新
 
+- **2026-11-20**：新增 8 个可打开作品和 0 个视频演示。
 - **2026-11-19**：新增 10 个可打开作品和 2 个视频演示。
 - **2026-11-18**：新增 12 个可打开作品和 8 个视频演示。
 - **2026-11-17**：新增 9 个可打开作品和 7 个视频演示。
-- **2026-11-16**：新增 10 个可打开作品和 6 个视频演示。
 - **2026-11-10**：每个作品都加上了动图预览。
 - **2026-11-10**：首版，57 个可打开作品 + 61 个视频演示。

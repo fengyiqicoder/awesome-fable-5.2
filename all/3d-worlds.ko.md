@@ -83,7 +83,7 @@
 <td width="33%" valign="top">
 <a href="https://github.com/Leonxlnx/walking-block"><img src="../assets/gifs/318.gif" width="100%" alt="Walking Block: 걸어 다니는 소련 아파트"></a><br>
 <b><a href="https://github.com/Leonxlnx/walking-block">Walking Block: 걸어 다니는 소련 아파트</a></b><br>
-<sub>🆕 · <a href="https://x.com/LexnLin">@LexnLin</a> · ♥ 415 · <a href="https://x.com/LexnLin/status/2122359035751989341">▶ 영상</a></sub><br>
+<sub><a href="https://x.com/LexnLin">@LexnLin</a> · ♥ 415 · <a href="https://x.com/LexnLin/status/2122359035751989341">▶ 영상</a></sub><br>
 <sub>여덟 개의 기계 다리가 달린 거대한 소련식 패널 아파트가 해 질 녘 안개 속 젖은 들판을 건넌다. 지오메트리, 텍스처, 셰이더 모두 three.js 코드이며, 같은 장면에서 45초 영상도 렌더링했다.</sub>
 </td>
 <td width="33%" valign="top">
@@ -121,13 +121,13 @@
 <td width="33%" valign="top">
 <a href="https://butterfly.kyzo.io"><img src="../assets/gifs/314.gif" width="100%" alt="Hidden Layers: 유리 온실 속 유리날개나비"></a><br>
 <b><a href="https://butterfly.kyzo.io">Hidden Layers: 유리 온실 속 유리날개나비</a></b><br>
-<sub>🆕 · <a href="https://x.com/ky__zo">@ky__zo</a> · ♥ 229 · <a href="https://x.com/ky__zo/status/2122274109795054036">▶ 영상</a></sub><br>
+<sub><a href="https://x.com/ky__zo">@ky__zo</a> · ♥ 229 · <a href="https://x.com/ky__zo/status/2122274109795054036">▶ 영상</a></sub><br>
 <sub>스크롤하면 유리 온실을 빠져나가지 못하는 유리날개나비와 함께 여섯 개의 세계를 날아간다. 모델 파일도 텍스처도 없는 순수 three.js. 13.2억 토큰, API 비용 $905.</sub>
 </td>
 <td width="33%" valign="top">
 <a href="https://claude.ai/artifact/R6YBDkAm2GjAC5A65D9djx"><img src="../assets/gifs/142.gif" width="100%" alt="걸어 들어갈 수 있는 Claude 데모"></a><br>
 <b><a href="https://claude.ai/artifact/R6YBDkAm2GjAC5A65D9djx">걸어 들어갈 수 있는 Claude 데모</a></b><br>
-<sub><a href="https://x.com/dfeinition">@dfeinition</a> · ♥ 213 · <a href="https://x.com/dfeinition/status/2120330644261589051">▶ 영상</a></sub><br>
+<sub><a href="https://x.com/dfeinition">@dfeinition</a> · ♥ 214 · <a href="https://x.com/dfeinition/status/2120330644261589051">▶ 영상</a></sub><br>
 <sub>@rileybrown에게서 영감: 걸어 들어가 어느 컴퓨터에든 앉아 보세요.</sub><br>
 <sub><a href="https://fablelist.000ooo.ooo/ko/prompts/?w=a-claude-demo-you-can-walk-into&ref=gh"><b>✨ 프롬프트 받기</b></a></sub>
 </td>
@@ -188,7 +188,7 @@
 <td width="33%" valign="top">
 <a href="https://coralback-ray.wasmer.app/"><img src="../assets/gifs/357.gif" width="100%" alt="Coralback Ray"></a><br>
 <b><a href="https://coralback-ray.wasmer.app/">Coralback Ray</a></b><br>
-<sub>🆕 · <a href="https://x.com/thebuggeddev">@thebuggeddev</a> · ♥ 77 · <a href="https://x.com/thebuggeddev/status/2123021723188744248">▶ 영상</a></sub><br>
+<sub>🆕 · <a href="https://x.com/thebuggeddev">@thebuggeddev</a> · ♥ 79 · <a href="https://x.com/thebuggeddev/status/2123021723188744248">▶ 영상</a></sub><br>
 <sub>브라우저 안에서 헤엄치는 3D 가오리. GLB 모델 하나로 만들었다. 뼈대 없이 리그가 전부 버텍스 셰이더에서 돌아가고, 헤엄은 추력·항력·중력으로 계산된다.</sub>
 </td>
 <td width="33%" valign="top">

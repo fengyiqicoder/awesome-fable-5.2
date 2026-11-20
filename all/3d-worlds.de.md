@@ -83,7 +83,7 @@ Die Hauptseite zeigt pro Bereich höchstens die 24 Einträge mit den meisten Lik
 <td width="33%" valign="top">
 <a href="https://github.com/Leonxlnx/walking-block"><img src="../assets/gifs/318.gif" width="100%" alt="Walking Block: ein laufender sowjetischer Wohnblock"></a><br>
 <b><a href="https://github.com/Leonxlnx/walking-block">Walking Block: ein laufender sowjetischer Wohnblock</a></b><br>
-<sub>🆕 · <a href="https://x.com/LexnLin">@LexnLin</a> · ♥ 415 · <a href="https://x.com/LexnLin/status/2122359035751989341">▶ Video</a></sub><br>
+<sub><a href="https://x.com/LexnLin">@LexnLin</a> · ♥ 415 · <a href="https://x.com/LexnLin/status/2122359035751989341">▶ Video</a></sub><br>
 <sub>Ein riesiger sowjetischer Plattenbau auf acht mechanischen Beinen überquert im Dämmerungsnebel ein nasses Feld. Geometrie, Texturen und Shader sind komplett three.js-Code, und aus derselben Szene wird ein 45-Sekunden-Film gerendert.</sub>
 </td>
 <td width="33%" valign="top">
@@ -121,13 +121,13 @@ Die Hauptseite zeigt pro Bereich höchstens die 24 Einträge mit den meisten Lik
 <td width="33%" valign="top">
 <a href="https://butterfly.kyzo.io"><img src="../assets/gifs/314.gif" width="100%" alt="Hidden Layers: ein Glasflügelfalter im Gewächshaus"></a><br>
 <b><a href="https://butterfly.kyzo.io">Hidden Layers: ein Glasflügelfalter im Gewächshaus</a></b><br>
-<sub>🆕 · <a href="https://x.com/ky__zo">@ky__zo</a> · ♥ 229 · <a href="https://x.com/ky__zo/status/2122274109795054036">▶ Video</a></sub><br>
+<sub><a href="https://x.com/ky__zo">@ky__zo</a> · ♥ 229 · <a href="https://x.com/ky__zo/status/2122274109795054036">▶ Video</a></sub><br>
 <sub>Scrolle, um mit einem Glasflügelfalter, der nicht aus einem Gewächshaus herauskommt, durch sechs Welten zu fliegen. Reines three.js ohne Modelldateien oder Texturen; es kostete 1.32 Milliarden Tokens und $905 an API-Kosten.</sub>
 </td>
 <td width="33%" valign="top">
 <a href="https://claude.ai/artifact/R6YBDkAm2GjAC5A65D9djx"><img src="../assets/gifs/142.gif" width="100%" alt="Eine Claude-Demo, in die man hineinlaufen kann"></a><br>
 <b><a href="https://claude.ai/artifact/R6YBDkAm2GjAC5A65D9djx">Eine Claude-Demo, in die man hineinlaufen kann</a></b><br>
-<sub><a href="https://x.com/dfeinition">@dfeinition</a> · ♥ 213 · <a href="https://x.com/dfeinition/status/2120330644261589051">▶ Video</a></sub><br>
+<sub><a href="https://x.com/dfeinition">@dfeinition</a> · ♥ 214 · <a href="https://x.com/dfeinition/status/2120330644261589051">▶ Video</a></sub><br>
 <sub>Inspiriert von @rileybrown: Geh hinein und setz dich an einen beliebigen Computer.</sub><br>
 <sub><a href="https://fablelist.000ooo.ooo/de/prompts/?w=a-claude-demo-you-can-walk-into&ref=gh"><b>✨ Prompt holen</b></a></sub>
 </td>
@@ -188,7 +188,7 @@ Die Hauptseite zeigt pro Bereich höchstens die 24 Einträge mit den meisten Lik
 <td width="33%" valign="top">
 <a href="https://coralback-ray.wasmer.app/"><img src="../assets/gifs/357.gif" width="100%" alt="Coralback Ray"></a><br>
 <b><a href="https://coralback-ray.wasmer.app/">Coralback Ray</a></b><br>
-<sub>🆕 · <a href="https://x.com/thebuggeddev">@thebuggeddev</a> · ♥ 77 · <a href="https://x.com/thebuggeddev/status/2123021723188744248">▶ Video</a></sub><br>
+<sub>🆕 · <a href="https://x.com/thebuggeddev">@thebuggeddev</a> · ♥ 79 · <a href="https://x.com/thebuggeddev/status/2123021723188744248">▶ Video</a></sub><br>
 <sub>Ein 3D-Rochen, der im Browser schwimmt, gebaut aus einem einzigen GLB-Modell. Keine Knochen: Das Rig läuft im Vertex-Shader, das Schwimmen wird aus Schub, Widerstand und Schwerkraft berechnet.</sub>
 </td>
 <td width="33%" valign="top">

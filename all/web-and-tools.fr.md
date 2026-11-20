@@ -1,4 +1,4 @@
-# 🧰 Pages web et outils · les 46
+# 🧰 Pages web et outils · les 50
 
 [← Retour à la liste](../README.fr.md) · [English](web-and-tools.md) · [简体中文](web-and-tools.zh-CN.md) · [繁體中文](web-and-tools.zh-TW.md) · [日本語](web-and-tools.ja.md) · [한국어](web-and-tools.ko.md) · [Español](web-and-tools.es.md) · [Português](web-and-tools.pt-BR.md) · **Français** · [Deutsch](web-and-tools.de.md) · [Русский](web-and-tools.ru.md)
 
@@ -101,9 +101,15 @@ La page principale affiche au plus les 24 entrées les plus aimées de chaque se
 </tr>
 <tr>
 <td width="33%" valign="top">
+<a href="https://hexagonal.earth"><img src="../assets/gifs/349.gif" width="100%" alt="Hexagonal Earth"></a><br>
+<b><a href="https://hexagonal.earth">Hexagonal Earth</a></b><br>
+<sub>🆕 · <a href="https://x.com/avsa">@avsa</a> · ♥ 746 · <a href="https://x.com/avsa/status/2123123638551392755">Publication</a></sub><br>
+<sub>Un diorama du monde entier fait d'hexagones, construit à partir de données réelles d'altitude, de profondeur océanique, d'humidité, de vent et de rivières. Fable 5.2 a généré des centaines de petits objets 3D en splats de pixels et les a placés lui-même dans la scène.</sub>
+</td>
+<td width="33%" valign="top">
 <a href="https://itspsneha.com/supplements"><img src="../assets/gifs/037.gif" width="100%" alt="Which Vitamins to Buy in India"></a><br>
 <b><a href="https://itspsneha.com/supplements">Which Vitamins to Buy in India</a></b><br>
-<sub><a href="https://x.com/itspsneha">@itspsneha</a> · ♥ 739 · <a href="https://x.com/itspsneha/status/2120048494761451974">Publication</a></sub><br>
+<sub><a href="https://x.com/itspsneha">@itspsneha</a> · ♥ 738 · <a href="https://x.com/itspsneha/status/2120048494761451974">Publication</a></sub><br>
 <sub>Fait après lecture des rapports de laboratoire de 109 lots testés.</sub><br>
 <sub><a href="https://fablelist.000ooo.ooo/fr/prompts/?w=which-vitamins-to-buy-in-india&ref=gh"><b>✨ Obtenir le prompt</b></a></sub>
 </td>
@@ -113,12 +119,6 @@ La page principale affiche au plus les 24 entrées les plus aimées de chaque se
 <sub><a href="https://x.com/rileybrown">@rileybrown</a> · ♥ 666 · <a href="https://x.com/rileybrown/status/2119946022767980985">▶ Vidéo</a></sub><br>
 <sub>Un film interactif à partir d'un prompt ; prompt et fichiers partagés.</sub><br>
 <sub><a href="https://x.com/rileybrown/status/2119946022767980985">📝 Prompt du créateur (gratuit)</a></sub>
-</td>
-<td width="33%" valign="top">
-<a href="https://hexagonal.earth"><img src="../assets/gifs/349.gif" width="100%" alt="Hexagonal Earth"></a><br>
-<b><a href="https://hexagonal.earth">Hexagonal Earth</a></b><br>
-<sub>🆕 · <a href="https://x.com/avsa">@avsa</a> · ♥ 636 · <a href="https://x.com/avsa/status/2123123638551392755">Publication</a></sub><br>
-<sub>Un diorama du monde entier fait d'hexagones, construit à partir de données réelles d'altitude, de profondeur océanique, d'humidité, de vent et de rivières. Fable 5.2 a généré des centaines de petits objets 3D en splats de pixels et les a placés lui-même dans la scène.</sub>
 </td>
 </tr>
 <tr>
@@ -145,7 +145,7 @@ La page principale affiche au plus les 24 entrées les plus aimées de chaque se
 <td width="33%" valign="top">
 <a href="https://www.bubbbly.com/christmas-cards"><img src="../assets/gifs/315.gif" width="100%" alt="Christmas Cards : cartes de Noël interactives"></a><br>
 <b><a href="https://www.bubbbly.com/christmas-cards">Christmas Cards : cartes de Noël interactives</a></b><br>
-<sub>🆕 · <a href="https://x.com/ann_nnng">@ann_nnng</a> · ♥ 475 · <a href="https://x.com/ann_nnng/status/2122283549000712249">▶ Vidéo</a></sub><br>
+<sub><a href="https://x.com/ann_nnng">@ann_nnng</a> · ♥ 475 · <a href="https://x.com/ann_nnng/status/2122283549000712249">▶ Vidéo</a></sub><br>
 <sub>Une série de cartes de Noël interactives, comme un chat en écharpe rouge sur un rebord de fenêtre qui regarde tomber la neige.</sub>
 </td>
 <td width="33%" valign="top">
@@ -168,9 +168,15 @@ La page principale affiche au plus les 24 entrées les plus aimées de chaque se
 <td width="33%" valign="top">
 <a href="https://rubber-hose-ui.vercel.app"><img src="../assets/gifs/332.gif" width="100%" alt="Rubber Hose UI : des contrôles en personnages de cartoon des années 1930"></a><br>
 <b><a href="https://rubber-hose-ui.vercel.app">Rubber Hose UI : des contrôles en personnages de cartoon des années 1930</a></b><br>
-<sub>🆕 · <a href="https://x.com/crtvTeknologist">@crtvTeknologist</a> · ♥ 351 · <a href="https://x.com/crtvTeknologist/status/2122433522166124616">▶ Vidéo</a></sub><br>
+<sub>🆕 · <a href="https://x.com/crtvTeknologist">@crtvTeknologist</a> · ♥ 352 · <a href="https://x.com/crtvTeknologist/status/2122433522166124616">▶ Vidéo</a></sub><br>
 <sub>Onze contrôles web dessinés façon rubber hose : le curseur est un trombone, le toast est un grille-pain, et le bouton prend un œil au beurre noir à chaque clic. JS natif et canvas, sans dépendance, open source.</sub><br>
 <sub><a href="https://github.com/finktheartist/rubber-hose-ui">Code source</a></sub>
+</td>
+<td width="33%" valign="top">
+<a href="https://claude.ai/artifact/8yKUbL5KQgvfqcWH6UgZrq"><img src="../assets/gifs/359.gif" width="100%" alt="Kastle Sim"></a><br>
+<b><a href="https://claude.ai/artifact/8yKUbL5KQgvfqcWH6UgZrq">Kastle Sim</a></b><br>
+<sub>🆕 · <a href="https://x.com/parhelion318">@parhelion318</a> · ♥ 348 · <a href="https://x.com/parhelion318/status/2123344270732202421">▶ Vidéo</a></sub><br>
+<sub>Une simulation dans le navigateur du mini synthé modulaire Bastl Kastle : branchez les câbles, tournez les potards et il sonne.</sub>
 </td>
 <td width="33%" valign="top">
 <a href="https://origamihelper.com"><img src="../assets/gifs/220.gif" width="100%" alt="Origami Helper"></a><br>
@@ -179,6 +185,14 @@ La page principale affiche au plus les 24 entrées les plus aimées de chaque se
 <sub>Apprenez les pliages d'origami en 3D sous tous les angles, avec la RA. Gratuit, sans inscription, fait en une journée.</sub><br>
 <sub><a href="https://fablelist.000ooo.ooo/fr/prompts/?w=origami-helper&ref=gh"><b>✨ Obtenir le prompt</b></a></sub>
 </td>
+</tr>
+<tr>
+<td width="33%" valign="top">
+<a href="https://bigfatfish.cc"><img src="../assets/gifs/362.gif" width="100%" alt="Big Fat Fish's Tank"></a><br>
+<b><a href="https://bigfatfish.cc">Big Fat Fish's Tank</a></b><br>
+<sub>🆕 · <a href="https://x.com/dafeifish">@dafeifish</a> · ♥ 209 · <a href="https://x.com/dafeifish/status/2123395143873019950">Publication</a></sub><br>
+<sub>Un site personnel repensé comme un carnet de scrapbooking : bouts de papier, ruban adhésif, post-it et Polaroids épinglés sur un ciel nocturne bleu profond.</sub>
+</td>
 <td width="33%" valign="top">
 <a href="https://typed.page/"><img src="../assets/gifs/036.gif" width="100%" alt="Typed"></a><br>
 <b><a href="https://typed.page/">Typed</a></b><br>
@@ -186,8 +200,6 @@ La page principale affiche au plus les 24 entrées les plus aimées de chaque se
 <sub>Une machine à écrire entièrement fonctionnelle : tapez ou cliquez sur les touches, minuteurs d'écriture, correcteur blanc, correction automatique.</sub><br>
 <sub><a href="https://fablelist.000ooo.ooo/fr/prompts/?w=typed&ref=gh"><b>✨ Obtenir le prompt</b></a></sub>
 </td>
-</tr>
-<tr>
 <td width="33%" valign="top">
 <a href="https://clockendbader.github.io/fable-builds/heartbeat/"><img src="../assets/gifs/259.gif" width="100%" alt="One Heartbeat"></a><br>
 <b><a href="https://clockendbader.github.io/fable-builds/heartbeat/">One Heartbeat</a></b><br>
@@ -195,10 +207,12 @@ La page principale affiche au plus les 24 entrées les plus aimées de chaque se
 <sub>Un cœur 3D qui bat avec ECG et courbes de pression en direct et bruits cardiaques ; comparez normal, FA, bloc cardiaque et sténose aortique. Il a aussi écrit ses propres tests.</sub><br>
 <sub><a href="https://fablelist.000ooo.ooo/fr/prompts/?w=one-heartbeat&ref=gh"><b>✨ Obtenir le prompt</b></a></sub>
 </td>
+</tr>
+<tr>
 <td width="33%" valign="top">
 <a href="https://stormy.ai/hands"><img src="../assets/gifs/316.gif" width="100%" alt="Hands : comment fonctionne une main de robot"></a><br>
 <b><a href="https://stormy.ai/hands">Hands : comment fonctionne une main de robot</a></b><br>
-<sub>🆕 · <a href="https://x.com/Karmedge">@Karmedge</a> · ♥ 150 · <a href="https://x.com/Karmedge/status/2122394153497842080">▶ Vidéo</a></sub><br>
+<sub><a href="https://x.com/Karmedge">@Karmedge</a> · ♥ 150 · <a href="https://x.com/Karmedge/status/2122394153497842080">▶ Vidéo</a></sub><br>
 <sub>Une explication interactive du fonctionnement de la main d'un robot humanoïde, de la difficulté à la construire et de son coût. Réalisée avec plus d'un milliard de tokens.</sub>
 </td>
 <td width="33%" valign="top">
@@ -207,8 +221,6 @@ La page principale affiche au plus les 24 entrées les plus aimées de chaque se
 <sub><a href="https://x.com/viktoroddy">@viktoroddy</a> · ♥ 141 · <a href="https://x.com/viktoroddy/status/2119985044542705916">▶ Vidéo</a></sub><br>
 <sub>Une section hero faite avec Fable 5.2 + GPT Image 2.6.</sub>
 </td>
-</tr>
-<tr>
 <td width="33%" valign="top">
 <a href="https://patch.gg/patch/anymove"><img src="../assets/gifs/149.gif" width="100%" alt="anymove"></a><br>
 <b><a href="https://patch.gg/patch/anymove">anymove</a></b><br>
@@ -216,20 +228,14 @@ La page principale affiche au plus les 24 entrées les plus aimées de chaque se
 <sub>Résout les mouvements d'un clip vidéo IA sur un vrai rig 3D — sans combinaison de mocap, sans keyframes. Open source.</sub><br>
 <sub><a href="https://fablelist.000ooo.ooo/fr/prompts/?w=anymove&ref=gh"><b>✨ Obtenir le prompt</b></a></sub>
 </td>
-<td width="33%" valign="top">
-<a href="https://claude.ai/artifact/8yKUbL5KQgvfqcWH6UgZrq"><img src="../assets/gifs/359.gif" width="100%" alt="Kastle Sim"></a><br>
-<b><a href="https://claude.ai/artifact/8yKUbL5KQgvfqcWH6UgZrq">Kastle Sim</a></b><br>
-<sub>🆕 · <a href="https://x.com/parhelion318">@parhelion318</a> · ♥ 139 · <a href="https://x.com/parhelion318/status/2123344270732202421">▶ Vidéo</a></sub><br>
-<sub>Une simulation dans le navigateur du mini synthé modulaire Bastl Kastle : branchez les câbles, tournez les potards et il sonne.</sub>
-</td>
+</tr>
+<tr>
 <td width="33%" valign="top">
 <a href="https://fieldnote-crm-pi.vercel.app"><img src="../assets/gifs/317.gif" width="100%" alt="Tableau de bord Fieldnote CRM"></a><br>
 <b><a href="https://fieldnote-crm-pi.vercel.app">Tableau de bord Fieldnote CRM</a></b><br>
-<sub>🆕 · <a href="https://x.com/dejvdesign">@dejvdesign</a> · ♥ 131 · <a href="https://x.com/dejvdesign/status/2122335319634874710">▶ Vidéo</a></sub><br>
+<sub><a href="https://x.com/dejvdesign">@dejvdesign</a> · ♥ 131 · <a href="https://x.com/dejvdesign/status/2122335319634874710">▶ Vidéo</a></sub><br>
 <sub>Une interface de tableau de bord CRM avec des interactions en direct, réalisée avec @madebymicrodose.</sub>
 </td>
-</tr>
-<tr>
 <td width="33%" valign="top">
 <a href="https://nikechan.com/"><img src="../assets/gifs/049.gif" width="100%" alt="Refonte de nikechan.com"></a><br>
 <b><a href="https://nikechan.com/">Refonte de nikechan.com</a></b><br>
@@ -244,15 +250,15 @@ La page principale affiche au plus les 24 entrées les plus aimées de chaque se
 <sub>Un add-on Blender gratuit qui transforme une colline nue en prairie de style anime en un clic, avec herbe, fleurs, nuages, arbres, saisons et styles.</sub><br>
 <sub><a href="https://fablelist.000ooo.ooo/fr/prompts/?w=harappa-blender-add-on&ref=gh"><b>✨ Obtenir le prompt</b></a></sub>
 </td>
+</tr>
+<tr>
 <td width="33%" valign="top">
 <a href="https://sael.net/seat-arena"><img src="../assets/gifs/182.gif" width="100%" alt="Best Seat in the House"></a><br>
 <b><a href="https://sael.net/seat-arena">Best Seat in the House</a></b><br>
-<sub><a href="https://x.com/RyanSael">@RyanSael</a> · ♥ 63 · <a href="https://x.com/RyanSael/status/2120544205558915329">▶ Vidéo</a></sub><br>
+<sub><a href="https://x.com/RyanSael">@RyanSael</a> · ♥ 62 · <a href="https://x.com/RyanSael/status/2120544205558915329">▶ Vidéo</a></sub><br>
 <sub>Des plans de salles de concert où l'on voit la vue exacte de chaque siège avant d'acheter. Entièrement interactif.</sub><br>
 <sub><a href="https://fablelist.000ooo.ooo/fr/prompts/?w=best-seat-in-the-house&ref=gh"><b>✨ Obtenir le prompt</b></a></sub>
 </td>
-</tr>
-<tr>
 <td width="33%" valign="top">
 <a href="https://tetriss22.github.io/pc-build-lab/"><img src="../assets/gifs/147.gif" width="100%" alt="PC Build Lab"></a><br>
 <b><a href="https://tetriss22.github.io/pc-build-lab/">PC Build Lab</a></b><br>
@@ -263,8 +269,22 @@ La page principale affiche au plus les 24 entrées les plus aimées de chaque se
 <td width="33%" valign="top">
 <a href="http://promptronic3000.com"><img src="../assets/gifs/358.gif" width="100%" alt="Promptronic 3000"></a><br>
 <b><a href="http://promptronic3000.com">Promptronic 3000</a></b><br>
-<sub>🆕 · <a href="https://x.com/fabianstelzer">@fabianstelzer</a> · ♥ 49 · <a href="https://x.com/fabianstelzer/status/2123121678670520627">▶ Vidéo</a></sub><br>
+<sub>🆕 · <a href="https://x.com/fabianstelzer">@fabianstelzer</a> · ♥ 51 · <a href="https://x.com/fabianstelzer/status/2123121678670520627">▶ Vidéo</a></sub><br>
 <sub>Un synthétiseur modulaire à agents sur le web : branchez Claude ou un autre agent via MCP pour créer des patchs, voire de nouveaux modules, puis partagez-les par URL.</sub>
+</td>
+</tr>
+<tr>
+<td width="33%" valign="top">
+<a href="https://claude.ai/artifact/NVWaNUrJK5woiKXQsAQaPG"><img src="../assets/gifs/368.gif" width="100%" alt="Audio-Reactive Dot Surface"></a><br>
+<b><a href="https://claude.ai/artifact/NVWaNUrJK5woiKXQsAQaPG">Audio-Reactive Dot Surface</a></b><br>
+<sub>🆕 · <a href="https://x.com/parhelion318">@parhelion318</a> · ♥ 28 · <a href="https://x.com/parhelion318/status/2123463622252994878">▶ Vidéo</a></sub><br>
+<sub>Une surface faite de points qui bouge avec le son. Conçue avec Fable 5.2 et Opus 5.5, relue par GPT-6.2 Astra.</sub>
+</td>
+<td width="33%" valign="top">
+<a href="https://shiraeisenberg.com/composed-of-nows"><img src="../assets/gifs/365.gif" width="100%" alt="Composed of Nows"></a><br>
+<b><a href="https://shiraeisenberg.com/composed-of-nows">Composed of Nows</a></b><br>
+<sub>🆕 · <a href="https://x.com/shiraeis">@shiraeis</a> · ♥ 16 · <a href="https://x.com/shiraeis/status/2123562764203589648">▶ Vidéo</a></sub><br>
+<sub>Neuf pièces interactives sur ce que l'on « ressent » quand on est un modèle de langage, créées après lui avoir demandé de lire de la poésie. Du premier coup.</sub>
 </td>
 <td width="33%" valign="top">
 <a href="https://ai.itokoba.com/ichimai/"><img src="../assets/gifs/260.gif" width="100%" alt="Ichimai — jusqu'où une page peut aller"></a><br>
@@ -313,14 +333,20 @@ La page principale affiche au plus les 24 entrées les plus aimées de chaque se
 <sub><a href="https://fablelist.000ooo.ooo/fr/prompts/?w=house-design-proposal&ref=gh"><b>✨ Obtenir le prompt</b></a></sub>
 </td>
 <td width="33%" valign="top">
+<a href="https://ember-vesper.aura.build/"><img src="../assets/gifs/366.gif" width="100%" alt="Ember Vesper"></a><br>
+<b><a href="https://ember-vesper.aura.build/">Ember Vesper</a></b><br>
+<sub>🆕 · <a href="https://x.com/titepommee">@titepommee</a> · ♥ 7 · <a href="https://x.com/titepommee/status/2123515807250657457">▶ Vidéo</a></sub><br>
+<sub>Un PC gamer transformé en landing page : en défilant, il se démonte, change de lueur, passe en caméra thermique et rédige votre bon de commande. Un seul fichier HTML.</sub>
+</td>
+</tr>
+<tr>
+<td width="33%" valign="top">
 <a href="https://claude.ai/artifact/9yQkezie4jY3oz2YDLFDiq"><img src="../assets/gifs/040.gif" width="100%" alt="Bay Drum Kit"></a><br>
 <b><a href="https://claude.ai/artifact/9yQkezie4jY3oz2YDLFDiq">Bay Drum Kit</a></b><br>
 <sub><a href="https://x.com/BretKerr">@BretKerr</a> · ♥ 5 · <a href="https://x.com/BretKerr/status/2119995870854988177">▶ Vidéo</a></sub><br>
 <sub>Chaque coup résonne à travers toute la baie.</sub><br>
 <sub><a href="https://fablelist.000ooo.ooo/fr/prompts/?w=bay-drum-kit&ref=gh"><b>✨ Obtenir le prompt</b></a></sub>
 </td>
-</tr>
-<tr>
 <td width="33%" valign="top">
 <a href="https://claude.ai/artifact/Pk6rHPyRwfShT37kiU1sT6"><img src="../assets/gifs/041.gif" width="100%" alt="Dub Techno Track + Visualizer"></a><br>
 <b><a href="https://claude.ai/artifact/Pk6rHPyRwfShT37kiU1sT6">Dub Techno Track + Visualizer</a></b><br>
@@ -335,6 +361,8 @@ La page principale affiche au plus les 24 entrées les plus aimées de chaque se
 <sub>Les liens de sang et de mariage de l'acteur principal avec 65 stars de Bollywood.</sub><br>
 <sub><a href="https://fablelist.000ooo.ooo/fr/prompts/?w=ramayana-family-tree&ref=gh"><b>✨ Obtenir le prompt</b></a></sub>
 </td>
+</tr>
+<tr>
 <td width="33%" valign="top">
 <a href="https://claude.ai/artifact/4aEy6FtUi7jrm9U7uYgp8K"><img src="../assets/gifs/042.gif" width="100%" alt="Demoscene Demo"></a><br>
 <b><a href="https://claude.ai/artifact/4aEy6FtUi7jrm9U7uYgp8K">Demoscene Demo</a></b><br>
@@ -342,8 +370,6 @@ La page principale affiche au plus les 24 entrées les plus aimées de chaque se
 <sub>« Fais une démo dans la tradition de la demoscene qui tourne dans le navigateur. »</sub><br>
 <sub><a href="https://x.com/ndril/status/2119899340642894235">📝 Prompt du créateur (gratuit)</a></sub>
 </td>
-</tr>
-<tr>
 <td width="33%" valign="top">
 <a href="https://claude.ai/artifact/H8E7AonW2KFrzdRimaLeXb"><img src="../assets/gifs/043.gif" width="100%" alt="112 Forms of Meditation"></a><br>
 <b><a href="https://claude.ai/artifact/H8E7AonW2KFrzdRimaLeXb">112 Forms of Meditation</a></b><br>

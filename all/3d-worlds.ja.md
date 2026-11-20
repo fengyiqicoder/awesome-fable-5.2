@@ -83,7 +83,7 @@
 <td width="33%" valign="top">
 <a href="https://github.com/Leonxlnx/walking-block"><img src="../assets/gifs/318.gif" width="100%" alt="Walking Block：歩くソ連の団地"></a><br>
 <b><a href="https://github.com/Leonxlnx/walking-block">Walking Block：歩くソ連の団地</a></b><br>
-<sub>🆕 · <a href="https://x.com/LexnLin">@LexnLin</a> · ♥ 415 · <a href="https://x.com/LexnLin/status/2122359035751989341">▶ 動画</a></sub><br>
+<sub><a href="https://x.com/LexnLin">@LexnLin</a> · ♥ 415 · <a href="https://x.com/LexnLin/status/2122359035751989341">▶ 動画</a></sub><br>
 <sub>8 本の機械の脚を持つ巨大なソ連のパネル団地が、夕暮れの霧の中、濡れた野原を横切る。ジオメトリ、テクスチャ、シェーダーはすべて three.js のコードで、同じシーンから 45 秒の映像もレンダリングされている。</sub>
 </td>
 <td width="33%" valign="top">
@@ -121,13 +121,13 @@
 <td width="33%" valign="top">
 <a href="https://butterfly.kyzo.io"><img src="../assets/gifs/314.gif" width="100%" alt="Hidden Layers：温室の中のスカシマダラ"></a><br>
 <b><a href="https://butterfly.kyzo.io">Hidden Layers：温室の中のスカシマダラ</a></b><br>
-<sub>🆕 · <a href="https://x.com/ky__zo">@ky__zo</a> · ♥ 229 · <a href="https://x.com/ky__zo/status/2122274109795054036">▶ 動画</a></sub><br>
+<sub><a href="https://x.com/ky__zo">@ky__zo</a> · ♥ 229 · <a href="https://x.com/ky__zo/status/2122274109795054036">▶ 動画</a></sub><br>
 <sub>スクロールして、温室から出られないスカシマダラと 6 つの世界を飛ぶ。モデルファイルもテクスチャもない純粋な three.js。13.2 億トークン、API コストは $905。</sub>
 </td>
 <td width="33%" valign="top">
 <a href="https://claude.ai/artifact/R6YBDkAm2GjAC5A65D9djx"><img src="../assets/gifs/142.gif" width="100%" alt="歩いて入れる Claude デモ"></a><br>
 <b><a href="https://claude.ai/artifact/R6YBDkAm2GjAC5A65D9djx">歩いて入れる Claude デモ</a></b><br>
-<sub><a href="https://x.com/dfeinition">@dfeinition</a> · ♥ 213 · <a href="https://x.com/dfeinition/status/2120330644261589051">▶ 動画</a></sub><br>
+<sub><a href="https://x.com/dfeinition">@dfeinition</a> · ♥ 214 · <a href="https://x.com/dfeinition/status/2120330644261589051">▶ 動画</a></sub><br>
 <sub>@rileybrown に触発：中に入って好きなコンピューターに座れる。</sub><br>
 <sub><a href="https://fablelist.000ooo.ooo/ja/prompts/?w=a-claude-demo-you-can-walk-into&ref=gh"><b>✨ プロンプトを入手</b></a></sub>
 </td>
@@ -188,7 +188,7 @@
 <td width="33%" valign="top">
 <a href="https://coralback-ray.wasmer.app/"><img src="../assets/gifs/357.gif" width="100%" alt="Coralback Ray"></a><br>
 <b><a href="https://coralback-ray.wasmer.app/">Coralback Ray</a></b><br>
-<sub>🆕 · <a href="https://x.com/thebuggeddev">@thebuggeddev</a> · ♥ 77 · <a href="https://x.com/thebuggeddev/status/2123021723188744248">▶ 動画</a></sub><br>
+<sub>🆕 · <a href="https://x.com/thebuggeddev">@thebuggeddev</a> · ♥ 79 · <a href="https://x.com/thebuggeddev/status/2123021723188744248">▶ 動画</a></sub><br>
 <sub>ブラウザの中を泳ぐ 3D のエイ。GLB モデル 1 つだけから作られた。ボーンはなく、リグは頂点シェーダーで動き、泳ぎは推力・抗力・重力で計算される。</sub>
 </td>
 <td width="33%" valign="top">

@@ -83,7 +83,7 @@ The main page shows at most the top 24 posts with 100+ likes; this page has ever
 <td width="33%" valign="top">
 <a href="https://github.com/Leonxlnx/walking-block"><img src="../assets/gifs/318.gif" width="100%" alt="Walking Block: a walking Soviet apartment block"></a><br>
 <b><a href="https://github.com/Leonxlnx/walking-block">Walking Block: a walking Soviet apartment block</a></b><br>
-<sub>🆕 · <a href="https://x.com/LexnLin">@LexnLin</a> · ♥ 415 · <a href="https://x.com/LexnLin/status/2122359035751989341">▶ Video</a></sub><br>
+<sub><a href="https://x.com/LexnLin">@LexnLin</a> · ♥ 415 · <a href="https://x.com/LexnLin/status/2122359035751989341">▶ Video</a></sub><br>
 <sub>A huge Soviet panel block on eight mechanical legs crossing a wet field in dusk fog. Geometry, textures and shaders are all three.js code, and a 45-second film is rendered from the same scene.</sub>
 </td>
 <td width="33%" valign="top">
@@ -121,13 +121,13 @@ The main page shows at most the top 24 posts with 100+ likes; this page has ever
 <td width="33%" valign="top">
 <a href="https://butterfly.kyzo.io"><img src="../assets/gifs/314.gif" width="100%" alt="Hidden Layers: a glasswing butterfly in a glasshouse"></a><br>
 <b><a href="https://butterfly.kyzo.io">Hidden Layers: a glasswing butterfly in a glasshouse</a></b><br>
-<sub>🆕 · <a href="https://x.com/ky__zo">@ky__zo</a> · ♥ 229 · <a href="https://x.com/ky__zo/status/2122274109795054036">▶ Video</a></sub><br>
+<sub><a href="https://x.com/ky__zo">@ky__zo</a> · ♥ 229 · <a href="https://x.com/ky__zo/status/2122274109795054036">▶ Video</a></sub><br>
 <sub>Scroll to fly a glasswing butterfly that cannot get out of a glasshouse through six worlds. Pure three.js with no model files or textures; it took 1.32 billion tokens and $905 in API cost.</sub>
 </td>
 <td width="33%" valign="top">
 <a href="https://claude.ai/artifact/R6YBDkAm2GjAC5A65D9djx"><img src="../assets/gifs/142.gif" width="100%" alt="A Claude demo you can walk into"></a><br>
 <b><a href="https://claude.ai/artifact/R6YBDkAm2GjAC5A65D9djx">A Claude demo you can walk into</a></b><br>
-<sub><a href="https://x.com/dfeinition">@dfeinition</a> · ♥ 213 · <a href="https://x.com/dfeinition/status/2120330644261589051">▶ Video</a></sub><br>
+<sub><a href="https://x.com/dfeinition">@dfeinition</a> · ♥ 214 · <a href="https://x.com/dfeinition/status/2120330644261589051">▶ Video</a></sub><br>
 <sub>Inspired by @rileybrown: walk in and sit at any computer.</sub><br>
 <sub><a href="https://fablelist.000ooo.ooo/prompts/?w=a-claude-demo-you-can-walk-into&ref=gh"><b>✨ Get the prompt</b></a></sub>
 </td>
@@ -188,7 +188,7 @@ The main page shows at most the top 24 posts with 100+ likes; this page has ever
 <td width="33%" valign="top">
 <a href="https://coralback-ray.wasmer.app/"><img src="../assets/gifs/357.gif" width="100%" alt="Coralback Ray"></a><br>
 <b><a href="https://coralback-ray.wasmer.app/">Coralback Ray</a></b><br>
-<sub>🆕 · <a href="https://x.com/thebuggeddev">@thebuggeddev</a> · ♥ 77 · <a href="https://x.com/thebuggeddev/status/2123021723188744248">▶ Video</a></sub><br>
+<sub>🆕 · <a href="https://x.com/thebuggeddev">@thebuggeddev</a> · ♥ 79 · <a href="https://x.com/thebuggeddev/status/2123021723188744248">▶ Video</a></sub><br>
 <sub>A 3D ray swimming in your browser, built from a single GLB model. No bones: the rig runs in the vertex shader, and the swimming is driven by thrust, drag and gravity.</sub>
 </td>
 <td width="33%" valign="top">

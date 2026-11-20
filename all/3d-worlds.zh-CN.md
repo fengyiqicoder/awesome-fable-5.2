@@ -83,7 +83,7 @@
 <td width="33%" valign="top">
 <a href="https://github.com/Leonxlnx/walking-block"><img src="../assets/gifs/318.gif" width="100%" alt="Walking Block 会走路的苏联公寓楼"></a><br>
 <b><a href="https://github.com/Leonxlnx/walking-block">Walking Block 会走路的苏联公寓楼</a></b><br>
-<sub>🆕 · <a href="https://x.com/LexnLin">@LexnLin</a> · ♥ 415 · <a href="https://x.com/LexnLin/status/2122359035751989341">▶ 视频</a></sub><br>
+<sub><a href="https://x.com/LexnLin">@LexnLin</a> · ♥ 415 · <a href="https://x.com/LexnLin/status/2122359035751989341">▶ 视频</a></sub><br>
 <sub>长着八条机械腿的苏联板楼在暮色雾气里穿过湿地，几何、贴图、着色器全是 three.js 代码，还渲染了一段 45 秒短片</sub>
 </td>
 <td width="33%" valign="top">
@@ -121,13 +121,13 @@
 <td width="33%" valign="top">
 <a href="https://butterfly.kyzo.io"><img src="../assets/gifs/314.gif" width="100%" alt="Hidden Layers 玻璃温室里的透翅蝶"></a><br>
 <b><a href="https://butterfly.kyzo.io">Hidden Layers 玻璃温室里的透翅蝶</a></b><br>
-<sub>🆕 · <a href="https://x.com/ky__zo">@ky__zo</a> · ♥ 229 · <a href="https://x.com/ky__zo/status/2122274109795054036">▶ 视频</a></sub><br>
+<sub><a href="https://x.com/ky__zo">@ky__zo</a> · ♥ 229 · <a href="https://x.com/ky__zo/status/2122274109795054036">▶ 视频</a></sub><br>
 <sub>滚动页面跟着一只飞不出玻璃温室的透翅蝶穿过六个世界，纯 three.js，没有模型文件和贴图；花了 13.2 亿 token、905 美元 API 费用</sub>
 </td>
 <td width="33%" valign="top">
 <a href="https://claude.ai/artifact/R6YBDkAm2GjAC5A65D9djx"><img src="../assets/gifs/142.gif" width="100%" alt="能走进去的 Claude 演示间"></a><br>
 <b><a href="https://claude.ai/artifact/R6YBDkAm2GjAC5A65D9djx">能走进去的 Claude 演示间</a></b><br>
-<sub><a href="https://x.com/dfeinition">@dfeinition</a> · ♥ 213 · <a href="https://x.com/dfeinition/status/2120330644261589051">▶ 视频</a></sub><br>
+<sub><a href="https://x.com/dfeinition">@dfeinition</a> · ♥ 214 · <a href="https://x.com/dfeinition/status/2120330644261589051">▶ 视频</a></sub><br>
 <sub>受 @rileybrown 启发；走进房间，坐到任意一台电脑前</sub><br>
 <sub><a href="https://fablelist.000ooo.ooo/zh/prompts/?w=a-claude-demo-you-can-walk-into&ref=gh"><b>✨ 获取提示词</b></a></sub>
 </td>
@@ -188,7 +188,7 @@
 <td width="33%" valign="top">
 <a href="https://coralback-ray.wasmer.app/"><img src="../assets/gifs/357.gif" width="100%" alt="Coralback Ray 珊瑚背鳐"></a><br>
 <b><a href="https://coralback-ray.wasmer.app/">Coralback Ray 珊瑚背鳐</a></b><br>
-<sub>🆕 · <a href="https://x.com/thebuggeddev">@thebuggeddev</a> · ♥ 77 · <a href="https://x.com/thebuggeddev/status/2123021723188744248">▶ 视频</a></sub><br>
+<sub>🆕 · <a href="https://x.com/thebuggeddev">@thebuggeddev</a> · ♥ 79 · <a href="https://x.com/thebuggeddev/status/2123021723188744248">▶ 视频</a></sub><br>
 <sub>浏览器里游动的 3D 鳐鱼：只给了一个 GLB 模型，绑定、动画和整片海都由它做；没有骨骼，全在顶点着色器里驱动，游动按推力、阻力和重力算</sub>
 </td>
 <td width="33%" valign="top">
