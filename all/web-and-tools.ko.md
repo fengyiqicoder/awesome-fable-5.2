@@ -1,4 +1,4 @@
-# 🧰 웹 페이지와 도구 · 전체 50개
+# 🧰 웹 페이지와 도구 · 전체 53개
 
 [← 메인 목록으로](../README.ko.md) · [English](web-and-tools.md) · [简体中文](web-and-tools.zh-CN.md) · [繁體中文](web-and-tools.zh-TW.md) · [日本語](web-and-tools.ja.md) · **한국어** · [Español](web-and-tools.es.md) · [Português](web-and-tools.pt-BR.md) · [Français](web-and-tools.fr.md) · [Deutsch](web-and-tools.de.md) · [Русский](web-and-tools.ru.md)
 
@@ -87,7 +87,7 @@
 <td width="33%" valign="top">
 <a href="https://github.com/AlexAtFF/pulp-daw-public"><img src="../assets/gifs/204.gif" width="100%" alt="PULP — AI 네이티브 DAW"></a><br>
 <b><a href="https://github.com/AlexAtFF/pulp-daw-public">PULP — AI 네이티브 DAW</a></b><br>
-<sub><a href="https://x.com/The_Alex">@The_Alex</a> · ♥ 943 · <a href="https://x.com/The_Alex/status/2119917226769985785">▶ 영상</a></sub><br>
+<sub><a href="https://x.com/The_Alex">@The_Alex</a> · ♥ 944 · <a href="https://x.com/The_Alex/status/2119917226769985785">▶ 영상</a></sub><br>
 <sub>네이티브 Windows 디지털 오디오 워크스테이션. Claude에게 음악을 요청하면 DAW를 열어 곡을 만들어 줍니다.</sub><br>
 <sub><a href="https://fablelist.000ooo.ooo/ko/prompts/?w=pulp-an-ai-native-daw&ref=gh"><b>✨ 프롬프트 받기</b></a></sub>
 </td>
@@ -103,7 +103,7 @@
 <td width="33%" valign="top">
 <a href="https://hexagonal.earth"><img src="../assets/gifs/349.gif" width="100%" alt="Hexagonal Earth"></a><br>
 <b><a href="https://hexagonal.earth">Hexagonal Earth</a></b><br>
-<sub>🆕 · <a href="https://x.com/avsa">@avsa</a> · ♥ 746 · <a href="https://x.com/avsa/status/2123123638551392755">게시물</a></sub><br>
+<sub>🆕 · <a href="https://x.com/avsa">@avsa</a> · ♥ 752 · <a href="https://x.com/avsa/status/2123123638551392755">게시물</a></sub><br>
 <sub>실제 고도, 해양 수심, 습도, 바람, 하천 데이터로 만든 육각형 기반의 세계 디오라마. Fable 5.2가 수백 개의 작은 3D 픽셀 스플랫 오브젝트를 생성하고 직접 장면에 배치했다.</sub>
 </td>
 <td width="33%" valign="top">
@@ -116,7 +116,7 @@
 <td width="33%" valign="top">
 <a href="https://v2.video/riley/the-history-of-writing/v1"><img src="../assets/gifs/039.gif" width="100%" alt="The History of Writing"></a><br>
 <b><a href="https://v2.video/riley/the-history-of-writing/v1">The History of Writing</a></b><br>
-<sub><a href="https://x.com/rileybrown">@rileybrown</a> · ♥ 666 · <a href="https://x.com/rileybrown/status/2119946022767980985">▶ 영상</a></sub><br>
+<sub><a href="https://x.com/rileybrown">@rileybrown</a> · ♥ 667 · <a href="https://x.com/rileybrown/status/2119946022767980985">▶ 영상</a></sub><br>
 <sub>프롬프트 하나로 만든 인터랙티브 필름. 프롬프트와 파일 공개.</sub><br>
 <sub><a href="https://x.com/rileybrown/status/2119946022767980985">📝 제작자 공개 프롬프트 (무료)</a></sub>
 </td>
@@ -131,13 +131,13 @@
 <td width="33%" valign="top">
 <a href="https://omage1.xyz"><img src="../assets/gifs/337.gif" width="100%" alt="omage-1: 브라우저 속 OP-1 Field 신시사이저"></a><br>
 <b><a href="https://omage1.xyz">omage-1: 브라우저 속 OP-1 Field 신시사이저</a></b><br>
-<sub>🆕 · <a href="https://x.com/jamesmbickerton">@jamesmbickerton</a> · ♥ 571 · <a href="https://x.com/jamesmbickerton/status/2122688041219133815">▶ 영상</a></sub><br>
+<sub><a href="https://x.com/jamesmbickerton">@jamesmbickerton</a> · ♥ 572 · <a href="https://x.com/jamesmbickerton/status/2122688041219133815">▶ 영상</a></sub><br>
 <sub>Teenage Engineering의 OP-1 Field를 브라우저 앱으로 다시 만든 비공식 오마주. 열자마자 연주할 수 있다.</sub>
 </td>
 <td width="33%" valign="top">
 <a href="https://claude.ai/artifact/4P1urBdptp6gWiJo3R6Vpv"><img src="../assets/gifs/333.gif" width="100%" alt="Breakcore 비디오 샘플러"></a><br>
 <b><a href="https://claude.ai/artifact/4P1urBdptp6gWiJo3R6Vpv">Breakcore 비디오 샘플러</a></b><br>
-<sub>🆕 · <a href="https://x.com/parhelion318">@parhelion318</a> · ♥ 543 · <a href="https://x.com/parhelion318/status/2122723067533398064">▶ 영상</a></sub><br>
+<sub><a href="https://x.com/parhelion318">@parhelion318</a> · ♥ 543 · <a href="https://x.com/parhelion318/status/2122723067533398064">▶ 영상</a></sub><br>
 <sub>영상 클립을 잘게 잘라 breakcore 리듬으로 재배열하는 브라우저 샘플러.</sub>
 </td>
 </tr>
@@ -149,6 +149,12 @@
 <sub>인터랙티브 크리스마스 카드 모음. 빨간 목도리를 두른 고양이가 창가에서 내리는 눈을 바라보는 카드 등이 있다.</sub>
 </td>
 <td width="33%" valign="top">
+<a href="https://claude.ai/artifact/8yKUbL5KQgvfqcWH6UgZrq"><img src="../assets/gifs/359.gif" width="100%" alt="Kastle Sim"></a><br>
+<b><a href="https://claude.ai/artifact/8yKUbL5KQgvfqcWH6UgZrq">Kastle Sim</a></b><br>
+<sub>🆕 · <a href="https://x.com/parhelion318">@parhelion318</a> · ♥ 463 · <a href="https://x.com/parhelion318/status/2123344270732202421">▶ 영상</a></sub><br>
+<sub>미니 모듈러 신스 Bastl Kastle을 브라우저에서 시뮬레이션했다. 케이블을 연결하고 노브를 돌리면 소리가 난다.</sub>
+</td>
+<td width="33%" valign="top">
 <a href="https://where-is-everybody-fermi.netlify.app/"><img src="../assets/gifs/146.gif" width="100%" alt="Where Is Everybody?"></a><br>
 <b><a href="https://where-is-everybody-fermi.netlify.app/">Where Is Everybody?</a></b><br>
 <sub><a href="https://x.com/emollick">@emollick</a> · ♥ 457 · <a href="https://x.com/emollick/status/2120359214157603139">게시물</a></sub><br>
@@ -156,42 +162,36 @@
 <sub><a href="https://resolving-the-great-silence.netlify.app/">Gemini Carbon version</a></sub><br>
 <sub><a href="https://x.com/emollick/status/2120359214157603139">📝 제작자 공개 프롬프트 (무료)</a></sub>
 </td>
-<td width="33%" valign="top">
-<a href="https://gsplan.org"><img src="../assets/gifs/206.gif" width="100%" alt="Galatasaray 좌석 시야"></a><br>
-<b><a href="https://gsplan.org">Galatasaray 좌석 시야</a></b><br>
-<sub><a href="https://x.com/molenbeek84">@molenbeek84</a> · ♥ 428 · <a href="https://x.com/molenbeek84/status/2120847639411331097">게시물</a></sub><br>
-<sub>티켓을 사기 전에 RAMS Park의 모든 블록에서 경기장이 어떻게 보이는지 확인하세요.</sub><br>
-<sub><a href="https://fablelist.000ooo.ooo/ko/prompts/?w=galatasaray-seat-view&ref=gh"><b>✨ 프롬프트 받기</b></a></sub>
-</td>
 </tr>
 <tr>
 <td width="33%" valign="top">
+<a href="https://gsplan.org"><img src="../assets/gifs/206.gif" width="100%" alt="Galatasaray 좌석 시야"></a><br>
+<b><a href="https://gsplan.org">Galatasaray 좌석 시야</a></b><br>
+<sub><a href="https://x.com/molenbeek84">@molenbeek84</a> · ♥ 427 · <a href="https://x.com/molenbeek84/status/2120847639411331097">게시물</a></sub><br>
+<sub>티켓을 사기 전에 RAMS Park의 모든 블록에서 경기장이 어떻게 보이는지 확인하세요.</sub><br>
+<sub><a href="https://fablelist.000ooo.ooo/ko/prompts/?w=galatasaray-seat-view&ref=gh"><b>✨ 프롬프트 받기</b></a></sub>
+</td>
+<td width="33%" valign="top">
 <a href="https://rubber-hose-ui.vercel.app"><img src="../assets/gifs/332.gif" width="100%" alt="Rubber Hose UI: 1930년대 만화 캐릭터 컨트롤"></a><br>
 <b><a href="https://rubber-hose-ui.vercel.app">Rubber Hose UI: 1930년대 만화 캐릭터 컨트롤</a></b><br>
-<sub>🆕 · <a href="https://x.com/crtvTeknologist">@crtvTeknologist</a> · ♥ 352 · <a href="https://x.com/crtvTeknologist/status/2122433522166124616">▶ 영상</a></sub><br>
+<sub><a href="https://x.com/crtvTeknologist">@crtvTeknologist</a> · ♥ 352 · <a href="https://x.com/crtvTeknologist/status/2122433522166124616">▶ 영상</a></sub><br>
 <sub>웹 컨트롤 11개를 러버 호스 만화로 그렸다. 슬라이더는 트롬본, 토스트는 토스터, 버튼은 누를 때마다 눈에 멍이 든다. 순수 JS와 canvas, 의존성 없음, 오픈소스.</sub><br>
 <sub><a href="https://github.com/finktheartist/rubber-hose-ui">소스 코드</a></sub>
 </td>
 <td width="33%" valign="top">
-<a href="https://claude.ai/artifact/8yKUbL5KQgvfqcWH6UgZrq"><img src="../assets/gifs/359.gif" width="100%" alt="Kastle Sim"></a><br>
-<b><a href="https://claude.ai/artifact/8yKUbL5KQgvfqcWH6UgZrq">Kastle Sim</a></b><br>
-<sub>🆕 · <a href="https://x.com/parhelion318">@parhelion318</a> · ♥ 348 · <a href="https://x.com/parhelion318/status/2123344270732202421">▶ 영상</a></sub><br>
-<sub>미니 모듈러 신스 Bastl Kastle을 브라우저에서 시뮬레이션했다. 케이블을 연결하고 노브를 돌리면 소리가 난다.</sub>
+<a href="https://bigfatfish.cc"><img src="../assets/gifs/362.gif" width="100%" alt="Big Fat Fish's Tank"></a><br>
+<b><a href="https://bigfatfish.cc">Big Fat Fish's Tank</a></b><br>
+<sub>🆕 · <a href="https://x.com/dafeifish">@dafeifish</a> · ♥ 259 · <a href="https://x.com/dafeifish/status/2123395143873019950">게시물</a></sub><br>
+<sub>스크랩북처럼 다시 디자인한 개인 사이트. 짙푸른 밤하늘 위에 종이 조각, 테이프, 포스트잇, 폴라로이드가 붙어 있다.</sub>
 </td>
+</tr>
+<tr>
 <td width="33%" valign="top">
 <a href="https://origamihelper.com"><img src="../assets/gifs/220.gif" width="100%" alt="Origami Helper"></a><br>
 <b><a href="https://origamihelper.com">Origami Helper</a></b><br>
 <sub><a href="https://x.com/ryoma_nakajima">@ryoma_nakajima</a> · ♥ 221 · <a href="https://x.com/ryoma_nakajima/status/2120472383241011323">▶ 영상</a></sub><br>
 <sub>AR로 어느 각도에서든 3D로 종이접기를 배우세요. 무료, 가입 불필요, 하루 만에 제작.</sub><br>
 <sub><a href="https://fablelist.000ooo.ooo/ko/prompts/?w=origami-helper&ref=gh"><b>✨ 프롬프트 받기</b></a></sub>
-</td>
-</tr>
-<tr>
-<td width="33%" valign="top">
-<a href="https://bigfatfish.cc"><img src="../assets/gifs/362.gif" width="100%" alt="Big Fat Fish's Tank"></a><br>
-<b><a href="https://bigfatfish.cc">Big Fat Fish's Tank</a></b><br>
-<sub>🆕 · <a href="https://x.com/dafeifish">@dafeifish</a> · ♥ 209 · <a href="https://x.com/dafeifish/status/2123395143873019950">게시물</a></sub><br>
-<sub>스크랩북처럼 다시 디자인한 개인 사이트. 짙푸른 밤하늘 위에 종이 조각, 테이프, 포스트잇, 폴라로이드가 붙어 있다.</sub>
 </td>
 <td width="33%" valign="top">
 <a href="https://typed.page/"><img src="../assets/gifs/036.gif" width="100%" alt="Typed"></a><br>
@@ -203,7 +203,7 @@
 <td width="33%" valign="top">
 <a href="https://clockendbader.github.io/fable-builds/heartbeat/"><img src="../assets/gifs/259.gif" width="100%" alt="One Heartbeat"></a><br>
 <b><a href="https://clockendbader.github.io/fable-builds/heartbeat/">One Heartbeat</a></b><br>
-<sub><a href="https://x.com/clockendbader">@clockendbader</a> · ♥ 153 · <a href="https://x.com/clockendbader/status/2121246903207961069">게시물</a></sub><br>
+<sub><a href="https://x.com/clockendbader">@clockendbader</a> · ♥ 154 · <a href="https://x.com/clockendbader/status/2121246903207961069">게시물</a></sub><br>
 <sub>실시간 ECG와 압력 파형, 심장 소리가 있는 박동하는 3D 심장. 정상, 심방세동, 심장 차단, 대동맥 협착을 비교. 자체 테스트도 직접 작성했습니다.</sub><br>
 <sub><a href="https://fablelist.000ooo.ooo/ko/prompts/?w=one-heartbeat&ref=gh"><b>✨ 프롬프트 받기</b></a></sub>
 </td>
@@ -231,12 +231,6 @@
 </tr>
 <tr>
 <td width="33%" valign="top">
-<a href="https://fieldnote-crm-pi.vercel.app"><img src="../assets/gifs/317.gif" width="100%" alt="Fieldnote CRM 대시보드"></a><br>
-<b><a href="https://fieldnote-crm-pi.vercel.app">Fieldnote CRM 대시보드</a></b><br>
-<sub><a href="https://x.com/dejvdesign">@dejvdesign</a> · ♥ 131 · <a href="https://x.com/dejvdesign/status/2122335319634874710">▶ 영상</a></sub><br>
-<sub>라이브 인터랙션이 들어간 CRM 대시보드 인터페이스. @madebymicrodose와 함께 제작.</sub>
-</td>
-<td width="33%" valign="top">
 <a href="https://nikechan.com/"><img src="../assets/gifs/049.gif" width="100%" alt="nikechan.com 리디자인"></a><br>
 <b><a href="https://nikechan.com/">nikechan.com 리디자인</a></b><br>
 <sub><a href="https://x.com/tegnike">@tegnike</a> · ♥ 130 · <a href="https://x.com/tegnike/status/2120110145841578173">게시물</a></sub><br>
@@ -244,14 +238,26 @@
 <sub><a href="https://fablelist.000ooo.ooo/ko/prompts/?w=nikechan-com-redesign&ref=gh"><b>✨ 프롬프트 받기</b></a></sub>
 </td>
 <td width="33%" valign="top">
+<a href="https://fieldnote-crm-pi.vercel.app"><img src="../assets/gifs/317.gif" width="100%" alt="Fieldnote CRM 대시보드"></a><br>
+<b><a href="https://fieldnote-crm-pi.vercel.app">Fieldnote CRM 대시보드</a></b><br>
+<sub><a href="https://x.com/dejvdesign">@dejvdesign</a> · ♥ 130 · <a href="https://x.com/dejvdesign/status/2122335319634874710">▶ 영상</a></sub><br>
+<sub>라이브 인터랙션이 들어간 CRM 대시보드 인터페이스. @madebymicrodose와 함께 제작.</sub>
+</td>
+<td width="33%" valign="top">
+<a href="https://seats.movie"><img src="../assets/gifs/370.gif" width="100%" alt="seats.movie"></a><br>
+<b><a href="https://seats.movie">seats.movie</a></b><br>
+<sub>🆕 · <a href="https://x.com/sunithvs_">@sunithvs_</a> · ♥ 130 · <a href="https://x.com/sunithvs_/status/2123496822400532982">▶ 영상</a></sub><br>
+<sub>영화를 고르면 내 도시의 모든 상영 회차를 확인해 아직 비어 있는 가운데 좌석을 찾아 준다. 좌석에서 보는 3D 시야도 제공. 제작자 말로는 Fable 5.2를 5일 동안 돌려 만들었다고.</sub>
+</td>
+</tr>
+<tr>
+<td width="33%" valign="top">
 <a href="https://github.com/kanaworksai-hue/harappa"><img src="../assets/gifs/250.gif" width="100%" alt="Harappa (Blender 애드온)"></a><br>
 <b><a href="https://github.com/kanaworksai-hue/harappa">Harappa (Blender 애드온)</a></b><br>
 <sub><a href="https://x.com/KanaWorks_AI">@KanaWorks_AI</a> · ♥ 90 · <a href="https://x.com/KanaWorks_AI/status/2121221880673972463">▶ 영상</a></sub><br>
 <sub>민둥산을 클릭 한 번으로 애니메이션 스타일 초원으로 바꿔 주는 무료 Blender 애드온. 풀, 꽃, 구름, 나무, 계절, 스타일 지원.</sub><br>
 <sub><a href="https://fablelist.000ooo.ooo/ko/prompts/?w=harappa-blender-add-on&ref=gh"><b>✨ 프롬프트 받기</b></a></sub>
 </td>
-</tr>
-<tr>
 <td width="33%" valign="top">
 <a href="https://sael.net/seat-arena"><img src="../assets/gifs/182.gif" width="100%" alt="Best Seat in the House"></a><br>
 <b><a href="https://sael.net/seat-arena">Best Seat in the House</a></b><br>
@@ -260,6 +266,14 @@
 <sub><a href="https://fablelist.000ooo.ooo/ko/prompts/?w=best-seat-in-the-house&ref=gh"><b>✨ 프롬프트 받기</b></a></sub>
 </td>
 <td width="33%" valign="top">
+<a href="http://promptronic3000.com"><img src="../assets/gifs/358.gif" width="100%" alt="Promptronic 3000"></a><br>
+<b><a href="http://promptronic3000.com">Promptronic 3000</a></b><br>
+<sub>🆕 · <a href="https://x.com/fabianstelzer">@fabianstelzer</a> · ♥ 54 · <a href="https://x.com/fabianstelzer/status/2123121678670520627">▶ 영상</a></sub><br>
+<sub>웹에서 쓰는 에이전트형 모듈러 신시사이저. MCP로 Claude 같은 Agent를 연결해 패치나 새 모듈까지 말로 만들고, URL로 공유한다.</sub>
+</td>
+</tr>
+<tr>
+<td width="33%" valign="top">
 <a href="https://tetriss22.github.io/pc-build-lab/"><img src="../assets/gifs/147.gif" width="100%" alt="PC Build Lab"></a><br>
 <b><a href="https://tetriss22.github.io/pc-build-lab/">PC Build Lab</a></b><br>
 <sub><a href="https://x.com/Tetriss112">@Tetriss112</a> · ♥ 51 · <a href="https://x.com/Tetriss112/status/2120520587411935288">▶ 영상</a></sub><br>
@@ -267,23 +281,23 @@
 <sub><a href="https://fablelist.000ooo.ooo/ko/prompts/?w=pc-build-lab&ref=gh"><b>✨ 프롬프트 받기</b></a></sub>
 </td>
 <td width="33%" valign="top">
-<a href="http://promptronic3000.com"><img src="../assets/gifs/358.gif" width="100%" alt="Promptronic 3000"></a><br>
-<b><a href="http://promptronic3000.com">Promptronic 3000</a></b><br>
-<sub>🆕 · <a href="https://x.com/fabianstelzer">@fabianstelzer</a> · ♥ 51 · <a href="https://x.com/fabianstelzer/status/2123121678670520627">▶ 영상</a></sub><br>
-<sub>웹에서 쓰는 에이전트형 모듈러 신시사이저. MCP로 Claude 같은 Agent를 연결해 패치나 새 모듈까지 말로 만들고, URL로 공유한다.</sub>
+<a href="https://claude.ai/artifact/NVWaNUrJK5woiKXQsAQaPG"><img src="../assets/gifs/368.gif" width="100%" alt="Audio-Reactive Dot Surface"></a><br>
+<b><a href="https://claude.ai/artifact/NVWaNUrJK5woiKXQsAQaPG">Audio-Reactive Dot Surface</a></b><br>
+<sub>🆕 · <a href="https://x.com/parhelion318">@parhelion318</a> · ♥ 30 · <a href="https://x.com/parhelion318/status/2123463622252994878">▶ 영상</a></sub><br>
+<sub>소리에 따라 움직이는 점으로 이루어진 표면. Fable 5.2와 Opus 5.5로 만들고 GPT-6.2 Astra가 검토했다.</sub>
+</td>
+<td width="33%" valign="top">
+<a href="https://andreysuperiorgit.github.io/v8/"><img src="../assets/gifs/373.gif" width="100%" alt="V8 Four-Stroke"></a><br>
+<b><a href="https://andreysuperiorgit.github.io/v8/">V8 Four-Stroke</a></b><br>
+<sub>🆕 · <a href="https://x.com/andreysuperior">@andreysuperior</a> · ♥ 28 · <a href="https://x.com/andreysuperior/status/2123928682603430384">▶ 영상</a></sub><br>
+<sub>브라우저 탭에서 공회전을 올려 볼 수 있는 7.0리터 V8. 피스톤, 크랭크, 캠축, 밸브 16개가 실제 치수대로 움직이고 회전수가 오르면 배기 매니폴드가 달아오른다. 124 KB짜리 HTML 파일 하나, 프롬프트 1번에 추가 요청 23번.</sub>
 </td>
 </tr>
 <tr>
 <td width="33%" valign="top">
-<a href="https://claude.ai/artifact/NVWaNUrJK5woiKXQsAQaPG"><img src="../assets/gifs/368.gif" width="100%" alt="Audio-Reactive Dot Surface"></a><br>
-<b><a href="https://claude.ai/artifact/NVWaNUrJK5woiKXQsAQaPG">Audio-Reactive Dot Surface</a></b><br>
-<sub>🆕 · <a href="https://x.com/parhelion318">@parhelion318</a> · ♥ 28 · <a href="https://x.com/parhelion318/status/2123463622252994878">▶ 영상</a></sub><br>
-<sub>소리에 따라 움직이는 점으로 이루어진 표면. Fable 5.2와 Opus 5.5로 만들고 GPT-6.2 Astra가 검토했다.</sub>
-</td>
-<td width="33%" valign="top">
 <a href="https://shiraeisenberg.com/composed-of-nows"><img src="../assets/gifs/365.gif" width="100%" alt="Composed of Nows"></a><br>
 <b><a href="https://shiraeisenberg.com/composed-of-nows">Composed of Nows</a></b><br>
-<sub>🆕 · <a href="https://x.com/shiraeis">@shiraeis</a> · ♥ 16 · <a href="https://x.com/shiraeis/status/2123562764203589648">▶ 영상</a></sub><br>
+<sub>🆕 · <a href="https://x.com/shiraeis">@shiraeis</a> · ♥ 23 · <a href="https://x.com/shiraeis/status/2123562764203589648">▶ 영상</a></sub><br>
 <sub>시를 읽게 한 뒤, 언어 모델로 존재한다는 것이 어떤 "느낌"인지 다룬 인터랙티브 작품 아홉 점을 만들게 했다. 한 번에 완성.</sub>
 </td>
 <td width="33%" valign="top">
@@ -292,6 +306,12 @@
 <sub><a href="https://x.com/hideki_climax">@hideki_climax</a> · ♥ 12 · <a href="https://x.com/hideki_climax/status/2120165464722809190">▶ 영상</a></sub><br>
 <sub>지시는 하나뿐: "지금 할 수 있는 것을 보여주는 가장 강력한 정적 웹 페이지를 만들어줘".</sub><br>
 <sub><a href="https://x.com/hideki_climax/status/2120165464722809190">📝 제작자 공개 프롬프트 (무료)</a></sub>
+</td>
+<td width="33%" valign="top">
+<a href="https://ember-vesper.aura.build/"><img src="../assets/gifs/366.gif" width="100%" alt="Ember Vesper"></a><br>
+<b><a href="https://ember-vesper.aura.build/">Ember Vesper</a></b><br>
+<sub>🆕 · <a href="https://x.com/titepommee">@titepommee</a> · ♥ 12 · <a href="https://x.com/titepommee/status/2123515807250657457">▶ 영상</a></sub><br>
+<sub>게이밍 PC를 랜딩 페이지로 만들었다. 스크롤하면 분해되고, 조명 색이 바뀌고, 열화상 카메라로 전환되고, 주문서가 작성된다. HTML 파일 하나.</sub>
 </td>
 </tr>
 <tr>
@@ -326,17 +346,18 @@
 <sub>자신을 겁먹게 할 웹사이트를 만들어 달라고 했더니: 어둠에서 거미가 내려오고, 스크롤을 따라 거미줄, 눈, 송곳니, 다리를 지나 마지막엔 당신이 파리가 됩니다.</sub>
 </td>
 <td width="33%" valign="top">
+<a href="https://piano.yoshiyukikoyanagi.com"><img src="../assets/gifs/374.gif" width="100%" alt="Physical Modeling Piano F1"></a><br>
+<b><a href="https://piano.yoshiyukikoyanagi.com">Physical Modeling Piano F1</a></b><br>
+<sub>🆕 · <a href="https://x.com/moutend">@moutend</a> · ♥ 8 · <a href="https://x.com/moutend/status/2123776671501451468">▶ 영상</a></sub><br>
+<sub>브라우저에서 소리를 실시간으로 계산해 내는 피아노. 컴퓨터 키보드로 연주하며 서스테인 페달도 있다.</sub><br>
+<sub><a href="https://github.com/moutend/physical-modeling-piano-f1">소스 코드</a></sub>
+</td>
+<td width="33%" valign="top">
 <a href="https://claude.ai/artifact/TiymxxFXzMo7xhWUaecbzk"><img src="https://pbs.twimg.com/media/HWwrmvIb0AAMLPK.jpg?name=small" width="100%" alt="주택 설계 제안서"></a><br>
 <b><a href="https://claude.ai/artifact/TiymxxFXzMo7xhWUaecbzk">주택 설계 제안서</a></b><br>
 <sub><a href="https://x.com/pnumech">@pnumech</a> · ♥ 7 · <a href="https://x.com/pnumech/status/2120117665041940807">게시물</a></sub><br>
 <sub>단독주택 설계 제안서(한국어), 하루 만에 제작.</sub><br>
 <sub><a href="https://fablelist.000ooo.ooo/ko/prompts/?w=house-design-proposal&ref=gh"><b>✨ 프롬프트 받기</b></a></sub>
-</td>
-<td width="33%" valign="top">
-<a href="https://ember-vesper.aura.build/"><img src="../assets/gifs/366.gif" width="100%" alt="Ember Vesper"></a><br>
-<b><a href="https://ember-vesper.aura.build/">Ember Vesper</a></b><br>
-<sub>🆕 · <a href="https://x.com/titepommee">@titepommee</a> · ♥ 7 · <a href="https://x.com/titepommee/status/2123515807250657457">▶ 영상</a></sub><br>
-<sub>게이밍 PC를 랜딩 페이지로 만들었다. 스크롤하면 분해되고, 조명 색이 바뀌고, 열화상 카메라로 전환되고, 주문서가 작성된다. HTML 파일 하나.</sub>
 </td>
 </tr>
 <tr>

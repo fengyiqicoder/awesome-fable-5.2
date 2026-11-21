@@ -1,4 +1,4 @@
-# 📺 影片展示 · 全部 145 個
+# 📺 影片展示 · 全部 146 個
 
 [← 回到首頁](../README.zh-TW.md) · [English](video-demos.md) · [简体中文](video-demos.zh-CN.md) · **繁體中文** · [日本語](video-demos.ja.md) · [한국어](video-demos.ko.md) · [Español](video-demos.es.md) · [Português](video-demos.pt-BR.md) · [Français](video-demos.fr.md) · [Deutsch](video-demos.de.md) · [Русский](video-demos.ru.md)
 
@@ -41,7 +41,7 @@
 <td width="33%" valign="top">
 <a href="https://x.com/dominikmartn/status/2120154832694858224"><img src="../assets/gifs/236.gif" width="100%" alt="它真的會設計"></a><br>
 <b><a href="https://x.com/dominikmartn/status/2120154832694858224">它真的會設計</a></b><br>
-<sub><a href="https://x.com/dominikmartn">@dominikmartn</a> · ♥ 7.3k · <a href="https://x.com/dominikmartn/status/2120154832694858224">▶ 影片</a></sub><br>
+<sub><a href="https://x.com/dominikmartn">@dominikmartn</a> · ♥ 7.2k · <a href="https://x.com/dominikmartn/status/2120154832694858224">▶ 影片</a></sub><br>
 <br>
 <sub><a href="https://fablelist.000ooo.ooo/zh-tw/prompts/?w=it-can-actually-design&ref=gh"><b>✨ 取得提示詞</b></a></sub>
 </td>
@@ -62,15 +62,15 @@
 <sub><a href="https://fablelist.000ooo.ooo/zh-tw/prompts/?w=painting-a-copy-in-code-the-original-has&ref=gh"><b>✨ 取得提示詞</b></a></sub>
 </td>
 <td width="33%" valign="top">
-<a href="https://x.com/aj_dev_smith/status/2122538394710687871"><img src="../assets/gifs/324.gif" width="100%" alt="用同一個人聲錄下的 64 個音演奏任何歌曲"></a><br>
-<b><a href="https://x.com/aj_dev_smith/status/2122538394710687871">用同一個人聲錄下的 64 個音演奏任何歌曲</a></b><br>
-<sub><a href="https://x.com/aj_dev_smith">@aj_dev_smith</a> · ♥ 5.3k · <a href="https://x.com/aj_dev_smith/status/2122538394710687871">▶ 影片</a></sub><br>
-
-</td>
-<td width="33%" valign="top">
 <a href="https://x.com/Dstudio_ai/status/2122569461547098595"><img src="../assets/gifs/328.gif" width="100%" alt="用 Tripo 3D 模型做的手遊風大廳畫面"></a><br>
 <b><a href="https://x.com/Dstudio_ai/status/2122569461547098595">用 Tripo 3D 模型做的手遊風大廳畫面</a></b><br>
 <sub><a href="https://x.com/Dstudio_ai">@Dstudio_ai</a> · ♥ 5.3k · <a href="https://x.com/Dstudio_ai/status/2122569461547098595">▶ 影片</a></sub><br>
+
+</td>
+<td width="33%" valign="top">
+<a href="https://x.com/aj_dev_smith/status/2122538394710687871"><img src="../assets/gifs/324.gif" width="100%" alt="用同一個人聲錄下的 64 個音演奏任何歌曲"></a><br>
+<b><a href="https://x.com/aj_dev_smith/status/2122538394710687871">用同一個人聲錄下的 64 個音演奏任何歌曲</a></b><br>
+<sub><a href="https://x.com/aj_dev_smith">@aj_dev_smith</a> · ♥ 5.3k · <a href="https://x.com/aj_dev_smith/status/2122538394710687871">▶ 影片</a></sub><br>
 
 </td>
 </tr>
@@ -107,7 +107,7 @@
 <td width="33%" valign="top">
 <a href="https://x.com/shiromamono/status/2122473903100731694"><img src="../assets/gifs/339.gif" width="100%" alt="一支為了讓你微笑而做的影片"></a><br>
 <b><a href="https://x.com/shiromamono/status/2122473903100731694">一支為了讓你微笑而做的影片</a></b><br>
-<sub>🆕 · <a href="https://x.com/shiromamono">@shiromamono</a> · ♥ 3.8k · <a href="https://x.com/shiromamono/status/2122473903100731694">▶ 影片</a></sub><br>
+<sub><a href="https://x.com/shiromamono">@shiromamono</a> · ♥ 3.8k · <a href="https://x.com/shiromamono/status/2122473903100731694">▶ 影片</a></sub><br>
 
 </td>
 <td width="33%" valign="top">
@@ -166,7 +166,7 @@
 <td width="33%" valign="top">
 <a href="https://x.com/kotaniko98765/status/2122266561960665539"><img src="../assets/gifs/340.gif" width="100%" alt="一個週末做出來的當沖交易遊戲"></a><br>
 <b><a href="https://x.com/kotaniko98765/status/2122266561960665539">一個週末做出來的當沖交易遊戲</a></b><br>
-<sub>🆕 · <a href="https://x.com/kotaniko98765">@kotaniko98765</a> · ♥ 2.5k · <a href="https://x.com/kotaniko98765/status/2122266561960665539">▶ 影片</a></sub><br>
+<sub><a href="https://x.com/kotaniko98765">@kotaniko98765</a> · ♥ 2.5k · <a href="https://x.com/kotaniko98765/status/2122266561960665539">▶ 影片</a></sub><br>
 
 </td>
 <td width="33%" valign="top">
@@ -202,7 +202,7 @@
 <td width="33%" valign="top">
 <a href="https://x.com/Ssr360535694/status/2122934850407510386"><img src="../assets/gifs/348.gif" width="100%" alt="Fable 5.2 指揮、Opus 5.5 執行的特效鏡頭"></a><br>
 <b><a href="https://x.com/Ssr360535694/status/2122934850407510386">Fable 5.2 指揮、Opus 5.5 執行的特效鏡頭</a></b><br>
-<sub>🆕 · <a href="https://x.com/Ssr360535694">@Ssr360535694</a> · ♥ 2.0k · <a href="https://x.com/Ssr360535694/status/2122934850407510386">▶ 影片</a></sub><br>
+<sub><a href="https://x.com/Ssr360535694">@Ssr360535694</a> · ♥ 2.0k · <a href="https://x.com/Ssr360535694/status/2122934850407510386">▶ 影片</a></sub><br>
 
 </td>
 </tr>
@@ -222,13 +222,19 @@
 <sub><a href="https://fablelist.000ooo.ooo/zh-tw/prompts/?w=show-me-your-work&ref=gh"><b>✨ 取得提示詞</b></a></sub>
 </td>
 <td width="33%" valign="top">
+<a href="https://x.com/shiromamono/status/2122858333694730472"><img src="../assets/gifs/347.gif" width="100%" alt="女孩彈著鍵盤唱歌的 MV"></a><br>
+<b><a href="https://x.com/shiromamono/status/2122858333694730472">女孩彈著鍵盤唱歌的 MV</a></b><br>
+<sub><a href="https://x.com/shiromamono">@shiromamono</a> · ♥ 1.7k · <a href="https://x.com/shiromamono/status/2122858333694730472">▶ 影片</a></sub><br>
+
+</td>
+</tr>
+<tr>
+<td width="33%" valign="top">
 <a href="https://x.com/chrisjdimarco/status/2120752985949057215"><img src="../assets/gifs/276.gif" width="100%" alt="1,048,576 個奈米機器人組成的集群，能變形成手、鯨魚、火箭或 DNA 雙螺旋"></a><br>
 <b><a href="https://x.com/chrisjdimarco/status/2120752985949057215">1,048,576 個奈米機器人組成的集群，能變形成手、鯨魚、火箭或 DNA 雙螺旋</a></b><br>
 <sub><a href="https://x.com/chrisjdimarco">@chrisjdimarco</a> · ♥ 1.7k · <a href="https://x.com/chrisjdimarco/status/2120752985949057215">▶ 影片</a></sub><br>
 
 </td>
-</tr>
-<tr>
 <td width="33%" valign="top">
 <a href="https://x.com/_MaxBlade/status/2120109725740159390"><img src="../assets/gifs/093.gif" width="100%" alt="透過 MCP 在 Unreal Engine 5.9 做 4 小時"></a><br>
 <b><a href="https://x.com/_MaxBlade/status/2120109725740159390">透過 MCP 在 Unreal Engine 5.9 做 4 小時</a></b><br>
@@ -236,6 +242,14 @@
 <br>
 <sub><a href="https://fablelist.000ooo.ooo/zh-tw/prompts/?w=4-hours-in-unreal-engine-5-9-via&ref=gh"><b>✨ 取得提示詞</b></a></sub>
 </td>
+<td width="33%" valign="top">
+<a href="https://x.com/Thaxnay/status/2123487166831734894"><img src="../assets/gifs/376.gif" width="100%" alt="把《羅摩衍那》做成角色動作遊戲"></a><br>
+<b><a href="https://x.com/Thaxnay/status/2123487166831734894">把《羅摩衍那》做成角色動作遊戲</a></b><br>
+<sub>🆕 · <a href="https://x.com/Thaxnay">@Thaxnay</a> · ♥ 1.7k · <a href="https://x.com/Thaxnay/status/2123487166831734894">▶ 影片</a></sub><br>
+
+</td>
+</tr>
+<tr>
 <td width="33%" valign="top">
 <a href="https://x.com/fe_yukichi/status/2122489950981779504"><img src="../assets/gifs/326.gif" width="100%" alt="在 Blender 裡建模的懶兔子"></a><br>
 <b><a href="https://x.com/fe_yukichi/status/2122489950981779504">在 Blender 裡建模的懶兔子</a></b><br>
@@ -249,14 +263,6 @@
 <sub>30 分鐘，搭配幾個 Opus 5.5 子 Agent。</sub><br>
 <sub><a href="https://fablelist.000ooo.ooo/zh-tw/prompts/?w=fast-camera-3d-scene&ref=gh"><b>✨ 取得提示詞</b></a></sub>
 </td>
-</tr>
-<tr>
-<td width="33%" valign="top">
-<a href="https://x.com/shiromamono/status/2122858333694730472"><img src="../assets/gifs/347.gif" width="100%" alt="女孩彈著鍵盤唱歌的 MV"></a><br>
-<b><a href="https://x.com/shiromamono/status/2122858333694730472">女孩彈著鍵盤唱歌的 MV</a></b><br>
-<sub>🆕 · <a href="https://x.com/shiromamono">@shiromamono</a> · ♥ 1.6k · <a href="https://x.com/shiromamono/status/2122858333694730472">▶ 影片</a></sub><br>
-
-</td>
 <td width="33%" valign="top">
 <a href="https://x.com/JungleSilicon/status/2120452158961397975"><img src="../assets/gifs/213.gif" width="100%" alt="像素藝術高斯潑濺"></a><br>
 <b><a href="https://x.com/JungleSilicon/status/2120452158961397975">像素藝術高斯潑濺</a></b><br>
@@ -264,14 +270,14 @@
 <br>
 <sub><a href="https://fablelist.000ooo.ooo/zh-tw/prompts/?w=pixel-art-gaussian-splats&ref=gh"><b>✨ 取得提示詞</b></a></sub>
 </td>
+</tr>
+<tr>
 <td width="33%" valign="top">
 <a href="https://x.com/ChrisGPT/status/2122866766590173419"><img src="../assets/gifs/346.gif" width="100%" alt="4 天做出的水下漂流求生遊戲"></a><br>
 <b><a href="https://x.com/ChrisGPT/status/2122866766590173419">4 天做出的水下漂流求生遊戲</a></b><br>
-<sub>🆕 · <a href="https://x.com/ChrisGPT">@ChrisGPT</a> · ♥ 1.5k · <a href="https://x.com/ChrisGPT/status/2122866766590173419">▶ 影片</a></sub><br>
+<sub><a href="https://x.com/ChrisGPT">@ChrisGPT</a> · ♥ 1.5k · <a href="https://x.com/ChrisGPT/status/2122866766590173419">▶ 影片</a></sub><br>
 
 </td>
-</tr>
-<tr>
 <td width="33%" valign="top">
 <a href="https://x.com/ryanvogel/status/2122000027543617844"><img src="../assets/gifs/304.gif" width="100%" alt="在 Blender 裡渲染的 Portal 2 短片"></a><br>
 <b><a href="https://x.com/ryanvogel/status/2122000027543617844">在 Blender 裡渲染的 Portal 2 短片</a></b><br>
@@ -285,6 +291,8 @@
 <br>
 <sub><a href="https://fablelist.000ooo.ooo/zh-tw/prompts/?w=glass-pool-fable-vs-opus&ref=gh"><b>✨ 取得提示詞</b></a></sub>
 </td>
+</tr>
+<tr>
 <td width="33%" valign="top">
 <a href="https://x.com/akakuma0219/status/2120030634248929556"><img src="../assets/gifs/155.gif" width="100%" alt="用三個字生成的 previz 跑步循環"></a><br>
 <b><a href="https://x.com/akakuma0219/status/2120030634248929556">用三個字生成的 previz 跑步循環</a></b><br>
@@ -292,8 +300,6 @@
 <br>
 <sub><a href="https://fablelist.000ooo.ooo/zh-tw/prompts/?w=previz-run-cycles-from-three-words&ref=gh"><b>✨ 取得提示詞</b></a></sub>
 </td>
-</tr>
-<tr>
 <td width="33%" valign="top">
 <a href="https://x.com/DeryaTR_/status/2120382619082727604"><img src="../assets/gifs/238.gif" width="100%" alt="T 細胞的一生，8 分鐘影片"></a><br>
 <b><a href="https://x.com/DeryaTR_/status/2120382619082727604">T 細胞的一生，8 分鐘影片</a></b><br>
@@ -304,9 +310,11 @@
 <td width="33%" valign="top">
 <a href="https://x.com/viktoroddy/status/2122711903877358056"><img src="../assets/gifs/341.gif" width="100%" alt="一組有品味的品牌到達頁"></a><br>
 <b><a href="https://x.com/viktoroddy/status/2122711903877358056">一組有品味的品牌到達頁</a></b><br>
-<sub>🆕 · <a href="https://x.com/viktoroddy">@viktoroddy</a> · ♥ 1.4k · <a href="https://x.com/viktoroddy/status/2122711903877358056">▶ 影片</a></sub><br>
+<sub><a href="https://x.com/viktoroddy">@viktoroddy</a> · ♥ 1.4k · <a href="https://x.com/viktoroddy/status/2122711903877358056">▶ 影片</a></sub><br>
 
 </td>
+</tr>
+<tr>
 <td width="33%" valign="top">
 <a href="https://x.com/RezAIT00/status/2120498246426706176"><img src="../assets/gifs/193.gif" width="100%" alt="醒來就看到這個：Blender ＋ Unreal 的遊戲場景"></a><br>
 <b><a href="https://x.com/RezAIT00/status/2120498246426706176">醒來就看到這個：Blender ＋ Unreal 的遊戲場景</a></b><br>
@@ -314,8 +322,6 @@
 <br>
 <sub><a href="https://fablelist.000ooo.ooo/zh-tw/prompts/?w=woke-up-to-this-game-environment-in-blender&ref=gh"><b>✨ 取得提示詞</b></a></sub>
 </td>
-</tr>
-<tr>
 <td width="33%" valign="top">
 <a href="https://x.com/Yokohara_h/status/2121301810363465749"><img src="../assets/gifs/325.gif" width="100%" alt="只靠簡單指示在 Blender 裡做角色動畫"></a><br>
 <b><a href="https://x.com/Yokohara_h/status/2121301810363465749">只靠簡單指示在 Blender 裡做角色動畫</a></b><br>
@@ -329,6 +335,8 @@
 <br>
 <sub><a href="https://x.com/xikhar/status/2119966147328299284">📝 作者公開的提示詞（免費）</a></sub>
 </td>
+</tr>
+<tr>
 <td width="33%" valign="top">
 <a href="https://x.com/KHvostikk/status/2119939061049889130"><img src="../assets/gifs/215.gif" width="100%" alt="影片轉 3D 動畫"></a><br>
 <b><a href="https://x.com/KHvostikk/status/2119939061049889130">影片轉 3D 動畫</a></b><br>
@@ -336,20 +344,11 @@
 <br>
 <sub><a href="https://fablelist.000ooo.ooo/zh-tw/prompts/?w=video-to-3d-animation&ref=gh"><b>✨ 取得提示詞</b></a></sub>
 </td>
-</tr>
-<tr>
 <td width="33%" valign="top">
 <a href="https://x.com/chetaslua/status/2119870650722763052"><img src="../assets/gifs/067.gif" width="100%" alt="從空資料夾長出的作業系統"></a><br>
 <b><a href="https://x.com/chetaslua/status/2119870650722763052">從空資料夾長出的作業系統</a></b><br>
 <sub><a href="https://x.com/chetaslua">@chetaslua</a> · ♥ 1.2k · <a href="https://x.com/chetaslua/status/2119870650722763052">▶ 影片</a></sub><br>
 <sub>Anthropic 的示範：1,000 多個 Agent 協同作業。</sub>
-</td>
-<td width="33%" valign="top">
-<a href="https://x.com/vib3coded/status/2119876781700505627"><img src="../assets/gifs/068.gif" width="100%" alt="讓人上癮的音量滑桿"></a><br>
-<b><a href="https://x.com/vib3coded/status/2119876781700505627">讓人上癮的音量滑桿</a></b><br>
-<sub><a href="https://x.com/vib3coded">@vib3coded</a> · ♥ 1.1k · <a href="https://x.com/vib3coded/status/2119876781700505627">▶ 影片</a></sub><br>
-<sub>10 分鐘，$8.43。</sub><br>
-<sub><a href="https://x.com/vib3coded/status/2119876781700505627">📝 作者公開的提示詞（免費）</a></sub>
 </td>
 <td width="33%" valign="top">
 <a href="https://x.com/pl4tinumeffects/status/2123074786415001972"><img src="../assets/gifs/353.gif" width="100%" alt="在 Roblox 裡重現 GTA VI 的手機玩法"></a><br>
@@ -359,6 +358,13 @@
 </td>
 </tr>
 <tr>
+<td width="33%" valign="top">
+<a href="https://x.com/vib3coded/status/2119876781700505627"><img src="../assets/gifs/068.gif" width="100%" alt="讓人上癮的音量滑桿"></a><br>
+<b><a href="https://x.com/vib3coded/status/2119876781700505627">讓人上癮的音量滑桿</a></b><br>
+<sub><a href="https://x.com/vib3coded">@vib3coded</a> · ♥ 1.1k · <a href="https://x.com/vib3coded/status/2119876781700505627">▶ 影片</a></sub><br>
+<sub>10 分鐘，$8.43。</sub><br>
+<sub><a href="https://x.com/vib3coded/status/2119876781700505627">📝 作者公開的提示詞（免費）</a></sub>
+</td>
 <td width="33%" valign="top">
 <a href="https://x.com/ericmaskfr/status/2119910195325481026"><img src="../assets/gifs/070.gif" width="100%" alt="一則提示做出 GTA 6"></a><br>
 <b><a href="https://x.com/ericmaskfr/status/2119910195325481026">一則提示做出 GTA 6</a></b><br>
@@ -372,18 +378,18 @@
 <sub><a href="https://x.com/MengTo">@MengTo</a> · ♥ 1.0k · <a href="https://x.com/MengTo/status/2121896633848017145">▶ 影片</a></sub><br>
 
 </td>
-<td width="33%" valign="top">
-<a href="https://x.com/jakemor/status/2122551786045059205"><img src="../assets/gifs/327.gif" width="100%" alt="Function：循環迭代 229 個版本做出的鍵盤"></a><br>
-<b><a href="https://x.com/jakemor/status/2122551786045059205">Function：循環迭代 229 個版本做出的鍵盤</a></b><br>
-<sub><a href="https://x.com/jakemor">@jakemor</a> · ♥ 929 · <a href="https://x.com/jakemor/status/2122551786045059205">▶ 影片</a></sub><br>
-
-</td>
 </tr>
 <tr>
 <td width="33%" valign="top">
+<a href="https://x.com/jakemor/status/2122551786045059205"><img src="../assets/gifs/327.gif" width="100%" alt="Function：循環迭代 229 個版本做出的鍵盤"></a><br>
+<b><a href="https://x.com/jakemor/status/2122551786045059205">Function：循環迭代 229 個版本做出的鍵盤</a></b><br>
+<sub><a href="https://x.com/jakemor">@jakemor</a> · ♥ 943 · <a href="https://x.com/jakemor/status/2122551786045059205">▶ 影片</a></sub><br>
+
+</td>
+<td width="33%" valign="top">
 <a href="https://x.com/maxt3chno/status/2123157986713747468"><img src="../assets/gifs/354.gif" width="100%" alt="5 小時做出的水上摩托車，和 GTA 6 比一比"></a><br>
 <b><a href="https://x.com/maxt3chno/status/2123157986713747468">5 小時做出的水上摩托車，和 GTA 6 比一比</a></b><br>
-<sub>🆕 · <a href="https://x.com/maxt3chno">@maxt3chno</a> · ♥ 898 · <a href="https://x.com/maxt3chno/status/2123157986713747468">▶ 影片</a></sub><br>
+<sub>🆕 · <a href="https://x.com/maxt3chno">@maxt3chno</a> · ♥ 903 · <a href="https://x.com/maxt3chno/status/2123157986713747468">▶ 影片</a></sub><br>
 
 </td>
 <td width="33%" valign="top">
@@ -393,37 +399,43 @@
 <br>
 <sub><a href="https://fablelist.000ooo.ooo/zh-tw/prompts/?w=a-full-apartment-design&ref=gh"><b>✨ 取得提示詞</b></a></sub>
 </td>
-<td width="33%" valign="top">
-<a href="https://x.com/kinderlayer/status/2120112222227648957"><img src="../assets/gifs/116.gif" width="100%" alt="地毯變獅子（Fable vs Gemini）"></a><br>
-<b><a href="https://x.com/kinderlayer/status/2120112222227648957">地毯變獅子（Fable vs Gemini）</a></b><br>
-<sub><a href="https://x.com/kinderlayer">@kinderlayer</a> · ♥ 878 · <a href="https://x.com/kinderlayer/status/2120112222227648957">▶ 影片</a></sub><br>
-<br>
-<sub><a href="https://fablelist.000ooo.ooo/zh-tw/prompts/?w=lion-from-a-carpet-fable-vs-gemini&ref=gh"><b>✨ 取得提示詞</b></a></sub>
-</td>
 </tr>
 <tr>
 <td width="33%" valign="top">
+<a href="https://x.com/kinderlayer/status/2120112222227648957"><img src="../assets/gifs/116.gif" width="100%" alt="地毯變獅子（Fable vs Gemini）"></a><br>
+<b><a href="https://x.com/kinderlayer/status/2120112222227648957">地毯變獅子（Fable vs Gemini）</a></b><br>
+<sub><a href="https://x.com/kinderlayer">@kinderlayer</a> · ♥ 879 · <a href="https://x.com/kinderlayer/status/2120112222227648957">▶ 影片</a></sub><br>
+<br>
+<sub><a href="https://fablelist.000ooo.ooo/zh-tw/prompts/?w=lion-from-a-carpet-fable-vs-gemini&ref=gh"><b>✨ 取得提示詞</b></a></sub>
+</td>
+<td width="33%" valign="top">
 <a href="https://x.com/nickvernij/status/2122361634190696575"><img src="../assets/gifs/321.gif" width="100%" alt="用 Street View API 生成的阿姆斯特丹街景"></a><br>
 <b><a href="https://x.com/nickvernij/status/2122361634190696575">用 Street View API 生成的阿姆斯特丹街景</a></b><br>
-<sub><a href="https://x.com/nickvernij">@nickvernij</a> · ♥ 869 · <a href="https://x.com/nickvernij/status/2122361634190696575">▶ 影片</a></sub><br>
+<sub><a href="https://x.com/nickvernij">@nickvernij</a> · ♥ 870 · <a href="https://x.com/nickvernij/status/2122361634190696575">▶ 影片</a></sub><br>
 
 </td>
 <td width="33%" valign="top">
 <a href="https://x.com/KHvostikk/status/2120621109125202344"><img src="../assets/gifs/242.gif" width="100%" alt="圖片轉帶 PBR 貼圖的 3D 模型"></a><br>
 <b><a href="https://x.com/KHvostikk/status/2120621109125202344">圖片轉帶 PBR 貼圖的 3D 模型</a></b><br>
-<sub><a href="https://x.com/KHvostikk">@KHvostikk</a> · ♥ 862 · <a href="https://x.com/KHvostikk/status/2120621109125202344">▶ 影片</a></sub><br>
+<sub><a href="https://x.com/KHvostikk">@KHvostikk</a> · ♥ 861 · <a href="https://x.com/KHvostikk/status/2120621109125202344">▶ 影片</a></sub><br>
 <br>
 <sub><a href="https://fablelist.000ooo.ooo/zh-tw/prompts/?w=image-to-3d-model-with-pbr-textures&ref=gh"><b>✨ 取得提示詞</b></a></sub>
 </td>
+</tr>
+<tr>
 <td width="33%" valign="top">
 <a href="https://x.com/tm_uchal/status/2120573380768518390"><img src="../assets/gifs/240.gif" width="100%" alt="AI 虛擬人影片"></a><br>
 <b><a href="https://x.com/tm_uchal/status/2120573380768518390">AI 虛擬人影片</a></b><br>
-<sub><a href="https://x.com/tm_uchal">@tm_uchal</a> · ♥ 840 · <a href="https://x.com/tm_uchal/status/2120573380768518390">▶ 影片</a></sub><br>
+<sub><a href="https://x.com/tm_uchal">@tm_uchal</a> · ♥ 839 · <a href="https://x.com/tm_uchal/status/2120573380768518390">▶ 影片</a></sub><br>
 <br>
 <sub><a href="https://fablelist.000ooo.ooo/zh-tw/prompts/?w=ai-avatar-video&ref=gh"><b>✨ 取得提示詞</b></a></sub>
 </td>
-</tr>
-<tr>
+<td width="33%" valign="top">
+<a href="https://x.com/AstrablueAI/status/2121635642836918385"><img src="../assets/gifs/292.gif" width="100%" alt="FABLE-OUS：一次生成的音樂錄影帶"></a><br>
+<b><a href="https://x.com/AstrablueAI/status/2121635642836918385">FABLE-OUS：一次生成的音樂錄影帶</a></b><br>
+<sub><a href="https://x.com/AstrablueAI">@AstrablueAI</a> · ♥ 810 · <a href="https://x.com/AstrablueAI/status/2121635642836918385">▶ 影片</a></sub><br>
+
+</td>
 <td width="33%" valign="top">
 <a href="https://x.com/scottstts/status/2120254108104007712"><img src="../assets/gifs/216.gif" width="100%" alt="Dragon's Nest，three.js ＋ Tripo"></a><br>
 <b><a href="https://x.com/scottstts/status/2120254108104007712">Dragon's Nest，three.js ＋ Tripo</a></b><br>
@@ -431,21 +443,21 @@
 <br>
 <sub><a href="https://fablelist.000ooo.ooo/zh-tw/prompts/?w=dragon-s-nest-three-js-tripo&ref=gh"><b>✨ 取得提示詞</b></a></sub>
 </td>
+</tr>
+<tr>
 <td width="33%" valign="top">
 <a href="https://x.com/Dstudio_ai/status/2121168620760019389"><img src="../assets/gifs/270.gif" width="100%" alt="製作 VRM 虛擬形象——眼睛貼圖、擺動部件與頸部修正，全程不用開 Blender"></a><br>
 <b><a href="https://x.com/Dstudio_ai/status/2121168620760019389">製作 VRM 虛擬形象——眼睛貼圖、擺動部件與頸部修正，全程不用開 Blender</a></b><br>
-<sub><a href="https://x.com/Dstudio_ai">@Dstudio_ai</a> · ♥ 783 · <a href="https://x.com/Dstudio_ai/status/2121168620760019389">▶ 影片</a></sub><br>
+<sub><a href="https://x.com/Dstudio_ai">@Dstudio_ai</a> · ♥ 786 · <a href="https://x.com/Dstudio_ai/status/2121168620760019389">▶ 影片</a></sub><br>
 
 </td>
 <td width="33%" valign="top">
 <a href="https://x.com/jaimintf/status/2120553374286594292"><img src="../assets/gifs/243.gif" width="100%" alt="訂票前先看火車座位視野"></a><br>
 <b><a href="https://x.com/jaimintf/status/2120553374286594292">訂票前先看火車座位視野</a></b><br>
-<sub><a href="https://x.com/jaimintf">@jaimintf</a> · ♥ 772 · <a href="https://x.com/jaimintf/status/2120553374286594292">▶ 影片</a></sub><br>
+<sub><a href="https://x.com/jaimintf">@jaimintf</a> · ♥ 773 · <a href="https://x.com/jaimintf/status/2120553374286594292">▶ 影片</a></sub><br>
 <br>
 <sub><a href="https://fablelist.000ooo.ooo/zh-tw/prompts/?w=train-seat-view-before-you-book&ref=gh"><b>✨ 取得提示詞</b></a></sub>
 </td>
-</tr>
-<tr>
 <td width="33%" valign="top">
 <a href="https://x.com/kevin_t_ngo/status/2119972124211454139"><img src="../assets/gifs/165.gif" width="100%" alt="90 年代玩具廣告"></a><br>
 <b><a href="https://x.com/kevin_t_ngo/status/2119972124211454139">90 年代玩具廣告</a></b><br>
@@ -453,21 +465,22 @@
 <br>
 <sub><a href="https://fablelist.000ooo.ooo/zh-tw/prompts/?w=a-90s-toy-commercial&ref=gh"><b>✨ 取得提示詞</b></a></sub>
 </td>
+</tr>
+<tr>
 <td width="33%" valign="top">
 <a href="https://x.com/rute1203d/status/2120077147872391540"><img src="../assets/gifs/158.gif" width="100%" alt="「讓我看看你最好的影片」——帶點轉折"></a><br>
 <b><a href="https://x.com/rute1203d/status/2120077147872391540">「讓我看看你最好的影片」——帶點轉折</a></b><br>
-<sub><a href="https://x.com/rute1203d">@rute1203d</a> · ♥ 764 · <a href="https://x.com/rute1203d/status/2120077147872391540">▶ 影片</a></sub><br>
+<sub><a href="https://x.com/rute1203d">@rute1203d</a> · ♥ 765 · <a href="https://x.com/rute1203d/status/2120077147872391540">▶ 影片</a></sub><br>
 <br>
 <sub><a href="https://fablelist.000ooo.ooo/zh-tw/prompts/?w=show-me-your-best-video-with-a-twist&ref=gh"><b>✨ 取得提示詞</b></a></sub>
 </td>
 <td width="33%" valign="top">
-<a href="https://x.com/AstrablueAI/status/2121635642836918385"><img src="../assets/gifs/292.gif" width="100%" alt="FABLE-OUS：一次生成的音樂錄影帶"></a><br>
-<b><a href="https://x.com/AstrablueAI/status/2121635642836918385">FABLE-OUS：一次生成的音樂錄影帶</a></b><br>
-<sub><a href="https://x.com/AstrablueAI">@AstrablueAI</a> · ♥ 750 · <a href="https://x.com/AstrablueAI/status/2121635642836918385">▶ 影片</a></sub><br>
-
+<a href="https://x.com/WesRoth/status/2119953913160093817"><img src="../assets/gifs/071.gif" width="100%" alt="一次到位的短影音"></a><br>
+<b><a href="https://x.com/WesRoth/status/2119953913160093817">一次到位的短影音</a></b><br>
+<sub><a href="https://x.com/WesRoth">@WesRoth</a> · ♥ 746 · <a href="https://x.com/WesRoth/status/2119953913160093817">▶ 影片</a></sub><br>
+<br>
+<sub><a href="https://fablelist.000ooo.ooo/zh-tw/prompts/?w=one-shot-reel&ref=gh"><b>✨ 取得提示詞</b></a></sub>
 </td>
-</tr>
-<tr>
 <td width="33%" valign="top">
 <a href="https://x.com/anikrisn/status/2119950148294119483"><img src="../assets/gifs/241.gif" width="100%" alt="發光的等角池塘縮景"></a><br>
 <b><a href="https://x.com/anikrisn/status/2119950148294119483">發光的等角池塘縮景</a></b><br>
@@ -475,26 +488,19 @@
 <br>
 <sub><a href="https://fablelist.000ooo.ooo/zh-tw/prompts/?w=glowing-isometric-pond-diorama&ref=gh"><b>✨ 取得提示詞</b></a></sub>
 </td>
-<td width="33%" valign="top">
-<a href="https://x.com/WesRoth/status/2119953913160093817"><img src="../assets/gifs/071.gif" width="100%" alt="一次到位的短影音"></a><br>
-<b><a href="https://x.com/WesRoth/status/2119953913160093817">一次到位的短影音</a></b><br>
-<sub><a href="https://x.com/WesRoth">@WesRoth</a> · ♥ 745 · <a href="https://x.com/WesRoth/status/2119953913160093817">▶ 影片</a></sub><br>
-<br>
-<sub><a href="https://fablelist.000ooo.ooo/zh-tw/prompts/?w=one-shot-reel&ref=gh"><b>✨ 取得提示詞</b></a></sub>
-</td>
-<td width="33%" valign="top">
-<a href="https://x.com/JaydenDavisNC/status/2120306434575392793"><img src="../assets/gifs/194.gif" width="100%" alt="Three.js 第一人稱射擊，無外部素材"></a><br>
-<b><a href="https://x.com/JaydenDavisNC/status/2120306434575392793">Three.js 第一人稱射擊，無外部素材</a></b><br>
-<sub><a href="https://x.com/JaydenDavisNC">@JaydenDavisNC</a> · ♥ 736 · <a href="https://x.com/JaydenDavisNC/status/2120306434575392793">▶ 影片</a></sub><br>
-<br>
-<sub><a href="https://fablelist.000ooo.ooo/zh-tw/prompts/?w=a-first-person-shooter-in-three-js-no&ref=gh"><b>✨ 取得提示詞</b></a></sub>
-</td>
 </tr>
 <tr>
 <td width="33%" valign="top">
+<a href="https://x.com/JaydenDavisNC/status/2120306434575392793"><img src="../assets/gifs/194.gif" width="100%" alt="Three.js 第一人稱射擊，無外部素材"></a><br>
+<b><a href="https://x.com/JaydenDavisNC/status/2120306434575392793">Three.js 第一人稱射擊，無外部素材</a></b><br>
+<sub><a href="https://x.com/JaydenDavisNC">@JaydenDavisNC</a> · ♥ 737 · <a href="https://x.com/JaydenDavisNC/status/2120306434575392793">▶ 影片</a></sub><br>
+<br>
+<sub><a href="https://fablelist.000ooo.ooo/zh-tw/prompts/?w=a-first-person-shooter-in-three-js-no&ref=gh"><b>✨ 取得提示詞</b></a></sub>
+</td>
+<td width="33%" valign="top">
 <a href="https://x.com/adamdotnew/status/2120071630139621540"><img src="../assets/gifs/157.gif" width="100%" alt="電子雞：電路板、外殼與渲染"></a><br>
 <b><a href="https://x.com/adamdotnew/status/2120071630139621540">電子雞：電路板、外殼與渲染</a></b><br>
-<sub><a href="https://x.com/adamdotnew">@adamdotnew</a> · ♥ 704 · <a href="https://x.com/adamdotnew/status/2120071630139621540">▶ 影片</a></sub><br>
+<sub><a href="https://x.com/adamdotnew">@adamdotnew</a> · ♥ 705 · <a href="https://x.com/adamdotnew/status/2120071630139621540">▶ 影片</a></sub><br>
 <br>
 <sub><a href="https://fablelist.000ooo.ooo/zh-tw/prompts/?w=a-tamagotchi-pcb-enclosure-and-render&ref=gh"><b>✨ 取得提示詞</b></a></sub>
 </td>
@@ -505,15 +511,21 @@
 <br>
 <sub><a href="https://fablelist.000ooo.ooo/zh-tw/prompts/?w=aaa-three-js-basketball&ref=gh"><b>✨ 取得提示詞</b></a></sub>
 </td>
+</tr>
+<tr>
 <td width="33%" valign="top">
 <a href="https://x.com/op7418/status/2120085300185833878"><img src="../assets/gifs/076.gif" width="100%" alt="Ink letters"></a><br>
 <b><a href="https://x.com/op7418/status/2120085300185833878">Ink letters</a></b><br>
-<sub><a href="https://x.com/op7418">@op7418</a> · ♥ 687 · <a href="https://x.com/op7418/status/2120085300185833878">▶ 影片</a></sub><br>
+<sub><a href="https://x.com/op7418">@op7418</a> · ♥ 686 · <a href="https://x.com/op7418/status/2120085300185833878">▶ 影片</a></sub><br>
 <sub>輸入一個字元，它就變成即時流動的墨水，還有聲音。</sub><br>
 <sub><a href="https://fablelist.000ooo.ooo/zh-tw/prompts/?w=ink-letters&ref=gh"><b>✨ 取得提示詞</b></a></sub>
 </td>
-</tr>
-<tr>
+<td width="33%" valign="top">
+<a href="https://x.com/nikosolenne/status/2122497144976261202"><img src="../assets/gifs/342.gif" width="100%" alt="來自一個你會想雇來當設計師的模型的網站設計"></a><br>
+<b><a href="https://x.com/nikosolenne/status/2122497144976261202">來自一個你會想雇來當設計師的模型的網站設計</a></b><br>
+<sub><a href="https://x.com/nikosolenne">@nikosolenne</a> · ♥ 677 · <a href="https://x.com/nikosolenne/status/2122497144976261202">▶ 影片</a></sub><br>
+
+</td>
 <td width="33%" valign="top">
 <a href="https://x.com/kevin_t_ngo/status/2120308118127309173"><img src="../assets/gifs/166.gif" width="100%" alt="90 年代穀片廣告"></a><br>
 <b><a href="https://x.com/kevin_t_ngo/status/2120308118127309173">90 年代穀片廣告</a></b><br>
@@ -521,12 +533,8 @@
 <br>
 <sub><a href="https://fablelist.000ooo.ooo/zh-tw/prompts/?w=a-90s-cereal-commercial&ref=gh"><b>✨ 取得提示詞</b></a></sub>
 </td>
-<td width="33%" valign="top">
-<a href="https://x.com/nikosolenne/status/2122497144976261202"><img src="../assets/gifs/342.gif" width="100%" alt="來自一個你會想雇來當設計師的模型的網站設計"></a><br>
-<b><a href="https://x.com/nikosolenne/status/2122497144976261202">來自一個你會想雇來當設計師的模型的網站設計</a></b><br>
-<sub>🆕 · <a href="https://x.com/nikosolenne">@nikosolenne</a> · ♥ 676 · <a href="https://x.com/nikosolenne/status/2122497144976261202">▶ 影片</a></sub><br>
-
-</td>
+</tr>
+<tr>
 <td width="33%" valign="top">
 <a href="https://x.com/ICO_AIvideo/status/2120311646933680355"><img src="../assets/gifs/195.gif" width="100%" alt="Blender 做的循環短片"></a><br>
 <b><a href="https://x.com/ICO_AIvideo/status/2120311646933680355">Blender 做的循環短片</a></b><br>
@@ -534,8 +542,6 @@
 <br>
 <sub><a href="https://fablelist.000ooo.ooo/zh-tw/prompts/?w=a-looping-short-made-in-blender&ref=gh"><b>✨ 取得提示詞</b></a></sub>
 </td>
-</tr>
-<tr>
 <td width="33%" valign="top">
 <a href="https://x.com/KanaWorks_AI/status/2120098607382880627"><img src="../assets/gifs/159.gif" width="100%" alt="37 秒不剪接飛越無盡地形"></a><br>
 <b><a href="https://x.com/KanaWorks_AI/status/2120098607382880627">37 秒不剪接飛越無盡地形</a></b><br>
@@ -550,6 +556,8 @@
 <br>
 <sub><a href="https://fablelist.000ooo.ooo/zh-tw/prompts/?w=a-data-pipeline-write-up-that-became-a&ref=gh"><b>✨ 取得提示詞</b></a></sub>
 </td>
+</tr>
+<tr>
 <td width="33%" valign="top">
 <a href="https://x.com/LexnLin/status/2120167637133238295"><img src="../assets/gifs/160.gif" width="100%" alt="Claude 標誌動畫"></a><br>
 <b><a href="https://x.com/LexnLin/status/2120167637133238295">Claude 標誌動畫</a></b><br>
@@ -557,30 +565,28 @@
 <br>
 <sub><a href="https://fablelist.000ooo.ooo/zh-tw/prompts/?w=claude-logo-animation&ref=gh"><b>✨ 取得提示詞</b></a></sub>
 </td>
-</tr>
-<tr>
 <td width="33%" valign="top">
 <a href="https://x.com/lemomo_ai/status/2120118194409193682"><img src="../assets/gifs/103.gif" width="100%" alt="午夜的圖書館"></a><br>
 <b><a href="https://x.com/lemomo_ai/status/2120118194409193682">午夜的圖書館</a></b><br>
-<sub><a href="https://x.com/lemomo_ai">@lemomo_ai</a> · ♥ 623 · <a href="https://x.com/lemomo_ai/status/2120118194409193682">▶ 影片</a></sub><br>
+<sub><a href="https://x.com/lemomo_ai">@lemomo_ai</a> · ♥ 624 · <a href="https://x.com/lemomo_ai/status/2120118194409193682">▶ 影片</a></sub><br>
 <sub>24,000 頁書頁飛向空中。</sub><br>
 <sub><a href="https://fablelist.000ooo.ooo/zh-tw/prompts/?w=a-library-at-midnight&ref=gh"><b>✨ 取得提示詞</b></a></sub>
 </td>
 <td width="33%" valign="top">
 <a href="https://x.com/PhotoGarrido/status/2122292866894680476"><img src="../assets/gifs/322.gif" width="100%" alt="Houdini 瀑布基準測試"></a><br>
 <b><a href="https://x.com/PhotoGarrido/status/2122292866894680476">Houdini 瀑布基準測試</a></b><br>
-<sub><a href="https://x.com/PhotoGarrido">@PhotoGarrido</a> · ♥ 622 · <a href="https://x.com/PhotoGarrido/status/2122292866894680476">▶ 影片</a></sub><br>
+<sub><a href="https://x.com/PhotoGarrido">@PhotoGarrido</a> · ♥ 621 · <a href="https://x.com/PhotoGarrido/status/2122292866894680476">▶ 影片</a></sub><br>
 
-</td>
-<td width="33%" valign="top">
-<a href="https://x.com/mxvdl/status/2120809570344050705"><img src="../assets/gifs/245.gif" width="100%" alt="Three.js 筆觸著色器解析"></a><br>
-<b><a href="https://x.com/mxvdl/status/2120809570344050705">Three.js 筆觸著色器解析</a></b><br>
-<sub><a href="https://x.com/mxvdl">@mxvdl</a> · ♥ 603 · <a href="https://x.com/mxvdl/status/2120809570344050705">▶ 影片</a></sub><br>
-<br>
-<sub><a href="https://fablelist.000ooo.ooo/zh-tw/prompts/?w=three-js-brush-stroke-shader-breakdown&ref=gh"><b>✨ 取得提示詞</b></a></sub>
 </td>
 </tr>
 <tr>
+<td width="33%" valign="top">
+<a href="https://x.com/mxvdl/status/2120809570344050705"><img src="../assets/gifs/245.gif" width="100%" alt="Three.js 筆觸著色器解析"></a><br>
+<b><a href="https://x.com/mxvdl/status/2120809570344050705">Three.js 筆觸著色器解析</a></b><br>
+<sub><a href="https://x.com/mxvdl">@mxvdl</a> · ♥ 604 · <a href="https://x.com/mxvdl/status/2120809570344050705">▶ 影片</a></sub><br>
+<br>
+<sub><a href="https://fablelist.000ooo.ooo/zh-tw/prompts/?w=three-js-brush-stroke-shader-breakdown&ref=gh"><b>✨ 取得提示詞</b></a></sub>
+</td>
 <td width="33%" valign="top">
 <a href="https://x.com/kevin_t_ngo/status/2120540964909711415"><img src="../assets/gifs/167.gif" width="100%" alt="動畫節目片頭"></a><br>
 <b><a href="https://x.com/kevin_t_ngo/status/2120540964909711415">動畫節目片頭</a></b><br>
@@ -591,19 +597,19 @@
 <td width="33%" valign="top">
 <a href="https://x.com/MrTacticalX/status/2120342453807157720"><img src="../assets/gifs/161.gif" width="100%" alt="Blender 裡的機械鍵盤，連打字都有"></a><br>
 <b><a href="https://x.com/MrTacticalX/status/2120342453807157720">Blender 裡的機械鍵盤，連打字都有</a></b><br>
-<sub><a href="https://x.com/MrTacticalX">@MrTacticalX</a> · ♥ 561 · <a href="https://x.com/MrTacticalX/status/2120342453807157720">▶ 影片</a></sub><br>
+<sub><a href="https://x.com/MrTacticalX">@MrTacticalX</a> · ♥ 560 · <a href="https://x.com/MrTacticalX/status/2120342453807157720">▶ 影片</a></sub><br>
 <br>
 <sub><a href="https://fablelist.000ooo.ooo/zh-tw/prompts/?w=a-mechanical-keyboard-in-blender-typing-included&ref=gh"><b>✨ 取得提示詞</b></a></sub>
 </td>
+</tr>
+<tr>
 <td width="33%" valign="top">
 <a href="https://x.com/dom_scholz/status/2119933150025363661"><img src="../assets/gifs/072.gif" width="100%" alt="Opus 5.5 vs Fable 5.2"></a><br>
 <b><a href="https://x.com/dom_scholz/status/2119933150025363661">Opus 5.5 vs Fable 5.2</a></b><br>
-<sub><a href="https://x.com/dom_scholz">@dom_scholz</a> · ♥ 557 · <a href="https://x.com/dom_scholz/status/2119933150025363661">▶ 影片</a></sub><br>
+<sub><a href="https://x.com/dom_scholz">@dom_scholz</a> · ♥ 559 · <a href="https://x.com/dom_scholz/status/2119933150025363661">▶ 影片</a></sub><br>
 <br>
 <sub><a href="https://fablelist.000ooo.ooo/zh-tw/prompts/?w=opus-5-5-vs-fable-5-2&ref=gh"><b>✨ 取得提示詞</b></a></sub>
 </td>
-</tr>
-<tr>
 <td width="33%" valign="top">
 <a href="https://x.com/thomaszhou_/status/2120389154970509666"><img src="../assets/gifs/162.gif" width="100%" alt="「Beauty」：一句話生成的短片"></a><br>
 <b><a href="https://x.com/thomaszhou_/status/2120389154970509666">「Beauty」：一句話生成的短片</a></b><br>
@@ -614,50 +620,58 @@
 <td width="33%" valign="top">
 <a href="https://x.com/MengTo/status/2120316203738829180"><img src="../assets/gifs/196.gif" width="100%" alt="在 Blender 重現的 three.js 公寓"></a><br>
 <b><a href="https://x.com/MengTo/status/2120316203738829180">在 Blender 重現的 three.js 公寓</a></b><br>
-<sub><a href="https://x.com/MengTo">@MengTo</a> · ♥ 514 · <a href="https://x.com/MengTo/status/2120316203738829180">▶ 影片</a></sub><br>
+<sub><a href="https://x.com/MengTo">@MengTo</a> · ♥ 517 · <a href="https://x.com/MengTo/status/2120316203738829180">▶ 影片</a></sub><br>
 <br>
 <sub><a href="https://fablelist.000ooo.ooo/zh-tw/prompts/?w=a-three-js-apartment-recreated-in-blender&ref=gh"><b>✨ 取得提示詞</b></a></sub>
 </td>
+</tr>
+<tr>
 <td width="33%" valign="top">
 <a href="https://x.com/rileybrown/status/2119973951027724385"><img src="../assets/gifs/078.gif" width="100%" alt="Fable 剪輯的「用 Fable 剪輯」影片"></a><br>
 <b><a href="https://x.com/rileybrown/status/2119973951027724385">Fable 剪輯的「用 Fable 剪輯」影片</a></b><br>
 <sub><a href="https://x.com/rileybrown">@rileybrown</a> · ♥ 504 · <a href="https://x.com/rileybrown/status/2119973951027724385">▶ 影片</a></sub><br>
 
 </td>
-</tr>
-<tr>
 <td width="33%" valign="top">
 <a href="https://x.com/oalanicolas/status/2120266468780585456"><img src="../assets/gifs/163.gif" width="100%" alt="尚未蓋好的房子的導覽"></a><br>
 <b><a href="https://x.com/oalanicolas/status/2120266468780585456">尚未蓋好的房子的導覽</a></b><br>
-<sub><a href="https://x.com/oalanicolas">@oalanicolas</a> · ♥ 501 · <a href="https://x.com/oalanicolas/status/2120266468780585456">▶ 影片</a></sub><br>
+<sub><a href="https://x.com/oalanicolas">@oalanicolas</a> · ♥ 500 · <a href="https://x.com/oalanicolas/status/2120266468780585456">▶ 影片</a></sub><br>
 <br>
 <sub><a href="https://x.com/oalanicolas/status/2120266468780585456">📝 作者公開的提示詞（免費）</a></sub>
 </td>
 <td width="33%" valign="top">
 <a href="https://x.com/lucian__03/status/2120197600255361025"><img src="../assets/gifs/255.gif" width="100%" alt="寫實 3D 農場遊戲，純程式碼，4 小時 3 則提示"></a><br>
 <b><a href="https://x.com/lucian__03/status/2120197600255361025">寫實 3D 農場遊戲，純程式碼，4 小時 3 則提示</a></b><br>
-<sub><a href="https://x.com/lucian__03">@lucian__03</a> · ♥ 494 · <a href="https://x.com/lucian__03/status/2120197600255361025">▶ 影片</a></sub><br>
+<sub><a href="https://x.com/lucian__03">@lucian__03</a> · ♥ 493 · <a href="https://x.com/lucian__03/status/2120197600255361025">▶ 影片</a></sub><br>
 <br>
 <sub><a href="https://fablelist.000ooo.ooo/zh-tw/prompts/?w=realistic-3d-farm-game-pure-code-3-prompts&ref=gh"><b>✨ 取得提示詞</b></a></sub>
-</td>
-<td width="33%" valign="top">
-<a href="https://x.com/seiiiiiiiiiiru/status/2121724395354018201"><img src="../assets/gifs/296.gif" width="100%" alt="Claude x Blender 動作捕捉"></a><br>
-<b><a href="https://x.com/seiiiiiiiiiiru/status/2121724395354018201">Claude x Blender 動作捕捉</a></b><br>
-<sub><a href="https://x.com/seiiiiiiiiiiru">@seiiiiiiiiiiru</a> · ♥ 491 · <a href="https://x.com/seiiiiiiiiiiru/status/2121724395354018201">▶ 影片</a></sub><br>
-
 </td>
 </tr>
 <tr>
 <td width="33%" valign="top">
+<a href="https://x.com/seiiiiiiiiiiru/status/2121724395354018201"><img src="../assets/gifs/296.gif" width="100%" alt="Claude x Blender 動作捕捉"></a><br>
+<b><a href="https://x.com/seiiiiiiiiiiru/status/2121724395354018201">Claude x Blender 動作捕捉</a></b><br>
+<sub><a href="https://x.com/seiiiiiiiiiiru">@seiiiiiiiiiiru</a> · ♥ 492 · <a href="https://x.com/seiiiiiiiiiiru/status/2121724395354018201">▶ 影片</a></sub><br>
+
+</td>
+<td width="33%" valign="top">
 <a href="https://x.com/MartinOesterhel/status/2120464036030517525"><img src="../assets/gifs/283.gif" width="100%" alt="土壤質地三角圖的預告片"></a><br>
 <b><a href="https://x.com/MartinOesterhel/status/2120464036030517525">土壤質地三角圖的預告片</a></b><br>
-<sub><a href="https://x.com/MartinOesterhel">@MartinOesterhel</a> · ♥ 489 · <a href="https://x.com/MartinOesterhel/status/2120464036030517525">▶ 影片</a></sub><br>
+<sub><a href="https://x.com/MartinOesterhel">@MartinOesterhel</a> · ♥ 488 · <a href="https://x.com/MartinOesterhel/status/2120464036030517525">▶ 影片</a></sub><br>
 
 </td>
 <td width="33%" valign="top">
 <a href="https://x.com/jeanalexandre_b/status/2120783430606840084"><img src="../assets/gifs/287.gif" width="100%" alt="用 10 萬個色點重畫一張照片，只用程式碼"></a><br>
 <b><a href="https://x.com/jeanalexandre_b/status/2120783430606840084">用 10 萬個色點重畫一張照片，只用程式碼</a></b><br>
 <sub><a href="https://x.com/jeanalexandre_b">@jeanalexandre_b</a> · ♥ 480 · <a href="https://x.com/jeanalexandre_b/status/2120783430606840084">▶ 影片</a></sub><br>
+
+</td>
+</tr>
+<tr>
+<td width="33%" valign="top">
+<a href="https://x.com/gavinpurcell/status/2121407421465985382"><img src="../assets/gifs/286.gif" width="100%" alt="喉嚨義大利麵西部片 最終章"></a><br>
+<b><a href="https://x.com/gavinpurcell/status/2121407421465985382">喉嚨義大利麵西部片 最終章</a></b><br>
+<sub><a href="https://x.com/gavinpurcell">@gavinpurcell</a> · ♥ 476 · <a href="https://x.com/gavinpurcell/status/2121407421465985382">▶ 影片</a></sub><br>
 
 </td>
 <td width="33%" valign="top">
@@ -667,21 +681,15 @@
 <br>
 <sub><a href="https://x.com/semichenkko/status/2119960596951236675">📝 作者公開的提示詞（免費）</a></sub>
 </td>
-</tr>
-<tr>
-<td width="33%" valign="top">
-<a href="https://x.com/gavinpurcell/status/2121407421465985382"><img src="../assets/gifs/286.gif" width="100%" alt="喉嚨義大利麵西部片 最終章"></a><br>
-<b><a href="https://x.com/gavinpurcell/status/2121407421465985382">喉嚨義大利麵西部片 最終章</a></b><br>
-<sub><a href="https://x.com/gavinpurcell">@gavinpurcell</a> · ♥ 474 · <a href="https://x.com/gavinpurcell/status/2121407421465985382">▶ 影片</a></sub><br>
-
-</td>
 <td width="33%" valign="top">
 <a href="https://x.com/Stefan_3D_AI/status/2120773803869659150"><img src="../assets/gifs/244.gif" width="100%" alt="6 分鐘從提示做出無縫 PBR 材質"></a><br>
 <b><a href="https://x.com/Stefan_3D_AI/status/2120773803869659150">6 分鐘從提示做出無縫 PBR 材質</a></b><br>
-<sub><a href="https://x.com/Stefan_3D_AI">@Stefan_3D_AI</a> · ♥ 471 · <a href="https://x.com/Stefan_3D_AI/status/2120773803869659150">▶ 影片</a></sub><br>
+<sub><a href="https://x.com/Stefan_3D_AI">@Stefan_3D_AI</a> · ♥ 470 · <a href="https://x.com/Stefan_3D_AI/status/2120773803869659150">▶ 影片</a></sub><br>
 <br>
 <sub><a href="https://fablelist.000ooo.ooo/zh-tw/prompts/?w=prompt-to-seamless-pbr-material-in-6-minutes&ref=gh"><b>✨ 取得提示詞</b></a></sub>
 </td>
+</tr>
+<tr>
 <td width="33%" valign="top">
 <a href="https://x.com/mattshumer_/status/2119900920347828670"><img src="../assets/gifs/073.gif" width="100%" alt="整部電影都是程式碼"></a><br>
 <b><a href="https://x.com/mattshumer_/status/2119900920347828670">整部電影都是程式碼</a></b><br>
@@ -689,8 +697,6 @@
 <sub>配音、畫面，一切都是。</sub><br>
 <sub><a href="https://fablelist.000ooo.ooo/zh-tw/prompts/?w=a-whole-movie-in-code&ref=gh"><b>✨ 取得提示詞</b></a></sub>
 </td>
-</tr>
-<tr>
 <td width="33%" valign="top">
 <a href="https://x.com/amrnth0/status/2120849097871810973"><img src="../assets/gifs/284.gif" width="100%" alt="用動畫解說 Railway 遭駭事件"></a><br>
 <b><a href="https://x.com/amrnth0/status/2120849097871810973">用動畫解說 Railway 遭駭事件</a></b><br>
@@ -700,13 +706,7 @@
 <td width="33%" valign="top">
 <a href="https://x.com/withbassam/status/2121536898976100486"><img src="../assets/gifs/312.gif" width="100%" alt="阿拉伯語星名的星圖"></a><br>
 <b><a href="https://x.com/withbassam/status/2121536898976100486">阿拉伯語星名的星圖</a></b><br>
-<sub><a href="https://x.com/withbassam">@withbassam</a> · ♥ 456 · <a href="https://x.com/withbassam/status/2121536898976100486">▶ 影片</a></sub><br>
-
-</td>
-<td width="33%" valign="top">
-<a href="https://x.com/Vtuber7144/status/2121739961938428167"><img src="../assets/gifs/305.gif" width="100%" alt="把雜訊多的參考圖變成乾淨的賽璐璐畫風"></a><br>
-<b><a href="https://x.com/Vtuber7144/status/2121739961938428167">把雜訊多的參考圖變成乾淨的賽璐璐畫風</a></b><br>
-<sub><a href="https://x.com/Vtuber7144">@Vtuber7144</a> · ♥ 445 · <a href="https://x.com/Vtuber7144/status/2121739961938428167">▶ 影片</a></sub><br>
+<sub><a href="https://x.com/withbassam">@withbassam</a> · ♥ 458 · <a href="https://x.com/withbassam/status/2121536898976100486">▶ 影片</a></sub><br>
 
 </td>
 </tr>
@@ -714,7 +714,13 @@
 <td width="33%" valign="top">
 <a href="https://x.com/so_ainsight/status/2121970275353010214"><img src="../assets/gifs/343.gif" width="100%" alt="不靠 Higgsfield 或 HeyGen 的 AI 虛擬人影片"></a><br>
 <b><a href="https://x.com/so_ainsight/status/2121970275353010214">不靠 Higgsfield 或 HeyGen 的 AI 虛擬人影片</a></b><br>
-<sub>🆕 · <a href="https://x.com/so_ainsight">@so_ainsight</a> · ♥ 444 · <a href="https://x.com/so_ainsight/status/2121970275353010214">▶ 影片</a></sub><br>
+<sub><a href="https://x.com/so_ainsight">@so_ainsight</a> · ♥ 446 · <a href="https://x.com/so_ainsight/status/2121970275353010214">▶ 影片</a></sub><br>
+
+</td>
+<td width="33%" valign="top">
+<a href="https://x.com/Vtuber7144/status/2121739961938428167"><img src="../assets/gifs/305.gif" width="100%" alt="把雜訊多的參考圖變成乾淨的賽璐璐畫風"></a><br>
+<b><a href="https://x.com/Vtuber7144/status/2121739961938428167">把雜訊多的參考圖變成乾淨的賽璐璐畫風</a></b><br>
+<sub><a href="https://x.com/Vtuber7144">@Vtuber7144</a> · ♥ 445 · <a href="https://x.com/Vtuber7144/status/2121739961938428167">▶ 影片</a></sub><br>
 
 </td>
 <td width="33%" valign="top">
@@ -724,20 +730,20 @@
 <br>
 <sub><a href="https://fablelist.000ooo.ooo/zh-tw/prompts/?w=swiftui-eye-color-app&ref=gh"><b>✨ 取得提示詞</b></a></sub>
 </td>
+</tr>
+<tr>
+<td width="33%" valign="top">
+<a href="https://x.com/gavinpurcell/status/2120581152054583369"><img src="../assets/gifs/285.gif" width="100%" alt="喉嚨義大利麵西部片 第二章"></a><br>
+<b><a href="https://x.com/gavinpurcell/status/2120581152054583369">喉嚨義大利麵西部片 第二章</a></b><br>
+<sub><a href="https://x.com/gavinpurcell">@gavinpurcell</a> · ♥ 428 · <a href="https://x.com/gavinpurcell/status/2120581152054583369">▶ 影片</a></sub><br>
+
+</td>
 <td width="33%" valign="top">
 <a href="https://x.com/jsnnsa/status/2120161161803088061"><img src="../assets/gifs/164.gif" width="100%" alt="設計了一款字體，再拍一部關於它的紀錄片"></a><br>
 <b><a href="https://x.com/jsnnsa/status/2120161161803088061">設計了一款字體，再拍一部關於它的紀錄片</a></b><br>
 <sub><a href="https://x.com/jsnnsa">@jsnnsa</a> · ♥ 427 · <a href="https://x.com/jsnnsa/status/2120161161803088061">▶ 影片</a></sub><br>
 <br>
 <sub><a href="https://fablelist.000ooo.ooo/zh-tw/prompts/?w=designed-a-font-then-a-documentary-about-it&ref=gh"><b>✨ 取得提示詞</b></a></sub>
-</td>
-</tr>
-<tr>
-<td width="33%" valign="top">
-<a href="https://x.com/gavinpurcell/status/2120581152054583369"><img src="../assets/gifs/285.gif" width="100%" alt="喉嚨義大利麵西部片 第二章"></a><br>
-<b><a href="https://x.com/gavinpurcell/status/2120581152054583369">喉嚨義大利麵西部片 第二章</a></b><br>
-<sub><a href="https://x.com/gavinpurcell">@gavinpurcell</a> · ♥ 427 · <a href="https://x.com/gavinpurcell/status/2120581152054583369">▶ 影片</a></sub><br>
-
 </td>
 <td width="33%" valign="top">
 <a href="https://x.com/themianoo/status/2120042064666882266"><img src="../assets/gifs/090.gif" width="100%" alt="Blender 裡騎腳踏車的鵜鶘"></a><br>
@@ -746,14 +752,14 @@
 <sub>約 4,800 行 Python、444 幀。</sub><br>
 <sub><a href="https://fablelist.000ooo.ooo/zh-tw/prompts/?w=pelican-riding-a-bicycle-in-blender&ref=gh"><b>✨ 取得提示詞</b></a></sub>
 </td>
+</tr>
+<tr>
 <td width="33%" valign="top">
 <a href="https://x.com/seftsaint/status/2121931382255755691"><img src="../assets/gifs/306.gif" width="100%" alt="遊戲 Ashira2093 的城市導覽"></a><br>
 <b><a href="https://x.com/seftsaint/status/2121931382255755691">遊戲 Ashira2093 的城市導覽</a></b><br>
-<sub><a href="https://x.com/seftsaint">@seftsaint</a> · ♥ 375 · <a href="https://x.com/seftsaint/status/2121931382255755691">▶ 影片</a></sub><br>
+<sub><a href="https://x.com/seftsaint">@seftsaint</a> · ♥ 373 · <a href="https://x.com/seftsaint/status/2121931382255755691">▶ 影片</a></sub><br>
 
 </td>
-</tr>
-<tr>
 <td width="33%" valign="top">
 <a href="https://x.com/Izkimar/status/2119931740940640542"><img src="../assets/gifs/079.gif" width="100%" alt="一天做出風格化 MMO 世界"></a><br>
 <b><a href="https://x.com/Izkimar/status/2119931740940640542">一天做出風格化 MMO 世界</a></b><br>
@@ -768,6 +774,8 @@
 <br>
 <sub><a href="https://fablelist.000ooo.ooo/zh-tw/prompts/?w=rocket-launch-fable-vs-opus&ref=gh"><b>✨ 取得提示詞</b></a></sub>
 </td>
+</tr>
+<tr>
 <td width="33%" valign="top">
 <a href="https://x.com/RuslanKyrch/status/2119896220814762218"><img src="../assets/gifs/081.gif" width="100%" alt="App 改版，5.1 vs 5.2"></a><br>
 <b><a href="https://x.com/RuslanKyrch/status/2119896220814762218">App 改版，5.1 vs 5.2</a></b><br>
@@ -775,8 +783,6 @@
 <br>
 <sub><a href="https://fablelist.000ooo.ooo/zh-tw/prompts/?w=app-redesign-5-1-vs-5-2&ref=gh"><b>✨ 取得提示詞</b></a></sub>
 </td>
-</tr>
-<tr>
 <td width="33%" valign="top">
 <a href="https://x.com/Stefan_3D_AI/status/2120041169719894165"><img src="../assets/gifs/089.gif" width="100%" alt="Blender 城堡（Fable vs Opus）"></a><br>
 <b><a href="https://x.com/Stefan_3D_AI/status/2120041169719894165">Blender 城堡（Fable vs Opus）</a></b><br>
@@ -791,15 +797,15 @@
 <br>
 <sub><a href="https://fablelist.000ooo.ooo/zh-tw/prompts/?w=an-ad-with-the-elevenlabs-mcp&ref=gh"><b>✨ 取得提示詞</b></a></sub>
 </td>
+</tr>
+<tr>
 <td width="33%" valign="top">
 <a href="https://x.com/EvanMilenko/status/2119969113762082931"><img src="../assets/gifs/091.gif" width="100%" alt="劍術對戰遊戲"></a><br>
 <b><a href="https://x.com/EvanMilenko/status/2119969113762082931">劍術對戰遊戲</a></b><br>
-<sub><a href="https://x.com/EvanMilenko">@EvanMilenko</a> · ♥ 286 · <a href="https://x.com/EvanMilenko/status/2119969113762082931">▶ 影片</a></sub><br>
+<sub><a href="https://x.com/EvanMilenko">@EvanMilenko</a> · ♥ 285 · <a href="https://x.com/EvanMilenko/status/2119969113762082931">▶ 影片</a></sub><br>
 <br>
 <sub><a href="https://fablelist.000ooo.ooo/zh-tw/prompts/?w=sword-fighting-game&ref=gh"><b>✨ 取得提示詞</b></a></sub>
 </td>
-</tr>
-<tr>
 <td width="33%" valign="top">
 <a href="https://x.com/DeryaTR_/status/2119974354260013293"><img src="../assets/gifs/168.gif" width="100%" alt="穿越科學史的電影感 3D 之旅"></a><br>
 <b><a href="https://x.com/DeryaTR_/status/2119974354260013293">穿越科學史的電影感 3D 之旅</a></b><br>
@@ -813,6 +819,8 @@
 <sub><a href="https://x.com/elvar_official">@elvar_official</a> · ♥ 283 · <a href="https://x.com/elvar_official/status/2121579587222016201">▶ 影片</a></sub><br>
 
 </td>
+</tr>
+<tr>
 <td width="33%" valign="top">
 <a href="https://x.com/RJasonHA/status/2120007540713099768"><img src="../assets/gifs/097.gif" width="100%" alt="一首交響曲"></a><br>
 <b><a href="https://x.com/RJasonHA/status/2120007540713099768">一首交響曲</a></b><br>
@@ -820,12 +828,10 @@
 <br>
 <sub><a href="https://fablelist.000ooo.ooo/zh-tw/prompts/?w=a-symphony&ref=gh"><b>✨ 取得提示詞</b></a></sub>
 </td>
-</tr>
-<tr>
 <td width="33%" valign="top">
 <a href="https://x.com/_MaxBlade/status/2119992020076814436"><img src="../assets/gifs/087.gif" width="100%" alt="割草模擬器"></a><br>
 <b><a href="https://x.com/_MaxBlade/status/2119992020076814436">割草模擬器</a></b><br>
-<sub><a href="https://x.com/_MaxBlade">@_MaxBlade</a> · ♥ 263 · <a href="https://x.com/_MaxBlade/status/2119992020076814436">▶ 影片</a></sub><br>
+<sub><a href="https://x.com/_MaxBlade">@_MaxBlade</a> · ♥ 262 · <a href="https://x.com/_MaxBlade/status/2119992020076814436">▶ 影片</a></sub><br>
 <br>
 <sub><a href="https://fablelist.000ooo.ooo/zh-tw/prompts/?w=lawn-mowing-simulator&ref=gh"><b>✨ 取得提示詞</b></a></sub>
 </td>
@@ -836,6 +842,8 @@
 <br>
 <sub><a href="https://fablelist.000ooo.ooo/zh-tw/prompts/?w=monica-s-apartment-in-three-js&ref=gh"><b>✨ 取得提示詞</b></a></sub>
 </td>
+</tr>
+<tr>
 <td width="33%" valign="top">
 <a href="https://x.com/AmirMushich/status/2119903338078564844"><img src="../assets/gifs/086.gif" width="100%" alt="Blender ＋ Reaper 音效設計"></a><br>
 <b><a href="https://x.com/AmirMushich/status/2119903338078564844">Blender ＋ Reaper 音效設計</a></b><br>
@@ -843,8 +851,6 @@
 <br>
 <sub><a href="https://fablelist.000ooo.ooo/zh-tw/prompts/?w=blender-reaper-sound-design&ref=gh"><b>✨ 取得提示詞</b></a></sub>
 </td>
-</tr>
-<tr>
 <td width="33%" valign="top">
 <a href="https://x.com/dfeinition/status/2119881243990859818"><img src="../assets/gifs/083.gif" width="100%" alt="粉筆畫活過來"></a><br>
 <b><a href="https://x.com/dfeinition/status/2119881243990859818">粉筆畫活過來</a></b><br>
@@ -859,6 +865,8 @@
 <br>
 <sub><a href="https://fablelist.000ooo.ooo/zh-tw/prompts/?w=bryceball-a-renderer-used-as-a-game-engine&ref=gh"><b>✨ 取得提示詞</b></a></sub>
 </td>
+</tr>
+<tr>
 <td width="33%" valign="top">
 <a href="https://x.com/chetaslua/status/2120548065044234504"><img src="../assets/gifs/172.gif" width="100%" alt="超人飛越電腦繪圖史，純 JS"></a><br>
 <b><a href="https://x.com/chetaslua/status/2120548065044234504">超人飛越電腦繪圖史，純 JS</a></b><br>
@@ -866,8 +874,6 @@
 <br>
 <sub><a href="https://fablelist.000ooo.ooo/zh-tw/prompts/?w=superman-flies-through-cg-history-pure-js&ref=gh"><b>✨ 取得提示詞</b></a></sub>
 </td>
-</tr>
-<tr>
 <td width="33%" valign="top">
 <a href="https://x.com/dfeinition/status/2119886262211625062"><img src="../assets/gifs/085.gif" width="100%" alt="布料與光線"></a><br>
 <b><a href="https://x.com/dfeinition/status/2119886262211625062">布料與光線</a></b><br>
@@ -878,19 +884,19 @@
 <td width="33%" valign="top">
 <a href="https://x.com/notjazii/status/2119886035421442097"><img src="../assets/gifs/082.gif" width="100%" alt="同一則提示，Fable vs Opus"></a><br>
 <b><a href="https://x.com/notjazii/status/2119886035421442097">同一則提示，Fable vs Opus</a></b><br>
-<sub><a href="https://x.com/notjazii">@notjazii</a> · ♥ 205 · <a href="https://x.com/notjazii/status/2119886035421442097">▶ 影片</a></sub><br>
+<sub><a href="https://x.com/notjazii">@notjazii</a> · ♥ 204 · <a href="https://x.com/notjazii/status/2119886035421442097">▶ 影片</a></sub><br>
 <br>
 <sub><a href="https://fablelist.000ooo.ooo/zh-tw/prompts/?w=same-prompt-fable-vs-opus&ref=gh"><b>✨ 取得提示詞</b></a></sub>
 </td>
+</tr>
+<tr>
 <td width="33%" valign="top">
 <a href="https://x.com/WesRoth/status/2119911161386934330"><img src="../assets/gifs/092.gif" width="100%" alt="音樂錄影帶"></a><br>
 <b><a href="https://x.com/WesRoth/status/2119911161386934330">音樂錄影帶</a></b><br>
-<sub><a href="https://x.com/WesRoth">@WesRoth</a> · ♥ 183 · <a href="https://x.com/WesRoth/status/2119911161386934330">▶ 影片</a></sub><br>
+<sub><a href="https://x.com/WesRoth">@WesRoth</a> · ♥ 182 · <a href="https://x.com/WesRoth/status/2119911161386934330">▶ 影片</a></sub><br>
 <br>
 <sub><a href="https://fablelist.000ooo.ooo/zh-tw/prompts/?w=music-video&ref=gh"><b>✨ 取得提示詞</b></a></sub>
 </td>
-</tr>
-<tr>
 <td width="33%" valign="top">
 <a href="https://x.com/AlchainHust/status/2120065556003102731"><img src="../assets/gifs/106.gif" width="100%" alt="重現一張波拉波拉島照片"></a><br>
 <b><a href="https://x.com/AlchainHust/status/2120065556003102731">重現一張波拉波拉島照片</a></b><br>
@@ -905,6 +911,8 @@
 <br>
 <sub><a href="https://fablelist.000ooo.ooo/zh-tw/prompts/?w=kids-english-cartoon&ref=gh"><b>✨ 取得提示詞</b></a></sub>
 </td>
+</tr>
+<tr>
 <td width="33%" valign="top">
 <a href="https://x.com/EvanMilenko/status/2120322640048959503"><img src="../assets/gifs/170.gif" width="100%" alt="Three.js 龍遊戲"></a><br>
 <b><a href="https://x.com/EvanMilenko/status/2120322640048959503">Three.js 龍遊戲</a></b><br>
@@ -912,8 +920,6 @@
 <br>
 <sub><a href="https://fablelist.000ooo.ooo/zh-tw/prompts/?w=a-dragon-game-in-three-js&ref=gh"><b>✨ 取得提示詞</b></a></sub>
 </td>
-</tr>
-<tr>
 <td width="33%" valign="top">
 <a href="https://x.com/mattshumer_/status/2119889518564147409"><img src="../assets/gifs/098.gif" width="100%" alt="在家就能組裝的機器人"></a><br>
 <b><a href="https://x.com/mattshumer_/status/2119889518564147409">在家就能組裝的機器人</a></b><br>
@@ -928,6 +934,8 @@
 <br>
 <sub><a href="https://fablelist.000ooo.ooo/zh-tw/prompts/?w=claymation&ref=gh"><b>✨ 取得提示詞</b></a></sub>
 </td>
+</tr>
+<tr>
 <td width="33%" valign="top">
 <a href="https://x.com/petergostev/status/2120125927086600681"><img src="../assets/gifs/171.gif" width="100%" alt="鉤織珊瑚礁"></a><br>
 <b><a href="https://x.com/petergostev/status/2120125927086600681">鉤織珊瑚礁</a></b><br>
@@ -935,8 +943,6 @@
 <br>
 <sub><a href="https://fablelist.000ooo.ooo/zh-tw/prompts/?w=crochet-coral-reef&ref=gh"><b>✨ 取得提示詞</b></a></sub>
 </td>
-</tr>
-<tr>
 <td width="33%" valign="top">
 <a href="https://x.com/techartist_/status/2119946891106394518"><img src="../assets/gifs/102.gif" width="100%" alt="四款遊戲機概念"></a><br>
 <b><a href="https://x.com/techartist_/status/2119946891106394518">四款遊戲機概念</a></b><br>
@@ -951,6 +957,8 @@
 <br>
 <sub><a href="https://x.com/wangray/status/2120040640423850168">📝 作者公開的提示詞（免費）</a></sub>
 </td>
+</tr>
+<tr>
 <td width="33%" valign="top">
 <a href="https://x.com/abhinavflac/status/2119884257145581980"><img src="../assets/gifs/099.gif" width="100%" alt="騎腳踏車的鵜鶘（經典測試）"></a><br>
 <b><a href="https://x.com/abhinavflac/status/2119884257145581980">騎腳踏車的鵜鶘（經典測試）</a></b><br>
@@ -958,8 +966,6 @@
 <br>
 <sub><a href="https://fablelist.000ooo.ooo/zh-tw/prompts/?w=pelican-on-a-bicycle-classic-test&ref=gh"><b>✨ 取得提示詞</b></a></sub>
 </td>
-</tr>
-<tr>
 <td width="33%" valign="top">
 <a href="https://x.com/aug5thmusic/status/2119907891419480107"><img src="../assets/gifs/104.gif" width="100%" alt="巴赫風格賦格曲"></a><br>
 <b><a href="https://x.com/aug5thmusic/status/2119907891419480107">巴赫風格賦格曲</a></b><br>
@@ -974,6 +980,8 @@
 <br>
 <sub><a href="https://fablelist.000ooo.ooo/zh-tw/prompts/?w=sound-on-piece&ref=gh"><b>✨ 取得提示詞</b></a></sub>
 </td>
+</tr>
+<tr>
 <td width="33%" valign="top">
 <a href="https://x.com/Lummox_eth/status/2120093679243194793"><img src="../assets/gifs/117.gif" width="100%" alt="$36 做出的《權力遊戲》龍"></a><br>
 <b><a href="https://x.com/Lummox_eth/status/2120093679243194793">$36 做出的《權力遊戲》龍</a></b><br>
@@ -981,8 +989,6 @@
 <br>
 <sub><a href="https://fablelist.000ooo.ooo/zh-tw/prompts/?w=a-36-game-of-thrones-dragon&ref=gh"><b>✨ 取得提示詞</b></a></sub>
 </td>
-</tr>
-<tr>
 <td width="33%" valign="top">
 <a href="https://x.com/Stefan_3D_AI/status/2120039417981333599"><img src="../assets/gifs/111.gif" width="100%" alt="Blender 裡的海蛇"></a><br>
 <b><a href="https://x.com/Stefan_3D_AI/status/2120039417981333599">Blender 裡的海蛇</a></b><br>
@@ -997,6 +1003,8 @@
 <br>
 <sub><a href="https://fablelist.000ooo.ooo/zh-tw/prompts/?w=rubik-s-cube-robot-fable-vs-opus&ref=gh"><b>✨ 取得提示詞</b></a></sub>
 </td>
+</tr>
+<tr>
 <td width="33%" valign="top">
 <a href="https://x.com/dfeinition/status/2119870838606381391"><img src="../assets/gifs/105.gif" width="100%" alt="動作混合，由機器人來講解"></a><br>
 <b><a href="https://x.com/dfeinition/status/2119870838606381391">動作混合，由機器人來講解</a></b><br>
@@ -1004,12 +1012,10 @@
 <br>
 <sub><a href="https://fablelist.000ooo.ooo/zh-tw/prompts/?w=motion-blending-explained-by-a-robot&ref=gh"><b>✨ 取得提示詞</b></a></sub>
 </td>
-</tr>
-<tr>
 <td width="33%" valign="top">
 <a href="https://x.com/rpnickson/status/2119969928304357507"><img src="../assets/gifs/108.gif" width="100%" alt="從照片重建的攝影棚"></a><br>
 <b><a href="https://x.com/rpnickson/status/2119969928304357507">從照片重建的攝影棚</a></b><br>
-<sub><a href="https://x.com/rpnickson">@rpnickson</a> · ♥ 85 · <a href="https://x.com/rpnickson/status/2119969928304357507">▶ 影片</a></sub><br>
+<sub><a href="https://x.com/rpnickson">@rpnickson</a> · ♥ 86 · <a href="https://x.com/rpnickson/status/2119969928304357507">▶ 影片</a></sub><br>
 <br>
 <sub><a href="https://fablelist.000ooo.ooo/zh-tw/prompts/?w=a-studio-rebuilt-from-photos&ref=gh"><b>✨ 取得提示詞</b></a></sub>
 </td>
@@ -1020,6 +1026,8 @@
 <br>
 <sub><a href="https://x.com/Stefan_3D_AI/status/2120101582444597446">📝 作者公開的提示詞（免費）</a></sub>
 </td>
+</tr>
+<tr>
 <td width="33%" valign="top">
 <a href="https://x.com/leppppp1/status/2119960122713899015"><img src="../assets/gifs/112.gif" width="100%" alt="四個模型，同一個文字特效"></a><br>
 <b><a href="https://x.com/leppppp1/status/2119960122713899015">四個模型，同一個文字特效</a></b><br>
@@ -1027,8 +1035,6 @@
 <br>
 <sub><a href="https://fablelist.000ooo.ooo/zh-tw/prompts/?w=four-models-one-text-effect&ref=gh"><b>✨ 取得提示詞</b></a></sub>
 </td>
-</tr>
-<tr>
 <td width="33%" valign="top">
 <a href="https://x.com/RJasonHA/status/2120075740222005569"><img src="../assets/gifs/123.gif" width="100%" alt="程式碼寫成的唐人街"></a><br>
 <b><a href="https://x.com/RJasonHA/status/2120075740222005569">程式碼寫成的唐人街</a></b><br>
@@ -1043,6 +1049,8 @@
 <br>
 <sub><a href="https://fablelist.000ooo.ooo/zh-tw/prompts/?w=game-with-and-without-elevenlabs-audio&ref=gh"><b>✨ 取得提示詞</b></a></sub>
 </td>
+</tr>
+<tr>
 <td width="33%" valign="top">
 <a href="https://x.com/ChrisGPT/status/2119989626568126509"><img src="../assets/gifs/118.gif" width="100%" alt="作為 Artifact 執行的手機遊戲"></a><br>
 <b><a href="https://x.com/ChrisGPT/status/2119989626568126509">作為 Artifact 執行的手機遊戲</a></b><br>
@@ -1050,8 +1058,6 @@
 <br>
 <sub><a href="https://fablelist.000ooo.ooo/zh-tw/prompts/?w=a-mobile-game-running-as-an-artifact&ref=gh"><b>✨ 取得提示詞</b></a></sub>
 </td>
-</tr>
-<tr>
 <td width="33%" valign="top">
 <a href="https://x.com/TekonBurns/status/2119871565311660260"><img src="../assets/gifs/113.gif" width="100%" alt="由 420 個次單元組成的病毒衣殼"></a><br>
 <b><a href="https://x.com/TekonBurns/status/2119871565311660260">由 420 個次單元組成的病毒衣殼</a></b><br>
@@ -1066,6 +1072,8 @@
 <br>
 <sub><a href="https://x.com/flxrnc/status/2119961301791174720">📝 作者公開的提示詞（免費）</a></sub>
 </td>
+</tr>
+<tr>
 <td width="33%" valign="top">
 <a href="https://x.com/ItsmeAjayKV/status/2119896772713849174"><img src="../assets/gifs/121.gif" width="100%" alt="漂浮島上的巴黎"></a><br>
 <b><a href="https://x.com/ItsmeAjayKV/status/2119896772713849174">漂浮島上的巴黎</a></b><br>
@@ -1073,8 +1081,6 @@
 <br>
 <sub><a href="https://fablelist.000ooo.ooo/zh-tw/prompts/?w=paris-on-a-floating-island&ref=gh"><b>✨ 取得提示詞</b></a></sub>
 </td>
-</tr>
-<tr>
 <td width="33%" valign="top">
 <a href="https://x.com/MrTacticalX/status/2119949557664735583"><img src="../assets/gifs/122.gif" width="100%" alt="Snow Globe（Fable vs Opus）"></a><br>
 <b><a href="https://x.com/MrTacticalX/status/2119949557664735583">Snow Globe（Fable vs Opus）</a></b><br>

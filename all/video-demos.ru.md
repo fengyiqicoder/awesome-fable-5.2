@@ -1,4 +1,4 @@
-# 📺 Видеодемо · все 145
+# 📺 Видеодемо · все 146
 
 [← Назад к списку](../README.ru.md) · [English](video-demos.md) · [简体中文](video-demos.zh-CN.md) · [繁體中文](video-demos.zh-TW.md) · [日本語](video-demos.ja.md) · [한국어](video-demos.ko.md) · [Español](video-demos.es.md) · [Português](video-demos.pt-BR.md) · [Français](video-demos.fr.md) · [Deutsch](video-demos.de.md) · **Русский**
 
@@ -41,7 +41,7 @@
 <td width="33%" valign="top">
 <a href="https://x.com/dominikmartn/status/2120154832694858224"><img src="../assets/gifs/236.gif" width="100%" alt="Он правда умеет делать дизайн"></a><br>
 <b><a href="https://x.com/dominikmartn/status/2120154832694858224">Он правда умеет делать дизайн</a></b><br>
-<sub><a href="https://x.com/dominikmartn">@dominikmartn</a> · ♥ 7.3k · <a href="https://x.com/dominikmartn/status/2120154832694858224">▶ Видео</a></sub><br>
+<sub><a href="https://x.com/dominikmartn">@dominikmartn</a> · ♥ 7.2k · <a href="https://x.com/dominikmartn/status/2120154832694858224">▶ Видео</a></sub><br>
 <br>
 <sub><a href="https://fablelist.000ooo.ooo/ru/prompts/?w=it-can-actually-design&ref=gh"><b>✨ Получить промпт</b></a></sub>
 </td>
@@ -62,15 +62,15 @@
 <sub><a href="https://fablelist.000ooo.ooo/ru/prompts/?w=painting-a-copy-in-code-the-original-has&ref=gh"><b>✨ Получить промпт</b></a></sub>
 </td>
 <td width="33%" valign="top">
-<a href="https://x.com/aj_dev_smith/status/2122538394710687871"><img src="../assets/gifs/324.gif" width="100%" alt="Любая песня из 64 записанных нот одного голоса"></a><br>
-<b><a href="https://x.com/aj_dev_smith/status/2122538394710687871">Любая песня из 64 записанных нот одного голоса</a></b><br>
-<sub><a href="https://x.com/aj_dev_smith">@aj_dev_smith</a> · ♥ 5.3k · <a href="https://x.com/aj_dev_smith/status/2122538394710687871">▶ Видео</a></sub><br>
-
-</td>
-<td width="33%" valign="top">
 <a href="https://x.com/Dstudio_ai/status/2122569461547098595"><img src="../assets/gifs/328.gif" width="100%" alt="Лобби в стиле мобильной игры с 3D-моделью из Tripo"></a><br>
 <b><a href="https://x.com/Dstudio_ai/status/2122569461547098595">Лобби в стиле мобильной игры с 3D-моделью из Tripo</a></b><br>
 <sub><a href="https://x.com/Dstudio_ai">@Dstudio_ai</a> · ♥ 5.3k · <a href="https://x.com/Dstudio_ai/status/2122569461547098595">▶ Видео</a></sub><br>
+
+</td>
+<td width="33%" valign="top">
+<a href="https://x.com/aj_dev_smith/status/2122538394710687871"><img src="../assets/gifs/324.gif" width="100%" alt="Любая песня из 64 записанных нот одного голоса"></a><br>
+<b><a href="https://x.com/aj_dev_smith/status/2122538394710687871">Любая песня из 64 записанных нот одного голоса</a></b><br>
+<sub><a href="https://x.com/aj_dev_smith">@aj_dev_smith</a> · ♥ 5.3k · <a href="https://x.com/aj_dev_smith/status/2122538394710687871">▶ Видео</a></sub><br>
 
 </td>
 </tr>
@@ -107,7 +107,7 @@
 <td width="33%" valign="top">
 <a href="https://x.com/shiromamono/status/2122473903100731694"><img src="../assets/gifs/339.gif" width="100%" alt="Видео, сделанное, чтобы вы улыбнулись"></a><br>
 <b><a href="https://x.com/shiromamono/status/2122473903100731694">Видео, сделанное, чтобы вы улыбнулись</a></b><br>
-<sub>🆕 · <a href="https://x.com/shiromamono">@shiromamono</a> · ♥ 3.8k · <a href="https://x.com/shiromamono/status/2122473903100731694">▶ Видео</a></sub><br>
+<sub><a href="https://x.com/shiromamono">@shiromamono</a> · ♥ 3.8k · <a href="https://x.com/shiromamono/status/2122473903100731694">▶ Видео</a></sub><br>
 
 </td>
 <td width="33%" valign="top">
@@ -166,7 +166,7 @@
 <td width="33%" valign="top">
 <a href="https://x.com/kotaniko98765/status/2122266561960665539"><img src="../assets/gifs/340.gif" width="100%" alt="Игра про дейтрейдинг, сделанная за выходные"></a><br>
 <b><a href="https://x.com/kotaniko98765/status/2122266561960665539">Игра про дейтрейдинг, сделанная за выходные</a></b><br>
-<sub>🆕 · <a href="https://x.com/kotaniko98765">@kotaniko98765</a> · ♥ 2.5k · <a href="https://x.com/kotaniko98765/status/2122266561960665539">▶ Видео</a></sub><br>
+<sub><a href="https://x.com/kotaniko98765">@kotaniko98765</a> · ♥ 2.5k · <a href="https://x.com/kotaniko98765/status/2122266561960665539">▶ Видео</a></sub><br>
 
 </td>
 <td width="33%" valign="top">
@@ -202,7 +202,7 @@
 <td width="33%" valign="top">
 <a href="https://x.com/Ssr360535694/status/2122934850407510386"><img src="../assets/gifs/348.gif" width="100%" alt="VFX-сцена: Fable 5.2 руководит, Opus 5.5 исполняет"></a><br>
 <b><a href="https://x.com/Ssr360535694/status/2122934850407510386">VFX-сцена: Fable 5.2 руководит, Opus 5.5 исполняет</a></b><br>
-<sub>🆕 · <a href="https://x.com/Ssr360535694">@Ssr360535694</a> · ♥ 2.0k · <a href="https://x.com/Ssr360535694/status/2122934850407510386">▶ Видео</a></sub><br>
+<sub><a href="https://x.com/Ssr360535694">@Ssr360535694</a> · ♥ 2.0k · <a href="https://x.com/Ssr360535694/status/2122934850407510386">▶ Видео</a></sub><br>
 
 </td>
 </tr>
@@ -222,13 +222,19 @@
 <sub><a href="https://fablelist.000ooo.ooo/ru/prompts/?w=show-me-your-work&ref=gh"><b>✨ Получить промпт</b></a></sub>
 </td>
 <td width="33%" valign="top">
+<a href="https://x.com/shiromamono/status/2122858333694730472"><img src="../assets/gifs/347.gif" width="100%" alt="Клип, где девочка поёт за клавишами"></a><br>
+<b><a href="https://x.com/shiromamono/status/2122858333694730472">Клип, где девочка поёт за клавишами</a></b><br>
+<sub><a href="https://x.com/shiromamono">@shiromamono</a> · ♥ 1.7k · <a href="https://x.com/shiromamono/status/2122858333694730472">▶ Видео</a></sub><br>
+
+</td>
+</tr>
+<tr>
+<td width="33%" valign="top">
 <a href="https://x.com/chrisjdimarco/status/2120752985949057215"><img src="../assets/gifs/276.gif" width="100%" alt="Рой из 1 048 576 нанороботов, превращающийся в руку, кита, ракету или двойную спираль ДНК"></a><br>
 <b><a href="https://x.com/chrisjdimarco/status/2120752985949057215">Рой из 1 048 576 нанороботов, превращающийся в руку, кита, ракету или двойную спираль ДНК</a></b><br>
 <sub><a href="https://x.com/chrisjdimarco">@chrisjdimarco</a> · ♥ 1.7k · <a href="https://x.com/chrisjdimarco/status/2120752985949057215">▶ Видео</a></sub><br>
 
 </td>
-</tr>
-<tr>
 <td width="33%" valign="top">
 <a href="https://x.com/_MaxBlade/status/2120109725740159390"><img src="../assets/gifs/093.gif" width="100%" alt="4 часа в Unreal Engine 5.9 через MCP"></a><br>
 <b><a href="https://x.com/_MaxBlade/status/2120109725740159390">4 часа в Unreal Engine 5.9 через MCP</a></b><br>
@@ -236,6 +242,14 @@
 <br>
 <sub><a href="https://fablelist.000ooo.ooo/ru/prompts/?w=4-hours-in-unreal-engine-5-9-via&ref=gh"><b>✨ Получить промпт</b></a></sub>
 </td>
+<td width="33%" valign="top">
+<a href="https://x.com/Thaxnay/status/2123487166831734894"><img src="../assets/gifs/376.gif" width="100%" alt="«Рамаяна» в виде экшен-игры"></a><br>
+<b><a href="https://x.com/Thaxnay/status/2123487166831734894">«Рамаяна» в виде экшен-игры</a></b><br>
+<sub>🆕 · <a href="https://x.com/Thaxnay">@Thaxnay</a> · ♥ 1.7k · <a href="https://x.com/Thaxnay/status/2123487166831734894">▶ Видео</a></sub><br>
+
+</td>
+</tr>
+<tr>
 <td width="33%" valign="top">
 <a href="https://x.com/fe_yukichi/status/2122489950981779504"><img src="../assets/gifs/326.gif" width="100%" alt="Ленивый кролик, смоделированный в Blender"></a><br>
 <b><a href="https://x.com/fe_yukichi/status/2122489950981779504">Ленивый кролик, смоделированный в Blender</a></b><br>
@@ -249,14 +263,6 @@
 <sub>30 минут с несколькими субагентами Opus 5.5.</sub><br>
 <sub><a href="https://fablelist.000ooo.ooo/ru/prompts/?w=fast-camera-3d-scene&ref=gh"><b>✨ Получить промпт</b></a></sub>
 </td>
-</tr>
-<tr>
-<td width="33%" valign="top">
-<a href="https://x.com/shiromamono/status/2122858333694730472"><img src="../assets/gifs/347.gif" width="100%" alt="Клип, где девочка поёт за клавишами"></a><br>
-<b><a href="https://x.com/shiromamono/status/2122858333694730472">Клип, где девочка поёт за клавишами</a></b><br>
-<sub>🆕 · <a href="https://x.com/shiromamono">@shiromamono</a> · ♥ 1.6k · <a href="https://x.com/shiromamono/status/2122858333694730472">▶ Видео</a></sub><br>
-
-</td>
 <td width="33%" valign="top">
 <a href="https://x.com/JungleSilicon/status/2120452158961397975"><img src="../assets/gifs/213.gif" width="100%" alt="Gaussian splats в пиксель-арте"></a><br>
 <b><a href="https://x.com/JungleSilicon/status/2120452158961397975">Gaussian splats в пиксель-арте</a></b><br>
@@ -264,14 +270,14 @@
 <br>
 <sub><a href="https://fablelist.000ooo.ooo/ru/prompts/?w=pixel-art-gaussian-splats&ref=gh"><b>✨ Получить промпт</b></a></sub>
 </td>
+</tr>
+<tr>
 <td width="33%" valign="top">
 <a href="https://x.com/ChrisGPT/status/2122866766590173419"><img src="../assets/gifs/346.gif" width="100%" alt="Подводная игра на выживание, сделанная за 4 дня"></a><br>
 <b><a href="https://x.com/ChrisGPT/status/2122866766590173419">Подводная игра на выживание, сделанная за 4 дня</a></b><br>
-<sub>🆕 · <a href="https://x.com/ChrisGPT">@ChrisGPT</a> · ♥ 1.5k · <a href="https://x.com/ChrisGPT/status/2122866766590173419">▶ Видео</a></sub><br>
+<sub><a href="https://x.com/ChrisGPT">@ChrisGPT</a> · ♥ 1.5k · <a href="https://x.com/ChrisGPT/status/2122866766590173419">▶ Видео</a></sub><br>
 
 </td>
-</tr>
-<tr>
 <td width="33%" valign="top">
 <a href="https://x.com/ryanvogel/status/2122000027543617844"><img src="../assets/gifs/304.gif" width="100%" alt="Короткометражка по Portal 2, отрендеренная в Blender"></a><br>
 <b><a href="https://x.com/ryanvogel/status/2122000027543617844">Короткометражка по Portal 2, отрендеренная в Blender</a></b><br>
@@ -285,6 +291,8 @@
 <br>
 <sub><a href="https://fablelist.000ooo.ooo/ru/prompts/?w=glass-pool-fable-vs-opus&ref=gh"><b>✨ Получить промпт</b></a></sub>
 </td>
+</tr>
+<tr>
 <td width="33%" valign="top">
 <a href="https://x.com/akakuma0219/status/2120030634248929556"><img src="../assets/gifs/155.gif" width="100%" alt="Previz-циклы бега из трёх слов"></a><br>
 <b><a href="https://x.com/akakuma0219/status/2120030634248929556">Previz-циклы бега из трёх слов</a></b><br>
@@ -292,8 +300,6 @@
 <br>
 <sub><a href="https://fablelist.000ooo.ooo/ru/prompts/?w=previz-run-cycles-from-three-words&ref=gh"><b>✨ Получить промпт</b></a></sub>
 </td>
-</tr>
-<tr>
 <td width="33%" valign="top">
 <a href="https://x.com/DeryaTR_/status/2120382619082727604"><img src="../assets/gifs/238.gif" width="100%" alt="Жизнь Т-клетки, 8-минутный фильм"></a><br>
 <b><a href="https://x.com/DeryaTR_/status/2120382619082727604">Жизнь Т-клетки, 8-минутный фильм</a></b><br>
@@ -304,9 +310,11 @@
 <td width="33%" valign="top">
 <a href="https://x.com/viktoroddy/status/2122711903877358056"><img src="../assets/gifs/341.gif" width="100%" alt="Подборка брендовых лендингов со вкусом"></a><br>
 <b><a href="https://x.com/viktoroddy/status/2122711903877358056">Подборка брендовых лендингов со вкусом</a></b><br>
-<sub>🆕 · <a href="https://x.com/viktoroddy">@viktoroddy</a> · ♥ 1.4k · <a href="https://x.com/viktoroddy/status/2122711903877358056">▶ Видео</a></sub><br>
+<sub><a href="https://x.com/viktoroddy">@viktoroddy</a> · ♥ 1.4k · <a href="https://x.com/viktoroddy/status/2122711903877358056">▶ Видео</a></sub><br>
 
 </td>
+</tr>
+<tr>
 <td width="33%" valign="top">
 <a href="https://x.com/RezAIT00/status/2120498246426706176"><img src="../assets/gifs/193.gif" width="100%" alt="Проснулся, а тут такое: игровое окружение в Blender + Unreal"></a><br>
 <b><a href="https://x.com/RezAIT00/status/2120498246426706176">Проснулся, а тут такое: игровое окружение в Blender + Unreal</a></b><br>
@@ -314,8 +322,6 @@
 <br>
 <sub><a href="https://fablelist.000ooo.ooo/ru/prompts/?w=woke-up-to-this-game-environment-in-blender&ref=gh"><b>✨ Получить промпт</b></a></sub>
 </td>
-</tr>
-<tr>
 <td width="33%" valign="top">
 <a href="https://x.com/Yokohara_h/status/2121301810363465749"><img src="../assets/gifs/325.gif" width="100%" alt="Анимация персонажа в Blender по простым указаниям"></a><br>
 <b><a href="https://x.com/Yokohara_h/status/2121301810363465749">Анимация персонажа в Blender по простым указаниям</a></b><br>
@@ -329,6 +335,8 @@
 <br>
 <sub><a href="https://x.com/xikhar/status/2119966147328299284">📝 Промпт автора (бесплатно)</a></sub>
 </td>
+</tr>
+<tr>
 <td width="33%" valign="top">
 <a href="https://x.com/KHvostikk/status/2119939061049889130"><img src="../assets/gifs/215.gif" width="100%" alt="Видео в 3D-анимацию"></a><br>
 <b><a href="https://x.com/KHvostikk/status/2119939061049889130">Видео в 3D-анимацию</a></b><br>
@@ -336,20 +344,11 @@
 <br>
 <sub><a href="https://fablelist.000ooo.ooo/ru/prompts/?w=video-to-3d-animation&ref=gh"><b>✨ Получить промпт</b></a></sub>
 </td>
-</tr>
-<tr>
 <td width="33%" valign="top">
 <a href="https://x.com/chetaslua/status/2119870650722763052"><img src="../assets/gifs/067.gif" width="100%" alt="Операционная система из пустой папки"></a><br>
 <b><a href="https://x.com/chetaslua/status/2119870650722763052">Операционная система из пустой папки</a></b><br>
 <sub><a href="https://x.com/chetaslua">@chetaslua</a> · ♥ 1.2k · <a href="https://x.com/chetaslua/status/2119870650722763052">▶ Видео</a></sub><br>
 <sub>Демо Anthropic с 1 000+ скоординированных агентов.</sub>
-</td>
-<td width="33%" valign="top">
-<a href="https://x.com/vib3coded/status/2119876781700505627"><img src="../assets/gifs/068.gif" width="100%" alt="Затягивающий ползунок громкости"></a><br>
-<b><a href="https://x.com/vib3coded/status/2119876781700505627">Затягивающий ползунок громкости</a></b><br>
-<sub><a href="https://x.com/vib3coded">@vib3coded</a> · ♥ 1.1k · <a href="https://x.com/vib3coded/status/2119876781700505627">▶ Видео</a></sub><br>
-<sub>10 минут, 8,43 $.</sub><br>
-<sub><a href="https://x.com/vib3coded/status/2119876781700505627">📝 Промпт автора (бесплатно)</a></sub>
 </td>
 <td width="33%" valign="top">
 <a href="https://x.com/pl4tinumeffects/status/2123074786415001972"><img src="../assets/gifs/353.gif" width="100%" alt="Механика телефона из GTA VI, воссозданная в Roblox"></a><br>
@@ -359,6 +358,13 @@
 </td>
 </tr>
 <tr>
+<td width="33%" valign="top">
+<a href="https://x.com/vib3coded/status/2119876781700505627"><img src="../assets/gifs/068.gif" width="100%" alt="Затягивающий ползунок громкости"></a><br>
+<b><a href="https://x.com/vib3coded/status/2119876781700505627">Затягивающий ползунок громкости</a></b><br>
+<sub><a href="https://x.com/vib3coded">@vib3coded</a> · ♥ 1.1k · <a href="https://x.com/vib3coded/status/2119876781700505627">▶ Видео</a></sub><br>
+<sub>10 минут, 8,43 $.</sub><br>
+<sub><a href="https://x.com/vib3coded/status/2119876781700505627">📝 Промпт автора (бесплатно)</a></sub>
+</td>
 <td width="33%" valign="top">
 <a href="https://x.com/ericmaskfr/status/2119910195325481026"><img src="../assets/gifs/070.gif" width="100%" alt="GTA 6 из одного промпта"></a><br>
 <b><a href="https://x.com/ericmaskfr/status/2119910195325481026">GTA 6 из одного промпта</a></b><br>
@@ -372,18 +378,18 @@
 <sub><a href="https://x.com/MengTo">@MengTo</a> · ♥ 1.0k · <a href="https://x.com/MengTo/status/2121896633848017145">▶ Видео</a></sub><br>
 
 </td>
-<td width="33%" valign="top">
-<a href="https://x.com/jakemor/status/2122551786045059205"><img src="../assets/gifs/327.gif" width="100%" alt="Function — клавиатура, созданная за 229 сборок в цикле"></a><br>
-<b><a href="https://x.com/jakemor/status/2122551786045059205">Function — клавиатура, созданная за 229 сборок в цикле</a></b><br>
-<sub><a href="https://x.com/jakemor">@jakemor</a> · ♥ 929 · <a href="https://x.com/jakemor/status/2122551786045059205">▶ Видео</a></sub><br>
-
-</td>
 </tr>
 <tr>
 <td width="33%" valign="top">
+<a href="https://x.com/jakemor/status/2122551786045059205"><img src="../assets/gifs/327.gif" width="100%" alt="Function — клавиатура, созданная за 229 сборок в цикле"></a><br>
+<b><a href="https://x.com/jakemor/status/2122551786045059205">Function — клавиатура, созданная за 229 сборок в цикле</a></b><br>
+<sub><a href="https://x.com/jakemor">@jakemor</a> · ♥ 943 · <a href="https://x.com/jakemor/status/2122551786045059205">▶ Видео</a></sub><br>
+
+</td>
+<td width="33%" valign="top">
 <a href="https://x.com/maxt3chno/status/2123157986713747468"><img src="../assets/gifs/354.gif" width="100%" alt="Гидроцикл, сделанный за 5 часов, в сравнении с GTA 6"></a><br>
 <b><a href="https://x.com/maxt3chno/status/2123157986713747468">Гидроцикл, сделанный за 5 часов, в сравнении с GTA 6</a></b><br>
-<sub>🆕 · <a href="https://x.com/maxt3chno">@maxt3chno</a> · ♥ 898 · <a href="https://x.com/maxt3chno/status/2123157986713747468">▶ Видео</a></sub><br>
+<sub>🆕 · <a href="https://x.com/maxt3chno">@maxt3chno</a> · ♥ 903 · <a href="https://x.com/maxt3chno/status/2123157986713747468">▶ Видео</a></sub><br>
 
 </td>
 <td width="33%" valign="top">
@@ -393,37 +399,43 @@
 <br>
 <sub><a href="https://fablelist.000ooo.ooo/ru/prompts/?w=a-full-apartment-design&ref=gh"><b>✨ Получить промпт</b></a></sub>
 </td>
-<td width="33%" valign="top">
-<a href="https://x.com/kinderlayer/status/2120112222227648957"><img src="../assets/gifs/116.gif" width="100%" alt="Лев из ковра (Fable vs Gemini)"></a><br>
-<b><a href="https://x.com/kinderlayer/status/2120112222227648957">Лев из ковра (Fable vs Gemini)</a></b><br>
-<sub><a href="https://x.com/kinderlayer">@kinderlayer</a> · ♥ 878 · <a href="https://x.com/kinderlayer/status/2120112222227648957">▶ Видео</a></sub><br>
-<br>
-<sub><a href="https://fablelist.000ooo.ooo/ru/prompts/?w=lion-from-a-carpet-fable-vs-gemini&ref=gh"><b>✨ Получить промпт</b></a></sub>
-</td>
 </tr>
 <tr>
 <td width="33%" valign="top">
+<a href="https://x.com/kinderlayer/status/2120112222227648957"><img src="../assets/gifs/116.gif" width="100%" alt="Лев из ковра (Fable vs Gemini)"></a><br>
+<b><a href="https://x.com/kinderlayer/status/2120112222227648957">Лев из ковра (Fable vs Gemini)</a></b><br>
+<sub><a href="https://x.com/kinderlayer">@kinderlayer</a> · ♥ 879 · <a href="https://x.com/kinderlayer/status/2120112222227648957">▶ Видео</a></sub><br>
+<br>
+<sub><a href="https://fablelist.000ooo.ooo/ru/prompts/?w=lion-from-a-carpet-fable-vs-gemini&ref=gh"><b>✨ Получить промпт</b></a></sub>
+</td>
+<td width="33%" valign="top">
 <a href="https://x.com/nickvernij/status/2122361634190696575"><img src="../assets/gifs/321.gif" width="100%" alt="Улица Амстердама, созданная по Street View API"></a><br>
 <b><a href="https://x.com/nickvernij/status/2122361634190696575">Улица Амстердама, созданная по Street View API</a></b><br>
-<sub><a href="https://x.com/nickvernij">@nickvernij</a> · ♥ 869 · <a href="https://x.com/nickvernij/status/2122361634190696575">▶ Видео</a></sub><br>
+<sub><a href="https://x.com/nickvernij">@nickvernij</a> · ♥ 870 · <a href="https://x.com/nickvernij/status/2122361634190696575">▶ Видео</a></sub><br>
 
 </td>
 <td width="33%" valign="top">
 <a href="https://x.com/KHvostikk/status/2120621109125202344"><img src="../assets/gifs/242.gif" width="100%" alt="Изображение в 3D-модель с PBR-текстурами"></a><br>
 <b><a href="https://x.com/KHvostikk/status/2120621109125202344">Изображение в 3D-модель с PBR-текстурами</a></b><br>
-<sub><a href="https://x.com/KHvostikk">@KHvostikk</a> · ♥ 862 · <a href="https://x.com/KHvostikk/status/2120621109125202344">▶ Видео</a></sub><br>
+<sub><a href="https://x.com/KHvostikk">@KHvostikk</a> · ♥ 861 · <a href="https://x.com/KHvostikk/status/2120621109125202344">▶ Видео</a></sub><br>
 <br>
 <sub><a href="https://fablelist.000ooo.ooo/ru/prompts/?w=image-to-3d-model-with-pbr-textures&ref=gh"><b>✨ Получить промпт</b></a></sub>
 </td>
+</tr>
+<tr>
 <td width="33%" valign="top">
 <a href="https://x.com/tm_uchal/status/2120573380768518390"><img src="../assets/gifs/240.gif" width="100%" alt="Видео с ИИ-аватаром"></a><br>
 <b><a href="https://x.com/tm_uchal/status/2120573380768518390">Видео с ИИ-аватаром</a></b><br>
-<sub><a href="https://x.com/tm_uchal">@tm_uchal</a> · ♥ 840 · <a href="https://x.com/tm_uchal/status/2120573380768518390">▶ Видео</a></sub><br>
+<sub><a href="https://x.com/tm_uchal">@tm_uchal</a> · ♥ 839 · <a href="https://x.com/tm_uchal/status/2120573380768518390">▶ Видео</a></sub><br>
 <br>
 <sub><a href="https://fablelist.000ooo.ooo/ru/prompts/?w=ai-avatar-video&ref=gh"><b>✨ Получить промпт</b></a></sub>
 </td>
-</tr>
-<tr>
+<td width="33%" valign="top">
+<a href="https://x.com/AstrablueAI/status/2121635642836918385"><img src="../assets/gifs/292.gif" width="100%" alt="FABLE-OUS — клип, сделанный с одного раза"></a><br>
+<b><a href="https://x.com/AstrablueAI/status/2121635642836918385">FABLE-OUS — клип, сделанный с одного раза</a></b><br>
+<sub><a href="https://x.com/AstrablueAI">@AstrablueAI</a> · ♥ 810 · <a href="https://x.com/AstrablueAI/status/2121635642836918385">▶ Видео</a></sub><br>
+
+</td>
 <td width="33%" valign="top">
 <a href="https://x.com/scottstts/status/2120254108104007712"><img src="../assets/gifs/216.gif" width="100%" alt="Dragon's Nest, three.js + Tripo"></a><br>
 <b><a href="https://x.com/scottstts/status/2120254108104007712">Dragon's Nest, three.js + Tripo</a></b><br>
@@ -431,21 +443,21 @@
 <br>
 <sub><a href="https://fablelist.000ooo.ooo/ru/prompts/?w=dragon-s-nest-three-js-tripo&ref=gh"><b>✨ Получить промпт</b></a></sub>
 </td>
+</tr>
+<tr>
 <td width="33%" valign="top">
 <a href="https://x.com/Dstudio_ai/status/2121168620760019389"><img src="../assets/gifs/270.gif" width="100%" alt="Создание VRM-аватара — текстуры глаз, jiggle-части и правки шеи, не открывая Blender"></a><br>
 <b><a href="https://x.com/Dstudio_ai/status/2121168620760019389">Создание VRM-аватара — текстуры глаз, jiggle-части и правки шеи, не открывая Blender</a></b><br>
-<sub><a href="https://x.com/Dstudio_ai">@Dstudio_ai</a> · ♥ 783 · <a href="https://x.com/Dstudio_ai/status/2121168620760019389">▶ Видео</a></sub><br>
+<sub><a href="https://x.com/Dstudio_ai">@Dstudio_ai</a> · ♥ 786 · <a href="https://x.com/Dstudio_ai/status/2121168620760019389">▶ Видео</a></sub><br>
 
 </td>
 <td width="33%" valign="top">
 <a href="https://x.com/jaimintf/status/2120553374286594292"><img src="../assets/gifs/243.gif" width="100%" alt="Вид с места в поезде до бронирования"></a><br>
 <b><a href="https://x.com/jaimintf/status/2120553374286594292">Вид с места в поезде до бронирования</a></b><br>
-<sub><a href="https://x.com/jaimintf">@jaimintf</a> · ♥ 772 · <a href="https://x.com/jaimintf/status/2120553374286594292">▶ Видео</a></sub><br>
+<sub><a href="https://x.com/jaimintf">@jaimintf</a> · ♥ 773 · <a href="https://x.com/jaimintf/status/2120553374286594292">▶ Видео</a></sub><br>
 <br>
 <sub><a href="https://fablelist.000ooo.ooo/ru/prompts/?w=train-seat-view-before-you-book&ref=gh"><b>✨ Получить промпт</b></a></sub>
 </td>
-</tr>
-<tr>
 <td width="33%" valign="top">
 <a href="https://x.com/kevin_t_ngo/status/2119972124211454139"><img src="../assets/gifs/165.gif" width="100%" alt="Реклама игрушки в стиле 90-х"></a><br>
 <b><a href="https://x.com/kevin_t_ngo/status/2119972124211454139">Реклама игрушки в стиле 90-х</a></b><br>
@@ -453,21 +465,22 @@
 <br>
 <sub><a href="https://fablelist.000ooo.ooo/ru/prompts/?w=a-90s-toy-commercial&ref=gh"><b>✨ Получить промпт</b></a></sub>
 </td>
+</tr>
+<tr>
 <td width="33%" valign="top">
 <a href="https://x.com/rute1203d/status/2120077147872391540"><img src="../assets/gifs/158.gif" width="100%" alt="«Show me your best video» — с подвохом"></a><br>
 <b><a href="https://x.com/rute1203d/status/2120077147872391540">«Show me your best video» — с подвохом</a></b><br>
-<sub><a href="https://x.com/rute1203d">@rute1203d</a> · ♥ 764 · <a href="https://x.com/rute1203d/status/2120077147872391540">▶ Видео</a></sub><br>
+<sub><a href="https://x.com/rute1203d">@rute1203d</a> · ♥ 765 · <a href="https://x.com/rute1203d/status/2120077147872391540">▶ Видео</a></sub><br>
 <br>
 <sub><a href="https://fablelist.000ooo.ooo/ru/prompts/?w=show-me-your-best-video-with-a-twist&ref=gh"><b>✨ Получить промпт</b></a></sub>
 </td>
 <td width="33%" valign="top">
-<a href="https://x.com/AstrablueAI/status/2121635642836918385"><img src="../assets/gifs/292.gif" width="100%" alt="FABLE-OUS — клип, сделанный с одного раза"></a><br>
-<b><a href="https://x.com/AstrablueAI/status/2121635642836918385">FABLE-OUS — клип, сделанный с одного раза</a></b><br>
-<sub><a href="https://x.com/AstrablueAI">@AstrablueAI</a> · ♥ 750 · <a href="https://x.com/AstrablueAI/status/2121635642836918385">▶ Видео</a></sub><br>
-
+<a href="https://x.com/WesRoth/status/2119953913160093817"><img src="../assets/gifs/071.gif" width="100%" alt="Рилс за один заход"></a><br>
+<b><a href="https://x.com/WesRoth/status/2119953913160093817">Рилс за один заход</a></b><br>
+<sub><a href="https://x.com/WesRoth">@WesRoth</a> · ♥ 746 · <a href="https://x.com/WesRoth/status/2119953913160093817">▶ Видео</a></sub><br>
+<br>
+<sub><a href="https://fablelist.000ooo.ooo/ru/prompts/?w=one-shot-reel&ref=gh"><b>✨ Получить промпт</b></a></sub>
 </td>
-</tr>
-<tr>
 <td width="33%" valign="top">
 <a href="https://x.com/anikrisn/status/2119950148294119483"><img src="../assets/gifs/241.gif" width="100%" alt="Светящаяся изометрическая диорама с прудом"></a><br>
 <b><a href="https://x.com/anikrisn/status/2119950148294119483">Светящаяся изометрическая диорама с прудом</a></b><br>
@@ -475,26 +488,19 @@
 <br>
 <sub><a href="https://fablelist.000ooo.ooo/ru/prompts/?w=glowing-isometric-pond-diorama&ref=gh"><b>✨ Получить промпт</b></a></sub>
 </td>
-<td width="33%" valign="top">
-<a href="https://x.com/WesRoth/status/2119953913160093817"><img src="../assets/gifs/071.gif" width="100%" alt="Рилс за один заход"></a><br>
-<b><a href="https://x.com/WesRoth/status/2119953913160093817">Рилс за один заход</a></b><br>
-<sub><a href="https://x.com/WesRoth">@WesRoth</a> · ♥ 745 · <a href="https://x.com/WesRoth/status/2119953913160093817">▶ Видео</a></sub><br>
-<br>
-<sub><a href="https://fablelist.000ooo.ooo/ru/prompts/?w=one-shot-reel&ref=gh"><b>✨ Получить промпт</b></a></sub>
-</td>
-<td width="33%" valign="top">
-<a href="https://x.com/JaydenDavisNC/status/2120306434575392793"><img src="../assets/gifs/194.gif" width="100%" alt="Шутер от первого лица на Three.js, без внешних ассетов"></a><br>
-<b><a href="https://x.com/JaydenDavisNC/status/2120306434575392793">Шутер от первого лица на Three.js, без внешних ассетов</a></b><br>
-<sub><a href="https://x.com/JaydenDavisNC">@JaydenDavisNC</a> · ♥ 736 · <a href="https://x.com/JaydenDavisNC/status/2120306434575392793">▶ Видео</a></sub><br>
-<br>
-<sub><a href="https://fablelist.000ooo.ooo/ru/prompts/?w=a-first-person-shooter-in-three-js-no&ref=gh"><b>✨ Получить промпт</b></a></sub>
-</td>
 </tr>
 <tr>
 <td width="33%" valign="top">
+<a href="https://x.com/JaydenDavisNC/status/2120306434575392793"><img src="../assets/gifs/194.gif" width="100%" alt="Шутер от первого лица на Three.js, без внешних ассетов"></a><br>
+<b><a href="https://x.com/JaydenDavisNC/status/2120306434575392793">Шутер от первого лица на Three.js, без внешних ассетов</a></b><br>
+<sub><a href="https://x.com/JaydenDavisNC">@JaydenDavisNC</a> · ♥ 737 · <a href="https://x.com/JaydenDavisNC/status/2120306434575392793">▶ Видео</a></sub><br>
+<br>
+<sub><a href="https://fablelist.000ooo.ooo/ru/prompts/?w=a-first-person-shooter-in-three-js-no&ref=gh"><b>✨ Получить промпт</b></a></sub>
+</td>
+<td width="33%" valign="top">
 <a href="https://x.com/adamdotnew/status/2120071630139621540"><img src="../assets/gifs/157.gif" width="100%" alt="Тамагочи: печатная плата, корпус и рендер"></a><br>
 <b><a href="https://x.com/adamdotnew/status/2120071630139621540">Тамагочи: печатная плата, корпус и рендер</a></b><br>
-<sub><a href="https://x.com/adamdotnew">@adamdotnew</a> · ♥ 704 · <a href="https://x.com/adamdotnew/status/2120071630139621540">▶ Видео</a></sub><br>
+<sub><a href="https://x.com/adamdotnew">@adamdotnew</a> · ♥ 705 · <a href="https://x.com/adamdotnew/status/2120071630139621540">▶ Видео</a></sub><br>
 <br>
 <sub><a href="https://fablelist.000ooo.ooo/ru/prompts/?w=a-tamagotchi-pcb-enclosure-and-render&ref=gh"><b>✨ Получить промпт</b></a></sub>
 </td>
@@ -505,15 +511,21 @@
 <br>
 <sub><a href="https://fablelist.000ooo.ooo/ru/prompts/?w=aaa-three-js-basketball&ref=gh"><b>✨ Получить промпт</b></a></sub>
 </td>
+</tr>
+<tr>
 <td width="33%" valign="top">
 <a href="https://x.com/op7418/status/2120085300185833878"><img src="../assets/gifs/076.gif" width="100%" alt="Чернильные буквы"></a><br>
 <b><a href="https://x.com/op7418/status/2120085300185833878">Чернильные буквы</a></b><br>
-<sub><a href="https://x.com/op7418">@op7418</a> · ♥ 687 · <a href="https://x.com/op7418/status/2120085300185833878">▶ Видео</a></sub><br>
+<sub><a href="https://x.com/op7418">@op7418</a> · ♥ 686 · <a href="https://x.com/op7418/status/2120085300185833878">▶ Видео</a></sub><br>
 <sub>Нажмите символ — и он превращается в живые текучие чернила, со звуком.</sub><br>
 <sub><a href="https://fablelist.000ooo.ooo/ru/prompts/?w=ink-letters&ref=gh"><b>✨ Получить промпт</b></a></sub>
 </td>
-</tr>
-<tr>
+<td width="33%" valign="top">
+<a href="https://x.com/nikosolenne/status/2122497144976261202"><img src="../assets/gifs/342.gif" width="100%" alt="Дизайны сайтов от модели, которую хочется нанять дизайнером"></a><br>
+<b><a href="https://x.com/nikosolenne/status/2122497144976261202">Дизайны сайтов от модели, которую хочется нанять дизайнером</a></b><br>
+<sub><a href="https://x.com/nikosolenne">@nikosolenne</a> · ♥ 677 · <a href="https://x.com/nikosolenne/status/2122497144976261202">▶ Видео</a></sub><br>
+
+</td>
 <td width="33%" valign="top">
 <a href="https://x.com/kevin_t_ngo/status/2120308118127309173"><img src="../assets/gifs/166.gif" width="100%" alt="Реклама хлопьев в стиле 90-х"></a><br>
 <b><a href="https://x.com/kevin_t_ngo/status/2120308118127309173">Реклама хлопьев в стиле 90-х</a></b><br>
@@ -521,12 +533,8 @@
 <br>
 <sub><a href="https://fablelist.000ooo.ooo/ru/prompts/?w=a-90s-cereal-commercial&ref=gh"><b>✨ Получить промпт</b></a></sub>
 </td>
-<td width="33%" valign="top">
-<a href="https://x.com/nikosolenne/status/2122497144976261202"><img src="../assets/gifs/342.gif" width="100%" alt="Дизайны сайтов от модели, которую хочется нанять дизайнером"></a><br>
-<b><a href="https://x.com/nikosolenne/status/2122497144976261202">Дизайны сайтов от модели, которую хочется нанять дизайнером</a></b><br>
-<sub>🆕 · <a href="https://x.com/nikosolenne">@nikosolenne</a> · ♥ 676 · <a href="https://x.com/nikosolenne/status/2122497144976261202">▶ Видео</a></sub><br>
-
-</td>
+</tr>
+<tr>
 <td width="33%" valign="top">
 <a href="https://x.com/ICO_AIvideo/status/2120311646933680355"><img src="../assets/gifs/195.gif" width="100%" alt="Зацикленный ролик, сделанный в Blender"></a><br>
 <b><a href="https://x.com/ICO_AIvideo/status/2120311646933680355">Зацикленный ролик, сделанный в Blender</a></b><br>
@@ -534,8 +542,6 @@
 <br>
 <sub><a href="https://fablelist.000ooo.ooo/ru/prompts/?w=a-looping-short-made-in-blender&ref=gh"><b>✨ Получить промпт</b></a></sub>
 </td>
-</tr>
-<tr>
 <td width="33%" valign="top">
 <a href="https://x.com/KanaWorks_AI/status/2120098607382880627"><img src="../assets/gifs/159.gif" width="100%" alt="37-секундный полёт без склеек над бесконечным ландшафтом"></a><br>
 <b><a href="https://x.com/KanaWorks_AI/status/2120098607382880627">37-секундный полёт без склеек над бесконечным ландшафтом</a></b><br>
@@ -550,6 +556,8 @@
 <br>
 <sub><a href="https://fablelist.000ooo.ooo/ru/prompts/?w=a-data-pipeline-write-up-that-became-a&ref=gh"><b>✨ Получить промпт</b></a></sub>
 </td>
+</tr>
+<tr>
 <td width="33%" valign="top">
 <a href="https://x.com/LexnLin/status/2120167637133238295"><img src="../assets/gifs/160.gif" width="100%" alt="Анимация логотипа Claude"></a><br>
 <b><a href="https://x.com/LexnLin/status/2120167637133238295">Анимация логотипа Claude</a></b><br>
@@ -557,30 +565,28 @@
 <br>
 <sub><a href="https://fablelist.000ooo.ooo/ru/prompts/?w=claude-logo-animation&ref=gh"><b>✨ Получить промпт</b></a></sub>
 </td>
-</tr>
-<tr>
 <td width="33%" valign="top">
 <a href="https://x.com/lemomo_ai/status/2120118194409193682"><img src="../assets/gifs/103.gif" width="100%" alt="Библиотека в полночь"></a><br>
 <b><a href="https://x.com/lemomo_ai/status/2120118194409193682">Библиотека в полночь</a></b><br>
-<sub><a href="https://x.com/lemomo_ai">@lemomo_ai</a> · ♥ 623 · <a href="https://x.com/lemomo_ai/status/2120118194409193682">▶ Видео</a></sub><br>
+<sub><a href="https://x.com/lemomo_ai">@lemomo_ai</a> · ♥ 624 · <a href="https://x.com/lemomo_ai/status/2120118194409193682">▶ Видео</a></sub><br>
 <sub>24 000 страниц взмывают в воздух.</sub><br>
 <sub><a href="https://fablelist.000ooo.ooo/ru/prompts/?w=a-library-at-midnight&ref=gh"><b>✨ Получить промпт</b></a></sub>
 </td>
 <td width="33%" valign="top">
 <a href="https://x.com/PhotoGarrido/status/2122292866894680476"><img src="../assets/gifs/322.gif" width="100%" alt="Бенчмарк водопада в Houdini"></a><br>
 <b><a href="https://x.com/PhotoGarrido/status/2122292866894680476">Бенчмарк водопада в Houdini</a></b><br>
-<sub><a href="https://x.com/PhotoGarrido">@PhotoGarrido</a> · ♥ 622 · <a href="https://x.com/PhotoGarrido/status/2122292866894680476">▶ Видео</a></sub><br>
+<sub><a href="https://x.com/PhotoGarrido">@PhotoGarrido</a> · ♥ 621 · <a href="https://x.com/PhotoGarrido/status/2122292866894680476">▶ Видео</a></sub><br>
 
-</td>
-<td width="33%" valign="top">
-<a href="https://x.com/mxvdl/status/2120809570344050705"><img src="../assets/gifs/245.gif" width="100%" alt="Разбор шейдера мазков кисти на Three.js"></a><br>
-<b><a href="https://x.com/mxvdl/status/2120809570344050705">Разбор шейдера мазков кисти на Three.js</a></b><br>
-<sub><a href="https://x.com/mxvdl">@mxvdl</a> · ♥ 603 · <a href="https://x.com/mxvdl/status/2120809570344050705">▶ Видео</a></sub><br>
-<br>
-<sub><a href="https://fablelist.000ooo.ooo/ru/prompts/?w=three-js-brush-stroke-shader-breakdown&ref=gh"><b>✨ Получить промпт</b></a></sub>
 </td>
 </tr>
 <tr>
+<td width="33%" valign="top">
+<a href="https://x.com/mxvdl/status/2120809570344050705"><img src="../assets/gifs/245.gif" width="100%" alt="Разбор шейдера мазков кисти на Three.js"></a><br>
+<b><a href="https://x.com/mxvdl/status/2120809570344050705">Разбор шейдера мазков кисти на Three.js</a></b><br>
+<sub><a href="https://x.com/mxvdl">@mxvdl</a> · ♥ 604 · <a href="https://x.com/mxvdl/status/2120809570344050705">▶ Видео</a></sub><br>
+<br>
+<sub><a href="https://fablelist.000ooo.ooo/ru/prompts/?w=three-js-brush-stroke-shader-breakdown&ref=gh"><b>✨ Получить промпт</b></a></sub>
+</td>
 <td width="33%" valign="top">
 <a href="https://x.com/kevin_t_ngo/status/2120540964909711415"><img src="../assets/gifs/167.gif" width="100%" alt="Анимированная заставка шоу"></a><br>
 <b><a href="https://x.com/kevin_t_ngo/status/2120540964909711415">Анимированная заставка шоу</a></b><br>
@@ -591,19 +597,19 @@
 <td width="33%" valign="top">
 <a href="https://x.com/MrTacticalX/status/2120342453807157720"><img src="../assets/gifs/161.gif" width="100%" alt="Механическая клавиатура в Blender, вместе с печатью"></a><br>
 <b><a href="https://x.com/MrTacticalX/status/2120342453807157720">Механическая клавиатура в Blender, вместе с печатью</a></b><br>
-<sub><a href="https://x.com/MrTacticalX">@MrTacticalX</a> · ♥ 561 · <a href="https://x.com/MrTacticalX/status/2120342453807157720">▶ Видео</a></sub><br>
+<sub><a href="https://x.com/MrTacticalX">@MrTacticalX</a> · ♥ 560 · <a href="https://x.com/MrTacticalX/status/2120342453807157720">▶ Видео</a></sub><br>
 <br>
 <sub><a href="https://fablelist.000ooo.ooo/ru/prompts/?w=a-mechanical-keyboard-in-blender-typing-included&ref=gh"><b>✨ Получить промпт</b></a></sub>
 </td>
+</tr>
+<tr>
 <td width="33%" valign="top">
 <a href="https://x.com/dom_scholz/status/2119933150025363661"><img src="../assets/gifs/072.gif" width="100%" alt="Opus 5.5 vs Fable 5.2"></a><br>
 <b><a href="https://x.com/dom_scholz/status/2119933150025363661">Opus 5.5 vs Fable 5.2</a></b><br>
-<sub><a href="https://x.com/dom_scholz">@dom_scholz</a> · ♥ 557 · <a href="https://x.com/dom_scholz/status/2119933150025363661">▶ Видео</a></sub><br>
+<sub><a href="https://x.com/dom_scholz">@dom_scholz</a> · ♥ 559 · <a href="https://x.com/dom_scholz/status/2119933150025363661">▶ Видео</a></sub><br>
 <br>
 <sub><a href="https://fablelist.000ooo.ooo/ru/prompts/?w=opus-5-5-vs-fable-5-2&ref=gh"><b>✨ Получить промпт</b></a></sub>
 </td>
-</tr>
-<tr>
 <td width="33%" valign="top">
 <a href="https://x.com/thomaszhou_/status/2120389154970509666"><img src="../assets/gifs/162.gif" width="100%" alt="«Beauty» — короткометражка из одного предложения"></a><br>
 <b><a href="https://x.com/thomaszhou_/status/2120389154970509666">«Beauty» — короткометражка из одного предложения</a></b><br>
@@ -614,50 +620,58 @@
 <td width="33%" valign="top">
 <a href="https://x.com/MengTo/status/2120316203738829180"><img src="../assets/gifs/196.gif" width="100%" alt="Квартира с three.js, воссозданная в Blender"></a><br>
 <b><a href="https://x.com/MengTo/status/2120316203738829180">Квартира с three.js, воссозданная в Blender</a></b><br>
-<sub><a href="https://x.com/MengTo">@MengTo</a> · ♥ 514 · <a href="https://x.com/MengTo/status/2120316203738829180">▶ Видео</a></sub><br>
+<sub><a href="https://x.com/MengTo">@MengTo</a> · ♥ 517 · <a href="https://x.com/MengTo/status/2120316203738829180">▶ Видео</a></sub><br>
 <br>
 <sub><a href="https://fablelist.000ooo.ooo/ru/prompts/?w=a-three-js-apartment-recreated-in-blender&ref=gh"><b>✨ Получить промпт</b></a></sub>
 </td>
+</tr>
+<tr>
 <td width="33%" valign="top">
 <a href="https://x.com/rileybrown/status/2119973951027724385"><img src="../assets/gifs/078.gif" width="100%" alt="Видео, смонтированное Fable, о монтаже с Fable"></a><br>
 <b><a href="https://x.com/rileybrown/status/2119973951027724385">Видео, смонтированное Fable, о монтаже с Fable</a></b><br>
 <sub><a href="https://x.com/rileybrown">@rileybrown</a> · ♥ 504 · <a href="https://x.com/rileybrown/status/2119973951027724385">▶ Видео</a></sub><br>
 
 </td>
-</tr>
-<tr>
 <td width="33%" valign="top">
 <a href="https://x.com/oalanicolas/status/2120266468780585456"><img src="../assets/gifs/163.gif" width="100%" alt="Экскурсия по ещё не построенному дому"></a><br>
 <b><a href="https://x.com/oalanicolas/status/2120266468780585456">Экскурсия по ещё не построенному дому</a></b><br>
-<sub><a href="https://x.com/oalanicolas">@oalanicolas</a> · ♥ 501 · <a href="https://x.com/oalanicolas/status/2120266468780585456">▶ Видео</a></sub><br>
+<sub><a href="https://x.com/oalanicolas">@oalanicolas</a> · ♥ 500 · <a href="https://x.com/oalanicolas/status/2120266468780585456">▶ Видео</a></sub><br>
 <br>
 <sub><a href="https://x.com/oalanicolas/status/2120266468780585456">📝 Промпт автора (бесплатно)</a></sub>
 </td>
 <td width="33%" valign="top">
 <a href="https://x.com/lucian__03/status/2120197600255361025"><img src="../assets/gifs/255.gif" width="100%" alt="Реалистичная 3D-игра про ферму, чистый код, 3 промпта за 4 часа"></a><br>
 <b><a href="https://x.com/lucian__03/status/2120197600255361025">Реалистичная 3D-игра про ферму, чистый код, 3 промпта за 4 часа</a></b><br>
-<sub><a href="https://x.com/lucian__03">@lucian__03</a> · ♥ 494 · <a href="https://x.com/lucian__03/status/2120197600255361025">▶ Видео</a></sub><br>
+<sub><a href="https://x.com/lucian__03">@lucian__03</a> · ♥ 493 · <a href="https://x.com/lucian__03/status/2120197600255361025">▶ Видео</a></sub><br>
 <br>
 <sub><a href="https://fablelist.000ooo.ooo/ru/prompts/?w=realistic-3d-farm-game-pure-code-3-prompts&ref=gh"><b>✨ Получить промпт</b></a></sub>
-</td>
-<td width="33%" valign="top">
-<a href="https://x.com/seiiiiiiiiiiru/status/2121724395354018201"><img src="../assets/gifs/296.gif" width="100%" alt="Захват движений: Claude x Blender"></a><br>
-<b><a href="https://x.com/seiiiiiiiiiiru/status/2121724395354018201">Захват движений: Claude x Blender</a></b><br>
-<sub><a href="https://x.com/seiiiiiiiiiiru">@seiiiiiiiiiiru</a> · ♥ 491 · <a href="https://x.com/seiiiiiiiiiiru/status/2121724395354018201">▶ Видео</a></sub><br>
-
 </td>
 </tr>
 <tr>
 <td width="33%" valign="top">
+<a href="https://x.com/seiiiiiiiiiiru/status/2121724395354018201"><img src="../assets/gifs/296.gif" width="100%" alt="Захват движений: Claude x Blender"></a><br>
+<b><a href="https://x.com/seiiiiiiiiiiru/status/2121724395354018201">Захват движений: Claude x Blender</a></b><br>
+<sub><a href="https://x.com/seiiiiiiiiiiru">@seiiiiiiiiiiru</a> · ♥ 492 · <a href="https://x.com/seiiiiiiiiiiru/status/2121724395354018201">▶ Видео</a></sub><br>
+
+</td>
+<td width="33%" valign="top">
 <a href="https://x.com/MartinOesterhel/status/2120464036030517525"><img src="../assets/gifs/283.gif" width="100%" alt="Трейлер про треугольник гранулометрического состава почв"></a><br>
 <b><a href="https://x.com/MartinOesterhel/status/2120464036030517525">Трейлер про треугольник гранулометрического состава почв</a></b><br>
-<sub><a href="https://x.com/MartinOesterhel">@MartinOesterhel</a> · ♥ 489 · <a href="https://x.com/MartinOesterhel/status/2120464036030517525">▶ Видео</a></sub><br>
+<sub><a href="https://x.com/MartinOesterhel">@MartinOesterhel</a> · ♥ 488 · <a href="https://x.com/MartinOesterhel/status/2120464036030517525">▶ Видео</a></sub><br>
 
 </td>
 <td width="33%" valign="top">
 <a href="https://x.com/jeanalexandre_b/status/2120783430606840084"><img src="../assets/gifs/287.gif" width="100%" alt="Фото, перерисованное 100 000 цветных мазков, только кодом"></a><br>
 <b><a href="https://x.com/jeanalexandre_b/status/2120783430606840084">Фото, перерисованное 100 000 цветных мазков, только кодом</a></b><br>
 <sub><a href="https://x.com/jeanalexandre_b">@jeanalexandre_b</a> · ♥ 480 · <a href="https://x.com/jeanalexandre_b/status/2120783430606840084">▶ Видео</a></sub><br>
+
+</td>
+</tr>
+<tr>
+<td width="33%" valign="top">
+<a href="https://x.com/gavinpurcell/status/2121407421465985382"><img src="../assets/gifs/286.gif" width="100%" alt="Вестерн про спагетти в гортани, финальная глава"></a><br>
+<b><a href="https://x.com/gavinpurcell/status/2121407421465985382">Вестерн про спагетти в гортани, финальная глава</a></b><br>
+<sub><a href="https://x.com/gavinpurcell">@gavinpurcell</a> · ♥ 476 · <a href="https://x.com/gavinpurcell/status/2121407421465985382">▶ Видео</a></sub><br>
 
 </td>
 <td width="33%" valign="top">
@@ -667,21 +681,15 @@
 <br>
 <sub><a href="https://x.com/semichenkko/status/2119960596951236675">📝 Промпт автора (бесплатно)</a></sub>
 </td>
-</tr>
-<tr>
-<td width="33%" valign="top">
-<a href="https://x.com/gavinpurcell/status/2121407421465985382"><img src="../assets/gifs/286.gif" width="100%" alt="Вестерн про спагетти в гортани, финальная глава"></a><br>
-<b><a href="https://x.com/gavinpurcell/status/2121407421465985382">Вестерн про спагетти в гортани, финальная глава</a></b><br>
-<sub><a href="https://x.com/gavinpurcell">@gavinpurcell</a> · ♥ 474 · <a href="https://x.com/gavinpurcell/status/2121407421465985382">▶ Видео</a></sub><br>
-
-</td>
 <td width="33%" valign="top">
 <a href="https://x.com/Stefan_3D_AI/status/2120773803869659150"><img src="../assets/gifs/244.gif" width="100%" alt="От промпта до бесшовного PBR-материала за 6 минут"></a><br>
 <b><a href="https://x.com/Stefan_3D_AI/status/2120773803869659150">От промпта до бесшовного PBR-материала за 6 минут</a></b><br>
-<sub><a href="https://x.com/Stefan_3D_AI">@Stefan_3D_AI</a> · ♥ 471 · <a href="https://x.com/Stefan_3D_AI/status/2120773803869659150">▶ Видео</a></sub><br>
+<sub><a href="https://x.com/Stefan_3D_AI">@Stefan_3D_AI</a> · ♥ 470 · <a href="https://x.com/Stefan_3D_AI/status/2120773803869659150">▶ Видео</a></sub><br>
 <br>
 <sub><a href="https://fablelist.000ooo.ooo/ru/prompts/?w=prompt-to-seamless-pbr-material-in-6-minutes&ref=gh"><b>✨ Получить промпт</b></a></sub>
 </td>
+</tr>
+<tr>
 <td width="33%" valign="top">
 <a href="https://x.com/mattshumer_/status/2119900920347828670"><img src="../assets/gifs/073.gif" width="100%" alt="Целый фильм в коде"></a><br>
 <b><a href="https://x.com/mattshumer_/status/2119900920347828670">Целый фильм в коде</a></b><br>
@@ -689,8 +697,6 @@
 <sub>Голоса, графика, всё.</sub><br>
 <sub><a href="https://fablelist.000ooo.ooo/ru/prompts/?w=a-whole-movie-in-code&ref=gh"><b>✨ Получить промпт</b></a></sub>
 </td>
-</tr>
-<tr>
 <td width="33%" valign="top">
 <a href="https://x.com/amrnth0/status/2120849097871810973"><img src="../assets/gifs/284.gif" width="100%" alt="Взлом Railway, объяснённый анимацией"></a><br>
 <b><a href="https://x.com/amrnth0/status/2120849097871810973">Взлом Railway, объяснённый анимацией</a></b><br>
@@ -700,13 +706,7 @@
 <td width="33%" valign="top">
 <a href="https://x.com/withbassam/status/2121536898976100486"><img src="../assets/gifs/312.gif" width="100%" alt="Звёздная карта арабских названий звёзд"></a><br>
 <b><a href="https://x.com/withbassam/status/2121536898976100486">Звёздная карта арабских названий звёзд</a></b><br>
-<sub><a href="https://x.com/withbassam">@withbassam</a> · ♥ 456 · <a href="https://x.com/withbassam/status/2121536898976100486">▶ Видео</a></sub><br>
-
-</td>
-<td width="33%" valign="top">
-<a href="https://x.com/Vtuber7144/status/2121739961938428167"><img src="../assets/gifs/305.gif" width="100%" alt="Как превратить шумные референсы в чистый cel-shading"></a><br>
-<b><a href="https://x.com/Vtuber7144/status/2121739961938428167">Как превратить шумные референсы в чистый cel-shading</a></b><br>
-<sub><a href="https://x.com/Vtuber7144">@Vtuber7144</a> · ♥ 445 · <a href="https://x.com/Vtuber7144/status/2121739961938428167">▶ Видео</a></sub><br>
+<sub><a href="https://x.com/withbassam">@withbassam</a> · ♥ 458 · <a href="https://x.com/withbassam/status/2121536898976100486">▶ Видео</a></sub><br>
 
 </td>
 </tr>
@@ -714,7 +714,13 @@
 <td width="33%" valign="top">
 <a href="https://x.com/so_ainsight/status/2121970275353010214"><img src="../assets/gifs/343.gif" width="100%" alt="Видео с ИИ-аватаром без Higgsfield и HeyGen"></a><br>
 <b><a href="https://x.com/so_ainsight/status/2121970275353010214">Видео с ИИ-аватаром без Higgsfield и HeyGen</a></b><br>
-<sub>🆕 · <a href="https://x.com/so_ainsight">@so_ainsight</a> · ♥ 444 · <a href="https://x.com/so_ainsight/status/2121970275353010214">▶ Видео</a></sub><br>
+<sub><a href="https://x.com/so_ainsight">@so_ainsight</a> · ♥ 446 · <a href="https://x.com/so_ainsight/status/2121970275353010214">▶ Видео</a></sub><br>
+
+</td>
+<td width="33%" valign="top">
+<a href="https://x.com/Vtuber7144/status/2121739961938428167"><img src="../assets/gifs/305.gif" width="100%" alt="Как превратить шумные референсы в чистый cel-shading"></a><br>
+<b><a href="https://x.com/Vtuber7144/status/2121739961938428167">Как превратить шумные референсы в чистый cel-shading</a></b><br>
+<sub><a href="https://x.com/Vtuber7144">@Vtuber7144</a> · ♥ 445 · <a href="https://x.com/Vtuber7144/status/2121739961938428167">▶ Видео</a></sub><br>
 
 </td>
 <td width="33%" valign="top">
@@ -724,20 +730,20 @@
 <br>
 <sub><a href="https://fablelist.000ooo.ooo/ru/prompts/?w=swiftui-eye-color-app&ref=gh"><b>✨ Получить промпт</b></a></sub>
 </td>
+</tr>
+<tr>
+<td width="33%" valign="top">
+<a href="https://x.com/gavinpurcell/status/2120581152054583369"><img src="../assets/gifs/285.gif" width="100%" alt="Вестерн про спагетти в гортани, глава вторая"></a><br>
+<b><a href="https://x.com/gavinpurcell/status/2120581152054583369">Вестерн про спагетти в гортани, глава вторая</a></b><br>
+<sub><a href="https://x.com/gavinpurcell">@gavinpurcell</a> · ♥ 428 · <a href="https://x.com/gavinpurcell/status/2120581152054583369">▶ Видео</a></sub><br>
+
+</td>
 <td width="33%" valign="top">
 <a href="https://x.com/jsnnsa/status/2120161161803088061"><img src="../assets/gifs/164.gif" width="100%" alt="Разработал шрифт, а потом снял о нём документальный фильм"></a><br>
 <b><a href="https://x.com/jsnnsa/status/2120161161803088061">Разработал шрифт, а потом снял о нём документальный фильм</a></b><br>
 <sub><a href="https://x.com/jsnnsa">@jsnnsa</a> · ♥ 427 · <a href="https://x.com/jsnnsa/status/2120161161803088061">▶ Видео</a></sub><br>
 <br>
 <sub><a href="https://fablelist.000ooo.ooo/ru/prompts/?w=designed-a-font-then-a-documentary-about-it&ref=gh"><b>✨ Получить промпт</b></a></sub>
-</td>
-</tr>
-<tr>
-<td width="33%" valign="top">
-<a href="https://x.com/gavinpurcell/status/2120581152054583369"><img src="../assets/gifs/285.gif" width="100%" alt="Вестерн про спагетти в гортани, глава вторая"></a><br>
-<b><a href="https://x.com/gavinpurcell/status/2120581152054583369">Вестерн про спагетти в гортани, глава вторая</a></b><br>
-<sub><a href="https://x.com/gavinpurcell">@gavinpurcell</a> · ♥ 427 · <a href="https://x.com/gavinpurcell/status/2120581152054583369">▶ Видео</a></sub><br>
-
 </td>
 <td width="33%" valign="top">
 <a href="https://x.com/themianoo/status/2120042064666882266"><img src="../assets/gifs/090.gif" width="100%" alt="Пеликан на велосипеде в Blender"></a><br>
@@ -746,14 +752,14 @@
 <sub>~4 800 строк Python, 444 кадра.</sub><br>
 <sub><a href="https://fablelist.000ooo.ooo/ru/prompts/?w=pelican-riding-a-bicycle-in-blender&ref=gh"><b>✨ Получить промпт</b></a></sub>
 </td>
+</tr>
+<tr>
 <td width="33%" valign="top">
 <a href="https://x.com/seftsaint/status/2121931382255755691"><img src="../assets/gifs/306.gif" width="100%" alt="Прогулка по городу игры Ashira2093"></a><br>
 <b><a href="https://x.com/seftsaint/status/2121931382255755691">Прогулка по городу игры Ashira2093</a></b><br>
-<sub><a href="https://x.com/seftsaint">@seftsaint</a> · ♥ 375 · <a href="https://x.com/seftsaint/status/2121931382255755691">▶ Видео</a></sub><br>
+<sub><a href="https://x.com/seftsaint">@seftsaint</a> · ♥ 373 · <a href="https://x.com/seftsaint/status/2121931382255755691">▶ Видео</a></sub><br>
 
 </td>
-</tr>
-<tr>
 <td width="33%" valign="top">
 <a href="https://x.com/Izkimar/status/2119931740940640542"><img src="../assets/gifs/079.gif" width="100%" alt="Стилизованный MMO-мир за день"></a><br>
 <b><a href="https://x.com/Izkimar/status/2119931740940640542">Стилизованный MMO-мир за день</a></b><br>
@@ -768,6 +774,8 @@
 <br>
 <sub><a href="https://fablelist.000ooo.ooo/ru/prompts/?w=rocket-launch-fable-vs-opus&ref=gh"><b>✨ Получить промпт</b></a></sub>
 </td>
+</tr>
+<tr>
 <td width="33%" valign="top">
 <a href="https://x.com/RuslanKyrch/status/2119896220814762218"><img src="../assets/gifs/081.gif" width="100%" alt="Редизайн приложения, 5.1 vs 5.2"></a><br>
 <b><a href="https://x.com/RuslanKyrch/status/2119896220814762218">Редизайн приложения, 5.1 vs 5.2</a></b><br>
@@ -775,8 +783,6 @@
 <br>
 <sub><a href="https://fablelist.000ooo.ooo/ru/prompts/?w=app-redesign-5-1-vs-5-2&ref=gh"><b>✨ Получить промпт</b></a></sub>
 </td>
-</tr>
-<tr>
 <td width="33%" valign="top">
 <a href="https://x.com/Stefan_3D_AI/status/2120041169719894165"><img src="../assets/gifs/089.gif" width="100%" alt="Замок в Blender (Fable vs Opus)"></a><br>
 <b><a href="https://x.com/Stefan_3D_AI/status/2120041169719894165">Замок в Blender (Fable vs Opus)</a></b><br>
@@ -791,15 +797,15 @@
 <br>
 <sub><a href="https://fablelist.000ooo.ooo/ru/prompts/?w=an-ad-with-the-elevenlabs-mcp&ref=gh"><b>✨ Получить промпт</b></a></sub>
 </td>
+</tr>
+<tr>
 <td width="33%" valign="top">
 <a href="https://x.com/EvanMilenko/status/2119969113762082931"><img src="../assets/gifs/091.gif" width="100%" alt="Игра про фехтование"></a><br>
 <b><a href="https://x.com/EvanMilenko/status/2119969113762082931">Игра про фехтование</a></b><br>
-<sub><a href="https://x.com/EvanMilenko">@EvanMilenko</a> · ♥ 286 · <a href="https://x.com/EvanMilenko/status/2119969113762082931">▶ Видео</a></sub><br>
+<sub><a href="https://x.com/EvanMilenko">@EvanMilenko</a> · ♥ 285 · <a href="https://x.com/EvanMilenko/status/2119969113762082931">▶ Видео</a></sub><br>
 <br>
 <sub><a href="https://fablelist.000ooo.ooo/ru/prompts/?w=sword-fighting-game&ref=gh"><b>✨ Получить промпт</b></a></sub>
 </td>
-</tr>
-<tr>
 <td width="33%" valign="top">
 <a href="https://x.com/DeryaTR_/status/2119974354260013293"><img src="../assets/gifs/168.gif" width="100%" alt="Кинематографичное 3D-путешествие по истории науки"></a><br>
 <b><a href="https://x.com/DeryaTR_/status/2119974354260013293">Кинематографичное 3D-путешествие по истории науки</a></b><br>
@@ -813,6 +819,8 @@
 <sub><a href="https://x.com/elvar_official">@elvar_official</a> · ♥ 283 · <a href="https://x.com/elvar_official/status/2121579587222016201">▶ Видео</a></sub><br>
 
 </td>
+</tr>
+<tr>
 <td width="33%" valign="top">
 <a href="https://x.com/RJasonHA/status/2120007540713099768"><img src="../assets/gifs/097.gif" width="100%" alt="Симфония"></a><br>
 <b><a href="https://x.com/RJasonHA/status/2120007540713099768">Симфония</a></b><br>
@@ -820,12 +828,10 @@
 <br>
 <sub><a href="https://fablelist.000ooo.ooo/ru/prompts/?w=a-symphony&ref=gh"><b>✨ Получить промпт</b></a></sub>
 </td>
-</tr>
-<tr>
 <td width="33%" valign="top">
 <a href="https://x.com/_MaxBlade/status/2119992020076814436"><img src="../assets/gifs/087.gif" width="100%" alt="Симулятор стрижки газона"></a><br>
 <b><a href="https://x.com/_MaxBlade/status/2119992020076814436">Симулятор стрижки газона</a></b><br>
-<sub><a href="https://x.com/_MaxBlade">@_MaxBlade</a> · ♥ 263 · <a href="https://x.com/_MaxBlade/status/2119992020076814436">▶ Видео</a></sub><br>
+<sub><a href="https://x.com/_MaxBlade">@_MaxBlade</a> · ♥ 262 · <a href="https://x.com/_MaxBlade/status/2119992020076814436">▶ Видео</a></sub><br>
 <br>
 <sub><a href="https://fablelist.000ooo.ooo/ru/prompts/?w=lawn-mowing-simulator&ref=gh"><b>✨ Получить промпт</b></a></sub>
 </td>
@@ -836,6 +842,8 @@
 <br>
 <sub><a href="https://fablelist.000ooo.ooo/ru/prompts/?w=monica-s-apartment-in-three-js&ref=gh"><b>✨ Получить промпт</b></a></sub>
 </td>
+</tr>
+<tr>
 <td width="33%" valign="top">
 <a href="https://x.com/AmirMushich/status/2119903338078564844"><img src="../assets/gifs/086.gif" width="100%" alt="Blender + Reaper: звуковой дизайн"></a><br>
 <b><a href="https://x.com/AmirMushich/status/2119903338078564844">Blender + Reaper: звуковой дизайн</a></b><br>
@@ -843,8 +851,6 @@
 <br>
 <sub><a href="https://fablelist.000ooo.ooo/ru/prompts/?w=blender-reaper-sound-design&ref=gh"><b>✨ Получить промпт</b></a></sub>
 </td>
-</tr>
-<tr>
 <td width="33%" valign="top">
 <a href="https://x.com/dfeinition/status/2119881243990859818"><img src="../assets/gifs/083.gif" width="100%" alt="Меловой рисунок оживает"></a><br>
 <b><a href="https://x.com/dfeinition/status/2119881243990859818">Меловой рисунок оживает</a></b><br>
@@ -859,6 +865,8 @@
 <br>
 <sub><a href="https://fablelist.000ooo.ooo/ru/prompts/?w=bryceball-a-renderer-used-as-a-game-engine&ref=gh"><b>✨ Получить промпт</b></a></sub>
 </td>
+</tr>
+<tr>
 <td width="33%" valign="top">
 <a href="https://x.com/chetaslua/status/2120548065044234504"><img src="../assets/gifs/172.gif" width="100%" alt="Супермен летит сквозь историю CG, чистый JS"></a><br>
 <b><a href="https://x.com/chetaslua/status/2120548065044234504">Супермен летит сквозь историю CG, чистый JS</a></b><br>
@@ -866,8 +874,6 @@
 <br>
 <sub><a href="https://fablelist.000ooo.ooo/ru/prompts/?w=superman-flies-through-cg-history-pure-js&ref=gh"><b>✨ Получить промпт</b></a></sub>
 </td>
-</tr>
-<tr>
 <td width="33%" valign="top">
 <a href="https://x.com/dfeinition/status/2119886262211625062"><img src="../assets/gifs/085.gif" width="100%" alt="Ткань и свет"></a><br>
 <b><a href="https://x.com/dfeinition/status/2119886262211625062">Ткань и свет</a></b><br>
@@ -878,19 +884,19 @@
 <td width="33%" valign="top">
 <a href="https://x.com/notjazii/status/2119886035421442097"><img src="../assets/gifs/082.gif" width="100%" alt="Один промпт, Fable vs Opus"></a><br>
 <b><a href="https://x.com/notjazii/status/2119886035421442097">Один промпт, Fable vs Opus</a></b><br>
-<sub><a href="https://x.com/notjazii">@notjazii</a> · ♥ 205 · <a href="https://x.com/notjazii/status/2119886035421442097">▶ Видео</a></sub><br>
+<sub><a href="https://x.com/notjazii">@notjazii</a> · ♥ 204 · <a href="https://x.com/notjazii/status/2119886035421442097">▶ Видео</a></sub><br>
 <br>
 <sub><a href="https://fablelist.000ooo.ooo/ru/prompts/?w=same-prompt-fable-vs-opus&ref=gh"><b>✨ Получить промпт</b></a></sub>
 </td>
+</tr>
+<tr>
 <td width="33%" valign="top">
 <a href="https://x.com/WesRoth/status/2119911161386934330"><img src="../assets/gifs/092.gif" width="100%" alt="Музыкальное видео"></a><br>
 <b><a href="https://x.com/WesRoth/status/2119911161386934330">Музыкальное видео</a></b><br>
-<sub><a href="https://x.com/WesRoth">@WesRoth</a> · ♥ 183 · <a href="https://x.com/WesRoth/status/2119911161386934330">▶ Видео</a></sub><br>
+<sub><a href="https://x.com/WesRoth">@WesRoth</a> · ♥ 182 · <a href="https://x.com/WesRoth/status/2119911161386934330">▶ Видео</a></sub><br>
 <br>
 <sub><a href="https://fablelist.000ooo.ooo/ru/prompts/?w=music-video&ref=gh"><b>✨ Получить промпт</b></a></sub>
 </td>
-</tr>
-<tr>
 <td width="33%" valign="top">
 <a href="https://x.com/AlchainHust/status/2120065556003102731"><img src="../assets/gifs/106.gif" width="100%" alt="Воссоздание фото с Бора-Бора"></a><br>
 <b><a href="https://x.com/AlchainHust/status/2120065556003102731">Воссоздание фото с Бора-Бора</a></b><br>
@@ -905,6 +911,8 @@
 <br>
 <sub><a href="https://fablelist.000ooo.ooo/ru/prompts/?w=kids-english-cartoon&ref=gh"><b>✨ Получить промпт</b></a></sub>
 </td>
+</tr>
+<tr>
 <td width="33%" valign="top">
 <a href="https://x.com/EvanMilenko/status/2120322640048959503"><img src="../assets/gifs/170.gif" width="100%" alt="Игра про дракона на Three.js"></a><br>
 <b><a href="https://x.com/EvanMilenko/status/2120322640048959503">Игра про дракона на Three.js</a></b><br>
@@ -912,8 +920,6 @@
 <br>
 <sub><a href="https://fablelist.000ooo.ooo/ru/prompts/?w=a-dragon-game-in-three-js&ref=gh"><b>✨ Получить промпт</b></a></sub>
 </td>
-</tr>
-<tr>
 <td width="33%" valign="top">
 <a href="https://x.com/mattshumer_/status/2119889518564147409"><img src="../assets/gifs/098.gif" width="100%" alt="Робот, которого можно собрать дома"></a><br>
 <b><a href="https://x.com/mattshumer_/status/2119889518564147409">Робот, которого можно собрать дома</a></b><br>
@@ -928,6 +934,8 @@
 <br>
 <sub><a href="https://fablelist.000ooo.ooo/ru/prompts/?w=claymation&ref=gh"><b>✨ Получить промпт</b></a></sub>
 </td>
+</tr>
+<tr>
 <td width="33%" valign="top">
 <a href="https://x.com/petergostev/status/2120125927086600681"><img src="../assets/gifs/171.gif" width="100%" alt="Вязаный коралловый риф"></a><br>
 <b><a href="https://x.com/petergostev/status/2120125927086600681">Вязаный коралловый риф</a></b><br>
@@ -935,8 +943,6 @@
 <br>
 <sub><a href="https://fablelist.000ooo.ooo/ru/prompts/?w=crochet-coral-reef&ref=gh"><b>✨ Получить промпт</b></a></sub>
 </td>
-</tr>
-<tr>
 <td width="33%" valign="top">
 <a href="https://x.com/techartist_/status/2119946891106394518"><img src="../assets/gifs/102.gif" width="100%" alt="Четыре концепта игровых автоматов"></a><br>
 <b><a href="https://x.com/techartist_/status/2119946891106394518">Четыре концепта игровых автоматов</a></b><br>
@@ -951,6 +957,8 @@
 <br>
 <sub><a href="https://x.com/wangray/status/2120040640423850168">📝 Промпт автора (бесплатно)</a></sub>
 </td>
+</tr>
+<tr>
 <td width="33%" valign="top">
 <a href="https://x.com/abhinavflac/status/2119884257145581980"><img src="../assets/gifs/099.gif" width="100%" alt="Пеликан на велосипеде (классический тест)"></a><br>
 <b><a href="https://x.com/abhinavflac/status/2119884257145581980">Пеликан на велосипеде (классический тест)</a></b><br>
@@ -958,8 +966,6 @@
 <br>
 <sub><a href="https://fablelist.000ooo.ooo/ru/prompts/?w=pelican-on-a-bicycle-classic-test&ref=gh"><b>✨ Получить промпт</b></a></sub>
 </td>
-</tr>
-<tr>
 <td width="33%" valign="top">
 <a href="https://x.com/aug5thmusic/status/2119907891419480107"><img src="../assets/gifs/104.gif" width="100%" alt="Фуга в стиле Баха"></a><br>
 <b><a href="https://x.com/aug5thmusic/status/2119907891419480107">Фуга в стиле Баха</a></b><br>
@@ -974,6 +980,8 @@
 <br>
 <sub><a href="https://fablelist.000ooo.ooo/ru/prompts/?w=sound-on-piece&ref=gh"><b>✨ Получить промпт</b></a></sub>
 </td>
+</tr>
+<tr>
 <td width="33%" valign="top">
 <a href="https://x.com/Lummox_eth/status/2120093679243194793"><img src="../assets/gifs/117.gif" width="100%" alt="Дракон из «Игры престолов» за 36 $"></a><br>
 <b><a href="https://x.com/Lummox_eth/status/2120093679243194793">Дракон из «Игры престолов» за 36 $</a></b><br>
@@ -981,8 +989,6 @@
 <br>
 <sub><a href="https://fablelist.000ooo.ooo/ru/prompts/?w=a-36-game-of-thrones-dragon&ref=gh"><b>✨ Получить промпт</b></a></sub>
 </td>
-</tr>
-<tr>
 <td width="33%" valign="top">
 <a href="https://x.com/Stefan_3D_AI/status/2120039417981333599"><img src="../assets/gifs/111.gif" width="100%" alt="Морской змей в Blender"></a><br>
 <b><a href="https://x.com/Stefan_3D_AI/status/2120039417981333599">Морской змей в Blender</a></b><br>
@@ -997,6 +1003,8 @@
 <br>
 <sub><a href="https://fablelist.000ooo.ooo/ru/prompts/?w=rubik-s-cube-robot-fable-vs-opus&ref=gh"><b>✨ Получить промпт</b></a></sub>
 </td>
+</tr>
+<tr>
 <td width="33%" valign="top">
 <a href="https://x.com/dfeinition/status/2119870838606381391"><img src="../assets/gifs/105.gif" width="100%" alt="Смешивание движений, объяснённое роботом"></a><br>
 <b><a href="https://x.com/dfeinition/status/2119870838606381391">Смешивание движений, объяснённое роботом</a></b><br>
@@ -1004,12 +1012,10 @@
 <br>
 <sub><a href="https://fablelist.000ooo.ooo/ru/prompts/?w=motion-blending-explained-by-a-robot&ref=gh"><b>✨ Получить промпт</b></a></sub>
 </td>
-</tr>
-<tr>
 <td width="33%" valign="top">
 <a href="https://x.com/rpnickson/status/2119969928304357507"><img src="../assets/gifs/108.gif" width="100%" alt="Студия, восстановленная по фотографиям"></a><br>
 <b><a href="https://x.com/rpnickson/status/2119969928304357507">Студия, восстановленная по фотографиям</a></b><br>
-<sub><a href="https://x.com/rpnickson">@rpnickson</a> · ♥ 85 · <a href="https://x.com/rpnickson/status/2119969928304357507">▶ Видео</a></sub><br>
+<sub><a href="https://x.com/rpnickson">@rpnickson</a> · ♥ 86 · <a href="https://x.com/rpnickson/status/2119969928304357507">▶ Видео</a></sub><br>
 <br>
 <sub><a href="https://fablelist.000ooo.ooo/ru/prompts/?w=a-studio-rebuilt-from-photos&ref=gh"><b>✨ Получить промпт</b></a></sub>
 </td>
@@ -1020,6 +1026,8 @@
 <br>
 <sub><a href="https://x.com/Stefan_3D_AI/status/2120101582444597446">📝 Промпт автора (бесплатно)</a></sub>
 </td>
+</tr>
+<tr>
 <td width="33%" valign="top">
 <a href="https://x.com/leppppp1/status/2119960122713899015"><img src="../assets/gifs/112.gif" width="100%" alt="Четыре модели, один текстовый эффект"></a><br>
 <b><a href="https://x.com/leppppp1/status/2119960122713899015">Четыре модели, один текстовый эффект</a></b><br>
@@ -1027,8 +1035,6 @@
 <br>
 <sub><a href="https://fablelist.000ooo.ooo/ru/prompts/?w=four-models-one-text-effect&ref=gh"><b>✨ Получить промпт</b></a></sub>
 </td>
-</tr>
-<tr>
 <td width="33%" valign="top">
 <a href="https://x.com/RJasonHA/status/2120075740222005569"><img src="../assets/gifs/123.gif" width="100%" alt="Чайнатаун в коде"></a><br>
 <b><a href="https://x.com/RJasonHA/status/2120075740222005569">Чайнатаун в коде</a></b><br>
@@ -1043,6 +1049,8 @@
 <br>
 <sub><a href="https://fablelist.000ooo.ooo/ru/prompts/?w=game-with-and-without-elevenlabs-audio&ref=gh"><b>✨ Получить промпт</b></a></sub>
 </td>
+</tr>
+<tr>
 <td width="33%" valign="top">
 <a href="https://x.com/ChrisGPT/status/2119989626568126509"><img src="../assets/gifs/118.gif" width="100%" alt="Мобильная игра, запущенная как Artifact"></a><br>
 <b><a href="https://x.com/ChrisGPT/status/2119989626568126509">Мобильная игра, запущенная как Artifact</a></b><br>
@@ -1050,8 +1058,6 @@
 <br>
 <sub><a href="https://fablelist.000ooo.ooo/ru/prompts/?w=a-mobile-game-running-as-an-artifact&ref=gh"><b>✨ Получить промпт</b></a></sub>
 </td>
-</tr>
-<tr>
 <td width="33%" valign="top">
 <a href="https://x.com/TekonBurns/status/2119871565311660260"><img src="../assets/gifs/113.gif" width="100%" alt="Капсид вируса из 420 субъединиц"></a><br>
 <b><a href="https://x.com/TekonBurns/status/2119871565311660260">Капсид вируса из 420 субъединиц</a></b><br>
@@ -1066,6 +1072,8 @@
 <br>
 <sub><a href="https://x.com/flxrnc/status/2119961301791174720">📝 Промпт автора (бесплатно)</a></sub>
 </td>
+</tr>
+<tr>
 <td width="33%" valign="top">
 <a href="https://x.com/ItsmeAjayKV/status/2119896772713849174"><img src="../assets/gifs/121.gif" width="100%" alt="Париж на парящем острове"></a><br>
 <b><a href="https://x.com/ItsmeAjayKV/status/2119896772713849174">Париж на парящем острове</a></b><br>
@@ -1073,8 +1081,6 @@
 <br>
 <sub><a href="https://fablelist.000ooo.ooo/ru/prompts/?w=paris-on-a-floating-island&ref=gh"><b>✨ Получить промпт</b></a></sub>
 </td>
-</tr>
-<tr>
 <td width="33%" valign="top">
 <a href="https://x.com/MrTacticalX/status/2119949557664735583"><img src="../assets/gifs/122.gif" width="100%" alt="Снежный шар (Fable vs Opus)"></a><br>
 <b><a href="https://x.com/MrTacticalX/status/2119949557664735583">Снежный шар (Fable vs Opus)</a></b><br>
