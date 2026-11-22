@@ -87,7 +87,7 @@
 <td width="33%" valign="top">
 <a href="https://github.com/AlexAtFF/pulp-daw-public"><img src="../assets/gifs/204.gif" width="100%" alt="PULP AI 原生音频工作站"></a><br>
 <b><a href="https://github.com/AlexAtFF/pulp-daw-public">PULP AI 原生音频工作站</a></b><br>
-<sub><a href="https://x.com/The_Alex">@The_Alex</a> · ♥ 945 · <a href="https://x.com/The_Alex/status/2119917226769985785">▶ 视频</a></sub><br>
+<sub><a href="https://x.com/The_Alex">@The_Alex</a> · ♥ 946 · <a href="https://x.com/The_Alex/status/2119917226769985785">▶ 视频</a></sub><br>
 <sub>Windows 原生 DAW；让 Claude 做音乐时它会自己打开这个工作站编曲</sub><br>
 <sub><a href="https://fablelist.000ooo.ooo/zh/prompts/?w=pulp-an-ai-native-daw&ref=gh"><b>✨ 获取提示词</b></a></sub>
 </td>
@@ -103,7 +103,7 @@
 <td width="33%" valign="top">
 <a href="https://hexagonal.earth"><img src="../assets/gifs/349.gif" width="100%" alt="Hexagonal Earth 六边形拼成的地球沙盘"></a><br>
 <b><a href="https://hexagonal.earth">Hexagonal Earth 六边形拼成的地球沙盘</a></b><br>
-<sub><a href="https://x.com/avsa">@avsa</a> · ♥ 753 · <a href="https://x.com/avsa/status/2123123638551392755">原帖</a></sub><br>
+<sub><a href="https://x.com/avsa">@avsa</a> · ♥ 754 · <a href="https://x.com/avsa/status/2123123638551392755">原帖</a></sub><br>
 <sub>用海拔、洋深、湿度、风、河流等真实数据搭出的六边形世界地图；上面几百种小物件是 Fable 5.2 一个个生成的 3D 像素点云，再由它自己摆进场景</sub>
 </td>
 <td width="33%" valign="top">
@@ -131,7 +131,7 @@
 <td width="33%" valign="top">
 <a href="https://omage1.xyz"><img src="../assets/gifs/337.gif" width="100%" alt="omage-1 浏览器里的 OP-1 Field 合成器"></a><br>
 <b><a href="https://omage1.xyz">omage-1 浏览器里的 OP-1 Field 合成器</a></b><br>
-<sub><a href="https://x.com/jamesmbickerton">@jamesmbickerton</a> · ♥ 571 · <a href="https://x.com/jamesmbickerton/status/2122688041219133815">▶ 视频</a></sub><br>
+<sub><a href="https://x.com/jamesmbickerton">@jamesmbickerton</a> · ♥ 572 · <a href="https://x.com/jamesmbickerton/status/2122688041219133815">▶ 视频</a></sub><br>
 <sub>把 Teenage Engineering 的 OP-1 Field 做成浏览器应用的非官方致敬版，打开就能弹</sub>
 </td>
 <td width="33%" valign="top">
@@ -145,7 +145,7 @@
 <td width="33%" valign="top">
 <a href="https://www.bubbbly.com/christmas-cards"><img src="../assets/gifs/315.gif" width="100%" alt="Christmas Cards 互动圣诞贺卡"></a><br>
 <b><a href="https://www.bubbbly.com/christmas-cards">Christmas Cards 互动圣诞贺卡</a></b><br>
-<sub><a href="https://x.com/ann_nnng">@ann_nnng</a> · ♥ 475 · <a href="https://x.com/ann_nnng/status/2122283549000712249">▶ 视频</a></sub><br>
+<sub><a href="https://x.com/ann_nnng">@ann_nnng</a> · ♥ 477 · <a href="https://x.com/ann_nnng/status/2122283549000712249">▶ 视频</a></sub><br>
 <sub>一组可以互动的圣诞贺卡，比如围红围巾的猫在窗台上看雪</sub>
 </td>
 <td width="33%" valign="top">
@@ -194,31 +194,31 @@
 <sub><a href="https://fablelist.000ooo.ooo/zh/prompts/?w=origami-helper&ref=gh"><b>✨ 获取提示词</b></a></sub>
 </td>
 <td width="33%" valign="top">
+<a href="https://claude.ai/artifact/5ki5nJzDaayYMNhxymZBNT"><img src="../assets/gifs/378.gif" width="100%" alt="Slow Plant Synth 会慢慢长大的植物合成器"></a><br>
+<b><a href="https://claude.ai/artifact/5ki5nJzDaayYMNhxymZBNT">Slow Plant Synth 会慢慢长大的植物合成器</a></b><br>
+<sub>🆕 · <a href="https://x.com/parhelion318">@parhelion318</a> · ♥ 206 · <a href="https://x.com/parhelion318/status/2123982460090503626">▶ 视频</a></sub><br>
+<sub>一株模拟植物按地点、时间和天气生长，几天里慢慢发出各不相同的声音；Fable 5.2 和 Opus 5.5 一起做的</sub>
+</td>
+<td width="33%" valign="top">
 <a href="https://typed.page/"><img src="../assets/gifs/036.gif" width="100%" alt="Typed 打字机"></a><br>
 <b><a href="https://typed.page/">Typed 打字机</a></b><br>
 <sub><a href="https://x.com/clairevo">@clairevo</a> · ♥ 205 · <a href="https://x.com/clairevo/status/2119905651359142132">▶ 视频</a></sub><br>
 <sub>能打字、计时、涂改液、自动更正的完整打字机</sub><br>
 <sub><a href="https://fablelist.000ooo.ooo/zh/prompts/?w=typed&ref=gh"><b>✨ 获取提示词</b></a></sub>
 </td>
-<td width="33%" valign="top">
-<a href="https://claude.ai/artifact/5ki5nJzDaayYMNhxymZBNT"><img src="../assets/gifs/378.gif" width="100%" alt="Slow Plant Synth 会慢慢长大的植物合成器"></a><br>
-<b><a href="https://claude.ai/artifact/5ki5nJzDaayYMNhxymZBNT">Slow Plant Synth 会慢慢长大的植物合成器</a></b><br>
-<sub>🆕 · <a href="https://x.com/parhelion318">@parhelion318</a> · ♥ 184 · <a href="https://x.com/parhelion318/status/2123982460090503626">▶ 视频</a></sub><br>
-<sub>一株模拟植物按地点、时间和天气生长，几天里慢慢发出各不相同的声音；Fable 5.2 和 Opus 5.5 一起做的</sub>
-</td>
 </tr>
 <tr>
 <td width="33%" valign="top">
 <a href="https://clockendbader.github.io/fable-builds/heartbeat/"><img src="../assets/gifs/259.gif" width="100%" alt="One Heartbeat 跳动的 3D 心脏"></a><br>
 <b><a href="https://clockendbader.github.io/fable-builds/heartbeat/">One Heartbeat 跳动的 3D 心脏</a></b><br>
-<sub><a href="https://x.com/clockendbader">@clockendbader</a> · ♥ 154 · <a href="https://x.com/clockendbader/status/2121246903207961069">原帖</a></sub><br>
+<sub><a href="https://x.com/clockendbader">@clockendbader</a> · ♥ 153 · <a href="https://x.com/clockendbader/status/2121246903207961069">原帖</a></sub><br>
 <sub>实时心电和压力曲线、心音，可对比正常、房颤、传导阻滞和主动脉瓣狭窄；还自己写了测试</sub><br>
 <sub><a href="https://fablelist.000ooo.ooo/zh/prompts/?w=one-heartbeat&ref=gh"><b>✨ 获取提示词</b></a></sub>
 </td>
 <td width="33%" valign="top">
 <a href="https://stormy.ai/hands"><img src="../assets/gifs/316.gif" width="100%" alt="Hands 机器人手讲解页"></a><br>
 <b><a href="https://stormy.ai/hands">Hands 机器人手讲解页</a></b><br>
-<sub><a href="https://x.com/Karmedge">@Karmedge</a> · ♥ 150 · <a href="https://x.com/Karmedge/status/2122394153497842080">▶ 视频</a></sub><br>
+<sub><a href="https://x.com/Karmedge">@Karmedge</a> · ♥ 151 · <a href="https://x.com/Karmedge/status/2122394153497842080">▶ 视频</a></sub><br>
 <sub>讲人形机器人的手怎么工作、为什么难做、成本多少的互动讲解页，花了 10 亿多 token</sub>
 </td>
 <td width="33%" valign="top">
@@ -286,38 +286,45 @@
 <sub>网页模块合成器：通过 MCP 接上 Claude 等 Agent，用一句话连出音色，连模块本身也能让它现写；音色和模块都能用网址分享</sub>
 </td>
 <td width="33%" valign="top">
+<a href="https://hashem-al-ghaili.github.io/music-maker/"><img src="../assets/gifs/383.gif" width="100%" alt="Music Maker 在空气里拉弦弹奏的乐器"></a><br>
+<b><a href="https://hashem-al-ghaili.github.io/music-maker/">Music Maker 在空气里拉弦弹奏的乐器</a></b><br>
+<sub>🆕 · <a href="https://x.com/HashemGhaili">@HashemGhaili</a> · ♥ 54 · <a href="https://x.com/HashemGhaili/status/2124135871293329809">▶ 视频</a></sub><br>
+<sub>打开摄像头，双手一捏一拉就在空中拉出一根弦，24 种乐器可选，指尖划过就出声；能叠鼓点、循环录音、导出视频</sub><br>
+<sub><a href="https://github.com/Hashem-Al-Ghaili/music-maker">源码</a></sub>
+</td>
+</tr>
+<tr>
+<td width="33%" valign="top">
 <a href="https://tetriss22.github.io/pc-build-lab/"><img src="../assets/gifs/147.gif" width="100%" alt="PC Build Lab 装机实验室"></a><br>
 <b><a href="https://tetriss22.github.io/pc-build-lab/">PC Build Lab 装机实验室</a></b><br>
 <sub><a href="https://x.com/Tetriss112">@Tetriss112</a> · ♥ 51 · <a href="https://x.com/Tetriss112/status/2120520587411935288">▶ 视频</a></sub><br>
 <sub>在浏览器里把一台 $1,279 的主机一件件装起来，8 个步骤，可以故意装错</sub><br>
 <sub><a href="https://fablelist.000ooo.ooo/zh/prompts/?w=pc-build-lab&ref=gh"><b>✨ 获取提示词</b></a></sub>
 </td>
-</tr>
-<tr>
+<td width="33%" valign="top">
+<a href="https://andreysuperiorgit.github.io/riemann"><img src="../assets/gifs/381.gif" width="100%" alt="Riemann Hypothesis, live 能转着看的黎曼猜想"></a><br>
+<b><a href="https://andreysuperiorgit.github.io/riemann">Riemann Hypothesis, live 能转着看的黎曼猜想</a></b><br>
+<sub>🆕 · <a href="https://x.com/andreysuperior">@andreysuperior</a> · ♥ 40 · <a href="https://x.com/andreysuperior/status/2124274426225008910">▶ 视频</a></sub><br>
+<sub>可以旋转的 ζ 函数地形：102 个零点在浏览器里现算现验，全落在一条线上，再一步步叠出素数；单个 HTML 文件，不用任何库</sub>
+</td>
 <td width="33%" valign="top">
 <a href="https://claude.ai/artifact/NVWaNUrJK5woiKXQsAQaPG"><img src="../assets/gifs/368.gif" width="100%" alt="Audio-Reactive Dot Surface 跟着声音起伏的点阵曲面"></a><br>
 <b><a href="https://claude.ai/artifact/NVWaNUrJK5woiKXQsAQaPG">Audio-Reactive Dot Surface 跟着声音起伏的点阵曲面</a></b><br>
 <sub>🆕 · <a href="https://x.com/parhelion318">@parhelion318</a> · ♥ 30 · <a href="https://x.com/parhelion318/status/2123463622252994878">▶ 视频</a></sub><br>
 <sub>一片由点组成的曲面跟着声音起伏；Fable 5.2 和 Opus 5.5 做，GPT-6.2 Astra 复查</sub>
 </td>
-<td width="33%" valign="top">
-<a href="https://andreysuperiorgit.github.io/riemann"><img src="../assets/gifs/381.gif" width="100%" alt="Riemann Hypothesis, live 能转着看的黎曼猜想"></a><br>
-<b><a href="https://andreysuperiorgit.github.io/riemann">Riemann Hypothesis, live 能转着看的黎曼猜想</a></b><br>
-<sub>🆕 · <a href="https://x.com/andreysuperior">@andreysuperior</a> · ♥ 26 · <a href="https://x.com/andreysuperior/status/2124274426225008910">▶ 视频</a></sub><br>
-<sub>可以旋转的 ζ 函数地形：102 个零点在浏览器里现算现验，全落在一条线上，再一步步叠出素数；单个 HTML 文件，不用任何库</sub>
-</td>
+</tr>
+<tr>
 <td width="33%" valign="top">
 <a href="https://shiraeisenberg.com/composed-of-nows"><img src="../assets/gifs/365.gif" width="100%" alt="Composed of Nows 语言模型的九件互动作品"></a><br>
 <b><a href="https://shiraeisenberg.com/composed-of-nows">Composed of Nows 语言模型的九件互动作品</a></b><br>
 <sub>🆕 · <a href="https://x.com/shiraeis">@shiraeis</a> · ♥ 24 · <a href="https://x.com/shiraeis/status/2123562764203589648">▶ 视频</a></sub><br>
 <sub>让它先读诗，再做九件互动作品讲当一个语言模型是什么“感觉”，一次做成</sub>
 </td>
-</tr>
-<tr>
 <td width="33%" valign="top">
 <a href="https://piano.yoshiyukikoyanagi.com"><img src="../assets/gifs/374.gif" width="100%" alt="Physical Modeling Piano F1 物理建模钢琴"></a><br>
 <b><a href="https://piano.yoshiyukikoyanagi.com">Physical Modeling Piano F1 物理建模钢琴</a></b><br>
-<sub>🆕 · <a href="https://x.com/moutend">@moutend</a> · ♥ 22 · <a href="https://x.com/moutend/status/2123776671501451468">▶ 视频</a></sub><br>
+<sub>🆕 · <a href="https://x.com/moutend">@moutend</a> · ♥ 21 · <a href="https://x.com/moutend/status/2123776671501451468">▶ 视频</a></sub><br>
 <sub>在浏览器里实时算出琴声的物理建模钢琴，用电脑键盘就能弹，带延音踏板</sub><br>
 <sub><a href="https://github.com/moutend/physical-modeling-piano-f1">源码</a></sub>
 </td>
@@ -328,20 +335,13 @@
 <sub>只说了一句「做一个展示你现在实力的最强静态网页」</sub><br>
 <sub><a href="https://x.com/hideki_climax/status/2120165464722809190">📝 作者公开的提示词（免费）</a></sub>
 </td>
+</tr>
+<tr>
 <td width="33%" valign="top">
 <a href="https://ember-vesper.aura.build/"><img src="../assets/gifs/366.gif" width="100%" alt="Ember Vesper 游戏主机落地页"></a><br>
 <b><a href="https://ember-vesper.aura.build/">Ember Vesper 游戏主机落地页</a></b><br>
 <sub>🆕 · <a href="https://x.com/titepommee">@titepommee</a> · ♥ 12 · <a href="https://x.com/titepommee/status/2123515807250657457">▶ 视频</a></sub><br>
 <sub>把一台游戏电脑做成落地页：往下滚主机拆开、换灯光、切到热成像，最后写出订单小票；每节转场都不一样，只有一个 HTML 文件</sub>
-</td>
-</tr>
-<tr>
-<td width="33%" valign="top">
-<a href="https://hashem-al-ghaili.github.io/music-maker/"><img src="../assets/gifs/383.gif" width="100%" alt="Music Maker 在空气里拉弦弹奏的乐器"></a><br>
-<b><a href="https://hashem-al-ghaili.github.io/music-maker/">Music Maker 在空气里拉弦弹奏的乐器</a></b><br>
-<sub>🆕 · <a href="https://x.com/HashemGhaili">@HashemGhaili</a> · ♥ 12 · <a href="https://x.com/HashemGhaili/status/2124135871293329809">▶ 视频</a></sub><br>
-<sub>打开摄像头，双手一捏一拉就在空中拉出一根弦，24 种乐器可选，指尖划过就出声；能叠鼓点、循环录音、导出视频</sub><br>
-<sub><a href="https://github.com/Hashem-Al-Ghaili/music-maker">源码</a></sub>
 </td>
 <td width="33%" valign="top">
 <a href="https://rain-1.github.io/intel4004/web/4004-lesion.html"><img src="../assets/gifs/310.gif" width="100%" alt="4004 Lesion Map 4004 芯片损伤图"></a><br>

@@ -1,4 +1,4 @@
-# 🌍 Mundos e cenas 3D · todos os 47
+# 🌍 Mundos e cenas 3D · todos os 49
 
 [← Voltar à lista](../README.pt-BR.md) · [English](3d-worlds.md) · [简体中文](3d-worlds.zh-CN.md) · [繁體中文](3d-worlds.zh-TW.md) · [日本語](3d-worlds.ja.md) · [한국어](3d-worlds.ko.md) · [Español](3d-worlds.es.md) · **Português** · [Français](3d-worlds.fr.md) · [Deutsch](3d-worlds.de.md) · [Русский](3d-worlds.ru.md)
 
@@ -68,7 +68,7 @@ A página principal mostra no máximo as 24 entradas mais curtidas de cada seç�
 <td width="33%" valign="top">
 <a href="https://fable-rover.vercel.app"><img src="../assets/gifs/278.gif" width="100%" alt="ER-6 Terrain Explorer — um rover marciano autônomo"></a><br>
 <b><a href="https://fable-rover.vercel.app">ER-6 Terrain Explorer — um rover marciano autônomo</a></b><br>
-<sub><a href="https://x.com/DilumSanjaya">@DilumSanjaya</a> · ♥ 799 · <a href="https://x.com/DilumSanjaya/status/2120561077385867663">▶ Vídeo</a></sub><br>
+<sub><a href="https://x.com/DilumSanjaya">@DilumSanjaya</a> · ♥ 800 · <a href="https://x.com/DilumSanjaya/status/2120561077385867663">▶ Vídeo</a></sub><br>
 <sub>O Fable 5.2 projetou uma suspensão rocker-bogie como a dos rovers da NASA e simulou o veículo rodando em terreno alienígena.</sub>
 </td>
 </tr>
@@ -142,7 +142,7 @@ A página principal mostra no máximo as 24 entradas mais curtidas de cada seç�
 <td width="33%" valign="top">
 <a href="https://claude.ai/artifact/2PBXuQAnWDS2NpiPXHNLfL"><img src="../assets/gifs/028.gif" width="100%" alt="Orca Jelly"></a><br>
 <b><a href="https://claude.ai/artifact/2PBXuQAnWDS2NpiPXHNLfL">Orca Jelly</a></b><br>
-<sub><a href="https://x.com/vib3coded">@vib3coded</a> · ♥ 203 · <a href="https://x.com/vib3coded/status/2119951060752375827">▶ Vídeo</a></sub><br>
+<sub><a href="https://x.com/vib3coded">@vib3coded</a> · ♥ 204 · <a href="https://x.com/vib3coded/status/2119951060752375827">▶ Vídeo</a></sub><br>
 <sub>Estudo de material de uma orca de gelatina com corpo mole. A versão do Opus 5.5 está linkada para comparação.</sub><br>
 <sub><a href="https://claude.ai/artifact/75KLotWzZQ5RR23BGLePb8">Opus 5.5 version</a></sub><br>
 <sub><a href="https://x.com/vib3coded/status/2119951060752375827">📝 Prompt do criador (grátis)</a></sub>
@@ -169,11 +169,26 @@ A página principal mostra no máximo as 24 entradas mais curtidas de cada seç�
 <sub>Um pequeno mundo pintado em three.js, mais um filme de 40 segundos em 4K renderizado a partir dele.</sub>
 </td>
 <td width="33%" valign="top">
+<a href="https://patch.gg/play/blendi/the-blue-hour"><img src="../assets/gifs/387.gif" width="100%" alt="The Blue Hour — uma cidade art déco à noite"></a><br>
+<b><a href="https://patch.gg/play/blendi/the-blue-hour">The Blue Hour — uma cidade art déco à noite</a></b><br>
+<sub>🆕 · <a href="https://x.com/BlendiByl">@BlendiByl</a> · ♥ 145 · <a href="https://x.com/BlendiByl/status/2124439671006748853">▶ Vídeo</a></sub><br>
+<sub>Uma cena 3D no estilo art déco da série animada do Batman, toda desenhada em código. Código aberto.</sub>
+</td>
+<td width="33%" valign="top">
 <a href="https://patch.gg/blendi/impossible-spaces"><img src="../assets/gifs/135.gif" width="100%" alt="Impossible Spaces"></a><br>
 <b><a href="https://patch.gg/blendi/impossible-spaces">Impossible Spaces</a></b><br>
 <sub><a href="https://x.com/BlendiByl">@BlendiByl</a> · ♥ 139 · <a href="https://x.com/BlendiByl/status/2120314459793355262">▶ Vídeo</a></sub><br>
 <sub>Uma experiência psicodélica de "espaços impossíveis". Código aberto.</sub><br>
 <sub><a href="https://fablelist.000ooo.ooo/pt/prompts/?w=impossible-spaces&ref=gh"><b>✨ Pegue o prompt</b></a></sub>
+</td>
+</tr>
+<tr>
+<td width="33%" valign="top">
+<a href="https://claude.ai/artifact/HCzUsvWqERjQcgJjRuUUFo"><img src="../assets/gifs/386.gif" width="100%" alt="Rain-Soaked Noodle Stall — um diorama em pixels"></a><br>
+<b><a href="https://claude.ai/artifact/HCzUsvWqERjQcgJjRuUUFo">Rain-Soaked Noodle Stall — um diorama em pixels</a></b><br>
+<sub>🆕 · <a href="https://x.com/CapyCola">@CapyCola</a> · ♥ 129 · <a href="https://x.com/CapyCola/status/2124115057101664380">▶ Vídeo</a></sub><br>
+<sub>Uma barraca de macarrão na chuva, lanternas balançando, uma panela de sopa que ninguém está olhando e um gato que ainda não foi embora. Uma cena em pixels que você arrasta e gira para ver de qualquer ângulo, feita com Fable 5.2 e Ink Studio.</sub><br>
+<sub><a href="https://github.com/cola5939/pixel-dioramas">Código-fonte</a></sub>
 </td>
 <td width="33%" valign="top">
 <a href="https://claude.ai/artifact/7ge282etTXSS4edGFTFa85"><img src="../assets/gifs/026.gif" width="100%" alt="3D Sailing Ship"></a><br>
@@ -182,8 +197,6 @@ A página principal mostra no máximo as 24 entradas mais curtidas de cada seç�
 <sub>Three.js puro, sem Blender nem assets externos. ~38 minutos, ~US$ 17.</sub><br>
 <sub><a href="https://fablelist.000ooo.ooo/pt/prompts/?w=3d-sailing-ship&ref=gh"><b>✨ Pegue o prompt</b></a></sub>
 </td>
-</tr>
-<tr>
 <td width="33%" valign="top">
 <a href="https://tests.jazii.dev/"><img src="../assets/gifs/025.gif" width="100%" alt="Pirate Ship"></a><br>
 <b><a href="https://tests.jazii.dev/">Pirate Ship</a></b><br>
@@ -191,6 +204,8 @@ A página principal mostra no máximo as 24 entradas mais curtidas de cada seç�
 <sub>Uma tentativa, ~1,5 hora, ~35M de tokens (~US$ 34).</sub><br>
 <sub><a href="https://fablelist.000ooo.ooo/pt/prompts/?w=pirate-ship&ref=gh"><b>✨ Pegue o prompt</b></a></sub>
 </td>
+</tr>
+<tr>
 <td width="33%" valign="top">
 <a href="https://coralback-ray.wasmer.app/"><img src="../assets/gifs/357.gif" width="100%" alt="Coralback Ray"></a><br>
 <b><a href="https://coralback-ray.wasmer.app/">Coralback Ray</a></b><br>
@@ -203,8 +218,6 @@ A página principal mostra no máximo as 24 entradas mais curtidas de cada seç�
 <sub>🆕 · <a href="https://x.com/BlendiByl">@BlendiByl</a> · ♥ 78 · <a href="https://x.com/BlendiByl/status/2123618324823388410">▶ Vídeo</a></sub><br>
 <sub>Uma vila de pixels de sonho em falésias ao pôr do sol: pixel art em um mundo 3D de verdade, com cada pixel desenhado por código. Roda no navegador e é open source.</sub>
 </td>
-</tr>
-<tr>
 <td width="33%" valign="top">
 <a href="https://airsup.ai/lab/sr-71?mach=3.2"><img src="../assets/gifs/180.gif" width="100%" alt="Desmontagem do motor do SR-71"></a><br>
 <b><a href="https://airsup.ai/lab/sr-71?mach=3.2">Desmontagem do motor do SR-71</a></b><br>
@@ -212,6 +225,8 @@ A página principal mostra no máximo as 24 entradas mais curtidas de cada seç�
 <sub>O SR-71 a 80.000 pés com um motor cortado ao meio. Um só controle, a velocidade: veja a entrada de ar assumir o lugar do motor.</sub><br>
 <sub><a href="https://fablelist.000ooo.ooo/pt/prompts/?w=sr-71-engine-teardown&ref=gh"><b>✨ Pegue o prompt</b></a></sub>
 </td>
+</tr>
+<tr>
 <td width="33%" valign="top">
 <a href="https://vancouver.webly.site"><img src="../assets/gifs/032.gif" width="100%" alt="Vancouver From Above"></a><br>
 <b><a href="https://vancouver.webly.site">Vancouver From Above</a></b><br>
@@ -226,8 +241,6 @@ A página principal mostra no máximo as 24 entradas mais curtidas de cada seç�
 <sub>Uma Jerusalém 3D imersiva e historicamente fundamentada, feita com Blender. Passeie pelas ruas.</sub><br>
 <sub><a href="https://x.com/kplikethebird/status/2119900775727902732">📝 Prompt do criador (grátis)</a></sub>
 </td>
-</tr>
-<tr>
 <td width="33%" valign="top">
 <a href="https://starknightt.github.io/summer-festival/"><img src="../assets/gifs/309.gif" width="100%" alt="Summer Festival: uma cidade à beira-mar à noite"></a><br>
 <b><a href="https://starknightt.github.io/summer-festival/">Summer Festival: uma cidade à beira-mar à noite</a></b><br>
@@ -235,6 +248,8 @@ A página principal mostra no máximo as 24 entradas mais curtidas de cada seç�
 <sub>Uma cidade litorânea em estilo anime em pleno festival de verão, por onde você pode caminhar. three.js em WebGPU, feito com Opus 5.5 e Fable 5.2.</sub><br>
 <sub><a href="https://github.com/StarKnightt/summer-festival">Código-fonte</a></sub>
 </td>
+</tr>
+<tr>
 <td width="33%" valign="top">
 <a href="https://feelthematrix.com"><img src="../assets/gifs/139.gif" width="100%" alt="Matrix Vibe"></a><br>
 <b><a href="https://feelthematrix.com">Matrix Vibe</a></b><br>
@@ -251,14 +266,14 @@ A página principal mostra no máximo as 24 entradas mais curtidas de cada seç�
 <sub><a href="https://loktar00.github.io/sled-free-exact/">Sled Free</a> · <a href="https://loktar00.github.io/sled-free/">Grumble Peak</a></sub><br>
 <sub><a href="https://fablelist.000ooo.ooo/pt/prompts/?w=pine-hollow-a-living-ski-hill&ref=gh"><b>✨ Pegue o prompt</b></a></sub>
 </td>
-</tr>
-<tr>
 <td width="33%" valign="top">
 <a href="https://vancouver-claude.webly.site"><img src="../assets/gifs/280.gif" width="100%" alt="Vancouver, hora dourada sobre English Bay"></a><br>
 <b><a href="https://vancouver-claude.webly.site">Vancouver, hora dourada sobre English Bay</a></b><br>
 <sub><a href="https://x.com/tokifyi">@tokifyi</a> · ♥ 30 · <a href="https://x.com/tokifyi/status/2121644293270200354">Post</a></sub><br>
 <sub>Um panorama de Vancouver ao pôr do sol desenhado inteiramente em JavaScript.</sub>
 </td>
+</tr>
+<tr>
 <td width="33%" valign="top">
 <a href="https://claude.ai/artifact/HGk1WNqTgrGEE8ndBkEipB"><img src="../assets/gifs/229.gif" width="100%" alt="Pixel art para mundo 3D"></a><br>
 <b><a href="https://claude.ai/artifact/HGk1WNqTgrGEE8ndBkEipB">Pixel art para mundo 3D</a></b><br>
@@ -273,8 +288,6 @@ A página principal mostra no máximo as 24 entradas mais curtidas de cada seç�
 <sub>"Deus levou 6 dias, o Fable 5.2 levou 20 min." Voe para dentro de uma galáxia.</sub><br>
 <sub><a href="https://fablelist.000ooo.ooo/pt/prompts/?w=galaxy-dive&ref=gh"><b>✨ Pegue o prompt</b></a></sub>
 </td>
-</tr>
-<tr>
 <td width="33%" valign="top">
 <a href="https://calibre-watch-snowy.vercel.app/"><img src="../assets/gifs/192.gif" width="100%" alt="Relógio Calibre 5.2"></a><br>
 <b><a href="https://calibre-watch-snowy.vercel.app/">Relógio Calibre 5.2</a></b><br>
@@ -282,6 +295,8 @@ A página principal mostra no máximo as 24 entradas mais curtidas de cada seç�
 <sub>Sem imagem de referência: um prompt de texto, uma tentativa. three.js e WebGPU.</sub><br>
 <sub><a href="https://fablelist.000ooo.ooo/pt/prompts/?w=calibre-5-2-watch&ref=gh"><b>✨ Pegue o prompt</b></a></sub>
 </td>
+</tr>
+<tr>
 <td width="33%" valign="top">
 <a href="https://sf-js.webly.site"><img src="../assets/gifs/264.gif" width="100%" alt="San Francisco na hora dourada"></a><br>
 <b><a href="https://sf-js.webly.site">San Francisco na hora dourada</a></b><br>
@@ -296,8 +311,6 @@ A página principal mostra no máximo as 24 entradas mais curtidas de cada seç�
 <sub><a href="https://claude.ai/artifact/B7ZmVS7Yr3BUc99ZyGk2bX">Opus 5.5 version</a></sub><br>
 <sub><a href="https://fablelist.000ooo.ooo/pt/prompts/?w=voxel-colosseum&ref=gh"><b>✨ Pegue o prompt</b></a></sub>
 </td>
-</tr>
-<tr>
 <td width="33%" valign="top">
 <a href="https://glittery-stardust-885b97.netlify.app"><img src="../assets/gifs/233.gif" width="100%" alt="HX-6 Hexapod, Three Worlds"></a><br>
 <b><a href="https://glittery-stardust-885b97.netlify.app">HX-6 Hexapod, Three Worlds</a></b><br>
@@ -305,6 +318,8 @@ A página principal mostra no máximo as 24 entradas mais curtidas de cada seç�
 <sub>O mesmo hexápode de 14 kg em Marte, na Lua e em Europa; cada pé encontra seu próprio apoio. Dirija você mesmo.</sub><br>
 <sub><a href="https://fablelist.000ooo.ooo/pt/prompts/?w=hx-6-hexapod-three-worlds&ref=gh"><b>✨ Pegue o prompt</b></a></sub>
 </td>
+</tr>
+<tr>
 <td width="33%" valign="top">
 <a href="https://zondark.com"><img src="../assets/gifs/033.gif" width="100%" alt="One-way Trip to a Black Hole"></a><br>
 <b><a href="https://zondark.com">One-way Trip to a Black Hole</a></b><br>
@@ -318,8 +333,6 @@ A página principal mostra no máximo as 24 entradas mais curtidas de cada seç�
 <sub><a href="https://x.com/titepommee">@titepommee</a> · ♥ 8 · <a href="https://x.com/titepommee/status/2121259736217911357">▶ Vídeo</a></sub><br>
 <sub>Ande pelo jato, clique na porta, a escada desce e você entra: sala de estar, quarto, até o banheiro.</sub>
 </td>
-</tr>
-<tr>
 <td width="33%" valign="top">
 <a href="https://davinci-mechanics.vercel.app/"><img src="../assets/gifs/289.gif" width="100%" alt="O códice vivo de Da Vinci"></a><br>
 <b><a href="https://davinci-mechanics.vercel.app/">O códice vivo de Da Vinci</a></b><br>
@@ -327,6 +340,8 @@ A página principal mostra no máximo as 24 entradas mais curtidas de cada seç�
 <sub>Abra o caderno e uma pena desenha as máquinas de Leonardo, que viram mecanismos de madeira que você pode girar e desmontar. Sem modelos 3D, texturas ou arquivos de áudio: tudo é código.</sub><br>
 <sub><a href="https://github.com/coding-nanami/davinci-mechanics">Código-fonte</a></sub>
 </td>
+</tr>
+<tr>
 <td width="33%" valign="top">
 <a href="https://claude.ai/artifact/FETrKoitcqxPQjbQvZd79C"><img src="../assets/gifs/034.gif" width="100%" alt="Belt Stress Test"></a><br>
 <b><a href="https://claude.ai/artifact/FETrKoitcqxPQjbQvZd79C">Belt Stress Test</a></b><br>
@@ -341,8 +356,6 @@ A página principal mostra no máximo as 24 entradas mais curtidas de cada seç�
 <sub>"Dê vida a um castelo 3D em um arquivo HTML." WebGL2 escrito à mão, sem bibliotecas, ~5.500 árvores, ciclo de dia e noite.</sub><br>
 <sub><a href="https://x.com/L34342Lin/status/2120030246108066195">📝 Prompt do criador (grátis)</a></sub>
 </td>
-</tr>
-<tr>
 <td width="33%" valign="top">
 <a href="https://claude.ai/artifact/UqU4w7jSr6pzF2McsbyQjJ"><img src="../assets/gifs/031.gif" width="100%" alt="Wooden Pagoda Transformation"></a><br>
 <b><a href="https://claude.ai/artifact/UqU4w7jSr6pzF2McsbyQjJ">Wooden Pagoda Transformation</a></b><br>
@@ -350,6 +363,8 @@ A página principal mostra no máximo as 24 entradas mais curtidas de cada seç�
 <sub>3.357 peças montam um pagode de cinco andares que se transforma em uma espadachim. Música calculada em código.</sub><br>
 <sub><a href="https://fablelist.000ooo.ooo/pt/prompts/?w=wooden-pagoda-transformation&ref=gh"><b>✨ Pegue o prompt</b></a></sub>
 </td>
+</tr>
+<tr>
 <td width="33%" valign="top">
 <a href="https://cyrilremacle-byte.github.io/francis-turbine-explorer/"><img src="../assets/gifs/355.gif" width="100%" alt="Francis Turbine Explorer"></a><br>
 <b><a href="https://cyrilremacle-byte.github.io/francis-turbine-explorer/">Francis Turbine Explorer</a></b><br>

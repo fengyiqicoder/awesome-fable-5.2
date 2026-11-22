@@ -1,4 +1,4 @@
-# 🌍 3D-миры и сцены · все 47
+# 🌍 3D-миры и сцены · все 49
 
 [← Назад к списку](../README.ru.md) · [English](3d-worlds.md) · [简体中文](3d-worlds.zh-CN.md) · [繁體中文](3d-worlds.zh-TW.md) · [日本語](3d-worlds.ja.md) · [한국어](3d-worlds.ko.md) · [Español](3d-worlds.es.md) · [Português](3d-worlds.pt-BR.md) · [Français](3d-worlds.fr.md) · [Deutsch](3d-worlds.de.md) · **Русский**
 
@@ -68,7 +68,7 @@
 <td width="33%" valign="top">
 <a href="https://fable-rover.vercel.app"><img src="../assets/gifs/278.gif" width="100%" alt="ER-6 Terrain Explorer — самоуправляемый марсоход"></a><br>
 <b><a href="https://fable-rover.vercel.app">ER-6 Terrain Explorer — самоуправляемый марсоход</a></b><br>
-<sub><a href="https://x.com/DilumSanjaya">@DilumSanjaya</a> · ♥ 799 · <a href="https://x.com/DilumSanjaya/status/2120561077385867663">▶ Видео</a></sub><br>
+<sub><a href="https://x.com/DilumSanjaya">@DilumSanjaya</a> · ♥ 800 · <a href="https://x.com/DilumSanjaya/status/2120561077385867663">▶ Видео</a></sub><br>
 <sub>Fable 5.2 спроектировал подвеску rocker-bogie, как у марсоходов NASA, и смоделировал езду по инопланетному рельефу.</sub>
 </td>
 </tr>
@@ -142,7 +142,7 @@
 <td width="33%" valign="top">
 <a href="https://claude.ai/artifact/2PBXuQAnWDS2NpiPXHNLfL"><img src="../assets/gifs/028.gif" width="100%" alt="Orca Jelly"></a><br>
 <b><a href="https://claude.ai/artifact/2PBXuQAnWDS2NpiPXHNLfL">Orca Jelly</a></b><br>
-<sub><a href="https://x.com/vib3coded">@vib3coded</a> · ♥ 203 · <a href="https://x.com/vib3coded/status/2119951060752375827">▶ Видео</a></sub><br>
+<sub><a href="https://x.com/vib3coded">@vib3coded</a> · ♥ 204 · <a href="https://x.com/vib3coded/status/2119951060752375827">▶ Видео</a></sub><br>
 <sub>Этюд материала: мягкая мармеладная косатка. Версия Opus 5.5 приложена для сравнения.</sub><br>
 <sub><a href="https://claude.ai/artifact/75KLotWzZQ5RR23BGLePb8">Opus 5.5 version</a></sub><br>
 <sub><a href="https://x.com/vib3coded/status/2119951060752375827">📝 Промпт автора (бесплатно)</a></sub>
@@ -169,11 +169,26 @@
 <sub>Маленький нарисованный мир на three.js и 40-секундный 4K-ролик, отрендеренный из него.</sub>
 </td>
 <td width="33%" valign="top">
+<a href="https://patch.gg/play/blendi/the-blue-hour"><img src="../assets/gifs/387.gif" width="100%" alt="The Blue Hour — ночной город в стиле ар-деко"></a><br>
+<b><a href="https://patch.gg/play/blendi/the-blue-hour">The Blue Hour — ночной город в стиле ар-деко</a></b><br>
+<sub>🆕 · <a href="https://x.com/BlendiByl">@BlendiByl</a> · ♥ 145 · <a href="https://x.com/BlendiByl/status/2124439671006748853">▶ Видео</a></sub><br>
+<sub>3D-сцена в стиле ар-деко из мультсериала о Бэтмене, целиком нарисованная кодом. Открытый исходный код.</sub>
+</td>
+<td width="33%" valign="top">
 <a href="https://patch.gg/blendi/impossible-spaces"><img src="../assets/gifs/135.gif" width="100%" alt="Impossible Spaces"></a><br>
 <b><a href="https://patch.gg/blendi/impossible-spaces">Impossible Spaces</a></b><br>
 <sub><a href="https://x.com/BlendiByl">@BlendiByl</a> · ♥ 139 · <a href="https://x.com/BlendiByl/status/2120314459793355262">▶ Видео</a></sub><br>
 <sub>Психоделический опыт с «невозможными пространствами». Открытый исходный код.</sub><br>
 <sub><a href="https://fablelist.000ooo.ooo/ru/prompts/?w=impossible-spaces&ref=gh"><b>✨ Получить промпт</b></a></sub>
+</td>
+</tr>
+<tr>
+<td width="33%" valign="top">
+<a href="https://claude.ai/artifact/HCzUsvWqERjQcgJjRuUUFo"><img src="../assets/gifs/386.gif" width="100%" alt="Rain-Soaked Noodle Stall — пиксельная диорама"></a><br>
+<b><a href="https://claude.ai/artifact/HCzUsvWqERjQcgJjRuUUFo">Rain-Soaked Noodle Stall — пиксельная диорама</a></b><br>
+<sub>🆕 · <a href="https://x.com/CapyCola">@CapyCola</a> · ♥ 129 · <a href="https://x.com/CapyCola/status/2124115057101664380">▶ Видео</a></sub><br>
+<sub>Лапшичная под дождём, качающиеся фонари, кастрюля супа, за которой никто не следит, и кот, который так и не ушёл. Пиксельная сцена, которую можно перетаскивать и вращать, чтобы рассмотреть с любой стороны; сделана с помощью Fable 5.2 и Ink Studio.</sub><br>
+<sub><a href="https://github.com/cola5939/pixel-dioramas">Исходный код</a></sub>
 </td>
 <td width="33%" valign="top">
 <a href="https://claude.ai/artifact/7ge282etTXSS4edGFTFa85"><img src="../assets/gifs/026.gif" width="100%" alt="3D Sailing Ship"></a><br>
@@ -182,8 +197,6 @@
 <sub>Чистый Three.js, без Blender и внешних ассетов. ~38 минут, ~17 $.</sub><br>
 <sub><a href="https://fablelist.000ooo.ooo/ru/prompts/?w=3d-sailing-ship&ref=gh"><b>✨ Получить промпт</b></a></sub>
 </td>
-</tr>
-<tr>
 <td width="33%" valign="top">
 <a href="https://tests.jazii.dev/"><img src="../assets/gifs/025.gif" width="100%" alt="Pirate Ship"></a><br>
 <b><a href="https://tests.jazii.dev/">Pirate Ship</a></b><br>
@@ -191,6 +204,8 @@
 <sub>Один заход, ~1,5 часа, ~35 млн токенов (~34 $).</sub><br>
 <sub><a href="https://fablelist.000ooo.ooo/ru/prompts/?w=pirate-ship&ref=gh"><b>✨ Получить промпт</b></a></sub>
 </td>
+</tr>
+<tr>
 <td width="33%" valign="top">
 <a href="https://coralback-ray.wasmer.app/"><img src="../assets/gifs/357.gif" width="100%" alt="Coralback Ray"></a><br>
 <b><a href="https://coralback-ray.wasmer.app/">Coralback Ray</a></b><br>
@@ -203,8 +218,6 @@
 <sub>🆕 · <a href="https://x.com/BlendiByl">@BlendiByl</a> · ♥ 78 · <a href="https://x.com/BlendiByl/status/2123618324823388410">▶ Видео</a></sub><br>
 <sub>Сказочная пиксельная деревня на морских утёсах на закате: пиксель-арт в настоящем 3D-мире, каждый пиксель нарисован кодом. Работает в браузере, исходники открыты.</sub>
 </td>
-</tr>
-<tr>
 <td width="33%" valign="top">
 <a href="https://airsup.ai/lab/sr-71?mach=3.2"><img src="../assets/gifs/180.gif" width="100%" alt="Разбор двигателя SR-71"></a><br>
 <b><a href="https://airsup.ai/lab/sr-71?mach=3.2">Разбор двигателя SR-71</a></b><br>
@@ -212,6 +225,8 @@
 <sub>SR-71 на высоте 80 000 футов с вырезом на одном двигателе. Одна ручка — скорость: смотрите, как воздухозаборник берёт работу на себя от двигателя.</sub><br>
 <sub><a href="https://fablelist.000ooo.ooo/ru/prompts/?w=sr-71-engine-teardown&ref=gh"><b>✨ Получить промпт</b></a></sub>
 </td>
+</tr>
+<tr>
 <td width="33%" valign="top">
 <a href="https://vancouver.webly.site"><img src="../assets/gifs/032.gif" width="100%" alt="Vancouver From Above"></a><br>
 <b><a href="https://vancouver.webly.site">Vancouver From Above</a></b><br>
@@ -226,8 +241,6 @@
 <sub>Погружающий, исторически достоверный 3D-Иерусалим, построенный в Blender. Бродите по улицам.</sub><br>
 <sub><a href="https://x.com/kplikethebird/status/2119900775727902732">📝 Промпт автора (бесплатно)</a></sub>
 </td>
-</tr>
-<tr>
 <td width="33%" valign="top">
 <a href="https://starknightt.github.io/summer-festival/"><img src="../assets/gifs/309.gif" width="100%" alt="Summer Festival: приморский городок ночью"></a><br>
 <b><a href="https://starknightt.github.io/summer-festival/">Summer Festival: приморский городок ночью</a></b><br>
@@ -235,6 +248,8 @@
 <sub>Приморский городок в аниме-стиле во время летнего фестиваля, по которому можно гулять. three.js на WebGPU, сделано с Opus 5.5 и Fable 5.2.</sub><br>
 <sub><a href="https://github.com/StarKnightt/summer-festival">Исходный код</a></sub>
 </td>
+</tr>
+<tr>
 <td width="33%" valign="top">
 <a href="https://feelthematrix.com"><img src="../assets/gifs/139.gif" width="100%" alt="Matrix Vibe"></a><br>
 <b><a href="https://feelthematrix.com">Matrix Vibe</a></b><br>
@@ -251,14 +266,14 @@
 <sub><a href="https://loktar00.github.io/sled-free-exact/">Sled Free</a> · <a href="https://loktar00.github.io/sled-free/">Grumble Peak</a></sub><br>
 <sub><a href="https://fablelist.000ooo.ooo/ru/prompts/?w=pine-hollow-a-living-ski-hill&ref=gh"><b>✨ Получить промпт</b></a></sub>
 </td>
-</tr>
-<tr>
 <td width="33%" valign="top">
 <a href="https://vancouver-claude.webly.site"><img src="../assets/gifs/280.gif" width="100%" alt="Ванкувер, золотой час над Инглиш-Бей"></a><br>
 <b><a href="https://vancouver-claude.webly.site">Ванкувер, золотой час над Инглиш-Бей</a></b><br>
 <sub><a href="https://x.com/tokifyi">@tokifyi</a> · ♥ 30 · <a href="https://x.com/tokifyi/status/2121644293270200354">Пост</a></sub><br>
 <sub>Панорама Ванкувера на закате, целиком нарисованная на JavaScript.</sub>
 </td>
+</tr>
+<tr>
 <td width="33%" valign="top">
 <a href="https://claude.ai/artifact/HGk1WNqTgrGEE8ndBkEipB"><img src="../assets/gifs/229.gif" width="100%" alt="Пиксель-арт в 3D-мир"></a><br>
 <b><a href="https://claude.ai/artifact/HGk1WNqTgrGEE8ndBkEipB">Пиксель-арт в 3D-мир</a></b><br>
@@ -273,8 +288,6 @@
 <sub>«God took 6 days, Fable 5.2 took 20 min.» Влетите в галактику.</sub><br>
 <sub><a href="https://fablelist.000ooo.ooo/ru/prompts/?w=galaxy-dive&ref=gh"><b>✨ Получить промпт</b></a></sub>
 </td>
-</tr>
-<tr>
 <td width="33%" valign="top">
 <a href="https://calibre-watch-snowy.vercel.app/"><img src="../assets/gifs/192.gif" width="100%" alt="Часы Calibre 5.2"></a><br>
 <b><a href="https://calibre-watch-snowy.vercel.app/">Часы Calibre 5.2</a></b><br>
@@ -282,6 +295,8 @@
 <sub>Без референса: один текстовый промпт, один заход. three.js и WebGPU.</sub><br>
 <sub><a href="https://fablelist.000ooo.ooo/ru/prompts/?w=calibre-5-2-watch&ref=gh"><b>✨ Получить промпт</b></a></sub>
 </td>
+</tr>
+<tr>
 <td width="33%" valign="top">
 <a href="https://sf-js.webly.site"><img src="../assets/gifs/264.gif" width="100%" alt="Сан-Франциско на золотом часу"></a><br>
 <b><a href="https://sf-js.webly.site">Сан-Франциско на золотом часу</a></b><br>
@@ -296,8 +311,6 @@
 <sub><a href="https://claude.ai/artifact/B7ZmVS7Yr3BUc99ZyGk2bX">Opus 5.5 version</a></sub><br>
 <sub><a href="https://fablelist.000ooo.ooo/ru/prompts/?w=voxel-colosseum&ref=gh"><b>✨ Получить промпт</b></a></sub>
 </td>
-</tr>
-<tr>
 <td width="33%" valign="top">
 <a href="https://glittery-stardust-885b97.netlify.app"><img src="../assets/gifs/233.gif" width="100%" alt="HX-6 Hexapod, Three Worlds"></a><br>
 <b><a href="https://glittery-stardust-885b97.netlify.app">HX-6 Hexapod, Three Worlds</a></b><br>
@@ -305,6 +318,8 @@
 <sub>Один и тот же 14-килограммовый гексапод на Марсе, Луне и Европе; каждая лапа сама находит опору. Управляйте им сами.</sub><br>
 <sub><a href="https://fablelist.000ooo.ooo/ru/prompts/?w=hx-6-hexapod-three-worlds&ref=gh"><b>✨ Получить промпт</b></a></sub>
 </td>
+</tr>
+<tr>
 <td width="33%" valign="top">
 <a href="https://zondark.com"><img src="../assets/gifs/033.gif" width="100%" alt="One-way Trip to a Black Hole"></a><br>
 <b><a href="https://zondark.com">One-way Trip to a Black Hole</a></b><br>
@@ -318,8 +333,6 @@
 <sub><a href="https://x.com/titepommee">@titepommee</a> · ♥ 8 · <a href="https://x.com/titepommee/status/2121259736217911357">▶ Видео</a></sub><br>
 <sub>Обойдите самолёт, нажмите на дверь, опустится трап, и вы входите: салон, спальня, даже ванная.</sub>
 </td>
-</tr>
-<tr>
 <td width="33%" valign="top">
 <a href="https://davinci-mechanics.vercel.app/"><img src="../assets/gifs/289.gif" width="100%" alt="Живой кодекс да Винчи"></a><br>
 <b><a href="https://davinci-mechanics.vercel.app/">Живой кодекс да Винчи</a></b><br>
@@ -327,6 +340,8 @@
 <sub>Откройте блокнот — перо набрасывает машины Леонардо, и они превращаются в деревянные механизмы, которые можно крутить и разбирать. Никаких 3D-моделей, текстур и аудиофайлов — всё кодом.</sub><br>
 <sub><a href="https://github.com/coding-nanami/davinci-mechanics">Исходный код</a></sub>
 </td>
+</tr>
+<tr>
 <td width="33%" valign="top">
 <a href="https://claude.ai/artifact/FETrKoitcqxPQjbQvZd79C"><img src="../assets/gifs/034.gif" width="100%" alt="Belt Stress Test"></a><br>
 <b><a href="https://claude.ai/artifact/FETrKoitcqxPQjbQvZd79C">Belt Stress Test</a></b><br>
@@ -341,8 +356,6 @@
 <sub>«Bring a 3D castle to life in an HTML file». WebGL2 вручную, без библиотек, ~5 500 деревьев, смена дня и ночи.</sub><br>
 <sub><a href="https://x.com/L34342Lin/status/2120030246108066195">📝 Промпт автора (бесплатно)</a></sub>
 </td>
-</tr>
-<tr>
 <td width="33%" valign="top">
 <a href="https://claude.ai/artifact/UqU4w7jSr6pzF2McsbyQjJ"><img src="../assets/gifs/031.gif" width="100%" alt="Wooden Pagoda Transformation"></a><br>
 <b><a href="https://claude.ai/artifact/UqU4w7jSr6pzF2McsbyQjJ">Wooden Pagoda Transformation</a></b><br>
@@ -350,6 +363,8 @@
 <sub>3 357 деталей собираются в пятиярусную пагоду, которая превращается в мечницу. Музыка вычисляется кодом.</sub><br>
 <sub><a href="https://fablelist.000ooo.ooo/ru/prompts/?w=wooden-pagoda-transformation&ref=gh"><b>✨ Получить промпт</b></a></sub>
 </td>
+</tr>
+<tr>
 <td width="33%" valign="top">
 <a href="https://cyrilremacle-byte.github.io/francis-turbine-explorer/"><img src="../assets/gifs/355.gif" width="100%" alt="Francis Turbine Explorer"></a><br>
 <b><a href="https://cyrilremacle-byte.github.io/francis-turbine-explorer/">Francis Turbine Explorer</a></b><br>
