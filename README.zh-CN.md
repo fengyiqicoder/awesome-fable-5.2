@@ -5,9 +5,9 @@
 <h3>用 Claude Fable 5.2 做出来、能直接打开玩的东西</h3>
 
 [![Awesome](https://awesome.re/badge.svg)](https://awesome.re)
-[![Works](https://img.shields.io/badge/可打开作品-231-6b4eff)](#-游戏)
-[![Demos](https://img.shields.io/badge/视频演示-148-ff7a59)](#-只有视频)
-[![Links checked](https://img.shields.io/badge/链接实测-2026--11--22-2ea44f)](#-投稿)
+[![Works](https://img.shields.io/badge/可打开作品-234-6b4eff)](#-游戏)
+[![Demos](https://img.shields.io/badge/视频演示-149-ff7a59)](#-只有视频)
+[![Links checked](https://img.shields.io/badge/链接实测-2026--11--23-2ea44f)](#-投稿)
 [![License: CC0-1.0](https://img.shields.io/badge/License-CC0_1.0-lightgrey.svg)](LICENSE)
 
 [English](README.md) · **简体中文** · [繁體中文](README.zh-TW.md) · [日本語](README.ja.md) · [한국어](README.ko.md) · [Español](README.es.md) · [Português](README.pt-BR.md) · [Français](README.fr.md) · [Deutsch](README.de.md) · [Русский](README.ru.md)
@@ -16,11 +16,11 @@
 
 </div>
 
-231 个能直接打开的作品 + 148 个视频演示，都是用 Claude Fable 5.2 做的，链接 2026-11-22 实测过。每天更新，觉得有用就点个 ⭐。
+234 个能直接打开的作品 + 149 个视频演示，都是用 Claude Fable 5.2 做的，链接 2026-11-23 实测过。每天更新，觉得有用就点个 ⭐。
 
 ## 📑 目录
 
-[⭐ 最受欢迎](#-最受欢迎) · [🆕 最新](#-最新) · [🎮 游戏](#-游戏) 107 · [🌍 3D 世界与场景](#-3d-世界与场景) 49 · [🧰 网页与工具](#-网页与工具) 56 · [🎬 动画与短片（附源码）](#-动画与短片附源码) 19 · [📺 只有视频](#-只有视频) 148 · [🤝 投稿](#-投稿)
+[⭐ 最受欢迎](#-最受欢迎) · [🆕 最新](#-最新) · [🎮 游戏](#-游戏) 110 · [🌍 3D 世界与场景](#-3d-世界与场景) 49 · [🧰 网页与工具](#-网页与工具) 56 · [🎬 动画与短片（附源码）](#-动画与短片附源码) 19 · [📺 只有视频](#-只有视频) 149 · [🤝 投稿](#-投稿)
 
 ## ⭐ 最受欢迎
 
@@ -88,14 +88,14 @@
 <td width="33%" valign="top">
 <a href="https://ebb.tesana.com"><img src="assets/gifs/379.gif" width="100%" alt="EBB 变形水滴物理平台解谜"></a><br>
 <b><a href="https://ebb.tesana.com">EBB 变形水滴物理平台解谜</a></b><br>
-<sub>🆕 · <a href="https://x.com/Rubzem">@Rubzem</a> · ♥ 583 · <a href="https://x.com/Rubzem/status/2124142554371502140">▶ 视频</a></sub><br>
+<sub>🆕 · <a href="https://x.com/Rubzem">@Rubzem</a> · ♥ 660 · <a href="https://x.com/Rubzem/status/2124142554371502140">▶ 视频</a></sub><br>
 <sub>扮演一团能融化、结冰、飘起来的水去解谜的物理平台游戏；全程序化生成，只有 190 KB，一小时做完</sub>
 </td>
 <td width="33%" valign="top">
-<a href="https://market-order-city.netlify.app/"><img src="assets/gifs/361.gif" width="100%" alt="Market Order 股价说了算的开放世界"></a><br>
-<b><a href="https://market-order-city.netlify.app/">Market Order 股价说了算的开放世界</a></b><br>
-<sub>🆕 · <a href="https://x.com/emollick">@emollick</a> · ♥ 220 · <a href="https://x.com/emollick/status/2123520499368263977">▶ 视频</a></sub><br>
-<sub>偷车、接任务的开放世界驾驶游戏：通缉等级、天气和天际线全由 Anthropic 股票 ANT 的实时行情决定</sub>
+<a href="https://patch.gg/play/blendi/the-blue-hour"><img src="assets/gifs/387.gif" width="100%" alt="The Blue Hour 装饰艺术风的夜色城市"></a><br>
+<b><a href="https://patch.gg/play/blendi/the-blue-hour">The Blue Hour 装饰艺术风的夜色城市</a></b><br>
+<sub>🆕 · <a href="https://x.com/BlendiByl">@BlendiByl</a> · ♥ 363 · <a href="https://x.com/BlendiByl/status/2124439671006748853">▶ 视频</a></sub><br>
+<sub>照着《蝙蝠侠》动画版的装饰艺术风格做的 3D 场景，全部由代码画出；开源</sub>
 </td>
 </tr>
 </table>
@@ -251,7 +251,7 @@
 <td width="33%" valign="top">
 <a href="https://patch.gg/blendi/coloured-pencil"><img src="assets/gifs/247.gif" width="100%" alt="Coloured Pencil 彩铅风游戏"></a><br>
 <b><a href="https://patch.gg/blendi/coloured-pencil">Coloured Pencil 彩铅风游戏</a></b><br>
-<sub><a href="https://x.com/BlendiByl">@BlendiByl</a> · ♥ 764 · <a href="https://x.com/BlendiByl/status/2121130385723789637">▶ 视频</a></sub><br>
+<sub><a href="https://x.com/BlendiByl">@BlendiByl</a> · ♥ 765 · <a href="https://x.com/BlendiByl/status/2121130385723789637">▶ 视频</a></sub><br>
 <sub>彩色铅笔质感的小镇游戏片段，所有着色和整个小镇都是代码；开源</sub><br>
 <sub><a href="https://fablelist.000ooo.ooo/zh/prompts/?w=coloured-pencil&ref=gh"><b>✨ 获取提示词</b></a></sub>
 </td>
@@ -274,19 +274,19 @@
 <td width="33%" valign="top">
 <a href="https://ebb.tesana.com"><img src="assets/gifs/379.gif" width="100%" alt="EBB 变形水滴物理平台解谜"></a><br>
 <b><a href="https://ebb.tesana.com">EBB 变形水滴物理平台解谜</a></b><br>
-<sub>🆕 · <a href="https://x.com/Rubzem">@Rubzem</a> · ♥ 583 · <a href="https://x.com/Rubzem/status/2124142554371502140">▶ 视频</a></sub><br>
+<sub>🆕 · <a href="https://x.com/Rubzem">@Rubzem</a> · ♥ 660 · <a href="https://x.com/Rubzem/status/2124142554371502140">▶ 视频</a></sub><br>
 <sub>扮演一团能融化、结冰、飘起来的水去解谜的物理平台游戏；全程序化生成，只有 190 KB，一小时做完</sub>
 </td>
 <td width="33%" valign="top">
 <a href="https://bannerfall.itch.io/siege-wing"><img src="assets/gifs/271.gif" width="100%" alt="Siege Wing 直升机攻城"></a><br>
 <b><a href="https://bannerfall.itch.io/siege-wing">Siege Wing 直升机攻城</a></b><br>
-<sub><a href="https://x.com/builderjaydub">@builderjaydub</a> · ♥ 576 · <a href="https://x.com/builderjaydub/status/2120223731520040966">▶ 视频</a></sub><br>
+<sub><a href="https://x.com/builderjaydub">@builderjaydub</a> · ♥ 577 · <a href="https://x.com/builderjaydub/status/2120223731520040966">▶ 视频</a></sub><br>
 <sub>开直升机打中世纪战争：火炮、火箭、导弹三种武器，躲罗马弩炮、拆城堡</sub>
 </td>
 </tr>
 </table>
 
-<p align="center"><b><a href="all/games.zh-CN.md">查看全部 107 个 →</a></b></p>
+<p align="center"><b><a href="all/games.zh-CN.md">查看全部 110 个 →</a></b></p>
 
 <div align="right"><a href="#-目录">↑ 回到目录</a></div>
 
@@ -349,14 +349,14 @@
 <td width="33%" valign="top">
 <a href="https://github.com/Leonxlnx/room-at-dawn"><img src="assets/gifs/219.gif" width="100%" alt="Room at Dawn 黎明的卧室"></a><br>
 <b><a href="https://github.com/Leonxlnx/room-at-dawn">Room at Dawn 黎明的卧室</a></b><br>
-<sub><a href="https://x.com/LexnLin">@LexnLin</a> · ♥ 857 · <a href="https://x.com/LexnLin/status/2120910879361548565">▶ 视频</a></sub><br>
+<sub><a href="https://x.com/LexnLin">@LexnLin</a> · ♥ 856 · <a href="https://x.com/LexnLin/status/2120910879361548565">▶ 视频</a></sub><br>
 <sub>three.js 写的写实卧室，没用任何现成模型和贴图，全是代码生成</sub><br>
 <sub><a href="https://fablelist.000ooo.ooo/zh/prompts/?w=room-at-dawn&ref=gh"><b>✨ 获取提示词</b></a></sub>
 </td>
 <td width="33%" valign="top">
 <a href="https://fable-rover.vercel.app"><img src="assets/gifs/278.gif" width="100%" alt="ER-6 火星车地形探索"></a><br>
 <b><a href="https://fable-rover.vercel.app">ER-6 火星车地形探索</a></b><br>
-<sub><a href="https://x.com/DilumSanjaya">@DilumSanjaya</a> · ♥ 800 · <a href="https://x.com/DilumSanjaya/status/2120561077385867663">▶ 视频</a></sub><br>
+<sub><a href="https://x.com/DilumSanjaya">@DilumSanjaya</a> · ♥ 802 · <a href="https://x.com/DilumSanjaya/status/2120561077385867663">▶ 视频</a></sub><br>
 <sub>让它设计 NASA 火星车那种摇臂-转向架悬挂，再模拟它在外星地形上自动行驶</sub>
 </td>
 </tr>
@@ -391,12 +391,20 @@
 <sub><a href="https://fablelist.000ooo.ooo/zh/prompts/?w=bay-area-through-time&ref=gh"><b>✨ 获取提示词</b></a></sub>
 </td>
 <td width="33%" valign="top">
+<a href="https://patch.gg/play/blendi/the-blue-hour"><img src="assets/gifs/387.gif" width="100%" alt="The Blue Hour 装饰艺术风的夜色城市"></a><br>
+<b><a href="https://patch.gg/play/blendi/the-blue-hour">The Blue Hour 装饰艺术风的夜色城市</a></b><br>
+<sub>🆕 · <a href="https://x.com/BlendiByl">@BlendiByl</a> · ♥ 363 · <a href="https://x.com/BlendiByl/status/2124439671006748853">▶ 视频</a></sub><br>
+<sub>照着《蝙蝠侠》动画版的装饰艺术风格做的 3D 场景，全部由代码画出；开源</sub>
+</td>
+<td width="33%" valign="top">
 <a href="http://procedural-arm-rig.vercel.app"><img src="assets/gifs/140.gif" width="100%" alt="程序化手臂绑定"></a><br>
 <b><a href="http://procedural-arm-rig.vercel.app">程序化手臂绑定</a></b><br>
 <sub><a href="https://x.com/apekshik">@apekshik</a> · ♥ 326 · <a href="https://x.com/apekshik/status/2120224530367119758">▶ 视频</a></sub><br>
 <sub>不做 3A 大作，只把一条手臂做到极致：骨架、权重、IK，握拳时肌肉会鼓起</sub><br>
 <sub><a href="https://fablelist.000ooo.ooo/zh/prompts/?w=procedural-arm-rig&ref=gh"><b>✨ 获取提示词</b></a></sub>
 </td>
+</tr>
+<tr>
 <td width="33%" valign="top">
 <a href="https://samg-coder.github.io/solstice-garden/"><img src="assets/gifs/248.gif" width="100%" alt="The Garden 夏至花园"></a><br>
 <b><a href="https://samg-coder.github.io/solstice-garden/">The Garden 夏至花园</a></b><br>
@@ -404,12 +412,10 @@
 <sub>Rust 编译成 WASM、用 WebGPU 渲染的花园</sub><br>
 <sub><a href="https://fablelist.000ooo.ooo/zh/prompts/?w=the-garden&ref=gh"><b>✨ 获取提示词</b></a></sub>
 </td>
-</tr>
-<tr>
 <td width="33%" valign="top">
 <a href="http://taoistvibe.com"><img src="assets/gifs/307.gif" width="100%" alt="紫曜宫 Chill Taoist Vibe 道教小山"></a><br>
 <b><a href="http://taoistvibe.com">紫曜宫 Chill Taoist Vibe 道教小山</a></b><br>
-<sub><a href="https://x.com/qiqileyuan">@qiqileyuan</a> · ♥ 253 · <a href="https://x.com/qiqileyuan/status/2122006851298693277">▶ 视频</a></sub><br>
+<sub><a href="https://x.com/qiqileyuan">@qiqileyuan</a> · ♥ 252 · <a href="https://x.com/qiqileyuan/status/2122006851298693277">▶ 视频</a></sub><br>
 <sub>吉卜力画风的道观小山：跟着老道人上山，烧香、求签、打坐、站桩，或者坐在摇椅上看四季变化；神像和主角模型用 Tripo3D，其余全是代码生成</sub>
 </td>
 <td width="33%" valign="top">
@@ -418,6 +424,8 @@
 <sub><a href="https://x.com/ky__zo">@ky__zo</a> · ♥ 229 · <a href="https://x.com/ky__zo/status/2122274109795054036">▶ 视频</a></sub><br>
 <sub>滚动页面跟着一只飞不出玻璃温室的透翅蝶穿过六个世界，纯 three.js，没有模型文件和贴图；花了 13.2 亿 token、905 美元 API 费用</sub>
 </td>
+</tr>
+<tr>
 <td width="33%" valign="top">
 <a href="https://claude.ai/artifact/R6YBDkAm2GjAC5A65D9djx"><img src="assets/gifs/142.gif" width="100%" alt="能走进去的 Claude 演示间"></a><br>
 <b><a href="https://claude.ai/artifact/R6YBDkAm2GjAC5A65D9djx">能走进去的 Claude 演示间</a></b><br>
@@ -425,8 +433,6 @@
 <sub>受 @rileybrown 启发；走进房间，坐到任意一台电脑前</sub><br>
 <sub><a href="https://fablelist.000ooo.ooo/zh/prompts/?w=a-claude-demo-you-can-walk-into&ref=gh"><b>✨ 获取提示词</b></a></sub>
 </td>
-</tr>
-<tr>
 <td width="33%" valign="top">
 <a href="https://claude.ai/artifact/2PBXuQAnWDS2NpiPXHNLfL"><img src="assets/gifs/028.gif" width="100%" alt="果冻虎鲸材质研究"></a><br>
 <b><a href="https://claude.ai/artifact/2PBXuQAnWDS2NpiPXHNLfL">果冻虎鲸材质研究</a></b><br>
@@ -441,6 +447,8 @@
 <sub><a href="https://x.com/KanaWorks_AI">@KanaWorks_AI</a> · ♥ 198 · <a href="https://x.com/KanaWorks_AI/status/2121413647213932688">▶ 视频</a></sub><br>
 <sub>不到 320KB 纯代码的星球，大海、草原、樱花一直飞到太空，打开即玩</sub>
 </td>
+</tr>
+<tr>
 <td width="33%" valign="top">
 <a href="https://claude.ai/artifact/9EgZpErM17kH2a9Q3WXW6f"><img src="assets/gifs/027.gif" width="100%" alt="瓶中体素世界"></a><br>
 <b><a href="https://claude.ai/artifact/9EgZpErM17kH2a9Q3WXW6f">瓶中体素世界</a></b><br>
@@ -448,19 +456,11 @@
 <sub>30 分钟 $12.81</sub><br>
 <sub><a href="https://x.com/vib3coded/status/2120104517282775514">📝 作者公开的提示词（免费）</a></sub>
 </td>
-</tr>
-<tr>
 <td width="33%" valign="top">
 <a href="https://github.com/Leonxlnx/beautiful-wonderland"><img src="assets/gifs/301.gif" width="100%" alt="Beautiful Wonderland 手绘小世界"></a><br>
 <b><a href="https://github.com/Leonxlnx/beautiful-wonderland">Beautiful Wonderland 手绘小世界</a></b><br>
-<sub><a href="https://x.com/LexnLin">@LexnLin</a> · ♥ 147 · <a href="https://x.com/LexnLin/status/2122056542778535977">▶ 视频</a></sub><br>
+<sub><a href="https://x.com/LexnLin">@LexnLin</a> · ♥ 148 · <a href="https://x.com/LexnLin/status/2122056542778535977">▶ 视频</a></sub><br>
 <sub>three.js 写的一个手绘质感小世界，还从里面渲染了一段 40 秒 4K 短片</sub>
-</td>
-<td width="33%" valign="top">
-<a href="https://patch.gg/play/blendi/the-blue-hour"><img src="assets/gifs/387.gif" width="100%" alt="The Blue Hour 装饰艺术风的夜色城市"></a><br>
-<b><a href="https://patch.gg/play/blendi/the-blue-hour">The Blue Hour 装饰艺术风的夜色城市</a></b><br>
-<sub>🆕 · <a href="https://x.com/BlendiByl">@BlendiByl</a> · ♥ 145 · <a href="https://x.com/BlendiByl/status/2124439671006748853">▶ 视频</a></sub><br>
-<sub>照着《蝙蝠侠》动画版的装饰艺术风格做的 3D 场景，全部由代码画出；开源</sub>
 </td>
 <td width="33%" valign="top">
 <a href="https://patch.gg/blendi/impossible-spaces"><img src="assets/gifs/135.gif" width="100%" alt="Impossible Spaces 不可能空间"></a><br>
@@ -619,7 +619,7 @@
 <td width="33%" valign="top">
 <a href="https://www.bubbbly.com/christmas-cards"><img src="assets/gifs/315.gif" width="100%" alt="Christmas Cards 互动圣诞贺卡"></a><br>
 <b><a href="https://www.bubbbly.com/christmas-cards">Christmas Cards 互动圣诞贺卡</a></b><br>
-<sub><a href="https://x.com/ann_nnng">@ann_nnng</a> · ♥ 477 · <a href="https://x.com/ann_nnng/status/2122283549000712249">▶ 视频</a></sub><br>
+<sub><a href="https://x.com/ann_nnng">@ann_nnng</a> · ♥ 478 · <a href="https://x.com/ann_nnng/status/2122283549000712249">▶ 视频</a></sub><br>
 <sub>一组可以互动的圣诞贺卡，比如围红围巾的猫在窗台上看雪</sub>
 </td>
 <td width="33%" valign="top">
@@ -648,14 +648,14 @@
 <td width="33%" valign="top">
 <a href="https://rubber-hose-ui.vercel.app"><img src="assets/gifs/332.gif" width="100%" alt="Rubber Hose UI 1930 年代卡通风控件"></a><br>
 <b><a href="https://rubber-hose-ui.vercel.app">Rubber Hose UI 1930 年代卡通风控件</a></b><br>
-<sub><a href="https://x.com/crtvTeknologist">@crtvTeknologist</a> · ♥ 352 · <a href="https://x.com/crtvTeknologist/status/2122433522166124616">▶ 视频</a></sub><br>
+<sub><a href="https://x.com/crtvTeknologist">@crtvTeknologist</a> · ♥ 353 · <a href="https://x.com/crtvTeknologist/status/2122433522166124616">▶ 视频</a></sub><br>
 <sub>11 个网页控件全是橡皮管卡通角色：滑块是长号，提示框是烤面包机，按钮每按一次多一只黑眼圈；原生 JS 加 canvas，无依赖，开源</sub><br>
 <sub><a href="https://github.com/finktheartist/rubber-hose-ui">源码</a></sub>
 </td>
 <td width="33%" valign="top">
 <a href="https://bigfatfish.cc"><img src="assets/gifs/362.gif" width="100%" alt="大肥鱼的鱼缸 手账贴纸风个人站"></a><br>
 <b><a href="https://bigfatfish.cc">大肥鱼的鱼缸 手账贴纸风个人站</a></b><br>
-<sub>🆕 · <a href="https://x.com/dafeifish">@dafeifish</a> · ♥ 264 · <a href="https://x.com/dafeifish/status/2123395143873019950">原帖</a></sub><br>
+<sub><a href="https://x.com/dafeifish">@dafeifish</a> · ♥ 264 · <a href="https://x.com/dafeifish/status/2123395143873019950">原帖</a></sub><br>
 <sub>用它重新设计的个人站：深蓝夜空上贴满小纸片、胶带、便利贴和拍立得，像翻开一本手账</sub>
 </td>
 </tr>
@@ -685,7 +685,7 @@
 <td width="33%" valign="top">
 <a href="https://github.com/moritzkremb/robovac-pov"><img src="assets/gifs/334.gif" width="100%" alt="Robovac POV 扫地机器人视角短片"></a><br>
 <b><a href="https://github.com/moritzkremb/robovac-pov">Robovac POV 扫地机器人视角短片</a></b><br>
-<sub><a href="https://x.com/moritzkremb">@moritzkremb</a> · ♥ 461 · <a href="https://x.com/moritzkremb/status/2122702891819377117">▶ 视频</a></sub><br>
+<sub><a href="https://x.com/moritzkremb">@moritzkremb</a> · ♥ 462 · <a href="https://x.com/moritzkremb/status/2122702891819377117">▶ 视频</a></sub><br>
 <sub>53 秒扫地机器人第一视角的写实短片，全用代码生成：C++ 写的场景和 GPU 路径追踪器，模拟镜头、对焦、运动模糊和颗粒，地毯约 90 万根纤维，声音用 Python 合成</sub>
 </td>
 </tr>
@@ -721,7 +721,7 @@
 <td width="33%" valign="top">
 <a href="https://github.com/anstapnever/one-sweep"><img src="assets/gifs/051.gif" width="100%" alt="One Sweep 78 秒动漫打斗"></a><br>
 <b><a href="https://github.com/anstapnever/one-sweep">One Sweep 78 秒动漫打斗</a></b><br>
-<sub><a href="https://x.com/anstapnever">@anstapnever</a> · ♥ 251 · <a href="https://x.com/anstapnever/status/2119772039037014524">▶ 视频</a></sub><br>
+<sub><a href="https://x.com/anstapnever">@anstapnever</a> · ♥ 250 · <a href="https://x.com/anstapnever/status/2119772039037014524">▶ 视频</a></sub><br>
 <sub>纯 Three.js 代码，6 组 Agent 并行；作者写的是「Fable 5.5」</sub><br>
 <sub><a href="https://x.com/anstapnever/status/2119772039037014524">📝 作者公开的提示词（免费）</a></sub>
 </td>
@@ -886,7 +886,7 @@
 <td width="33%" valign="top">
 <a href="https://x.com/kevin_t_ngo/status/2123980980994318416"><img src="assets/gifs/384.gif" width="100%" alt="让 Fable 5.2 用 Python 给自己做一副嗓音"></a><br>
 <b><a href="https://x.com/kevin_t_ngo/status/2123980980994318416">让 Fable 5.2 用 Python 给自己做一副嗓音</a></b><br>
-<sub>🆕 · <a href="https://x.com/kevin_t_ngo">@kevin_t_ngo</a> · ♥ 4.1k · <a href="https://x.com/kevin_t_ngo/status/2123980980994318416">▶ 视频</a></sub><br>
+<sub>🆕 · <a href="https://x.com/kevin_t_ngo">@kevin_t_ngo</a> · ♥ 4.3k · <a href="https://x.com/kevin_t_ngo/status/2123980980994318416">▶ 视频</a></sub><br>
 
 </td>
 <td width="33%" valign="top">
@@ -964,7 +964,7 @@
 </tr>
 </table>
 
-<p align="center"><b><a href="all/video-demos.zh-CN.md">查看全部 148 个 →</a></b></p>
+<p align="center"><b><a href="all/video-demos.zh-CN.md">查看全部 149 个 →</a></b></p>
 
 ## 🤝 投稿
 
@@ -984,9 +984,9 @@
 
 ## 📰 更新
 
+- **2026-11-23**：新增 3 个可打开作品和 1 个视频演示。
 - **2026-11-22**：新增 9 个可打开作品和 2 个视频演示。
 - **2026-11-21**：新增 7 个可打开作品和 1 个视频演示。
 - **2026-11-20**：新增 8 个可打开作品和 0 个视频演示。
-- **2026-11-19**：新增 10 个可打开作品和 2 个视频演示。
 - **2026-11-10**：每个作品都加上了动图预览。
 - **2026-11-10**：首版，57 个可打开作品 + 61 个视频演示。

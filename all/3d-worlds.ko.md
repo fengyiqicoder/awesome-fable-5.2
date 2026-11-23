@@ -61,14 +61,14 @@
 <td width="33%" valign="top">
 <a href="https://github.com/Leonxlnx/room-at-dawn"><img src="../assets/gifs/219.gif" width="100%" alt="Room at Dawn"></a><br>
 <b><a href="https://github.com/Leonxlnx/room-at-dawn">Room at Dawn</a></b><br>
-<sub><a href="https://x.com/LexnLin">@LexnLin</a> · ♥ 857 · <a href="https://x.com/LexnLin/status/2120910879361548565">▶ 영상</a></sub><br>
+<sub><a href="https://x.com/LexnLin">@LexnLin</a> · ♥ 856 · <a href="https://x.com/LexnLin/status/2120910879361548565">▶ 영상</a></sub><br>
 <sub>미리 만든 모델이나 텍스처 없이 three.js로 만든 사실적인 침실. 모든 것이 코드.</sub><br>
 <sub><a href="https://fablelist.000ooo.ooo/ko/prompts/?w=room-at-dawn&ref=gh"><b>✨ 프롬프트 받기</b></a></sub>
 </td>
 <td width="33%" valign="top">
 <a href="https://fable-rover.vercel.app"><img src="../assets/gifs/278.gif" width="100%" alt="ER-6 Terrain Explorer — 스스로 달리는 화성 탐사차"></a><br>
 <b><a href="https://fable-rover.vercel.app">ER-6 Terrain Explorer — 스스로 달리는 화성 탐사차</a></b><br>
-<sub><a href="https://x.com/DilumSanjaya">@DilumSanjaya</a> · ♥ 800 · <a href="https://x.com/DilumSanjaya/status/2120561077385867663">▶ 영상</a></sub><br>
+<sub><a href="https://x.com/DilumSanjaya">@DilumSanjaya</a> · ♥ 802 · <a href="https://x.com/DilumSanjaya/status/2120561077385867663">▶ 영상</a></sub><br>
 <sub>Fable 5.2가 NASA 화성 탐사차처럼 로커-보기 서스펜션을 설계하고, 외계 지형을 달리는 시뮬레이션까지 만들었습니다.</sub>
 </td>
 </tr>
@@ -103,12 +103,20 @@
 <sub><a href="https://fablelist.000ooo.ooo/ko/prompts/?w=bay-area-through-time&ref=gh"><b>✨ 프롬프트 받기</b></a></sub>
 </td>
 <td width="33%" valign="top">
+<a href="https://patch.gg/play/blendi/the-blue-hour"><img src="../assets/gifs/387.gif" width="100%" alt="The Blue Hour — 아르데코풍 밤의 도시"></a><br>
+<b><a href="https://patch.gg/play/blendi/the-blue-hour">The Blue Hour — 아르데코풍 밤의 도시</a></b><br>
+<sub>🆕 · <a href="https://x.com/BlendiByl">@BlendiByl</a> · ♥ 363 · <a href="https://x.com/BlendiByl/status/2124439671006748853">▶ 영상</a></sub><br>
+<sub>애니메이션 '배트맨' 시리즈의 아르데코 스타일을 살린 3D 장면으로, 전부 코드로 그렸습니다. 오픈 소스.</sub>
+</td>
+<td width="33%" valign="top">
 <a href="http://procedural-arm-rig.vercel.app"><img src="../assets/gifs/140.gif" width="100%" alt="Procedural Arm Rig"></a><br>
 <b><a href="http://procedural-arm-rig.vercel.app">Procedural Arm Rig</a></b><br>
 <sub><a href="https://x.com/apekshik">@apekshik</a> · ♥ 326 · <a href="https://x.com/apekshik/status/2120224530367119758">▶ 영상</a></sub><br>
 <sub>AAA 게임을 원샷으로 만드는 대신: 본 아마추어, 웨이트 페인팅된 메시, IK, 주먹을 쥘 때 부풀어 오르는 근육을 갖춘 팔 하나.</sub><br>
 <sub><a href="https://fablelist.000ooo.ooo/ko/prompts/?w=procedural-arm-rig&ref=gh"><b>✨ 프롬프트 받기</b></a></sub>
 </td>
+</tr>
+<tr>
 <td width="33%" valign="top">
 <a href="https://samg-coder.github.io/solstice-garden/"><img src="../assets/gifs/248.gif" width="100%" alt="The Garden"></a><br>
 <b><a href="https://samg-coder.github.io/solstice-garden/">The Garden</a></b><br>
@@ -116,12 +124,10 @@
 <sub>Rust로 작성해 WASM으로 컴파일하고 WebGPU로 렌더링한 정원 장면.</sub><br>
 <sub><a href="https://fablelist.000ooo.ooo/ko/prompts/?w=the-garden&ref=gh"><b>✨ 프롬프트 받기</b></a></sub>
 </td>
-</tr>
-<tr>
 <td width="33%" valign="top">
 <a href="http://taoistvibe.com"><img src="../assets/gifs/307.gif" width="100%" alt="Chill Taoist Vibe: 도교 사원이 있는 작은 산"></a><br>
 <b><a href="http://taoistvibe.com">Chill Taoist Vibe: 도교 사원이 있는 작은 산</a></b><br>
-<sub><a href="https://x.com/qiqileyuan">@qiqileyuan</a> · ♥ 253 · <a href="https://x.com/qiqileyuan/status/2122006851298693277">▶ 영상</a></sub><br>
+<sub><a href="https://x.com/qiqileyuan">@qiqileyuan</a> · ♥ 252 · <a href="https://x.com/qiqileyuan/status/2122006851298693277">▶ 영상</a></sub><br>
 <sub>지브리풍으로 그린 작은 산 위의 도교 사원. 노도사를 따라 산을 오르고, 향을 피우고, 점괘를 뽑고, 명상할 수 있다. 흔들의자에 앉아 계절이 바뀌는 걸 지켜보기만 해도 된다. 신상과 주인공 모델은 Tripo3D로 만들었고 나머지는 전부 생성된 코드다.</sub>
 </td>
 <td width="33%" valign="top">
@@ -130,6 +136,8 @@
 <sub><a href="https://x.com/ky__zo">@ky__zo</a> · ♥ 229 · <a href="https://x.com/ky__zo/status/2122274109795054036">▶ 영상</a></sub><br>
 <sub>스크롤하면 유리 온실을 빠져나가지 못하는 유리날개나비와 함께 여섯 개의 세계를 날아간다. 모델 파일도 텍스처도 없는 순수 three.js. 13.2억 토큰, API 비용 $905.</sub>
 </td>
+</tr>
+<tr>
 <td width="33%" valign="top">
 <a href="https://claude.ai/artifact/R6YBDkAm2GjAC5A65D9djx"><img src="../assets/gifs/142.gif" width="100%" alt="걸어 들어갈 수 있는 Claude 데모"></a><br>
 <b><a href="https://claude.ai/artifact/R6YBDkAm2GjAC5A65D9djx">걸어 들어갈 수 있는 Claude 데모</a></b><br>
@@ -137,8 +145,6 @@
 <sub>@rileybrown에게서 영감: 걸어 들어가 어느 컴퓨터에든 앉아 보세요.</sub><br>
 <sub><a href="https://fablelist.000ooo.ooo/ko/prompts/?w=a-claude-demo-you-can-walk-into&ref=gh"><b>✨ 프롬프트 받기</b></a></sub>
 </td>
-</tr>
-<tr>
 <td width="33%" valign="top">
 <a href="https://claude.ai/artifact/2PBXuQAnWDS2NpiPXHNLfL"><img src="../assets/gifs/028.gif" width="100%" alt="Orca Jelly"></a><br>
 <b><a href="https://claude.ai/artifact/2PBXuQAnWDS2NpiPXHNLfL">Orca Jelly</a></b><br>
@@ -153,6 +159,8 @@
 <sub><a href="https://x.com/KanaWorks_AI">@KanaWorks_AI</a> · ♥ 198 · <a href="https://x.com/KanaWorks_AI/status/2121413647213932688">▶ 영상</a></sub><br>
 <sub>320KB도 안 되는 코드로 만든 행성 하나. 바다와 초원에서 벚꽃을 지나 우주까지, 브라우저에서 바로 날아가 보세요.</sub>
 </td>
+</tr>
+<tr>
 <td width="33%" valign="top">
 <a href="https://claude.ai/artifact/9EgZpErM17kH2a9Q3WXW6f"><img src="../assets/gifs/027.gif" width="100%" alt="Voxel World in a Bottle"></a><br>
 <b><a href="https://claude.ai/artifact/9EgZpErM17kH2a9Q3WXW6f">Voxel World in a Bottle</a></b><br>
@@ -160,19 +168,11 @@
 <sub>30분, $12.81.</sub><br>
 <sub><a href="https://x.com/vib3coded/status/2120104517282775514">📝 제작자 공개 프롬프트 (무료)</a></sub>
 </td>
-</tr>
-<tr>
 <td width="33%" valign="top">
 <a href="https://github.com/Leonxlnx/beautiful-wonderland"><img src="../assets/gifs/301.gif" width="100%" alt="Beautiful Wonderland"></a><br>
 <b><a href="https://github.com/Leonxlnx/beautiful-wonderland">Beautiful Wonderland</a></b><br>
-<sub><a href="https://x.com/LexnLin">@LexnLin</a> · ♥ 147 · <a href="https://x.com/LexnLin/status/2122056542778535977">▶ 영상</a></sub><br>
+<sub><a href="https://x.com/LexnLin">@LexnLin</a> · ♥ 148 · <a href="https://x.com/LexnLin/status/2122056542778535977">▶ 영상</a></sub><br>
 <sub>three.js로 만든 손그림 느낌의 작은 세계와, 거기서 렌더링한 40초 4K 영상.</sub>
-</td>
-<td width="33%" valign="top">
-<a href="https://patch.gg/play/blendi/the-blue-hour"><img src="../assets/gifs/387.gif" width="100%" alt="The Blue Hour — 아르데코풍 밤의 도시"></a><br>
-<b><a href="https://patch.gg/play/blendi/the-blue-hour">The Blue Hour — 아르데코풍 밤의 도시</a></b><br>
-<sub>🆕 · <a href="https://x.com/BlendiByl">@BlendiByl</a> · ♥ 145 · <a href="https://x.com/BlendiByl/status/2124439671006748853">▶ 영상</a></sub><br>
-<sub>애니메이션 '배트맨' 시리즈의 아르데코 스타일을 살린 3D 장면으로, 전부 코드로 그렸습니다. 오픈 소스.</sub>
 </td>
 <td width="33%" valign="top">
 <a href="https://patch.gg/blendi/impossible-spaces"><img src="../assets/gifs/135.gif" width="100%" alt="Impossible Spaces"></a><br>
@@ -186,7 +186,7 @@
 <td width="33%" valign="top">
 <a href="https://claude.ai/artifact/HCzUsvWqERjQcgJjRuUUFo"><img src="../assets/gifs/386.gif" width="100%" alt="Rain-Soaked Noodle Stall — 픽셀 디오라마"></a><br>
 <b><a href="https://claude.ai/artifact/HCzUsvWqERjQcgJjRuUUFo">Rain-Soaked Noodle Stall — 픽셀 디오라마</a></b><br>
-<sub>🆕 · <a href="https://x.com/CapyCola">@CapyCola</a> · ♥ 129 · <a href="https://x.com/CapyCola/status/2124115057101664380">▶ 영상</a></sub><br>
+<sub>🆕 · <a href="https://x.com/CapyCola">@CapyCola</a> · ♥ 132 · <a href="https://x.com/CapyCola/status/2124115057101664380">▶ 영상</a></sub><br>
 <sub>비 내리는 국수 노점, 흔들리는 등불, 아무도 지켜보지 않는 국물 냄비, 그리고 아직 떠나지 않은 고양이. 드래그해 돌려 가며 어느 각도에서든 볼 수 있는 픽셀 장면으로, Fable 5.2와 Ink Studio로 만들었습니다.</sub><br>
 <sub><a href="https://github.com/cola5939/pixel-dioramas">소스 코드</a></sub>
 </td>
@@ -209,13 +209,13 @@
 <td width="33%" valign="top">
 <a href="https://coralback-ray.wasmer.app/"><img src="../assets/gifs/357.gif" width="100%" alt="Coralback Ray"></a><br>
 <b><a href="https://coralback-ray.wasmer.app/">Coralback Ray</a></b><br>
-<sub><a href="https://x.com/thebuggeddev">@thebuggeddev</a> · ♥ 83 · <a href="https://x.com/thebuggeddev/status/2123021723188744248">▶ 영상</a></sub><br>
+<sub><a href="https://x.com/thebuggeddev">@thebuggeddev</a> · ♥ 84 · <a href="https://x.com/thebuggeddev/status/2123021723188744248">▶ 영상</a></sub><br>
 <sub>브라우저 안에서 헤엄치는 3D 가오리. GLB 모델 하나로 만들었다. 뼈대 없이 리그가 전부 버텍스 셰이더에서 돌아가고, 헤엄은 추력·항력·중력으로 계산된다.</sub>
 </td>
 <td width="33%" valign="top">
 <a href="https://patch.gg/blendi/pixel-village"><img src="../assets/gifs/372.gif" width="100%" alt="Pixel Village"></a><br>
 <b><a href="https://patch.gg/blendi/pixel-village">Pixel Village</a></b><br>
-<sub>🆕 · <a href="https://x.com/BlendiByl">@BlendiByl</a> · ♥ 78 · <a href="https://x.com/BlendiByl/status/2123618324823388410">▶ 영상</a></sub><br>
+<sub>🆕 · <a href="https://x.com/BlendiByl">@BlendiByl</a> · ♥ 81 · <a href="https://x.com/BlendiByl/status/2123618324823388410">▶ 영상</a></sub><br>
 <sub>해 질 녘 바닷가 절벽 위의 몽환적인 픽셀 마을. 진짜 3D 세계 속 픽셀 아트로, 모든 픽셀을 코드로 그렸다. 브라우저에서 실행되며 오픈 소스.</sub>
 </td>
 <td width="33%" valign="top">
@@ -237,7 +237,7 @@
 <td width="33%" valign="top">
 <a href="https://fable-jerusalem.vercel.app/"><img src="../assets/gifs/138.gif" width="100%" alt="유월절의 예루살렘"></a><br>
 <b><a href="https://fable-jerusalem.vercel.app/">유월절의 예루살렘</a></b><br>
-<sub><a href="https://x.com/kplikethebird">@kplikethebird</a> · ♥ 43 · <a href="https://x.com/kplikethebird/status/2119900775727902732">▶ 영상</a></sub><br>
+<sub><a href="https://x.com/kplikethebird">@kplikethebird</a> · ♥ 42 · <a href="https://x.com/kplikethebird/status/2119900775727902732">▶ 영상</a></sub><br>
 <sub>Blender로 만든, 고증에 충실한 몰입형 3D 예루살렘. 거리를 거닐어 보세요.</sub><br>
 <sub><a href="https://x.com/kplikethebird/status/2119900775727902732">📝 제작자 공개 프롬프트 (무료)</a></sub>
 </td>

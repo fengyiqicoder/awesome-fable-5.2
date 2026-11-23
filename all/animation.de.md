@@ -22,7 +22,7 @@ Die Hauptseite zeigt pro Bereich höchstens die 24 Einträge mit den meisten Lik
 <td width="33%" valign="top">
 <a href="https://github.com/moritzkremb/robovac-pov"><img src="../assets/gifs/334.gif" width="100%" alt="Robovac POV: ein lebensechter Film aus Sicht eines Saugroboters"></a><br>
 <b><a href="https://github.com/moritzkremb/robovac-pov">Robovac POV: ein lebensechter Film aus Sicht eines Saugroboters</a></b><br>
-<sub><a href="https://x.com/moritzkremb">@moritzkremb</a> · ♥ 461 · <a href="https://x.com/moritzkremb/status/2122702891819377117">▶ Video</a></sub><br>
+<sub><a href="https://x.com/moritzkremb">@moritzkremb</a> · ♥ 462 · <a href="https://x.com/moritzkremb/status/2122702891819377117">▶ Video</a></sub><br>
 <sub>Ein 53-Sekunden-Film nur aus Code: eine in C++ geschriebene Welt, ein eigener GPU-Path-Tracer, eine simulierte Kamera mit Fokus, Bewegungsunschärfe und Korn, ein Teppich aus rund 900,000 Fasern und in Python synthetisierter Ton.</sub>
 </td>
 </tr>
@@ -58,7 +58,7 @@ Die Hauptseite zeigt pro Bereich höchstens die 24 Einträge mit den meisten Lik
 <td width="33%" valign="top">
 <a href="https://github.com/anstapnever/one-sweep"><img src="../assets/gifs/051.gif" width="100%" alt="One Sweep"></a><br>
 <b><a href="https://github.com/anstapnever/one-sweep">One Sweep</a></b><br>
-<sub><a href="https://x.com/anstapnever">@anstapnever</a> · ♥ 251 · <a href="https://x.com/anstapnever/status/2119772039037014524">▶ Video</a></sub><br>
+<sub><a href="https://x.com/anstapnever">@anstapnever</a> · ♥ 250 · <a href="https://x.com/anstapnever/status/2119772039037014524">▶ Video</a></sub><br>
 <sub>Ein 78-sekündiger Anime-Kampf in reinem Three.js, sechs Agent-Teams parallel. Der Autor sagt „Fable 5.5“.</sub><br>
 <sub><a href="https://x.com/anstapnever/status/2119772039037014524">📝 Prompt des Creators (kostenlos)</a></sub>
 </td>

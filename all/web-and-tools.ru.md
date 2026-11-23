@@ -145,7 +145,7 @@
 <td width="33%" valign="top">
 <a href="https://www.bubbbly.com/christmas-cards"><img src="../assets/gifs/315.gif" width="100%" alt="Christmas Cards: интерактивные рождественские открытки"></a><br>
 <b><a href="https://www.bubbbly.com/christmas-cards">Christmas Cards: интерактивные рождественские открытки</a></b><br>
-<sub><a href="https://x.com/ann_nnng">@ann_nnng</a> · ♥ 477 · <a href="https://x.com/ann_nnng/status/2122283549000712249">▶ Видео</a></sub><br>
+<sub><a href="https://x.com/ann_nnng">@ann_nnng</a> · ♥ 478 · <a href="https://x.com/ann_nnng/status/2122283549000712249">▶ Видео</a></sub><br>
 <sub>Набор интерактивных рождественских открыток, например кот в красном шарфе на подоконнике смотрит, как падает снег.</sub>
 </td>
 <td width="33%" valign="top">
@@ -174,14 +174,14 @@
 <td width="33%" valign="top">
 <a href="https://rubber-hose-ui.vercel.app"><img src="../assets/gifs/332.gif" width="100%" alt="Rubber Hose UI: элементы управления в виде мультяшек 1930-х"></a><br>
 <b><a href="https://rubber-hose-ui.vercel.app">Rubber Hose UI: элементы управления в виде мультяшек 1930-х</a></b><br>
-<sub><a href="https://x.com/crtvTeknologist">@crtvTeknologist</a> · ♥ 352 · <a href="https://x.com/crtvTeknologist/status/2122433522166124616">▶ Видео</a></sub><br>
+<sub><a href="https://x.com/crtvTeknologist">@crtvTeknologist</a> · ♥ 353 · <a href="https://x.com/crtvTeknologist/status/2122433522166124616">▶ Видео</a></sub><br>
 <sub>Одиннадцать веб-контролов в стиле rubber hose: слайдер стал тромбоном, тост стал тостером, а кнопка получает синяк под глазом при каждом нажатии. Чистый JS и canvas, без зависимостей, открытый код.</sub><br>
 <sub><a href="https://github.com/finktheartist/rubber-hose-ui">Исходный код</a></sub>
 </td>
 <td width="33%" valign="top">
 <a href="https://bigfatfish.cc"><img src="../assets/gifs/362.gif" width="100%" alt="Big Fat Fish's Tank"></a><br>
 <b><a href="https://bigfatfish.cc">Big Fat Fish's Tank</a></b><br>
-<sub>🆕 · <a href="https://x.com/dafeifish">@dafeifish</a> · ♥ 264 · <a href="https://x.com/dafeifish/status/2123395143873019950">Пост</a></sub><br>
+<sub><a href="https://x.com/dafeifish">@dafeifish</a> · ♥ 264 · <a href="https://x.com/dafeifish/status/2123395143873019950">Пост</a></sub><br>
 <sub>Личный сайт, переделанный в стиле скрапбука: бумажки, скотч, стикеры и полароиды на тёмно-синем ночном небе.</sub>
 </td>
 </tr>
@@ -196,7 +196,7 @@
 <td width="33%" valign="top">
 <a href="https://claude.ai/artifact/5ki5nJzDaayYMNhxymZBNT"><img src="../assets/gifs/378.gif" width="100%" alt="Slow Plant Synth"></a><br>
 <b><a href="https://claude.ai/artifact/5ki5nJzDaayYMNhxymZBNT">Slow Plant Synth</a></b><br>
-<sub>🆕 · <a href="https://x.com/parhelion318">@parhelion318</a> · ♥ 206 · <a href="https://x.com/parhelion318/status/2123982460090503626">▶ Видео</a></sub><br>
+<sub>🆕 · <a href="https://x.com/parhelion318">@parhelion318</a> · ♥ 209 · <a href="https://x.com/parhelion318/status/2123982460090503626">▶ Видео</a></sub><br>
 <sub>Виртуальное растение растёт в зависимости от вашего местоположения, времени и смоделированной погоды и днями издаёт собственные звуки. Сделано с Fable 5.2 и Opus 5.5.</sub>
 </td>
 <td width="33%" valign="top">
@@ -267,7 +267,7 @@
 <td width="33%" valign="top">
 <a href="https://andreysuperiorgit.github.io/v8/"><img src="../assets/gifs/373.gif" width="100%" alt="V8 Four-Stroke"></a><br>
 <b><a href="https://andreysuperiorgit.github.io/v8/">V8 Four-Stroke</a></b><br>
-<sub>🆕 · <a href="https://x.com/andreysuperior">@andreysuperior</a> · ♥ 69 · <a href="https://x.com/andreysuperior/status/2123928682603430384">▶ Видео</a></sub><br>
+<sub>🆕 · <a href="https://x.com/andreysuperior">@andreysuperior</a> · ♥ 73 · <a href="https://x.com/andreysuperior/status/2123928682603430384">▶ Видео</a></sub><br>
 <sub>7,0-литровый V8, который можно раскрутить прямо во вкладке браузера: поршни, коленвал, распредвал и 16 клапанов движутся по реальным размерам, а коллекторы раскаляются с ростом оборотов. Один HTML-файл на 124 КБ, 1 промпт и 23 уточнения.</sub>
 </td>
 </tr>
@@ -280,17 +280,17 @@
 <sub><a href="https://fablelist.000ooo.ooo/ru/prompts/?w=best-seat-in-the-house&ref=gh"><b>✨ Получить промпт</b></a></sub>
 </td>
 <td width="33%" valign="top">
+<a href="https://hashem-al-ghaili.github.io/music-maker/"><img src="../assets/gifs/383.gif" width="100%" alt="Music Maker — инструмент, на котором играют в воздухе"></a><br>
+<b><a href="https://hashem-al-ghaili.github.io/music-maker/">Music Maker — инструмент, на котором играют в воздухе</a></b><br>
+<sub>🆕 · <a href="https://x.com/HashemGhaili">@HashemGhaili</a> · ♥ 60 · <a href="https://x.com/HashemGhaili/status/2124135871293329809">▶ Видео</a></sub><br>
+<sub>Включите веб-камеру, сожмите пальцы обеих рук и разведите их, чтобы натянуть струну в воздухе, выберите один из 24 инструментов и проведите по ней кончиком пальца. Добавляйте биты, накладывайте лупы и записывайте результат.</sub><br>
+<sub><a href="https://github.com/Hashem-Al-Ghaili/music-maker">Исходный код</a></sub>
+</td>
+<td width="33%" valign="top">
 <a href="http://promptronic3000.com"><img src="../assets/gifs/358.gif" width="100%" alt="Promptronic 3000"></a><br>
 <b><a href="http://promptronic3000.com">Promptronic 3000</a></b><br>
 <sub><a href="https://x.com/fabianstelzer">@fabianstelzer</a> · ♥ 54 · <a href="https://x.com/fabianstelzer/status/2123121678670520627">▶ Видео</a></sub><br>
 <sub>Агентный модульный синтезатор в браузере: подключите Claude или другого агента по MCP, чтобы собирать патчи и даже новые модули текстом, и делитесь ими по ссылке.</sub>
-</td>
-<td width="33%" valign="top">
-<a href="https://hashem-al-ghaili.github.io/music-maker/"><img src="../assets/gifs/383.gif" width="100%" alt="Music Maker — инструмент, на котором играют в воздухе"></a><br>
-<b><a href="https://hashem-al-ghaili.github.io/music-maker/">Music Maker — инструмент, на котором играют в воздухе</a></b><br>
-<sub>🆕 · <a href="https://x.com/HashemGhaili">@HashemGhaili</a> · ♥ 54 · <a href="https://x.com/HashemGhaili/status/2124135871293329809">▶ Видео</a></sub><br>
-<sub>Включите веб-камеру, сожмите пальцы обеих рук и разведите их, чтобы натянуть струну в воздухе, выберите один из 24 инструментов и проведите по ней кончиком пальца. Добавляйте биты, накладывайте лупы и записывайте результат.</sub><br>
-<sub><a href="https://github.com/Hashem-Al-Ghaili/music-maker">Исходный код</a></sub>
 </td>
 </tr>
 <tr>
@@ -304,13 +304,13 @@
 <td width="33%" valign="top">
 <a href="https://andreysuperiorgit.github.io/riemann"><img src="../assets/gifs/381.gif" width="100%" alt="Riemann Hypothesis, live"></a><br>
 <b><a href="https://andreysuperiorgit.github.io/riemann">Riemann Hypothesis, live</a></b><br>
-<sub>🆕 · <a href="https://x.com/andreysuperior">@andreysuperior</a> · ♥ 40 · <a href="https://x.com/andreysuperior/status/2124274426225008910">▶ Видео</a></sub><br>
+<sub>🆕 · <a href="https://x.com/andreysuperior">@andreysuperior</a> · ♥ 51 · <a href="https://x.com/andreysuperior/status/2124274426225008910">▶ Видео</a></sub><br>
 <sub>Ландшафт дзета-функции, который можно вращать. 102 нуля находятся и проверяются прямо в браузере, все лежат на одной прямой, а их сумма шаг за шагом восстанавливает простые числа. Один HTML-файл без библиотек.</sub>
 </td>
 <td width="33%" valign="top">
 <a href="https://claude.ai/artifact/NVWaNUrJK5woiKXQsAQaPG"><img src="../assets/gifs/368.gif" width="100%" alt="Audio-Reactive Dot Surface"></a><br>
 <b><a href="https://claude.ai/artifact/NVWaNUrJK5woiKXQsAQaPG">Audio-Reactive Dot Surface</a></b><br>
-<sub>🆕 · <a href="https://x.com/parhelion318">@parhelion318</a> · ♥ 30 · <a href="https://x.com/parhelion318/status/2123463622252994878">▶ Видео</a></sub><br>
+<sub><a href="https://x.com/parhelion318">@parhelion318</a> · ♥ 30 · <a href="https://x.com/parhelion318/status/2123463622252994878">▶ Видео</a></sub><br>
 <sub>Поверхность из точек, которая движется в такт звуку. Сделана с Fable 5.2 и Opus 5.5, проверена GPT-6.2 Astra.</sub>
 </td>
 </tr>
@@ -318,7 +318,7 @@
 <td width="33%" valign="top">
 <a href="https://shiraeisenberg.com/composed-of-nows"><img src="../assets/gifs/365.gif" width="100%" alt="Composed of Nows"></a><br>
 <b><a href="https://shiraeisenberg.com/composed-of-nows">Composed of Nows</a></b><br>
-<sub>🆕 · <a href="https://x.com/shiraeis">@shiraeis</a> · ♥ 24 · <a href="https://x.com/shiraeis/status/2123562764203589648">▶ Видео</a></sub><br>
+<sub><a href="https://x.com/shiraeis">@shiraeis</a> · ♥ 24 · <a href="https://x.com/shiraeis/status/2123562764203589648">▶ Видео</a></sub><br>
 <sub>Девять интерактивных работ о том, каково это — «чувствовать» себя языковой моделью; сделаны после того, как её попросили почитать стихи. С первой попытки.</sub>
 </td>
 <td width="33%" valign="top">
@@ -340,7 +340,7 @@
 <td width="33%" valign="top">
 <a href="https://ember-vesper.aura.build/"><img src="../assets/gifs/366.gif" width="100%" alt="Ember Vesper"></a><br>
 <b><a href="https://ember-vesper.aura.build/">Ember Vesper</a></b><br>
-<sub>🆕 · <a href="https://x.com/titepommee">@titepommee</a> · ♥ 12 · <a href="https://x.com/titepommee/status/2123515807250657457">▶ Видео</a></sub><br>
+<sub><a href="https://x.com/titepommee">@titepommee</a> · ♥ 12 · <a href="https://x.com/titepommee/status/2123515807250657457">▶ Видео</a></sub><br>
 <sub>Игровой ПК, превращённый в лендинг: при прокрутке он разбирается, меняет подсветку, переключается на тепловизор и выписывает чек заказа. Один HTML-файл.</sub>
 </td>
 <td width="33%" valign="top">

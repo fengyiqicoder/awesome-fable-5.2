@@ -22,7 +22,7 @@
 <td width="33%" valign="top">
 <a href="https://github.com/moritzkremb/robovac-pov"><img src="../assets/gifs/334.gif" width="100%" alt="Robovac POV: реалистичный фильм глазами робота-пылесоса"></a><br>
 <b><a href="https://github.com/moritzkremb/robovac-pov">Robovac POV: реалистичный фильм глазами робота-пылесоса</a></b><br>
-<sub><a href="https://x.com/moritzkremb">@moritzkremb</a> · ♥ 461 · <a href="https://x.com/moritzkremb/status/2122702891819377117">▶ Видео</a></sub><br>
+<sub><a href="https://x.com/moritzkremb">@moritzkremb</a> · ♥ 462 · <a href="https://x.com/moritzkremb/status/2122702891819377117">▶ Видео</a></sub><br>
 <sub>53-секундный фильм, сделанный только кодом: мир на C++, собственный GPU-трассировщик путей, симуляция камеры с фокусом, размытием движения и зерном, ковёр примерно из 900,000 ворсинок и звук, синтезированный на Python.</sub>
 </td>
 </tr>
@@ -58,7 +58,7 @@
 <td width="33%" valign="top">
 <a href="https://github.com/anstapnever/one-sweep"><img src="../assets/gifs/051.gif" width="100%" alt="One Sweep"></a><br>
 <b><a href="https://github.com/anstapnever/one-sweep">One Sweep</a></b><br>
-<sub><a href="https://x.com/anstapnever">@anstapnever</a> · ♥ 251 · <a href="https://x.com/anstapnever/status/2119772039037014524">▶ Видео</a></sub><br>
+<sub><a href="https://x.com/anstapnever">@anstapnever</a> · ♥ 250 · <a href="https://x.com/anstapnever/status/2119772039037014524">▶ Видео</a></sub><br>
 <sub>78-секундная аниме-драка на чистом Three.js, шесть команд агентов параллельно. Автор говорит «Fable 5.5».</sub><br>
 <sub><a href="https://x.com/anstapnever/status/2119772039037014524">📝 Промпт автора (бесплатно)</a></sub>
 </td>

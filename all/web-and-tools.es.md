@@ -145,7 +145,7 @@ La página principal muestra como máximo las 24 entradas con más «me gusta» 
 <td width="33%" valign="top">
 <a href="https://www.bubbbly.com/christmas-cards"><img src="../assets/gifs/315.gif" width="100%" alt="Christmas Cards: tarjetas de Navidad interactivas"></a><br>
 <b><a href="https://www.bubbbly.com/christmas-cards">Christmas Cards: tarjetas de Navidad interactivas</a></b><br>
-<sub><a href="https://x.com/ann_nnng">@ann_nnng</a> · ♥ 477 · <a href="https://x.com/ann_nnng/status/2122283549000712249">▶ Video</a></sub><br>
+<sub><a href="https://x.com/ann_nnng">@ann_nnng</a> · ♥ 478 · <a href="https://x.com/ann_nnng/status/2122283549000712249">▶ Video</a></sub><br>
 <sub>Un conjunto de tarjetas de Navidad interactivas, como un gato con bufanda roja en un alféizar viendo caer la nieve.</sub>
 </td>
 <td width="33%" valign="top">
@@ -174,14 +174,14 @@ La página principal muestra como máximo las 24 entradas con más «me gusta» 
 <td width="33%" valign="top">
 <a href="https://rubber-hose-ui.vercel.app"><img src="../assets/gifs/332.gif" width="100%" alt="Rubber Hose UI: controles como dibujos animados de los años 30"></a><br>
 <b><a href="https://rubber-hose-ui.vercel.app">Rubber Hose UI: controles como dibujos animados de los años 30</a></b><br>
-<sub><a href="https://x.com/crtvTeknologist">@crtvTeknologist</a> · ♥ 352 · <a href="https://x.com/crtvTeknologist/status/2122433522166124616">▶ Video</a></sub><br>
+<sub><a href="https://x.com/crtvTeknologist">@crtvTeknologist</a> · ♥ 353 · <a href="https://x.com/crtvTeknologist/status/2122433522166124616">▶ Video</a></sub><br>
 <sub>Once controles web dibujados al estilo rubber hose: el deslizador es un trombón, el toast es una tostadora y al botón le sale un ojo morado con cada pulsación. JS puro y canvas, sin dependencias, de código abierto.</sub><br>
 <sub><a href="https://github.com/finktheartist/rubber-hose-ui">Código fuente</a></sub>
 </td>
 <td width="33%" valign="top">
 <a href="https://bigfatfish.cc"><img src="../assets/gifs/362.gif" width="100%" alt="Big Fat Fish's Tank"></a><br>
 <b><a href="https://bigfatfish.cc">Big Fat Fish's Tank</a></b><br>
-<sub>🆕 · <a href="https://x.com/dafeifish">@dafeifish</a> · ♥ 264 · <a href="https://x.com/dafeifish/status/2123395143873019950">Publicación</a></sub><br>
+<sub><a href="https://x.com/dafeifish">@dafeifish</a> · ♥ 264 · <a href="https://x.com/dafeifish/status/2123395143873019950">Publicación</a></sub><br>
 <sub>Un sitio personal rediseñado como un álbum de recortes: papelitos, cinta, notas adhesivas y Polaroids pegados sobre un cielo nocturno azul profundo.</sub>
 </td>
 </tr>
@@ -196,7 +196,7 @@ La página principal muestra como máximo las 24 entradas con más «me gusta» 
 <td width="33%" valign="top">
 <a href="https://claude.ai/artifact/5ki5nJzDaayYMNhxymZBNT"><img src="../assets/gifs/378.gif" width="100%" alt="Slow Plant Synth"></a><br>
 <b><a href="https://claude.ai/artifact/5ki5nJzDaayYMNhxymZBNT">Slow Plant Synth</a></b><br>
-<sub>🆕 · <a href="https://x.com/parhelion318">@parhelion318</a> · ♥ 206 · <a href="https://x.com/parhelion318/status/2123982460090503626">▶ Video</a></sub><br>
+<sub>🆕 · <a href="https://x.com/parhelion318">@parhelion318</a> · ♥ 209 · <a href="https://x.com/parhelion318/status/2123982460090503626">▶ Video</a></sub><br>
 <sub>Una planta simulada que crece según tu ubicación, la hora y un clima simulado, y que produce sus propios sonidos a lo largo de días. Hecho con Fable 5.2 y Opus 5.5.</sub>
 </td>
 <td width="33%" valign="top">
@@ -267,7 +267,7 @@ La página principal muestra como máximo las 24 entradas con más «me gusta» 
 <td width="33%" valign="top">
 <a href="https://andreysuperiorgit.github.io/v8/"><img src="../assets/gifs/373.gif" width="100%" alt="V8 Four-Stroke"></a><br>
 <b><a href="https://andreysuperiorgit.github.io/v8/">V8 Four-Stroke</a></b><br>
-<sub>🆕 · <a href="https://x.com/andreysuperior">@andreysuperior</a> · ♥ 69 · <a href="https://x.com/andreysuperior/status/2123928682603430384">▶ Video</a></sub><br>
+<sub>🆕 · <a href="https://x.com/andreysuperior">@andreysuperior</a> · ♥ 73 · <a href="https://x.com/andreysuperior/status/2123928682603430384">▶ Video</a></sub><br>
 <sub>Un V8 de 7.0 litros que puedes acelerar en una pestaña del navegador: pistones, cigüeñal, árbol de levas y 16 válvulas se mueven con medidas reales y los colectores se ponen al rojo al subir de vueltas. Un solo HTML de 124 KB, 1 prompt y 23 ajustes.</sub>
 </td>
 </tr>
@@ -280,17 +280,17 @@ La página principal muestra como máximo las 24 entradas con más «me gusta» 
 <sub><a href="https://fablelist.000ooo.ooo/es/prompts/?w=best-seat-in-the-house&ref=gh"><b>✨ Consigue el prompt</b></a></sub>
 </td>
 <td width="33%" valign="top">
+<a href="https://hashem-al-ghaili.github.io/music-maker/"><img src="../assets/gifs/383.gif" width="100%" alt="Music Maker — un instrumento que se toca en el aire"></a><br>
+<b><a href="https://hashem-al-ghaili.github.io/music-maker/">Music Maker — un instrumento que se toca en el aire</a></b><br>
+<sub>🆕 · <a href="https://x.com/HashemGhaili">@HashemGhaili</a> · ♥ 60 · <a href="https://x.com/HashemGhaili/status/2124135871293329809">▶ Video</a></sub><br>
+<sub>Enciende la webcam, pellizca con las dos manos y sepáralas para tensar una cuerda en el aire, elige uno de 24 instrumentos y pasa la yema del dedo por ella para tocar. Añade ritmos, superpón bucles y graba el resultado.</sub><br>
+<sub><a href="https://github.com/Hashem-Al-Ghaili/music-maker">Código fuente</a></sub>
+</td>
+<td width="33%" valign="top">
 <a href="http://promptronic3000.com"><img src="../assets/gifs/358.gif" width="100%" alt="Promptronic 3000"></a><br>
 <b><a href="http://promptronic3000.com">Promptronic 3000</a></b><br>
 <sub><a href="https://x.com/fabianstelzer">@fabianstelzer</a> · ♥ 54 · <a href="https://x.com/fabianstelzer/status/2123121678670520627">▶ Video</a></sub><br>
 <sub>Un sintetizador modular con agentes en la web: conecta Claude u otro agente por MCP para crear patches o incluso módulos nuevos con texto, y compártelos por URL.</sub>
-</td>
-<td width="33%" valign="top">
-<a href="https://hashem-al-ghaili.github.io/music-maker/"><img src="../assets/gifs/383.gif" width="100%" alt="Music Maker — un instrumento que se toca en el aire"></a><br>
-<b><a href="https://hashem-al-ghaili.github.io/music-maker/">Music Maker — un instrumento que se toca en el aire</a></b><br>
-<sub>🆕 · <a href="https://x.com/HashemGhaili">@HashemGhaili</a> · ♥ 54 · <a href="https://x.com/HashemGhaili/status/2124135871293329809">▶ Video</a></sub><br>
-<sub>Enciende la webcam, pellizca con las dos manos y sepáralas para tensar una cuerda en el aire, elige uno de 24 instrumentos y pasa la yema del dedo por ella para tocar. Añade ritmos, superpón bucles y graba el resultado.</sub><br>
-<sub><a href="https://github.com/Hashem-Al-Ghaili/music-maker">Código fuente</a></sub>
 </td>
 </tr>
 <tr>
@@ -304,13 +304,13 @@ La página principal muestra como máximo las 24 entradas con más «me gusta» 
 <td width="33%" valign="top">
 <a href="https://andreysuperiorgit.github.io/riemann"><img src="../assets/gifs/381.gif" width="100%" alt="Riemann Hypothesis, live"></a><br>
 <b><a href="https://andreysuperiorgit.github.io/riemann">Riemann Hypothesis, live</a></b><br>
-<sub>🆕 · <a href="https://x.com/andreysuperior">@andreysuperior</a> · ♥ 40 · <a href="https://x.com/andreysuperior/status/2124274426225008910">▶ Video</a></sub><br>
+<sub>🆕 · <a href="https://x.com/andreysuperior">@andreysuperior</a> · ♥ 51 · <a href="https://x.com/andreysuperior/status/2124274426225008910">▶ Video</a></sub><br>
 <sub>Un paisaje de la función zeta que puedes girar. 102 ceros se calculan y comprueban en vivo en tu navegador, todos sobre una misma línea, y luego se suman para reconstruir los números primos. Un solo archivo HTML sin bibliotecas.</sub>
 </td>
 <td width="33%" valign="top">
 <a href="https://claude.ai/artifact/NVWaNUrJK5woiKXQsAQaPG"><img src="../assets/gifs/368.gif" width="100%" alt="Audio-Reactive Dot Surface"></a><br>
 <b><a href="https://claude.ai/artifact/NVWaNUrJK5woiKXQsAQaPG">Audio-Reactive Dot Surface</a></b><br>
-<sub>🆕 · <a href="https://x.com/parhelion318">@parhelion318</a> · ♥ 30 · <a href="https://x.com/parhelion318/status/2123463622252994878">▶ Video</a></sub><br>
+<sub><a href="https://x.com/parhelion318">@parhelion318</a> · ♥ 30 · <a href="https://x.com/parhelion318/status/2123463622252994878">▶ Video</a></sub><br>
 <sub>Una superficie hecha de puntos que se mueve con el sonido. Creada con Fable 5.2 y Opus 5.5, revisada por GPT-6.2 Astra.</sub>
 </td>
 </tr>
@@ -318,7 +318,7 @@ La página principal muestra como máximo las 24 entradas con más «me gusta» 
 <td width="33%" valign="top">
 <a href="https://shiraeisenberg.com/composed-of-nows"><img src="../assets/gifs/365.gif" width="100%" alt="Composed of Nows"></a><br>
 <b><a href="https://shiraeisenberg.com/composed-of-nows">Composed of Nows</a></b><br>
-<sub>🆕 · <a href="https://x.com/shiraeis">@shiraeis</a> · ♥ 24 · <a href="https://x.com/shiraeis/status/2123562764203589648">▶ Video</a></sub><br>
+<sub><a href="https://x.com/shiraeis">@shiraeis</a> · ♥ 24 · <a href="https://x.com/shiraeis/status/2123562764203589648">▶ Video</a></sub><br>
 <sub>Nueve piezas interactivas sobre cómo se "siente" ser un modelo de lenguaje, hechas después de pedirle que leyera poesía. A la primera.</sub>
 </td>
 <td width="33%" valign="top">
@@ -340,7 +340,7 @@ La página principal muestra como máximo las 24 entradas con más «me gusta» 
 <td width="33%" valign="top">
 <a href="https://ember-vesper.aura.build/"><img src="../assets/gifs/366.gif" width="100%" alt="Ember Vesper"></a><br>
 <b><a href="https://ember-vesper.aura.build/">Ember Vesper</a></b><br>
-<sub>🆕 · <a href="https://x.com/titepommee">@titepommee</a> · ♥ 12 · <a href="https://x.com/titepommee/status/2123515807250657457">▶ Video</a></sub><br>
+<sub><a href="https://x.com/titepommee">@titepommee</a> · ♥ 12 · <a href="https://x.com/titepommee/status/2123515807250657457">▶ Video</a></sub><br>
 <sub>Un PC gamer convertido en landing page: al hacer scroll se desmonta, cambia su brillo, pasa a cámara térmica y escribe tu ticket de pedido. Un solo archivo HTML.</sub>
 </td>
 <td width="33%" valign="top">

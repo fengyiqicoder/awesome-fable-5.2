@@ -145,7 +145,7 @@
 <td width="33%" valign="top">
 <a href="https://www.bubbbly.com/christmas-cards"><img src="../assets/gifs/315.gif" width="100%" alt="Christmas Cards: 인터랙티브 크리스마스 카드"></a><br>
 <b><a href="https://www.bubbbly.com/christmas-cards">Christmas Cards: 인터랙티브 크리스마스 카드</a></b><br>
-<sub><a href="https://x.com/ann_nnng">@ann_nnng</a> · ♥ 477 · <a href="https://x.com/ann_nnng/status/2122283549000712249">▶ 영상</a></sub><br>
+<sub><a href="https://x.com/ann_nnng">@ann_nnng</a> · ♥ 478 · <a href="https://x.com/ann_nnng/status/2122283549000712249">▶ 영상</a></sub><br>
 <sub>인터랙티브 크리스마스 카드 모음. 빨간 목도리를 두른 고양이가 창가에서 내리는 눈을 바라보는 카드 등이 있다.</sub>
 </td>
 <td width="33%" valign="top">
@@ -174,14 +174,14 @@
 <td width="33%" valign="top">
 <a href="https://rubber-hose-ui.vercel.app"><img src="../assets/gifs/332.gif" width="100%" alt="Rubber Hose UI: 1930년대 만화 캐릭터 컨트롤"></a><br>
 <b><a href="https://rubber-hose-ui.vercel.app">Rubber Hose UI: 1930년대 만화 캐릭터 컨트롤</a></b><br>
-<sub><a href="https://x.com/crtvTeknologist">@crtvTeknologist</a> · ♥ 352 · <a href="https://x.com/crtvTeknologist/status/2122433522166124616">▶ 영상</a></sub><br>
+<sub><a href="https://x.com/crtvTeknologist">@crtvTeknologist</a> · ♥ 353 · <a href="https://x.com/crtvTeknologist/status/2122433522166124616">▶ 영상</a></sub><br>
 <sub>웹 컨트롤 11개를 러버 호스 만화로 그렸다. 슬라이더는 트롬본, 토스트는 토스터, 버튼은 누를 때마다 눈에 멍이 든다. 순수 JS와 canvas, 의존성 없음, 오픈소스.</sub><br>
 <sub><a href="https://github.com/finktheartist/rubber-hose-ui">소스 코드</a></sub>
 </td>
 <td width="33%" valign="top">
 <a href="https://bigfatfish.cc"><img src="../assets/gifs/362.gif" width="100%" alt="Big Fat Fish's Tank"></a><br>
 <b><a href="https://bigfatfish.cc">Big Fat Fish's Tank</a></b><br>
-<sub>🆕 · <a href="https://x.com/dafeifish">@dafeifish</a> · ♥ 264 · <a href="https://x.com/dafeifish/status/2123395143873019950">게시물</a></sub><br>
+<sub><a href="https://x.com/dafeifish">@dafeifish</a> · ♥ 264 · <a href="https://x.com/dafeifish/status/2123395143873019950">게시물</a></sub><br>
 <sub>스크랩북처럼 다시 디자인한 개인 사이트. 짙푸른 밤하늘 위에 종이 조각, 테이프, 포스트잇, 폴라로이드가 붙어 있다.</sub>
 </td>
 </tr>
@@ -196,7 +196,7 @@
 <td width="33%" valign="top">
 <a href="https://claude.ai/artifact/5ki5nJzDaayYMNhxymZBNT"><img src="../assets/gifs/378.gif" width="100%" alt="Slow Plant Synth"></a><br>
 <b><a href="https://claude.ai/artifact/5ki5nJzDaayYMNhxymZBNT">Slow Plant Synth</a></b><br>
-<sub>🆕 · <a href="https://x.com/parhelion318">@parhelion318</a> · ♥ 206 · <a href="https://x.com/parhelion318/status/2123982460090503626">▶ 영상</a></sub><br>
+<sub>🆕 · <a href="https://x.com/parhelion318">@parhelion318</a> · ♥ 209 · <a href="https://x.com/parhelion318/status/2123982460090503626">▶ 영상</a></sub><br>
 <sub>내 위치와 시간, 시뮬레이션된 날씨에 따라 자라는 가상 식물이 며칠에 걸쳐 저만의 소리를 냅니다. Fable 5.2와 Opus 5.5로 제작.</sub>
 </td>
 <td width="33%" valign="top">
@@ -267,7 +267,7 @@
 <td width="33%" valign="top">
 <a href="https://andreysuperiorgit.github.io/v8/"><img src="../assets/gifs/373.gif" width="100%" alt="V8 Four-Stroke"></a><br>
 <b><a href="https://andreysuperiorgit.github.io/v8/">V8 Four-Stroke</a></b><br>
-<sub>🆕 · <a href="https://x.com/andreysuperior">@andreysuperior</a> · ♥ 69 · <a href="https://x.com/andreysuperior/status/2123928682603430384">▶ 영상</a></sub><br>
+<sub>🆕 · <a href="https://x.com/andreysuperior">@andreysuperior</a> · ♥ 73 · <a href="https://x.com/andreysuperior/status/2123928682603430384">▶ 영상</a></sub><br>
 <sub>브라우저 탭에서 공회전을 올려 볼 수 있는 7.0리터 V8. 피스톤, 크랭크, 캠축, 밸브 16개가 실제 치수대로 움직이고 회전수가 오르면 배기 매니폴드가 달아오른다. 124 KB짜리 HTML 파일 하나, 프롬프트 1번에 추가 요청 23번.</sub>
 </td>
 </tr>
@@ -280,17 +280,17 @@
 <sub><a href="https://fablelist.000ooo.ooo/ko/prompts/?w=best-seat-in-the-house&ref=gh"><b>✨ 프롬프트 받기</b></a></sub>
 </td>
 <td width="33%" valign="top">
+<a href="https://hashem-al-ghaili.github.io/music-maker/"><img src="../assets/gifs/383.gif" width="100%" alt="Music Maker — 허공에서 연주하는 악기"></a><br>
+<b><a href="https://hashem-al-ghaili.github.io/music-maker/">Music Maker — 허공에서 연주하는 악기</a></b><br>
+<sub>🆕 · <a href="https://x.com/HashemGhaili">@HashemGhaili</a> · ♥ 60 · <a href="https://x.com/HashemGhaili/status/2124135871293329809">▶ 영상</a></sub><br>
+<sub>웹캠을 켜고 두 손으로 집어 벌리면 허공에 줄이 생깁니다. 24가지 악기 중 하나를 고르고 손끝으로 쓸어 연주하세요. 비트를 얹고, 루프를 쌓고, 결과를 녹화할 수 있습니다.</sub><br>
+<sub><a href="https://github.com/Hashem-Al-Ghaili/music-maker">소스 코드</a></sub>
+</td>
+<td width="33%" valign="top">
 <a href="http://promptronic3000.com"><img src="../assets/gifs/358.gif" width="100%" alt="Promptronic 3000"></a><br>
 <b><a href="http://promptronic3000.com">Promptronic 3000</a></b><br>
 <sub><a href="https://x.com/fabianstelzer">@fabianstelzer</a> · ♥ 54 · <a href="https://x.com/fabianstelzer/status/2123121678670520627">▶ 영상</a></sub><br>
 <sub>웹에서 쓰는 에이전트형 모듈러 신시사이저. MCP로 Claude 같은 Agent를 연결해 패치나 새 모듈까지 말로 만들고, URL로 공유한다.</sub>
-</td>
-<td width="33%" valign="top">
-<a href="https://hashem-al-ghaili.github.io/music-maker/"><img src="../assets/gifs/383.gif" width="100%" alt="Music Maker — 허공에서 연주하는 악기"></a><br>
-<b><a href="https://hashem-al-ghaili.github.io/music-maker/">Music Maker — 허공에서 연주하는 악기</a></b><br>
-<sub>🆕 · <a href="https://x.com/HashemGhaili">@HashemGhaili</a> · ♥ 54 · <a href="https://x.com/HashemGhaili/status/2124135871293329809">▶ 영상</a></sub><br>
-<sub>웹캠을 켜고 두 손으로 집어 벌리면 허공에 줄이 생깁니다. 24가지 악기 중 하나를 고르고 손끝으로 쓸어 연주하세요. 비트를 얹고, 루프를 쌓고, 결과를 녹화할 수 있습니다.</sub><br>
-<sub><a href="https://github.com/Hashem-Al-Ghaili/music-maker">소스 코드</a></sub>
 </td>
 </tr>
 <tr>
@@ -304,13 +304,13 @@
 <td width="33%" valign="top">
 <a href="https://andreysuperiorgit.github.io/riemann"><img src="../assets/gifs/381.gif" width="100%" alt="Riemann Hypothesis, live"></a><br>
 <b><a href="https://andreysuperiorgit.github.io/riemann">Riemann Hypothesis, live</a></b><br>
-<sub>🆕 · <a href="https://x.com/andreysuperior">@andreysuperior</a> · ♥ 40 · <a href="https://x.com/andreysuperior/status/2124274426225008910">▶ 영상</a></sub><br>
+<sub>🆕 · <a href="https://x.com/andreysuperior">@andreysuperior</a> · ♥ 51 · <a href="https://x.com/andreysuperior/status/2124274426225008910">▶ 영상</a></sub><br>
 <sub>돌려 볼 수 있는 제타 함수 지형. 영점 102개를 브라우저에서 실시간으로 찾아 검증하고, 모두 한 직선 위에 놓이며, 더하면 소수가 다시 만들어집니다. 라이브러리 없는 HTML 파일 하나.</sub>
 </td>
 <td width="33%" valign="top">
 <a href="https://claude.ai/artifact/NVWaNUrJK5woiKXQsAQaPG"><img src="../assets/gifs/368.gif" width="100%" alt="Audio-Reactive Dot Surface"></a><br>
 <b><a href="https://claude.ai/artifact/NVWaNUrJK5woiKXQsAQaPG">Audio-Reactive Dot Surface</a></b><br>
-<sub>🆕 · <a href="https://x.com/parhelion318">@parhelion318</a> · ♥ 30 · <a href="https://x.com/parhelion318/status/2123463622252994878">▶ 영상</a></sub><br>
+<sub><a href="https://x.com/parhelion318">@parhelion318</a> · ♥ 30 · <a href="https://x.com/parhelion318/status/2123463622252994878">▶ 영상</a></sub><br>
 <sub>소리에 따라 움직이는 점으로 이루어진 표면. Fable 5.2와 Opus 5.5로 만들고 GPT-6.2 Astra가 검토했다.</sub>
 </td>
 </tr>
@@ -318,7 +318,7 @@
 <td width="33%" valign="top">
 <a href="https://shiraeisenberg.com/composed-of-nows"><img src="../assets/gifs/365.gif" width="100%" alt="Composed of Nows"></a><br>
 <b><a href="https://shiraeisenberg.com/composed-of-nows">Composed of Nows</a></b><br>
-<sub>🆕 · <a href="https://x.com/shiraeis">@shiraeis</a> · ♥ 24 · <a href="https://x.com/shiraeis/status/2123562764203589648">▶ 영상</a></sub><br>
+<sub><a href="https://x.com/shiraeis">@shiraeis</a> · ♥ 24 · <a href="https://x.com/shiraeis/status/2123562764203589648">▶ 영상</a></sub><br>
 <sub>시를 읽게 한 뒤, 언어 모델로 존재한다는 것이 어떤 "느낌"인지 다룬 인터랙티브 작품 아홉 점을 만들게 했다. 한 번에 완성.</sub>
 </td>
 <td width="33%" valign="top">
@@ -340,7 +340,7 @@
 <td width="33%" valign="top">
 <a href="https://ember-vesper.aura.build/"><img src="../assets/gifs/366.gif" width="100%" alt="Ember Vesper"></a><br>
 <b><a href="https://ember-vesper.aura.build/">Ember Vesper</a></b><br>
-<sub>🆕 · <a href="https://x.com/titepommee">@titepommee</a> · ♥ 12 · <a href="https://x.com/titepommee/status/2123515807250657457">▶ 영상</a></sub><br>
+<sub><a href="https://x.com/titepommee">@titepommee</a> · ♥ 12 · <a href="https://x.com/titepommee/status/2123515807250657457">▶ 영상</a></sub><br>
 <sub>게이밍 PC를 랜딩 페이지로 만들었다. 스크롤하면 분해되고, 조명 색이 바뀌고, 열화상 카메라로 전환되고, 주문서가 작성된다. HTML 파일 하나.</sub>
 </td>
 <td width="33%" valign="top">

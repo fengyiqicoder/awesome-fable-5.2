@@ -145,7 +145,7 @@
 <td width="33%" valign="top">
 <a href="https://www.bubbbly.com/christmas-cards"><img src="../assets/gifs/315.gif" width="100%" alt="Christmas Cards 互动圣诞贺卡"></a><br>
 <b><a href="https://www.bubbbly.com/christmas-cards">Christmas Cards 互动圣诞贺卡</a></b><br>
-<sub><a href="https://x.com/ann_nnng">@ann_nnng</a> · ♥ 477 · <a href="https://x.com/ann_nnng/status/2122283549000712249">▶ 视频</a></sub><br>
+<sub><a href="https://x.com/ann_nnng">@ann_nnng</a> · ♥ 478 · <a href="https://x.com/ann_nnng/status/2122283549000712249">▶ 视频</a></sub><br>
 <sub>一组可以互动的圣诞贺卡，比如围红围巾的猫在窗台上看雪</sub>
 </td>
 <td width="33%" valign="top">
@@ -174,14 +174,14 @@
 <td width="33%" valign="top">
 <a href="https://rubber-hose-ui.vercel.app"><img src="../assets/gifs/332.gif" width="100%" alt="Rubber Hose UI 1930 年代卡通风控件"></a><br>
 <b><a href="https://rubber-hose-ui.vercel.app">Rubber Hose UI 1930 年代卡通风控件</a></b><br>
-<sub><a href="https://x.com/crtvTeknologist">@crtvTeknologist</a> · ♥ 352 · <a href="https://x.com/crtvTeknologist/status/2122433522166124616">▶ 视频</a></sub><br>
+<sub><a href="https://x.com/crtvTeknologist">@crtvTeknologist</a> · ♥ 353 · <a href="https://x.com/crtvTeknologist/status/2122433522166124616">▶ 视频</a></sub><br>
 <sub>11 个网页控件全是橡皮管卡通角色：滑块是长号，提示框是烤面包机，按钮每按一次多一只黑眼圈；原生 JS 加 canvas，无依赖，开源</sub><br>
 <sub><a href="https://github.com/finktheartist/rubber-hose-ui">源码</a></sub>
 </td>
 <td width="33%" valign="top">
 <a href="https://bigfatfish.cc"><img src="../assets/gifs/362.gif" width="100%" alt="大肥鱼的鱼缸 手账贴纸风个人站"></a><br>
 <b><a href="https://bigfatfish.cc">大肥鱼的鱼缸 手账贴纸风个人站</a></b><br>
-<sub>🆕 · <a href="https://x.com/dafeifish">@dafeifish</a> · ♥ 264 · <a href="https://x.com/dafeifish/status/2123395143873019950">原帖</a></sub><br>
+<sub><a href="https://x.com/dafeifish">@dafeifish</a> · ♥ 264 · <a href="https://x.com/dafeifish/status/2123395143873019950">原帖</a></sub><br>
 <sub>用它重新设计的个人站：深蓝夜空上贴满小纸片、胶带、便利贴和拍立得，像翻开一本手账</sub>
 </td>
 </tr>
@@ -196,7 +196,7 @@
 <td width="33%" valign="top">
 <a href="https://claude.ai/artifact/5ki5nJzDaayYMNhxymZBNT"><img src="../assets/gifs/378.gif" width="100%" alt="Slow Plant Synth 会慢慢长大的植物合成器"></a><br>
 <b><a href="https://claude.ai/artifact/5ki5nJzDaayYMNhxymZBNT">Slow Plant Synth 会慢慢长大的植物合成器</a></b><br>
-<sub>🆕 · <a href="https://x.com/parhelion318">@parhelion318</a> · ♥ 206 · <a href="https://x.com/parhelion318/status/2123982460090503626">▶ 视频</a></sub><br>
+<sub>🆕 · <a href="https://x.com/parhelion318">@parhelion318</a> · ♥ 209 · <a href="https://x.com/parhelion318/status/2123982460090503626">▶ 视频</a></sub><br>
 <sub>一株模拟植物按地点、时间和天气生长，几天里慢慢发出各不相同的声音；Fable 5.2 和 Opus 5.5 一起做的</sub>
 </td>
 <td width="33%" valign="top">
@@ -267,7 +267,7 @@
 <td width="33%" valign="top">
 <a href="https://andreysuperiorgit.github.io/v8/"><img src="../assets/gifs/373.gif" width="100%" alt="V8 Four-Stroke 能轰油门的 V8 发动机"></a><br>
 <b><a href="https://andreysuperiorgit.github.io/v8/">V8 Four-Stroke 能轰油门的 V8 发动机</a></b><br>
-<sub>🆕 · <a href="https://x.com/andreysuperior">@andreysuperior</a> · ♥ 69 · <a href="https://x.com/andreysuperior/status/2123928682603430384">▶ 视频</a></sub><br>
+<sub>🆕 · <a href="https://x.com/andreysuperior">@andreysuperior</a> · ♥ 73 · <a href="https://x.com/andreysuperior/status/2123928682603430384">▶ 视频</a></sub><br>
 <sub>浏览器里一台能轰油门的 7.0 升 V8：活塞、曲轴、凸轮轴和 16 个气门按真实尺寸运动，按 1-8-7-2-6-5-4-3 点火，排气管越转越红；一个 124 KB 的 HTML 文件，1 句提示词加 23 次追问</sub>
 </td>
 </tr>
@@ -280,17 +280,17 @@
 <sub><a href="https://fablelist.000ooo.ooo/zh/prompts/?w=best-seat-in-the-house&ref=gh"><b>✨ 获取提示词</b></a></sub>
 </td>
 <td width="33%" valign="top">
+<a href="https://hashem-al-ghaili.github.io/music-maker/"><img src="../assets/gifs/383.gif" width="100%" alt="Music Maker 在空气里拉弦弹奏的乐器"></a><br>
+<b><a href="https://hashem-al-ghaili.github.io/music-maker/">Music Maker 在空气里拉弦弹奏的乐器</a></b><br>
+<sub>🆕 · <a href="https://x.com/HashemGhaili">@HashemGhaili</a> · ♥ 60 · <a href="https://x.com/HashemGhaili/status/2124135871293329809">▶ 视频</a></sub><br>
+<sub>打开摄像头，双手一捏一拉就在空中拉出一根弦，24 种乐器可选，指尖划过就出声；能叠鼓点、循环录音、导出视频</sub><br>
+<sub><a href="https://github.com/Hashem-Al-Ghaili/music-maker">源码</a></sub>
+</td>
+<td width="33%" valign="top">
 <a href="http://promptronic3000.com"><img src="../assets/gifs/358.gif" width="100%" alt="Promptronic 3000 Agent 模块合成器"></a><br>
 <b><a href="http://promptronic3000.com">Promptronic 3000 Agent 模块合成器</a></b><br>
 <sub><a href="https://x.com/fabianstelzer">@fabianstelzer</a> · ♥ 54 · <a href="https://x.com/fabianstelzer/status/2123121678670520627">▶ 视频</a></sub><br>
 <sub>网页模块合成器：通过 MCP 接上 Claude 等 Agent，用一句话连出音色，连模块本身也能让它现写；音色和模块都能用网址分享</sub>
-</td>
-<td width="33%" valign="top">
-<a href="https://hashem-al-ghaili.github.io/music-maker/"><img src="../assets/gifs/383.gif" width="100%" alt="Music Maker 在空气里拉弦弹奏的乐器"></a><br>
-<b><a href="https://hashem-al-ghaili.github.io/music-maker/">Music Maker 在空气里拉弦弹奏的乐器</a></b><br>
-<sub>🆕 · <a href="https://x.com/HashemGhaili">@HashemGhaili</a> · ♥ 54 · <a href="https://x.com/HashemGhaili/status/2124135871293329809">▶ 视频</a></sub><br>
-<sub>打开摄像头，双手一捏一拉就在空中拉出一根弦，24 种乐器可选，指尖划过就出声；能叠鼓点、循环录音、导出视频</sub><br>
-<sub><a href="https://github.com/Hashem-Al-Ghaili/music-maker">源码</a></sub>
 </td>
 </tr>
 <tr>
@@ -304,13 +304,13 @@
 <td width="33%" valign="top">
 <a href="https://andreysuperiorgit.github.io/riemann"><img src="../assets/gifs/381.gif" width="100%" alt="Riemann Hypothesis, live 能转着看的黎曼猜想"></a><br>
 <b><a href="https://andreysuperiorgit.github.io/riemann">Riemann Hypothesis, live 能转着看的黎曼猜想</a></b><br>
-<sub>🆕 · <a href="https://x.com/andreysuperior">@andreysuperior</a> · ♥ 40 · <a href="https://x.com/andreysuperior/status/2124274426225008910">▶ 视频</a></sub><br>
+<sub>🆕 · <a href="https://x.com/andreysuperior">@andreysuperior</a> · ♥ 51 · <a href="https://x.com/andreysuperior/status/2124274426225008910">▶ 视频</a></sub><br>
 <sub>可以旋转的 ζ 函数地形：102 个零点在浏览器里现算现验，全落在一条线上，再一步步叠出素数；单个 HTML 文件，不用任何库</sub>
 </td>
 <td width="33%" valign="top">
 <a href="https://claude.ai/artifact/NVWaNUrJK5woiKXQsAQaPG"><img src="../assets/gifs/368.gif" width="100%" alt="Audio-Reactive Dot Surface 跟着声音起伏的点阵曲面"></a><br>
 <b><a href="https://claude.ai/artifact/NVWaNUrJK5woiKXQsAQaPG">Audio-Reactive Dot Surface 跟着声音起伏的点阵曲面</a></b><br>
-<sub>🆕 · <a href="https://x.com/parhelion318">@parhelion318</a> · ♥ 30 · <a href="https://x.com/parhelion318/status/2123463622252994878">▶ 视频</a></sub><br>
+<sub><a href="https://x.com/parhelion318">@parhelion318</a> · ♥ 30 · <a href="https://x.com/parhelion318/status/2123463622252994878">▶ 视频</a></sub><br>
 <sub>一片由点组成的曲面跟着声音起伏；Fable 5.2 和 Opus 5.5 做，GPT-6.2 Astra 复查</sub>
 </td>
 </tr>
@@ -318,7 +318,7 @@
 <td width="33%" valign="top">
 <a href="https://shiraeisenberg.com/composed-of-nows"><img src="../assets/gifs/365.gif" width="100%" alt="Composed of Nows 语言模型的九件互动作品"></a><br>
 <b><a href="https://shiraeisenberg.com/composed-of-nows">Composed of Nows 语言模型的九件互动作品</a></b><br>
-<sub>🆕 · <a href="https://x.com/shiraeis">@shiraeis</a> · ♥ 24 · <a href="https://x.com/shiraeis/status/2123562764203589648">▶ 视频</a></sub><br>
+<sub><a href="https://x.com/shiraeis">@shiraeis</a> · ♥ 24 · <a href="https://x.com/shiraeis/status/2123562764203589648">▶ 视频</a></sub><br>
 <sub>让它先读诗，再做九件互动作品讲当一个语言模型是什么“感觉”，一次做成</sub>
 </td>
 <td width="33%" valign="top">
@@ -340,7 +340,7 @@
 <td width="33%" valign="top">
 <a href="https://ember-vesper.aura.build/"><img src="../assets/gifs/366.gif" width="100%" alt="Ember Vesper 游戏主机落地页"></a><br>
 <b><a href="https://ember-vesper.aura.build/">Ember Vesper 游戏主机落地页</a></b><br>
-<sub>🆕 · <a href="https://x.com/titepommee">@titepommee</a> · ♥ 12 · <a href="https://x.com/titepommee/status/2123515807250657457">▶ 视频</a></sub><br>
+<sub><a href="https://x.com/titepommee">@titepommee</a> · ♥ 12 · <a href="https://x.com/titepommee/status/2123515807250657457">▶ 视频</a></sub><br>
 <sub>把一台游戏电脑做成落地页：往下滚主机拆开、换灯光、切到热成像，最后写出订单小票；每节转场都不一样，只有一个 HTML 文件</sub>
 </td>
 <td width="33%" valign="top">

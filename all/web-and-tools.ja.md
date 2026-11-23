@@ -145,7 +145,7 @@
 <td width="33%" valign="top">
 <a href="https://www.bubbbly.com/christmas-cards"><img src="../assets/gifs/315.gif" width="100%" alt="Christmas Cards：インタラクティブなクリスマスカード"></a><br>
 <b><a href="https://www.bubbbly.com/christmas-cards">Christmas Cards：インタラクティブなクリスマスカード</a></b><br>
-<sub><a href="https://x.com/ann_nnng">@ann_nnng</a> · ♥ 477 · <a href="https://x.com/ann_nnng/status/2122283549000712249">▶ 動画</a></sub><br>
+<sub><a href="https://x.com/ann_nnng">@ann_nnng</a> · ♥ 478 · <a href="https://x.com/ann_nnng/status/2122283549000712249">▶ 動画</a></sub><br>
 <sub>インタラクティブなクリスマスカードのセット。赤いマフラーの猫が窓辺で降る雪を眺めるカードなど。</sub>
 </td>
 <td width="33%" valign="top">
@@ -174,14 +174,14 @@
 <td width="33%" valign="top">
 <a href="https://rubber-hose-ui.vercel.app"><img src="../assets/gifs/332.gif" width="100%" alt="Rubber Hose UI：1930 年代カートゥーン風の UI 部品"></a><br>
 <b><a href="https://rubber-hose-ui.vercel.app">Rubber Hose UI：1930 年代カートゥーン風の UI 部品</a></b><br>
-<sub><a href="https://x.com/crtvTeknologist">@crtvTeknologist</a> · ♥ 352 · <a href="https://x.com/crtvTeknologist/status/2122433522166124616">▶ 動画</a></sub><br>
+<sub><a href="https://x.com/crtvTeknologist">@crtvTeknologist</a> · ♥ 353 · <a href="https://x.com/crtvTeknologist/status/2122433522166124616">▶ 動画</a></sub><br>
 <sub>11 個の Web コントロールをラバーホース調のキャラクターに。スライダーはトロンボーン、トーストはトースター、ボタンは押すたびに目にあざができる。素の JS と canvas、依存なし、オープンソース。</sub><br>
 <sub><a href="https://github.com/finktheartist/rubber-hose-ui">ソースコード</a></sub>
 </td>
 <td width="33%" valign="top">
 <a href="https://bigfatfish.cc"><img src="../assets/gifs/362.gif" width="100%" alt="Big Fat Fish's Tank（大肥魚の水槽）"></a><br>
 <b><a href="https://bigfatfish.cc">Big Fat Fish's Tank（大肥魚の水槽）</a></b><br>
-<sub>🆕 · <a href="https://x.com/dafeifish">@dafeifish</a> · ♥ 264 · <a href="https://x.com/dafeifish/status/2123395143873019950">投稿</a></sub><br>
+<sub><a href="https://x.com/dafeifish">@dafeifish</a> · ♥ 264 · <a href="https://x.com/dafeifish/status/2123395143873019950">投稿</a></sub><br>
 <sub>スクラップブック風に作り直した個人サイト。深い青の夜空に、紙切れ、テープ、付箋、ポラロイドが貼られている。</sub>
 </td>
 </tr>
@@ -196,7 +196,7 @@
 <td width="33%" valign="top">
 <a href="https://claude.ai/artifact/5ki5nJzDaayYMNhxymZBNT"><img src="../assets/gifs/378.gif" width="100%" alt="Slow Plant Synth"></a><br>
 <b><a href="https://claude.ai/artifact/5ki5nJzDaayYMNhxymZBNT">Slow Plant Synth</a></b><br>
-<sub>🆕 · <a href="https://x.com/parhelion318">@parhelion318</a> · ♥ 206 · <a href="https://x.com/parhelion318/status/2123982460090503626">▶ 動画</a></sub><br>
+<sub>🆕 · <a href="https://x.com/parhelion318">@parhelion318</a> · ♥ 209 · <a href="https://x.com/parhelion318/status/2123982460090503626">▶ 動画</a></sub><br>
 <sub>現在地と時刻、シミュレートした天気に合わせて育つ仮想の植物が、何日もかけて独自の音を鳴らします。Fable 5.2 と Opus 5.5 で制作。</sub>
 </td>
 <td width="33%" valign="top">
@@ -267,7 +267,7 @@
 <td width="33%" valign="top">
 <a href="https://andreysuperiorgit.github.io/v8/"><img src="../assets/gifs/373.gif" width="100%" alt="V8 Four-Stroke"></a><br>
 <b><a href="https://andreysuperiorgit.github.io/v8/">V8 Four-Stroke</a></b><br>
-<sub>🆕 · <a href="https://x.com/andreysuperior">@andreysuperior</a> · ♥ 69 · <a href="https://x.com/andreysuperior/status/2123928682603430384">▶ 動画</a></sub><br>
+<sub>🆕 · <a href="https://x.com/andreysuperior">@andreysuperior</a> · ♥ 73 · <a href="https://x.com/andreysuperior/status/2123928682603430384">▶ 動画</a></sub><br>
 <sub>ブラウザのタブで空ぶかしできる 7.0 リッター V8。ピストン、クランク、カムシャフト、16 本のバルブが実寸どおりに動き、回転が上がるとエキマニが赤く光る。124 KB の HTML ファイル 1 つ、プロンプト 1 回と追加指示 23 回。</sub>
 </td>
 </tr>
@@ -280,17 +280,17 @@
 <sub><a href="https://fablelist.000ooo.ooo/ja/prompts/?w=best-seat-in-the-house&ref=gh"><b>✨ プロンプトを入手</b></a></sub>
 </td>
 <td width="33%" valign="top">
+<a href="https://hashem-al-ghaili.github.io/music-maker/"><img src="../assets/gifs/383.gif" width="100%" alt="Music Maker — 空中で弾く楽器"></a><br>
+<b><a href="https://hashem-al-ghaili.github.io/music-maker/">Music Maker — 空中で弾く楽器</a></b><br>
+<sub>🆕 · <a href="https://x.com/HashemGhaili">@HashemGhaili</a> · ♥ 60 · <a href="https://x.com/HashemGhaili/status/2124135871293329809">▶ 動画</a></sub><br>
+<sub>ウェブカメラをオンにして、両手でつまんで引き離すと空中に弦が張られます。24 種類の楽器から 1 つ選び、指先でなぞって演奏。ビートを足し、ループを重ね、録音もできます。</sub><br>
+<sub><a href="https://github.com/Hashem-Al-Ghaili/music-maker">ソースコード</a></sub>
+</td>
+<td width="33%" valign="top">
 <a href="http://promptronic3000.com"><img src="../assets/gifs/358.gif" width="100%" alt="Promptronic 3000"></a><br>
 <b><a href="http://promptronic3000.com">Promptronic 3000</a></b><br>
 <sub><a href="https://x.com/fabianstelzer">@fabianstelzer</a> · ♥ 54 · <a href="https://x.com/fabianstelzer/status/2123121678670520627">▶ 動画</a></sub><br>
 <sub>Web 上のエージェント型モジュラーシンセ。MCP で Claude などの Agent をつなぎ、パッチや新しいモジュールまで言葉で作らせ、URL で共有できる。</sub>
-</td>
-<td width="33%" valign="top">
-<a href="https://hashem-al-ghaili.github.io/music-maker/"><img src="../assets/gifs/383.gif" width="100%" alt="Music Maker — 空中で弾く楽器"></a><br>
-<b><a href="https://hashem-al-ghaili.github.io/music-maker/">Music Maker — 空中で弾く楽器</a></b><br>
-<sub>🆕 · <a href="https://x.com/HashemGhaili">@HashemGhaili</a> · ♥ 54 · <a href="https://x.com/HashemGhaili/status/2124135871293329809">▶ 動画</a></sub><br>
-<sub>ウェブカメラをオンにして、両手でつまんで引き離すと空中に弦が張られます。24 種類の楽器から 1 つ選び、指先でなぞって演奏。ビートを足し、ループを重ね、録音もできます。</sub><br>
-<sub><a href="https://github.com/Hashem-Al-Ghaili/music-maker">ソースコード</a></sub>
 </td>
 </tr>
 <tr>
@@ -304,13 +304,13 @@
 <td width="33%" valign="top">
 <a href="https://andreysuperiorgit.github.io/riemann"><img src="../assets/gifs/381.gif" width="100%" alt="Riemann Hypothesis, live"></a><br>
 <b><a href="https://andreysuperiorgit.github.io/riemann">Riemann Hypothesis, live</a></b><br>
-<sub>🆕 · <a href="https://x.com/andreysuperior">@andreysuperior</a> · ♥ 40 · <a href="https://x.com/andreysuperior/status/2124274426225008910">▶ 動画</a></sub><br>
+<sub>🆕 · <a href="https://x.com/andreysuperior">@andreysuperior</a> · ♥ 51 · <a href="https://x.com/andreysuperior/status/2124274426225008910">▶ 動画</a></sub><br>
 <sub>回して眺められるゼータ関数の地形。102 個の零点をブラウザ上でその場で求めて検証し、すべてが 1 本の線上に並び、足し合わせると素数が再現されます。ライブラリなしの HTML ファイル 1 つ。</sub>
 </td>
 <td width="33%" valign="top">
 <a href="https://claude.ai/artifact/NVWaNUrJK5woiKXQsAQaPG"><img src="../assets/gifs/368.gif" width="100%" alt="Audio-Reactive Dot Surface"></a><br>
 <b><a href="https://claude.ai/artifact/NVWaNUrJK5woiKXQsAQaPG">Audio-Reactive Dot Surface</a></b><br>
-<sub>🆕 · <a href="https://x.com/parhelion318">@parhelion318</a> · ♥ 30 · <a href="https://x.com/parhelion318/status/2123463622252994878">▶ 動画</a></sub><br>
+<sub><a href="https://x.com/parhelion318">@parhelion318</a> · ♥ 30 · <a href="https://x.com/parhelion318/status/2123463622252994878">▶ 動画</a></sub><br>
 <sub>音に合わせて動く、点でできた曲面。Fable 5.2 と Opus 5.5 で作り、GPT-6.2 Astra がレビュー。</sub>
 </td>
 </tr>
@@ -318,7 +318,7 @@
 <td width="33%" valign="top">
 <a href="https://shiraeisenberg.com/composed-of-nows"><img src="../assets/gifs/365.gif" width="100%" alt="Composed of Nows"></a><br>
 <b><a href="https://shiraeisenberg.com/composed-of-nows">Composed of Nows</a></b><br>
-<sub>🆕 · <a href="https://x.com/shiraeis">@shiraeis</a> · ♥ 24 · <a href="https://x.com/shiraeis/status/2123562764203589648">▶ 動画</a></sub><br>
+<sub><a href="https://x.com/shiraeis">@shiraeis</a> · ♥ 24 · <a href="https://x.com/shiraeis/status/2123562764203589648">▶ 動画</a></sub><br>
 <sub>詩を読ませたあと、言語モデルであるとはどんな「感じ」かを描くインタラクティブ作品を 9 点作らせた。一発で完成。</sub>
 </td>
 <td width="33%" valign="top">
@@ -340,7 +340,7 @@
 <td width="33%" valign="top">
 <a href="https://ember-vesper.aura.build/"><img src="../assets/gifs/366.gif" width="100%" alt="Ember Vesper"></a><br>
 <b><a href="https://ember-vesper.aura.build/">Ember Vesper</a></b><br>
-<sub>🆕 · <a href="https://x.com/titepommee">@titepommee</a> · ♥ 12 · <a href="https://x.com/titepommee/status/2123515807250657457">▶ 動画</a></sub><br>
+<sub><a href="https://x.com/titepommee">@titepommee</a> · ♥ 12 · <a href="https://x.com/titepommee/status/2123515807250657457">▶ 動画</a></sub><br>
 <sub>ゲーミング PC をランディングページに。スクロールすると分解され、光の色が変わり、サーマルカメラに切り替わり、注文票が書き出される。HTML ファイル 1 つ。</sub>
 </td>
 <td width="33%" valign="top">

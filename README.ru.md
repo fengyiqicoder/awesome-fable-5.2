@@ -5,9 +5,9 @@
 <h3>Что люди сделали с Claude Fable 5.2 — открывай и играй</h3>
 
 [![Awesome](https://awesome.re/badge.svg)](https://awesome.re)
-[![Works](https://img.shields.io/badge/работы-231-6b4eff)](#-игры)
-[![Demos](https://img.shields.io/badge/видеодемо-148-ff7a59)](#-видеодемо)
-[![Links checked](https://img.shields.io/badge/ссылки_проверены-2026--11--22-2ea44f)](#-как-помочь)
+[![Works](https://img.shields.io/badge/работы-234-6b4eff)](#-игры)
+[![Demos](https://img.shields.io/badge/видеодемо-149-ff7a59)](#-видеодемо)
+[![Links checked](https://img.shields.io/badge/ссылки_проверены-2026--11--23-2ea44f)](#-как-помочь)
 [![License: CC0-1.0](https://img.shields.io/badge/License-CC0_1.0-lightgrey.svg)](LICENSE)
 
 [English](README.md) · [简体中文](README.zh-CN.md) · [繁體中文](README.zh-TW.md) · [日本語](README.ja.md) · [한국어](README.ko.md) · [Español](README.es.md) · [Português](README.pt-BR.md) · [Français](README.fr.md) · [Deutsch](README.de.md) · **Русский**
@@ -16,11 +16,11 @@
 
 </div>
 
-231 работ онлайн и 148 видеодемо на Claude Fable 5.2, все ссылки проверены 2026-11-22. Обновляется каждый день; ⭐ помогает.
+234 работ онлайн и 149 видеодемо на Claude Fable 5.2, все ссылки проверены 2026-11-23. Обновляется каждый день; ⭐ помогает.
 
 ## 📑 Содержание
 
-[⭐ Самые любимые](#-самые-любимые) · [🆕 Новое](#-новое) · [🎮 Игры](#-игры) 107 · [🌍 3D-миры и сцены](#-3d-миры-и-сцены) 49 · [🧰 Сайты и инструменты](#-сайты-и-инструменты) 56 · [🎬 Анимация и фильмы](#-анимация-и-фильмы) 19 · [📺 Видеодемо](#-видеодемо) 148 · [🤝 Как помочь](#-как-помочь)
+[⭐ Самые любимые](#-самые-любимые) · [🆕 Новое](#-новое) · [🎮 Игры](#-игры) 110 · [🌍 3D-миры и сцены](#-3d-миры-и-сцены) 49 · [🧰 Сайты и инструменты](#-сайты-и-инструменты) 56 · [🎬 Анимация и фильмы](#-анимация-и-фильмы) 19 · [📺 Видеодемо](#-видеодемо) 149 · [🤝 Как помочь](#-как-помочь)
 
 ## ⭐ Самые любимые
 
@@ -88,14 +88,14 @@
 <td width="33%" valign="top">
 <a href="https://ebb.tesana.com"><img src="assets/gifs/379.gif" width="100%" alt="EBB — платформер про воду, меняющую форму"></a><br>
 <b><a href="https://ebb.tesana.com">EBB — платформер про воду, меняющую форму</a></b><br>
-<sub>🆕 · <a href="https://x.com/Rubzem">@Rubzem</a> · ♥ 583 · <a href="https://x.com/Rubzem/status/2124142554371502140">▶ Видео</a></sub><br>
+<sub>🆕 · <a href="https://x.com/Rubzem">@Rubzem</a> · ♥ 660 · <a href="https://x.com/Rubzem/status/2124142554371502140">▶ Видео</a></sub><br>
 <sub>Физический платформер, где вы играете за воду: она тает, замерзает и парит, чтобы решать головоломки. Полностью процедурный, 190 КБ, сделан за час.</sub>
 </td>
 <td width="33%" valign="top">
-<a href="https://market-order-city.netlify.app/"><img src="assets/gifs/361.gif" width="100%" alt="Market Order"></a><br>
-<b><a href="https://market-order-city.netlify.app/">Market Order</a></b><br>
-<sub>🆕 · <a href="https://x.com/emollick">@emollick</a> · ♥ 220 · <a href="https://x.com/emollick/status/2123520499368263977">▶ Видео</a></sub><br>
-<sub>Гоночная игра с открытым миром, где вы угоняете машины и выполняете миссии. Всё, от уровня розыска до погоды, зависит от курса акций ANT компании Anthropic.</sub>
+<a href="https://patch.gg/play/blendi/the-blue-hour"><img src="assets/gifs/387.gif" width="100%" alt="The Blue Hour — ночной город в стиле ар-деко"></a><br>
+<b><a href="https://patch.gg/play/blendi/the-blue-hour">The Blue Hour — ночной город в стиле ар-деко</a></b><br>
+<sub>🆕 · <a href="https://x.com/BlendiByl">@BlendiByl</a> · ♥ 363 · <a href="https://x.com/BlendiByl/status/2124439671006748853">▶ Видео</a></sub><br>
+<sub>3D-сцена в стиле ар-деко из мультсериала о Бэтмене, целиком нарисованная кодом. Открытый исходный код.</sub>
 </td>
 </tr>
 </table>
@@ -251,7 +251,7 @@
 <td width="33%" valign="top">
 <a href="https://patch.gg/blendi/coloured-pencil"><img src="assets/gifs/247.gif" width="100%" alt="Coloured Pencil"></a><br>
 <b><a href="https://patch.gg/blendi/coloured-pencil">Coloured Pencil</a></b><br>
-<sub><a href="https://x.com/BlendiByl">@BlendiByl</a> · ♥ 764 · <a href="https://x.com/BlendiByl/status/2121130385723789637">▶ Видео</a></sub><br>
+<sub><a href="https://x.com/BlendiByl">@BlendiByl</a> · ♥ 765 · <a href="https://x.com/BlendiByl/status/2121130385723789637">▶ Видео</a></sub><br>
 <sub>Фрагмент игры в стиле цветных карандашей; штриховка каждой поверхности и весь город — код. Открытый исходный код.</sub><br>
 <sub><a href="https://fablelist.000ooo.ooo/ru/prompts/?w=coloured-pencil&ref=gh"><b>✨ Получить промпт</b></a></sub>
 </td>
@@ -274,19 +274,19 @@
 <td width="33%" valign="top">
 <a href="https://ebb.tesana.com"><img src="assets/gifs/379.gif" width="100%" alt="EBB — платформер про воду, меняющую форму"></a><br>
 <b><a href="https://ebb.tesana.com">EBB — платформер про воду, меняющую форму</a></b><br>
-<sub>🆕 · <a href="https://x.com/Rubzem">@Rubzem</a> · ♥ 583 · <a href="https://x.com/Rubzem/status/2124142554371502140">▶ Видео</a></sub><br>
+<sub>🆕 · <a href="https://x.com/Rubzem">@Rubzem</a> · ♥ 660 · <a href="https://x.com/Rubzem/status/2124142554371502140">▶ Видео</a></sub><br>
 <sub>Физический платформер, где вы играете за воду: она тает, замерзает и парит, чтобы решать головоломки. Полностью процедурный, 190 КБ, сделан за час.</sub>
 </td>
 <td width="33%" valign="top">
 <a href="https://bannerfall.itch.io/siege-wing"><img src="assets/gifs/271.gif" width="100%" alt="Siege Wing — вертолёт на средневековой войне"></a><br>
 <b><a href="https://bannerfall.itch.io/siege-wing">Siege Wing — вертолёт на средневековой войне</a></b><br>
-<sub><a href="https://x.com/builderjaydub">@builderjaydub</a> · ♥ 576 · <a href="https://x.com/builderjaydub/status/2120223731520040966">▶ Видео</a></sub><br>
+<sub><a href="https://x.com/builderjaydub">@builderjaydub</a> · ♥ 577 · <a href="https://x.com/builderjaydub/status/2120223731520040966">▶ Видео</a></sub><br>
 <sub>Управляйте вертолётом с пушкой, ракетами и управляемыми снарядами, уворачивайтесь от римских баллист и рушьте замок.</sub>
 </td>
 </tr>
 </table>
 
-<p align="center"><b><a href="all/games.ru.md">Смотреть все 107 →</a></b></p>
+<p align="center"><b><a href="all/games.ru.md">Смотреть все 110 →</a></b></p>
 
 <div align="right"><a href="#-содержание">↑ К содержанию</a></div>
 
@@ -349,14 +349,14 @@
 <td width="33%" valign="top">
 <a href="https://github.com/Leonxlnx/room-at-dawn"><img src="assets/gifs/219.gif" width="100%" alt="Room at Dawn"></a><br>
 <b><a href="https://github.com/Leonxlnx/room-at-dawn">Room at Dawn</a></b><br>
-<sub><a href="https://x.com/LexnLin">@LexnLin</a> · ♥ 857 · <a href="https://x.com/LexnLin/status/2120910879361548565">▶ Видео</a></sub><br>
+<sub><a href="https://x.com/LexnLin">@LexnLin</a> · ♥ 856 · <a href="https://x.com/LexnLin/status/2120910879361548565">▶ Видео</a></sub><br>
 <sub>Фотореалистичная спальня на three.js без готовых моделей и текстур; всё — код.</sub><br>
 <sub><a href="https://fablelist.000ooo.ooo/ru/prompts/?w=room-at-dawn&ref=gh"><b>✨ Получить промпт</b></a></sub>
 </td>
 <td width="33%" valign="top">
 <a href="https://fable-rover.vercel.app"><img src="assets/gifs/278.gif" width="100%" alt="ER-6 Terrain Explorer — самоуправляемый марсоход"></a><br>
 <b><a href="https://fable-rover.vercel.app">ER-6 Terrain Explorer — самоуправляемый марсоход</a></b><br>
-<sub><a href="https://x.com/DilumSanjaya">@DilumSanjaya</a> · ♥ 800 · <a href="https://x.com/DilumSanjaya/status/2120561077385867663">▶ Видео</a></sub><br>
+<sub><a href="https://x.com/DilumSanjaya">@DilumSanjaya</a> · ♥ 802 · <a href="https://x.com/DilumSanjaya/status/2120561077385867663">▶ Видео</a></sub><br>
 <sub>Fable 5.2 спроектировал подвеску rocker-bogie, как у марсоходов NASA, и смоделировал езду по инопланетному рельефу.</sub>
 </td>
 </tr>
@@ -391,12 +391,20 @@
 <sub><a href="https://fablelist.000ooo.ooo/ru/prompts/?w=bay-area-through-time&ref=gh"><b>✨ Получить промпт</b></a></sub>
 </td>
 <td width="33%" valign="top">
+<a href="https://patch.gg/play/blendi/the-blue-hour"><img src="assets/gifs/387.gif" width="100%" alt="The Blue Hour — ночной город в стиле ар-деко"></a><br>
+<b><a href="https://patch.gg/play/blendi/the-blue-hour">The Blue Hour — ночной город в стиле ар-деко</a></b><br>
+<sub>🆕 · <a href="https://x.com/BlendiByl">@BlendiByl</a> · ♥ 363 · <a href="https://x.com/BlendiByl/status/2124439671006748853">▶ Видео</a></sub><br>
+<sub>3D-сцена в стиле ар-деко из мультсериала о Бэтмене, целиком нарисованная кодом. Открытый исходный код.</sub>
+</td>
+<td width="33%" valign="top">
 <a href="http://procedural-arm-rig.vercel.app"><img src="assets/gifs/140.gif" width="100%" alt="Procedural Arm Rig"></a><br>
 <b><a href="http://procedural-arm-rig.vercel.app">Procedural Arm Rig</a></b><br>
 <sub><a href="https://x.com/apekshik">@apekshik</a> · ♥ 326 · <a href="https://x.com/apekshik/status/2120224530367119758">▶ Видео</a></sub><br>
 <sub>Вместо того чтобы делать AAA-игру за один заход: одна рука со скелетом, мешем с покраской весов, IK и мышцами, которые набухают, когда кулак сжимается.</sub><br>
 <sub><a href="https://fablelist.000ooo.ooo/ru/prompts/?w=procedural-arm-rig&ref=gh"><b>✨ Получить промпт</b></a></sub>
 </td>
+</tr>
+<tr>
 <td width="33%" valign="top">
 <a href="https://samg-coder.github.io/solstice-garden/"><img src="assets/gifs/248.gif" width="100%" alt="The Garden"></a><br>
 <b><a href="https://samg-coder.github.io/solstice-garden/">The Garden</a></b><br>
@@ -404,12 +412,10 @@
 <sub>Сцена сада, написанная на Rust, скомпилированная в WASM и отрендеренная через WebGPU.</sub><br>
 <sub><a href="https://fablelist.000ooo.ooo/ru/prompts/?w=the-garden&ref=gh"><b>✨ Получить промпт</b></a></sub>
 </td>
-</tr>
-<tr>
 <td width="33%" valign="top">
 <a href="http://taoistvibe.com"><img src="assets/gifs/307.gif" width="100%" alt="Chill Taoist Vibe: холм с даосским храмом"></a><br>
 <b><a href="http://taoistvibe.com">Chill Taoist Vibe: холм с даосским храмом</a></b><br>
-<sub><a href="https://x.com/qiqileyuan">@qiqileyuan</a> · ♥ 253 · <a href="https://x.com/qiqileyuan/status/2122006851298693277">▶ Видео</a></sub><br>
+<sub><a href="https://x.com/qiqileyuan">@qiqileyuan</a> · ♥ 252 · <a href="https://x.com/qiqileyuan/status/2122006851298693277">▶ Видео</a></sub><br>
 <sub>Даосский храм в стиле Ghibli на небольшой горе. Поднимитесь за старым монахом, зажгите благовония, вытяните палочку с предсказанием, помедитируйте или просто сидите в кресле-качалке и смотрите, как сменяются времена года. Статуи и главный герой сделаны в Tripo3D, всё остальное — сгенерированный код.</sub>
 </td>
 <td width="33%" valign="top">
@@ -418,6 +424,8 @@
 <sub><a href="https://x.com/ky__zo">@ky__zo</a> · ♥ 229 · <a href="https://x.com/ky__zo/status/2122274109795054036">▶ Видео</a></sub><br>
 <sub>Прокручивайте страницу, чтобы лететь со стеклянной бабочкой, которая не может выбраться из оранжереи, через шесть миров. Чистый three.js без файлов моделей и текстур; ушло 1.32 миллиарда токенов и $905 на API.</sub>
 </td>
+</tr>
+<tr>
 <td width="33%" valign="top">
 <a href="https://claude.ai/artifact/R6YBDkAm2GjAC5A65D9djx"><img src="assets/gifs/142.gif" width="100%" alt="Демо Claude, в которое можно войти"></a><br>
 <b><a href="https://claude.ai/artifact/R6YBDkAm2GjAC5A65D9djx">Демо Claude, в которое можно войти</a></b><br>
@@ -425,8 +433,6 @@
 <sub>Вдохновлено @rileybrown: заходите и садитесь за любой компьютер.</sub><br>
 <sub><a href="https://fablelist.000ooo.ooo/ru/prompts/?w=a-claude-demo-you-can-walk-into&ref=gh"><b>✨ Получить промпт</b></a></sub>
 </td>
-</tr>
-<tr>
 <td width="33%" valign="top">
 <a href="https://claude.ai/artifact/2PBXuQAnWDS2NpiPXHNLfL"><img src="assets/gifs/028.gif" width="100%" alt="Orca Jelly"></a><br>
 <b><a href="https://claude.ai/artifact/2PBXuQAnWDS2NpiPXHNLfL">Orca Jelly</a></b><br>
@@ -441,6 +447,8 @@
 <sub><a href="https://x.com/KanaWorks_AI">@KanaWorks_AI</a> · ♥ 198 · <a href="https://x.com/KanaWorks_AI/status/2121413647213932688">▶ Видео</a></sub><br>
 <sub>Целая планета меньше чем в 320 КБ кода. Летите от моря и лугов сквозь цветение сакуры в космос, прямо в браузере.</sub>
 </td>
+</tr>
+<tr>
 <td width="33%" valign="top">
 <a href="https://claude.ai/artifact/9EgZpErM17kH2a9Q3WXW6f"><img src="assets/gifs/027.gif" width="100%" alt="Voxel World in a Bottle"></a><br>
 <b><a href="https://claude.ai/artifact/9EgZpErM17kH2a9Q3WXW6f">Voxel World in a Bottle</a></b><br>
@@ -448,19 +456,11 @@
 <sub>30 минут, 12,81 $.</sub><br>
 <sub><a href="https://x.com/vib3coded/status/2120104517282775514">📝 Промпт автора (бесплатно)</a></sub>
 </td>
-</tr>
-<tr>
 <td width="33%" valign="top">
 <a href="https://github.com/Leonxlnx/beautiful-wonderland"><img src="assets/gifs/301.gif" width="100%" alt="Beautiful Wonderland"></a><br>
 <b><a href="https://github.com/Leonxlnx/beautiful-wonderland">Beautiful Wonderland</a></b><br>
-<sub><a href="https://x.com/LexnLin">@LexnLin</a> · ♥ 147 · <a href="https://x.com/LexnLin/status/2122056542778535977">▶ Видео</a></sub><br>
+<sub><a href="https://x.com/LexnLin">@LexnLin</a> · ♥ 148 · <a href="https://x.com/LexnLin/status/2122056542778535977">▶ Видео</a></sub><br>
 <sub>Маленький нарисованный мир на three.js и 40-секундный 4K-ролик, отрендеренный из него.</sub>
-</td>
-<td width="33%" valign="top">
-<a href="https://patch.gg/play/blendi/the-blue-hour"><img src="assets/gifs/387.gif" width="100%" alt="The Blue Hour — ночной город в стиле ар-деко"></a><br>
-<b><a href="https://patch.gg/play/blendi/the-blue-hour">The Blue Hour — ночной город в стиле ар-деко</a></b><br>
-<sub>🆕 · <a href="https://x.com/BlendiByl">@BlendiByl</a> · ♥ 145 · <a href="https://x.com/BlendiByl/status/2124439671006748853">▶ Видео</a></sub><br>
-<sub>3D-сцена в стиле ар-деко из мультсериала о Бэтмене, целиком нарисованная кодом. Открытый исходный код.</sub>
 </td>
 <td width="33%" valign="top">
 <a href="https://patch.gg/blendi/impossible-spaces"><img src="assets/gifs/135.gif" width="100%" alt="Impossible Spaces"></a><br>
@@ -619,7 +619,7 @@
 <td width="33%" valign="top">
 <a href="https://www.bubbbly.com/christmas-cards"><img src="assets/gifs/315.gif" width="100%" alt="Christmas Cards: интерактивные рождественские открытки"></a><br>
 <b><a href="https://www.bubbbly.com/christmas-cards">Christmas Cards: интерактивные рождественские открытки</a></b><br>
-<sub><a href="https://x.com/ann_nnng">@ann_nnng</a> · ♥ 477 · <a href="https://x.com/ann_nnng/status/2122283549000712249">▶ Видео</a></sub><br>
+<sub><a href="https://x.com/ann_nnng">@ann_nnng</a> · ♥ 478 · <a href="https://x.com/ann_nnng/status/2122283549000712249">▶ Видео</a></sub><br>
 <sub>Набор интерактивных рождественских открыток, например кот в красном шарфе на подоконнике смотрит, как падает снег.</sub>
 </td>
 <td width="33%" valign="top">
@@ -648,14 +648,14 @@
 <td width="33%" valign="top">
 <a href="https://rubber-hose-ui.vercel.app"><img src="assets/gifs/332.gif" width="100%" alt="Rubber Hose UI: элементы управления в виде мультяшек 1930-х"></a><br>
 <b><a href="https://rubber-hose-ui.vercel.app">Rubber Hose UI: элементы управления в виде мультяшек 1930-х</a></b><br>
-<sub><a href="https://x.com/crtvTeknologist">@crtvTeknologist</a> · ♥ 352 · <a href="https://x.com/crtvTeknologist/status/2122433522166124616">▶ Видео</a></sub><br>
+<sub><a href="https://x.com/crtvTeknologist">@crtvTeknologist</a> · ♥ 353 · <a href="https://x.com/crtvTeknologist/status/2122433522166124616">▶ Видео</a></sub><br>
 <sub>Одиннадцать веб-контролов в стиле rubber hose: слайдер стал тромбоном, тост стал тостером, а кнопка получает синяк под глазом при каждом нажатии. Чистый JS и canvas, без зависимостей, открытый код.</sub><br>
 <sub><a href="https://github.com/finktheartist/rubber-hose-ui">Исходный код</a></sub>
 </td>
 <td width="33%" valign="top">
 <a href="https://bigfatfish.cc"><img src="assets/gifs/362.gif" width="100%" alt="Big Fat Fish's Tank"></a><br>
 <b><a href="https://bigfatfish.cc">Big Fat Fish's Tank</a></b><br>
-<sub>🆕 · <a href="https://x.com/dafeifish">@dafeifish</a> · ♥ 264 · <a href="https://x.com/dafeifish/status/2123395143873019950">Пост</a></sub><br>
+<sub><a href="https://x.com/dafeifish">@dafeifish</a> · ♥ 264 · <a href="https://x.com/dafeifish/status/2123395143873019950">Пост</a></sub><br>
 <sub>Личный сайт, переделанный в стиле скрапбука: бумажки, скотч, стикеры и полароиды на тёмно-синем ночном небе.</sub>
 </td>
 </tr>
@@ -685,7 +685,7 @@
 <td width="33%" valign="top">
 <a href="https://github.com/moritzkremb/robovac-pov"><img src="assets/gifs/334.gif" width="100%" alt="Robovac POV: реалистичный фильм глазами робота-пылесоса"></a><br>
 <b><a href="https://github.com/moritzkremb/robovac-pov">Robovac POV: реалистичный фильм глазами робота-пылесоса</a></b><br>
-<sub><a href="https://x.com/moritzkremb">@moritzkremb</a> · ♥ 461 · <a href="https://x.com/moritzkremb/status/2122702891819377117">▶ Видео</a></sub><br>
+<sub><a href="https://x.com/moritzkremb">@moritzkremb</a> · ♥ 462 · <a href="https://x.com/moritzkremb/status/2122702891819377117">▶ Видео</a></sub><br>
 <sub>53-секундный фильм, сделанный только кодом: мир на C++, собственный GPU-трассировщик путей, симуляция камеры с фокусом, размытием движения и зерном, ковёр примерно из 900,000 ворсинок и звук, синтезированный на Python.</sub>
 </td>
 </tr>
@@ -721,7 +721,7 @@
 <td width="33%" valign="top">
 <a href="https://github.com/anstapnever/one-sweep"><img src="assets/gifs/051.gif" width="100%" alt="One Sweep"></a><br>
 <b><a href="https://github.com/anstapnever/one-sweep">One Sweep</a></b><br>
-<sub><a href="https://x.com/anstapnever">@anstapnever</a> · ♥ 251 · <a href="https://x.com/anstapnever/status/2119772039037014524">▶ Видео</a></sub><br>
+<sub><a href="https://x.com/anstapnever">@anstapnever</a> · ♥ 250 · <a href="https://x.com/anstapnever/status/2119772039037014524">▶ Видео</a></sub><br>
 <sub>78-секундная аниме-драка на чистом Three.js, шесть команд агентов параллельно. Автор говорит «Fable 5.5».</sub><br>
 <sub><a href="https://x.com/anstapnever/status/2119772039037014524">📝 Промпт автора (бесплатно)</a></sub>
 </td>
@@ -886,7 +886,7 @@
 <td width="33%" valign="top">
 <a href="https://x.com/kevin_t_ngo/status/2123980980994318416"><img src="assets/gifs/384.gif" width="100%" alt="Fable 5.2 создаёт себе голос на Python"></a><br>
 <b><a href="https://x.com/kevin_t_ngo/status/2123980980994318416">Fable 5.2 создаёт себе голос на Python</a></b><br>
-<sub>🆕 · <a href="https://x.com/kevin_t_ngo">@kevin_t_ngo</a> · ♥ 4.1k · <a href="https://x.com/kevin_t_ngo/status/2123980980994318416">▶ Видео</a></sub><br>
+<sub>🆕 · <a href="https://x.com/kevin_t_ngo">@kevin_t_ngo</a> · ♥ 4.3k · <a href="https://x.com/kevin_t_ngo/status/2123980980994318416">▶ Видео</a></sub><br>
 
 </td>
 <td width="33%" valign="top">
@@ -964,7 +964,7 @@
 </tr>
 </table>
 
-<p align="center"><b><a href="all/video-demos.ru.md">Смотреть все 148 →</a></b></p>
+<p align="center"><b><a href="all/video-demos.ru.md">Смотреть все 149 →</a></b></p>
 
 ## 🤝 Как помочь
 
@@ -984,8 +984,8 @@
 
 ## 📰 Новости
 
+- **2026-11-23**: +3 работ и +1 видеодемо.
 - **2026-11-22**: +9 работ и +2 видеодемо.
 - **2026-11-21**: +7 работ и +1 видеодемо.
 - **2026-11-20**: +8 работ и +0 видеодемо.
-- **2026-11-19**: +10 работ и +2 видеодемо.
 - **2026-11-10**: Первая версия — 57 работ + 61 видеодемо, у каждой GIF-превью.

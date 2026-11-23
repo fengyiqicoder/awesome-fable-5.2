@@ -1,4 +1,4 @@
-# 🎮 게임 · 전체 107개
+# 🎮 게임 · 전체 110개
 
 [← 메인 목록으로](../README.ko.md) · [English](games.md) · [简体中文](games.zh-CN.md) · [繁體中文](games.zh-TW.md) · [日本語](games.ja.md) · **한국어** · [Español](games.es.md) · [Português](games.pt-BR.md) · [Français](games.fr.md) · [Deutsch](games.de.md) · [Русский](games.ru.md)
 
@@ -153,7 +153,7 @@
 <td width="33%" valign="top">
 <a href="https://patch.gg/blendi/coloured-pencil"><img src="../assets/gifs/247.gif" width="100%" alt="Coloured Pencil"></a><br>
 <b><a href="https://patch.gg/blendi/coloured-pencil">Coloured Pencil</a></b><br>
-<sub><a href="https://x.com/BlendiByl">@BlendiByl</a> · ♥ 764 · <a href="https://x.com/BlendiByl/status/2121130385723789637">▶ 영상</a></sub><br>
+<sub><a href="https://x.com/BlendiByl">@BlendiByl</a> · ♥ 765 · <a href="https://x.com/BlendiByl/status/2121130385723789637">▶ 영상</a></sub><br>
 <sub>색연필 느낌의 게임 한 조각. 모든 표면의 셰이딩과 마을 전체가 코드. 오픈 소스.</sub><br>
 <sub><a href="https://fablelist.000ooo.ooo/ko/prompts/?w=coloured-pencil&ref=gh"><b>✨ 프롬프트 받기</b></a></sub>
 </td>
@@ -176,13 +176,13 @@
 <td width="33%" valign="top">
 <a href="https://ebb.tesana.com"><img src="../assets/gifs/379.gif" width="100%" alt="EBB — 모습을 바꾸는 물 플랫포머"></a><br>
 <b><a href="https://ebb.tesana.com">EBB — 모습을 바꾸는 물 플랫포머</a></b><br>
-<sub>🆕 · <a href="https://x.com/Rubzem">@Rubzem</a> · ♥ 583 · <a href="https://x.com/Rubzem/status/2124142554371502140">▶ 영상</a></sub><br>
+<sub>🆕 · <a href="https://x.com/Rubzem">@Rubzem</a> · ♥ 660 · <a href="https://x.com/Rubzem/status/2124142554371502140">▶ 영상</a></sub><br>
 <sub>녹고, 얼고, 떠오르는 물이 되어 퍼즐을 푸는 물리 플랫포머. 전부 절차적으로 생성되며 190 KB, 한 시간 만에 완성.</sub>
 </td>
 <td width="33%" valign="top">
 <a href="https://bannerfall.itch.io/siege-wing"><img src="../assets/gifs/271.gif" width="100%" alt="Siege Wing — 중세 전쟁에 뛰어든 헬리콥터"></a><br>
 <b><a href="https://bannerfall.itch.io/siege-wing">Siege Wing — 중세 전쟁에 뛰어든 헬리콥터</a></b><br>
-<sub><a href="https://x.com/builderjaydub">@builderjaydub</a> · ♥ 576 · <a href="https://x.com/builderjaydub/status/2120223731520040966">▶ 영상</a></sub><br>
+<sub><a href="https://x.com/builderjaydub">@builderjaydub</a> · ♥ 577 · <a href="https://x.com/builderjaydub/status/2120223731520040966">▶ 영상</a></sub><br>
 <sub>대포, 로켓, 미사일을 단 헬기를 몰고 로마 발리스타를 피해 성을 무너뜨리세요.</sub>
 </td>
 </tr>
@@ -190,7 +190,7 @@
 <td width="33%" valign="top">
 <a href="https://i-would-have-gotten-away-with-it.netlify.app/"><img src="../assets/gifs/007.gif" width="100%" alt="I Would Have Gotten Away With It"></a><br>
 <b><a href="https://i-would-have-gotten-away-with-it.netlify.app/">I Would Have Gotten Away With It</a></b><br>
-<sub><a href="https://x.com/emollick">@emollick</a> · ♥ 517 · <a href="https://x.com/emollick/status/2119876449494540554">▶ 영상</a></sub><br>
+<sub><a href="https://x.com/emollick">@emollick</a> · ♥ 518 · <a href="https://x.com/emollick/status/2119876449494540554">▶ 영상</a></sub><br>
 <sub>거꾸로 된 스쿠비두: 참견쟁이 아이들을 겁주어 쫓아내는 악당이 되어 보세요. 트레일러, 음악, 사운드도 Fable이 제작.</sub><br>
 <sub><a href="https://fablelist.000ooo.ooo/ko/prompts/?w=i-would-have-gotten-away-with-it&ref=gh"><b>✨ 프롬프트 받기</b></a></sub>
 </td>
@@ -211,7 +211,7 @@
 <td width="33%" valign="top">
 <a href="https://www.spawn.co/@izkimar/the-world-of-hoodcraft"><img src="../assets/gifs/356.gif" width="100%" alt="The World of Hoodcraft"></a><br>
 <b><a href="https://www.spawn.co/@izkimar/the-world-of-hoodcraft">The World of Hoodcraft</a></b><br>
-<sub><a href="https://x.com/Izkimar">@Izkimar</a> · ♥ 466 · <a href="https://x.com/Izkimar/status/2123188582836031910">▶ 영상</a></sub><br>
+<sub><a href="https://x.com/Izkimar">@Izkimar</a> · ♥ 468 · <a href="https://x.com/Izkimar/status/2123188582836031910">▶ 영상</a></sub><br>
 <sub>월드 오브 워크래프트와 GTA를 섞은 브라우저 게임. 마차를 탈취하고, 수배 등급이 별 5개가 되면 전투 마법사가 양으로 만들어 버린다. 네트워크 NPC 6,000명, 완전 멀티플레이, 오픈 PvP.</sub>
 </td>
 <td width="33%" valign="top">
@@ -286,7 +286,7 @@
 <td width="33%" valign="top">
 <a href="https://fallline-9zo.pages.dev"><img src="../assets/gifs/350.gif" width="100%" alt="Fall Line: 다운힐 MTB"></a><br>
 <b><a href="https://fallline-9zo.pages.dev">Fall Line: 다운힐 MTB</a></b><br>
-<sub><a href="https://x.com/BananaOfMercy">@BananaOfMercy</a> · ♥ 285 · <a href="https://x.com/BananaOfMercy/status/2123037856398733438">▶ 영상</a></sub><br>
+<sub><a href="https://x.com/BananaOfMercy">@BananaOfMercy</a> · ♥ 287 · <a href="https://x.com/BananaOfMercy/status/2123037856398733438">▶ 영상</a></sub><br>
 <sub>three.js로 만든 다운힐 산악자전거 게임. 브라우저에서 키보드로 플레이할 수 있다. 제작자는 7일 동안 모든 빌드를 직접 타 보며 어색한 부분을 Fable에게 알려 줬다.</sub>
 </td>
 <td width="33%" valign="top">
@@ -324,7 +324,7 @@
 <td width="33%" valign="top">
 <a href="https://market-order-city.netlify.app/"><img src="../assets/gifs/361.gif" width="100%" alt="Market Order"></a><br>
 <b><a href="https://market-order-city.netlify.app/">Market Order</a></b><br>
-<sub>🆕 · <a href="https://x.com/emollick">@emollick</a> · ♥ 220 · <a href="https://x.com/emollick/status/2123520499368263977">▶ 영상</a></sub><br>
+<sub><a href="https://x.com/emollick">@emollick</a> · ♥ 220 · <a href="https://x.com/emollick/status/2123520499368263977">▶ 영상</a></sub><br>
 <sub>차를 훔치고 미션을 수행하는 오픈 월드 드라이빙 게임. 수배 레벨부터 날씨까지 모든 것이 Anthropic의 ANT 주가에 따라 움직인다.</sub>
 </td>
 <td width="33%" valign="top">
@@ -335,14 +335,20 @@
 <sub><a href="https://fablelist.000ooo.ooo/ko/prompts/?w=rambo-dino&ref=gh"><b>✨ 프롬프트 받기</b></a></sub>
 </td>
 <td width="33%" valign="top">
+<a href="https://thaxnay.com/ramayana/"><img src="../assets/gifs/389.gif" width="100%" alt="Ramayana: The Sacred Fires"></a><br>
+<b><a href="https://thaxnay.com/ramayana/">Ramayana: The Sacred Fires</a></b><br>
+<sub>🆕 · <a href="https://x.com/Thaxnay">@Thaxnay</a> · ♥ 182 · <a href="https://x.com/Thaxnay/status/2124574054296219939">▶ 영상</a></sub><br>
+<sub>라마가 되어 탁 트인 계곡을 누비며 현자들을 지키고 숨겨진 비밀을 찾는 3인칭 액션 어드벤처. PC와 모바일 브라우저에서 바로 플레이할 수 있습니다.</sub>
+</td>
+</tr>
+<tr>
+<td width="33%" valign="top">
 <a href="https://cozylisbon.vercel.app"><img src="../assets/gifs/200.gif" width="100%" alt="Cozy Lisbon"></a><br>
 <b><a href="https://cozylisbon.vercel.app">Cozy Lisbon</a></b><br>
 <sub><a href="https://x.com/goncalo_canhoto">@goncalo_canhoto</a> · ♥ 171 · <a href="https://x.com/goncalo_canhoto/status/2119932946346094690">▶ 영상</a></sub><br>
 <sub>리스본 위를 나는 작은 비행기를 다룬 프롬프트 하나짜리 포근한 게임.</sub><br>
 <sub><a href="https://fablelist.000ooo.ooo/ko/prompts/?w=cozy-lisbon&ref=gh"><b>✨ 프롬프트 받기</b></a></sub>
 </td>
-</tr>
-<tr>
 <td width="33%" valign="top">
 <a href="https://spawn.co/@robot/frontline-warfare-deathmatch"><img src="../assets/gifs/012.gif" width="100%" alt="Frontline Warfare Deathmatch"></a><br>
 <b><a href="https://spawn.co/@robot/frontline-warfare-deathmatch">Frontline Warfare Deathmatch</a></b><br>
@@ -357,23 +363,31 @@
 <sub><a href="https://github.com/wquguru/fable52-fps-repro">소스 코드</a></sub><br>
 <sub><a href="https://x.com/wquguru/status/2120383332722905400">📝 제작자 공개 프롬프트 (무료)</a></sub>
 </td>
-<td width="33%" valign="top">
-<a href="https://remix.gg/g/banana-mine-rush"><img src="../assets/gifs/201.gif" width="100%" alt="Banana Mine Rush"></a><br>
-<b><a href="https://remix.gg/g/banana-mine-rush">Banana Mine Rush</a></b><br>
-<sub><a href="https://x.com/0xChuckstock">@0xChuckstock</a> · ♥ 154 · <a href="https://x.com/0xChuckstock/status/2120125184606658728">▶ 영상</a></sub><br>
-<sub>Remix의 3D 카트 레이서: 계정 없이 브라우저에서 바로 플레이, 멀티플레이와 리더보드 지원.</sub><br>
-<sub><a href="https://fablelist.000ooo.ooo/ko/prompts/?w=banana-mine-rush&ref=gh"><b>✨ 프롬프트 받기</b></a></sub>
-</td>
 </tr>
 <tr>
 <td width="33%" valign="top">
+<a href="https://remix.gg/g/banana-mine-rush"><img src="../assets/gifs/201.gif" width="100%" alt="Banana Mine Rush"></a><br>
+<b><a href="https://remix.gg/g/banana-mine-rush">Banana Mine Rush</a></b><br>
+<sub><a href="https://x.com/0xChuckstock">@0xChuckstock</a> · ♥ 153 · <a href="https://x.com/0xChuckstock/status/2120125184606658728">▶ 영상</a></sub><br>
+<sub>Remix의 3D 카트 레이서: 계정 없이 브라우저에서 바로 플레이, 멀티플레이와 리더보드 지원.</sub><br>
+<sub><a href="https://fablelist.000ooo.ooo/ko/prompts/?w=banana-mine-rush&ref=gh"><b>✨ 프롬프트 받기</b></a></sub>
+</td>
+<td width="33%" valign="top">
 <a href="https://turbo-tails.vercel.app"><img src="../assets/gifs/009.gif" width="100%" alt="Turbo Tails"></a><br>
 <b><a href="https://turbo-tails.vercel.app">Turbo Tails</a></b><br>
-<sub><a href="https://x.com/petergyang">@petergyang</a> · ♥ 142 · <a href="https://x.com/petergyang/status/2119901658394358005">▶ 영상</a></sub><br>
+<sub><a href="https://x.com/petergyang">@petergyang</a> · ♥ 143 · <a href="https://x.com/petergyang/status/2119901658394358005">▶ 영상</a></sub><br>
 <sub>3D 카트 레이싱: 레이서 6명, 드리프트, 점프대, 아이템, 싱글 및 멀티플레이.</sub><br>
 <sub><a href="https://youtu.be/SsSKJA0EHD4">Comparison video</a></sub><br>
 <sub><a href="https://fablelist.000ooo.ooo/ko/prompts/?w=turbo-tails&ref=gh"><b>✨ 프롬프트 받기</b></a></sub>
 </td>
+<td width="33%" valign="top">
+<a href="https://satyam-fp.github.io/race/v1/"><img src="../assets/gifs/371.gif" width="100%" alt="Tachyon Sprint"></a><br>
+<b><a href="https://satyam-fp.github.io/race/v1/">Tachyon Sprint</a></b><br>
+<sub>🆕 · <a href="https://x.com/_satyam_ai">@_satyam_ai</a> · ♥ 134 · <a href="https://x.com/_satyam_ai/status/2123787482747764918">▶ 영상</a></sub><br>
+<sub>Chrome의 WebGPU만으로 돌아가는 레이싱 게임. 엔진은 제작자가 처음부터 직접 만드는 중. 자동차를 포함한 에셋 대부분은 Fable 5.2와 GPT-6.2 Astra가 만들었다.</sub>
+</td>
+</tr>
+<tr>
 <td width="33%" valign="top">
 <a href="https://luminazombies.com/"><img src="../assets/gifs/176.gif" width="100%" alt="Lumina Zombies"></a><br>
 <b><a href="https://luminazombies.com/">Lumina Zombies</a></b><br>
@@ -381,14 +395,6 @@
 <sub>프롬프트 몇 번으로 이스터 에그가 있는 새 맵을 추가하고, 나머지 두 맵의 하드웨어 요구량과 지연 시간을 절반으로 줄이는 업그레이드.</sub><br>
 <sub><a href="https://fablelist.000ooo.ooo/ko/prompts/?w=lumina-zombies&ref=gh"><b>✨ 프롬프트 받기</b></a></sub>
 </td>
-<td width="33%" valign="top">
-<a href="https://satyam-fp.github.io/race/v1/"><img src="../assets/gifs/371.gif" width="100%" alt="Tachyon Sprint"></a><br>
-<b><a href="https://satyam-fp.github.io/race/v1/">Tachyon Sprint</a></b><br>
-<sub>🆕 · <a href="https://x.com/_satyam_ai">@_satyam_ai</a> · ♥ 122 · <a href="https://x.com/_satyam_ai/status/2123787482747764918">▶ 영상</a></sub><br>
-<sub>Chrome의 WebGPU만으로 돌아가는 레이싱 게임. 엔진은 제작자가 처음부터 직접 만드는 중. 자동차를 포함한 에셋 대부분은 Fable 5.2와 GPT-6.2 Astra가 만들었다.</sub>
-</td>
-</tr>
-<tr>
 <td width="33%" valign="top">
 <a href="https://github.com/amirmushichge/fly-in-kit"><img src="../assets/gifs/320.gif" width="100%" alt="Fly-In Kit: 카페를 위한 비행 미니게임"></a><br>
 <b><a href="https://github.com/amirmushichge/fly-in-kit">Fly-In Kit: 카페를 위한 비행 미니게임</a></b><br>
@@ -402,6 +408,8 @@
 <sub>자체 WebGL 렌더러를 쓴 바닐라 JS. 공룡, 나무, 지형은 2D 픽셀 슬라이스를 쌓아 만들었습니다.</sub><br>
 <sub><a href="https://fablelist.000ooo.ooo/ko/prompts/?w=thunder-valley-dino-chase&ref=gh"><b>✨ 프롬프트 받기</b></a></sub>
 </td>
+</tr>
+<tr>
 <td width="33%" valign="top">
 <a href="https://feed-backrooms.vercel.app"><img src="../assets/gifs/013.gif" width="100%" alt="Feed the Backrooms"></a><br>
 <b><a href="https://feed-backrooms.vercel.app">Feed the Backrooms</a></b><br>
@@ -409,8 +417,6 @@
 <sub>백룸을 뒤집었어요: 당신이 괴물이고, 사람을 잡는 게 임무.</sub><br>
 <sub><a href="https://fablelist.000ooo.ooo/ko/prompts/?w=feed-the-backrooms&ref=gh"><b>✨ 프롬프트 받기</b></a></sub>
 </td>
-</tr>
-<tr>
 <td width="33%" valign="top">
 <a href="https://rivergame-kappa.vercel.app"><img src="../assets/gifs/132.gif" width="100%" alt="The Waking River"></a><br>
 <b><a href="https://rivergame-kappa.vercel.app">The Waking River</a></b><br>
@@ -425,6 +431,14 @@
 <sub>Fable 5.2, Opus 5.5, Crayon, three.js로 만든 비행 퀘스트 게임.</sub><br>
 <sub><a href="https://fablelist.000ooo.ooo/ko/prompts/?w=skywake&ref=gh"><b>✨ 프롬프트 받기</b></a></sub>
 </td>
+</tr>
+<tr>
+<td width="33%" valign="top">
+<a href="https://ballpoint-dominion.vercel.app/"><img src="../assets/gifs/390.gif" width="100%" alt="Ballpoint Dominion"></a><br>
+<b><a href="https://ballpoint-dominion.vercel.app/">Ballpoint Dominion</a></b><br>
+<sub>🆕 · <a href="https://x.com/kevin_t_ngo">@kevin_t_ngo</a> · ♥ 78 · <a href="https://x.com/kevin_t_ngo/status/2124669366512001493">▶ 영상</a></sub><br>
+<sub>종이 한 장 위에서 벌어지는 실시간 전략 게임. Sunrise 또는 Dusk 진영을 골라 잉크를 모으고 군대를 그려 페이지를 차지하세요.</sub>
+</td>
 <td width="33%" valign="top">
 <a href="https://app.usecrayon.ai/play/0cd7624e-1297-417e-a5be-b3c3036a496a"><img src="../assets/gifs/249.gif" width="100%" alt="KUMOKIRI"></a><br>
 <b><a href="https://app.usecrayon.ai/play/0cd7624e-1297-417e-a5be-b3c3036a496a">KUMOKIRI</a></b><br>
@@ -432,14 +446,14 @@
 <sub>Fable 5.2, Crayon, three.js로 만든 회화풍 사무라이 게임.</sub><br>
 <sub><a href="https://fablelist.000ooo.ooo/ko/prompts/?w=kumokiri&ref=gh"><b>✨ 프롬프트 받기</b></a></sub>
 </td>
-</tr>
-<tr>
 <td width="33%" valign="top">
 <a href="http://drift.harma.cc/en"><img src="../assets/gifs/363.gif" width="100%" alt="DRIFT: Veresk-9"></a><br>
 <b><a href="http://drift.harma.cc/en">DRIFT: Veresk-9</a></b><br>
-<sub>🆕 · <a href="https://x.com/Rencrypta">@Rencrypta</a> · ♥ 72 · <a href="https://x.com/Rencrypta/status/2123527249064321465">게시물</a></sub><br>
+<sub><a href="https://x.com/Rencrypta">@Rencrypta</a> · ♥ 72 · <a href="https://x.com/Rencrypta/status/2123527249064321465">게시물</a></sub><br>
 <sub>브라우저에서 하는 1인칭 3D 우주 퍼즐 게임. 소행성대의 죽은 채굴 기지로 날아가 비컨을 끄려는데, 승무원들은 대피한 적이 없었다.</sub>
 </td>
+</tr>
+<tr>
 <td width="33%" valign="top">
 <a href="https://claude.ai/artifact/3o9NKKmpezAFEan5SeVaxn"><img src="../assets/gifs/388.gif" width="100%" alt="ASHEN VIGIL"></a><br>
 <b><a href="https://claude.ai/artifact/3o9NKKmpezAFEan5SeVaxn">ASHEN VIGIL</a></b><br>
@@ -453,8 +467,6 @@
 <sub>Destiny에서 영감을 받은 FPS. 오픈 소스이며 리믹스 가능.</sub><br>
 <sub><a href="https://fablelist.000ooo.ooo/ko/prompts/?w=ringfall&ref=gh"><b>✨ 프롬프트 받기</b></a></sub>
 </td>
-</tr>
-<tr>
 <td width="33%" valign="top">
 <a href="https://save-the-world-fable.vercel.app/"><img src="../assets/gifs/202.gif" width="100%" alt="Save the World"></a><br>
 <b><a href="https://save-the-world-fable.vercel.app/">Save the World</a></b><br>
@@ -462,6 +474,8 @@
 <sub>거리를 만들고, 3D 모델과 사운드를 찾고, 트레일러를 녹화하려고 직접 게임까지 플레이했습니다. 노트북에서 가장 잘 보입니다.</sub><br>
 <sub><a href="https://fablelist.000ooo.ooo/ko/prompts/?w=save-the-world&ref=gh"><b>✨ 프롬프트 받기</b></a></sub>
 </td>
+</tr>
+<tr>
 <td width="33%" valign="top">
 <a href="https://www.spawn.co/@abbidabbi/pogo-riot"><img src="../assets/gifs/263.gif" width="100%" alt="Pogo Riot"></a><br>
 <b><a href="https://www.spawn.co/@abbidabbi/pogo-riot">Pogo Riot</a></b><br>
@@ -474,15 +488,15 @@
 <sub><a href="https://x.com/PhyrexNi">@PhyrexNi</a> · ♥ 59 · <a href="https://x.com/PhyrexNi/status/2122602578978709908">게시물</a></sub><br>
 <sub>스테이지 8개, 난이도 5단계, 특수 캐릭터 카드 뽑기가 있는 타워 디펜스 테스트 빌드. PC와 모바일 브라우저에서 돌아가며 가로 화면이 가장 좋다.</sub>
 </td>
-</tr>
-<tr>
 <td width="33%" valign="top">
 <a href="https://wavedash.com/games/ink-flight"><img src="../assets/gifs/364.gif" width="100%" alt="Ink Flight"></a><br>
 <b><a href="https://wavedash.com/games/ink-flight">Ink Flight</a></b><br>
-<sub>🆕 · <a href="https://x.com/prasenx">@prasenx</a> · ♥ 58 · <a href="https://x.com/prasenx/status/2123467881170243808">▶ 영상</a></sub><br>
+<sub><a href="https://x.com/prasenx">@prasenx</a> · ♥ 58 · <a href="https://x.com/prasenx/status/2123467881170243808">▶ 영상</a></sub><br>
 <sub>접은 종이비행기를 타고 전부 코드로 그린 세계를 난다. 이미지도 3D 모델도 없이 브라우저에서 바로 플레이.</sub><br>
 <sub><a href="https://github.com/StarKnightt/ink-flight">소스 코드</a></sub>
 </td>
+</tr>
+<tr>
 <td width="33%" valign="top">
 <a href="https://samg-coder.github.io/solstice-racing/"><img src="../assets/gifs/257.gif" width="100%" alt="Kestrel Head — Solstice racing"></a><br>
 <b><a href="https://samg-coder.github.io/solstice-racing/">Kestrel Head — Solstice racing</a></b><br>
@@ -498,8 +512,6 @@
 <sub>모든 프레임을 종이 위의 먹처럼 코드로 붓질했습니다. 보스는 레벨을 지우고, 당신의 검은 붓입니다.</sub><br>
 <sub><a href="https://fablelist.000ooo.ooo/ko/prompts/?w=hitofude&ref=gh"><b>✨ 프롬프트 받기</b></a></sub>
 </td>
-</tr>
-<tr>
 <td width="33%" valign="top">
 <a href="https://claude.ai/artifact/UD9pGEN4QFA8F5EadRw8eL"><img src="../assets/gifs/189.gif" width="100%" alt="Midnight Pass"></a><br>
 <b><a href="https://claude.ai/artifact/UD9pGEN4QFA8F5EadRw8eL">Midnight Pass</a></b><br>
@@ -507,6 +519,8 @@
 <sub>HTML 파일 하나, 603줄, 에셋 0개: 실제 드리프트 물리, 생성된 산, 합성된 엔진음과 타이어 소리.</sub><br>
 <sub><a href="https://fablelist.000ooo.ooo/ko/prompts/?w=midnight-pass&ref=gh"><b>✨ 프롬프트 받기</b></a></sub>
 </td>
+</tr>
+<tr>
 <td width="33%" valign="top">
 <a href="https://higgsfield.ai/@higgsfield.studio/blogs/fable-5-2-built-this-rpg-from-pure-code-here-s-every-step"><img src="../assets/gifs/022.gif" width="100%" alt="VOWLORN"></a><br>
 <b><a href="https://higgsfield.ai/@higgsfield.studio/blogs/fable-5-2-built-this-rpg-from-pure-code-here-s-every-step">VOWLORN</a></b><br>
@@ -522,14 +536,14 @@
 <sub>파란 의자로 가득한 평화로운 마을을 파괴하세요. 네, 유모차도 소용돌이로 빨아들일 수 있어요.</sub><br>
 <sub><a href="https://fablelist.000ooo.ooo/ko/prompts/?w=chairmageddon&ref=gh"><b>✨ 프롬프트 받기</b></a></sub>
 </td>
-</tr>
-<tr>
 <td width="33%" valign="top">
 <a href="https://turbo-stack-nine.vercel.app"><img src="../assets/gifs/380.gif" width="100%" alt="Turbo Stack"></a><br>
 <b><a href="https://turbo-stack-nine.vercel.app">Turbo Stack</a></b><br>
-<sub>🆕 · <a href="https://x.com/blueemi99">@blueemi99</a> · ♥ 45 · <a href="https://x.com/blueemi99/status/2124207899501101247">▶ 영상</a></sub><br>
+<sub>🆕 · <a href="https://x.com/blueemi99">@blueemi99</a> · ♥ 48 · <a href="https://x.com/blueemi99/status/2124207899501101247">▶ 영상</a></sub><br>
 <sub>스프라이트 스태킹으로 그린 레이싱 게임. 픽셀 아트를 여러 겹 쌓아 자동차를 어느 각도에서든 볼 수 있습니다.</sub>
 </td>
+</tr>
+<tr>
 <td width="33%" valign="top">
 <a href="https://claude.ai/artifact/4nPXUKJjQWNsZEHVNmXXCt"><img src="../assets/gifs/017.gif" width="100%" alt="Stray Cat"></a><br>
 <b><a href="https://claude.ai/artifact/4nPXUKJjQWNsZEHVNmXXCt">Stray Cat</a></b><br>
@@ -544,14 +558,14 @@
 <sub>하룻밤 만에 만든 게임플레이 데모.</sub><br>
 <sub><a href="https://fablelist.000ooo.ooo/ko/prompts/?w=farewell-light&ref=gh"><b>✨ 프롬프트 받기</b></a></sub>
 </td>
-</tr>
-<tr>
 <td width="33%" valign="top">
 <a href="https://fowllabs.com/fable-5-2/knock-it-off/"><img src="../assets/gifs/273.gif" width="100%" alt="Knock It Off"></a><br>
 <b><a href="https://fowllabs.com/fable-5-2/knock-it-off/">Knock It Off</a></b><br>
 <sub><a href="https://x.com/argofowl">@argofowl</a> · ♥ 43 · <a href="https://x.com/argofowl/status/2121276206683410839">▶ 영상</a></sub><br>
 <sub>새벽 3시의 고양이가 되어 주인을 깨우지 않고 책상 위 물건을 하나씩 떨어뜨리세요. 3D 모델 없는 HTML 파일 하나.</sub>
 </td>
+</tr>
+<tr>
 <td width="33%" valign="top">
 <a href="https://remix.gg/g/survivors"><img src="../assets/gifs/223.gif" width="100%" alt="Survivors"></a><br>
 <b><a href="https://remix.gg/g/survivors">Survivors</a></b><br>
@@ -566,8 +580,6 @@
 <sub>작은 행글라이더 게임: 상승 기류를 타고 목표 지점에 도달하세요.</sub><br>
 <sub><a href="https://fablelist.000ooo.ooo/ko/prompts/?w=thermal&ref=gh"><b>✨ 프롬프트 받기</b></a></sub>
 </td>
-</tr>
-<tr>
 <td width="33%" valign="top">
 <a href="https://www.aigameshare.com/games/animal-card-battle-game?play=1&mode=fullscreen"><img src="../assets/gifs/224.gif" width="100%" alt="Thimble Knights"></a><br>
 <b><a href="https://www.aigameshare.com/games/animal-card-battle-game?play=1&mode=fullscreen">Thimble Knights</a></b><br>
@@ -575,6 +587,8 @@
 <sub>실시간 동물 카드 배틀 게임.</sub><br>
 <sub><a href="https://x.com/_nilni/status/2120435983032447382">📝 제작자 공개 프롬프트 (무료)</a></sub>
 </td>
+</tr>
+<tr>
 <td width="33%" valign="top">
 <a href="https://tetriss22.github.io/harbor-gp/"><img src="../assets/gifs/227.gif" width="100%" alt="Harbor Lights Grand Prix"></a><br>
 <b><a href="https://tetriss22.github.io/harbor-gp/">Harbor Lights Grand Prix</a></b><br>
@@ -589,8 +603,6 @@
 <sub>three.js 2,000줄로 만든 나무 구슬 미로. Fable이 프레임당 55ms를 9ms로 직접 최적화.</sub><br>
 <sub><a href="https://fablelist.000ooo.ooo/ko/prompts/?w=tilt-labyrinth&ref=gh"><b>✨ 프롬프트 받기</b></a></sub>
 </td>
-</tr>
-<tr>
 <td width="33%" valign="top">
 <a href="https://claude.ai/artifact/QvSjL7Hexf3nKdUP9Zerr7"><img src="../assets/gifs/184.gif" width="100%" alt="격투 게임 (휴대폰에서 플레이)"></a><br>
 <b><a href="https://claude.ai/artifact/QvSjL7Hexf3nKdUP9Zerr7">격투 게임 (휴대폰에서 플레이)</a></b><br>
@@ -598,6 +610,8 @@
 <sub>하룻밤 동안 반복 개선한 격투 게임, 모바일 브라우저에서 플레이 가능.</sub><br>
 <sub><a href="https://fablelist.000ooo.ooo/ko/prompts/?w=fighting-game-plays-on-phones&ref=gh"><b>✨ 프롬프트 받기</b></a></sub>
 </td>
+</tr>
+<tr>
 <td width="33%" valign="top">
 <a href="https://rust4x4.com/"><img src="../assets/gifs/272.gif" width="100%" alt="Aussie Outback 4x4"></a><br>
 <b><a href="https://rust4x4.com/">Aussie Outback 4x4</a></b><br>
@@ -610,8 +624,6 @@
 <sub><a href="https://x.com/mikenevermiss">@mikenevermiss</a> · ♥ 28 · <a href="https://x.com/mikenevermiss/status/2121900977959612500">▶ 영상</a></sub><br>
 <sub>프롬프트 하나로 만든 오픈월드 드라이빙 게임. 도시를 질주하고, 차에 부딪히고, 경찰에게 쫓깁니다. 모든 차, 건물, 텍스처, 사운드가 코드로 생성됩니다.</sub>
 </td>
-</tr>
-<tr>
 <td width="33%" valign="top">
 <a href="https://monstermath.ai-created.com"><img src="../assets/gifs/300.gif" width="100%" alt="Monster Math"></a><br>
 <b><a href="https://monstermath.ai-created.com">Monster Math</a></b><br>
@@ -619,6 +631,8 @@
 <sub>포켓몬에서 영감을 받은 K-5 수학 연습·튜터링 게임. MIT 오픈소스로 온라인에서 하거나 로컬에서 실행할 수 있다.</sub><br>
 <sub><a href="https://github.com/TheMarco/monstermath">소스 코드</a></sub>
 </td>
+</tr>
+<tr>
 <td width="33%" valign="top">
 <a href="https://the-vast-horizon.vercel.app"><img src="../assets/gifs/228.gif" width="100%" alt="The Vast Horizon"></a><br>
 <b><a href="https://the-vast-horizon.vercel.app">The Vast Horizon</a></b><br>
@@ -633,8 +647,6 @@
 <sub>단순한 플랫폼 게임처럼 보이지만, 깃대에 도착하기 전까지만 그렇습니다.</sub><br>
 <sub><a href="https://fablelist.000ooo.ooo/ko/prompts/?w=hoppy-meadow&ref=gh"><b>✨ 프롬프트 받기</b></a></sub>
 </td>
-</tr>
-<tr>
 <td width="33%" valign="top">
 <a href="https://remix.gg/g/brix-84"><img src="../assets/gifs/230.gif" width="100%" alt="BRIX '84"></a><br>
 <b><a href="https://remix.gg/g/brix-84">BRIX '84</a></b><br>
@@ -642,6 +654,8 @@
 <sub>두 번째 파워업 이후부터 정신없어지는 벽돌깨기.</sub><br>
 <sub><a href="https://fablelist.000ooo.ooo/ko/prompts/?w=brix-84&ref=gh"><b>✨ 프롬프트 받기</b></a></sub>
 </td>
+</tr>
+<tr>
 <td width="33%" valign="top">
 <a href="https://claude.ai/artifact/FpdQ81sJs1KiV1a6JCY4jj"><img src="../assets/gifs/188.gif" width="100%" alt="오픈 월드 카트 어드벤처"></a><br>
 <b><a href="https://claude.ai/artifact/FpdQ81sJs1KiV1a6JCY4jj">오픈 월드 카트 어드벤처</a></b><br>
@@ -656,8 +670,6 @@
 <sub>달에서 지구로 점프하세요. 그냥 점프만 하면 됩니다.</sub><br>
 <sub><a href="https://fablelist.000ooo.ooo/ko/prompts/?w=giant-leap&ref=gh"><b>✨ 프롬프트 받기</b></a></sub>
 </td>
-</tr>
-<tr>
 <td width="33%" valign="top">
 <a href="https://qiaomu.t5t6.com/irondusk-yard-7/"><img src="../assets/gifs/187.gif" width="100%" alt="IRONDUSK — Yard 7"></a><br>
 <b><a href="https://qiaomu.t5t6.com/irondusk-yard-7/">IRONDUSK — Yard 7</a></b><br>
@@ -666,6 +678,8 @@
 <sub><a href="https://qiaomu.t5t6.com/3d/">3D brick breaker</a></sub><br>
 <sub><a href="https://x.com/vista8/status/2120383046239285264">📝 제작자 공개 프롬프트 (무료)</a></sub>
 </td>
+</tr>
+<tr>
 <td width="33%" valign="top">
 <a href="https://www.nightclub-driftspeed.xyz/"><img src="../assets/gifs/251.gif" width="100%" alt="NightClub: Drift & Speed"></a><br>
 <b><a href="https://www.nightclub-driftspeed.xyz/">NightClub: Drift & Speed</a></b><br>
@@ -679,6 +693,12 @@
 <sub><a href="https://x.com/goncalo_canhoto">@goncalo_canhoto</a> · ♥ 19 · <a href="https://x.com/goncalo_canhoto/status/2120530199649432063">▶ 영상</a></sub><br>
 <sub>포르투갈을 배경으로 한 오버쿡드 스타일 협동 요리 게임, 1~4명, 모바일에서도 작동.</sub><br>
 <sub><a href="https://fablelist.000ooo.ooo/ko/prompts/?w=cozy-bakery&ref=gh"><b>✨ 프롬프트 받기</b></a></sub>
+</td>
+<td width="33%" valign="top">
+<a href="https://www.spawn.co/@abbidabbi/shark-riders"><img src="../assets/gifs/391.gif" width="100%" alt="Shark Riders"></a><br>
+<b><a href="https://www.spawn.co/@abbidabbi/shark-riders">Shark Riders</a></b><br>
+<sub>🆕 · <a href="https://x.com/Pumpnasterr">@Pumpnasterr</a> · ♥ 19 · <a href="https://x.com/Pumpnasterr/status/2124565052766216236">▶ 영상</a></sub><br>
+<sub>백상아리를 타고 싸우는 1인칭 슈팅 게임. 상어 등 위에서 쏘고, 물어뜯고, 작살로 적을 잡고, 잠수해서 숨을 수 있습니다. 브라우저에서 실행됩니다.</sub>
 </td>
 </tr>
 <tr>
@@ -741,7 +761,7 @@
 <td width="33%" valign="top">
 <a href="https://room13.srv1903550.hstgr.cloud"><img src="../assets/gifs/367.gif" width="100%" alt="Room 13"></a><br>
 <b><a href="https://room13.srv1903550.hstgr.cloud">Room 13</a></b><br>
-<sub>🆕 · <a href="https://x.com/MartinaBuilds">@MartinaBuilds</a> · ♥ 9 · <a href="https://x.com/MartinaBuilds/status/2123424275462053893">▶ 영상</a></sub><br>
+<sub><a href="https://x.com/MartinaBuilds">@MartinaBuilds</a> · ♥ 9 · <a href="https://x.com/MartinaBuilds/status/2123424275462053893">▶ 영상</a></sub><br>
 <sub>미스터리 이야기로 영어를 배우는 인터랙티브 게임. 단어를 더블클릭하면 뜻이 나오고, 문장을 번역할 수 있으며, 다 읽으면 독해 퀴즈를 푼다.</sub>
 </td>
 </tr>

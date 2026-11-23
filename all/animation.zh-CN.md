@@ -22,7 +22,7 @@
 <td width="33%" valign="top">
 <a href="https://github.com/moritzkremb/robovac-pov"><img src="../assets/gifs/334.gif" width="100%" alt="Robovac POV 扫地机器人视角短片"></a><br>
 <b><a href="https://github.com/moritzkremb/robovac-pov">Robovac POV 扫地机器人视角短片</a></b><br>
-<sub><a href="https://x.com/moritzkremb">@moritzkremb</a> · ♥ 461 · <a href="https://x.com/moritzkremb/status/2122702891819377117">▶ 视频</a></sub><br>
+<sub><a href="https://x.com/moritzkremb">@moritzkremb</a> · ♥ 462 · <a href="https://x.com/moritzkremb/status/2122702891819377117">▶ 视频</a></sub><br>
 <sub>53 秒扫地机器人第一视角的写实短片，全用代码生成：C++ 写的场景和 GPU 路径追踪器，模拟镜头、对焦、运动模糊和颗粒，地毯约 90 万根纤维，声音用 Python 合成</sub>
 </td>
 </tr>
@@ -58,7 +58,7 @@
 <td width="33%" valign="top">
 <a href="https://github.com/anstapnever/one-sweep"><img src="../assets/gifs/051.gif" width="100%" alt="One Sweep 78 秒动漫打斗"></a><br>
 <b><a href="https://github.com/anstapnever/one-sweep">One Sweep 78 秒动漫打斗</a></b><br>
-<sub><a href="https://x.com/anstapnever">@anstapnever</a> · ♥ 251 · <a href="https://x.com/anstapnever/status/2119772039037014524">▶ 视频</a></sub><br>
+<sub><a href="https://x.com/anstapnever">@anstapnever</a> · ♥ 250 · <a href="https://x.com/anstapnever/status/2119772039037014524">▶ 视频</a></sub><br>
 <sub>纯 Three.js 代码，6 组 Agent 并行；作者写的是「Fable 5.5」</sub><br>
 <sub><a href="https://x.com/anstapnever/status/2119772039037014524">📝 作者公开的提示词（免费）</a></sub>
 </td>
