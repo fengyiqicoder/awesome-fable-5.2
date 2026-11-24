@@ -94,7 +94,7 @@ The main page shows at most the top 24 posts with 100+ likes; this page has ever
 <td width="33%" valign="top">
 <a href="https://frontier.every.to/experiments/ambient-town"><img src="../assets/gifs/148.gif" width="100%" alt="Ambient Town"></a><br>
 <b><a href="https://frontier.every.to/experiments/ambient-town">Ambient Town</a></b><br>
-<sub><a href="https://x.com/kieranklaassen">@kieranklaassen</a> · ♥ 896 · <a href="https://x.com/kieranklaassen/status/2119868196773929160">▶ Video</a></sub><br>
+<sub><a href="https://x.com/kieranklaassen">@kieranklaassen</a> · ♥ 895 · <a href="https://x.com/kieranklaassen/status/2119868196773929160">▶ Video</a></sub><br>
 <sub>An ambient DAW built over a week of nights by a former film composer: Ableton Push support, mics, effects, a synth and an agent that composes with you. Click "Try it" on the page.</sub><br>
 <sub><a href="https://fablelist.000ooo.ooo/prompts/?w=ambient-town&ref=gh"><b>✨ Get the prompt</b></a></sub>
 </td>
@@ -137,7 +137,7 @@ The main page shows at most the top 24 posts with 100+ likes; this page has ever
 <td width="33%" valign="top">
 <a href="https://claude.ai/artifact/4P1urBdptp6gWiJo3R6Vpv"><img src="../assets/gifs/333.gif" width="100%" alt="Breakcore video sampler"></a><br>
 <b><a href="https://claude.ai/artifact/4P1urBdptp6gWiJo3R6Vpv">Breakcore video sampler</a></b><br>
-<sub><a href="https://x.com/parhelion318">@parhelion318</a> · ♥ 542 · <a href="https://x.com/parhelion318/status/2122723067533398064">▶ Video</a></sub><br>
+<sub><a href="https://x.com/parhelion318">@parhelion318</a> · ♥ 541 · <a href="https://x.com/parhelion318/status/2122723067533398064">▶ Video</a></sub><br>
 <sub>A browser sampler that chops video clips and rearranges them into breakcore rhythms.</sub>
 </td>
 </tr>
@@ -151,7 +151,7 @@ The main page shows at most the top 24 posts with 100+ likes; this page has ever
 <td width="33%" valign="top">
 <a href="https://claude.ai/artifact/8yKUbL5KQgvfqcWH6UgZrq"><img src="../assets/gifs/359.gif" width="100%" alt="Kastle Sim"></a><br>
 <b><a href="https://claude.ai/artifact/8yKUbL5KQgvfqcWH6UgZrq">Kastle Sim</a></b><br>
-<sub><a href="https://x.com/parhelion318">@parhelion318</a> · ♥ 466 · <a href="https://x.com/parhelion318/status/2123344270732202421">▶ Video</a></sub><br>
+<sub><a href="https://x.com/parhelion318">@parhelion318</a> · ♥ 467 · <a href="https://x.com/parhelion318/status/2123344270732202421">▶ Video</a></sub><br>
 <sub>A browser simulation of the Bastl Kastle mini modular synth: patch the cables, turn the knobs and it makes sound.</sub>
 </td>
 <td width="33%" valign="top">
@@ -174,7 +174,7 @@ The main page shows at most the top 24 posts with 100+ likes; this page has ever
 <td width="33%" valign="top">
 <a href="https://rubber-hose-ui.vercel.app"><img src="../assets/gifs/332.gif" width="100%" alt="Rubber Hose UI: controls as 1930s cartoon characters"></a><br>
 <b><a href="https://rubber-hose-ui.vercel.app">Rubber Hose UI: controls as 1930s cartoon characters</a></b><br>
-<sub><a href="https://x.com/crtvTeknologist">@crtvTeknologist</a> · ♥ 355 · <a href="https://x.com/crtvTeknologist/status/2122433522166124616">▶ Video</a></sub><br>
+<sub><a href="https://x.com/crtvTeknologist">@crtvTeknologist</a> · ♥ 354 · <a href="https://x.com/crtvTeknologist/status/2122433522166124616">▶ Video</a></sub><br>
 <sub>Eleven web controls drawn as rubber-hose cartoons: the slider is a trombone, the toast is a toaster, and the button gets a black eye each press. Vanilla JS and canvas, no dependencies, open source.</sub><br>
 <sub><a href="https://github.com/finktheartist/rubber-hose-ui">Source</a></sub>
 </td>
@@ -267,7 +267,7 @@ The main page shows at most the top 24 posts with 100+ likes; this page has ever
 <td width="33%" valign="top">
 <a href="https://andreysuperiorgit.github.io/v8/"><img src="../assets/gifs/373.gif" width="100%" alt="V8 Four-Stroke"></a><br>
 <b><a href="https://andreysuperiorgit.github.io/v8/">V8 Four-Stroke</a></b><br>
-<sub><a href="https://x.com/andreysuperior">@andreysuperior</a> · ♥ 73 · <a href="https://x.com/andreysuperior/status/2123928682603430384">▶ Video</a></sub><br>
+<sub><a href="https://x.com/andreysuperior">@andreysuperior</a> · ♥ 74 · <a href="https://x.com/andreysuperior/status/2123928682603430384">▶ Video</a></sub><br>
 <sub>A 7.0 litre V8 you can rev in a browser tab: pistons, crank, camshaft and 16 valves move from real dimensions and the headers glow as revs climb. One 124 KB HTML file, 1 prompt and 23 follow-ups.</sub>
 </td>
 </tr>
@@ -310,7 +310,7 @@ The main page shows at most the top 24 posts with 100+ likes; this page has ever
 <td width="33%" valign="top">
 <a href="https://zkevinbai.com/apps/tesla-fsd"><img src="../assets/gifs/394.gif" width="100%" alt="How FSD Drives"></a><br>
 <b><a href="https://zkevinbai.com/apps/tesla-fsd">How FSD Drives</a></b><br>
-<sub>🆕 · <a href="https://x.com/zkevinbai">@zkevinbai</a> · ♥ 32 · <a href="https://x.com/zkevinbai/status/2124626274367005100">▶ Video</a></sub><br>
+<sub>🆕 · <a href="https://x.com/zkevinbai">@zkevinbai</a> · ♥ 31 · <a href="https://x.com/zkevinbai/status/2124626274367005100">▶ Video</a></sub><br>
 <sub>A full simulation of Tesla FSD. See what each of the seven cameras sees, then take the wheel yourself.</sub>
 </td>
 </tr>

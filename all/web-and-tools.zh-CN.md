@@ -94,7 +94,7 @@
 <td width="33%" valign="top">
 <a href="https://frontier.every.to/experiments/ambient-town"><img src="../assets/gifs/148.gif" width="100%" alt="Ambient Town 氛围音乐工作站"></a><br>
 <b><a href="https://frontier.every.to/experiments/ambient-town">Ambient Town 氛围音乐工作站</a></b><br>
-<sub><a href="https://x.com/kieranklaassen">@kieranklaassen</a> · ♥ 896 · <a href="https://x.com/kieranklaassen/status/2119868196773929160">▶ 视频</a></sub><br>
+<sub><a href="https://x.com/kieranklaassen">@kieranklaassen</a> · ♥ 895 · <a href="https://x.com/kieranklaassen/status/2119868196773929160">▶ 视频</a></sub><br>
 <sub>前电影配乐师花一周晚上做的 DAW：支持 Ableton Push、多路麦克风、效果器，还有一起作曲的 Agent；页面里点 Try it</sub><br>
 <sub><a href="https://fablelist.000ooo.ooo/zh/prompts/?w=ambient-town&ref=gh"><b>✨ 获取提示词</b></a></sub>
 </td>
@@ -137,7 +137,7 @@
 <td width="33%" valign="top">
 <a href="https://claude.ai/artifact/4P1urBdptp6gWiJo3R6Vpv"><img src="../assets/gifs/333.gif" width="100%" alt="Breakcore 视频采样器"></a><br>
 <b><a href="https://claude.ai/artifact/4P1urBdptp6gWiJo3R6Vpv">Breakcore 视频采样器</a></b><br>
-<sub><a href="https://x.com/parhelion318">@parhelion318</a> · ♥ 542 · <a href="https://x.com/parhelion318/status/2122723067533398064">▶ 视频</a></sub><br>
+<sub><a href="https://x.com/parhelion318">@parhelion318</a> · ♥ 541 · <a href="https://x.com/parhelion318/status/2122723067533398064">▶ 视频</a></sub><br>
 <sub>在浏览器里把视频片段切碎、重排成 breakcore 节奏的采样器</sub>
 </td>
 </tr>
@@ -151,7 +151,7 @@
 <td width="33%" valign="top">
 <a href="https://claude.ai/artifact/8yKUbL5KQgvfqcWH6UgZrq"><img src="../assets/gifs/359.gif" width="100%" alt="Kastle Sim 口袋模块合成器模拟"></a><br>
 <b><a href="https://claude.ai/artifact/8yKUbL5KQgvfqcWH6UgZrq">Kastle Sim 口袋模块合成器模拟</a></b><br>
-<sub><a href="https://x.com/parhelion318">@parhelion318</a> · ♥ 466 · <a href="https://x.com/parhelion318/status/2123344270732202421">▶ 视频</a></sub><br>
+<sub><a href="https://x.com/parhelion318">@parhelion318</a> · ♥ 467 · <a href="https://x.com/parhelion318/status/2123344270732202421">▶ 视频</a></sub><br>
 <sub>在浏览器里模拟 Bastl Kastle 迷你模块合成器，能接线、拧旋钮出声</sub>
 </td>
 <td width="33%" valign="top">
@@ -174,7 +174,7 @@
 <td width="33%" valign="top">
 <a href="https://rubber-hose-ui.vercel.app"><img src="../assets/gifs/332.gif" width="100%" alt="Rubber Hose UI 1930 年代卡通风控件"></a><br>
 <b><a href="https://rubber-hose-ui.vercel.app">Rubber Hose UI 1930 年代卡通风控件</a></b><br>
-<sub><a href="https://x.com/crtvTeknologist">@crtvTeknologist</a> · ♥ 355 · <a href="https://x.com/crtvTeknologist/status/2122433522166124616">▶ 视频</a></sub><br>
+<sub><a href="https://x.com/crtvTeknologist">@crtvTeknologist</a> · ♥ 354 · <a href="https://x.com/crtvTeknologist/status/2122433522166124616">▶ 视频</a></sub><br>
 <sub>11 个网页控件全是橡皮管卡通角色：滑块是长号，提示框是烤面包机，按钮每按一次多一只黑眼圈；原生 JS 加 canvas，无依赖，开源</sub><br>
 <sub><a href="https://github.com/finktheartist/rubber-hose-ui">源码</a></sub>
 </td>
@@ -267,7 +267,7 @@
 <td width="33%" valign="top">
 <a href="https://andreysuperiorgit.github.io/v8/"><img src="../assets/gifs/373.gif" width="100%" alt="V8 Four-Stroke 能轰油门的 V8 发动机"></a><br>
 <b><a href="https://andreysuperiorgit.github.io/v8/">V8 Four-Stroke 能轰油门的 V8 发动机</a></b><br>
-<sub><a href="https://x.com/andreysuperior">@andreysuperior</a> · ♥ 73 · <a href="https://x.com/andreysuperior/status/2123928682603430384">▶ 视频</a></sub><br>
+<sub><a href="https://x.com/andreysuperior">@andreysuperior</a> · ♥ 74 · <a href="https://x.com/andreysuperior/status/2123928682603430384">▶ 视频</a></sub><br>
 <sub>浏览器里一台能轰油门的 7.0 升 V8：活塞、曲轴、凸轮轴和 16 个气门按真实尺寸运动，按 1-8-7-2-6-5-4-3 点火，排气管越转越红；一个 124 KB 的 HTML 文件，1 句提示词加 23 次追问</sub>
 </td>
 </tr>
@@ -310,7 +310,7 @@
 <td width="33%" valign="top">
 <a href="https://zkevinbai.com/apps/tesla-fsd"><img src="../assets/gifs/394.gif" width="100%" alt="How FSD Drives 特斯拉自动驾驶眼里的路"></a><br>
 <b><a href="https://zkevinbai.com/apps/tesla-fsd">How FSD Drives 特斯拉自动驾驶眼里的路</a></b><br>
-<sub>🆕 · <a href="https://x.com/zkevinbai">@zkevinbai</a> · ♥ 32 · <a href="https://x.com/zkevinbai/status/2124626274367005100">▶ 视频</a></sub><br>
+<sub>🆕 · <a href="https://x.com/zkevinbai">@zkevinbai</a> · ♥ 31 · <a href="https://x.com/zkevinbai/status/2124626274367005100">▶ 视频</a></sub><br>
 <sub>一套完整的特斯拉 FSD 模拟，七个摄像头各自看到什么都能看，还可以自己接手方向盘</sub>
 </td>
 </tr>

@@ -5,8 +5,8 @@
 <h3>Claude Fable 5.2 で作られた、実際に開いて遊べる作品</h3>
 
 [![Awesome](https://awesome.re/badge.svg)](https://awesome.re)
-[![Works](https://img.shields.io/badge/公開作品-239-6b4eff)](#-ゲーム)
-[![Demos](https://img.shields.io/badge/動画デモ-150-ff7a59)](#-動画デモ)
+[![Works](https://img.shields.io/badge/公開作品-240-6b4eff)](#-ゲーム)
+[![Demos](https://img.shields.io/badge/動画デモ-152-ff7a59)](#-動画デモ)
 [![Links checked](https://img.shields.io/badge/リンク確認-2026--11--24-2ea44f)](#-投稿貢献)
 [![License: CC0-1.0](https://img.shields.io/badge/License-CC0_1.0-lightgrey.svg)](LICENSE)
 
@@ -16,11 +16,11 @@
 
 </div>
 
-Claude Fable 5.2 で作られた公開作品 239 件と動画デモ 150 件。リンクは 2026-11-24 に確認済み。毎日更新、役立ったら ⭐ を。
+Claude Fable 5.2 で作られた公開作品 240 件と動画デモ 152 件。リンクは 2026-11-24 に確認済み。毎日更新、役立ったら ⭐ を。
 
 ## 📑 目次
 
-[⭐ 人気の作品](#-人気の作品) · [🆕 新着](#-新着) · [🎮 ゲーム](#-ゲーム) 112 · [🌍 3D ワールドとシーン](#-3d-ワールドとシーン) 51 · [🧰 Web ページとツール](#-web-ページとツール) 57 · [🎬 アニメーションと映像](#-アニメーションと映像) 19 · [📺 動画デモ](#-動画デモ) 150 · [🤝 投稿・貢献](#-投稿貢献)
+[⭐ 人気の作品](#-人気の作品) · [🆕 新着](#-新着) · [🎮 ゲーム](#-ゲーム) 113 · [🌍 3D ワールドとシーン](#-3d-ワールドとシーン) 51 · [🧰 Web ページとツール](#-web-ページとツール) 57 · [🎬 アニメーションと映像](#-アニメーションと映像) 19 · [📺 動画デモ](#-動画デモ) 152 · [🤝 投稿・貢献](#-投稿貢献)
 
 ## ⭐ 人気の作品
 
@@ -82,20 +82,21 @@ Claude Fable 5.2 で作られた公開作品 239 件と動画デモ 150 件。�
 <td width="33%" valign="top">
 <a href="https://thaxnay.com/ramayana/"><img src="assets/gifs/389.gif" width="100%" alt="Ramayana: The Sacred Fires"></a><br>
 <b><a href="https://thaxnay.com/ramayana/">Ramayana: The Sacred Fires</a></b><br>
-<sub>🆕 · <a href="https://x.com/Thaxnay">@Thaxnay</a> · ♥ 958 · <a href="https://x.com/Thaxnay/status/2124574054296219939">▶ 動画</a></sub><br>
+<sub>🆕 · <a href="https://x.com/Thaxnay">@Thaxnay</a> · ♥ 973 · <a href="https://x.com/Thaxnay/status/2124574054296219939">▶ 動画</a></sub><br>
 <sub>ラーマとなって広い谷を旅し、聖仙たちを守り、隠された秘密を探す三人称アクションアドベンチャー。PCでもスマホでもブラウザで遊べます。</sub>
+</td>
+<td width="33%" valign="top">
+<a href="https://kevintngo.github.io/cinderwatch/"><img src="assets/gifs/398.gif" width="100%" alt="Cinderwatch — HTMLファイル1つのタワーディフェンス"></a><br>
+<b><a href="https://kevintngo.github.io/cinderwatch/">Cinderwatch — HTMLファイル1つのタワーディフェンス</a></b><br>
+<sub>🆕 · <a href="https://x.com/kevin_t_ngo">@kevin_t_ngo</a> · ♥ 960 · <a href="https://x.com/kevin_t_ngo/status/2125119969109418333">▶ 動画</a></sub><br>
+<sub>HTMLファイル1つに収まる3Dアイソメトリックのタワーディフェンス。内蔵のAI司令官に防衛を任せることもできる。オープンソースで、ブラウザですぐ遊べる。</sub><br>
+<sub><a href="https://github.com/kevintngo/cinderwatch">ソースコード</a></sub>
 </td>
 <td width="33%" valign="top">
 <a href="https://ebb.tesana.com"><img src="assets/gifs/379.gif" width="100%" alt="EBB — 姿を変える水のプラットフォーマー"></a><br>
 <b><a href="https://ebb.tesana.com">EBB — 姿を変える水のプラットフォーマー</a></b><br>
-<sub>🆕 · <a href="https://x.com/Rubzem">@Rubzem</a> · ♥ 680 · <a href="https://x.com/Rubzem/status/2124142554371502140">▶ 動画</a></sub><br>
+<sub>🆕 · <a href="https://x.com/Rubzem">@Rubzem</a> · ♥ 683 · <a href="https://x.com/Rubzem/status/2124142554371502140">▶ 動画</a></sub><br>
 <sub>溶ける・凍る・浮かぶ水になってパズルを解く物理プラットフォーマー。すべてプロシージャル生成で 190 KB、1 時間で完成。</sub>
-</td>
-<td width="33%" valign="top">
-<a href="https://patch.gg/play/blendi/the-blue-hour"><img src="assets/gifs/387.gif" width="100%" alt="The Blue Hour — アールデコ調の夜の街"></a><br>
-<b><a href="https://patch.gg/play/blendi/the-blue-hour">The Blue Hour — アールデコ調の夜の街</a></b><br>
-<sub>🆕 · <a href="https://x.com/BlendiByl">@BlendiByl</a> · ♥ 634 · <a href="https://x.com/BlendiByl/status/2124439671006748853">▶ 動画</a></sub><br>
-<sub>アニメ版『バットマン』のアールデコ様式を再現した 3D シーン。すべてコードで描かれています。オープンソース。</sub>
 </td>
 </tr>
 </table>
@@ -235,7 +236,7 @@ Claude Fable 5.2 で作られた公開作品 239 件と動画デモ 150 件。�
 <td width="33%" valign="top">
 <a href="https://gtashenzhen.com"><img src="assets/gifs/377.gif" width="100%" alt="GTA Shenzhen"></a><br>
 <b><a href="https://gtashenzhen.com">GTA Shenzhen</a></b><br>
-<sub>🆕 · <a href="https://x.com/KinGao476942">@KinGao476942</a> · ♥ 987 · <a href="https://x.com/KinGao476942/status/2123967104601014521">▶ 動画</a></sub><br>
+<sub>🆕 · <a href="https://x.com/KinGao476942">@KinGao476942</a> · ♥ 1.0k · <a href="https://x.com/KinGao476942/status/2123967104601014521">▶ 動画</a></sub><br>
 <sub>OpenStreetMap のデータから作った深圳の街まるごと。建物 83,182 棟、道路 62,088 本。空を飛び、着地して車を運転し、好きな場所を検索でき、夜には街全体のライトショーも始められます。Fable 5.2 と Tripo で 3 日で制作。</sub>
 </td>
 </tr>
@@ -243,8 +244,15 @@ Claude Fable 5.2 で作られた公開作品 239 件と動画デモ 150 件。�
 <td width="33%" valign="top">
 <a href="https://thaxnay.com/ramayana/"><img src="assets/gifs/389.gif" width="100%" alt="Ramayana: The Sacred Fires"></a><br>
 <b><a href="https://thaxnay.com/ramayana/">Ramayana: The Sacred Fires</a></b><br>
-<sub>🆕 · <a href="https://x.com/Thaxnay">@Thaxnay</a> · ♥ 958 · <a href="https://x.com/Thaxnay/status/2124574054296219939">▶ 動画</a></sub><br>
+<sub>🆕 · <a href="https://x.com/Thaxnay">@Thaxnay</a> · ♥ 973 · <a href="https://x.com/Thaxnay/status/2124574054296219939">▶ 動画</a></sub><br>
 <sub>ラーマとなって広い谷を旅し、聖仙たちを守り、隠された秘密を探す三人称アクションアドベンチャー。PCでもスマホでもブラウザで遊べます。</sub>
+</td>
+<td width="33%" valign="top">
+<a href="https://kevintngo.github.io/cinderwatch/"><img src="assets/gifs/398.gif" width="100%" alt="Cinderwatch — HTMLファイル1つのタワーディフェンス"></a><br>
+<b><a href="https://kevintngo.github.io/cinderwatch/">Cinderwatch — HTMLファイル1つのタワーディフェンス</a></b><br>
+<sub>🆕 · <a href="https://x.com/kevin_t_ngo">@kevin_t_ngo</a> · ♥ 960 · <a href="https://x.com/kevin_t_ngo/status/2125119969109418333">▶ 動画</a></sub><br>
+<sub>HTMLファイル1つに収まる3Dアイソメトリックのタワーディフェンス。内蔵のAI司令官に防衛を任せることもできる。オープンソースで、ブラウザですぐ遊べる。</sub><br>
+<sub><a href="https://github.com/kevintngo/cinderwatch">ソースコード</a></sub>
 </td>
 <td width="33%" valign="top">
 <a href="https://claude.ai/artifact/MXxb36zKgN261ckbGhmNin"><img src="assets/gifs/002.gif" width="100%" alt="Three Games（Saltline · The Clockmaker's Heart · Tidewright）"></a><br>
@@ -254,38 +262,32 @@ Claude Fable 5.2 で作られた公開作品 239 件と動画デモ 150 件。�
 <sub><a href="https://claude.ai/artifact/6MjtQjf4ee1ZZjEpafaEpa">The Clockmaker's Heart</a> · <a href="https://claude.ai/artifact/JTgyEMn7sn1q2riWrMb7D4">Tidewright</a></sub><br>
 <sub><a href="https://fablelist.000ooo.ooo/ja/prompts/?w=three-games-saltline-the-clockmaker-s-heart-tidewright&ref=gh"><b>✨ プロンプトを入手</b></a></sub>
 </td>
-<td width="33%" valign="top">
-<a href="https://patch.gg/play/blendi/solar"><img src="assets/gifs/323.gif" width="100%" alt="Solar — 自由に飛び回れる小さな太陽系"></a><br>
-<b><a href="https://patch.gg/play/blendi/solar">Solar — 自由に飛び回れる小さな太陽系</a></b><br>
-<sub><a href="https://x.com/BlendiByl">@BlendiByl</a> · ♥ 800 · <a href="https://x.com/BlendiByl/status/2122673770607591855">▶ 動画</a></sub><br>
-<sub>Outer Wilds にインスパイア：本物の軌道と重力、惑星間を途切れずに飛行でき、すべての世界がコードで描かれています。オープンソース。</sub>
-</td>
 </tr>
 <tr>
 <td width="33%" valign="top">
+<a href="https://patch.gg/play/blendi/solar"><img src="assets/gifs/323.gif" width="100%" alt="Solar — 自由に飛び回れる小さな太陽系"></a><br>
+<b><a href="https://patch.gg/play/blendi/solar">Solar — 自由に飛び回れる小さな太陽系</a></b><br>
+<sub><a href="https://x.com/BlendiByl">@BlendiByl</a> · ♥ 801 · <a href="https://x.com/BlendiByl/status/2122673770607591855">▶ 動画</a></sub><br>
+<sub>Outer Wilds にインスパイア：本物の軌道と重力、惑星間を途切れずに飛行でき、すべての世界がコードで描かれています。オープンソース。</sub>
+</td>
+<td width="33%" valign="top">
 <a href="https://patch.gg/blendi/coloured-pencil"><img src="assets/gifs/247.gif" width="100%" alt="Coloured Pencil"></a><br>
 <b><a href="https://patch.gg/blendi/coloured-pencil">Coloured Pencil</a></b><br>
-<sub><a href="https://x.com/BlendiByl">@BlendiByl</a> · ♥ 766 · <a href="https://x.com/BlendiByl/status/2121130385723789637">▶ 動画</a></sub><br>
+<sub><a href="https://x.com/BlendiByl">@BlendiByl</a> · ♥ 765 · <a href="https://x.com/BlendiByl/status/2121130385723789637">▶ 動画</a></sub><br>
 <sub>色鉛筆風ゲームの一場面。すべての面の陰影も町全体もコード。オープンソース。</sub><br>
 <sub><a href="https://fablelist.000ooo.ooo/ja/prompts/?w=coloured-pencil&ref=gh"><b>✨ プロンプトを入手</b></a></sub>
 </td>
 <td width="33%" valign="top">
 <a href="https://www.spawn.co/@mattshumer/voxel-engine"><img src="assets/gifs/004.gif" width="100%" alt="Voxel Engine"></a><br>
 <b><a href="https://www.spawn.co/@mattshumer/voxel-engine">Voxel Engine</a></b><br>
-<sub><a href="https://x.com/mattshumer_">@mattshumer_</a> · ♥ 744 · <a href="https://x.com/mattshumer_/status/2119870965106483384">▶ 動画</a></sub><br>
+<sub><a href="https://x.com/mattshumer_">@mattshumer_</a> · ♥ 743 · <a href="https://x.com/mattshumer_/status/2119870965106483384">▶ 動画</a></sub><br>
 <sub>たった 1 つのプロンプトで構築。音を出してどうぞ。</sub><br>
 <sub><a href="https://fablelist.000ooo.ooo/ja/prompts/?w=voxel-engine&ref=gh"><b>✨ プロンプトを入手</b></a></sub>
-</td>
-<td width="33%" valign="top">
-<a href="https://ebb.tesana.com"><img src="assets/gifs/379.gif" width="100%" alt="EBB — 姿を変える水のプラットフォーマー"></a><br>
-<b><a href="https://ebb.tesana.com">EBB — 姿を変える水のプラットフォーマー</a></b><br>
-<sub>🆕 · <a href="https://x.com/Rubzem">@Rubzem</a> · ♥ 680 · <a href="https://x.com/Rubzem/status/2124142554371502140">▶ 動画</a></sub><br>
-<sub>溶ける・凍る・浮かぶ水になってパズルを解く物理プラットフォーマー。すべてプロシージャル生成で 190 KB、1 時間で完成。</sub>
 </td>
 </tr>
 </table>
 
-<p align="center"><b><a href="all/games.ja.md">すべて見る（112）→</a></b></p>
+<p align="center"><b><a href="all/games.ja.md">すべて見る（113）→</a></b></p>
 
 <div align="right"><a href="#-目次">↑ 目次に戻る</a></div>
 
@@ -369,7 +371,7 @@ Claude Fable 5.2 で作られた公開作品 239 件と動画デモ 150 件。�
 <td width="33%" valign="top">
 <a href="https://patch.gg/play/blendi/the-blue-hour"><img src="assets/gifs/387.gif" width="100%" alt="The Blue Hour — アールデコ調の夜の街"></a><br>
 <b><a href="https://patch.gg/play/blendi/the-blue-hour">The Blue Hour — アールデコ調の夜の街</a></b><br>
-<sub>🆕 · <a href="https://x.com/BlendiByl">@BlendiByl</a> · ♥ 634 · <a href="https://x.com/BlendiByl/status/2124439671006748853">▶ 動画</a></sub><br>
+<sub>🆕 · <a href="https://x.com/BlendiByl">@BlendiByl</a> · ♥ 636 · <a href="https://x.com/BlendiByl/status/2124439671006748853">▶ 動画</a></sub><br>
 <sub>アニメ版『バットマン』のアールデコ様式を再現した 3D シーン。すべてコードで描かれています。オープンソース。</sub>
 </td>
 <td width="33%" valign="top">
@@ -567,7 +569,7 @@ Claude Fable 5.2 で作られた公開作品 239 件と動画デモ 150 件。�
 <td width="33%" valign="top">
 <a href="https://frontier.every.to/experiments/ambient-town"><img src="assets/gifs/148.gif" width="100%" alt="Ambient Town"></a><br>
 <b><a href="https://frontier.every.to/experiments/ambient-town">Ambient Town</a></b><br>
-<sub><a href="https://x.com/kieranklaassen">@kieranklaassen</a> · ♥ 896 · <a href="https://x.com/kieranklaassen/status/2119868196773929160">▶ 動画</a></sub><br>
+<sub><a href="https://x.com/kieranklaassen">@kieranklaassen</a> · ♥ 895 · <a href="https://x.com/kieranklaassen/status/2119868196773929160">▶ 動画</a></sub><br>
 <sub>元映画音楽家が夜を使って 1 週間で作ったアンビエント DAW：Ableton Push 対応、マイク、エフェクト、シンセ、一緒に作曲する Agent。ページの「Try it」をクリック。</sub><br>
 <sub><a href="https://fablelist.000ooo.ooo/ja/prompts/?w=ambient-town&ref=gh"><b>✨ プロンプトを入手</b></a></sub>
 </td>
@@ -610,7 +612,7 @@ Claude Fable 5.2 で作られた公開作品 239 件と動画デモ 150 件。�
 <td width="33%" valign="top">
 <a href="https://claude.ai/artifact/4P1urBdptp6gWiJo3R6Vpv"><img src="assets/gifs/333.gif" width="100%" alt="Breakcore ビデオサンプラー"></a><br>
 <b><a href="https://claude.ai/artifact/4P1urBdptp6gWiJo3R6Vpv">Breakcore ビデオサンプラー</a></b><br>
-<sub><a href="https://x.com/parhelion318">@parhelion318</a> · ♥ 542 · <a href="https://x.com/parhelion318/status/2122723067533398064">▶ 動画</a></sub><br>
+<sub><a href="https://x.com/parhelion318">@parhelion318</a> · ♥ 541 · <a href="https://x.com/parhelion318/status/2122723067533398064">▶ 動画</a></sub><br>
 <sub>動画クリップを刻んで breakcore のリズムに並べ替える、ブラウザで動くサンプラー。</sub>
 </td>
 </tr>
@@ -624,7 +626,7 @@ Claude Fable 5.2 で作られた公開作品 239 件と動画デモ 150 件。�
 <td width="33%" valign="top">
 <a href="https://claude.ai/artifact/8yKUbL5KQgvfqcWH6UgZrq"><img src="assets/gifs/359.gif" width="100%" alt="Kastle Sim"></a><br>
 <b><a href="https://claude.ai/artifact/8yKUbL5KQgvfqcWH6UgZrq">Kastle Sim</a></b><br>
-<sub><a href="https://x.com/parhelion318">@parhelion318</a> · ♥ 466 · <a href="https://x.com/parhelion318/status/2123344270732202421">▶ 動画</a></sub><br>
+<sub><a href="https://x.com/parhelion318">@parhelion318</a> · ♥ 467 · <a href="https://x.com/parhelion318/status/2123344270732202421">▶ 動画</a></sub><br>
 <sub>ミニモジュラーシンセ Bastl Kastle のブラウザ版シミュレーター。ケーブルをつないでノブを回せば音が鳴る。</sub>
 </td>
 <td width="33%" valign="top">
@@ -647,7 +649,7 @@ Claude Fable 5.2 で作られた公開作品 239 件と動画デモ 150 件。�
 <td width="33%" valign="top">
 <a href="https://rubber-hose-ui.vercel.app"><img src="assets/gifs/332.gif" width="100%" alt="Rubber Hose UI：1930 年代カートゥーン風の UI 部品"></a><br>
 <b><a href="https://rubber-hose-ui.vercel.app">Rubber Hose UI：1930 年代カートゥーン風の UI 部品</a></b><br>
-<sub><a href="https://x.com/crtvTeknologist">@crtvTeknologist</a> · ♥ 355 · <a href="https://x.com/crtvTeknologist/status/2122433522166124616">▶ 動画</a></sub><br>
+<sub><a href="https://x.com/crtvTeknologist">@crtvTeknologist</a> · ♥ 354 · <a href="https://x.com/crtvTeknologist/status/2122433522166124616">▶ 動画</a></sub><br>
 <sub>11 個の Web コントロールをラバーホース調のキャラクターに。スライダーはトロンボーン、トーストはトースター、ボタンは押すたびに目にあざができる。素の JS と canvas、依存なし、オープンソース。</sub><br>
 <sub><a href="https://github.com/finktheartist/rubber-hose-ui">ソースコード</a></sub>
 </td>
@@ -749,7 +751,7 @@ Claude Fable 5.2 で作られた公開作品 239 件と動画デモ 150 件。�
 <td width="33%" valign="top">
 <a href="https://github.com/ChetasLua/the-last-good-pelican-fable-5.2"><img src="assets/gifs/352.gif" width="100%" alt="The Last Good Pelican"></a><br>
 <b><a href="https://github.com/ChetasLua/the-last-good-pelican-fable-5.2">The Last Good Pelican</a></b><br>
-<sub><a href="https://x.com/chetaslua">@chetaslua</a> · ♥ 144 · <a href="https://x.com/chetaslua/status/2123100140189958401">▶ 動画</a></sub><br>
+<sub><a href="https://x.com/chetaslua">@chetaslua</a> · ♥ 143 · <a href="https://x.com/chetaslua/status/2123100140189958401">▶ 動画</a></sub><br>
 <sub>オフラインで動く HTML ファイル 1 つに収まった、手描き風の 60 秒短編。ベンチマーク用のペリカンのうち唯一うまく描かれた一羽の、ある一日。絵はすべて Canvas 2D、音はすべて Web Audio。</sub>
 </td>
 </tr>
@@ -763,7 +765,7 @@ Claude Fable 5.2 で作られた公開作品 239 件と動画デモ 150 件。�
 <td width="33%" valign="top">
 <a href="https://github.com/Leonxlnx/koi-pond-keycap"><img src="assets/gifs/351.gif" width="100%" alt="Koi Pond Keycap"></a><br>
 <b><a href="https://github.com/Leonxlnx/koi-pond-keycap">Koi Pond Keycap</a></b><br>
-<sub><a href="https://x.com/LexnLin">@LexnLin</a> · ♥ 133 · <a href="https://x.com/LexnLin/status/2123174205306908806">▶ 動画</a></sub><br>
+<sub><a href="https://x.com/LexnLin">@LexnLin</a> · ♥ 134 · <a href="https://x.com/LexnLin/status/2123174205306908806">▶ 動画</a></sub><br>
 <sub>透明なレジンのキーキャップの中に鯉の池がある 45 秒の Blender 映像。指がキーを押すと波紋が水面を走り、鯉がさっと散る。すべて Python によるプロシージャル生成で、外部のモデルやテクスチャは不使用。</sub>
 </td>
 <td width="33%" valign="top">
@@ -919,6 +921,12 @@ Claude Fable 5.2 で作られた公開作品 239 件と動画デモ 150 件。�
 </tr>
 <tr>
 <td width="33%" valign="top">
+<a href="https://x.com/iamdavidhill/status/2124986830236106897"><img src="assets/gifs/397.gif" width="100%" alt="キャラクターエンジン：キャラ、スタイル、ポーズ、表情を一瞬で切り替え"></a><br>
+<b><a href="https://x.com/iamdavidhill/status/2124986830236106897">キャラクターエンジン：キャラ、スタイル、ポーズ、表情を一瞬で切り替え</a></b><br>
+<sub>🆕 · <a href="https://x.com/iamdavidhill">@iamdavidhill</a> · ♥ 2.7k · <a href="https://x.com/iamdavidhill/status/2124986830236106897">▶ 動画</a></sub><br>
+
+</td>
+<td width="33%" valign="top">
 <a href="https://x.com/hayashimon1/status/2121943011525624151"><img src="assets/gifs/311.gif" width="100%" alt="Blender MCP で作った、古い駅のホームを歩く映像"></a><br>
 <b><a href="https://x.com/hayashimon1/status/2121943011525624151">Blender MCP で作った、古い駅のホームを歩く映像</a></b><br>
 <sub><a href="https://x.com/hayashimon1">@hayashimon1</a> · ♥ 2.6k · <a href="https://x.com/hayashimon1/status/2121943011525624151">▶ 動画</a></sub><br>
@@ -931,6 +939,8 @@ Claude Fable 5.2 で作られた公開作品 239 件と動画デモ 150 件。�
 <br>
 <sub><a href="https://fablelist.000ooo.ooo/ja/prompts/?w=an-animation-made-with-blender&ref=gh"><b>✨ プロンプトを入手</b></a></sub>
 </td>
+</tr>
+<tr>
 <td width="33%" valign="top">
 <a href="https://x.com/alexalbert__/status/2119916954337349737"><img src="assets/gifs/062.gif" width="100%" alt="ダ・ヴィンチの手稿、インタラクティブ版"></a><br>
 <b><a href="https://x.com/alexalbert__/status/2119916954337349737">ダ・ヴィンチの手稿、インタラクティブ版</a></b><br>
@@ -938,8 +948,6 @@ Claude Fable 5.2 で作られた公開作品 239 件と動画デモ 150 件。�
 <sub>500 年前の手稿 PDF を、触って遊べる発明品に。</sub><br>
 <sub><a href="https://fablelist.000ooo.ooo/ja/prompts/?w=da-vinci-s-notebooks-interactive&ref=gh"><b>✨ プロンプトを入手</b></a></sub>
 </td>
-</tr>
-<tr>
 <td width="33%" valign="top">
 <a href="https://x.com/ChrisGPT/status/2119998815856218494"><img src="assets/gifs/066.gif" width="100%" alt="動画編集者へのメッセージ"></a><br>
 <b><a href="https://x.com/ChrisGPT/status/2119998815856218494">動画編集者へのメッセージ</a></b><br>
@@ -953,17 +961,10 @@ Claude Fable 5.2 で作られた公開作品 239 件と動画デモ 150 件。�
 <sub><a href="https://x.com/kotaniko98765">@kotaniko98765</a> · ♥ 2.5k · <a href="https://x.com/kotaniko98765/status/2122266561960665539">▶ 動画</a></sub><br>
 
 </td>
-<td width="33%" valign="top">
-<a href="https://x.com/theo/status/2119926277801144695"><img src="assets/gifs/063.gif" width="100%" alt="Fishslop run"></a><br>
-<b><a href="https://x.com/theo/status/2119926277801144695">Fishslop run</a></b><br>
-<sub><a href="https://x.com/theo">@theo</a> · ♥ 2.3k · <a href="https://x.com/theo/status/2119926277801144695">▶ 動画</a></sub><br>
-<sub>76 分、約 $42。</sub><br>
-<sub><a href="https://fablelist.000ooo.ooo/ja/prompts/?w=fishslop-run&ref=gh"><b>✨ プロンプトを入手</b></a></sub>
-</td>
 </tr>
 </table>
 
-<p align="center"><b><a href="all/video-demos.ja.md">すべて見る（150）→</a></b></p>
+<p align="center"><b><a href="all/video-demos.ja.md">すべて見る（152）→</a></b></p>
 
 ## 🤝 投稿・貢献
 
@@ -983,7 +984,7 @@ Claude Fable 5.2 で作られた公開作品 239 件と動画デモ 150 件。�
 
 ## 📰 更新情報
 
-- **2026-11-24**：公開作品 +3、動画デモ +1。
+- **2026-11-24**：公開作品 +4、動画デモ +3。
 - **2026-11-23**：公開作品 +4、動画デモ +1。
 - **2026-11-22**：公開作品 +10、動画デモ +2。
 - **2026-11-21**：公開作品 +7、動画デモ +1。

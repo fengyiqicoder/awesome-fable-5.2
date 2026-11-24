@@ -87,7 +87,7 @@
 <td width="33%" valign="top">
 <a href="https://github.com/ChetasLua/the-last-good-pelican-fable-5.2"><img src="../assets/gifs/352.gif" width="100%" alt="The Last Good Pelican"></a><br>
 <b><a href="https://github.com/ChetasLua/the-last-good-pelican-fable-5.2">The Last Good Pelican</a></b><br>
-<sub><a href="https://x.com/chetaslua">@chetaslua</a> · ♥ 144 · <a href="https://x.com/chetaslua/status/2123100140189958401">▶ 動画</a></sub><br>
+<sub><a href="https://x.com/chetaslua">@chetaslua</a> · ♥ 143 · <a href="https://x.com/chetaslua/status/2123100140189958401">▶ 動画</a></sub><br>
 <sub>オフラインで動く HTML ファイル 1 つに収まった、手描き風の 60 秒短編。ベンチマーク用のペリカンのうち唯一うまく描かれた一羽の、ある一日。絵はすべて Canvas 2D、音はすべて Web Audio。</sub>
 </td>
 </tr>
@@ -101,7 +101,7 @@
 <td width="33%" valign="top">
 <a href="https://github.com/Leonxlnx/koi-pond-keycap"><img src="../assets/gifs/351.gif" width="100%" alt="Koi Pond Keycap"></a><br>
 <b><a href="https://github.com/Leonxlnx/koi-pond-keycap">Koi Pond Keycap</a></b><br>
-<sub><a href="https://x.com/LexnLin">@LexnLin</a> · ♥ 133 · <a href="https://x.com/LexnLin/status/2123174205306908806">▶ 動画</a></sub><br>
+<sub><a href="https://x.com/LexnLin">@LexnLin</a> · ♥ 134 · <a href="https://x.com/LexnLin/status/2123174205306908806">▶ 動画</a></sub><br>
 <sub>透明なレジンのキーキャップの中に鯉の池がある 45 秒の Blender 映像。指がキーを押すと波紋が水面を走り、鯉がさっと散る。すべて Python によるプロシージャル生成で、外部のモデルやテクスチャは不使用。</sub>
 </td>
 <td width="33%" valign="top">

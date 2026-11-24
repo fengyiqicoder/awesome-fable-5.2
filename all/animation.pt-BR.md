@@ -87,7 +87,7 @@ A página principal mostra no máximo as 24 entradas mais curtidas de cada seç�
 <td width="33%" valign="top">
 <a href="https://github.com/ChetasLua/the-last-good-pelican-fable-5.2"><img src="../assets/gifs/352.gif" width="100%" alt="The Last Good Pelican"></a><br>
 <b><a href="https://github.com/ChetasLua/the-last-good-pelican-fable-5.2">The Last Good Pelican</a></b><br>
-<sub><a href="https://x.com/chetaslua">@chetaslua</a> · ♥ 144 · <a href="https://x.com/chetaslua/status/2123100140189958401">▶ Vídeo</a></sub><br>
+<sub><a href="https://x.com/chetaslua">@chetaslua</a> · ♥ 143 · <a href="https://x.com/chetaslua/status/2123100140189958401">▶ Vídeo</a></sub><br>
 <sub>Um curta de 60 segundos com cara de desenho à mão em um único arquivo HTML offline: um dia na vida do único pelicano de benchmark que saiu certo. Canvas 2D para cada desenho, Web Audio para cada som.</sub>
 </td>
 </tr>
@@ -101,7 +101,7 @@ A página principal mostra no máximo as 24 entradas mais curtidas de cada seç�
 <td width="33%" valign="top">
 <a href="https://github.com/Leonxlnx/koi-pond-keycap"><img src="../assets/gifs/351.gif" width="100%" alt="Koi Pond Keycap"></a><br>
 <b><a href="https://github.com/Leonxlnx/koi-pond-keycap">Koi Pond Keycap</a></b><br>
-<sub><a href="https://x.com/LexnLin">@LexnLin</a> · ♥ 133 · <a href="https://x.com/LexnLin/status/2123174205306908806">▶ Vídeo</a></sub><br>
+<sub><a href="https://x.com/LexnLin">@LexnLin</a> · ♥ 134 · <a href="https://x.com/LexnLin/status/2123174205306908806">▶ Vídeo</a></sub><br>
 <sub>Um filme de 45 segundos no Blender de uma keycap de resina transparente com um lago de carpas dentro: um dedo pressiona a tecla, ondas correm pela água e as carpas disparam. Python totalmente procedural, sem modelos ou texturas externos.</sub>
 </td>
 <td width="33%" valign="top">

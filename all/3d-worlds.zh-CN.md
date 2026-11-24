@@ -82,7 +82,7 @@
 <td width="33%" valign="top">
 <a href="https://patch.gg/play/blendi/the-blue-hour"><img src="../assets/gifs/387.gif" width="100%" alt="The Blue Hour 装饰艺术风的夜色城市"></a><br>
 <b><a href="https://patch.gg/play/blendi/the-blue-hour">The Blue Hour 装饰艺术风的夜色城市</a></b><br>
-<sub>🆕 · <a href="https://x.com/BlendiByl">@BlendiByl</a> · ♥ 634 · <a href="https://x.com/BlendiByl/status/2124439671006748853">▶ 视频</a></sub><br>
+<sub>🆕 · <a href="https://x.com/BlendiByl">@BlendiByl</a> · ♥ 636 · <a href="https://x.com/BlendiByl/status/2124439671006748853">▶ 视频</a></sub><br>
 <sub>照着《蝙蝠侠》动画版的装饰艺术风格做的 3D 场景，全部由代码画出；开源</sub>
 </td>
 <td width="33%" valign="top">
@@ -186,7 +186,7 @@
 <td width="33%" valign="top">
 <a href="https://claude.ai/artifact/HCzUsvWqERjQcgJjRuUUFo"><img src="../assets/gifs/386.gif" width="100%" alt="Rain-Soaked Noodle Stall 雨夜面摊的像素立体画"></a><br>
 <b><a href="https://claude.ai/artifact/HCzUsvWqERjQcgJjRuUUFo">Rain-Soaked Noodle Stall 雨夜面摊的像素立体画</a></b><br>
-<sub>🆕 · <a href="https://x.com/CapyCola">@CapyCola</a> · ♥ 136 · <a href="https://x.com/CapyCola/status/2124115057101664380">▶ 视频</a></sub><br>
+<sub>🆕 · <a href="https://x.com/CapyCola">@CapyCola</a> · ♥ 135 · <a href="https://x.com/CapyCola/status/2124115057101664380">▶ 视频</a></sub><br>
 <sub>雨里的面摊、摇晃的灯笼、一锅没人看着的热汤和一只还没走的猫；能拖动旋转、从任意角度看的像素场景，用 Fable 5.2 和 Ink Studio 做的</sub><br>
 <sub><a href="https://github.com/cola5939/pixel-dioramas">源码</a></sub>
 </td>
@@ -281,12 +281,21 @@
 <sub>纯 JavaScript 画出的温哥华英吉利湾黄昏全景</sub>
 </td>
 <td width="33%" valign="top">
+<a href="https://claude.ai/artifact/QoBRCe2QuCU81MkNpVr4hd"><img src="../assets/gifs/393.gif" width="100%" alt="Vice Corner 罪恶都市街角的像素立体画"></a><br>
+<b><a href="https://claude.ai/artifact/QoBRCe2QuCU81MkNpVr4hd">Vice Corner 罪恶都市街角的像素立体画</a></b><br>
+<sub>🆕 · <a href="https://x.com/CapyCola">@CapyCola</a> · ♥ 30 · <a href="https://x.com/CapyCola/status/2124797996458229877">▶ 视频</a></sub><br>
+<sub>GTA 6 发售这几天做的罪恶都市街角；能拖动旋转、从任意角度看的像素场景，用 Fable 5.2 和 Ink Studio 做的</sub><br>
+<sub><a href="https://github.com/cola5939/pixel-dioramas">源码</a></sub>
+</td>
+<td width="33%" valign="top">
 <a href="https://claude.ai/artifact/HGk1WNqTgrGEE8ndBkEipB"><img src="../assets/gifs/229.gif" width="100%" alt="像素画变 3D 世界"></a><br>
 <b><a href="https://claude.ai/artifact/HGk1WNqTgrGEE8ndBkEipB">像素画变 3D 世界</a></b><br>
 <sub><a href="https://x.com/dfeinition">@dfeinition</a> · ♥ 29 · <a href="https://x.com/dfeinition/status/2120933859999059970">▶ 视频</a></sub><br>
 <sub>把一幅像素画做成可以走进去的 3D 世界，鲸鱼带你看它是怎么做的</sub><br>
 <sub><a href="https://fablelist.000ooo.ooo/zh/prompts/?w=pixel-art-to-3d-world&ref=gh"><b>✨ 获取提示词</b></a></sub>
 </td>
+</tr>
+<tr>
 <td width="33%" valign="top">
 <a href="https://galaxy-dive.vercel.app"><img src="../assets/gifs/141.gif" width="100%" alt="Galaxy Dive 飞进星系"></a><br>
 <b><a href="https://galaxy-dive.vercel.app">Galaxy Dive 飞进星系</a></b><br>
@@ -294,8 +303,6 @@
 <sub>20 分钟生成</sub><br>
 <sub><a href="https://fablelist.000ooo.ooo/zh/prompts/?w=galaxy-dive&ref=gh"><b>✨ 获取提示词</b></a></sub>
 </td>
-</tr>
-<tr>
 <td width="33%" valign="top">
 <a href="https://calibre-watch-snowy.vercel.app/"><img src="../assets/gifs/192.gif" width="100%" alt="Calibre 5.2 机械表"></a><br>
 <b><a href="https://calibre-watch-snowy.vercel.app/">Calibre 5.2 机械表</a></b><br>
@@ -309,6 +316,8 @@
 <sub><a href="https://x.com/tokifyi">@tokifyi</a> · ♥ 22 · <a href="https://x.com/tokifyi/status/2121367097972531412">▶ 视频</a></sub><br>
 <sub>一条提示词，纯 JavaScript Canvas 画出金门大桥、天际线、雾、倒影和缆车，不用图片和库</sub>
 </td>
+</tr>
+<tr>
 <td width="33%" valign="top">
 <a href="https://claude.ai/artifact/7nmzhxeamcunJbKVK32ptz"><img src="../assets/gifs/029.gif" width="100%" alt="体素罗马斗兽场"></a><br>
 <b><a href="https://claude.ai/artifact/7nmzhxeamcunJbKVK32ptz">体素罗马斗兽场</a></b><br>
@@ -316,15 +325,6 @@
 <sub>可以走进废墟内环</sub><br>
 <sub><a href="https://claude.ai/artifact/B7ZmVS7Yr3BUc99ZyGk2bX">Opus 5.5 版</a></sub><br>
 <sub><a href="https://fablelist.000ooo.ooo/zh/prompts/?w=voxel-colosseum&ref=gh"><b>✨ 获取提示词</b></a></sub>
-</td>
-</tr>
-<tr>
-<td width="33%" valign="top">
-<a href="https://claude.ai/artifact/QoBRCe2QuCU81MkNpVr4hd"><img src="../assets/gifs/393.gif" width="100%" alt="Vice Corner 罪恶都市街角的像素立体画"></a><br>
-<b><a href="https://claude.ai/artifact/QoBRCe2QuCU81MkNpVr4hd">Vice Corner 罪恶都市街角的像素立体画</a></b><br>
-<sub>🆕 · <a href="https://x.com/CapyCola">@CapyCola</a> · ♥ 16 · <a href="https://x.com/CapyCola/status/2124797996458229877">▶ 视频</a></sub><br>
-<sub>GTA 6 发售这几天做的罪恶都市街角；能拖动旋转、从任意角度看的像素场景，用 Fable 5.2 和 Ink Studio 做的</sub><br>
-<sub><a href="https://github.com/cola5939/pixel-dioramas">源码</a></sub>
 </td>
 <td width="33%" valign="top">
 <a href="https://glittery-stardust-885b97.netlify.app"><img src="../assets/gifs/233.gif" width="100%" alt="HX-6 六足机器人登陆三个星球"></a><br>

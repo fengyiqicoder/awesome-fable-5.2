@@ -87,7 +87,7 @@
 <td width="33%" valign="top">
 <a href="https://github.com/ChetasLua/the-last-good-pelican-fable-5.2"><img src="../assets/gifs/352.gif" width="100%" alt="The Last Good Pelican"></a><br>
 <b><a href="https://github.com/ChetasLua/the-last-good-pelican-fable-5.2">The Last Good Pelican</a></b><br>
-<sub><a href="https://x.com/chetaslua">@chetaslua</a> · ♥ 144 · <a href="https://x.com/chetaslua/status/2123100140189958401">▶ 영상</a></sub><br>
+<sub><a href="https://x.com/chetaslua">@chetaslua</a> · ♥ 143 · <a href="https://x.com/chetaslua/status/2123100140189958401">▶ 영상</a></sub><br>
 <sub>오프라인 HTML 파일 하나에 담긴 60초짜리 손그림풍 단편. 벤치마크 펠리컨 중 유일하게 제대로 그려진 한 마리의 하루. 그림은 모두 Canvas 2D, 소리는 모두 Web Audio.</sub>
 </td>
 </tr>
@@ -101,7 +101,7 @@
 <td width="33%" valign="top">
 <a href="https://github.com/Leonxlnx/koi-pond-keycap"><img src="../assets/gifs/351.gif" width="100%" alt="Koi Pond Keycap"></a><br>
 <b><a href="https://github.com/Leonxlnx/koi-pond-keycap">Koi Pond Keycap</a></b><br>
-<sub><a href="https://x.com/LexnLin">@LexnLin</a> · ♥ 133 · <a href="https://x.com/LexnLin/status/2123174205306908806">▶ 영상</a></sub><br>
+<sub><a href="https://x.com/LexnLin">@LexnLin</a> · ♥ 134 · <a href="https://x.com/LexnLin/status/2123174205306908806">▶ 영상</a></sub><br>
 <sub>투명 레진 키캡 안에 잉어 연못이 담긴 45초짜리 Blender 영상. 손가락이 키를 누르면 물결이 수면을 가로지르고 잉어들이 흩어진다. 전부 Python 프로시저럴 방식이며 외부 모델이나 텍스처는 쓰지 않았다.</sub>
 </td>
 <td width="33%" valign="top">

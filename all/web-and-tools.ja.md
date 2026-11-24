@@ -94,7 +94,7 @@
 <td width="33%" valign="top">
 <a href="https://frontier.every.to/experiments/ambient-town"><img src="../assets/gifs/148.gif" width="100%" alt="Ambient Town"></a><br>
 <b><a href="https://frontier.every.to/experiments/ambient-town">Ambient Town</a></b><br>
-<sub><a href="https://x.com/kieranklaassen">@kieranklaassen</a> · ♥ 896 · <a href="https://x.com/kieranklaassen/status/2119868196773929160">▶ 動画</a></sub><br>
+<sub><a href="https://x.com/kieranklaassen">@kieranklaassen</a> · ♥ 895 · <a href="https://x.com/kieranklaassen/status/2119868196773929160">▶ 動画</a></sub><br>
 <sub>元映画音楽家が夜を使って 1 週間で作ったアンビエント DAW：Ableton Push 対応、マイク、エフェクト、シンセ、一緒に作曲する Agent。ページの「Try it」をクリック。</sub><br>
 <sub><a href="https://fablelist.000ooo.ooo/ja/prompts/?w=ambient-town&ref=gh"><b>✨ プロンプトを入手</b></a></sub>
 </td>
@@ -137,7 +137,7 @@
 <td width="33%" valign="top">
 <a href="https://claude.ai/artifact/4P1urBdptp6gWiJo3R6Vpv"><img src="../assets/gifs/333.gif" width="100%" alt="Breakcore ビデオサンプラー"></a><br>
 <b><a href="https://claude.ai/artifact/4P1urBdptp6gWiJo3R6Vpv">Breakcore ビデオサンプラー</a></b><br>
-<sub><a href="https://x.com/parhelion318">@parhelion318</a> · ♥ 542 · <a href="https://x.com/parhelion318/status/2122723067533398064">▶ 動画</a></sub><br>
+<sub><a href="https://x.com/parhelion318">@parhelion318</a> · ♥ 541 · <a href="https://x.com/parhelion318/status/2122723067533398064">▶ 動画</a></sub><br>
 <sub>動画クリップを刻んで breakcore のリズムに並べ替える、ブラウザで動くサンプラー。</sub>
 </td>
 </tr>
@@ -151,7 +151,7 @@
 <td width="33%" valign="top">
 <a href="https://claude.ai/artifact/8yKUbL5KQgvfqcWH6UgZrq"><img src="../assets/gifs/359.gif" width="100%" alt="Kastle Sim"></a><br>
 <b><a href="https://claude.ai/artifact/8yKUbL5KQgvfqcWH6UgZrq">Kastle Sim</a></b><br>
-<sub><a href="https://x.com/parhelion318">@parhelion318</a> · ♥ 466 · <a href="https://x.com/parhelion318/status/2123344270732202421">▶ 動画</a></sub><br>
+<sub><a href="https://x.com/parhelion318">@parhelion318</a> · ♥ 467 · <a href="https://x.com/parhelion318/status/2123344270732202421">▶ 動画</a></sub><br>
 <sub>ミニモジュラーシンセ Bastl Kastle のブラウザ版シミュレーター。ケーブルをつないでノブを回せば音が鳴る。</sub>
 </td>
 <td width="33%" valign="top">
@@ -174,7 +174,7 @@
 <td width="33%" valign="top">
 <a href="https://rubber-hose-ui.vercel.app"><img src="../assets/gifs/332.gif" width="100%" alt="Rubber Hose UI：1930 年代カートゥーン風の UI 部品"></a><br>
 <b><a href="https://rubber-hose-ui.vercel.app">Rubber Hose UI：1930 年代カートゥーン風の UI 部品</a></b><br>
-<sub><a href="https://x.com/crtvTeknologist">@crtvTeknologist</a> · ♥ 355 · <a href="https://x.com/crtvTeknologist/status/2122433522166124616">▶ 動画</a></sub><br>
+<sub><a href="https://x.com/crtvTeknologist">@crtvTeknologist</a> · ♥ 354 · <a href="https://x.com/crtvTeknologist/status/2122433522166124616">▶ 動画</a></sub><br>
 <sub>11 個の Web コントロールをラバーホース調のキャラクターに。スライダーはトロンボーン、トーストはトースター、ボタンは押すたびに目にあざができる。素の JS と canvas、依存なし、オープンソース。</sub><br>
 <sub><a href="https://github.com/finktheartist/rubber-hose-ui">ソースコード</a></sub>
 </td>
@@ -267,7 +267,7 @@
 <td width="33%" valign="top">
 <a href="https://andreysuperiorgit.github.io/v8/"><img src="../assets/gifs/373.gif" width="100%" alt="V8 Four-Stroke"></a><br>
 <b><a href="https://andreysuperiorgit.github.io/v8/">V8 Four-Stroke</a></b><br>
-<sub><a href="https://x.com/andreysuperior">@andreysuperior</a> · ♥ 73 · <a href="https://x.com/andreysuperior/status/2123928682603430384">▶ 動画</a></sub><br>
+<sub><a href="https://x.com/andreysuperior">@andreysuperior</a> · ♥ 74 · <a href="https://x.com/andreysuperior/status/2123928682603430384">▶ 動画</a></sub><br>
 <sub>ブラウザのタブで空ぶかしできる 7.0 リッター V8。ピストン、クランク、カムシャフト、16 本のバルブが実寸どおりに動き、回転が上がるとエキマニが赤く光る。124 KB の HTML ファイル 1 つ、プロンプト 1 回と追加指示 23 回。</sub>
 </td>
 </tr>
@@ -310,7 +310,7 @@
 <td width="33%" valign="top">
 <a href="https://zkevinbai.com/apps/tesla-fsd"><img src="../assets/gifs/394.gif" width="100%" alt="How FSD Drives"></a><br>
 <b><a href="https://zkevinbai.com/apps/tesla-fsd">How FSD Drives</a></b><br>
-<sub>🆕 · <a href="https://x.com/zkevinbai">@zkevinbai</a> · ♥ 32 · <a href="https://x.com/zkevinbai/status/2124626274367005100">▶ 動画</a></sub><br>
+<sub>🆕 · <a href="https://x.com/zkevinbai">@zkevinbai</a> · ♥ 31 · <a href="https://x.com/zkevinbai/status/2124626274367005100">▶ 動画</a></sub><br>
 <sub>Tesla FSD をまるごと再現したシミュレーション。7 台のカメラがそれぞれ何を見ているかを確かめて、自分でハンドルを握ることもできる。</sub>
 </td>
 </tr>

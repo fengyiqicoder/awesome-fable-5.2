@@ -82,7 +82,7 @@
 <td width="33%" valign="top">
 <a href="https://patch.gg/play/blendi/the-blue-hour"><img src="../assets/gifs/387.gif" width="100%" alt="The Blue Hour — アールデコ調の夜の街"></a><br>
 <b><a href="https://patch.gg/play/blendi/the-blue-hour">The Blue Hour — アールデコ調の夜の街</a></b><br>
-<sub>🆕 · <a href="https://x.com/BlendiByl">@BlendiByl</a> · ♥ 634 · <a href="https://x.com/BlendiByl/status/2124439671006748853">▶ 動画</a></sub><br>
+<sub>🆕 · <a href="https://x.com/BlendiByl">@BlendiByl</a> · ♥ 636 · <a href="https://x.com/BlendiByl/status/2124439671006748853">▶ 動画</a></sub><br>
 <sub>アニメ版『バットマン』のアールデコ様式を再現した 3D シーン。すべてコードで描かれています。オープンソース。</sub>
 </td>
 <td width="33%" valign="top">
@@ -186,7 +186,7 @@
 <td width="33%" valign="top">
 <a href="https://claude.ai/artifact/HCzUsvWqERjQcgJjRuUUFo"><img src="../assets/gifs/386.gif" width="100%" alt="Rain-Soaked Noodle Stall — ピクセルジオラマ"></a><br>
 <b><a href="https://claude.ai/artifact/HCzUsvWqERjQcgJjRuUUFo">Rain-Soaked Noodle Stall — ピクセルジオラマ</a></b><br>
-<sub>🆕 · <a href="https://x.com/CapyCola">@CapyCola</a> · ♥ 136 · <a href="https://x.com/CapyCola/status/2124115057101664380">▶ 動画</a></sub><br>
+<sub>🆕 · <a href="https://x.com/CapyCola">@CapyCola</a> · ♥ 135 · <a href="https://x.com/CapyCola/status/2124115057101664380">▶ 動画</a></sub><br>
 <sub>雨の中の屋台、揺れる提灯、誰も見ていないスープの鍋、そしてまだ帰らない猫。ドラッグして回し、好きな角度から眺められるピクセルシーン。Fable 5.2 と Ink Studio で制作。</sub><br>
 <sub><a href="https://github.com/cola5939/pixel-dioramas">ソースコード</a></sub>
 </td>
@@ -281,12 +281,21 @@
 <sub>JavaScript だけで描いたバンクーバーの夕暮れパノラマ。</sub>
 </td>
 <td width="33%" valign="top">
+<a href="https://claude.ai/artifact/QoBRCe2QuCU81MkNpVr4hd"><img src="../assets/gifs/393.gif" width="100%" alt="Vice Corner：バイスシティの街角を描いたピクセルジオラマ"></a><br>
+<b><a href="https://claude.ai/artifact/QoBRCe2QuCU81MkNpVr4hd">Vice Corner：バイスシティの街角を描いたピクセルジオラマ</a></b><br>
+<sub>🆕 · <a href="https://x.com/CapyCola">@CapyCola</a> · ♥ 30 · <a href="https://x.com/CapyCola/status/2124797996458229877">▶ 動画</a></sub><br>
+<sub>GTA 6 発売直後の数日で作られたバイスシティの街角。ドラッグして回転させ、好きな角度から眺められるピクセルシーンで、Fable 5.2 と Ink Studio で制作。</sub><br>
+<sub><a href="https://github.com/cola5939/pixel-dioramas">ソースコード</a></sub>
+</td>
+<td width="33%" valign="top">
 <a href="https://claude.ai/artifact/HGk1WNqTgrGEE8ndBkEipB"><img src="../assets/gifs/229.gif" width="100%" alt="ピクセルアートから 3D ワールドへ"></a><br>
 <b><a href="https://claude.ai/artifact/HGk1WNqTgrGEE8ndBkEipB">ピクセルアートから 3D ワールドへ</a></b><br>
 <sub><a href="https://x.com/dfeinition">@dfeinition</a> · ♥ 29 · <a href="https://x.com/dfeinition/status/2120933859999059970">▶ 動画</a></sub><br>
 <sub>1 枚のピクセルアートがインタラクティブな 3D ワールドに。クジラが作り方を見せてくれる。</sub><br>
 <sub><a href="https://fablelist.000ooo.ooo/ja/prompts/?w=pixel-art-to-3d-world&ref=gh"><b>✨ プロンプトを入手</b></a></sub>
 </td>
+</tr>
+<tr>
 <td width="33%" valign="top">
 <a href="https://galaxy-dive.vercel.app"><img src="../assets/gifs/141.gif" width="100%" alt="Galaxy Dive"></a><br>
 <b><a href="https://galaxy-dive.vercel.app">Galaxy Dive</a></b><br>
@@ -294,8 +303,6 @@
 <sub>「神は 6 日、Fable 5.2 は 20 分。」銀河へ飛び込む。</sub><br>
 <sub><a href="https://fablelist.000ooo.ooo/ja/prompts/?w=galaxy-dive&ref=gh"><b>✨ プロンプトを入手</b></a></sub>
 </td>
-</tr>
-<tr>
 <td width="33%" valign="top">
 <a href="https://calibre-watch-snowy.vercel.app/"><img src="../assets/gifs/192.gif" width="100%" alt="Calibre 5.2 腕時計"></a><br>
 <b><a href="https://calibre-watch-snowy.vercel.app/">Calibre 5.2 腕時計</a></b><br>
@@ -309,6 +316,8 @@
 <sub><a href="https://x.com/tokifyi">@tokifyi</a> · ♥ 22 · <a href="https://x.com/tokifyi/status/2121367097972531412">▶ 動画</a></sub><br>
 <sub>1 つのプロンプト、純粋な JavaScript canvas：橋、スカイライン、霧、反射、ケーブルカー。画像もライブラリもなし。</sub>
 </td>
+</tr>
+<tr>
 <td width="33%" valign="top">
 <a href="https://claude.ai/artifact/7nmzhxeamcunJbKVK32ptz"><img src="../assets/gifs/029.gif" width="100%" alt="Voxel Colosseum"></a><br>
 <b><a href="https://claude.ai/artifact/7nmzhxeamcunJbKVK32ptz">Voxel Colosseum</a></b><br>
@@ -316,15 +325,6 @@
 <sub>廃墟となった内輪を歩き回れる。比較用に Opus 5.5 のジオラマ版のリンクも。</sub><br>
 <sub><a href="https://claude.ai/artifact/B7ZmVS7Yr3BUc99ZyGk2bX">Opus 5.5 version</a></sub><br>
 <sub><a href="https://fablelist.000ooo.ooo/ja/prompts/?w=voxel-colosseum&ref=gh"><b>✨ プロンプトを入手</b></a></sub>
-</td>
-</tr>
-<tr>
-<td width="33%" valign="top">
-<a href="https://claude.ai/artifact/QoBRCe2QuCU81MkNpVr4hd"><img src="../assets/gifs/393.gif" width="100%" alt="Vice Corner：バイスシティの街角を描いたピクセルジオラマ"></a><br>
-<b><a href="https://claude.ai/artifact/QoBRCe2QuCU81MkNpVr4hd">Vice Corner：バイスシティの街角を描いたピクセルジオラマ</a></b><br>
-<sub>🆕 · <a href="https://x.com/CapyCola">@CapyCola</a> · ♥ 16 · <a href="https://x.com/CapyCola/status/2124797996458229877">▶ 動画</a></sub><br>
-<sub>GTA 6 発売直後の数日で作られたバイスシティの街角。ドラッグして回転させ、好きな角度から眺められるピクセルシーンで、Fable 5.2 と Ink Studio で制作。</sub><br>
-<sub><a href="https://github.com/cola5939/pixel-dioramas">ソースコード</a></sub>
 </td>
 <td width="33%" valign="top">
 <a href="https://glittery-stardust-885b97.netlify.app"><img src="../assets/gifs/233.gif" width="100%" alt="HX-6 ヘキサポッド、3 つの世界"></a><br>

@@ -82,7 +82,7 @@
 <td width="33%" valign="top">
 <a href="https://patch.gg/play/blendi/the-blue-hour"><img src="../assets/gifs/387.gif" width="100%" alt="The Blue Hour — ночной город в стиле ар-деко"></a><br>
 <b><a href="https://patch.gg/play/blendi/the-blue-hour">The Blue Hour — ночной город в стиле ар-деко</a></b><br>
-<sub>🆕 · <a href="https://x.com/BlendiByl">@BlendiByl</a> · ♥ 634 · <a href="https://x.com/BlendiByl/status/2124439671006748853">▶ Видео</a></sub><br>
+<sub>🆕 · <a href="https://x.com/BlendiByl">@BlendiByl</a> · ♥ 636 · <a href="https://x.com/BlendiByl/status/2124439671006748853">▶ Видео</a></sub><br>
 <sub>3D-сцена в стиле ар-деко из мультсериала о Бэтмене, целиком нарисованная кодом. Открытый исходный код.</sub>
 </td>
 <td width="33%" valign="top">
@@ -186,7 +186,7 @@
 <td width="33%" valign="top">
 <a href="https://claude.ai/artifact/HCzUsvWqERjQcgJjRuUUFo"><img src="../assets/gifs/386.gif" width="100%" alt="Rain-Soaked Noodle Stall — пиксельная диорама"></a><br>
 <b><a href="https://claude.ai/artifact/HCzUsvWqERjQcgJjRuUUFo">Rain-Soaked Noodle Stall — пиксельная диорама</a></b><br>
-<sub>🆕 · <a href="https://x.com/CapyCola">@CapyCola</a> · ♥ 136 · <a href="https://x.com/CapyCola/status/2124115057101664380">▶ Видео</a></sub><br>
+<sub>🆕 · <a href="https://x.com/CapyCola">@CapyCola</a> · ♥ 135 · <a href="https://x.com/CapyCola/status/2124115057101664380">▶ Видео</a></sub><br>
 <sub>Лапшичная под дождём, качающиеся фонари, кастрюля супа, за которой никто не следит, и кот, который так и не ушёл. Пиксельная сцена, которую можно перетаскивать и вращать, чтобы рассмотреть с любой стороны; сделана с помощью Fable 5.2 и Ink Studio.</sub><br>
 <sub><a href="https://github.com/cola5939/pixel-dioramas">Исходный код</a></sub>
 </td>
@@ -281,12 +281,21 @@
 <sub>Панорама Ванкувера на закате, целиком нарисованная на JavaScript.</sub>
 </td>
 <td width="33%" valign="top">
+<a href="https://claude.ai/artifact/QoBRCe2QuCU81MkNpVr4hd"><img src="../assets/gifs/393.gif" width="100%" alt="Vice Corner: пиксельная диорама уличного угла в Вайс-Сити"></a><br>
+<b><a href="https://claude.ai/artifact/QoBRCe2QuCU81MkNpVr4hd">Vice Corner: пиксельная диорама уличного угла в Вайс-Сити</a></b><br>
+<sub>🆕 · <a href="https://x.com/CapyCola">@CapyCola</a> · ♥ 30 · <a href="https://x.com/CapyCola/status/2124797996458229877">▶ Видео</a></sub><br>
+<sub>Уличный угол Вайс-Сити, сделанный в первые дни после выхода GTA 6. Пиксельная сцена, которую можно перетаскивать, вращать и рассматривать с любого ракурса; создана с помощью Fable 5.2 и Ink Studio.</sub><br>
+<sub><a href="https://github.com/cola5939/pixel-dioramas">Исходный код</a></sub>
+</td>
+<td width="33%" valign="top">
 <a href="https://claude.ai/artifact/HGk1WNqTgrGEE8ndBkEipB"><img src="../assets/gifs/229.gif" width="100%" alt="Пиксель-арт в 3D-мир"></a><br>
 <b><a href="https://claude.ai/artifact/HGk1WNqTgrGEE8ndBkEipB">Пиксель-арт в 3D-мир</a></b><br>
 <sub><a href="https://x.com/dfeinition">@dfeinition</a> · ♥ 29 · <a href="https://x.com/dfeinition/status/2120933859999059970">▶ Видео</a></sub><br>
 <sub>Пиксель-арт, превращённый в интерактивный 3D-мир, с китом, который показывает, как это было сделано.</sub><br>
 <sub><a href="https://fablelist.000ooo.ooo/ru/prompts/?w=pixel-art-to-3d-world&ref=gh"><b>✨ Получить промпт</b></a></sub>
 </td>
+</tr>
+<tr>
 <td width="33%" valign="top">
 <a href="https://galaxy-dive.vercel.app"><img src="../assets/gifs/141.gif" width="100%" alt="Galaxy Dive"></a><br>
 <b><a href="https://galaxy-dive.vercel.app">Galaxy Dive</a></b><br>
@@ -294,8 +303,6 @@
 <sub>«God took 6 days, Fable 5.2 took 20 min.» Влетите в галактику.</sub><br>
 <sub><a href="https://fablelist.000ooo.ooo/ru/prompts/?w=galaxy-dive&ref=gh"><b>✨ Получить промпт</b></a></sub>
 </td>
-</tr>
-<tr>
 <td width="33%" valign="top">
 <a href="https://calibre-watch-snowy.vercel.app/"><img src="../assets/gifs/192.gif" width="100%" alt="Часы Calibre 5.2"></a><br>
 <b><a href="https://calibre-watch-snowy.vercel.app/">Часы Calibre 5.2</a></b><br>
@@ -309,6 +316,8 @@
 <sub><a href="https://x.com/tokifyi">@tokifyi</a> · ♥ 22 · <a href="https://x.com/tokifyi/status/2121367097972531412">▶ Видео</a></sub><br>
 <sub>Один промпт, чистый JavaScript canvas: мост, скайлайн, туман, отражения и кабельный трамвай, без изображений и библиотек.</sub>
 </td>
+</tr>
+<tr>
 <td width="33%" valign="top">
 <a href="https://claude.ai/artifact/7nmzhxeamcunJbKVK32ptz"><img src="../assets/gifs/029.gif" width="100%" alt="Voxel Colosseum"></a><br>
 <b><a href="https://claude.ai/artifact/7nmzhxeamcunJbKVK32ptz">Voxel Colosseum</a></b><br>
@@ -316,15 +325,6 @@
 <sub>Прогуляйтесь по разрушенному внутреннему кольцу. Версия-диорама от Opus 5.5 приложена для сравнения.</sub><br>
 <sub><a href="https://claude.ai/artifact/B7ZmVS7Yr3BUc99ZyGk2bX">Opus 5.5 version</a></sub><br>
 <sub><a href="https://fablelist.000ooo.ooo/ru/prompts/?w=voxel-colosseum&ref=gh"><b>✨ Получить промпт</b></a></sub>
-</td>
-</tr>
-<tr>
-<td width="33%" valign="top">
-<a href="https://claude.ai/artifact/QoBRCe2QuCU81MkNpVr4hd"><img src="../assets/gifs/393.gif" width="100%" alt="Vice Corner: пиксельная диорама уличного угла в Вайс-Сити"></a><br>
-<b><a href="https://claude.ai/artifact/QoBRCe2QuCU81MkNpVr4hd">Vice Corner: пиксельная диорама уличного угла в Вайс-Сити</a></b><br>
-<sub>🆕 · <a href="https://x.com/CapyCola">@CapyCola</a> · ♥ 16 · <a href="https://x.com/CapyCola/status/2124797996458229877">▶ Видео</a></sub><br>
-<sub>Уличный угол Вайс-Сити, сделанный в первые дни после выхода GTA 6. Пиксельная сцена, которую можно перетаскивать, вращать и рассматривать с любого ракурса; создана с помощью Fable 5.2 и Ink Studio.</sub><br>
-<sub><a href="https://github.com/cola5939/pixel-dioramas">Исходный код</a></sub>
 </td>
 <td width="33%" valign="top">
 <a href="https://glittery-stardust-885b97.netlify.app"><img src="../assets/gifs/233.gif" width="100%" alt="HX-6 Hexapod, Three Worlds"></a><br>

@@ -5,8 +5,8 @@
 <h3>Things people built with Claude Fable 5.2 that you can actually open and play</h3>
 
 [![Awesome](https://awesome.re/badge.svg)](https://awesome.re)
-[![Works](https://img.shields.io/badge/live_works-239-6b4eff)](#-games)
-[![Demos](https://img.shields.io/badge/video_demos-150-ff7a59)](#-video-only-demos)
+[![Works](https://img.shields.io/badge/live_works-240-6b4eff)](#-games)
+[![Demos](https://img.shields.io/badge/video_demos-152-ff7a59)](#-video-only-demos)
 [![Links checked](https://img.shields.io/badge/links_checked-2026--11--24-2ea44f)](#-contributing)
 [![License: CC0-1.0](https://img.shields.io/badge/License-CC0_1.0-lightgrey.svg)](LICENSE)
 
@@ -16,11 +16,11 @@
 
 </div>
 
-239 live works and 150 video demos built with Claude Fable 5.2, every link checked 2026-11-24. Updated daily; a ⭐ keeps it coming.
+240 live works and 152 video demos built with Claude Fable 5.2, every link checked 2026-11-24. Updated daily; a ⭐ keeps it coming.
 
 ## 📑 Contents
 
-[⭐ Most Loved](#-most-loved) · [🆕 Recent](#-recent) · [🎮 Games](#-games) 112 · [🌍 3D Worlds & Scenes](#-3d-worlds--scenes) 51 · [🧰 Web Pages & Tools](#-web-pages--tools) 57 · [🎬 Animation & Film (with source)](#-animation--film-with-source) 19 · [📺 Video-only Demos](#-video-only-demos) 150 · [🤝 Contributing](#-contributing)
+[⭐ Most Loved](#-most-loved) · [🆕 Recent](#-recent) · [🎮 Games](#-games) 113 · [🌍 3D Worlds & Scenes](#-3d-worlds--scenes) 51 · [🧰 Web Pages & Tools](#-web-pages--tools) 57 · [🎬 Animation & Film (with source)](#-animation--film-with-source) 19 · [📺 Video-only Demos](#-video-only-demos) 152 · [🤝 Contributing](#-contributing)
 
 ## ⭐ Most Loved
 
@@ -82,20 +82,21 @@ Posted in the last 3 days, sorted by likes.
 <td width="33%" valign="top">
 <a href="https://thaxnay.com/ramayana/"><img src="assets/gifs/389.gif" width="100%" alt="Ramayana: The Sacred Fires"></a><br>
 <b><a href="https://thaxnay.com/ramayana/">Ramayana: The Sacred Fires</a></b><br>
-<sub>🆕 · <a href="https://x.com/Thaxnay">@Thaxnay</a> · ♥ 958 · <a href="https://x.com/Thaxnay/status/2124574054296219939">▶ Video</a></sub><br>
+<sub>🆕 · <a href="https://x.com/Thaxnay">@Thaxnay</a> · ♥ 973 · <a href="https://x.com/Thaxnay/status/2124574054296219939">▶ Video</a></sub><br>
 <sub>A third-person action-adventure where you play as Rama, cross an open valley, protect the sages and find secrets. Runs in the browser on desktop and mobile.</sub>
+</td>
+<td width="33%" valign="top">
+<a href="https://kevintngo.github.io/cinderwatch/"><img src="assets/gifs/398.gif" width="100%" alt="Cinderwatch: a tower defense in a single HTML file"></a><br>
+<b><a href="https://kevintngo.github.io/cinderwatch/">Cinderwatch: a tower defense in a single HTML file</a></b><br>
+<sub>🆕 · <a href="https://x.com/kevin_t_ngo">@kevin_t_ngo</a> · ♥ 960 · <a href="https://x.com/kevin_t_ngo/status/2125119969109418333">▶ Video</a></sub><br>
+<sub>A 3D isometric tower defense that fits in one HTML file. A built-in AI commander can run the defense for you. Open source and playable in the browser.</sub><br>
+<sub><a href="https://github.com/kevintngo/cinderwatch">Source</a></sub>
 </td>
 <td width="33%" valign="top">
 <a href="https://ebb.tesana.com"><img src="assets/gifs/379.gif" width="100%" alt="EBB — a shapeshifting water platformer"></a><br>
 <b><a href="https://ebb.tesana.com">EBB — a shapeshifting water platformer</a></b><br>
-<sub>🆕 · <a href="https://x.com/Rubzem">@Rubzem</a> · ♥ 680 · <a href="https://x.com/Rubzem/status/2124142554371502140">▶ Video</a></sub><br>
+<sub>🆕 · <a href="https://x.com/Rubzem">@Rubzem</a> · ♥ 683 · <a href="https://x.com/Rubzem/status/2124142554371502140">▶ Video</a></sub><br>
 <sub>A physics platformer where you play as water that melts, freezes and floats to solve puzzles. Entirely procedural, 190 KB, built in one hour.</sub>
-</td>
-<td width="33%" valign="top">
-<a href="https://patch.gg/play/blendi/the-blue-hour"><img src="assets/gifs/387.gif" width="100%" alt="The Blue Hour — an art deco city at night"></a><br>
-<b><a href="https://patch.gg/play/blendi/the-blue-hour">The Blue Hour — an art deco city at night</a></b><br>
-<sub>🆕 · <a href="https://x.com/BlendiByl">@BlendiByl</a> · ♥ 634 · <a href="https://x.com/BlendiByl/status/2124439671006748853">▶ Video</a></sub><br>
-<sub>A 3D scene in the art deco style of the animated Batman series, all drawn in code. Open source.</sub>
 </td>
 </tr>
 </table>
@@ -235,7 +236,7 @@ Posted in the last 3 days, sorted by likes.
 <td width="33%" valign="top">
 <a href="https://gtashenzhen.com"><img src="assets/gifs/377.gif" width="100%" alt="GTA Shenzhen"></a><br>
 <b><a href="https://gtashenzhen.com">GTA Shenzhen</a></b><br>
-<sub>🆕 · <a href="https://x.com/KinGao476942">@KinGao476942</a> · ♥ 987 · <a href="https://x.com/KinGao476942/status/2123967104601014521">▶ Video</a></sub><br>
+<sub>🆕 · <a href="https://x.com/KinGao476942">@KinGao476942</a> · ♥ 1.0k · <a href="https://x.com/KinGao476942/status/2123967104601014521">▶ Video</a></sub><br>
 <sub>The whole city of Shenzhen built from OpenStreetMap data: 83,182 buildings and 62,088 roads. Fly over it, land and drive a car, search for any place, and set off a city-wide light show at night. Made with Fable 5.2 and Tripo in three days.</sub>
 </td>
 </tr>
@@ -243,8 +244,15 @@ Posted in the last 3 days, sorted by likes.
 <td width="33%" valign="top">
 <a href="https://thaxnay.com/ramayana/"><img src="assets/gifs/389.gif" width="100%" alt="Ramayana: The Sacred Fires"></a><br>
 <b><a href="https://thaxnay.com/ramayana/">Ramayana: The Sacred Fires</a></b><br>
-<sub>🆕 · <a href="https://x.com/Thaxnay">@Thaxnay</a> · ♥ 958 · <a href="https://x.com/Thaxnay/status/2124574054296219939">▶ Video</a></sub><br>
+<sub>🆕 · <a href="https://x.com/Thaxnay">@Thaxnay</a> · ♥ 973 · <a href="https://x.com/Thaxnay/status/2124574054296219939">▶ Video</a></sub><br>
 <sub>A third-person action-adventure where you play as Rama, cross an open valley, protect the sages and find secrets. Runs in the browser on desktop and mobile.</sub>
+</td>
+<td width="33%" valign="top">
+<a href="https://kevintngo.github.io/cinderwatch/"><img src="assets/gifs/398.gif" width="100%" alt="Cinderwatch: a tower defense in a single HTML file"></a><br>
+<b><a href="https://kevintngo.github.io/cinderwatch/">Cinderwatch: a tower defense in a single HTML file</a></b><br>
+<sub>🆕 · <a href="https://x.com/kevin_t_ngo">@kevin_t_ngo</a> · ♥ 960 · <a href="https://x.com/kevin_t_ngo/status/2125119969109418333">▶ Video</a></sub><br>
+<sub>A 3D isometric tower defense that fits in one HTML file. A built-in AI commander can run the defense for you. Open source and playable in the browser.</sub><br>
+<sub><a href="https://github.com/kevintngo/cinderwatch">Source</a></sub>
 </td>
 <td width="33%" valign="top">
 <a href="https://claude.ai/artifact/MXxb36zKgN261ckbGhmNin"><img src="assets/gifs/002.gif" width="100%" alt="Three Games (Saltline · The Clockmaker's Heart · Tidewright)"></a><br>
@@ -254,38 +262,32 @@ Posted in the last 3 days, sorted by likes.
 <sub><a href="https://claude.ai/artifact/6MjtQjf4ee1ZZjEpafaEpa">The Clockmaker's Heart</a> · <a href="https://claude.ai/artifact/JTgyEMn7sn1q2riWrMb7D4">Tidewright</a></sub><br>
 <sub><a href="https://fablelist.000ooo.ooo/prompts/?w=three-games-saltline-the-clockmaker-s-heart-tidewright&ref=gh"><b>✨ Get the prompt</b></a></sub>
 </td>
-<td width="33%" valign="top">
-<a href="https://patch.gg/play/blendi/solar"><img src="assets/gifs/323.gif" width="100%" alt="Solar: a tiny solar system you can fly around"></a><br>
-<b><a href="https://patch.gg/play/blendi/solar">Solar: a tiny solar system you can fly around</a></b><br>
-<sub><a href="https://x.com/BlendiByl">@BlendiByl</a> · ♥ 800 · <a href="https://x.com/BlendiByl/status/2122673770607591855">▶ Video</a></sub><br>
-<sub>Inspired by Outer Wilds: real orbits and gravity, unbroken flights between planets, and every world drawn by code. Open source.</sub>
-</td>
 </tr>
 <tr>
 <td width="33%" valign="top">
+<a href="https://patch.gg/play/blendi/solar"><img src="assets/gifs/323.gif" width="100%" alt="Solar: a tiny solar system you can fly around"></a><br>
+<b><a href="https://patch.gg/play/blendi/solar">Solar: a tiny solar system you can fly around</a></b><br>
+<sub><a href="https://x.com/BlendiByl">@BlendiByl</a> · ♥ 801 · <a href="https://x.com/BlendiByl/status/2122673770607591855">▶ Video</a></sub><br>
+<sub>Inspired by Outer Wilds: real orbits and gravity, unbroken flights between planets, and every world drawn by code. Open source.</sub>
+</td>
+<td width="33%" valign="top">
 <a href="https://patch.gg/blendi/coloured-pencil"><img src="assets/gifs/247.gif" width="100%" alt="Coloured Pencil"></a><br>
 <b><a href="https://patch.gg/blendi/coloured-pencil">Coloured Pencil</a></b><br>
-<sub><a href="https://x.com/BlendiByl">@BlendiByl</a> · ♥ 766 · <a href="https://x.com/BlendiByl/status/2121130385723789637">▶ Video</a></sub><br>
+<sub><a href="https://x.com/BlendiByl">@BlendiByl</a> · ♥ 765 · <a href="https://x.com/BlendiByl/status/2121130385723789637">▶ Video</a></sub><br>
 <sub>A colored-pencil game slice; every surface's shading and the whole town are code. Open source.</sub><br>
 <sub><a href="https://fablelist.000ooo.ooo/prompts/?w=coloured-pencil&ref=gh"><b>✨ Get the prompt</b></a></sub>
 </td>
 <td width="33%" valign="top">
 <a href="https://www.spawn.co/@mattshumer/voxel-engine"><img src="assets/gifs/004.gif" width="100%" alt="Voxel Engine"></a><br>
 <b><a href="https://www.spawn.co/@mattshumer/voxel-engine">Voxel Engine</a></b><br>
-<sub><a href="https://x.com/mattshumer_">@mattshumer_</a> · ♥ 744 · <a href="https://x.com/mattshumer_/status/2119870965106483384">▶ Video</a></sub><br>
+<sub><a href="https://x.com/mattshumer_">@mattshumer_</a> · ♥ 743 · <a href="https://x.com/mattshumer_/status/2119870965106483384">▶ Video</a></sub><br>
 <sub>Built from a single prompt. Sound on.</sub><br>
 <sub><a href="https://fablelist.000ooo.ooo/prompts/?w=voxel-engine&ref=gh"><b>✨ Get the prompt</b></a></sub>
-</td>
-<td width="33%" valign="top">
-<a href="https://ebb.tesana.com"><img src="assets/gifs/379.gif" width="100%" alt="EBB — a shapeshifting water platformer"></a><br>
-<b><a href="https://ebb.tesana.com">EBB — a shapeshifting water platformer</a></b><br>
-<sub>🆕 · <a href="https://x.com/Rubzem">@Rubzem</a> · ♥ 680 · <a href="https://x.com/Rubzem/status/2124142554371502140">▶ Video</a></sub><br>
-<sub>A physics platformer where you play as water that melts, freezes and floats to solve puzzles. Entirely procedural, 190 KB, built in one hour.</sub>
 </td>
 </tr>
 </table>
 
-<p align="center"><b><a href="all/games.md">See all 112 →</a></b></p>
+<p align="center"><b><a href="all/games.md">See all 113 →</a></b></p>
 
 <div align="right"><a href="#-contents">↑ Back to contents</a></div>
 
@@ -369,7 +371,7 @@ Posted in the last 3 days, sorted by likes.
 <td width="33%" valign="top">
 <a href="https://patch.gg/play/blendi/the-blue-hour"><img src="assets/gifs/387.gif" width="100%" alt="The Blue Hour — an art deco city at night"></a><br>
 <b><a href="https://patch.gg/play/blendi/the-blue-hour">The Blue Hour — an art deco city at night</a></b><br>
-<sub>🆕 · <a href="https://x.com/BlendiByl">@BlendiByl</a> · ♥ 634 · <a href="https://x.com/BlendiByl/status/2124439671006748853">▶ Video</a></sub><br>
+<sub>🆕 · <a href="https://x.com/BlendiByl">@BlendiByl</a> · ♥ 636 · <a href="https://x.com/BlendiByl/status/2124439671006748853">▶ Video</a></sub><br>
 <sub>A 3D scene in the art deco style of the animated Batman series, all drawn in code. Open source.</sub>
 </td>
 <td width="33%" valign="top">
@@ -567,7 +569,7 @@ Posted in the last 3 days, sorted by likes.
 <td width="33%" valign="top">
 <a href="https://frontier.every.to/experiments/ambient-town"><img src="assets/gifs/148.gif" width="100%" alt="Ambient Town"></a><br>
 <b><a href="https://frontier.every.to/experiments/ambient-town">Ambient Town</a></b><br>
-<sub><a href="https://x.com/kieranklaassen">@kieranklaassen</a> · ♥ 896 · <a href="https://x.com/kieranklaassen/status/2119868196773929160">▶ Video</a></sub><br>
+<sub><a href="https://x.com/kieranklaassen">@kieranklaassen</a> · ♥ 895 · <a href="https://x.com/kieranklaassen/status/2119868196773929160">▶ Video</a></sub><br>
 <sub>An ambient DAW built over a week of nights by a former film composer: Ableton Push support, mics, effects, a synth and an agent that composes with you. Click "Try it" on the page.</sub><br>
 <sub><a href="https://fablelist.000ooo.ooo/prompts/?w=ambient-town&ref=gh"><b>✨ Get the prompt</b></a></sub>
 </td>
@@ -610,7 +612,7 @@ Posted in the last 3 days, sorted by likes.
 <td width="33%" valign="top">
 <a href="https://claude.ai/artifact/4P1urBdptp6gWiJo3R6Vpv"><img src="assets/gifs/333.gif" width="100%" alt="Breakcore video sampler"></a><br>
 <b><a href="https://claude.ai/artifact/4P1urBdptp6gWiJo3R6Vpv">Breakcore video sampler</a></b><br>
-<sub><a href="https://x.com/parhelion318">@parhelion318</a> · ♥ 542 · <a href="https://x.com/parhelion318/status/2122723067533398064">▶ Video</a></sub><br>
+<sub><a href="https://x.com/parhelion318">@parhelion318</a> · ♥ 541 · <a href="https://x.com/parhelion318/status/2122723067533398064">▶ Video</a></sub><br>
 <sub>A browser sampler that chops video clips and rearranges them into breakcore rhythms.</sub>
 </td>
 </tr>
@@ -624,7 +626,7 @@ Posted in the last 3 days, sorted by likes.
 <td width="33%" valign="top">
 <a href="https://claude.ai/artifact/8yKUbL5KQgvfqcWH6UgZrq"><img src="assets/gifs/359.gif" width="100%" alt="Kastle Sim"></a><br>
 <b><a href="https://claude.ai/artifact/8yKUbL5KQgvfqcWH6UgZrq">Kastle Sim</a></b><br>
-<sub><a href="https://x.com/parhelion318">@parhelion318</a> · ♥ 466 · <a href="https://x.com/parhelion318/status/2123344270732202421">▶ Video</a></sub><br>
+<sub><a href="https://x.com/parhelion318">@parhelion318</a> · ♥ 467 · <a href="https://x.com/parhelion318/status/2123344270732202421">▶ Video</a></sub><br>
 <sub>A browser simulation of the Bastl Kastle mini modular synth: patch the cables, turn the knobs and it makes sound.</sub>
 </td>
 <td width="33%" valign="top">
@@ -647,7 +649,7 @@ Posted in the last 3 days, sorted by likes.
 <td width="33%" valign="top">
 <a href="https://rubber-hose-ui.vercel.app"><img src="assets/gifs/332.gif" width="100%" alt="Rubber Hose UI: controls as 1930s cartoon characters"></a><br>
 <b><a href="https://rubber-hose-ui.vercel.app">Rubber Hose UI: controls as 1930s cartoon characters</a></b><br>
-<sub><a href="https://x.com/crtvTeknologist">@crtvTeknologist</a> · ♥ 355 · <a href="https://x.com/crtvTeknologist/status/2122433522166124616">▶ Video</a></sub><br>
+<sub><a href="https://x.com/crtvTeknologist">@crtvTeknologist</a> · ♥ 354 · <a href="https://x.com/crtvTeknologist/status/2122433522166124616">▶ Video</a></sub><br>
 <sub>Eleven web controls drawn as rubber-hose cartoons: the slider is a trombone, the toast is a toaster, and the button gets a black eye each press. Vanilla JS and canvas, no dependencies, open source.</sub><br>
 <sub><a href="https://github.com/finktheartist/rubber-hose-ui">Source</a></sub>
 </td>
@@ -749,7 +751,7 @@ Posted in the last 3 days, sorted by likes.
 <td width="33%" valign="top">
 <a href="https://github.com/ChetasLua/the-last-good-pelican-fable-5.2"><img src="assets/gifs/352.gif" width="100%" alt="The Last Good Pelican"></a><br>
 <b><a href="https://github.com/ChetasLua/the-last-good-pelican-fable-5.2">The Last Good Pelican</a></b><br>
-<sub><a href="https://x.com/chetaslua">@chetaslua</a> · ♥ 144 · <a href="https://x.com/chetaslua/status/2123100140189958401">▶ Video</a></sub><br>
+<sub><a href="https://x.com/chetaslua">@chetaslua</a> · ♥ 143 · <a href="https://x.com/chetaslua/status/2123100140189958401">▶ Video</a></sub><br>
 <sub>A 60-second hand-drawn-look short in one offline HTML file: one day in the life of the only benchmark pelican that came out right. Canvas 2D for every drawing, Web Audio for every sound.</sub>
 </td>
 </tr>
@@ -763,7 +765,7 @@ Posted in the last 3 days, sorted by likes.
 <td width="33%" valign="top">
 <a href="https://github.com/Leonxlnx/koi-pond-keycap"><img src="assets/gifs/351.gif" width="100%" alt="Koi Pond Keycap"></a><br>
 <b><a href="https://github.com/Leonxlnx/koi-pond-keycap">Koi Pond Keycap</a></b><br>
-<sub><a href="https://x.com/LexnLin">@LexnLin</a> · ♥ 133 · <a href="https://x.com/LexnLin/status/2123174205306908806">▶ Video</a></sub><br>
+<sub><a href="https://x.com/LexnLin">@LexnLin</a> · ♥ 134 · <a href="https://x.com/LexnLin/status/2123174205306908806">▶ Video</a></sub><br>
 <sub>A 45-second Blender film of a clear resin keycap with a koi pond inside: a finger presses the key, ripples race across the water and the koi dart. Fully procedural Python, no external models or textures.</sub>
 </td>
 <td width="33%" valign="top">
@@ -919,6 +921,12 @@ Creators posted a video but no public link. Click a preview to watch the origina
 </tr>
 <tr>
 <td width="33%" valign="top">
+<a href="https://x.com/iamdavidhill/status/2124986830236106897"><img src="assets/gifs/397.gif" width="100%" alt="A character engine: switch character, style, pose and attitude in an instant"></a><br>
+<b><a href="https://x.com/iamdavidhill/status/2124986830236106897">A character engine: switch character, style, pose and attitude in an instant</a></b><br>
+<sub>🆕 · <a href="https://x.com/iamdavidhill">@iamdavidhill</a> · ♥ 2.7k · <a href="https://x.com/iamdavidhill/status/2124986830236106897">▶ Video</a></sub><br>
+
+</td>
+<td width="33%" valign="top">
 <a href="https://x.com/hayashimon1/status/2121943011525624151"><img src="assets/gifs/311.gif" width="100%" alt="A walk along an old station platform, via Blender MCP"></a><br>
 <b><a href="https://x.com/hayashimon1/status/2121943011525624151">A walk along an old station platform, via Blender MCP</a></b><br>
 <sub><a href="https://x.com/hayashimon1">@hayashimon1</a> · ♥ 2.6k · <a href="https://x.com/hayashimon1/status/2121943011525624151">▶ Video</a></sub><br>
@@ -931,6 +939,8 @@ Creators posted a video but no public link. Click a preview to watch the origina
 <br>
 <sub><a href="https://fablelist.000ooo.ooo/prompts/?w=an-animation-made-with-blender&ref=gh"><b>✨ Get the prompt</b></a></sub>
 </td>
+</tr>
+<tr>
 <td width="33%" valign="top">
 <a href="https://x.com/alexalbert__/status/2119916954337349737"><img src="assets/gifs/062.gif" width="100%" alt="Da Vinci's notebooks, interactive"></a><br>
 <b><a href="https://x.com/alexalbert__/status/2119916954337349737">Da Vinci's notebooks, interactive</a></b><br>
@@ -938,8 +948,6 @@ Creators posted a video but no public link. Click a preview to watch the origina
 <sub>A 500-year-old notebook PDF turned into inventions you can play with.</sub><br>
 <sub><a href="https://fablelist.000ooo.ooo/prompts/?w=da-vinci-s-notebooks-interactive&ref=gh"><b>✨ Get the prompt</b></a></sub>
 </td>
-</tr>
-<tr>
 <td width="33%" valign="top">
 <a href="https://x.com/ChrisGPT/status/2119998815856218494"><img src="assets/gifs/066.gif" width="100%" alt="A message to video editors"></a><br>
 <b><a href="https://x.com/ChrisGPT/status/2119998815856218494">A message to video editors</a></b><br>
@@ -953,17 +961,10 @@ Creators posted a video but no public link. Click a preview to watch the origina
 <sub><a href="https://x.com/kotaniko98765">@kotaniko98765</a> · ♥ 2.5k · <a href="https://x.com/kotaniko98765/status/2122266561960665539">▶ Video</a></sub><br>
 
 </td>
-<td width="33%" valign="top">
-<a href="https://x.com/theo/status/2119926277801144695"><img src="assets/gifs/063.gif" width="100%" alt="Fishslop run"></a><br>
-<b><a href="https://x.com/theo/status/2119926277801144695">Fishslop run</a></b><br>
-<sub><a href="https://x.com/theo">@theo</a> · ♥ 2.3k · <a href="https://x.com/theo/status/2119926277801144695">▶ Video</a></sub><br>
-<sub>76 minutes, ~$42.</sub><br>
-<sub><a href="https://fablelist.000ooo.ooo/prompts/?w=fishslop-run&ref=gh"><b>✨ Get the prompt</b></a></sub>
-</td>
 </tr>
 </table>
 
-<p align="center"><b><a href="all/video-demos.md">See all 150 →</a></b></p>
+<p align="center"><b><a href="all/video-demos.md">See all 152 →</a></b></p>
 
 ## 🤝 Contributing
 
@@ -983,7 +984,7 @@ All works belong to their creators. This repository only indexes them, keeping s
 
 ## 📰 News
 
-- **2026-11-24**: +3 live works and +1 video demos. 
+- **2026-11-24**: +4 live works and +3 video demos. 
 - **2026-11-23**: +4 live works and +1 video demos. 
 - **2026-11-22**: +10 live works and +2 video demos. 
 - **2026-11-21**: +7 live works and +1 video demos. 

@@ -87,7 +87,7 @@
 <td width="33%" valign="top">
 <a href="https://github.com/ChetasLua/the-last-good-pelican-fable-5.2"><img src="../assets/gifs/352.gif" width="100%" alt="The Last Good Pelican"></a><br>
 <b><a href="https://github.com/ChetasLua/the-last-good-pelican-fable-5.2">The Last Good Pelican</a></b><br>
-<sub><a href="https://x.com/chetaslua">@chetaslua</a> · ♥ 144 · <a href="https://x.com/chetaslua/status/2123100140189958401">▶ 影片</a></sub><br>
+<sub><a href="https://x.com/chetaslua">@chetaslua</a> · ♥ 143 · <a href="https://x.com/chetaslua/status/2123100140189958401">▶ 影片</a></sub><br>
 <sub>60 秒手繪風短片，只有一個可離線開啟的 HTML 檔：唯一一隻被畫對的基準測試鵜鶘的一天。所有畫面用 Canvas 2D，所有聲音用 Web Audio。</sub>
 </td>
 </tr>
@@ -101,7 +101,7 @@
 <td width="33%" valign="top">
 <a href="https://github.com/Leonxlnx/koi-pond-keycap"><img src="../assets/gifs/351.gif" width="100%" alt="Koi Pond Keycap"></a><br>
 <b><a href="https://github.com/Leonxlnx/koi-pond-keycap">Koi Pond Keycap</a></b><br>
-<sub><a href="https://x.com/LexnLin">@LexnLin</a> · ♥ 133 · <a href="https://x.com/LexnLin/status/2123174205306908806">▶ 影片</a></sub><br>
+<sub><a href="https://x.com/LexnLin">@LexnLin</a> · ♥ 134 · <a href="https://x.com/LexnLin/status/2123174205306908806">▶ 影片</a></sub><br>
 <sub>45 秒的 Blender 短片：透明樹脂鍵帽裡有一座錦鯉池，手指按下按鍵，漣漪掠過水面，錦鯉四散。完全以 Python 程序化生成，沒有外部模型或貼圖。</sub>
 </td>
 <td width="33%" valign="top">

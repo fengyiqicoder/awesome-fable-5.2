@@ -82,7 +82,7 @@
 <td width="33%" valign="top">
 <a href="https://patch.gg/play/blendi/the-blue-hour"><img src="../assets/gifs/387.gif" width="100%" alt="The Blue Hour — 아르데코풍 밤의 도시"></a><br>
 <b><a href="https://patch.gg/play/blendi/the-blue-hour">The Blue Hour — 아르데코풍 밤의 도시</a></b><br>
-<sub>🆕 · <a href="https://x.com/BlendiByl">@BlendiByl</a> · ♥ 634 · <a href="https://x.com/BlendiByl/status/2124439671006748853">▶ 영상</a></sub><br>
+<sub>🆕 · <a href="https://x.com/BlendiByl">@BlendiByl</a> · ♥ 636 · <a href="https://x.com/BlendiByl/status/2124439671006748853">▶ 영상</a></sub><br>
 <sub>애니메이션 '배트맨' 시리즈의 아르데코 스타일을 살린 3D 장면으로, 전부 코드로 그렸습니다. 오픈 소스.</sub>
 </td>
 <td width="33%" valign="top">
@@ -186,7 +186,7 @@
 <td width="33%" valign="top">
 <a href="https://claude.ai/artifact/HCzUsvWqERjQcgJjRuUUFo"><img src="../assets/gifs/386.gif" width="100%" alt="Rain-Soaked Noodle Stall — 픽셀 디오라마"></a><br>
 <b><a href="https://claude.ai/artifact/HCzUsvWqERjQcgJjRuUUFo">Rain-Soaked Noodle Stall — 픽셀 디오라마</a></b><br>
-<sub>🆕 · <a href="https://x.com/CapyCola">@CapyCola</a> · ♥ 136 · <a href="https://x.com/CapyCola/status/2124115057101664380">▶ 영상</a></sub><br>
+<sub>🆕 · <a href="https://x.com/CapyCola">@CapyCola</a> · ♥ 135 · <a href="https://x.com/CapyCola/status/2124115057101664380">▶ 영상</a></sub><br>
 <sub>비 내리는 국수 노점, 흔들리는 등불, 아무도 지켜보지 않는 국물 냄비, 그리고 아직 떠나지 않은 고양이. 드래그해 돌려 가며 어느 각도에서든 볼 수 있는 픽셀 장면으로, Fable 5.2와 Ink Studio로 만들었습니다.</sub><br>
 <sub><a href="https://github.com/cola5939/pixel-dioramas">소스 코드</a></sub>
 </td>
@@ -281,12 +281,21 @@
 <sub>JavaScript만으로 그린 밴쿠버 노을 파노라마.</sub>
 </td>
 <td width="33%" valign="top">
+<a href="https://claude.ai/artifact/QoBRCe2QuCU81MkNpVr4hd"><img src="../assets/gifs/393.gif" width="100%" alt="Vice Corner: 바이스 시티 길모퉁이를 담은 픽셀 디오라마"></a><br>
+<b><a href="https://claude.ai/artifact/QoBRCe2QuCU81MkNpVr4hd">Vice Corner: 바이스 시티 길모퉁이를 담은 픽셀 디오라마</a></b><br>
+<sub>🆕 · <a href="https://x.com/CapyCola">@CapyCola</a> · ♥ 30 · <a href="https://x.com/CapyCola/status/2124797996458229877">▶ 영상</a></sub><br>
+<sub>GTA 6 출시 직후 며칠 사이에 만든 바이스 시티 길모퉁이. 드래그하고 회전시켜 어느 각도에서든 볼 수 있는 픽셀 장면으로, Fable 5.2와 Ink Studio로 제작했다.</sub><br>
+<sub><a href="https://github.com/cola5939/pixel-dioramas">소스 코드</a></sub>
+</td>
+<td width="33%" valign="top">
 <a href="https://claude.ai/artifact/HGk1WNqTgrGEE8ndBkEipB"><img src="../assets/gifs/229.gif" width="100%" alt="픽셀 아트에서 3D 월드로"></a><br>
 <b><a href="https://claude.ai/artifact/HGk1WNqTgrGEE8ndBkEipB">픽셀 아트에서 3D 월드로</a></b><br>
 <sub><a href="https://x.com/dfeinition">@dfeinition</a> · ♥ 29 · <a href="https://x.com/dfeinition/status/2120933859999059970">▶ 영상</a></sub><br>
 <sub>픽셀 아트 한 점을 인터랙티브 3D 월드로 바꾸고, 고래가 만드는 과정을 보여줍니다.</sub><br>
 <sub><a href="https://fablelist.000ooo.ooo/ko/prompts/?w=pixel-art-to-3d-world&ref=gh"><b>✨ 프롬프트 받기</b></a></sub>
 </td>
+</tr>
+<tr>
 <td width="33%" valign="top">
 <a href="https://galaxy-dive.vercel.app"><img src="../assets/gifs/141.gif" width="100%" alt="Galaxy Dive"></a><br>
 <b><a href="https://galaxy-dive.vercel.app">Galaxy Dive</a></b><br>
@@ -294,8 +303,6 @@
 <sub>"신은 6일이 걸렸고, Fable 5.2는 20분이 걸렸다." 은하 속으로 날아 들어가세요.</sub><br>
 <sub><a href="https://fablelist.000ooo.ooo/ko/prompts/?w=galaxy-dive&ref=gh"><b>✨ 프롬프트 받기</b></a></sub>
 </td>
-</tr>
-<tr>
 <td width="33%" valign="top">
 <a href="https://calibre-watch-snowy.vercel.app/"><img src="../assets/gifs/192.gif" width="100%" alt="Calibre 5.2 시계"></a><br>
 <b><a href="https://calibre-watch-snowy.vercel.app/">Calibre 5.2 시계</a></b><br>
@@ -309,6 +316,8 @@
 <sub><a href="https://x.com/tokifyi">@tokifyi</a> · ♥ 22 · <a href="https://x.com/tokifyi/status/2121367097972531412">▶ 영상</a></sub><br>
 <sub>프롬프트 하나, 순수 JavaScript 캔버스: 다리, 스카이라인, 안개, 반사, 케이블카까지 이미지나 라이브러리 없이.</sub>
 </td>
+</tr>
+<tr>
 <td width="33%" valign="top">
 <a href="https://claude.ai/artifact/7nmzhxeamcunJbKVK32ptz"><img src="../assets/gifs/029.gif" width="100%" alt="Voxel Colosseum"></a><br>
 <b><a href="https://claude.ai/artifact/7nmzhxeamcunJbKVK32ptz">Voxel Colosseum</a></b><br>
@@ -316,15 +325,6 @@
 <sub>폐허가 된 안쪽 링을 걸어 다녀 보세요. 비교용으로 Opus 5.5의 디오라마 버전 링크 포함.</sub><br>
 <sub><a href="https://claude.ai/artifact/B7ZmVS7Yr3BUc99ZyGk2bX">Opus 5.5 version</a></sub><br>
 <sub><a href="https://fablelist.000ooo.ooo/ko/prompts/?w=voxel-colosseum&ref=gh"><b>✨ 프롬프트 받기</b></a></sub>
-</td>
-</tr>
-<tr>
-<td width="33%" valign="top">
-<a href="https://claude.ai/artifact/QoBRCe2QuCU81MkNpVr4hd"><img src="../assets/gifs/393.gif" width="100%" alt="Vice Corner: 바이스 시티 길모퉁이를 담은 픽셀 디오라마"></a><br>
-<b><a href="https://claude.ai/artifact/QoBRCe2QuCU81MkNpVr4hd">Vice Corner: 바이스 시티 길모퉁이를 담은 픽셀 디오라마</a></b><br>
-<sub>🆕 · <a href="https://x.com/CapyCola">@CapyCola</a> · ♥ 16 · <a href="https://x.com/CapyCola/status/2124797996458229877">▶ 영상</a></sub><br>
-<sub>GTA 6 출시 직후 며칠 사이에 만든 바이스 시티 길모퉁이. 드래그하고 회전시켜 어느 각도에서든 볼 수 있는 픽셀 장면으로, Fable 5.2와 Ink Studio로 제작했다.</sub><br>
-<sub><a href="https://github.com/cola5939/pixel-dioramas">소스 코드</a></sub>
 </td>
 <td width="33%" valign="top">
 <a href="https://glittery-stardust-885b97.netlify.app"><img src="../assets/gifs/233.gif" width="100%" alt="HX-6 Hexapod, Three Worlds"></a><br>

@@ -94,7 +94,7 @@
 <td width="33%" valign="top">
 <a href="https://frontier.every.to/experiments/ambient-town"><img src="../assets/gifs/148.gif" width="100%" alt="Ambient Town"></a><br>
 <b><a href="https://frontier.every.to/experiments/ambient-town">Ambient Town</a></b><br>
-<sub><a href="https://x.com/kieranklaassen">@kieranklaassen</a> · ♥ 896 · <a href="https://x.com/kieranklaassen/status/2119868196773929160">▶ 영상</a></sub><br>
+<sub><a href="https://x.com/kieranklaassen">@kieranklaassen</a> · ♥ 895 · <a href="https://x.com/kieranklaassen/status/2119868196773929160">▶ 영상</a></sub><br>
 <sub>전직 영화 작곡가가 일주일 밤 동안 만든 앰비언트 DAW: Ableton Push 지원, 마이크, 이펙트, 신디사이저, 함께 작곡하는 에이전트. 페이지의 "Try it"을 클릭하세요.</sub><br>
 <sub><a href="https://fablelist.000ooo.ooo/ko/prompts/?w=ambient-town&ref=gh"><b>✨ 프롬프트 받기</b></a></sub>
 </td>
@@ -137,7 +137,7 @@
 <td width="33%" valign="top">
 <a href="https://claude.ai/artifact/4P1urBdptp6gWiJo3R6Vpv"><img src="../assets/gifs/333.gif" width="100%" alt="Breakcore 비디오 샘플러"></a><br>
 <b><a href="https://claude.ai/artifact/4P1urBdptp6gWiJo3R6Vpv">Breakcore 비디오 샘플러</a></b><br>
-<sub><a href="https://x.com/parhelion318">@parhelion318</a> · ♥ 542 · <a href="https://x.com/parhelion318/status/2122723067533398064">▶ 영상</a></sub><br>
+<sub><a href="https://x.com/parhelion318">@parhelion318</a> · ♥ 541 · <a href="https://x.com/parhelion318/status/2122723067533398064">▶ 영상</a></sub><br>
 <sub>영상 클립을 잘게 잘라 breakcore 리듬으로 재배열하는 브라우저 샘플러.</sub>
 </td>
 </tr>
@@ -151,7 +151,7 @@
 <td width="33%" valign="top">
 <a href="https://claude.ai/artifact/8yKUbL5KQgvfqcWH6UgZrq"><img src="../assets/gifs/359.gif" width="100%" alt="Kastle Sim"></a><br>
 <b><a href="https://claude.ai/artifact/8yKUbL5KQgvfqcWH6UgZrq">Kastle Sim</a></b><br>
-<sub><a href="https://x.com/parhelion318">@parhelion318</a> · ♥ 466 · <a href="https://x.com/parhelion318/status/2123344270732202421">▶ 영상</a></sub><br>
+<sub><a href="https://x.com/parhelion318">@parhelion318</a> · ♥ 467 · <a href="https://x.com/parhelion318/status/2123344270732202421">▶ 영상</a></sub><br>
 <sub>미니 모듈러 신스 Bastl Kastle을 브라우저에서 시뮬레이션했다. 케이블을 연결하고 노브를 돌리면 소리가 난다.</sub>
 </td>
 <td width="33%" valign="top">
@@ -174,7 +174,7 @@
 <td width="33%" valign="top">
 <a href="https://rubber-hose-ui.vercel.app"><img src="../assets/gifs/332.gif" width="100%" alt="Rubber Hose UI: 1930년대 만화 캐릭터 컨트롤"></a><br>
 <b><a href="https://rubber-hose-ui.vercel.app">Rubber Hose UI: 1930년대 만화 캐릭터 컨트롤</a></b><br>
-<sub><a href="https://x.com/crtvTeknologist">@crtvTeknologist</a> · ♥ 355 · <a href="https://x.com/crtvTeknologist/status/2122433522166124616">▶ 영상</a></sub><br>
+<sub><a href="https://x.com/crtvTeknologist">@crtvTeknologist</a> · ♥ 354 · <a href="https://x.com/crtvTeknologist/status/2122433522166124616">▶ 영상</a></sub><br>
 <sub>웹 컨트롤 11개를 러버 호스 만화로 그렸다. 슬라이더는 트롬본, 토스트는 토스터, 버튼은 누를 때마다 눈에 멍이 든다. 순수 JS와 canvas, 의존성 없음, 오픈소스.</sub><br>
 <sub><a href="https://github.com/finktheartist/rubber-hose-ui">소스 코드</a></sub>
 </td>
@@ -267,7 +267,7 @@
 <td width="33%" valign="top">
 <a href="https://andreysuperiorgit.github.io/v8/"><img src="../assets/gifs/373.gif" width="100%" alt="V8 Four-Stroke"></a><br>
 <b><a href="https://andreysuperiorgit.github.io/v8/">V8 Four-Stroke</a></b><br>
-<sub><a href="https://x.com/andreysuperior">@andreysuperior</a> · ♥ 73 · <a href="https://x.com/andreysuperior/status/2123928682603430384">▶ 영상</a></sub><br>
+<sub><a href="https://x.com/andreysuperior">@andreysuperior</a> · ♥ 74 · <a href="https://x.com/andreysuperior/status/2123928682603430384">▶ 영상</a></sub><br>
 <sub>브라우저 탭에서 공회전을 올려 볼 수 있는 7.0리터 V8. 피스톤, 크랭크, 캠축, 밸브 16개가 실제 치수대로 움직이고 회전수가 오르면 배기 매니폴드가 달아오른다. 124 KB짜리 HTML 파일 하나, 프롬프트 1번에 추가 요청 23번.</sub>
 </td>
 </tr>
@@ -310,7 +310,7 @@
 <td width="33%" valign="top">
 <a href="https://zkevinbai.com/apps/tesla-fsd"><img src="../assets/gifs/394.gif" width="100%" alt="How FSD Drives"></a><br>
 <b><a href="https://zkevinbai.com/apps/tesla-fsd">How FSD Drives</a></b><br>
-<sub>🆕 · <a href="https://x.com/zkevinbai">@zkevinbai</a> · ♥ 32 · <a href="https://x.com/zkevinbai/status/2124626274367005100">▶ 영상</a></sub><br>
+<sub>🆕 · <a href="https://x.com/zkevinbai">@zkevinbai</a> · ♥ 31 · <a href="https://x.com/zkevinbai/status/2124626274367005100">▶ 영상</a></sub><br>
 <sub>Tesla FSD를 통째로 구현한 시뮬레이션. 카메라 7대가 각각 무엇을 보는지 확인하고, 직접 운전대를 잡아 볼 수도 있다.</sub>
 </td>
 </tr>

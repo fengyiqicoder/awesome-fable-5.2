@@ -87,7 +87,7 @@
 <td width="33%" valign="top">
 <a href="https://github.com/ChetasLua/the-last-good-pelican-fable-5.2"><img src="../assets/gifs/352.gif" width="100%" alt="The Last Good Pelican"></a><br>
 <b><a href="https://github.com/ChetasLua/the-last-good-pelican-fable-5.2">The Last Good Pelican</a></b><br>
-<sub><a href="https://x.com/chetaslua">@chetaslua</a> · ♥ 144 · <a href="https://x.com/chetaslua/status/2123100140189958401">▶ Видео</a></sub><br>
+<sub><a href="https://x.com/chetaslua">@chetaslua</a> · ♥ 143 · <a href="https://x.com/chetaslua/status/2123100140189958401">▶ Видео</a></sub><br>
 <sub>60-секундная короткометражка в рисованном стиле в одном офлайн-файле HTML: один день из жизни единственного бенчмарк-пеликана, который получился правильно. Вся графика на Canvas 2D, весь звук на Web Audio.</sub>
 </td>
 </tr>
@@ -101,7 +101,7 @@
 <td width="33%" valign="top">
 <a href="https://github.com/Leonxlnx/koi-pond-keycap"><img src="../assets/gifs/351.gif" width="100%" alt="Koi Pond Keycap"></a><br>
 <b><a href="https://github.com/Leonxlnx/koi-pond-keycap">Koi Pond Keycap</a></b><br>
-<sub><a href="https://x.com/LexnLin">@LexnLin</a> · ♥ 133 · <a href="https://x.com/LexnLin/status/2123174205306908806">▶ Видео</a></sub><br>
+<sub><a href="https://x.com/LexnLin">@LexnLin</a> · ♥ 134 · <a href="https://x.com/LexnLin/status/2123174205306908806">▶ Видео</a></sub><br>
 <sub>45-секундный ролик в Blender: прозрачный кейкап из смолы с прудом с карпами кои внутри. Палец нажимает клавишу, по воде бегут круги, карпы бросаются врассыпную. Полностью процедурный Python, без внешних моделей и текстур.</sub>
 </td>
 <td width="33%" valign="top">

@@ -94,7 +94,7 @@
 <td width="33%" valign="top">
 <a href="https://frontier.every.to/experiments/ambient-town"><img src="../assets/gifs/148.gif" width="100%" alt="Ambient Town"></a><br>
 <b><a href="https://frontier.every.to/experiments/ambient-town">Ambient Town</a></b><br>
-<sub><a href="https://x.com/kieranklaassen">@kieranklaassen</a> · ♥ 896 · <a href="https://x.com/kieranklaassen/status/2119868196773929160">▶ 影片</a></sub><br>
+<sub><a href="https://x.com/kieranklaassen">@kieranklaassen</a> · ♥ 895 · <a href="https://x.com/kieranklaassen/status/2119868196773929160">▶ 影片</a></sub><br>
 <sub>一位前電影配樂家花了一週夜晚打造的氛圍音樂 DAW：支援 Ableton Push、麥克風、效果器、合成器，還有能與你一起作曲的 Agent。請點頁面上的「Try it」。</sub><br>
 <sub><a href="https://fablelist.000ooo.ooo/zh-tw/prompts/?w=ambient-town&ref=gh"><b>✨ 取得提示詞</b></a></sub>
 </td>
@@ -137,7 +137,7 @@
 <td width="33%" valign="top">
 <a href="https://claude.ai/artifact/4P1urBdptp6gWiJo3R6Vpv"><img src="../assets/gifs/333.gif" width="100%" alt="Breakcore 影片取樣器"></a><br>
 <b><a href="https://claude.ai/artifact/4P1urBdptp6gWiJo3R6Vpv">Breakcore 影片取樣器</a></b><br>
-<sub><a href="https://x.com/parhelion318">@parhelion318</a> · ♥ 542 · <a href="https://x.com/parhelion318/status/2122723067533398064">▶ 影片</a></sub><br>
+<sub><a href="https://x.com/parhelion318">@parhelion318</a> · ♥ 541 · <a href="https://x.com/parhelion318/status/2122723067533398064">▶ 影片</a></sub><br>
 <sub>在瀏覽器裡把影片片段切碎，重排成 breakcore 節奏的取樣器。</sub>
 </td>
 </tr>
@@ -151,7 +151,7 @@
 <td width="33%" valign="top">
 <a href="https://claude.ai/artifact/8yKUbL5KQgvfqcWH6UgZrq"><img src="../assets/gifs/359.gif" width="100%" alt="Kastle Sim"></a><br>
 <b><a href="https://claude.ai/artifact/8yKUbL5KQgvfqcWH6UgZrq">Kastle Sim</a></b><br>
-<sub><a href="https://x.com/parhelion318">@parhelion318</a> · ♥ 466 · <a href="https://x.com/parhelion318/status/2123344270732202421">▶ 影片</a></sub><br>
+<sub><a href="https://x.com/parhelion318">@parhelion318</a> · ♥ 467 · <a href="https://x.com/parhelion318/status/2123344270732202421">▶ 影片</a></sub><br>
 <sub>在瀏覽器裡模擬 Bastl Kastle 迷你模組合成器：接上線、轉動旋鈕就會出聲。</sub>
 </td>
 <td width="33%" valign="top">
@@ -174,7 +174,7 @@
 <td width="33%" valign="top">
 <a href="https://rubber-hose-ui.vercel.app"><img src="../assets/gifs/332.gif" width="100%" alt="Rubber Hose UI：1930 年代卡通角色控制項"></a><br>
 <b><a href="https://rubber-hose-ui.vercel.app">Rubber Hose UI：1930 年代卡通角色控制項</a></b><br>
-<sub><a href="https://x.com/crtvTeknologist">@crtvTeknologist</a> · ♥ 355 · <a href="https://x.com/crtvTeknologist/status/2122433522166124616">▶ 影片</a></sub><br>
+<sub><a href="https://x.com/crtvTeknologist">@crtvTeknologist</a> · ♥ 354 · <a href="https://x.com/crtvTeknologist/status/2122433522166124616">▶ 影片</a></sub><br>
 <sub>11 個網頁控制項畫成橡皮管卡通：滑桿是長號，提示框是烤麵包機，按鈕每按一次就多一個黑眼圈。原生 JS 加 canvas，零依賴，開源。</sub><br>
 <sub><a href="https://github.com/finktheartist/rubber-hose-ui">原始碼</a></sub>
 </td>
@@ -267,7 +267,7 @@
 <td width="33%" valign="top">
 <a href="https://andreysuperiorgit.github.io/v8/"><img src="../assets/gifs/373.gif" width="100%" alt="V8 Four-Stroke"></a><br>
 <b><a href="https://andreysuperiorgit.github.io/v8/">V8 Four-Stroke</a></b><br>
-<sub><a href="https://x.com/andreysuperior">@andreysuperior</a> · ♥ 73 · <a href="https://x.com/andreysuperior/status/2123928682603430384">▶ 影片</a></sub><br>
+<sub><a href="https://x.com/andreysuperior">@andreysuperior</a> · ♥ 74 · <a href="https://x.com/andreysuperior/status/2123928682603430384">▶ 影片</a></sub><br>
 <sub>瀏覽器分頁裡一台能催油門的 7.0 升 V8：活塞、曲軸、凸輪軸和 16 個氣門依真實尺寸運動，轉速越高排氣頭段越紅。一個 124 KB 的 HTML 檔，1 句提示詞加 23 次追問。</sub>
 </td>
 </tr>
@@ -310,7 +310,7 @@
 <td width="33%" valign="top">
 <a href="https://zkevinbai.com/apps/tesla-fsd"><img src="../assets/gifs/394.gif" width="100%" alt="How FSD Drives"></a><br>
 <b><a href="https://zkevinbai.com/apps/tesla-fsd">How FSD Drives</a></b><br>
-<sub>🆕 · <a href="https://x.com/zkevinbai">@zkevinbai</a> · ♥ 32 · <a href="https://x.com/zkevinbai/status/2124626274367005100">▶ 影片</a></sub><br>
+<sub>🆕 · <a href="https://x.com/zkevinbai">@zkevinbai</a> · ♥ 31 · <a href="https://x.com/zkevinbai/status/2124626274367005100">▶ 影片</a></sub><br>
 <sub>一套完整的 Tesla FSD 模擬。看看七個鏡頭各自看到什麼，再自己接手方向盤。</sub>
 </td>
 </tr>

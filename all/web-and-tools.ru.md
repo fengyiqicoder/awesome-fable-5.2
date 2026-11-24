@@ -94,7 +94,7 @@
 <td width="33%" valign="top">
 <a href="https://frontier.every.to/experiments/ambient-town"><img src="../assets/gifs/148.gif" width="100%" alt="Ambient Town"></a><br>
 <b><a href="https://frontier.every.to/experiments/ambient-town">Ambient Town</a></b><br>
-<sub><a href="https://x.com/kieranklaassen">@kieranklaassen</a> · ♥ 896 · <a href="https://x.com/kieranklaassen/status/2119868196773929160">▶ Видео</a></sub><br>
+<sub><a href="https://x.com/kieranklaassen">@kieranklaassen</a> · ♥ 895 · <a href="https://x.com/kieranklaassen/status/2119868196773929160">▶ Видео</a></sub><br>
 <sub>Эмбиент-DAW, которую бывший кинокомпозитор строил неделю по ночам: поддержка Ableton Push, микрофоны, эффекты, синтезатор и агент, который сочиняет вместе с вами. Нажмите «Try it» на странице.</sub><br>
 <sub><a href="https://fablelist.000ooo.ooo/ru/prompts/?w=ambient-town&ref=gh"><b>✨ Получить промпт</b></a></sub>
 </td>
@@ -137,7 +137,7 @@
 <td width="33%" valign="top">
 <a href="https://claude.ai/artifact/4P1urBdptp6gWiJo3R6Vpv"><img src="../assets/gifs/333.gif" width="100%" alt="Breakcore-видеосэмплер"></a><br>
 <b><a href="https://claude.ai/artifact/4P1urBdptp6gWiJo3R6Vpv">Breakcore-видеосэмплер</a></b><br>
-<sub><a href="https://x.com/parhelion318">@parhelion318</a> · ♥ 542 · <a href="https://x.com/parhelion318/status/2122723067533398064">▶ Видео</a></sub><br>
+<sub><a href="https://x.com/parhelion318">@parhelion318</a> · ♥ 541 · <a href="https://x.com/parhelion318/status/2122723067533398064">▶ Видео</a></sub><br>
 <sub>Сэмплер в браузере, который нарезает видеоклипы и пересобирает их в ритмы breakcore.</sub>
 </td>
 </tr>
@@ -151,7 +151,7 @@
 <td width="33%" valign="top">
 <a href="https://claude.ai/artifact/8yKUbL5KQgvfqcWH6UgZrq"><img src="../assets/gifs/359.gif" width="100%" alt="Kastle Sim"></a><br>
 <b><a href="https://claude.ai/artifact/8yKUbL5KQgvfqcWH6UgZrq">Kastle Sim</a></b><br>
-<sub><a href="https://x.com/parhelion318">@parhelion318</a> · ♥ 466 · <a href="https://x.com/parhelion318/status/2123344270732202421">▶ Видео</a></sub><br>
+<sub><a href="https://x.com/parhelion318">@parhelion318</a> · ♥ 467 · <a href="https://x.com/parhelion318/status/2123344270732202421">▶ Видео</a></sub><br>
 <sub>Симуляция мини-модульного синтезатора Bastl Kastle в браузере: соединяйте гнёзда проводами, крутите ручки — и он звучит.</sub>
 </td>
 <td width="33%" valign="top">
@@ -174,7 +174,7 @@
 <td width="33%" valign="top">
 <a href="https://rubber-hose-ui.vercel.app"><img src="../assets/gifs/332.gif" width="100%" alt="Rubber Hose UI: элементы управления в виде мультяшек 1930-х"></a><br>
 <b><a href="https://rubber-hose-ui.vercel.app">Rubber Hose UI: элементы управления в виде мультяшек 1930-х</a></b><br>
-<sub><a href="https://x.com/crtvTeknologist">@crtvTeknologist</a> · ♥ 355 · <a href="https://x.com/crtvTeknologist/status/2122433522166124616">▶ Видео</a></sub><br>
+<sub><a href="https://x.com/crtvTeknologist">@crtvTeknologist</a> · ♥ 354 · <a href="https://x.com/crtvTeknologist/status/2122433522166124616">▶ Видео</a></sub><br>
 <sub>Одиннадцать веб-контролов в стиле rubber hose: слайдер стал тромбоном, тост стал тостером, а кнопка получает синяк под глазом при каждом нажатии. Чистый JS и canvas, без зависимостей, открытый код.</sub><br>
 <sub><a href="https://github.com/finktheartist/rubber-hose-ui">Исходный код</a></sub>
 </td>
@@ -267,7 +267,7 @@
 <td width="33%" valign="top">
 <a href="https://andreysuperiorgit.github.io/v8/"><img src="../assets/gifs/373.gif" width="100%" alt="V8 Four-Stroke"></a><br>
 <b><a href="https://andreysuperiorgit.github.io/v8/">V8 Four-Stroke</a></b><br>
-<sub><a href="https://x.com/andreysuperior">@andreysuperior</a> · ♥ 73 · <a href="https://x.com/andreysuperior/status/2123928682603430384">▶ Видео</a></sub><br>
+<sub><a href="https://x.com/andreysuperior">@andreysuperior</a> · ♥ 74 · <a href="https://x.com/andreysuperior/status/2123928682603430384">▶ Видео</a></sub><br>
 <sub>7,0-литровый V8, который можно раскрутить прямо во вкладке браузера: поршни, коленвал, распредвал и 16 клапанов движутся по реальным размерам, а коллекторы раскаляются с ростом оборотов. Один HTML-файл на 124 КБ, 1 промпт и 23 уточнения.</sub>
 </td>
 </tr>
@@ -310,7 +310,7 @@
 <td width="33%" valign="top">
 <a href="https://zkevinbai.com/apps/tesla-fsd"><img src="../assets/gifs/394.gif" width="100%" alt="How FSD Drives"></a><br>
 <b><a href="https://zkevinbai.com/apps/tesla-fsd">How FSD Drives</a></b><br>
-<sub>🆕 · <a href="https://x.com/zkevinbai">@zkevinbai</a> · ♥ 32 · <a href="https://x.com/zkevinbai/status/2124626274367005100">▶ Видео</a></sub><br>
+<sub>🆕 · <a href="https://x.com/zkevinbai">@zkevinbai</a> · ♥ 31 · <a href="https://x.com/zkevinbai/status/2124626274367005100">▶ Видео</a></sub><br>
 <sub>Полная симуляция Tesla FSD. Посмотрите, что видит каждая из семи камер, а потом сами возьмите руль.</sub>
 </td>
 </tr>

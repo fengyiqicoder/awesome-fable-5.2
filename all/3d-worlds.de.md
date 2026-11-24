@@ -82,7 +82,7 @@ Die Hauptseite zeigt pro Bereich höchstens die 24 Einträge mit den meisten Lik
 <td width="33%" valign="top">
 <a href="https://patch.gg/play/blendi/the-blue-hour"><img src="../assets/gifs/387.gif" width="100%" alt="The Blue Hour — eine Art-déco-Stadt bei Nacht"></a><br>
 <b><a href="https://patch.gg/play/blendi/the-blue-hour">The Blue Hour — eine Art-déco-Stadt bei Nacht</a></b><br>
-<sub>🆕 · <a href="https://x.com/BlendiByl">@BlendiByl</a> · ♥ 634 · <a href="https://x.com/BlendiByl/status/2124439671006748853">▶ Video</a></sub><br>
+<sub>🆕 · <a href="https://x.com/BlendiByl">@BlendiByl</a> · ♥ 636 · <a href="https://x.com/BlendiByl/status/2124439671006748853">▶ Video</a></sub><br>
 <sub>Eine 3D-Szene im Art-déco-Stil der Batman-Zeichentrickserie, komplett in Code gezeichnet. Open Source.</sub>
 </td>
 <td width="33%" valign="top">
@@ -186,7 +186,7 @@ Die Hauptseite zeigt pro Bereich höchstens die 24 Einträge mit den meisten Lik
 <td width="33%" valign="top">
 <a href="https://claude.ai/artifact/HCzUsvWqERjQcgJjRuUUFo"><img src="../assets/gifs/386.gif" width="100%" alt="Rain-Soaked Noodle Stall — ein Pixel-Diorama"></a><br>
 <b><a href="https://claude.ai/artifact/HCzUsvWqERjQcgJjRuUUFo">Rain-Soaked Noodle Stall — ein Pixel-Diorama</a></b><br>
-<sub>🆕 · <a href="https://x.com/CapyCola">@CapyCola</a> · ♥ 136 · <a href="https://x.com/CapyCola/status/2124115057101664380">▶ Video</a></sub><br>
+<sub>🆕 · <a href="https://x.com/CapyCola">@CapyCola</a> · ♥ 135 · <a href="https://x.com/CapyCola/status/2124115057101664380">▶ Video</a></sub><br>
 <sub>Ein Nudelstand im Regen, schaukelnde Laternen, ein Topf Suppe, auf den niemand aufpasst, und eine Katze, die noch nicht gegangen ist. Eine Pixelszene, die du ziehen und drehen kannst, um sie aus jedem Winkel zu sehen – gemacht mit Fable 5.2 und Ink Studio.</sub><br>
 <sub><a href="https://github.com/cola5939/pixel-dioramas">Quellcode</a></sub>
 </td>
@@ -281,12 +281,21 @@ Die Hauptseite zeigt pro Bereich höchstens die 24 Einträge mit den meisten Lik
 <sub>Ein Panorama von Vancouver bei Sonnenuntergang, komplett in JavaScript gezeichnet.</sub>
 </td>
 <td width="33%" valign="top">
+<a href="https://claude.ai/artifact/QoBRCe2QuCU81MkNpVr4hd"><img src="../assets/gifs/393.gif" width="100%" alt="Vice Corner: ein Pixel-Diorama einer Straßenecke in Vice City"></a><br>
+<b><a href="https://claude.ai/artifact/QoBRCe2QuCU81MkNpVr4hd">Vice Corner: ein Pixel-Diorama einer Straßenecke in Vice City</a></b><br>
+<sub>🆕 · <a href="https://x.com/CapyCola">@CapyCola</a> · ♥ 30 · <a href="https://x.com/CapyCola/status/2124797996458229877">▶ Video</a></sub><br>
+<sub>Eine Straßenecke in Vice City, entstanden in den Tagen nach dem Start von GTA 6. Eine Pixelszene, die man ziehen, drehen und aus jedem Winkel betrachten kann, gebaut mit Fable 5.2 und Ink Studio.</sub><br>
+<sub><a href="https://github.com/cola5939/pixel-dioramas">Quellcode</a></sub>
+</td>
+<td width="33%" valign="top">
 <a href="https://claude.ai/artifact/HGk1WNqTgrGEE8ndBkEipB"><img src="../assets/gifs/229.gif" width="100%" alt="Pixel-Art zu 3D-Welt"></a><br>
 <b><a href="https://claude.ai/artifact/HGk1WNqTgrGEE8ndBkEipB">Pixel-Art zu 3D-Welt</a></b><br>
 <sub><a href="https://x.com/dfeinition">@dfeinition</a> · ♥ 29 · <a href="https://x.com/dfeinition/status/2120933859999059970">▶ Video</a></sub><br>
 <sub>Ein Stück Pixel-Art, verwandelt in eine interaktive 3D-Welt, mit einem Wal, der zeigt, wie sie entstanden ist.</sub><br>
 <sub><a href="https://fablelist.000ooo.ooo/de/prompts/?w=pixel-art-to-3d-world&ref=gh"><b>✨ Prompt holen</b></a></sub>
 </td>
+</tr>
+<tr>
 <td width="33%" valign="top">
 <a href="https://galaxy-dive.vercel.app"><img src="../assets/gifs/141.gif" width="100%" alt="Galaxy Dive"></a><br>
 <b><a href="https://galaxy-dive.vercel.app">Galaxy Dive</a></b><br>
@@ -294,8 +303,6 @@ Die Hauptseite zeigt pro Bereich höchstens die 24 Einträge mit den meisten Lik
 <sub>„God took 6 days, Fable 5.2 took 20 min.“ Flieg in eine Galaxie.</sub><br>
 <sub><a href="https://fablelist.000ooo.ooo/de/prompts/?w=galaxy-dive&ref=gh"><b>✨ Prompt holen</b></a></sub>
 </td>
-</tr>
-<tr>
 <td width="33%" valign="top">
 <a href="https://calibre-watch-snowy.vercel.app/"><img src="../assets/gifs/192.gif" width="100%" alt="Calibre 5.2 Uhr"></a><br>
 <b><a href="https://calibre-watch-snowy.vercel.app/">Calibre 5.2 Uhr</a></b><br>
@@ -309,6 +316,8 @@ Die Hauptseite zeigt pro Bereich höchstens die 24 Einträge mit den meisten Lik
 <sub><a href="https://x.com/tokifyi">@tokifyi</a> · ♥ 22 · <a href="https://x.com/tokifyi/status/2121367097972531412">▶ Video</a></sub><br>
 <sub>Ein Prompt, reines JavaScript-Canvas: Brücke, Skyline, Nebel, Spiegelungen und eine Cable Car, ohne Bilder oder Bibliotheken.</sub>
 </td>
+</tr>
+<tr>
 <td width="33%" valign="top">
 <a href="https://claude.ai/artifact/7nmzhxeamcunJbKVK32ptz"><img src="../assets/gifs/029.gif" width="100%" alt="Voxel Colosseum"></a><br>
 <b><a href="https://claude.ai/artifact/7nmzhxeamcunJbKVK32ptz">Voxel Colosseum</a></b><br>
@@ -316,15 +325,6 @@ Die Hauptseite zeigt pro Bereich höchstens die 24 Einträge mit den meisten Lik
 <sub>Spaziere durch den zerfallenen inneren Ring. Die Diorama-Version von Opus 5.5 ist zum Vergleich verlinkt.</sub><br>
 <sub><a href="https://claude.ai/artifact/B7ZmVS7Yr3BUc99ZyGk2bX">Opus 5.5 version</a></sub><br>
 <sub><a href="https://fablelist.000ooo.ooo/de/prompts/?w=voxel-colosseum&ref=gh"><b>✨ Prompt holen</b></a></sub>
-</td>
-</tr>
-<tr>
-<td width="33%" valign="top">
-<a href="https://claude.ai/artifact/QoBRCe2QuCU81MkNpVr4hd"><img src="../assets/gifs/393.gif" width="100%" alt="Vice Corner: ein Pixel-Diorama einer Straßenecke in Vice City"></a><br>
-<b><a href="https://claude.ai/artifact/QoBRCe2QuCU81MkNpVr4hd">Vice Corner: ein Pixel-Diorama einer Straßenecke in Vice City</a></b><br>
-<sub>🆕 · <a href="https://x.com/CapyCola">@CapyCola</a> · ♥ 16 · <a href="https://x.com/CapyCola/status/2124797996458229877">▶ Video</a></sub><br>
-<sub>Eine Straßenecke in Vice City, entstanden in den Tagen nach dem Start von GTA 6. Eine Pixelszene, die man ziehen, drehen und aus jedem Winkel betrachten kann, gebaut mit Fable 5.2 und Ink Studio.</sub><br>
-<sub><a href="https://github.com/cola5939/pixel-dioramas">Quellcode</a></sub>
 </td>
 <td width="33%" valign="top">
 <a href="https://glittery-stardust-885b97.netlify.app"><img src="../assets/gifs/233.gif" width="100%" alt="HX-6 Hexapod, Three Worlds"></a><br>

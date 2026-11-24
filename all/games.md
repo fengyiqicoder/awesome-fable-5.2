@@ -1,4 +1,4 @@
-# 🎮 Games · all 112
+# 🎮 Games · all 113
 
 [← Back to the main list](../README.md) · **English** · [简体中文](games.zh-CN.md) · [繁體中文](games.zh-TW.md) · [日本語](games.ja.md) · [한국어](games.ko.md) · [Español](games.es.md) · [Português](games.pt-BR.md) · [Français](games.fr.md) · [Deutsch](games.de.md) · [Русский](games.ru.md)
 
@@ -137,7 +137,7 @@ The main page shows at most the top 24 posts with 100+ likes; this page has ever
 <td width="33%" valign="top">
 <a href="https://gtashenzhen.com"><img src="../assets/gifs/377.gif" width="100%" alt="GTA Shenzhen"></a><br>
 <b><a href="https://gtashenzhen.com">GTA Shenzhen</a></b><br>
-<sub>🆕 · <a href="https://x.com/KinGao476942">@KinGao476942</a> · ♥ 987 · <a href="https://x.com/KinGao476942/status/2123967104601014521">▶ Video</a></sub><br>
+<sub>🆕 · <a href="https://x.com/KinGao476942">@KinGao476942</a> · ♥ 1.0k · <a href="https://x.com/KinGao476942/status/2123967104601014521">▶ Video</a></sub><br>
 <sub>The whole city of Shenzhen built from OpenStreetMap data: 83,182 buildings and 62,088 roads. Fly over it, land and drive a car, search for any place, and set off a city-wide light show at night. Made with Fable 5.2 and Tripo in three days.</sub>
 </td>
 </tr>
@@ -145,8 +145,15 @@ The main page shows at most the top 24 posts with 100+ likes; this page has ever
 <td width="33%" valign="top">
 <a href="https://thaxnay.com/ramayana/"><img src="../assets/gifs/389.gif" width="100%" alt="Ramayana: The Sacred Fires"></a><br>
 <b><a href="https://thaxnay.com/ramayana/">Ramayana: The Sacred Fires</a></b><br>
-<sub>🆕 · <a href="https://x.com/Thaxnay">@Thaxnay</a> · ♥ 958 · <a href="https://x.com/Thaxnay/status/2124574054296219939">▶ Video</a></sub><br>
+<sub>🆕 · <a href="https://x.com/Thaxnay">@Thaxnay</a> · ♥ 973 · <a href="https://x.com/Thaxnay/status/2124574054296219939">▶ Video</a></sub><br>
 <sub>A third-person action-adventure where you play as Rama, cross an open valley, protect the sages and find secrets. Runs in the browser on desktop and mobile.</sub>
+</td>
+<td width="33%" valign="top">
+<a href="https://kevintngo.github.io/cinderwatch/"><img src="../assets/gifs/398.gif" width="100%" alt="Cinderwatch: a tower defense in a single HTML file"></a><br>
+<b><a href="https://kevintngo.github.io/cinderwatch/">Cinderwatch: a tower defense in a single HTML file</a></b><br>
+<sub>🆕 · <a href="https://x.com/kevin_t_ngo">@kevin_t_ngo</a> · ♥ 960 · <a href="https://x.com/kevin_t_ngo/status/2125119969109418333">▶ Video</a></sub><br>
+<sub>A 3D isometric tower defense that fits in one HTML file. A built-in AI commander can run the defense for you. Open source and playable in the browser.</sub><br>
+<sub><a href="https://github.com/kevintngo/cinderwatch">Source</a></sub>
 </td>
 <td width="33%" valign="top">
 <a href="https://claude.ai/artifact/MXxb36zKgN261ckbGhmNin"><img src="../assets/gifs/002.gif" width="100%" alt="Three Games (Saltline · The Clockmaker's Heart · Tidewright)"></a><br>
@@ -156,36 +163,36 @@ The main page shows at most the top 24 posts with 100+ likes; this page has ever
 <sub><a href="https://claude.ai/artifact/6MjtQjf4ee1ZZjEpafaEpa">The Clockmaker's Heart</a> · <a href="https://claude.ai/artifact/JTgyEMn7sn1q2riWrMb7D4">Tidewright</a></sub><br>
 <sub><a href="https://fablelist.000ooo.ooo/prompts/?w=three-games-saltline-the-clockmaker-s-heart-tidewright&ref=gh"><b>✨ Get the prompt</b></a></sub>
 </td>
-<td width="33%" valign="top">
-<a href="https://patch.gg/play/blendi/solar"><img src="../assets/gifs/323.gif" width="100%" alt="Solar: a tiny solar system you can fly around"></a><br>
-<b><a href="https://patch.gg/play/blendi/solar">Solar: a tiny solar system you can fly around</a></b><br>
-<sub><a href="https://x.com/BlendiByl">@BlendiByl</a> · ♥ 800 · <a href="https://x.com/BlendiByl/status/2122673770607591855">▶ Video</a></sub><br>
-<sub>Inspired by Outer Wilds: real orbits and gravity, unbroken flights between planets, and every world drawn by code. Open source.</sub>
-</td>
 </tr>
 <tr>
 <td width="33%" valign="top">
+<a href="https://patch.gg/play/blendi/solar"><img src="../assets/gifs/323.gif" width="100%" alt="Solar: a tiny solar system you can fly around"></a><br>
+<b><a href="https://patch.gg/play/blendi/solar">Solar: a tiny solar system you can fly around</a></b><br>
+<sub><a href="https://x.com/BlendiByl">@BlendiByl</a> · ♥ 801 · <a href="https://x.com/BlendiByl/status/2122673770607591855">▶ Video</a></sub><br>
+<sub>Inspired by Outer Wilds: real orbits and gravity, unbroken flights between planets, and every world drawn by code. Open source.</sub>
+</td>
+<td width="33%" valign="top">
 <a href="https://patch.gg/blendi/coloured-pencil"><img src="../assets/gifs/247.gif" width="100%" alt="Coloured Pencil"></a><br>
 <b><a href="https://patch.gg/blendi/coloured-pencil">Coloured Pencil</a></b><br>
-<sub><a href="https://x.com/BlendiByl">@BlendiByl</a> · ♥ 766 · <a href="https://x.com/BlendiByl/status/2121130385723789637">▶ Video</a></sub><br>
+<sub><a href="https://x.com/BlendiByl">@BlendiByl</a> · ♥ 765 · <a href="https://x.com/BlendiByl/status/2121130385723789637">▶ Video</a></sub><br>
 <sub>A colored-pencil game slice; every surface's shading and the whole town are code. Open source.</sub><br>
 <sub><a href="https://fablelist.000ooo.ooo/prompts/?w=coloured-pencil&ref=gh"><b>✨ Get the prompt</b></a></sub>
 </td>
 <td width="33%" valign="top">
 <a href="https://www.spawn.co/@mattshumer/voxel-engine"><img src="../assets/gifs/004.gif" width="100%" alt="Voxel Engine"></a><br>
 <b><a href="https://www.spawn.co/@mattshumer/voxel-engine">Voxel Engine</a></b><br>
-<sub><a href="https://x.com/mattshumer_">@mattshumer_</a> · ♥ 744 · <a href="https://x.com/mattshumer_/status/2119870965106483384">▶ Video</a></sub><br>
+<sub><a href="https://x.com/mattshumer_">@mattshumer_</a> · ♥ 743 · <a href="https://x.com/mattshumer_/status/2119870965106483384">▶ Video</a></sub><br>
 <sub>Built from a single prompt. Sound on.</sub><br>
 <sub><a href="https://fablelist.000ooo.ooo/prompts/?w=voxel-engine&ref=gh"><b>✨ Get the prompt</b></a></sub>
 </td>
+</tr>
+<tr>
 <td width="33%" valign="top">
 <a href="https://ebb.tesana.com"><img src="../assets/gifs/379.gif" width="100%" alt="EBB — a shapeshifting water platformer"></a><br>
 <b><a href="https://ebb.tesana.com">EBB — a shapeshifting water platformer</a></b><br>
-<sub>🆕 · <a href="https://x.com/Rubzem">@Rubzem</a> · ♥ 680 · <a href="https://x.com/Rubzem/status/2124142554371502140">▶ Video</a></sub><br>
+<sub>🆕 · <a href="https://x.com/Rubzem">@Rubzem</a> · ♥ 683 · <a href="https://x.com/Rubzem/status/2124142554371502140">▶ Video</a></sub><br>
 <sub>A physics platformer where you play as water that melts, freezes and floats to solve puzzles. Entirely procedural, 190 KB, built in one hour.</sub>
 </td>
-</tr>
-<tr>
 <td width="33%" valign="top">
 <a href="https://patch.gg/blendi/patchwork-quilt"><img src="../assets/gifs/190.gif" width="100%" alt="Patchwork Quilt"></a><br>
 <b><a href="https://patch.gg/blendi/patchwork-quilt">Patchwork Quilt</a></b><br>
@@ -199,6 +206,8 @@ The main page shows at most the top 24 posts with 100+ likes; this page has ever
 <sub><a href="https://x.com/builderjaydub">@builderjaydub</a> · ♥ 575 · <a href="https://x.com/builderjaydub/status/2120223731520040966">▶ Video</a></sub><br>
 <sub>Fly a chopper with cannon, rockets and missiles, dodge Roman ballistae and bring down the castle.</sub>
 </td>
+</tr>
+<tr>
 <td width="33%" valign="top">
 <a href="https://i-would-have-gotten-away-with-it.netlify.app/"><img src="../assets/gifs/007.gif" width="100%" alt="I Would Have Gotten Away With It"></a><br>
 <b><a href="https://i-would-have-gotten-away-with-it.netlify.app/">I Would Have Gotten Away With It</a></b><br>
@@ -206,28 +215,26 @@ The main page shows at most the top 24 posts with 100+ likes; this page has ever
 <sub>A reverse Scooby-Doo: you are the villain scaring off meddling kids. Fable also made the trailer, music and sound.</sub><br>
 <sub><a href="https://fablelist.000ooo.ooo/prompts/?w=i-would-have-gotten-away-with-it&ref=gh"><b>✨ Get the prompt</b></a></sub>
 </td>
-</tr>
-<tr>
 <td width="33%" valign="top">
 <a href="https://valsera-game.vercel.app/"><img src="../assets/gifs/279.gif" width="100%" alt="Valsera — side-scrolling RPG"></a><br>
 <b><a href="https://valsera-game.vercel.app/">Valsera — side-scrolling RPG</a></b><br>
-<sub><a href="https://x.com/kevin_t_ngo">@kevin_t_ngo</a> · ♥ 513 · <a href="https://x.com/kevin_t_ngo/status/2121701020598415465">▶ Video</a></sub><br>
+<sub><a href="https://x.com/kevin_t_ngo">@kevin_t_ngo</a> · ♥ 512 · <a href="https://x.com/kevin_t_ngo/status/2121701020598415465">▶ Video</a></sub><br>
 <sub>A browser-playable side-scrolling RPG; every visual is drawn with code, no image model or pre-made art.</sub>
 </td>
 <td width="33%" valign="top">
 <a href="https://kengoworks.itch.io/dawnlings"><img src="../assets/gifs/344.gif" width="100%" alt="Dawnlings — tilt the valley, roll the blobs"></a><br>
 <b><a href="https://kengoworks.itch.io/dawnlings">Dawnlings — tilt the valley, roll the blobs</a></b><br>
-<sub><a href="https://x.com/kevin_t_ngo">@kevin_t_ngo</a> · ♥ 482 · <a href="https://x.com/kevin_t_ngo/status/2122969346935017497">▶ Video</a></sub><br>
+<sub><a href="https://x.com/kevin_t_ngo">@kevin_t_ngo</a> · ♥ 483 · <a href="https://x.com/kevin_t_ngo/status/2122969346935017497">▶ Video</a></sub><br>
 <sub>A browser game inspired by LocoRoco: you tilt the land so sleepy blobs roll, split and merge, waking the valley into color. Sound effects and concept art were generated on fal.</sub>
-</td>
-<td width="33%" valign="top">
-<a href="https://www.spawn.co/@izkimar/the-world-of-hoodcraft"><img src="../assets/gifs/356.gif" width="100%" alt="The World of Hoodcraft"></a><br>
-<b><a href="https://www.spawn.co/@izkimar/the-world-of-hoodcraft">The World of Hoodcraft</a></b><br>
-<sub><a href="https://x.com/Izkimar">@Izkimar</a> · ♥ 468 · <a href="https://x.com/Izkimar/status/2123188582836031910">▶ Video</a></sub><br>
-<sub>World of Warcraft meets GTA in the browser: hijack wagons, hit 5-star heat until battlemages turn you into a sheep. 6,000 networked NPCs, fully multiplayer with open PvP.</sub>
 </td>
 </tr>
 <tr>
+<td width="33%" valign="top">
+<a href="https://www.spawn.co/@izkimar/the-world-of-hoodcraft"><img src="../assets/gifs/356.gif" width="100%" alt="The World of Hoodcraft"></a><br>
+<b><a href="https://www.spawn.co/@izkimar/the-world-of-hoodcraft">The World of Hoodcraft</a></b><br>
+<sub><a href="https://x.com/Izkimar">@Izkimar</a> · ♥ 469 · <a href="https://x.com/Izkimar/status/2123188582836031910">▶ Video</a></sub><br>
+<sub>World of Warcraft meets GTA in the browser: hijack wagons, hit 5-star heat until battlemages turn you into a sheep. 6,000 networked NPCs, fully multiplayer with open PvP.</sub>
+</td>
 <td width="33%" valign="top">
 <a href="https://noclipepe.pages.dev/rug/"><img src="../assets/gifs/010.gif" width="100%" alt="Childhood Rug Racer"></a><br>
 <b><a href="https://noclipepe.pages.dev/rug/">Childhood Rug Racer</a></b><br>
@@ -238,17 +245,17 @@ The main page shows at most the top 24 posts with 100+ likes; this page has ever
 <td width="33%" valign="top">
 <a href="https://ballpoint-dominion.vercel.app/"><img src="../assets/gifs/390.gif" width="100%" alt="Ballpoint Dominion"></a><br>
 <b><a href="https://ballpoint-dominion.vercel.app/">Ballpoint Dominion</a></b><br>
-<sub>🆕 · <a href="https://x.com/kevin_t_ngo">@kevin_t_ngo</a> · ♥ 391 · <a href="https://x.com/kevin_t_ngo/status/2124669366512001493">▶ Video</a></sub><br>
+<sub>🆕 · <a href="https://x.com/kevin_t_ngo">@kevin_t_ngo</a> · ♥ 396 · <a href="https://x.com/kevin_t_ngo/status/2124669366512001493">▶ Video</a></sub><br>
 <sub>A real-time strategy game on one sheet of paper. Pick the Sunrise or Dusk faction, gather ink, draw an army and take the page.</sub>
 </td>
+</tr>
+<tr>
 <td width="33%" valign="top">
 <a href="https://mariana.pplx.app"><img src="../assets/gifs/331.gif" width="100%" alt="HADAL: a dive into the Mariana Trench"></a><br>
 <b><a href="https://mariana.pplx.app">HADAL: a dive into the Mariana Trench</a></b><br>
 <sub><a href="https://x.com/AravSrinivas">@AravSrinivas</a> · ♥ 364 · <a href="https://x.com/AravSrinivas/status/2122713692324384793">▶ Video</a></sub><br>
 <sub>Start on a sunlit reef, board a submarine and descend past shipwrecks and a whale fall to Challenger Deep, scanning 18 discoveries. A hand-written WebGPU renderer with no engine or assets, in one 373 KB HTML file.</sub>
 </td>
-</tr>
-<tr>
 <td width="33%" valign="top">
 <a href="https://gilt-and-gutter.vercel.app/"><img src="../assets/gifs/127.gif" width="100%" alt="Gilt & Gutter"></a><br>
 <b><a href="https://gilt-and-gutter.vercel.app/">Gilt & Gutter</a></b><br>
@@ -264,6 +271,8 @@ The main page shows at most the top 24 posts with 100+ likes; this page has ever
 <sub><a href="https://finderchangchang.github.io/cloud-stunt-3d/golden/">Optimized</a></sub><br>
 <sub><a href="https://x.com/jev_chat/status/2120015641151426838">📝 Creator's prompt (free)</a></sub>
 </td>
+</tr>
+<tr>
 <td width="33%" valign="top">
 <a href="https://valle-morta.vercel.app/"><img src="../assets/gifs/298.gif" width="100%" alt="Valle Morta"></a><br>
 <b><a href="https://valle-morta.vercel.app/">Valle Morta</a></b><br>
@@ -271,8 +280,6 @@ The main page shows at most the top 24 posts with 100+ likes; this page has ever
 <sub>A first-person zombie survival shooter in a war-torn alpine valley, built in two days. No premade 3D assets; every visual is generated in code.</sub><br>
 <sub><a href="https://github.com/Leonxlnx/valle-morta">Source</a></sub>
 </td>
-</tr>
-<tr>
 <td width="33%" valign="top">
 <a href="https://www.spawn.co/@mattshumer/hogwarts-royale"><img src="../assets/gifs/005.gif" width="100%" alt="Hogwarts Royale"></a><br>
 <b><a href="https://www.spawn.co/@mattshumer/hogwarts-royale">Hogwarts Royale</a></b><br>
@@ -287,15 +294,15 @@ The main page shows at most the top 24 posts with 100+ likes; this page has ever
 <sub>A fantasy transport sim "with heart": one vague paragraph, then a bunch of agents arguing about art, lore and jokes. Good logistics defeats evil.</sub><br>
 <sub><a href="https://fablelist.000ooo.ooo/prompts/?w=dread-district&ref=gh"><b>✨ Get the prompt</b></a></sub>
 </td>
+</tr>
+<tr>
 <td width="33%" valign="top">
 <a href="https://unsung-vale.vercel.app/"><img src="../assets/gifs/262.gif" width="100%" alt="Unsung Vale — open-world RPG"></a><br>
 <b><a href="https://unsung-vale.vercel.app/">Unsung Vale — open-world RPG</a></b><br>
-<sub><a href="https://x.com/LexnLin">@LexnLin</a> · ♥ 302 · <a href="https://x.com/LexnLin/status/2121253191748669705">▶ Video</a></sub><br>
+<sub><a href="https://x.com/LexnLin">@LexnLin</a> · ♥ 303 · <a href="https://x.com/LexnLin/status/2121253191748669705">▶ Video</a></sub><br>
 <sub>A third-person open-world RPG demo. No assets: everything on screen is made with code.</sub><br>
 <sub><a href="https://github.com/Leonxlnx/unsung-vale">Source</a></sub>
 </td>
-</tr>
-<tr>
 <td width="33%" valign="top">
 <a href="https://lauramionel.github.io/cayley-flight-simulator/"><img src="../assets/gifs/198.gif" width="100%" alt="Cayley flight simulator"></a><br>
 <b><a href="https://lauramionel.github.io/cayley-flight-simulator/">Cayley flight simulator</a></b><br>
@@ -306,9 +313,11 @@ The main page shows at most the top 24 posts with 100+ likes; this page has ever
 <td width="33%" valign="top">
 <a href="https://fallline-9zo.pages.dev"><img src="../assets/gifs/350.gif" width="100%" alt="Fall Line: downhill MTB"></a><br>
 <b><a href="https://fallline-9zo.pages.dev">Fall Line: downhill MTB</a></b><br>
-<sub><a href="https://x.com/BananaOfMercy">@BananaOfMercy</a> · ♥ 289 · <a href="https://x.com/BananaOfMercy/status/2123037856398733438">▶ Video</a></sub><br>
+<sub><a href="https://x.com/BananaOfMercy">@BananaOfMercy</a> · ♥ 290 · <a href="https://x.com/BananaOfMercy/status/2123037856398733438">▶ Video</a></sub><br>
 <sub>A downhill mountain bike game in three.js, playable in the browser with a keyboard. The author spent 7 days riding every build and telling Fable what felt wrong.</sub>
 </td>
+</tr>
+<tr>
 <td width="33%" valign="top">
 <a href="https://github.com/amirmushichge/worm-rider"><img src="../assets/gifs/015.gif" width="100%" alt="Worm Rider"></a><br>
 <b><a href="https://github.com/amirmushichge/worm-rider">Worm Rider</a></b><br>
@@ -316,8 +325,6 @@ The main page shows at most the top 24 posts with 100+ likes; this page has ever
 <sub>Open source. 220 KB, 3,400 lines, 10 prompts, every model built from scratch in Claude Code.</sub><br>
 <sub><a href="https://fablelist.000ooo.ooo/prompts/?w=worm-rider&ref=gh"><b>✨ Get the prompt</b></a></sub>
 </td>
-</tr>
-<tr>
 <td width="33%" valign="top">
 <a href="https://sanwan.ai/games/xingyun-moba/"><img src="../assets/gifs/256.gif" width="100%" alt="Starfall — a browser MOBA"></a><br>
 <b><a href="https://sanwan.ai/games/xingyun-moba/">Starfall — a browser MOBA</a></b><br>
@@ -328,10 +335,12 @@ The main page shows at most the top 24 posts with 100+ likes; this page has ever
 <td width="33%" valign="top">
 <a href="https://maad-maxxing.vercel.app/"><img src="../assets/gifs/199.gif" width="100%" alt="MAAD MAXXING"></a><br>
 <b><a href="https://maad-maxxing.vercel.app/">MAAD MAXXING</a></b><br>
-<sub><a href="https://x.com/Andrew_Blumson">@Andrew_Blumson</a> · ♥ 248 · <a href="https://x.com/Andrew_Blumson/status/2120599812512833557">▶ Video</a></sub><br>
+<sub><a href="https://x.com/Andrew_Blumson">@Andrew_Blumson</a> · ♥ 249 · <a href="https://x.com/Andrew_Blumson/status/2120599812512833557">▶ Video</a></sub><br>
 <sub>100% code, no assets. First 3 stages playable; audio by ElevenLabs.</sub><br>
 <sub><a href="https://fablelist.000ooo.ooo/prompts/?w=maad-maxxing&ref=gh"><b>✨ Get the prompt</b></a></sub>
 </td>
+</tr>
+<tr>
 <td width="33%" valign="top">
 <a href="https://frontier.every.to/experiments/first-crush"><img src="../assets/gifs/133.gif" width="100%" alt="First Crush"></a><br>
 <b><a href="https://frontier.every.to/experiments/first-crush">First Crush</a></b><br>
@@ -339,12 +348,10 @@ The main page shows at most the top 24 posts with 100+ likes; this page has ever
 <sub>A winemaking game: scrub the vat, crush 250 kg of fruit, read the hydrometer, pick a yeast — and it explains why. Click "Try it" on the page.</sub><br>
 <sub><a href="https://fablelist.000ooo.ooo/prompts/?w=first-crush&ref=gh"><b>✨ Get the prompt</b></a></sub>
 </td>
-</tr>
-<tr>
 <td width="33%" valign="top">
 <a href="https://market-order-city.netlify.app/"><img src="../assets/gifs/361.gif" width="100%" alt="Market Order"></a><br>
 <b><a href="https://market-order-city.netlify.app/">Market Order</a></b><br>
-<sub><a href="https://x.com/emollick">@emollick</a> · ♥ 221 · <a href="https://x.com/emollick/status/2123520499368263977">▶ Video</a></sub><br>
+<sub><a href="https://x.com/emollick">@emollick</a> · ♥ 220 · <a href="https://x.com/emollick/status/2123520499368263977">▶ Video</a></sub><br>
 <sub>An open-world driving game where you steal cars and run missions. Everything from your wanted level to the weather is driven by Anthropic's ANT stock price.</sub>
 </td>
 <td width="33%" valign="top">
@@ -354,6 +361,8 @@ The main page shows at most the top 24 posts with 100+ likes; this page has ever
 <sub>The Chrome T-Rex game, rebuilt. Compared against Opus 5.5, Gemini 4 Carbon and GPT-6 Astra.</sub><br>
 <sub><a href="https://fablelist.000ooo.ooo/prompts/?w=rambo-dino&ref=gh"><b>✨ Get the prompt</b></a></sub>
 </td>
+</tr>
+<tr>
 <td width="33%" valign="top">
 <a href="https://cozylisbon.vercel.app"><img src="../assets/gifs/200.gif" width="100%" alt="Cozy Lisbon"></a><br>
 <b><a href="https://cozylisbon.vercel.app">Cozy Lisbon</a></b><br>
@@ -361,8 +370,6 @@ The main page shows at most the top 24 posts with 100+ likes; this page has ever
 <sub>A one-prompt cozy game about a little plane flying over Lisbon.</sub><br>
 <sub><a href="https://fablelist.000ooo.ooo/prompts/?w=cozy-lisbon&ref=gh"><b>✨ Get the prompt</b></a></sub>
 </td>
-</tr>
-<tr>
 <td width="33%" valign="top">
 <a href="https://spawn.co/@robot/frontline-warfare-deathmatch"><img src="../assets/gifs/012.gif" width="100%" alt="Frontline Warfare Deathmatch"></a><br>
 <b><a href="https://spawn.co/@robot/frontline-warfare-deathmatch">Frontline Warfare Deathmatch</a></b><br>
@@ -377,6 +384,8 @@ The main page shows at most the top 24 posts with 100+ likes; this page has ever
 <sub><a href="https://github.com/wquguru/fable52-fps-repro">Source</a></sub><br>
 <sub><a href="https://x.com/wquguru/status/2120383332722905400">📝 Creator's prompt (free)</a></sub>
 </td>
+</tr>
+<tr>
 <td width="33%" valign="top">
 <a href="https://remix.gg/g/banana-mine-rush"><img src="../assets/gifs/201.gif" width="100%" alt="Banana Mine Rush"></a><br>
 <b><a href="https://remix.gg/g/banana-mine-rush">Banana Mine Rush</a></b><br>
@@ -384,8 +393,6 @@ The main page shows at most the top 24 posts with 100+ likes; this page has ever
 <sub>A 3D kart racer on Remix: plays instantly in the browser with no account, with multiplayer and leaderboards.</sub><br>
 <sub><a href="https://fablelist.000ooo.ooo/prompts/?w=banana-mine-rush&ref=gh"><b>✨ Get the prompt</b></a></sub>
 </td>
-</tr>
-<tr>
 <td width="33%" valign="top">
 <a href="https://turbo-tails.vercel.app"><img src="../assets/gifs/009.gif" width="100%" alt="Turbo Tails"></a><br>
 <b><a href="https://turbo-tails.vercel.app">Turbo Tails</a></b><br>
@@ -400,6 +407,8 @@ The main page shows at most the top 24 posts with 100+ likes; this page has ever
 <sub><a href="https://x.com/_satyam_ai">@_satyam_ai</a> · ♥ 139 · <a href="https://x.com/_satyam_ai/status/2123787482747764918">▶ Video</a></sub><br>
 <sub>A racing game running entirely in Chrome on WebGPU, on an engine the author is writing from scratch. Most assets, including the car, were made by Fable 5.2 and GPT-6.2 Astra.</sub>
 </td>
+</tr>
+<tr>
 <td width="33%" valign="top">
 <a href="https://luminazombies.com/"><img src="../assets/gifs/176.gif" width="100%" alt="Lumina Zombies"></a><br>
 <b><a href="https://luminazombies.com/">Lumina Zombies</a></b><br>
@@ -407,21 +416,21 @@ The main page shows at most the top 24 posts with 100+ likes; this page has ever
 <sub>A brand-new map with easter eggs in a few prompts, plus upgrades that halved hardware demand and latency on the other two maps.</sub><br>
 <sub><a href="https://fablelist.000ooo.ooo/prompts/?w=lumina-zombies&ref=gh"><b>✨ Get the prompt</b></a></sub>
 </td>
-</tr>
-<tr>
 <td width="33%" valign="top">
 <a href="https://github.com/amirmushichge/fly-in-kit"><img src="../assets/gifs/320.gif" width="100%" alt="Fly-In Kit: a flying mini-game for a café"></a><br>
 <b><a href="https://github.com/amirmushichge/fly-in-kit">Fly-In Kit: a flying mini-game for a café</a></b><br>
-<sub><a href="https://x.com/AmirMushich">@AmirMushich</a> · ♥ 111 · <a href="https://x.com/AmirMushich/status/2122421769462284615">▶ Video</a></sub><br>
+<sub><a href="https://x.com/AmirMushich">@AmirMushich</a> · ♥ 112 · <a href="https://x.com/AmirMushich/status/2122421769462284615">▶ Video</a></sub><br>
 <sub>It rebuilds the real streets around a coffee shop, 7,970 buildings: fly, collect 5 beans and land on the roof to win a free coffee. Works for any business on the map.</sub>
 </td>
 <td width="33%" valign="top">
 <a href="https://loktar00.github.io/llm-test-pages/fable52-dino-chase/"><img src="../assets/gifs/222.gif" width="100%" alt="Thunder Valley dino chase"></a><br>
 <b><a href="https://loktar00.github.io/llm-test-pages/fable52-dino-chase/">Thunder Valley dino chase</a></b><br>
-<sub><a href="https://x.com/loktar00">@loktar00</a> · ♥ 99 · <a href="https://x.com/loktar00/status/2120905457380507991">▶ Video</a></sub><br>
+<sub><a href="https://x.com/loktar00">@loktar00</a> · ♥ 98 · <a href="https://x.com/loktar00/status/2120905457380507991">▶ Video</a></sub><br>
 <sub>Vanilla JS with its own WebGL renderer; dinos, trees and terrain are stacked 2D pixel slices.</sub><br>
 <sub><a href="https://fablelist.000ooo.ooo/prompts/?w=thunder-valley-dino-chase&ref=gh"><b>✨ Get the prompt</b></a></sub>
 </td>
+</tr>
+<tr>
 <td width="33%" valign="top">
 <a href="https://feed-backrooms.vercel.app"><img src="../assets/gifs/013.gif" width="100%" alt="Feed the Backrooms"></a><br>
 <b><a href="https://feed-backrooms.vercel.app">Feed the Backrooms</a></b><br>
@@ -429,8 +438,6 @@ The main page shows at most the top 24 posts with 100+ likes; this page has ever
 <sub>The Backrooms, reversed: you are the monster and your job is to catch people.</sub><br>
 <sub><a href="https://fablelist.000ooo.ooo/prompts/?w=feed-the-backrooms&ref=gh"><b>✨ Get the prompt</b></a></sub>
 </td>
-</tr>
-<tr>
 <td width="33%" valign="top">
 <a href="https://rivergame-kappa.vercel.app"><img src="../assets/gifs/132.gif" width="100%" alt="The Waking River"></a><br>
 <b><a href="https://rivergame-kappa.vercel.app">The Waking River</a></b><br>
@@ -445,6 +452,8 @@ The main page shows at most the top 24 posts with 100+ likes; this page has ever
 <sub>A flying quest game made with Fable 5.2, Opus 5.5, Crayon and three.js.</sub><br>
 <sub><a href="https://fablelist.000ooo.ooo/prompts/?w=skywake&ref=gh"><b>✨ Get the prompt</b></a></sub>
 </td>
+</tr>
+<tr>
 <td width="33%" valign="top">
 <a href="https://app.usecrayon.ai/play/0cd7624e-1297-417e-a5be-b3c3036a496a"><img src="../assets/gifs/249.gif" width="100%" alt="KUMOKIRI"></a><br>
 <b><a href="https://app.usecrayon.ai/play/0cd7624e-1297-417e-a5be-b3c3036a496a">KUMOKIRI</a></b><br>
@@ -452,8 +461,6 @@ The main page shows at most the top 24 posts with 100+ likes; this page has ever
 <sub>A painterly samurai game made with Fable 5.2, Crayon and three.js.</sub><br>
 <sub><a href="https://fablelist.000ooo.ooo/prompts/?w=kumokiri&ref=gh"><b>✨ Get the prompt</b></a></sub>
 </td>
-</tr>
-<tr>
 <td width="33%" valign="top">
 <a href="http://drift.harma.cc/en"><img src="../assets/gifs/363.gif" width="100%" alt="DRIFT: Veresk-9"></a><br>
 <b><a href="http://drift.harma.cc/en">DRIFT: Veresk-9</a></b><br>
@@ -466,6 +473,14 @@ The main page shows at most the top 24 posts with 100+ likes; this page has ever
 <sub>🆕 · <a href="https://x.com/CapyCola">@CapyCola</a> · ♥ 71 · <a href="https://x.com/CapyCola/status/2123707546779451602">▶ Video</a></sub><br>
 <sub>A 3D survivors-like made from a single message: last 5 minutes in a rainy ruined abbey with 5 weapons, 7 upgrades, 4 enemy types and a boss. About 6,900 lines of code, with every visual and sound generated in code.</sub>
 </td>
+</tr>
+<tr>
+<td width="33%" valign="top">
+<a href="https://www.spawn.co/@abbidabbi/pogo-riot"><img src="../assets/gifs/263.gif" width="100%" alt="Pogo Riot"></a><br>
+<b><a href="https://www.spawn.co/@abbidabbi/pogo-riot">Pogo Riot</a></b><br>
+<sub><a href="https://x.com/Pumpnasterr">@Pumpnasterr</a> · ♥ 64 · <a href="https://x.com/Pumpnasterr/status/2121343507885682917">▶ Video</a></sub><br>
+<sub>A free-for-all FPS where you bounce on a pogo stick and aim at the same time.</sub>
+</td>
 <td width="33%" valign="top">
 <a href="https://patch.gg/games/rehan/ringfall"><img src="../assets/gifs/178.gif" width="100%" alt="Ringfall"></a><br>
 <b><a href="https://patch.gg/games/rehan/ringfall">Ringfall</a></b><br>
@@ -473,8 +488,6 @@ The main page shows at most the top 24 posts with 100+ likes; this page has ever
 <sub>A Destiny-inspired FPS. Open source and remixable.</sub><br>
 <sub><a href="https://fablelist.000ooo.ooo/prompts/?w=ringfall&ref=gh"><b>✨ Get the prompt</b></a></sub>
 </td>
-</tr>
-<tr>
 <td width="33%" valign="top">
 <a href="https://save-the-world-fable.vercel.app/"><img src="../assets/gifs/202.gif" width="100%" alt="Save the World"></a><br>
 <b><a href="https://save-the-world-fable.vercel.app/">Save the World</a></b><br>
@@ -482,20 +495,14 @@ The main page shows at most the top 24 posts with 100+ likes; this page has ever
 <sub>It built the street, found the 3D models and sounds, and played the game itself to record the trailer. Best on a laptop.</sub><br>
 <sub><a href="https://fablelist.000ooo.ooo/prompts/?w=save-the-world&ref=gh"><b>✨ Get the prompt</b></a></sub>
 </td>
-<td width="33%" valign="top">
-<a href="https://www.spawn.co/@abbidabbi/pogo-riot"><img src="../assets/gifs/263.gif" width="100%" alt="Pogo Riot"></a><br>
-<b><a href="https://www.spawn.co/@abbidabbi/pogo-riot">Pogo Riot</a></b><br>
-<sub><a href="https://x.com/Pumpnasterr">@Pumpnasterr</a> · ♥ 63 · <a href="https://x.com/Pumpnasterr/status/2121343507885682917">▶ Video</a></sub><br>
-<sub>A free-for-all FPS where you bounce on a pogo stick and aim at the same time.</sub>
-</td>
+</tr>
+<tr>
 <td width="33%" valign="top">
 <a href="https://nisen0808-web.github.io/xiyou-td-play/"><img src="../assets/gifs/338.gif" width="100%" alt="Xiyou X: a Journey to the West tower defense"></a><br>
 <b><a href="https://nisen0808-web.github.io/xiyou-td-play/">Xiyou X: a Journey to the West tower defense</a></b><br>
 <sub><a href="https://x.com/PhyrexNi">@PhyrexNi</a> · ♥ 59 · <a href="https://x.com/PhyrexNi/status/2122602578978709908">Post</a></sub><br>
 <sub>A tower defense test build with eight levels, five difficulties and special character cards to draw. Runs in desktop and mobile browsers, best in landscape.</sub>
 </td>
-</tr>
-<tr>
 <td width="33%" valign="top">
 <a href="https://wavedash.com/games/ink-flight"><img src="../assets/gifs/364.gif" width="100%" alt="Ink Flight"></a><br>
 <b><a href="https://wavedash.com/games/ink-flight">Ink Flight</a></b><br>
@@ -511,6 +518,8 @@ The main page shows at most the top 24 posts with 100+ likes; this page has ever
 <sub><a href="https://github.com/SamG-Coder/solstice-racing">Source</a></sub><br>
 <sub><a href="https://fablelist.000ooo.ooo/prompts/?w=kestrel-head-solstice-racing&ref=gh"><b>✨ Get the prompt</b></a></sub>
 </td>
+</tr>
+<tr>
 <td width="33%" valign="top">
 <a href="https://shubhu121.github.io/hitdude/play/"><img src="../assets/gifs/203.gif" width="100%" alt="HITOFUDE"></a><br>
 <b><a href="https://shubhu121.github.io/hitdude/play/">HITOFUDE</a></b><br>
@@ -518,8 +527,6 @@ The main page shows at most the top 24 posts with 100+ likes; this page has ever
 <sub>Every frame brushed in code as sumi ink on paper. The boss erases the level; your sword is a paintbrush.</sub><br>
 <sub><a href="https://fablelist.000ooo.ooo/prompts/?w=hitofude&ref=gh"><b>✨ Get the prompt</b></a></sub>
 </td>
-</tr>
-<tr>
 <td width="33%" valign="top">
 <a href="https://claude.ai/artifact/UD9pGEN4QFA8F5EadRw8eL"><img src="../assets/gifs/189.gif" width="100%" alt="Midnight Pass"></a><br>
 <b><a href="https://claude.ai/artifact/UD9pGEN4QFA8F5EadRw8eL">Midnight Pass</a></b><br>
@@ -535,6 +542,8 @@ The main page shows at most the top 24 posts with 100+ likes; this page has ever
 <sub><a href="https://higgsfield.ai/@higgsfield.studio/blogs/claude-fable-5-2-built-a-dragon-riding-game-play-it-free">Dragon-riding game</a> · <a href="https://higgsfield.ai/@higgsfield.studio/blogs/one-drawing-fable-5-2-turned-it-into-a-horror-game">Drawing-to-horror game</a></sub><br>
 <sub><a href="https://fablelist.000ooo.ooo/prompts/?w=vowlorn&ref=gh"><b>✨ Get the prompt</b></a></sub>
 </td>
+</tr>
+<tr>
 <td width="33%" valign="top">
 <a href="https://fowllabs.com/fable-5-2/chairmageddon/"><img src="../assets/gifs/179.gif" width="100%" alt="Chairmageddon"></a><br>
 <b><a href="https://fowllabs.com/fable-5-2/chairmageddon/">Chairmageddon</a></b><br>
@@ -542,8 +551,6 @@ The main page shows at most the top 24 posts with 100+ likes; this page has ever
 <sub>Destroy a peaceful town of blue chairs. Yes, you can vortex the baby stroller.</sub><br>
 <sub><a href="https://fablelist.000ooo.ooo/prompts/?w=chairmageddon&ref=gh"><b>✨ Get the prompt</b></a></sub>
 </td>
-</tr>
-<tr>
 <td width="33%" valign="top">
 <a href="https://turbo-stack-nine.vercel.app"><img src="../assets/gifs/380.gif" width="100%" alt="Turbo Stack"></a><br>
 <b><a href="https://turbo-stack-nine.vercel.app">Turbo Stack</a></b><br>
@@ -557,6 +564,8 @@ The main page shows at most the top 24 posts with 100+ likes; this page has ever
 <sub>Rescue kittens, hiss at dogs, yowl at an old tomcat. Every sound is synthesized.</sub><br>
 <sub><a href="https://fablelist.000ooo.ooo/prompts/?w=stray-cat&ref=gh"><b>✨ Get the prompt</b></a></sub>
 </td>
+</tr>
+<tr>
 <td width="33%" valign="top">
 <a href="https://sael.net/demo/farewell-light/"><img src="../assets/gifs/183.gif" width="100%" alt="Farewell Light"></a><br>
 <b><a href="https://sael.net/demo/farewell-light/">Farewell Light</a></b><br>
@@ -564,8 +573,6 @@ The main page shows at most the top 24 posts with 100+ likes; this page has ever
 <sub>A gameplay demo made overnight.</sub><br>
 <sub><a href="https://fablelist.000ooo.ooo/prompts/?w=farewell-light&ref=gh"><b>✨ Get the prompt</b></a></sub>
 </td>
-</tr>
-<tr>
 <td width="33%" valign="top">
 <a href="https://fowllabs.com/fable-5-2/knock-it-off/"><img src="../assets/gifs/273.gif" width="100%" alt="Knock It Off"></a><br>
 <b><a href="https://fowllabs.com/fable-5-2/knock-it-off/">Knock It Off</a></b><br>
@@ -579,6 +586,8 @@ The main page shows at most the top 24 posts with 100+ likes; this page has ever
 <sub>Vampire Survivors with WoW-style leveling and loot. Solo or co-op for up to 4.</sub><br>
 <sub><a href="https://fablelist.000ooo.ooo/prompts/?w=survivors&ref=gh"><b>✨ Get the prompt</b></a></sub>
 </td>
+</tr>
+<tr>
 <td width="33%" valign="top">
 <a href="https://loktar00.github.io/llm-test-pages/fable52-hang-glider/"><img src="../assets/gifs/225.gif" width="100%" alt="Thermal"></a><br>
 <b><a href="https://loktar00.github.io/llm-test-pages/fable52-hang-glider/">Thermal</a></b><br>
@@ -586,8 +595,6 @@ The main page shows at most the top 24 posts with 100+ likes; this page has ever
 <sub>A little hang glider game: ride the thermals and reach the target.</sub><br>
 <sub><a href="https://fablelist.000ooo.ooo/prompts/?w=thermal&ref=gh"><b>✨ Get the prompt</b></a></sub>
 </td>
-</tr>
-<tr>
 <td width="33%" valign="top">
 <a href="https://www.aigameshare.com/games/animal-card-battle-game?play=1&mode=fullscreen"><img src="../assets/gifs/224.gif" width="100%" alt="Thimble Knights"></a><br>
 <b><a href="https://www.aigameshare.com/games/animal-card-battle-game?play=1&mode=fullscreen">Thimble Knights</a></b><br>
@@ -602,6 +609,8 @@ The main page shows at most the top 24 posts with 100+ likes; this page has ever
 <sub>One HTML file: 20 pixel cars on a 22-corner street circuit, with a betting window before each race (play money).</sub><br>
 <sub><a href="https://fablelist.000ooo.ooo/prompts/?w=harbor-lights-grand-prix&ref=gh"><b>✨ Get the prompt</b></a></sub>
 </td>
+</tr>
+<tr>
 <td width="33%" valign="top">
 <a href="https://blog.silencestar.com/posts/tilt-labyrinth/play/"><img src="../assets/gifs/018.gif" width="100%" alt="Tilt Labyrinth"></a><br>
 <b><a href="https://blog.silencestar.com/posts/tilt-labyrinth/play/">Tilt Labyrinth</a></b><br>
@@ -609,8 +618,6 @@ The main page shows at most the top 24 posts with 100+ likes; this page has ever
 <sub>A wooden ball maze in 2,000 lines of three.js. Fable profiled it from 55 ms to 9 ms per frame on its own.</sub><br>
 <sub><a href="https://fablelist.000ooo.ooo/prompts/?w=tilt-labyrinth&ref=gh"><b>✨ Get the prompt</b></a></sub>
 </td>
-</tr>
-<tr>
 <td width="33%" valign="top">
 <a href="https://claude.ai/artifact/QvSjL7Hexf3nKdUP9Zerr7"><img src="../assets/gifs/184.gif" width="100%" alt="Fighting game (plays on phones)"></a><br>
 <b><a href="https://claude.ai/artifact/QvSjL7Hexf3nKdUP9Zerr7">Fighting game (plays on phones)</a></b><br>
@@ -624,14 +631,14 @@ The main page shows at most the top 24 posts with 100+ likes; this page has ever
 <sub><a href="https://x.com/SamGCoder">@SamGCoder</a> · ♥ 31 · <a href="https://x.com/SamGCoder/status/2121513178303811931">▶ Video</a></sub><br>
 <sub>Off-roading in the Australian bush on the author's own Rust + WebGPU engine: mud, creek crossings, rock crawling, diff locks, tyre pressure and dynamic weather.</sub>
 </td>
+</tr>
+<tr>
 <td width="33%" valign="top">
 <a href="https://mikenevermiss.github.io/midnight-grid/"><img src="../assets/gifs/293.gif" width="100%" alt="Midnight Grid"></a><br>
 <b><a href="https://mikenevermiss.github.io/midnight-grid/">Midnight Grid</a></b><br>
 <sub><a href="https://x.com/mikenevermiss">@mikenevermiss</a> · ♥ 28 · <a href="https://x.com/mikenevermiss/status/2121900977959612500">▶ Video</a></sub><br>
 <sub>An open-world driving game from one prompt: race through the city, crash into traffic and get chased by the cops. Every car, building, texture and sound is generated in code.</sub>
 </td>
-</tr>
-<tr>
 <td width="33%" valign="top">
 <a href="https://monstermath.ai-created.com"><img src="../assets/gifs/300.gif" width="100%" alt="Monster Math"></a><br>
 <b><a href="https://monstermath.ai-created.com">Monster Math</a></b><br>
@@ -646,6 +653,8 @@ The main page shows at most the top 24 posts with 100+ likes; this page has ever
 <sub>A multiplayer surf game on a shared lake; type a word and the world changes.</sub><br>
 <sub><a href="https://fablelist.000ooo.ooo/prompts/?w=the-vast-horizon&ref=gh"><b>✨ Get the prompt</b></a></sub>
 </td>
+</tr>
+<tr>
 <td width="33%" valign="top">
 <a href="https://remix.gg/g/hoppy-meadow"><img src="../assets/gifs/226.gif" width="100%" alt="Hoppy Meadow"></a><br>
 <b><a href="https://remix.gg/g/hoppy-meadow">Hoppy Meadow</a></b><br>
@@ -653,8 +662,6 @@ The main page shows at most the top 24 posts with 100+ likes; this page has ever
 <sub>Looks like a simple platformer until you reach the flagpole.</sub><br>
 <sub><a href="https://fablelist.000ooo.ooo/prompts/?w=hoppy-meadow&ref=gh"><b>✨ Get the prompt</b></a></sub>
 </td>
-</tr>
-<tr>
 <td width="33%" valign="top">
 <a href="https://remix.gg/g/brix-84"><img src="../assets/gifs/230.gif" width="100%" alt="BRIX '84"></a><br>
 <b><a href="https://remix.gg/g/brix-84">BRIX '84</a></b><br>
@@ -669,14 +676,14 @@ The main page shows at most the top 24 posts with 100+ likes; this page has ever
 <sub>One-shot in three hours; the main quest takes about half an hour.</sub><br>
 <sub><a href="https://fablelist.000ooo.ooo/prompts/?w=open-world-kart-adventure&ref=gh"><b>✨ Get the prompt</b></a></sub>
 </td>
+</tr>
+<tr>
 <td width="33%" valign="top">
 <a href="https://www.spawn.co/@abbidabbi/shark-riders"><img src="../assets/gifs/391.gif" width="100%" alt="Shark Riders"></a><br>
 <b><a href="https://www.spawn.co/@abbidabbi/shark-riders">Shark Riders</a></b><br>
 <sub>🆕 · <a href="https://x.com/Pumpnasterr">@Pumpnasterr</a> · ♥ 24 · <a href="https://x.com/Pumpnasterr/status/2124565052766216236">▶ Video</a></sub><br>
 <sub>A first-person shooter where you ride a great white: shoot from its back, bite, harpoon enemies and dive to hide. Runs in the browser.</sub>
 </td>
-</tr>
-<tr>
 <td width="33%" valign="top">
 <a href="https://giant-leap.vercel.app"><img src="../assets/gifs/186.gif" width="100%" alt="Giant Leap"></a><br>
 <b><a href="https://giant-leap.vercel.app">Giant Leap</a></b><br>
@@ -692,6 +699,8 @@ The main page shows at most the top 24 posts with 100+ likes; this page has ever
 <sub><a href="https://qiaomu.t5t6.com/3d/">3D brick breaker</a></sub><br>
 <sub><a href="https://x.com/vista8/status/2120383046239285264">📝 Creator's prompt (free)</a></sub>
 </td>
+</tr>
+<tr>
 <td width="33%" valign="top">
 <a href="https://www.nightclub-driftspeed.xyz/"><img src="../assets/gifs/251.gif" width="100%" alt="NightClub: Drift & Speed"></a><br>
 <b><a href="https://www.nightclub-driftspeed.xyz/">NightClub: Drift & Speed</a></b><br>
@@ -699,8 +708,6 @@ The main page shows at most the top 24 posts with 100+ likes; this page has ever
 <sub>A browser drift racing game with a worldwide leaderboard, built from an empty folder in 72 hours.</sub><br>
 <sub><a href="https://fablelist.000ooo.ooo/prompts/?w=nightclub-drift-speed&ref=gh"><b>✨ Get the prompt</b></a></sub>
 </td>
-</tr>
-<tr>
 <td width="33%" valign="top">
 <a href="https://cozybakery.vercel.app"><img src="../assets/gifs/231.gif" width="100%" alt="Cozy Bakery"></a><br>
 <b><a href="https://cozybakery.vercel.app">Cozy Bakery</a></b><br>
@@ -714,14 +721,14 @@ The main page shows at most the top 24 posts with 100+ likes; this page has ever
 <sub>🆕 · <a href="https://x.com/noclipepe">@noclipepe</a> · ♥ 17 · <a href="https://x.com/noclipepe/status/2124204825294295250">▶ Video</a></sub><br>
 <sub>An arcade brawler that puts Robert Pattinson's roles in one game: James Bond, Batman, Hogwarts, Twilight and Dune. Built with GPT-6.2 Astra and Fable 5.2.</sub>
 </td>
+</tr>
+<tr>
 <td width="33%" valign="top">
 <a href="http://poke-jam.vercel.app"><img src="../assets/gifs/267.gif" width="100%" alt="Poke Dodge"></a><br>
 <b><a href="http://poke-jam.vercel.app">Poke Dodge</a></b><br>
 <sub><a href="https://x.com/crtvTeknologist">@crtvTeknologist</a> · ♥ 14 · <a href="https://x.com/crtvTeknologist/status/2121319366830809285">▶ Video</a></sub><br>
 <sub>A 2v2 Pokemon x dodgeball mashup with NBA Jam flavor: gym ladder, type matchups and held items, on a Three.js stage.</sub>
 </td>
-</tr>
-<tr>
 <td width="33%" valign="top">
 <a href="https://fighting-game-ignition.saito-931.workers.dev"><img src="../assets/gifs/234.gif" width="100%" alt="IGNITION fighting game"></a><br>
 <b><a href="https://fighting-game-ignition.saito-931.workers.dev">IGNITION fighting game</a></b><br>
@@ -736,6 +743,15 @@ The main page shows at most the top 24 posts with 100+ likes; this page has ever
 <sub>Can you make it out without being seduced?</sub><br>
 <sub><a href="https://fablelist.000ooo.ooo/prompts/?w=silicon-seduction&ref=gh"><b>✨ Get the prompt</b></a></sub>
 </td>
+</tr>
+<tr>
+<td width="33%" valign="top">
+<a href="https://maple-run-fable.vercel.app"><img src="../assets/gifs/395.gif" width="100%" alt="Maple Run"></a><br>
+<b><a href="https://maple-run-fable.vercel.app">Maple Run</a></b><br>
+<sub>🆕 · <a href="https://x.com/nan_in_space">@nan_in_space</a> · ♥ 12 · <a href="https://x.com/nan_in_space/status/2125041219244015900">▶ Video</a></sub><br>
+<sub>A Subway Surfers-style runner rebuilt with Fable 5.2 and open sourced. Upload any character image and play as that character; characters are rigged Gaussian splats made from one image with Viggle PINOC.</sub><br>
+<sub><a href="https://github.com/nanha0130/maple-run-fable">Source</a></sub>
+</td>
 <td width="33%" valign="top">
 <a href="https://www.aigameshare.com/games/island-god-game?play=1&mode=fullscreen"><img src="../assets/gifs/232.gif" width="100%" alt="Handful: Island God"></a><br>
 <b><a href="https://www.aigameshare.com/games/island-god-game?play=1&mode=fullscreen">Handful: Island God</a></b><br>
@@ -743,8 +759,6 @@ The main page shows at most the top 24 posts with 100+ likes; this page has ever
 <sub>Play a god and guide the little dots to the light.</sub><br>
 <sub><a href="https://fablelist.000ooo.ooo/prompts/?w=handful-island-god&ref=gh"><b>✨ Get the prompt</b></a></sub>
 </td>
-</tr>
-<tr>
 <td width="33%" valign="top">
 <a href="https://wavedash.com/games/reef-dive"><img src="../assets/gifs/252.gif" width="100%" alt="Reef Dive"></a><br>
 <b><a href="https://wavedash.com/games/reef-dive">Reef Dive</a></b><br>
@@ -752,21 +766,14 @@ The main page shows at most the top 24 posts with 100+ likes; this page has ever
 <sub>A three.js diving game the author handed to Fable 5.2 for one day to make it feel like a much bigger game.</sub><br>
 <sub><a href="https://fablelist.000ooo.ooo/prompts/?w=reef-dive&ref=gh"><b>✨ Get the prompt</b></a></sub>
 </td>
+</tr>
+<tr>
 <td width="33%" valign="top">
 <a href="https://aashishgtbit.github.io/PaletteRider/"><img src="../assets/gifs/275.gif" width="100%" alt="PaletteRider — cycle through famous paintings"></a><br>
 <b><a href="https://aashishgtbit.github.io/PaletteRider/">PaletteRider — cycle through famous paintings</a></b><br>
 <sub><a href="https://x.com/Aashish_Tiwari_">@Aashish_Tiwari_</a> · ♥ 10 · <a href="https://x.com/Aashish_Tiwari_/status/2120963463610880150">▶ Video</a></sub><br>
 <sub>Ride a bicycle through cities from Klee's Castle and Sun and Van Gogh's Café Terrace at Night; the music was made by Fable 5.2 too.</sub>
 </td>
-<td width="33%" valign="top">
-<a href="https://maple-run-fable.vercel.app"><img src="../assets/gifs/395.gif" width="100%" alt="Maple Run"></a><br>
-<b><a href="https://maple-run-fable.vercel.app">Maple Run</a></b><br>
-<sub>🆕 · <a href="https://x.com/nan_in_space">@nan_in_space</a> · ♥ 10 · <a href="https://x.com/nan_in_space/status/2125041219244015900">▶ Video</a></sub><br>
-<sub>A Subway Surfers-style runner rebuilt with Fable 5.2 and open sourced. Upload any character image and play as that character; characters are rigged Gaussian splats made from one image with Viggle PINOC.</sub><br>
-<sub><a href="https://github.com/nanha0130/maple-run-fable">Source</a></sub>
-</td>
-</tr>
-<tr>
 <td width="33%" valign="top">
 <a href="https://napolehim.com"><img src="../assets/gifs/360.gif" width="100%" alt="Napoleon x Locke"></a><br>
 <b><a href="https://napolehim.com">Napoleon x Locke</a></b><br>
@@ -779,6 +786,8 @@ The main page shows at most the top 24 posts with 100+ likes; this page has ever
 <sub><a href="https://x.com/MartinaBuilds">@MartinaBuilds</a> · ♥ 9 · <a href="https://x.com/MartinaBuilds/status/2123424275462053893">▶ Video</a></sub><br>
 <sub>An interactive game for learning English through mystery stories: double-click any word to look it up, translate sentences, then clear reading quizzes.</sub>
 </td>
+</tr>
+<tr>
 <td width="33%" valign="top">
 <a href="https://www.aigameshare.com/games/great-wave-off-kanagawa?play=1&mode=fullscreen"><img src="../assets/gifs/235.gif" width="100%" alt="Great Wave"></a><br>
 <b><a href="https://www.aigameshare.com/games/great-wave-off-kanagawa?play=1&mode=fullscreen">Great Wave</a></b><br>
@@ -786,8 +795,6 @@ The main page shows at most the top 24 posts with 100+ likes; this page has ever
 <sub>Surf into Hokusai's Great Wave, row past the wind and thunder gods toward Mount Fuji.</sub><br>
 <sub><a href="https://fablelist.000ooo.ooo/prompts/?w=great-wave&ref=gh"><b>✨ Get the prompt</b></a></sub>
 </td>
-</tr>
-<tr>
 <td width="33%" valign="top">
 <a href="https://bistroschool.app/"><img src="../assets/gifs/375.gif" width="100%" alt="Bistro School"></a><br>
 <b><a href="https://bistroschool.app/">Bistro School</a></b><br>
@@ -801,14 +808,14 @@ The main page shows at most the top 24 posts with 100+ likes; this page has ever
 <sub>3D dirt-bike racing in one chat: 5 prompts, 15 minutes, 3 tracks, AI rivals, nitro, handlebar cam.</sub><br>
 <sub><a href="https://fablelist.000ooo.ooo/prompts/?w=roost&ref=gh"><b>✨ Get the prompt</b></a></sub>
 </td>
+</tr>
+<tr>
 <td width="33%" valign="top">
 <a href="https://jello.sixfingerpunch.com/"><img src="../assets/gifs/345.gif" width="100%" alt="Hello Jello — draggable jelly physics"></a><br>
 <b><a href="https://jello.sixfingerpunch.com/">Hello Jello — draggable jelly physics</a></b><br>
 <sub><a href="https://x.com/photonstorm">@photonstorm</a> · ♥ 6 · <a href="https://x.com/photonstorm/status/2122879821986627587">▶ Video</a></sub><br>
 <sub>A cute jelly physics toy: click and drag to stretch and fling a bunch of wobbly jellies.</sub>
 </td>
-</tr>
-<tr>
 <td width="33%" valign="top">
 <a href="https://clockendbader.github.io/fable-builds/go-for-launch/"><img src="../assets/gifs/258.gif" width="100%" alt="Go for Launch"></a><br>
 <b><a href="https://clockendbader.github.io/fable-builds/go-for-launch/">Go for Launch</a></b><br>
@@ -823,14 +830,14 @@ The main page shows at most the top 24 posts with 100+ likes; this page has ever
 <sub>Fable 5.2 + ElevenLabs MCP for 39 voice and sound clips, including an announcer it designed. Desktop + keyboard.</sub><br>
 <sub><a href="https://fablelist.000ooo.ooo/prompts/?w=four-character-fighting-game&ref=gh"><b>✨ Get the prompt</b></a></sub>
 </td>
+</tr>
+<tr>
 <td width="33%" valign="top">
 <a href="https://infall-game.vercel.app"><img src="../assets/gifs/268.gif" width="100%" alt="INFALL — you are the black hole"></a><br>
 <b><a href="https://infall-game.vercel.app">INFALL — you are the black hole</a></b><br>
 <sub><a href="https://x.com/AugustCastilIo">@AugustCastilIo</a> · ♥ 4 · <a href="https://x.com/AugustCastilIo/status/2121350653037756557">▶ Video</a></sub><br>
 <sub>The only instruction was "go crazy and blow my mind"; it went from idea to game in one shot.</sub>
 </td>
-</tr>
-<tr>
 <td width="33%" valign="top">
 <a href="https://vippi.vercel.app/"><img src="../assets/gifs/020.gif" width="100%" alt="Vippi"></a><br>
 <b><a href="https://vippi.vercel.app/">Vippi</a></b><br>
