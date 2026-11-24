@@ -36,7 +36,7 @@
 <td width="33%" valign="top">
 <a href="https://github.com/ChetasLua/pelican-riding-a-bicycle"><img src="../assets/gifs/150.gif" width="100%" alt="The Pelican, Tired of the Road"></a><br>
 <b><a href="https://github.com/ChetasLua/pelican-riding-a-bicycle">The Pelican, Tired of the Road</a></b><br>
-<sub><a href="https://x.com/chetaslua">@chetaslua</a> · ♥ 358 · <a href="https://x.com/chetaslua/status/2120438091647218025">▶ 影片</a></sub><br>
+<sub><a href="https://x.com/chetaslua">@chetaslua</a> · ♥ 359 · <a href="https://x.com/chetaslua/status/2120438091647218025">▶ 影片</a></sub><br>
 <sub>一部 60 秒的手繪風影片，主角是 SVG 測試裡的鵜鶘。單一 HTML 檔案；每個像素、每個聲音都是程式碼。</sub><br>
 <sub><a href="https://github.com/ChetasLua/mona-lisa-js">Mona Lisa in JS</a></sub><br>
 <sub><a href="https://fablelist.000ooo.ooo/zh-tw/prompts/?w=the-pelican-tired-of-the-road&ref=gh"><b>✨ 取得提示詞</b></a></sub>
@@ -58,7 +58,7 @@
 <td width="33%" valign="top">
 <a href="https://github.com/anstapnever/one-sweep"><img src="../assets/gifs/051.gif" width="100%" alt="One Sweep"></a><br>
 <b><a href="https://github.com/anstapnever/one-sweep">One Sweep</a></b><br>
-<sub><a href="https://x.com/anstapnever">@anstapnever</a> · ♥ 250 · <a href="https://x.com/anstapnever/status/2119772039037014524">▶ 影片</a></sub><br>
+<sub><a href="https://x.com/anstapnever">@anstapnever</a> · ♥ 251 · <a href="https://x.com/anstapnever/status/2119772039037014524">▶ 影片</a></sub><br>
 <sub>純 Three.js 的 78 秒動畫打鬥，六支 Agent 團隊並行。作者說的是「Fable 5.5」。</sub><br>
 <sub><a href="https://x.com/anstapnever/status/2119772039037014524">📝 作者公開的提示詞（免費）</a></sub>
 </td>
@@ -107,7 +107,7 @@
 <td width="33%" valign="top">
 <a href="https://github.com/anstapnever/blackout"><img src="../assets/gifs/052.gif" width="100%" alt="Blackout"></a><br>
 <b><a href="https://github.com/anstapnever/blackout">Blackout</a></b><br>
-<sub><a href="https://x.com/anstapnever">@anstapnever</a> · ♥ 118 · <a href="https://x.com/anstapnever/status/2119915123070644263">▶ 影片</a></sub><br>
+<sub><a href="https://x.com/anstapnever">@anstapnever</a> · ♥ 119 · <a href="https://x.com/anstapnever/status/2119915123070644263">▶ 影片</a></sub><br>
 <sub>79 秒動畫短片，全部由程式碼完成。</sub><br>
 <sub><a href="https://x.com/anstapnever/status/2119915123070644263">📝 作者公開的提示詞（免費）</a></sub>
 </td>

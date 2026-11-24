@@ -36,7 +36,7 @@
 <td width="33%" valign="top">
 <a href="https://github.com/ChetasLua/pelican-riding-a-bicycle"><img src="../assets/gifs/150.gif" width="100%" alt="The Pelican, Tired of the Road"></a><br>
 <b><a href="https://github.com/ChetasLua/pelican-riding-a-bicycle">The Pelican, Tired of the Road</a></b><br>
-<sub><a href="https://x.com/chetaslua">@chetaslua</a> · ♥ 358 · <a href="https://x.com/chetaslua/status/2120438091647218025">▶ 영상</a></sub><br>
+<sub><a href="https://x.com/chetaslua">@chetaslua</a> · ♥ 359 · <a href="https://x.com/chetaslua/status/2120438091647218025">▶ 영상</a></sub><br>
 <sub>SVG 테스트용 펠리컨을 다룬 60초짜리 손그림 느낌의 필름. HTML 파일 하나, 모든 픽셀과 소리가 코드.</sub><br>
 <sub><a href="https://github.com/ChetasLua/mona-lisa-js">Mona Lisa in JS</a></sub><br>
 <sub><a href="https://fablelist.000ooo.ooo/ko/prompts/?w=the-pelican-tired-of-the-road&ref=gh"><b>✨ 프롬프트 받기</b></a></sub>
@@ -58,7 +58,7 @@
 <td width="33%" valign="top">
 <a href="https://github.com/anstapnever/one-sweep"><img src="../assets/gifs/051.gif" width="100%" alt="One Sweep"></a><br>
 <b><a href="https://github.com/anstapnever/one-sweep">One Sweep</a></b><br>
-<sub><a href="https://x.com/anstapnever">@anstapnever</a> · ♥ 250 · <a href="https://x.com/anstapnever/status/2119772039037014524">▶ 영상</a></sub><br>
+<sub><a href="https://x.com/anstapnever">@anstapnever</a> · ♥ 251 · <a href="https://x.com/anstapnever/status/2119772039037014524">▶ 영상</a></sub><br>
 <sub>순수 Three.js로 만든 78초 애니메이션 전투, 에이전트 팀 6개 병렬 작업. 작성자는 "Fable 5.5"라고 부름.</sub><br>
 <sub><a href="https://x.com/anstapnever/status/2119772039037014524">📝 제작자 공개 프롬프트 (무료)</a></sub>
 </td>
@@ -107,7 +107,7 @@
 <td width="33%" valign="top">
 <a href="https://github.com/anstapnever/blackout"><img src="../assets/gifs/052.gif" width="100%" alt="Blackout"></a><br>
 <b><a href="https://github.com/anstapnever/blackout">Blackout</a></b><br>
-<sub><a href="https://x.com/anstapnever">@anstapnever</a> · ♥ 118 · <a href="https://x.com/anstapnever/status/2119915123070644263">▶ 영상</a></sub><br>
+<sub><a href="https://x.com/anstapnever">@anstapnever</a> · ♥ 119 · <a href="https://x.com/anstapnever/status/2119915123070644263">▶ 영상</a></sub><br>
 <sub>79초 애니메이션 단편, 전부 코드.</sub><br>
 <sub><a href="https://x.com/anstapnever/status/2119915123070644263">📝 제작자 공개 프롬프트 (무료)</a></sub>
 </td>

@@ -5,9 +5,9 @@
 <h3>用 Claude Fable 5.2 做出来、能直接打开玩的东西</h3>
 
 [![Awesome](https://awesome.re/badge.svg)](https://awesome.re)
-[![Works](https://img.shields.io/badge/可打开作品-236-6b4eff)](#-游戏)
-[![Demos](https://img.shields.io/badge/视频演示-149-ff7a59)](#-只有视频)
-[![Links checked](https://img.shields.io/badge/链接实测-2026--11--23-2ea44f)](#-投稿)
+[![Works](https://img.shields.io/badge/可打开作品-239-6b4eff)](#-游戏)
+[![Demos](https://img.shields.io/badge/视频演示-150-ff7a59)](#-只有视频)
+[![Links checked](https://img.shields.io/badge/链接实测-2026--11--24-2ea44f)](#-投稿)
 [![License: CC0-1.0](https://img.shields.io/badge/License-CC0_1.0-lightgrey.svg)](LICENSE)
 
 [English](README.md) · **简体中文** · [繁體中文](README.zh-TW.md) · [日本語](README.ja.md) · [한국어](README.ko.md) · [Español](README.es.md) · [Português](README.pt-BR.md) · [Français](README.fr.md) · [Deutsch](README.de.md) · [Русский](README.ru.md)
@@ -16,11 +16,11 @@
 
 </div>
 
-236 个能直接打开的作品 + 149 个视频演示，都是用 Claude Fable 5.2 做的，链接 2026-11-23 实测过。每天更新，觉得有用就点个 ⭐。
+239 个能直接打开的作品 + 150 个视频演示，都是用 Claude Fable 5.2 做的，链接 2026-11-24 实测过。每天更新，觉得有用就点个 ⭐。
 
 ## 📑 目录
 
-[⭐ 最受欢迎](#-最受欢迎) · [🆕 最新](#-最新) · [🎮 游戏](#-游戏) 111 · [🌍 3D 世界与场景](#-3d-世界与场景) 50 · [🧰 网页与工具](#-网页与工具) 56 · [🎬 动画与短片（附源码）](#-动画与短片附源码) 19 · [📺 只有视频](#-只有视频) 149 · [🤝 投稿](#-投稿)
+[⭐ 最受欢迎](#-最受欢迎) · [🆕 最新](#-最新) · [🎮 游戏](#-游戏) 112 · [🌍 3D 世界与场景](#-3d-世界与场景) 51 · [🧰 网页与工具](#-网页与工具) 57 · [🎬 动画与短片（附源码）](#-动画与短片附源码) 19 · [📺 只有视频](#-只有视频) 150 · [🤝 投稿](#-投稿)
 
 ## ⭐ 最受欢迎
 
@@ -36,7 +36,7 @@
 <td width="33%" valign="top">
 <a href="https://claude.ai/artifact/BGY1SztrAYcJQHSsnHHGmp"><img src="assets/gifs/001.gif" width="100%" alt="Saltline 第一人称射击"></a><br>
 <b><a href="https://claude.ai/artifact/BGY1SztrAYcJQHSsnHHGmp">Saltline 第一人称射击</a></b><br>
-<sub><a href="https://x.com/felixrieseberg">@felixrieseberg</a> · ♥ 15.0k · <a href="https://x.com/felixrieseberg/status/2119925633564463609">▶ 视频</a></sub><br>
+<sub><a href="https://x.com/felixrieseberg">@felixrieseberg</a> · ♥ 15.1k · <a href="https://x.com/felixrieseberg/status/2119925633564463609">▶ 视频</a></sub><br>
 <sub>Anthropic 工程师；一次性提示、无人工反馈跑 8 小时，约 $550；模型、音效、贴图全部代码生成</sub><br>
 <sub><a href="https://fablelist.000ooo.ooo/zh/prompts/?w=saltline-first-person-shooter&ref=gh"><b>✨ 获取提示词</b></a></sub>
 </td>
@@ -80,22 +80,22 @@
 <table>
 <tr>
 <td width="33%" valign="top">
-<a href="https://april-zhu.com/pocketcity"><img src="assets/gifs/369.gif" width="100%" alt="Pocket City 能转着看的手绘街角小城"></a><br>
-<b><a href="https://april-zhu.com/pocketcity">Pocket City 能转着看的手绘街角小城</a></b><br>
-<sub>🆕 · <a href="https://x.com/Aprilzz423">@Aprilzz423</a> · ♥ 1.2k · <a href="https://x.com/Aprilzz423/status/2123788440714260673">▶ 视频</a></sub><br>
-<sub>把任意一个街角变成能转着看的手绘小城：按 OpenStreetMap 实测，带当地的天气和四季，有阿姆斯特丹、上海、京都、新加坡等；Fable 5.2 和 GPT-6.2 Astra 一起做</sub>
-</td>
-<td width="33%" valign="top">
-<a href="https://gtashenzhen.com"><img src="assets/gifs/377.gif" width="100%" alt="GTA Shenzhen GTA 版深圳全城"></a><br>
-<b><a href="https://gtashenzhen.com">GTA Shenzhen GTA 版深圳全城</a></b><br>
-<sub>🆕 · <a href="https://x.com/KinGao476942">@KinGao476942</a> · ♥ 984 · <a href="https://x.com/KinGao476942/status/2123967104601014521">▶ 视频</a></sub><br>
-<sub>按 OSM 实景数据建出的深圳全城：8.3 万栋楼、6.2 万条路，能在天上飞、落地开车、搜地点导航，晚上还能开全城灯光秀；Fable 5.2 加 Tripo 做了三天</sub>
-</td>
-<td width="33%" valign="top">
 <a href="https://thaxnay.com/ramayana/"><img src="assets/gifs/389.gif" width="100%" alt="Ramayana: The Sacred Fires 罗摩衍那动作冒险"></a><br>
 <b><a href="https://thaxnay.com/ramayana/">Ramayana: The Sacred Fires 罗摩衍那动作冒险</a></b><br>
-<sub>🆕 · <a href="https://x.com/Thaxnay">@Thaxnay</a> · ♥ 810 · <a href="https://x.com/Thaxnay/status/2124574054296219939">▶ 视频</a></sub><br>
+<sub>🆕 · <a href="https://x.com/Thaxnay">@Thaxnay</a> · ♥ 958 · <a href="https://x.com/Thaxnay/status/2124574054296219939">▶ 视频</a></sub><br>
 <sub>扮演罗摩在开阔山谷里守护修行的仙人、找隐藏彩蛋的第三人称动作游戏，电脑和手机浏览器都能玩</sub>
+</td>
+<td width="33%" valign="top">
+<a href="https://ebb.tesana.com"><img src="assets/gifs/379.gif" width="100%" alt="EBB 变形水滴物理平台解谜"></a><br>
+<b><a href="https://ebb.tesana.com">EBB 变形水滴物理平台解谜</a></b><br>
+<sub>🆕 · <a href="https://x.com/Rubzem">@Rubzem</a> · ♥ 680 · <a href="https://x.com/Rubzem/status/2124142554371502140">▶ 视频</a></sub><br>
+<sub>扮演一团能融化、结冰、飘起来的水去解谜的物理平台游戏；全程序化生成，只有 190 KB，一小时做完</sub>
+</td>
+<td width="33%" valign="top">
+<a href="https://patch.gg/play/blendi/the-blue-hour"><img src="assets/gifs/387.gif" width="100%" alt="The Blue Hour 装饰艺术风的夜色城市"></a><br>
+<b><a href="https://patch.gg/play/blendi/the-blue-hour">The Blue Hour 装饰艺术风的夜色城市</a></b><br>
+<sub>🆕 · <a href="https://x.com/BlendiByl">@BlendiByl</a> · ♥ 634 · <a href="https://x.com/BlendiByl/status/2124439671006748853">▶ 视频</a></sub><br>
+<sub>照着《蝙蝠侠》动画版的装饰艺术风格做的 3D 场景，全部由代码画出；开源</sub>
 </td>
 </tr>
 </table>
@@ -114,7 +114,7 @@
 <td width="33%" valign="top">
 <a href="https://claude.ai/artifact/BGY1SztrAYcJQHSsnHHGmp"><img src="assets/gifs/001.gif" width="100%" alt="Saltline 第一人称射击"></a><br>
 <b><a href="https://claude.ai/artifact/BGY1SztrAYcJQHSsnHHGmp">Saltline 第一人称射击</a></b><br>
-<sub><a href="https://x.com/felixrieseberg">@felixrieseberg</a> · ♥ 15.0k · <a href="https://x.com/felixrieseberg/status/2119925633564463609">▶ 视频</a></sub><br>
+<sub><a href="https://x.com/felixrieseberg">@felixrieseberg</a> · ♥ 15.1k · <a href="https://x.com/felixrieseberg/status/2119925633564463609">▶ 视频</a></sub><br>
 <sub>Anthropic 工程师；一次性提示、无人工反馈跑 8 小时，约 $550；模型、音效、贴图全部代码生成</sub><br>
 <sub><a href="https://fablelist.000ooo.ooo/zh/prompts/?w=saltline-first-person-shooter&ref=gh"><b>✨ 获取提示词</b></a></sub>
 </td>
@@ -235,7 +235,7 @@
 <td width="33%" valign="top">
 <a href="https://gtashenzhen.com"><img src="assets/gifs/377.gif" width="100%" alt="GTA Shenzhen GTA 版深圳全城"></a><br>
 <b><a href="https://gtashenzhen.com">GTA Shenzhen GTA 版深圳全城</a></b><br>
-<sub>🆕 · <a href="https://x.com/KinGao476942">@KinGao476942</a> · ♥ 984 · <a href="https://x.com/KinGao476942/status/2123967104601014521">▶ 视频</a></sub><br>
+<sub>🆕 · <a href="https://x.com/KinGao476942">@KinGao476942</a> · ♥ 987 · <a href="https://x.com/KinGao476942/status/2123967104601014521">▶ 视频</a></sub><br>
 <sub>按 OSM 实景数据建出的深圳全城：8.3 万栋楼、6.2 万条路，能在天上飞、落地开车、搜地点导航，晚上还能开全城灯光秀；Fable 5.2 加 Tripo 做了三天</sub>
 </td>
 </tr>
@@ -243,13 +243,13 @@
 <td width="33%" valign="top">
 <a href="https://thaxnay.com/ramayana/"><img src="assets/gifs/389.gif" width="100%" alt="Ramayana: The Sacred Fires 罗摩衍那动作冒险"></a><br>
 <b><a href="https://thaxnay.com/ramayana/">Ramayana: The Sacred Fires 罗摩衍那动作冒险</a></b><br>
-<sub>🆕 · <a href="https://x.com/Thaxnay">@Thaxnay</a> · ♥ 810 · <a href="https://x.com/Thaxnay/status/2124574054296219939">▶ 视频</a></sub><br>
+<sub>🆕 · <a href="https://x.com/Thaxnay">@Thaxnay</a> · ♥ 958 · <a href="https://x.com/Thaxnay/status/2124574054296219939">▶ 视频</a></sub><br>
 <sub>扮演罗摩在开阔山谷里守护修行的仙人、找隐藏彩蛋的第三人称动作游戏，电脑和手机浏览器都能玩</sub>
 </td>
 <td width="33%" valign="top">
 <a href="https://claude.ai/artifact/MXxb36zKgN261ckbGhmNin"><img src="assets/gifs/002.gif" width="100%" alt="Three Games 合集页（Saltline / 钟表匠之心 / Tidewright）"></a><br>
 <b><a href="https://claude.ai/artifact/MXxb36zKgN261ckbGhmNin">Three Games 合集页（Saltline / 钟表匠之心 / Tidewright）</a></b><br>
-<sub><a href="https://x.com/felixrieseberg">@felixrieseberg</a> · ♥ 804 · <a href="https://x.com/vineerpasam/status/2119955306096857145">▶ 视频</a></sub><br>
+<sub><a href="https://x.com/felixrieseberg">@felixrieseberg</a> · ♥ 803 · <a href="https://x.com/vineerpasam/status/2119955306096857145">▶ 视频</a></sub><br>
 <sub>页面署名 Felix Rieseberg，写明三款都是 Fable 5.2 无人工反馈的初稿；被转发最多的链接（视频来自转发者 @vineerpasam）</sub><br>
 <sub><a href="https://claude.ai/artifact/6MjtQjf4ee1ZZjEpafaEpa">钟表匠之心</a> · <a href="https://claude.ai/artifact/JTgyEMn7sn1q2riWrMb7D4">Tidewright</a></sub><br>
 <sub><a href="https://fablelist.000ooo.ooo/zh/prompts/?w=three-games-saltline-the-clockmaker-s-heart-tidewright&ref=gh"><b>✨ 获取提示词</b></a></sub>
@@ -272,20 +272,20 @@
 <td width="33%" valign="top">
 <a href="https://www.spawn.co/@mattshumer/voxel-engine"><img src="assets/gifs/004.gif" width="100%" alt="体素引擎"></a><br>
 <b><a href="https://www.spawn.co/@mattshumer/voxel-engine">体素引擎</a></b><br>
-<sub><a href="https://x.com/mattshumer_">@mattshumer_</a> · ♥ 743 · <a href="https://x.com/mattshumer_/status/2119870965106483384">▶ 视频</a></sub><br>
+<sub><a href="https://x.com/mattshumer_">@mattshumer_</a> · ♥ 744 · <a href="https://x.com/mattshumer_/status/2119870965106483384">▶ 视频</a></sub><br>
 <sub>一条提示词生成，要开声音</sub><br>
 <sub><a href="https://fablelist.000ooo.ooo/zh/prompts/?w=voxel-engine&ref=gh"><b>✨ 获取提示词</b></a></sub>
 </td>
 <td width="33%" valign="top">
 <a href="https://ebb.tesana.com"><img src="assets/gifs/379.gif" width="100%" alt="EBB 变形水滴物理平台解谜"></a><br>
 <b><a href="https://ebb.tesana.com">EBB 变形水滴物理平台解谜</a></b><br>
-<sub>🆕 · <a href="https://x.com/Rubzem">@Rubzem</a> · ♥ 677 · <a href="https://x.com/Rubzem/status/2124142554371502140">▶ 视频</a></sub><br>
+<sub>🆕 · <a href="https://x.com/Rubzem">@Rubzem</a> · ♥ 680 · <a href="https://x.com/Rubzem/status/2124142554371502140">▶ 视频</a></sub><br>
 <sub>扮演一团能融化、结冰、飘起来的水去解谜的物理平台游戏；全程序化生成，只有 190 KB，一小时做完</sub>
 </td>
 </tr>
 </table>
 
-<p align="center"><b><a href="all/games.zh-CN.md">查看全部 111 个 →</a></b></p>
+<p align="center"><b><a href="all/games.zh-CN.md">查看全部 112 个 →</a></b></p>
 
 <div align="right"><a href="#-目录">↑ 回到目录</a></div>
 
@@ -319,7 +319,7 @@
 <td width="33%" valign="top">
 <a href="https://april-zhu.com/pocketcity"><img src="assets/gifs/369.gif" width="100%" alt="Pocket City 能转着看的手绘街角小城"></a><br>
 <b><a href="https://april-zhu.com/pocketcity">Pocket City 能转着看的手绘街角小城</a></b><br>
-<sub>🆕 · <a href="https://x.com/Aprilzz423">@Aprilzz423</a> · ♥ 1.2k · <a href="https://x.com/Aprilzz423/status/2123788440714260673">▶ 视频</a></sub><br>
+<sub><a href="https://x.com/Aprilzz423">@Aprilzz423</a> · ♥ 1.2k · <a href="https://x.com/Aprilzz423/status/2123788440714260673">▶ 视频</a></sub><br>
 <sub>把任意一个街角变成能转着看的手绘小城：按 OpenStreetMap 实测，带当地的天气和四季，有阿姆斯特丹、上海、京都、新加坡等；Fable 5.2 和 GPT-6.2 Astra 一起做</sub>
 </td>
 <td width="33%" valign="top">
@@ -341,7 +341,7 @@
 <td width="33%" valign="top">
 <a href="https://fable-rome.surge.sh/"><img src="assets/gifs/136.gif" width="100%" alt="Rome, AD 320 古罗马"></a><br>
 <b><a href="https://fable-rome.surge.sh/">Rome, AD 320 古罗马</a></b><br>
-<sub><a href="https://x.com/petergostev">@petergostev</a> · ♥ 976 · <a href="https://x.com/petergostev/status/2120167560700383572">▶ 视频</a></sub><br>
+<sub><a href="https://x.com/petergostev">@petergostev</a> · ♥ 977 · <a href="https://x.com/petergostev/status/2120167560700383572">▶ 视频</a></sub><br>
 <sub>一条提示词，Fable 5.2 Max 跑了一夜，花费 $2,618</sub><br>
 <sub><a href="https://x.com/petergostev/status/2120167560700383572">📝 作者公开的提示词（免费）</a></sub>
 </td>
@@ -363,13 +363,13 @@
 <td width="33%" valign="top">
 <a href="https://ship-42-catch.netlify.app/"><img src="assets/gifs/297.gif" width="100%" alt="Ship 42 Catch 星舰筷子夹回收"></a><br>
 <b><a href="https://ship-42-catch.netlify.app/">Ship 42 Catch 星舰筷子夹回收</a></b><br>
-<sub><a href="https://x.com/emollick">@emollick</a> · ♥ 738 · <a href="https://x.com/emollick/status/2122036763468214711">▶ 视频</a></sub><br>
+<sub><a href="https://x.com/emollick">@emollick</a> · ♥ 739 · <a href="https://x.com/emollick/status/2122036763468214711">▶ 视频</a></sub><br>
 <sub>让 Fable 和 Opus 找来星舰被发射塔「筷子」夹住的视频，把最后 40 秒用 three.js 高细节重现，能切换视角</sub>
 </td>
 <td width="33%" valign="top">
 <a href="https://patch.gg/play/blendi/the-blue-hour"><img src="assets/gifs/387.gif" width="100%" alt="The Blue Hour 装饰艺术风的夜色城市"></a><br>
 <b><a href="https://patch.gg/play/blendi/the-blue-hour">The Blue Hour 装饰艺术风的夜色城市</a></b><br>
-<sub>🆕 · <a href="https://x.com/BlendiByl">@BlendiByl</a> · ♥ 594 · <a href="https://x.com/BlendiByl/status/2124439671006748853">▶ 视频</a></sub><br>
+<sub>🆕 · <a href="https://x.com/BlendiByl">@BlendiByl</a> · ♥ 634 · <a href="https://x.com/BlendiByl/status/2124439671006748853">▶ 视频</a></sub><br>
 <sub>照着《蝙蝠侠》动画版的装饰艺术风格做的 3D 场景，全部由代码画出；开源</sub>
 </td>
 <td width="33%" valign="top">
@@ -471,7 +471,7 @@
 </tr>
 </table>
 
-<p align="center"><b><a href="all/3d-worlds.zh-CN.md">查看全部 50 个 →</a></b></p>
+<p align="center"><b><a href="all/3d-worlds.zh-CN.md">查看全部 51 个 →</a></b></p>
 
 <div align="right"><a href="#-目录">↑ 回到目录</a></div>
 
@@ -560,14 +560,14 @@
 <td width="33%" valign="top">
 <a href="https://github.com/AlexAtFF/pulp-daw-public"><img src="assets/gifs/204.gif" width="100%" alt="PULP AI 原生音频工作站"></a><br>
 <b><a href="https://github.com/AlexAtFF/pulp-daw-public">PULP AI 原生音频工作站</a></b><br>
-<sub><a href="https://x.com/The_Alex">@The_Alex</a> · ♥ 948 · <a href="https://x.com/The_Alex/status/2119917226769985785">▶ 视频</a></sub><br>
+<sub><a href="https://x.com/The_Alex">@The_Alex</a> · ♥ 947 · <a href="https://x.com/The_Alex/status/2119917226769985785">▶ 视频</a></sub><br>
 <sub>Windows 原生 DAW；让 Claude 做音乐时它会自己打开这个工作站编曲</sub><br>
 <sub><a href="https://fablelist.000ooo.ooo/zh/prompts/?w=pulp-an-ai-native-daw&ref=gh"><b>✨ 获取提示词</b></a></sub>
 </td>
 <td width="33%" valign="top">
 <a href="https://frontier.every.to/experiments/ambient-town"><img src="assets/gifs/148.gif" width="100%" alt="Ambient Town 氛围音乐工作站"></a><br>
 <b><a href="https://frontier.every.to/experiments/ambient-town">Ambient Town 氛围音乐工作站</a></b><br>
-<sub><a href="https://x.com/kieranklaassen">@kieranklaassen</a> · ♥ 897 · <a href="https://x.com/kieranklaassen/status/2119868196773929160">▶ 视频</a></sub><br>
+<sub><a href="https://x.com/kieranklaassen">@kieranklaassen</a> · ♥ 896 · <a href="https://x.com/kieranklaassen/status/2119868196773929160">▶ 视频</a></sub><br>
 <sub>前电影配乐师花一周晚上做的 DAW：支持 Ableton Push、多路麦克风、效果器，还有一起作曲的 Agent；页面里点 Try it</sub><br>
 <sub><a href="https://fablelist.000ooo.ooo/zh/prompts/?w=ambient-town&ref=gh"><b>✨ 获取提示词</b></a></sub>
 </td>
@@ -598,7 +598,7 @@
 <td width="33%" valign="top">
 <a href="https://auden-english-135.netlify.app/"><img src="assets/gifs/281.gif" width="100%" alt="Auden 1941 年失传诗歌课复原"></a><br>
 <b><a href="https://auden-english-135.netlify.app/">Auden 1941 年失传诗歌课复原</a></b><br>
-<sub><a href="https://x.com/emollick">@emollick</a> · ♥ 593 · <a href="https://x.com/emollick/status/2121641417483169934">原帖</a></sub><br>
+<sub><a href="https://x.com/emollick">@emollick</a> · ♥ 594 · <a href="https://x.com/emollick/status/2121641417483169934">原帖</a></sub><br>
 <sub>让它复原诗人奥登 1941 年那门「人文学科最难」的课：从互联网档案馆的旧书和零散笔记里拼出可读的课程</sub>
 </td>
 <td width="33%" valign="top">
@@ -610,7 +610,7 @@
 <td width="33%" valign="top">
 <a href="https://claude.ai/artifact/4P1urBdptp6gWiJo3R6Vpv"><img src="assets/gifs/333.gif" width="100%" alt="Breakcore 视频采样器"></a><br>
 <b><a href="https://claude.ai/artifact/4P1urBdptp6gWiJo3R6Vpv">Breakcore 视频采样器</a></b><br>
-<sub><a href="https://x.com/parhelion318">@parhelion318</a> · ♥ 543 · <a href="https://x.com/parhelion318/status/2122723067533398064">▶ 视频</a></sub><br>
+<sub><a href="https://x.com/parhelion318">@parhelion318</a> · ♥ 542 · <a href="https://x.com/parhelion318/status/2122723067533398064">▶ 视频</a></sub><br>
 <sub>在浏览器里把视频片段切碎、重排成 breakcore 节奏的采样器</sub>
 </td>
 </tr>
@@ -618,7 +618,7 @@
 <td width="33%" valign="top">
 <a href="https://www.bubbbly.com/christmas-cards"><img src="assets/gifs/315.gif" width="100%" alt="Christmas Cards 互动圣诞贺卡"></a><br>
 <b><a href="https://www.bubbbly.com/christmas-cards">Christmas Cards 互动圣诞贺卡</a></b><br>
-<sub><a href="https://x.com/ann_nnng">@ann_nnng</a> · ♥ 478 · <a href="https://x.com/ann_nnng/status/2122283549000712249">▶ 视频</a></sub><br>
+<sub><a href="https://x.com/ann_nnng">@ann_nnng</a> · ♥ 481 · <a href="https://x.com/ann_nnng/status/2122283549000712249">▶ 视频</a></sub><br>
 <sub>一组可以互动的圣诞贺卡，比如围红围巾的猫在窗台上看雪</sub>
 </td>
 <td width="33%" valign="top">
@@ -647,7 +647,7 @@
 <td width="33%" valign="top">
 <a href="https://rubber-hose-ui.vercel.app"><img src="assets/gifs/332.gif" width="100%" alt="Rubber Hose UI 1930 年代卡通风控件"></a><br>
 <b><a href="https://rubber-hose-ui.vercel.app">Rubber Hose UI 1930 年代卡通风控件</a></b><br>
-<sub><a href="https://x.com/crtvTeknologist">@crtvTeknologist</a> · ♥ 353 · <a href="https://x.com/crtvTeknologist/status/2122433522166124616">▶ 视频</a></sub><br>
+<sub><a href="https://x.com/crtvTeknologist">@crtvTeknologist</a> · ♥ 355 · <a href="https://x.com/crtvTeknologist/status/2122433522166124616">▶ 视频</a></sub><br>
 <sub>11 个网页控件全是橡皮管卡通角色：滑块是长号，提示框是烤面包机，按钮每按一次多一只黑眼圈；原生 JS 加 canvas，无依赖，开源</sub><br>
 <sub><a href="https://github.com/finktheartist/rubber-hose-ui">源码</a></sub>
 </td>
@@ -660,7 +660,7 @@
 </tr>
 </table>
 
-<p align="center"><b><a href="all/web-and-tools.zh-CN.md">查看全部 56 个 →</a></b></p>
+<p align="center"><b><a href="all/web-and-tools.zh-CN.md">查看全部 57 个 →</a></b></p>
 
 <div align="right"><a href="#-目录">↑ 回到目录</a></div>
 
@@ -698,7 +698,7 @@
 <td width="33%" valign="top">
 <a href="https://github.com/ChetasLua/pelican-riding-a-bicycle"><img src="assets/gifs/150.gif" width="100%" alt="骑车的鹈鹕：60 秒手绘风短片"></a><br>
 <b><a href="https://github.com/ChetasLua/pelican-riding-a-bicycle">骑车的鹈鹕：60 秒手绘风短片</a></b><br>
-<sub><a href="https://x.com/chetaslua">@chetaslua</a> · ♥ 358 · <a href="https://x.com/chetaslua/status/2120438091647218025">▶ 视频</a></sub><br>
+<sub><a href="https://x.com/chetaslua">@chetaslua</a> · ♥ 359 · <a href="https://x.com/chetaslua/status/2120438091647218025">▶ 视频</a></sub><br>
 <sub>一个 HTML 文件，画面和声音全是代码，没有图片、音频和库</sub><br>
 <sub><a href="https://github.com/ChetasLua/mona-lisa-js">蒙娜丽莎</a></sub><br>
 <sub><a href="https://fablelist.000ooo.ooo/zh/prompts/?w=the-pelican-tired-of-the-road&ref=gh"><b>✨ 获取提示词</b></a></sub>
@@ -720,7 +720,7 @@
 <td width="33%" valign="top">
 <a href="https://github.com/anstapnever/one-sweep"><img src="assets/gifs/051.gif" width="100%" alt="One Sweep 78 秒动漫打斗"></a><br>
 <b><a href="https://github.com/anstapnever/one-sweep">One Sweep 78 秒动漫打斗</a></b><br>
-<sub><a href="https://x.com/anstapnever">@anstapnever</a> · ♥ 250 · <a href="https://x.com/anstapnever/status/2119772039037014524">▶ 视频</a></sub><br>
+<sub><a href="https://x.com/anstapnever">@anstapnever</a> · ♥ 251 · <a href="https://x.com/anstapnever/status/2119772039037014524">▶ 视频</a></sub><br>
 <sub>纯 Three.js 代码，6 组 Agent 并行；作者写的是「Fable 5.5」</sub><br>
 <sub><a href="https://x.com/anstapnever/status/2119772039037014524">📝 作者公开的提示词（免费）</a></sub>
 </td>
@@ -769,7 +769,7 @@
 <td width="33%" valign="top">
 <a href="https://github.com/anstapnever/blackout"><img src="assets/gifs/052.gif" width="100%" alt="Blackout 79 秒动漫"></a><br>
 <b><a href="https://github.com/anstapnever/blackout">Blackout 79 秒动漫</a></b><br>
-<sub><a href="https://x.com/anstapnever">@anstapnever</a> · ♥ 118 · <a href="https://x.com/anstapnever/status/2119915123070644263">▶ 视频</a></sub><br>
+<sub><a href="https://x.com/anstapnever">@anstapnever</a> · ♥ 119 · <a href="https://x.com/anstapnever/status/2119915123070644263">▶ 视频</a></sub><br>
 <br>
 <sub><a href="https://x.com/anstapnever/status/2119915123070644263">📝 作者公开的提示词（免费）</a></sub>
 </td>
@@ -842,7 +842,7 @@
 <td width="33%" valign="top">
 <a href="https://x.com/Dstudio_ai/status/2122569461547098595"><img src="assets/gifs/328.gif" width="100%" alt="用 Tripo 做 3D 模型，再让它做出手游风格的大厅界面，反馈两三次，背景和运镜都在对话里交代"></a><br>
 <b><a href="https://x.com/Dstudio_ai/status/2122569461547098595">用 Tripo 做 3D 模型，再让它做出手游风格的大厅界面，反馈两三次，背景和运镜都在对话里交代</a></b><br>
-<sub><a href="https://x.com/Dstudio_ai">@Dstudio_ai</a> · ♥ 5.3k · <a href="https://x.com/Dstudio_ai/status/2122569461547098595">▶ 视频</a></sub><br>
+<sub><a href="https://x.com/Dstudio_ai">@Dstudio_ai</a> · ♥ 5.4k · <a href="https://x.com/Dstudio_ai/status/2122569461547098595">▶ 视频</a></sub><br>
 
 </td>
 <td width="33%" valign="top">
@@ -963,7 +963,7 @@
 </tr>
 </table>
 
-<p align="center"><b><a href="all/video-demos.zh-CN.md">查看全部 149 个 →</a></b></p>
+<p align="center"><b><a href="all/video-demos.zh-CN.md">查看全部 150 个 →</a></b></p>
 
 ## 🤝 投稿
 
@@ -983,9 +983,9 @@
 
 ## 📰 更新
 
+- **2026-11-24**：新增 3 个可打开作品和 1 个视频演示。
 - **2026-11-23**：新增 4 个可打开作品和 1 个视频演示。
 - **2026-11-22**：新增 10 个可打开作品和 2 个视频演示。
 - **2026-11-21**：新增 7 个可打开作品和 1 个视频演示。
-- **2026-11-20**：新增 8 个可打开作品和 0 个视频演示。
 - **2026-11-10**：每个作品都加上了动图预览。
 - **2026-11-10**：首版，57 个可打开作品 + 61 个视频演示。

@@ -36,7 +36,7 @@
 <td width="33%" valign="top">
 <a href="https://github.com/ChetasLua/pelican-riding-a-bicycle"><img src="../assets/gifs/150.gif" width="100%" alt="The Pelican, Tired of the Road"></a><br>
 <b><a href="https://github.com/ChetasLua/pelican-riding-a-bicycle">The Pelican, Tired of the Road</a></b><br>
-<sub><a href="https://x.com/chetaslua">@chetaslua</a> · ♥ 358 · <a href="https://x.com/chetaslua/status/2120438091647218025">▶ 動画</a></sub><br>
+<sub><a href="https://x.com/chetaslua">@chetaslua</a> · ♥ 359 · <a href="https://x.com/chetaslua/status/2120438091647218025">▶ 動画</a></sub><br>
 <sub>SVG テストで有名なペリカンを描いた、手描き風の 60 秒の映像。HTML ファイル 1 つ、ピクセルも音もすべてコード。</sub><br>
 <sub><a href="https://github.com/ChetasLua/mona-lisa-js">Mona Lisa in JS</a></sub><br>
 <sub><a href="https://fablelist.000ooo.ooo/ja/prompts/?w=the-pelican-tired-of-the-road&ref=gh"><b>✨ プロンプトを入手</b></a></sub>
@@ -58,7 +58,7 @@
 <td width="33%" valign="top">
 <a href="https://github.com/anstapnever/one-sweep"><img src="../assets/gifs/051.gif" width="100%" alt="One Sweep"></a><br>
 <b><a href="https://github.com/anstapnever/one-sweep">One Sweep</a></b><br>
-<sub><a href="https://x.com/anstapnever">@anstapnever</a> · ♥ 250 · <a href="https://x.com/anstapnever/status/2119772039037014524">▶ 動画</a></sub><br>
+<sub><a href="https://x.com/anstapnever">@anstapnever</a> · ♥ 251 · <a href="https://x.com/anstapnever/status/2119772039037014524">▶ 動画</a></sub><br>
 <sub>純粋な Three.js で作った 78 秒のアニメ戦闘。6 つの Agent チームが並列で作業。作者は「Fable 5.5」と言っている。</sub><br>
 <sub><a href="https://x.com/anstapnever/status/2119772039037014524">📝 作者公開のプロンプト（無料）</a></sub>
 </td>
@@ -107,7 +107,7 @@
 <td width="33%" valign="top">
 <a href="https://github.com/anstapnever/blackout"><img src="../assets/gifs/052.gif" width="100%" alt="Blackout"></a><br>
 <b><a href="https://github.com/anstapnever/blackout">Blackout</a></b><br>
-<sub><a href="https://x.com/anstapnever">@anstapnever</a> · ♥ 118 · <a href="https://x.com/anstapnever/status/2119915123070644263">▶ 動画</a></sub><br>
+<sub><a href="https://x.com/anstapnever">@anstapnever</a> · ♥ 119 · <a href="https://x.com/anstapnever/status/2119915123070644263">▶ 動画</a></sub><br>
 <sub>すべてコードで作った 79 秒のアニメ短編。</sub><br>
 <sub><a href="https://x.com/anstapnever/status/2119915123070644263">📝 作者公開のプロンプト（無料）</a></sub>
 </td>

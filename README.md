@@ -5,9 +5,9 @@
 <h3>Things people built with Claude Fable 5.2 that you can actually open and play</h3>
 
 [![Awesome](https://awesome.re/badge.svg)](https://awesome.re)
-[![Works](https://img.shields.io/badge/live_works-236-6b4eff)](#-games)
-[![Demos](https://img.shields.io/badge/video_demos-149-ff7a59)](#-video-only-demos)
-[![Links checked](https://img.shields.io/badge/links_checked-2026--11--23-2ea44f)](#-contributing)
+[![Works](https://img.shields.io/badge/live_works-239-6b4eff)](#-games)
+[![Demos](https://img.shields.io/badge/video_demos-150-ff7a59)](#-video-only-demos)
+[![Links checked](https://img.shields.io/badge/links_checked-2026--11--24-2ea44f)](#-contributing)
 [![License: CC0-1.0](https://img.shields.io/badge/License-CC0_1.0-lightgrey.svg)](LICENSE)
 
 **English** · [简体中文](README.zh-CN.md) · [繁體中文](README.zh-TW.md) · [日本語](README.ja.md) · [한국어](README.ko.md) · [Español](README.es.md) · [Português](README.pt-BR.md) · [Français](README.fr.md) · [Deutsch](README.de.md) · [Русский](README.ru.md)
@@ -16,11 +16,11 @@
 
 </div>
 
-236 live works and 149 video demos built with Claude Fable 5.2, every link checked 2026-11-23. Updated daily; a ⭐ keeps it coming.
+239 live works and 150 video demos built with Claude Fable 5.2, every link checked 2026-11-24. Updated daily; a ⭐ keeps it coming.
 
 ## 📑 Contents
 
-[⭐ Most Loved](#-most-loved) · [🆕 Recent](#-recent) · [🎮 Games](#-games) 111 · [🌍 3D Worlds & Scenes](#-3d-worlds--scenes) 50 · [🧰 Web Pages & Tools](#-web-pages--tools) 56 · [🎬 Animation & Film (with source)](#-animation--film-with-source) 19 · [📺 Video-only Demos](#-video-only-demos) 149 · [🤝 Contributing](#-contributing)
+[⭐ Most Loved](#-most-loved) · [🆕 Recent](#-recent) · [🎮 Games](#-games) 112 · [🌍 3D Worlds & Scenes](#-3d-worlds--scenes) 51 · [🧰 Web Pages & Tools](#-web-pages--tools) 57 · [🎬 Animation & Film (with source)](#-animation--film-with-source) 19 · [📺 Video-only Demos](#-video-only-demos) 150 · [🤝 Contributing](#-contributing)
 
 ## ⭐ Most Loved
 
@@ -36,7 +36,7 @@
 <td width="33%" valign="top">
 <a href="https://claude.ai/artifact/BGY1SztrAYcJQHSsnHHGmp"><img src="assets/gifs/001.gif" width="100%" alt="Saltline — first-person shooter"></a><br>
 <b><a href="https://claude.ai/artifact/BGY1SztrAYcJQHSsnHHGmp">Saltline — first-person shooter</a></b><br>
-<sub><a href="https://x.com/felixrieseberg">@felixrieseberg</a> · ♥ 15.0k · <a href="https://x.com/felixrieseberg/status/2119925633564463609">▶ Video</a></sub><br>
+<sub><a href="https://x.com/felixrieseberg">@felixrieseberg</a> · ♥ 15.1k · <a href="https://x.com/felixrieseberg/status/2119925633564463609">▶ Video</a></sub><br>
 <sub>By an Anthropic engineer. One-shot prompts, no human feedback, 8 hours, ~$550. Models, sounds and textures all generated in code.</sub><br>
 <sub><a href="https://fablelist.000ooo.ooo/prompts/?w=saltline-first-person-shooter&ref=gh"><b>✨ Get the prompt</b></a></sub>
 </td>
@@ -80,22 +80,22 @@ Posted in the last 3 days, sorted by likes.
 <table>
 <tr>
 <td width="33%" valign="top">
-<a href="https://april-zhu.com/pocketcity"><img src="assets/gifs/369.gif" width="100%" alt="Pocket City"></a><br>
-<b><a href="https://april-zhu.com/pocketcity">Pocket City</a></b><br>
-<sub>🆕 · <a href="https://x.com/Aprilzz423">@Aprilzz423</a> · ♥ 1.2k · <a href="https://x.com/Aprilzz423/status/2123788440714260673">▶ Video</a></sub><br>
-<sub>Turns any street corner into a tiny hand-drawn city you can spin around and explore, measured from OpenStreetMap with local weather and seasons. Built with Fable 5.2 and GPT-6.2 Astra.</sub>
-</td>
-<td width="33%" valign="top">
-<a href="https://gtashenzhen.com"><img src="assets/gifs/377.gif" width="100%" alt="GTA Shenzhen"></a><br>
-<b><a href="https://gtashenzhen.com">GTA Shenzhen</a></b><br>
-<sub>🆕 · <a href="https://x.com/KinGao476942">@KinGao476942</a> · ♥ 984 · <a href="https://x.com/KinGao476942/status/2123967104601014521">▶ Video</a></sub><br>
-<sub>The whole city of Shenzhen built from OpenStreetMap data: 83,182 buildings and 62,088 roads. Fly over it, land and drive a car, search for any place, and set off a city-wide light show at night. Made with Fable 5.2 and Tripo in three days.</sub>
-</td>
-<td width="33%" valign="top">
 <a href="https://thaxnay.com/ramayana/"><img src="assets/gifs/389.gif" width="100%" alt="Ramayana: The Sacred Fires"></a><br>
 <b><a href="https://thaxnay.com/ramayana/">Ramayana: The Sacred Fires</a></b><br>
-<sub>🆕 · <a href="https://x.com/Thaxnay">@Thaxnay</a> · ♥ 810 · <a href="https://x.com/Thaxnay/status/2124574054296219939">▶ Video</a></sub><br>
+<sub>🆕 · <a href="https://x.com/Thaxnay">@Thaxnay</a> · ♥ 958 · <a href="https://x.com/Thaxnay/status/2124574054296219939">▶ Video</a></sub><br>
 <sub>A third-person action-adventure where you play as Rama, cross an open valley, protect the sages and find secrets. Runs in the browser on desktop and mobile.</sub>
+</td>
+<td width="33%" valign="top">
+<a href="https://ebb.tesana.com"><img src="assets/gifs/379.gif" width="100%" alt="EBB — a shapeshifting water platformer"></a><br>
+<b><a href="https://ebb.tesana.com">EBB — a shapeshifting water platformer</a></b><br>
+<sub>🆕 · <a href="https://x.com/Rubzem">@Rubzem</a> · ♥ 680 · <a href="https://x.com/Rubzem/status/2124142554371502140">▶ Video</a></sub><br>
+<sub>A physics platformer where you play as water that melts, freezes and floats to solve puzzles. Entirely procedural, 190 KB, built in one hour.</sub>
+</td>
+<td width="33%" valign="top">
+<a href="https://patch.gg/play/blendi/the-blue-hour"><img src="assets/gifs/387.gif" width="100%" alt="The Blue Hour — an art deco city at night"></a><br>
+<b><a href="https://patch.gg/play/blendi/the-blue-hour">The Blue Hour — an art deco city at night</a></b><br>
+<sub>🆕 · <a href="https://x.com/BlendiByl">@BlendiByl</a> · ♥ 634 · <a href="https://x.com/BlendiByl/status/2124439671006748853">▶ Video</a></sub><br>
+<sub>A 3D scene in the art deco style of the animated Batman series, all drawn in code. Open source.</sub>
 </td>
 </tr>
 </table>
@@ -114,7 +114,7 @@ Posted in the last 3 days, sorted by likes.
 <td width="33%" valign="top">
 <a href="https://claude.ai/artifact/BGY1SztrAYcJQHSsnHHGmp"><img src="assets/gifs/001.gif" width="100%" alt="Saltline — first-person shooter"></a><br>
 <b><a href="https://claude.ai/artifact/BGY1SztrAYcJQHSsnHHGmp">Saltline — first-person shooter</a></b><br>
-<sub><a href="https://x.com/felixrieseberg">@felixrieseberg</a> · ♥ 15.0k · <a href="https://x.com/felixrieseberg/status/2119925633564463609">▶ Video</a></sub><br>
+<sub><a href="https://x.com/felixrieseberg">@felixrieseberg</a> · ♥ 15.1k · <a href="https://x.com/felixrieseberg/status/2119925633564463609">▶ Video</a></sub><br>
 <sub>By an Anthropic engineer. One-shot prompts, no human feedback, 8 hours, ~$550. Models, sounds and textures all generated in code.</sub><br>
 <sub><a href="https://fablelist.000ooo.ooo/prompts/?w=saltline-first-person-shooter&ref=gh"><b>✨ Get the prompt</b></a></sub>
 </td>
@@ -235,7 +235,7 @@ Posted in the last 3 days, sorted by likes.
 <td width="33%" valign="top">
 <a href="https://gtashenzhen.com"><img src="assets/gifs/377.gif" width="100%" alt="GTA Shenzhen"></a><br>
 <b><a href="https://gtashenzhen.com">GTA Shenzhen</a></b><br>
-<sub>🆕 · <a href="https://x.com/KinGao476942">@KinGao476942</a> · ♥ 984 · <a href="https://x.com/KinGao476942/status/2123967104601014521">▶ Video</a></sub><br>
+<sub>🆕 · <a href="https://x.com/KinGao476942">@KinGao476942</a> · ♥ 987 · <a href="https://x.com/KinGao476942/status/2123967104601014521">▶ Video</a></sub><br>
 <sub>The whole city of Shenzhen built from OpenStreetMap data: 83,182 buildings and 62,088 roads. Fly over it, land and drive a car, search for any place, and set off a city-wide light show at night. Made with Fable 5.2 and Tripo in three days.</sub>
 </td>
 </tr>
@@ -243,13 +243,13 @@ Posted in the last 3 days, sorted by likes.
 <td width="33%" valign="top">
 <a href="https://thaxnay.com/ramayana/"><img src="assets/gifs/389.gif" width="100%" alt="Ramayana: The Sacred Fires"></a><br>
 <b><a href="https://thaxnay.com/ramayana/">Ramayana: The Sacred Fires</a></b><br>
-<sub>🆕 · <a href="https://x.com/Thaxnay">@Thaxnay</a> · ♥ 810 · <a href="https://x.com/Thaxnay/status/2124574054296219939">▶ Video</a></sub><br>
+<sub>🆕 · <a href="https://x.com/Thaxnay">@Thaxnay</a> · ♥ 958 · <a href="https://x.com/Thaxnay/status/2124574054296219939">▶ Video</a></sub><br>
 <sub>A third-person action-adventure where you play as Rama, cross an open valley, protect the sages and find secrets. Runs in the browser on desktop and mobile.</sub>
 </td>
 <td width="33%" valign="top">
 <a href="https://claude.ai/artifact/MXxb36zKgN261ckbGhmNin"><img src="assets/gifs/002.gif" width="100%" alt="Three Games (Saltline · The Clockmaker's Heart · Tidewright)"></a><br>
 <b><a href="https://claude.ai/artifact/MXxb36zKgN261ckbGhmNin">Three Games (Saltline · The Clockmaker's Heart · Tidewright)</a></b><br>
-<sub><a href="https://x.com/felixrieseberg">@felixrieseberg</a> · ♥ 804 · <a href="https://x.com/vineerpasam/status/2119955306096857145">▶ Video</a></sub><br>
+<sub><a href="https://x.com/felixrieseberg">@felixrieseberg</a> · ♥ 803 · <a href="https://x.com/vineerpasam/status/2119955306096857145">▶ Video</a></sub><br>
 <sub>Signed by Felix Rieseberg: "All games made with Claude Fable 5.2. First drafts, no human feedback." The most-shared link of launch day.</sub><br>
 <sub><a href="https://claude.ai/artifact/6MjtQjf4ee1ZZjEpafaEpa">The Clockmaker's Heart</a> · <a href="https://claude.ai/artifact/JTgyEMn7sn1q2riWrMb7D4">Tidewright</a></sub><br>
 <sub><a href="https://fablelist.000ooo.ooo/prompts/?w=three-games-saltline-the-clockmaker-s-heart-tidewright&ref=gh"><b>✨ Get the prompt</b></a></sub>
@@ -272,20 +272,20 @@ Posted in the last 3 days, sorted by likes.
 <td width="33%" valign="top">
 <a href="https://www.spawn.co/@mattshumer/voxel-engine"><img src="assets/gifs/004.gif" width="100%" alt="Voxel Engine"></a><br>
 <b><a href="https://www.spawn.co/@mattshumer/voxel-engine">Voxel Engine</a></b><br>
-<sub><a href="https://x.com/mattshumer_">@mattshumer_</a> · ♥ 743 · <a href="https://x.com/mattshumer_/status/2119870965106483384">▶ Video</a></sub><br>
+<sub><a href="https://x.com/mattshumer_">@mattshumer_</a> · ♥ 744 · <a href="https://x.com/mattshumer_/status/2119870965106483384">▶ Video</a></sub><br>
 <sub>Built from a single prompt. Sound on.</sub><br>
 <sub><a href="https://fablelist.000ooo.ooo/prompts/?w=voxel-engine&ref=gh"><b>✨ Get the prompt</b></a></sub>
 </td>
 <td width="33%" valign="top">
 <a href="https://ebb.tesana.com"><img src="assets/gifs/379.gif" width="100%" alt="EBB — a shapeshifting water platformer"></a><br>
 <b><a href="https://ebb.tesana.com">EBB — a shapeshifting water platformer</a></b><br>
-<sub>🆕 · <a href="https://x.com/Rubzem">@Rubzem</a> · ♥ 677 · <a href="https://x.com/Rubzem/status/2124142554371502140">▶ Video</a></sub><br>
+<sub>🆕 · <a href="https://x.com/Rubzem">@Rubzem</a> · ♥ 680 · <a href="https://x.com/Rubzem/status/2124142554371502140">▶ Video</a></sub><br>
 <sub>A physics platformer where you play as water that melts, freezes and floats to solve puzzles. Entirely procedural, 190 KB, built in one hour.</sub>
 </td>
 </tr>
 </table>
 
-<p align="center"><b><a href="all/games.md">See all 111 →</a></b></p>
+<p align="center"><b><a href="all/games.md">See all 112 →</a></b></p>
 
 <div align="right"><a href="#-contents">↑ Back to contents</a></div>
 
@@ -319,7 +319,7 @@ Posted in the last 3 days, sorted by likes.
 <td width="33%" valign="top">
 <a href="https://april-zhu.com/pocketcity"><img src="assets/gifs/369.gif" width="100%" alt="Pocket City"></a><br>
 <b><a href="https://april-zhu.com/pocketcity">Pocket City</a></b><br>
-<sub>🆕 · <a href="https://x.com/Aprilzz423">@Aprilzz423</a> · ♥ 1.2k · <a href="https://x.com/Aprilzz423/status/2123788440714260673">▶ Video</a></sub><br>
+<sub><a href="https://x.com/Aprilzz423">@Aprilzz423</a> · ♥ 1.2k · <a href="https://x.com/Aprilzz423/status/2123788440714260673">▶ Video</a></sub><br>
 <sub>Turns any street corner into a tiny hand-drawn city you can spin around and explore, measured from OpenStreetMap with local weather and seasons. Built with Fable 5.2 and GPT-6.2 Astra.</sub>
 </td>
 <td width="33%" valign="top">
@@ -341,7 +341,7 @@ Posted in the last 3 days, sorted by likes.
 <td width="33%" valign="top">
 <a href="https://fable-rome.surge.sh/"><img src="assets/gifs/136.gif" width="100%" alt="Rome, AD 320"></a><br>
 <b><a href="https://fable-rome.surge.sh/">Rome, AD 320</a></b><br>
-<sub><a href="https://x.com/petergostev">@petergostev</a> · ♥ 976 · <a href="https://x.com/petergostev/status/2120167560700383572">▶ Video</a></sub><br>
+<sub><a href="https://x.com/petergostev">@petergostev</a> · ♥ 977 · <a href="https://x.com/petergostev/status/2120167560700383572">▶ Video</a></sub><br>
 <sub>One prompt, Fable 5.2 (Max) running overnight, $2,618.</sub><br>
 <sub><a href="https://x.com/petergostev/status/2120167560700383572">📝 Creator's prompt (free)</a></sub>
 </td>
@@ -363,13 +363,13 @@ Posted in the last 3 days, sorted by likes.
 <td width="33%" valign="top">
 <a href="https://ship-42-catch.netlify.app/"><img src="assets/gifs/297.gif" width="100%" alt="Ship 42 Catch"></a><br>
 <b><a href="https://ship-42-catch.netlify.app/">Ship 42 Catch</a></b><br>
-<sub><a href="https://x.com/emollick">@emollick</a> · ♥ 738 · <a href="https://x.com/emollick/status/2122036763468214711">▶ Video</a></sub><br>
+<sub><a href="https://x.com/emollick">@emollick</a> · ♥ 739 · <a href="https://x.com/emollick/status/2122036763468214711">▶ Video</a></sub><br>
 <sub>Fable and Opus found footage of the Starship tower catch and rebuilt the last 40 seconds in detailed three.js 3D. You can switch camera views.</sub>
 </td>
 <td width="33%" valign="top">
 <a href="https://patch.gg/play/blendi/the-blue-hour"><img src="assets/gifs/387.gif" width="100%" alt="The Blue Hour — an art deco city at night"></a><br>
 <b><a href="https://patch.gg/play/blendi/the-blue-hour">The Blue Hour — an art deco city at night</a></b><br>
-<sub>🆕 · <a href="https://x.com/BlendiByl">@BlendiByl</a> · ♥ 594 · <a href="https://x.com/BlendiByl/status/2124439671006748853">▶ Video</a></sub><br>
+<sub>🆕 · <a href="https://x.com/BlendiByl">@BlendiByl</a> · ♥ 634 · <a href="https://x.com/BlendiByl/status/2124439671006748853">▶ Video</a></sub><br>
 <sub>A 3D scene in the art deco style of the animated Batman series, all drawn in code. Open source.</sub>
 </td>
 <td width="33%" valign="top">
@@ -471,7 +471,7 @@ Posted in the last 3 days, sorted by likes.
 </tr>
 </table>
 
-<p align="center"><b><a href="all/3d-worlds.md">See all 50 →</a></b></p>
+<p align="center"><b><a href="all/3d-worlds.md">See all 51 →</a></b></p>
 
 <div align="right"><a href="#-contents">↑ Back to contents</a></div>
 
@@ -560,14 +560,14 @@ Posted in the last 3 days, sorted by likes.
 <td width="33%" valign="top">
 <a href="https://github.com/AlexAtFF/pulp-daw-public"><img src="assets/gifs/204.gif" width="100%" alt="PULP — an AI-native DAW"></a><br>
 <b><a href="https://github.com/AlexAtFF/pulp-daw-public">PULP — an AI-native DAW</a></b><br>
-<sub><a href="https://x.com/The_Alex">@The_Alex</a> · ♥ 948 · <a href="https://x.com/The_Alex/status/2119917226769985785">▶ Video</a></sub><br>
+<sub><a href="https://x.com/The_Alex">@The_Alex</a> · ♥ 947 · <a href="https://x.com/The_Alex/status/2119917226769985785">▶ Video</a></sub><br>
 <sub>A native Windows digital audio workstation. Ask Claude for music and it opens the DAW and makes the song.</sub><br>
 <sub><a href="https://fablelist.000ooo.ooo/prompts/?w=pulp-an-ai-native-daw&ref=gh"><b>✨ Get the prompt</b></a></sub>
 </td>
 <td width="33%" valign="top">
 <a href="https://frontier.every.to/experiments/ambient-town"><img src="assets/gifs/148.gif" width="100%" alt="Ambient Town"></a><br>
 <b><a href="https://frontier.every.to/experiments/ambient-town">Ambient Town</a></b><br>
-<sub><a href="https://x.com/kieranklaassen">@kieranklaassen</a> · ♥ 897 · <a href="https://x.com/kieranklaassen/status/2119868196773929160">▶ Video</a></sub><br>
+<sub><a href="https://x.com/kieranklaassen">@kieranklaassen</a> · ♥ 896 · <a href="https://x.com/kieranklaassen/status/2119868196773929160">▶ Video</a></sub><br>
 <sub>An ambient DAW built over a week of nights by a former film composer: Ableton Push support, mics, effects, a synth and an agent that composes with you. Click "Try it" on the page.</sub><br>
 <sub><a href="https://fablelist.000ooo.ooo/prompts/?w=ambient-town&ref=gh"><b>✨ Get the prompt</b></a></sub>
 </td>
@@ -598,7 +598,7 @@ Posted in the last 3 days, sorted by likes.
 <td width="33%" valign="top">
 <a href="https://auden-english-135.netlify.app/"><img src="assets/gifs/281.gif" width="100%" alt="Auden's lost 1941 poetry class, reconstructed"></a><br>
 <b><a href="https://auden-english-135.netlify.app/">Auden's lost 1941 poetry class, reconstructed</a></b><br>
-<sub><a href="https://x.com/emollick">@emollick</a> · ♥ 593 · <a href="https://x.com/emollick/status/2121641417483169934">Post</a></sub><br>
+<sub><a href="https://x.com/emollick">@emollick</a> · ♥ 594 · <a href="https://x.com/emollick/status/2121641417483169934">Post</a></sub><br>
 <sub>Fable 5.2 rebuilt W. H. Auden's "hardest in the humanities" class from an obscure Internet Archive book and scattered notes.</sub>
 </td>
 <td width="33%" valign="top">
@@ -610,7 +610,7 @@ Posted in the last 3 days, sorted by likes.
 <td width="33%" valign="top">
 <a href="https://claude.ai/artifact/4P1urBdptp6gWiJo3R6Vpv"><img src="assets/gifs/333.gif" width="100%" alt="Breakcore video sampler"></a><br>
 <b><a href="https://claude.ai/artifact/4P1urBdptp6gWiJo3R6Vpv">Breakcore video sampler</a></b><br>
-<sub><a href="https://x.com/parhelion318">@parhelion318</a> · ♥ 543 · <a href="https://x.com/parhelion318/status/2122723067533398064">▶ Video</a></sub><br>
+<sub><a href="https://x.com/parhelion318">@parhelion318</a> · ♥ 542 · <a href="https://x.com/parhelion318/status/2122723067533398064">▶ Video</a></sub><br>
 <sub>A browser sampler that chops video clips and rearranges them into breakcore rhythms.</sub>
 </td>
 </tr>
@@ -618,7 +618,7 @@ Posted in the last 3 days, sorted by likes.
 <td width="33%" valign="top">
 <a href="https://www.bubbbly.com/christmas-cards"><img src="assets/gifs/315.gif" width="100%" alt="Christmas Cards: interactive Christmas cards"></a><br>
 <b><a href="https://www.bubbbly.com/christmas-cards">Christmas Cards: interactive Christmas cards</a></b><br>
-<sub><a href="https://x.com/ann_nnng">@ann_nnng</a> · ♥ 478 · <a href="https://x.com/ann_nnng/status/2122283549000712249">▶ Video</a></sub><br>
+<sub><a href="https://x.com/ann_nnng">@ann_nnng</a> · ♥ 481 · <a href="https://x.com/ann_nnng/status/2122283549000712249">▶ Video</a></sub><br>
 <sub>A set of interactive Christmas cards, such as a cat in a red scarf on a windowsill watching the snow fall.</sub>
 </td>
 <td width="33%" valign="top">
@@ -647,7 +647,7 @@ Posted in the last 3 days, sorted by likes.
 <td width="33%" valign="top">
 <a href="https://rubber-hose-ui.vercel.app"><img src="assets/gifs/332.gif" width="100%" alt="Rubber Hose UI: controls as 1930s cartoon characters"></a><br>
 <b><a href="https://rubber-hose-ui.vercel.app">Rubber Hose UI: controls as 1930s cartoon characters</a></b><br>
-<sub><a href="https://x.com/crtvTeknologist">@crtvTeknologist</a> · ♥ 353 · <a href="https://x.com/crtvTeknologist/status/2122433522166124616">▶ Video</a></sub><br>
+<sub><a href="https://x.com/crtvTeknologist">@crtvTeknologist</a> · ♥ 355 · <a href="https://x.com/crtvTeknologist/status/2122433522166124616">▶ Video</a></sub><br>
 <sub>Eleven web controls drawn as rubber-hose cartoons: the slider is a trombone, the toast is a toaster, and the button gets a black eye each press. Vanilla JS and canvas, no dependencies, open source.</sub><br>
 <sub><a href="https://github.com/finktheartist/rubber-hose-ui">Source</a></sub>
 </td>
@@ -660,7 +660,7 @@ Posted in the last 3 days, sorted by likes.
 </tr>
 </table>
 
-<p align="center"><b><a href="all/web-and-tools.md">See all 56 →</a></b></p>
+<p align="center"><b><a href="all/web-and-tools.md">See all 57 →</a></b></p>
 
 <div align="right"><a href="#-contents">↑ Back to contents</a></div>
 
@@ -698,7 +698,7 @@ Posted in the last 3 days, sorted by likes.
 <td width="33%" valign="top">
 <a href="https://github.com/ChetasLua/pelican-riding-a-bicycle"><img src="assets/gifs/150.gif" width="100%" alt="The Pelican, Tired of the Road"></a><br>
 <b><a href="https://github.com/ChetasLua/pelican-riding-a-bicycle">The Pelican, Tired of the Road</a></b><br>
-<sub><a href="https://x.com/chetaslua">@chetaslua</a> · ♥ 358 · <a href="https://x.com/chetaslua/status/2120438091647218025">▶ Video</a></sub><br>
+<sub><a href="https://x.com/chetaslua">@chetaslua</a> · ♥ 359 · <a href="https://x.com/chetaslua/status/2120438091647218025">▶ Video</a></sub><br>
 <sub>A 60-second hand-painted-look film about the SVG-test pelican. One HTML file; every pixel and every sound is code.</sub><br>
 <sub><a href="https://github.com/ChetasLua/mona-lisa-js">Mona Lisa in JS</a></sub><br>
 <sub><a href="https://fablelist.000ooo.ooo/prompts/?w=the-pelican-tired-of-the-road&ref=gh"><b>✨ Get the prompt</b></a></sub>
@@ -720,7 +720,7 @@ Posted in the last 3 days, sorted by likes.
 <td width="33%" valign="top">
 <a href="https://github.com/anstapnever/one-sweep"><img src="assets/gifs/051.gif" width="100%" alt="One Sweep"></a><br>
 <b><a href="https://github.com/anstapnever/one-sweep">One Sweep</a></b><br>
-<sub><a href="https://x.com/anstapnever">@anstapnever</a> · ♥ 250 · <a href="https://x.com/anstapnever/status/2119772039037014524">▶ Video</a></sub><br>
+<sub><a href="https://x.com/anstapnever">@anstapnever</a> · ♥ 251 · <a href="https://x.com/anstapnever/status/2119772039037014524">▶ Video</a></sub><br>
 <sub>A 78-second anime fight in pure Three.js, six agent teams in parallel. Author says "Fable 5.5".</sub><br>
 <sub><a href="https://x.com/anstapnever/status/2119772039037014524">📝 Creator's prompt (free)</a></sub>
 </td>
@@ -769,7 +769,7 @@ Posted in the last 3 days, sorted by likes.
 <td width="33%" valign="top">
 <a href="https://github.com/anstapnever/blackout"><img src="assets/gifs/052.gif" width="100%" alt="Blackout"></a><br>
 <b><a href="https://github.com/anstapnever/blackout">Blackout</a></b><br>
-<sub><a href="https://x.com/anstapnever">@anstapnever</a> · ♥ 118 · <a href="https://x.com/anstapnever/status/2119915123070644263">▶ Video</a></sub><br>
+<sub><a href="https://x.com/anstapnever">@anstapnever</a> · ♥ 119 · <a href="https://x.com/anstapnever/status/2119915123070644263">▶ Video</a></sub><br>
 <sub>A 79-second anime short, all code.</sub><br>
 <sub><a href="https://x.com/anstapnever/status/2119915123070644263">📝 Creator's prompt (free)</a></sub>
 </td>
@@ -842,7 +842,7 @@ Creators posted a video but no public link. Click a preview to watch the origina
 <td width="33%" valign="top">
 <a href="https://x.com/Dstudio_ai/status/2122569461547098595"><img src="assets/gifs/328.gif" width="100%" alt="A mobile-game style lobby screen with a Tripo 3D model"></a><br>
 <b><a href="https://x.com/Dstudio_ai/status/2122569461547098595">A mobile-game style lobby screen with a Tripo 3D model</a></b><br>
-<sub><a href="https://x.com/Dstudio_ai">@Dstudio_ai</a> · ♥ 5.3k · <a href="https://x.com/Dstudio_ai/status/2122569461547098595">▶ Video</a></sub><br>
+<sub><a href="https://x.com/Dstudio_ai">@Dstudio_ai</a> · ♥ 5.4k · <a href="https://x.com/Dstudio_ai/status/2122569461547098595">▶ Video</a></sub><br>
 
 </td>
 <td width="33%" valign="top">
@@ -963,7 +963,7 @@ Creators posted a video but no public link. Click a preview to watch the origina
 </tr>
 </table>
 
-<p align="center"><b><a href="all/video-demos.md">See all 149 →</a></b></p>
+<p align="center"><b><a href="all/video-demos.md">See all 150 →</a></b></p>
 
 ## 🤝 Contributing
 
@@ -983,9 +983,9 @@ All works belong to their creators. This repository only indexes them, keeping s
 
 ## 📰 News
 
+- **2026-11-24**: +3 live works and +1 video demos. 
 - **2026-11-23**: +4 live works and +1 video demos. 
 - **2026-11-22**: +10 live works and +2 video demos. 
 - **2026-11-21**: +7 live works and +1 video demos. 
-- **2026-11-20**: +8 live works and +0 video demos. 
 - **2026-11-10**: Every entry now has a GIF preview.
 - **2026-11-10**: First release — 57 live works + 61 video demos.

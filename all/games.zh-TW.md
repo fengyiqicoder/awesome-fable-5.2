@@ -1,4 +1,4 @@
-# 🎮 遊戲 · 全部 111 個
+# 🎮 遊戲 · 全部 112 個
 
 [← 回到首頁](../README.zh-TW.md) · [English](games.md) · [简体中文](games.zh-CN.md) · **繁體中文** · [日本語](games.ja.md) · [한국어](games.ko.md) · [Español](games.es.md) · [Português](games.pt-BR.md) · [Français](games.fr.md) · [Deutsch](games.de.md) · [Русский](games.ru.md)
 
@@ -16,7 +16,7 @@
 <td width="33%" valign="top">
 <a href="https://claude.ai/artifact/BGY1SztrAYcJQHSsnHHGmp"><img src="../assets/gifs/001.gif" width="100%" alt="Saltline — 第一人稱射擊遊戲"></a><br>
 <b><a href="https://claude.ai/artifact/BGY1SztrAYcJQHSsnHHGmp">Saltline — 第一人稱射擊遊戲</a></b><br>
-<sub><a href="https://x.com/felixrieseberg">@felixrieseberg</a> · ♥ 15.0k · <a href="https://x.com/felixrieseberg/status/2119925633564463609">▶ 影片</a></sub><br>
+<sub><a href="https://x.com/felixrieseberg">@felixrieseberg</a> · ♥ 15.1k · <a href="https://x.com/felixrieseberg/status/2119925633564463609">▶ 影片</a></sub><br>
 <sub>Anthropic 工程師作品。一次性提示、無人工回饋，耗時 8 小時、約 $550。模型、音效與貼圖全由程式碼生成。</sub><br>
 <sub><a href="https://fablelist.000ooo.ooo/zh-tw/prompts/?w=saltline-first-person-shooter&ref=gh"><b>✨ 取得提示詞</b></a></sub>
 </td>
@@ -137,7 +137,7 @@
 <td width="33%" valign="top">
 <a href="https://gtashenzhen.com"><img src="../assets/gifs/377.gif" width="100%" alt="GTA Shenzhen"></a><br>
 <b><a href="https://gtashenzhen.com">GTA Shenzhen</a></b><br>
-<sub>🆕 · <a href="https://x.com/KinGao476942">@KinGao476942</a> · ♥ 984 · <a href="https://x.com/KinGao476942/status/2123967104601014521">▶ 影片</a></sub><br>
+<sub>🆕 · <a href="https://x.com/KinGao476942">@KinGao476942</a> · ♥ 987 · <a href="https://x.com/KinGao476942/status/2123967104601014521">▶ 影片</a></sub><br>
 <sub>用 OpenStreetMap 資料建出的深圳全城：83,182 棟樓、62,088 條路。可以在天上飛、落地開車、搜尋任何地點，晚上還能啟動全城燈光秀。用 Fable 5.2 和 Tripo 三天做成。</sub>
 </td>
 </tr>
@@ -145,13 +145,13 @@
 <td width="33%" valign="top">
 <a href="https://thaxnay.com/ramayana/"><img src="../assets/gifs/389.gif" width="100%" alt="Ramayana: The Sacred Fires"></a><br>
 <b><a href="https://thaxnay.com/ramayana/">Ramayana: The Sacred Fires</a></b><br>
-<sub>🆕 · <a href="https://x.com/Thaxnay">@Thaxnay</a> · ♥ 810 · <a href="https://x.com/Thaxnay/status/2124574054296219939">▶ 影片</a></sub><br>
+<sub>🆕 · <a href="https://x.com/Thaxnay">@Thaxnay</a> · ♥ 958 · <a href="https://x.com/Thaxnay/status/2124574054296219939">▶ 影片</a></sub><br>
 <sub>第三人稱動作冒險遊戲：扮演羅摩穿越開闊的山谷，守護仙人、尋找隱藏的祕密。電腦和手機的瀏覽器都能玩。</sub>
 </td>
 <td width="33%" valign="top">
 <a href="https://claude.ai/artifact/MXxb36zKgN261ckbGhmNin"><img src="../assets/gifs/002.gif" width="100%" alt="Three Games（Saltline · The Clockmaker's Heart · Tidewright）"></a><br>
 <b><a href="https://claude.ai/artifact/MXxb36zKgN261ckbGhmNin">Three Games（Saltline · The Clockmaker's Heart · Tidewright）</a></b><br>
-<sub><a href="https://x.com/felixrieseberg">@felixrieseberg</a> · ♥ 804 · <a href="https://x.com/vineerpasam/status/2119955306096857145">▶ 影片</a></sub><br>
+<sub><a href="https://x.com/felixrieseberg">@felixrieseberg</a> · ♥ 803 · <a href="https://x.com/vineerpasam/status/2119955306096857145">▶ 影片</a></sub><br>
 <sub>由 Felix Rieseberg 署名：「所有遊戲皆以 Claude Fable 5.2 製作。初稿，無人工回饋。」發表當天轉發最多的連結。</sub><br>
 <sub><a href="https://claude.ai/artifact/6MjtQjf4ee1ZZjEpafaEpa">The Clockmaker's Heart</a> · <a href="https://claude.ai/artifact/JTgyEMn7sn1q2riWrMb7D4">Tidewright</a></sub><br>
 <sub><a href="https://fablelist.000ooo.ooo/zh-tw/prompts/?w=three-games-saltline-the-clockmaker-s-heart-tidewright&ref=gh"><b>✨ 取得提示詞</b></a></sub>
@@ -174,14 +174,14 @@
 <td width="33%" valign="top">
 <a href="https://www.spawn.co/@mattshumer/voxel-engine"><img src="../assets/gifs/004.gif" width="100%" alt="Voxel Engine"></a><br>
 <b><a href="https://www.spawn.co/@mattshumer/voxel-engine">Voxel Engine</a></b><br>
-<sub><a href="https://x.com/mattshumer_">@mattshumer_</a> · ♥ 743 · <a href="https://x.com/mattshumer_/status/2119870965106483384">▶ 影片</a></sub><br>
+<sub><a href="https://x.com/mattshumer_">@mattshumer_</a> · ♥ 744 · <a href="https://x.com/mattshumer_/status/2119870965106483384">▶ 影片</a></sub><br>
 <sub>僅用一則提示打造。請開聲音。</sub><br>
 <sub><a href="https://fablelist.000ooo.ooo/zh-tw/prompts/?w=voxel-engine&ref=gh"><b>✨ 取得提示詞</b></a></sub>
 </td>
 <td width="33%" valign="top">
 <a href="https://ebb.tesana.com"><img src="../assets/gifs/379.gif" width="100%" alt="EBB — 會變形的水滴平台遊戲"></a><br>
 <b><a href="https://ebb.tesana.com">EBB — 會變形的水滴平台遊戲</a></b><br>
-<sub>🆕 · <a href="https://x.com/Rubzem">@Rubzem</a> · ♥ 677 · <a href="https://x.com/Rubzem/status/2124142554371502140">▶ 影片</a></sub><br>
+<sub>🆕 · <a href="https://x.com/Rubzem">@Rubzem</a> · ♥ 680 · <a href="https://x.com/Rubzem/status/2124142554371502140">▶ 影片</a></sub><br>
 <sub>一款物理平台遊戲，你扮演一團水，靠融化、結冰和漂浮來解謎。完全程序化生成，190 KB，一小時做完。</sub>
 </td>
 </tr>
@@ -196,7 +196,7 @@
 <td width="33%" valign="top">
 <a href="https://bannerfall.itch.io/siege-wing"><img src="../assets/gifs/271.gif" width="100%" alt="Siege Wing — 直升機闖進中世紀戰爭"></a><br>
 <b><a href="https://bannerfall.itch.io/siege-wing">Siege Wing — 直升機闖進中世紀戰爭</a></b><br>
-<sub><a href="https://x.com/builderjaydub">@builderjaydub</a> · ♥ 576 · <a href="https://x.com/builderjaydub/status/2120223731520040966">▶ 影片</a></sub><br>
+<sub><a href="https://x.com/builderjaydub">@builderjaydub</a> · ♥ 575 · <a href="https://x.com/builderjaydub/status/2120223731520040966">▶ 影片</a></sub><br>
 <sub>駕駛直升機，用火砲、火箭和飛彈，閃過羅馬弩砲，攻下城堡。</sub>
 </td>
 <td width="33%" valign="top">
@@ -211,19 +211,19 @@
 <td width="33%" valign="top">
 <a href="https://valsera-game.vercel.app/"><img src="../assets/gifs/279.gif" width="100%" alt="Valsera — 橫向捲軸 RPG"></a><br>
 <b><a href="https://valsera-game.vercel.app/">Valsera — 橫向捲軸 RPG</a></b><br>
-<sub><a href="https://x.com/kevin_t_ngo">@kevin_t_ngo</a> · ♥ 512 · <a href="https://x.com/kevin_t_ngo/status/2121701020598415465">▶ 影片</a></sub><br>
+<sub><a href="https://x.com/kevin_t_ngo">@kevin_t_ngo</a> · ♥ 513 · <a href="https://x.com/kevin_t_ngo/status/2121701020598415465">▶ 影片</a></sub><br>
 <sub>瀏覽器就能玩的橫向捲軸 RPG，所有畫面都用程式碼畫成，沒用圖像模型或現成美術素材。</sub>
 </td>
 <td width="33%" valign="top">
 <a href="https://kengoworks.itch.io/dawnlings"><img src="../assets/gifs/344.gif" width="100%" alt="Dawnlings — 傾斜山谷，讓糰子滾起來"></a><br>
 <b><a href="https://kengoworks.itch.io/dawnlings">Dawnlings — 傾斜山谷，讓糰子滾起來</a></b><br>
-<sub><a href="https://x.com/kevin_t_ngo">@kevin_t_ngo</a> · ♥ 480 · <a href="https://x.com/kevin_t_ngo/status/2122969346935017497">▶ 影片</a></sub><br>
+<sub><a href="https://x.com/kevin_t_ngo">@kevin_t_ngo</a> · ♥ 482 · <a href="https://x.com/kevin_t_ngo/status/2122969346935017497">▶ 影片</a></sub><br>
 <sub>致敬 LocoRoco 的瀏覽器遊戲：傾斜地面，讓愛睏的小糰子滾動、分裂、合體，把山谷喚醒成彩色。音效和概念圖用 fal 生成。</sub>
 </td>
 <td width="33%" valign="top">
 <a href="https://www.spawn.co/@izkimar/the-world-of-hoodcraft"><img src="../assets/gifs/356.gif" width="100%" alt="The World of Hoodcraft 兜帽工藝世界"></a><br>
 <b><a href="https://www.spawn.co/@izkimar/the-world-of-hoodcraft">The World of Hoodcraft 兜帽工藝世界</a></b><br>
-<sub><a href="https://x.com/Izkimar">@Izkimar</a> · ♥ 469 · <a href="https://x.com/Izkimar/status/2123188582836031910">▶ 影片</a></sub><br>
+<sub><a href="https://x.com/Izkimar">@Izkimar</a> · ♥ 468 · <a href="https://x.com/Izkimar/status/2123188582836031910">▶ 影片</a></sub><br>
 <sub>把魔獸世界和 GTA 混在一起的瀏覽器遊戲：搶馬車、通緝升到五星會被法師變成羊。6,000 個連線 NPC，完整多人連線、開放 PvP。</sub>
 </td>
 </tr>
@@ -236,11 +236,19 @@
 <sub><a href="https://fablelist.000ooo.ooo/zh-tw/prompts/?w=childhood-rug-racer&ref=gh"><b>✨ 取得提示詞</b></a></sub>
 </td>
 <td width="33%" valign="top">
+<a href="https://ballpoint-dominion.vercel.app/"><img src="../assets/gifs/390.gif" width="100%" alt="Ballpoint Dominion"></a><br>
+<b><a href="https://ballpoint-dominion.vercel.app/">Ballpoint Dominion</a></b><br>
+<sub>🆕 · <a href="https://x.com/kevin_t_ngo">@kevin_t_ngo</a> · ♥ 391 · <a href="https://x.com/kevin_t_ngo/status/2124669366512001493">▶ 影片</a></sub><br>
+<sub>在一張紙上打的即時戰略遊戲。選擇 Sunrise 或 Dusk 陣營，採集墨水、畫出軍隊，拿下整張紙。</sub>
+</td>
+<td width="33%" valign="top">
 <a href="https://mariana.pplx.app"><img src="../assets/gifs/331.gif" width="100%" alt="HADAL：潛入馬里亞納海溝"></a><br>
 <b><a href="https://mariana.pplx.app">HADAL：潛入馬里亞納海溝</a></b><br>
 <sub><a href="https://x.com/AravSrinivas">@AravSrinivas</a> · ♥ 364 · <a href="https://x.com/AravSrinivas/status/2122713692324384793">▶ 影片</a></sub><br>
 <sub>從陽光下的珊瑚礁出發，搭上潛艇，經過沉船和鯨落一路下潛到挑戰者深淵，沿途掃描 18 項發現。手寫的 WebGPU 渲染器，沒有引擎也沒有素材，全在一個 373 KB 的 HTML 檔裡。</sub>
 </td>
+</tr>
+<tr>
 <td width="33%" valign="top">
 <a href="https://gilt-and-gutter.vercel.app/"><img src="../assets/gifs/127.gif" width="100%" alt="Gilt & Gutter"></a><br>
 <b><a href="https://gilt-and-gutter.vercel.app/">Gilt & Gutter</a></b><br>
@@ -248,8 +256,6 @@
 <sub>1 對 1 第一人稱射擊，有兩名可操作角色。</sub><br>
 <sub><a href="https://fablelist.000ooo.ooo/zh-tw/prompts/?w=gilt-gutter&ref=gh"><b>✨ 取得提示詞</b></a></sub>
 </td>
-</tr>
-<tr>
 <td width="33%" valign="top">
 <a href="https://finderchangchang.github.io/cloud-stunt-3d/"><img src="../assets/gifs/014.gif" width="100%" alt="Cloud Stunt 3D"></a><br>
 <b><a href="https://finderchangchang.github.io/cloud-stunt-3d/">Cloud Stunt 3D</a></b><br>
@@ -265,6 +271,8 @@
 <sub>兩天做出的第一人稱喪屍生存射擊，場景是戰火中的阿爾卑斯山谷。沒用現成 3D 素材，所有畫面都是程式碼生成。</sub><br>
 <sub><a href="https://github.com/Leonxlnx/valle-morta">原始碼</a></sub>
 </td>
+</tr>
+<tr>
 <td width="33%" valign="top">
 <a href="https://www.spawn.co/@mattshumer/hogwarts-royale"><img src="../assets/gifs/005.gif" width="100%" alt="Hogwarts Royale"></a><br>
 <b><a href="https://www.spawn.co/@mattshumer/hogwarts-royale">Hogwarts Royale</a></b><br>
@@ -272,8 +280,6 @@
 <sub>「做一個哈利波特與 Fortnite 的混搭」——可遊玩的大逃殺。</sub><br>
 <sub><a href="https://x.com/mattshumer_/status/2119872098306810226">📝 作者公開的提示詞（免費）</a></sub>
 </td>
-</tr>
-<tr>
 <td width="33%" valign="top">
 <a href="https://dread-and-district.netlify.app"><img src="../assets/gifs/130.gif" width="100%" alt="Dread & District"></a><br>
 <b><a href="https://dread-and-district.netlify.app">Dread & District</a></b><br>
@@ -288,6 +294,8 @@
 <sub>第三人稱開放世界 RPG 展示。沒有素材：畫面上的一切都由程式碼做成。</sub><br>
 <sub><a href="https://github.com/Leonxlnx/unsung-vale">原始碼</a></sub>
 </td>
+</tr>
+<tr>
 <td width="33%" valign="top">
 <a href="https://lauramionel.github.io/cayley-flight-simulator/"><img src="../assets/gifs/198.gif" width="100%" alt="Cayley 飛行模擬器"></a><br>
 <b><a href="https://lauramionel.github.io/cayley-flight-simulator/">Cayley 飛行模擬器</a></b><br>
@@ -295,18 +303,10 @@
 <sub>一夜一次到位：真實的機翼物理，分別計算機翼各部位的升力與阻力。</sub><br>
 <sub><a href="https://fablelist.000ooo.ooo/zh-tw/prompts/?w=cayley-flight-simulator&ref=gh"><b>✨ 取得提示詞</b></a></sub>
 </td>
-</tr>
-<tr>
-<td width="33%" valign="top">
-<a href="https://ballpoint-dominion.vercel.app/"><img src="../assets/gifs/390.gif" width="100%" alt="Ballpoint Dominion"></a><br>
-<b><a href="https://ballpoint-dominion.vercel.app/">Ballpoint Dominion</a></b><br>
-<sub>🆕 · <a href="https://x.com/kevin_t_ngo">@kevin_t_ngo</a> · ♥ 298 · <a href="https://x.com/kevin_t_ngo/status/2124669366512001493">▶ 影片</a></sub><br>
-<sub>在一張紙上打的即時戰略遊戲。選擇 Sunrise 或 Dusk 陣營，採集墨水、畫出軍隊，拿下整張紙。</sub>
-</td>
 <td width="33%" valign="top">
 <a href="https://fallline-9zo.pages.dev"><img src="../assets/gifs/350.gif" width="100%" alt="Fall Line：登山車下坡"></a><br>
 <b><a href="https://fallline-9zo.pages.dev">Fall Line：登山車下坡</a></b><br>
-<sub><a href="https://x.com/BananaOfMercy">@BananaOfMercy</a> · ♥ 288 · <a href="https://x.com/BananaOfMercy/status/2123037856398733438">▶ 影片</a></sub><br>
+<sub><a href="https://x.com/BananaOfMercy">@BananaOfMercy</a> · ♥ 289 · <a href="https://x.com/BananaOfMercy/status/2123037856398733438">▶ 影片</a></sub><br>
 <sub>用 three.js 寫的登山車下坡遊戲，在瀏覽器裡用鍵盤就能玩。作者花了 7 天把每個版本都騎過一遍，告訴 Fable 哪裡手感不對。</sub>
 </td>
 <td width="33%" valign="top">
@@ -335,7 +335,7 @@
 <td width="33%" valign="top">
 <a href="https://frontier.every.to/experiments/first-crush"><img src="../assets/gifs/133.gif" width="100%" alt="First Crush"></a><br>
 <b><a href="https://frontier.every.to/experiments/first-crush">First Crush</a></b><br>
-<sub><a href="https://x.com/kieranklaassen">@kieranklaassen</a> · ♥ 230 · <a href="https://x.com/kieranklaassen/status/2119871673294037280">▶ 影片</a></sub><br>
+<sub><a href="https://x.com/kieranklaassen">@kieranklaassen</a> · ♥ 229 · <a href="https://x.com/kieranklaassen/status/2119871673294037280">▶ 影片</a></sub><br>
 <sub>釀酒遊戲：刷洗發酵槽、壓榨 250 公斤水果、讀比重計、挑選酵母——並解釋原因。請點頁面上的「Try it」。</sub><br>
 <sub><a href="https://fablelist.000ooo.ooo/zh-tw/prompts/?w=first-crush&ref=gh"><b>✨ 取得提示詞</b></a></sub>
 </td>
@@ -344,13 +344,13 @@
 <td width="33%" valign="top">
 <a href="https://market-order-city.netlify.app/"><img src="../assets/gifs/361.gif" width="100%" alt="Market Order"></a><br>
 <b><a href="https://market-order-city.netlify.app/">Market Order</a></b><br>
-<sub><a href="https://x.com/emollick">@emollick</a> · ♥ 220 · <a href="https://x.com/emollick/status/2123520499368263977">▶ 影片</a></sub><br>
+<sub><a href="https://x.com/emollick">@emollick</a> · ♥ 221 · <a href="https://x.com/emollick/status/2123520499368263977">▶ 影片</a></sub><br>
 <sub>偷車、跑任務的開放世界駕駛遊戲。從通緝等級到天氣，全都由 Anthropic 的 ANT 股價決定。</sub>
 </td>
 <td width="33%" valign="top">
 <a href="https://noclipepe.pages.dev/dino"><img src="../assets/gifs/011.gif" width="100%" alt="Rambo Dino"></a><br>
 <b><a href="https://noclipepe.pages.dev/dino">Rambo Dino</a></b><br>
-<sub><a href="https://x.com/noclipepe">@noclipepe</a> · ♥ 183 · <a href="https://x.com/noclipepe/status/2119927838321328577">▶ 影片</a></sub><br>
+<sub><a href="https://x.com/noclipepe">@noclipepe</a> · ♥ 182 · <a href="https://x.com/noclipepe/status/2119927838321328577">▶ 影片</a></sub><br>
 <sub>重新打造的 Chrome 小恐龍遊戲。並與 Opus 5.5、Gemini 4 Carbon、GPT-6 Astra 比較。</sub><br>
 <sub><a href="https://fablelist.000ooo.ooo/zh-tw/prompts/?w=rambo-dino&ref=gh"><b>✨ 取得提示詞</b></a></sub>
 </td>
@@ -397,7 +397,7 @@
 <td width="33%" valign="top">
 <a href="https://satyam-fp.github.io/race/v1/"><img src="../assets/gifs/371.gif" width="100%" alt="Tachyon Sprint"></a><br>
 <b><a href="https://satyam-fp.github.io/race/v1/">Tachyon Sprint</a></b><br>
-<sub>🆕 · <a href="https://x.com/_satyam_ai">@_satyam_ai</a> · ♥ 139 · <a href="https://x.com/_satyam_ai/status/2123787482747764918">▶ 影片</a></sub><br>
+<sub><a href="https://x.com/_satyam_ai">@_satyam_ai</a> · ♥ 139 · <a href="https://x.com/_satyam_ai/status/2123787482747764918">▶ 影片</a></sub><br>
 <sub>完全跑在 Chrome 裡的 WebGPU 賽車遊戲，引擎是作者從零寫的。賽車等大部分素材由 Fable 5.2 和 GPT-6.2 Astra 製作。</sub>
 </td>
 <td width="33%" valign="top">
@@ -457,7 +457,7 @@
 <td width="33%" valign="top">
 <a href="http://drift.harma.cc/en"><img src="../assets/gifs/363.gif" width="100%" alt="DRIFT: Veresk-9"></a><br>
 <b><a href="http://drift.harma.cc/en">DRIFT: Veresk-9</a></b><br>
-<sub><a href="https://x.com/Rencrypta">@Rencrypta</a> · ♥ 71 · <a href="https://x.com/Rencrypta/status/2123527249064321465">原文</a></sub><br>
+<sub><a href="https://x.com/Rencrypta">@Rencrypta</a> · ♥ 73 · <a href="https://x.com/Rencrypta/status/2123527249064321465">原文</a></sub><br>
 <sub>瀏覽器裡的第一人稱 3D 太空解謎遊戲。飛往小行星帶一座已死的採礦站關掉信標，卻發現船員從未撤離。</sub>
 </td>
 <td width="33%" valign="top">
@@ -499,7 +499,7 @@
 <td width="33%" valign="top">
 <a href="https://wavedash.com/games/ink-flight"><img src="../assets/gifs/364.gif" width="100%" alt="Ink Flight"></a><br>
 <b><a href="https://wavedash.com/games/ink-flight">Ink Flight</a></b><br>
-<sub><a href="https://x.com/prasenx">@prasenx</a> · ♥ 58 · <a href="https://x.com/prasenx/status/2123467881170243808">▶ 影片</a></sub><br>
+<sub><a href="https://x.com/prasenx">@prasenx</a> · ♥ 59 · <a href="https://x.com/prasenx/status/2123467881170243808">▶ 影片</a></sub><br>
 <sub>駕著一架摺出來的紙飛機，飛過完全用程式碼畫出的世界。沒有圖片、沒有 3D 模型，瀏覽器直接玩。</sub><br>
 <sub><a href="https://github.com/StarKnightt/ink-flight">原始碼</a></sub>
 </td>
@@ -672,7 +672,7 @@
 <td width="33%" valign="top">
 <a href="https://www.spawn.co/@abbidabbi/shark-riders"><img src="../assets/gifs/391.gif" width="100%" alt="Shark Riders"></a><br>
 <b><a href="https://www.spawn.co/@abbidabbi/shark-riders">Shark Riders</a></b><br>
-<sub>🆕 · <a href="https://x.com/Pumpnasterr">@Pumpnasterr</a> · ♥ 23 · <a href="https://x.com/Pumpnasterr/status/2124565052766216236">▶ 影片</a></sub><br>
+<sub>🆕 · <a href="https://x.com/Pumpnasterr">@Pumpnasterr</a> · ♥ 24 · <a href="https://x.com/Pumpnasterr/status/2124565052766216236">▶ 影片</a></sub><br>
 <sub>騎著大白鯊的第一人稱射擊遊戲：在鯊魚背上開槍、撕咬、用魚叉攻擊敵人，還能潛入水中躲藏。在瀏覽器裡就能玩。</sub>
 </td>
 </tr>
@@ -715,19 +715,19 @@
 <sub>把 Robert Pattinson 演過的角色放進同一款街機清版遊戲：James Bond、Batman、Hogwarts、Twilight 和 Dune。用 GPT-6.2 Astra 和 Fable 5.2 製作。</sub>
 </td>
 <td width="33%" valign="top">
+<a href="http://poke-jam.vercel.app"><img src="../assets/gifs/267.gif" width="100%" alt="Poke Dodge"></a><br>
+<b><a href="http://poke-jam.vercel.app">Poke Dodge</a></b><br>
+<sub><a href="https://x.com/crtvTeknologist">@crtvTeknologist</a> · ♥ 14 · <a href="https://x.com/crtvTeknologist/status/2121319366830809285">▶ 影片</a></sub><br>
+<sub>2 對 2 的寶可夢 × 躲避球混搭，帶 NBA Jam 風味：道館階梯、屬性相剋與持有道具，舞台以 Three.js 打造。</sub>
+</td>
+</tr>
+<tr>
+<td width="33%" valign="top">
 <a href="https://fighting-game-ignition.saito-931.workers.dev"><img src="../assets/gifs/234.gif" width="100%" alt="IGNITION 格鬥遊戲"></a><br>
 <b><a href="https://fighting-game-ignition.saito-931.workers.dev">IGNITION 格鬥遊戲</a></b><br>
 <sub><a href="https://x.com/s_shigel">@s_shigel</a> · ♥ 13 · <a href="https://x.com/s_shigel/status/2120895161890914336">▶ 影片</a></sub><br>
 <sub>2D 格鬥遊戲，有生成的配音與音效、遊玩紀錄和重播。</sub><br>
 <sub><a href="https://fablelist.000ooo.ooo/zh-tw/prompts/?w=ignition-fighting-game&ref=gh"><b>✨ 取得提示詞</b></a></sub>
-</td>
-</tr>
-<tr>
-<td width="33%" valign="top">
-<a href="http://poke-jam.vercel.app"><img src="../assets/gifs/267.gif" width="100%" alt="Poke Dodge"></a><br>
-<b><a href="http://poke-jam.vercel.app">Poke Dodge</a></b><br>
-<sub><a href="https://x.com/crtvTeknologist">@crtvTeknologist</a> · ♥ 13 · <a href="https://x.com/crtvTeknologist/status/2121319366830809285">▶ 影片</a></sub><br>
-<sub>2 對 2 的寶可夢 × 躲避球混搭，帶 NBA Jam 風味：道館階梯、屬性相剋與持有道具，舞台以 Three.js 打造。</sub>
 </td>
 <td width="33%" valign="top">
 <a href="https://silicon-seduction.vercel.app/"><img src="../assets/gifs/019.gif" width="100%" alt="Silicon Seduction"></a><br>
@@ -759,13 +759,20 @@
 <sub>騎著腳踏車穿過克利《城堡與太陽》和梵谷《夜間露天咖啡座》裡的城市；音樂也是 Fable 5.2 做的。</sub>
 </td>
 <td width="33%" valign="top">
+<a href="https://maple-run-fable.vercel.app"><img src="../assets/gifs/395.gif" width="100%" alt="Maple Run"></a><br>
+<b><a href="https://maple-run-fable.vercel.app">Maple Run</a></b><br>
+<sub>🆕 · <a href="https://x.com/nan_in_space">@nan_in_space</a> · ♥ 10 · <a href="https://x.com/nan_in_space/status/2125041219244015900">▶ 影片</a></sub><br>
+<sub>Subway Surfers 風格的跑酷遊戲，用 Fable 5.2 重做並開源。上傳任意角色圖片就能用那個角色來玩；角色是用 Viggle PINOC 從單張圖片生成的帶骨架高斯潑濺。</sub><br>
+<sub><a href="https://github.com/nanha0130/maple-run-fable">原始碼</a></sub>
+</td>
+</tr>
+<tr>
+<td width="33%" valign="top">
 <a href="https://napolehim.com"><img src="../assets/gifs/360.gif" width="100%" alt="Napoleon x Locke"></a><br>
 <b><a href="https://napolehim.com">Napoleon x Locke</a></b><br>
 <sub><a href="https://x.com/lockeorca">@lockeorca</a> · ♥ 9 · <a href="https://x.com/lockeorca/status/2123044026152890803">▶ 影片</a></sub><br>
 <sub>騎著拿破崙的飛馬穿越埃及、義大利、巴黎和聖赫勒拿島。奪下皇冠、駕駛敞篷跑車、戳破氣球。</sub>
 </td>
-</tr>
-<tr>
 <td width="33%" valign="top">
 <a href="https://room13.srv1903550.hstgr.cloud"><img src="../assets/gifs/367.gif" width="100%" alt="13 號教室 Room 13"></a><br>
 <b><a href="https://room13.srv1903550.hstgr.cloud">13 號教室 Room 13</a></b><br>
@@ -779,14 +786,14 @@
 <sub>衝進北齋的《神奈川沖浪裏》，划過風神與雷神，朝富士山前進。</sub><br>
 <sub><a href="https://fablelist.000ooo.ooo/zh-tw/prompts/?w=great-wave&ref=gh"><b>✨ 取得提示詞</b></a></sub>
 </td>
+</tr>
+<tr>
 <td width="33%" valign="top">
 <a href="https://bistroschool.app/"><img src="../assets/gifs/375.gif" width="100%" alt="Bistro School"></a><br>
 <b><a href="https://bistroschool.app/">Bistro School</a></b><br>
-<sub>🆕 · <a href="https://x.com/WilliamZhu3541">@WilliamZhu3541</a> · ♥ 7 · <a href="https://x.com/WilliamZhu3541/status/2123173309286158597">▶ 影片</a></sub><br>
+<sub><a href="https://x.com/WilliamZhu3541">@WilliamZhu3541</a> · ♥ 7 · <a href="https://x.com/WilliamZhu3541/status/2123173309286158597">▶ 影片</a></sub><br>
 <sub>你有一家米其林一星的法式小館。週五晚上，員工一個接一個帶著問題來找你，目標是拿到三星。3D 餐廳遊戲。</sub>
 </td>
-</tr>
-<tr>
 <td width="33%" valign="top">
 <a href="https://claude.ai/artifact/DLnFodkTwvawCNwurDmSZK?sk=5N6PtC07f1niB7h3I6clZQ"><img src="../assets/gifs/016.gif" width="100%" alt="Roost"></a><br>
 <b><a href="https://claude.ai/artifact/DLnFodkTwvawCNwurDmSZK?sk=5N6PtC07f1niB7h3I6clZQ">Roost</a></b><br>
@@ -800,6 +807,8 @@
 <sub><a href="https://x.com/photonstorm">@photonstorm</a> · ♥ 6 · <a href="https://x.com/photonstorm/status/2122879821986627587">▶ 影片</a></sub><br>
 <sub>可愛的果凍物理玩具：點住拖曳就能拉扯、甩動一群軟 Q 的果凍。</sub>
 </td>
+</tr>
+<tr>
 <td width="33%" valign="top">
 <a href="https://clockendbader.github.io/fable-builds/go-for-launch/"><img src="../assets/gifs/258.gif" width="100%" alt="Go for Launch"></a><br>
 <b><a href="https://clockendbader.github.io/fable-builds/go-for-launch/">Go for Launch</a></b><br>
@@ -807,8 +816,6 @@
 <sub>一則提示做出從地球到月球的完整駕駛艙遊戲：1 小時 18 分、約 $30。三種難度、即時儀表、無線電中的任務控制；所有聲音皆由程式碼製作。</sub><br>
 <sub><a href="https://fablelist.000ooo.ooo/zh-tw/prompts/?w=go-for-launch&ref=gh"><b>✨ 取得提示詞</b></a></sub>
 </td>
-</tr>
-<tr>
 <td width="33%" valign="top">
 <a href="https://claude.ai/artifact/1QGGhB68jMCjjjeeKtKNUo"><img src="../assets/gifs/021.gif" width="100%" alt="四角色格鬥遊戲"></a><br>
 <b><a href="https://claude.ai/artifact/1QGGhB68jMCjjjeeKtKNUo">四角色格鬥遊戲</a></b><br>
@@ -822,6 +829,8 @@
 <sub><a href="https://x.com/AugustCastilIo">@AugustCastilIo</a> · ♥ 4 · <a href="https://x.com/AugustCastilIo/status/2121350653037756557">▶ 影片</a></sub><br>
 <sub>唯一的指示是「放手去瘋，讓我大開眼界」；它一次就從點子做成了遊戲。</sub>
 </td>
+</tr>
+<tr>
 <td width="33%" valign="top">
 <a href="https://vippi.vercel.app/"><img src="../assets/gifs/020.gif" width="100%" alt="Vippi"></a><br>
 <b><a href="https://vippi.vercel.app/">Vippi</a></b><br>

@@ -1,4 +1,4 @@
-# 🌍 Mundos e cenas 3D · todos os 50
+# 🌍 Mundos e cenas 3D · todos os 51
 
 [← Voltar à lista](../README.pt-BR.md) · [English](3d-worlds.md) · [简体中文](3d-worlds.zh-CN.md) · [繁體中文](3d-worlds.zh-TW.md) · [日本語](3d-worlds.ja.md) · [한국어](3d-worlds.ko.md) · [Español](3d-worlds.es.md) · **Português** · [Français](3d-worlds.fr.md) · [Deutsch](3d-worlds.de.md) · [Русский](3d-worlds.ru.md)
 
@@ -32,7 +32,7 @@ A página principal mostra no máximo as 24 entradas mais curtidas de cada seç�
 <td width="33%" valign="top">
 <a href="https://april-zhu.com/pocketcity"><img src="../assets/gifs/369.gif" width="100%" alt="Pocket City"></a><br>
 <b><a href="https://april-zhu.com/pocketcity">Pocket City</a></b><br>
-<sub>🆕 · <a href="https://x.com/Aprilzz423">@Aprilzz423</a> · ♥ 1.2k · <a href="https://x.com/Aprilzz423/status/2123788440714260673">▶ Vídeo</a></sub><br>
+<sub><a href="https://x.com/Aprilzz423">@Aprilzz423</a> · ♥ 1.2k · <a href="https://x.com/Aprilzz423/status/2123788440714260673">▶ Vídeo</a></sub><br>
 <sub>Transforma qualquer esquina em uma cidadezinha desenhada à mão que você pode girar e explorar, medida pelo OpenStreetMap, com o clima e as estações do lugar. Feito com Fable 5.2 e GPT-6.2 Astra.</sub>
 </td>
 <td width="33%" valign="top">
@@ -54,7 +54,7 @@ A página principal mostra no máximo as 24 entradas mais curtidas de cada seç�
 <td width="33%" valign="top">
 <a href="https://fable-rome.surge.sh/"><img src="../assets/gifs/136.gif" width="100%" alt="Rome, AD 320"></a><br>
 <b><a href="https://fable-rome.surge.sh/">Rome, AD 320</a></b><br>
-<sub><a href="https://x.com/petergostev">@petergostev</a> · ♥ 976 · <a href="https://x.com/petergostev/status/2120167560700383572">▶ Vídeo</a></sub><br>
+<sub><a href="https://x.com/petergostev">@petergostev</a> · ♥ 977 · <a href="https://x.com/petergostev/status/2120167560700383572">▶ Vídeo</a></sub><br>
 <sub>Um prompt, Fable 5.2 (Max) rodando a noite toda, US$ 2.618.</sub><br>
 <sub><a href="https://x.com/petergostev/status/2120167560700383572">📝 Prompt do criador (grátis)</a></sub>
 </td>
@@ -76,13 +76,13 @@ A página principal mostra no máximo as 24 entradas mais curtidas de cada seç�
 <td width="33%" valign="top">
 <a href="https://ship-42-catch.netlify.app/"><img src="../assets/gifs/297.gif" width="100%" alt="Ship 42 Catch"></a><br>
 <b><a href="https://ship-42-catch.netlify.app/">Ship 42 Catch</a></b><br>
-<sub><a href="https://x.com/emollick">@emollick</a> · ♥ 738 · <a href="https://x.com/emollick/status/2122036763468214711">▶ Vídeo</a></sub><br>
+<sub><a href="https://x.com/emollick">@emollick</a> · ♥ 739 · <a href="https://x.com/emollick/status/2122036763468214711">▶ Vídeo</a></sub><br>
 <sub>Fable e Opus encontraram o vídeo da captura da Starship pela torre e recriaram os últimos 40 segundos em 3D detalhado com three.js. Dá para trocar a câmera.</sub>
 </td>
 <td width="33%" valign="top">
 <a href="https://patch.gg/play/blendi/the-blue-hour"><img src="../assets/gifs/387.gif" width="100%" alt="The Blue Hour — uma cidade art déco à noite"></a><br>
 <b><a href="https://patch.gg/play/blendi/the-blue-hour">The Blue Hour — uma cidade art déco à noite</a></b><br>
-<sub>🆕 · <a href="https://x.com/BlendiByl">@BlendiByl</a> · ♥ 594 · <a href="https://x.com/BlendiByl/status/2124439671006748853">▶ Vídeo</a></sub><br>
+<sub>🆕 · <a href="https://x.com/BlendiByl">@BlendiByl</a> · ♥ 634 · <a href="https://x.com/BlendiByl/status/2124439671006748853">▶ Vídeo</a></sub><br>
 <sub>Uma cena 3D no estilo art déco da série animada do Batman, toda desenhada em código. Código aberto.</sub>
 </td>
 <td width="33%" valign="top">
@@ -215,7 +215,7 @@ A página principal mostra no máximo as 24 entradas mais curtidas de cada seç�
 <td width="33%" valign="top">
 <a href="https://patch.gg/blendi/pixel-village"><img src="../assets/gifs/372.gif" width="100%" alt="Pixel Village"></a><br>
 <b><a href="https://patch.gg/blendi/pixel-village">Pixel Village</a></b><br>
-<sub>🆕 · <a href="https://x.com/BlendiByl">@BlendiByl</a> · ♥ 83 · <a href="https://x.com/BlendiByl/status/2123618324823388410">▶ Vídeo</a></sub><br>
+<sub><a href="https://x.com/BlendiByl">@BlendiByl</a> · ♥ 83 · <a href="https://x.com/BlendiByl/status/2123618324823388410">▶ Vídeo</a></sub><br>
 <sub>Uma vila de pixels de sonho em falésias ao pôr do sol: pixel art em um mundo 3D de verdade, com cada pixel desenhado por código. Roda no navegador e é open source.</sub>
 </td>
 <td width="33%" valign="top">
@@ -235,12 +235,20 @@ A página principal mostra no máximo as 24 entradas mais curtidas de cada seç�
 <sub><a href="https://fablelist.000ooo.ooo/pt/prompts/?w=vancouver-from-above&ref=gh"><b>✨ Pegue o prompt</b></a></sub>
 </td>
 <td width="33%" valign="top">
+<a href="https://windblown.vercel.app"><img src="../assets/gifs/396.gif" width="100%" alt="Windblown: leve uma garota por oito mundos"></a><br>
+<b><a href="https://windblown.vercel.app">Windblown: leve uma garota por oito mundos</a></b><br>
+<sub>🆕 · <a href="https://x.com/nan_in_space">@nan_in_space</a> · ♥ 64 · <a href="https://x.com/nan_in_space/status/2120212714484330999">▶ Vídeo</a></sub><br>
+<sub>Uma obra interativa para a web. Atravesse um portal para cada novo mundo com um mergulho, um salto ou uma estrela. A garota e os cenários são Gaussian splats, cada um gerado a partir de uma única imagem.</sub>
+</td>
+<td width="33%" valign="top">
 <a href="https://fable-jerusalem.vercel.app/"><img src="../assets/gifs/138.gif" width="100%" alt="Jerusalem at Passover"></a><br>
 <b><a href="https://fable-jerusalem.vercel.app/">Jerusalem at Passover</a></b><br>
 <sub><a href="https://x.com/kplikethebird">@kplikethebird</a> · ♥ 42 · <a href="https://x.com/kplikethebird/status/2119900775727902732">▶ Vídeo</a></sub><br>
 <sub>Uma Jerusalém 3D imersiva e historicamente fundamentada, feita com Blender. Passeie pelas ruas.</sub><br>
 <sub><a href="https://x.com/kplikethebird/status/2119900775727902732">📝 Prompt do criador (grátis)</a></sub>
 </td>
+</tr>
+<tr>
 <td width="33%" valign="top">
 <a href="https://starknightt.github.io/summer-festival/"><img src="../assets/gifs/309.gif" width="100%" alt="Summer Festival: uma cidade à beira-mar à noite"></a><br>
 <b><a href="https://starknightt.github.io/summer-festival/">Summer Festival: uma cidade à beira-mar à noite</a></b><br>
@@ -248,8 +256,6 @@ A página principal mostra no máximo as 24 entradas mais curtidas de cada seç�
 <sub>Uma cidade litorânea em estilo anime em pleno festival de verão, por onde você pode caminhar. three.js em WebGPU, feito com Opus 5.5 e Fable 5.2.</sub><br>
 <sub><a href="https://github.com/StarKnightt/summer-festival">Código-fonte</a></sub>
 </td>
-</tr>
-<tr>
 <td width="33%" valign="top">
 <a href="https://feelthematrix.com"><img src="../assets/gifs/139.gif" width="100%" alt="Matrix Vibe"></a><br>
 <b><a href="https://feelthematrix.com">Matrix Vibe</a></b><br>
@@ -266,14 +272,14 @@ A página principal mostra no máximo as 24 entradas mais curtidas de cada seç�
 <sub><a href="https://loktar00.github.io/sled-free-exact/">Sled Free</a> · <a href="https://loktar00.github.io/sled-free/">Grumble Peak</a></sub><br>
 <sub><a href="https://fablelist.000ooo.ooo/pt/prompts/?w=pine-hollow-a-living-ski-hill&ref=gh"><b>✨ Pegue o prompt</b></a></sub>
 </td>
+</tr>
+<tr>
 <td width="33%" valign="top">
 <a href="https://vancouver-claude.webly.site"><img src="../assets/gifs/280.gif" width="100%" alt="Vancouver, hora dourada sobre English Bay"></a><br>
 <b><a href="https://vancouver-claude.webly.site">Vancouver, hora dourada sobre English Bay</a></b><br>
 <sub><a href="https://x.com/tokifyi">@tokifyi</a> · ♥ 30 · <a href="https://x.com/tokifyi/status/2121644293270200354">Post</a></sub><br>
 <sub>Um panorama de Vancouver ao pôr do sol desenhado inteiramente em JavaScript.</sub>
 </td>
-</tr>
-<tr>
 <td width="33%" valign="top">
 <a href="https://claude.ai/artifact/HGk1WNqTgrGEE8ndBkEipB"><img src="../assets/gifs/229.gif" width="100%" alt="Pixel art para mundo 3D"></a><br>
 <b><a href="https://claude.ai/artifact/HGk1WNqTgrGEE8ndBkEipB">Pixel art para mundo 3D</a></b><br>
@@ -288,6 +294,8 @@ A página principal mostra no máximo as 24 entradas mais curtidas de cada seç�
 <sub>"Deus levou 6 dias, o Fable 5.2 levou 20 min." Voe para dentro de uma galáxia.</sub><br>
 <sub><a href="https://fablelist.000ooo.ooo/pt/prompts/?w=galaxy-dive&ref=gh"><b>✨ Pegue o prompt</b></a></sub>
 </td>
+</tr>
+<tr>
 <td width="33%" valign="top">
 <a href="https://calibre-watch-snowy.vercel.app/"><img src="../assets/gifs/192.gif" width="100%" alt="Relógio Calibre 5.2"></a><br>
 <b><a href="https://calibre-watch-snowy.vercel.app/">Relógio Calibre 5.2</a></b><br>
@@ -295,8 +303,6 @@ A página principal mostra no máximo as 24 entradas mais curtidas de cada seç�
 <sub>Sem imagem de referência: um prompt de texto, uma tentativa. three.js e WebGPU.</sub><br>
 <sub><a href="https://fablelist.000ooo.ooo/pt/prompts/?w=calibre-5-2-watch&ref=gh"><b>✨ Pegue o prompt</b></a></sub>
 </td>
-</tr>
-<tr>
 <td width="33%" valign="top">
 <a href="https://sf-js.webly.site"><img src="../assets/gifs/264.gif" width="100%" alt="San Francisco na hora dourada"></a><br>
 <b><a href="https://sf-js.webly.site">San Francisco na hora dourada</a></b><br>
@@ -311,21 +317,21 @@ A página principal mostra no máximo as 24 entradas mais curtidas de cada seç�
 <sub><a href="https://claude.ai/artifact/B7ZmVS7Yr3BUc99ZyGk2bX">Opus 5.5 version</a></sub><br>
 <sub><a href="https://fablelist.000ooo.ooo/pt/prompts/?w=voxel-colosseum&ref=gh"><b>✨ Pegue o prompt</b></a></sub>
 </td>
+</tr>
+<tr>
+<td width="33%" valign="top">
+<a href="https://claude.ai/artifact/QoBRCe2QuCU81MkNpVr4hd"><img src="../assets/gifs/393.gif" width="100%" alt="Vice Corner: um diorama em pixels de uma esquina de Vice City"></a><br>
+<b><a href="https://claude.ai/artifact/QoBRCe2QuCU81MkNpVr4hd">Vice Corner: um diorama em pixels de uma esquina de Vice City</a></b><br>
+<sub>🆕 · <a href="https://x.com/CapyCola">@CapyCola</a> · ♥ 16 · <a href="https://x.com/CapyCola/status/2124797996458229877">▶ Vídeo</a></sub><br>
+<sub>Uma esquina de Vice City feita nos dias seguintes ao lançamento de GTA 6. Uma cena em pixels que você pode arrastar, girar e ver de qualquer ângulo, criada com Fable 5.2 e Ink Studio.</sub><br>
+<sub><a href="https://github.com/cola5939/pixel-dioramas">Código-fonte</a></sub>
+</td>
 <td width="33%" valign="top">
 <a href="https://glittery-stardust-885b97.netlify.app"><img src="../assets/gifs/233.gif" width="100%" alt="HX-6 Hexapod, Three Worlds"></a><br>
 <b><a href="https://glittery-stardust-885b97.netlify.app">HX-6 Hexapod, Three Worlds</a></b><br>
 <sub><a href="https://x.com/Acoramaa">@Acoramaa</a> · ♥ 11 · <a href="https://x.com/Acoramaa/status/2120839083895538093">▶ Vídeo</a></sub><br>
 <sub>O mesmo hexápode de 14 kg em Marte, na Lua e em Europa; cada pé encontra seu próprio apoio. Dirija você mesmo.</sub><br>
 <sub><a href="https://fablelist.000ooo.ooo/pt/prompts/?w=hx-6-hexapod-three-worlds&ref=gh"><b>✨ Pegue o prompt</b></a></sub>
-</td>
-</tr>
-<tr>
-<td width="33%" valign="top">
-<a href="https://claude.ai/artifact/QoBRCe2QuCU81MkNpVr4hd"><img src="../assets/gifs/393.gif" width="100%" alt="Vice Corner: um diorama em pixels de uma esquina de Vice City"></a><br>
-<b><a href="https://claude.ai/artifact/QoBRCe2QuCU81MkNpVr4hd">Vice Corner: um diorama em pixels de uma esquina de Vice City</a></b><br>
-<sub>🆕 · <a href="https://x.com/CapyCola">@CapyCola</a> · ♥ 9 · <a href="https://x.com/CapyCola/status/2124797996458229877">▶ Vídeo</a></sub><br>
-<sub>Uma esquina de Vice City feita nos dias seguintes ao lançamento de GTA 6. Uma cena em pixels que você pode arrastar, girar e ver de qualquer ângulo, criada com Fable 5.2 e Ink Studio.</sub><br>
-<sub><a href="https://github.com/cola5939/pixel-dioramas">Código-fonte</a></sub>
 </td>
 <td width="33%" valign="top">
 <a href="https://zondark.com"><img src="../assets/gifs/033.gif" width="100%" alt="One-way Trip to a Black Hole"></a><br>
@@ -334,14 +340,14 @@ A página principal mostra no máximo as 24 entradas mais curtidas de cada seç�
 <sub>Um site pessoal refeito como uma jornada de rolagem da Terra até um buraco negro.</sub><br>
 <sub><a href="https://fablelist.000ooo.ooo/pt/prompts/?w=one-way-trip-to-a-black-hole&ref=gh"><b>✨ Pegue o prompt</b></a></sub>
 </td>
+</tr>
+<tr>
 <td width="33%" valign="top">
 <a href="https://madebysourasith-sudo.github.io/red-wing-jet/"><img src="../assets/gifs/265.gif" width="100%" alt="Jato particular Red Wing"></a><br>
 <b><a href="https://madebysourasith-sudo.github.io/red-wing-jet/">Jato particular Red Wing</a></b><br>
 <sub><a href="https://x.com/titepommee">@titepommee</a> · ♥ 8 · <a href="https://x.com/titepommee/status/2121259736217911357">▶ Vídeo</a></sub><br>
 <sub>Ande pelo jato, clique na porta, a escada desce e você entra: sala de estar, quarto, até o banheiro.</sub>
 </td>
-</tr>
-<tr>
 <td width="33%" valign="top">
 <a href="https://davinci-mechanics.vercel.app/"><img src="../assets/gifs/289.gif" width="100%" alt="O códice vivo de Da Vinci"></a><br>
 <b><a href="https://davinci-mechanics.vercel.app/">O códice vivo de Da Vinci</a></b><br>
@@ -356,6 +362,8 @@ A página principal mostra no máximo as 24 entradas mais curtidas de cada seç�
 <sub>~20.000 asteroides em órbita; ele continua adicionando pedras até seu dispositivo cair abaixo de 30 fps.</sub><br>
 <sub><a href="https://fablelist.000ooo.ooo/pt/prompts/?w=belt-stress-test&ref=gh"><b>✨ Pegue o prompt</b></a></sub>
 </td>
+</tr>
+<tr>
 <td width="33%" valign="top">
 <a href="https://claude.ai/artifact/BCDCNHRTq3y9W4Px3xc4DN"><img src="../assets/gifs/030.gif" width="100%" alt="A Hamlet on a Giant Snail"></a><br>
 <b><a href="https://claude.ai/artifact/BCDCNHRTq3y9W4Px3xc4DN">A Hamlet on a Giant Snail</a></b><br>
@@ -363,8 +371,6 @@ A página principal mostra no máximo as 24 entradas mais curtidas de cada seç�
 <sub>"Dê vida a um castelo 3D em um arquivo HTML." WebGL2 escrito à mão, sem bibliotecas, ~5.500 árvores, ciclo de dia e noite.</sub><br>
 <sub><a href="https://x.com/L34342Lin/status/2120030246108066195">📝 Prompt do criador (grátis)</a></sub>
 </td>
-</tr>
-<tr>
 <td width="33%" valign="top">
 <a href="https://claude.ai/artifact/UqU4w7jSr6pzF2McsbyQjJ"><img src="../assets/gifs/031.gif" width="100%" alt="Wooden Pagoda Transformation"></a><br>
 <b><a href="https://claude.ai/artifact/UqU4w7jSr6pzF2McsbyQjJ">Wooden Pagoda Transformation</a></b><br>

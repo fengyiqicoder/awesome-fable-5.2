@@ -36,7 +36,7 @@
 <td width="33%" valign="top">
 <a href="https://github.com/ChetasLua/pelican-riding-a-bicycle"><img src="../assets/gifs/150.gif" width="100%" alt="骑车的鹈鹕：60 秒手绘风短片"></a><br>
 <b><a href="https://github.com/ChetasLua/pelican-riding-a-bicycle">骑车的鹈鹕：60 秒手绘风短片</a></b><br>
-<sub><a href="https://x.com/chetaslua">@chetaslua</a> · ♥ 358 · <a href="https://x.com/chetaslua/status/2120438091647218025">▶ 视频</a></sub><br>
+<sub><a href="https://x.com/chetaslua">@chetaslua</a> · ♥ 359 · <a href="https://x.com/chetaslua/status/2120438091647218025">▶ 视频</a></sub><br>
 <sub>一个 HTML 文件，画面和声音全是代码，没有图片、音频和库</sub><br>
 <sub><a href="https://github.com/ChetasLua/mona-lisa-js">蒙娜丽莎</a></sub><br>
 <sub><a href="https://fablelist.000ooo.ooo/zh/prompts/?w=the-pelican-tired-of-the-road&ref=gh"><b>✨ 获取提示词</b></a></sub>
@@ -58,7 +58,7 @@
 <td width="33%" valign="top">
 <a href="https://github.com/anstapnever/one-sweep"><img src="../assets/gifs/051.gif" width="100%" alt="One Sweep 78 秒动漫打斗"></a><br>
 <b><a href="https://github.com/anstapnever/one-sweep">One Sweep 78 秒动漫打斗</a></b><br>
-<sub><a href="https://x.com/anstapnever">@anstapnever</a> · ♥ 250 · <a href="https://x.com/anstapnever/status/2119772039037014524">▶ 视频</a></sub><br>
+<sub><a href="https://x.com/anstapnever">@anstapnever</a> · ♥ 251 · <a href="https://x.com/anstapnever/status/2119772039037014524">▶ 视频</a></sub><br>
 <sub>纯 Three.js 代码，6 组 Agent 并行；作者写的是「Fable 5.5」</sub><br>
 <sub><a href="https://x.com/anstapnever/status/2119772039037014524">📝 作者公开的提示词（免费）</a></sub>
 </td>
@@ -107,7 +107,7 @@
 <td width="33%" valign="top">
 <a href="https://github.com/anstapnever/blackout"><img src="../assets/gifs/052.gif" width="100%" alt="Blackout 79 秒动漫"></a><br>
 <b><a href="https://github.com/anstapnever/blackout">Blackout 79 秒动漫</a></b><br>
-<sub><a href="https://x.com/anstapnever">@anstapnever</a> · ♥ 118 · <a href="https://x.com/anstapnever/status/2119915123070644263">▶ 视频</a></sub><br>
+<sub><a href="https://x.com/anstapnever">@anstapnever</a> · ♥ 119 · <a href="https://x.com/anstapnever/status/2119915123070644263">▶ 视频</a></sub><br>
 <br>
 <sub><a href="https://x.com/anstapnever/status/2119915123070644263">📝 作者公开的提示词（免费）</a></sub>
 </td>

@@ -36,7 +36,7 @@ Die Hauptseite zeigt pro Bereich höchstens die 24 Einträge mit den meisten Lik
 <td width="33%" valign="top">
 <a href="https://github.com/ChetasLua/pelican-riding-a-bicycle"><img src="../assets/gifs/150.gif" width="100%" alt="The Pelican, Tired of the Road"></a><br>
 <b><a href="https://github.com/ChetasLua/pelican-riding-a-bicycle">The Pelican, Tired of the Road</a></b><br>
-<sub><a href="https://x.com/chetaslua">@chetaslua</a> · ♥ 358 · <a href="https://x.com/chetaslua/status/2120438091647218025">▶ Video</a></sub><br>
+<sub><a href="https://x.com/chetaslua">@chetaslua</a> · ♥ 359 · <a href="https://x.com/chetaslua/status/2120438091647218025">▶ Video</a></sub><br>
 <sub>Ein 60-sekündiger Film im handgemalten Look über den Pelikan aus dem SVG-Test. Eine HTML-Datei; jedes Pixel und jeder Sound ist Code.</sub><br>
 <sub><a href="https://github.com/ChetasLua/mona-lisa-js">Mona Lisa in JS</a></sub><br>
 <sub><a href="https://fablelist.000ooo.ooo/de/prompts/?w=the-pelican-tired-of-the-road&ref=gh"><b>✨ Prompt holen</b></a></sub>
@@ -58,7 +58,7 @@ Die Hauptseite zeigt pro Bereich höchstens die 24 Einträge mit den meisten Lik
 <td width="33%" valign="top">
 <a href="https://github.com/anstapnever/one-sweep"><img src="../assets/gifs/051.gif" width="100%" alt="One Sweep"></a><br>
 <b><a href="https://github.com/anstapnever/one-sweep">One Sweep</a></b><br>
-<sub><a href="https://x.com/anstapnever">@anstapnever</a> · ♥ 250 · <a href="https://x.com/anstapnever/status/2119772039037014524">▶ Video</a></sub><br>
+<sub><a href="https://x.com/anstapnever">@anstapnever</a> · ♥ 251 · <a href="https://x.com/anstapnever/status/2119772039037014524">▶ Video</a></sub><br>
 <sub>Ein 78-sekündiger Anime-Kampf in reinem Three.js, sechs Agent-Teams parallel. Der Autor sagt „Fable 5.5“.</sub><br>
 <sub><a href="https://x.com/anstapnever/status/2119772039037014524">📝 Prompt des Creators (kostenlos)</a></sub>
 </td>
@@ -107,7 +107,7 @@ Die Hauptseite zeigt pro Bereich höchstens die 24 Einträge mit den meisten Lik
 <td width="33%" valign="top">
 <a href="https://github.com/anstapnever/blackout"><img src="../assets/gifs/052.gif" width="100%" alt="Blackout"></a><br>
 <b><a href="https://github.com/anstapnever/blackout">Blackout</a></b><br>
-<sub><a href="https://x.com/anstapnever">@anstapnever</a> · ♥ 118 · <a href="https://x.com/anstapnever/status/2119915123070644263">▶ Video</a></sub><br>
+<sub><a href="https://x.com/anstapnever">@anstapnever</a> · ♥ 119 · <a href="https://x.com/anstapnever/status/2119915123070644263">▶ Video</a></sub><br>
 <sub>Ein 79-sekündiger Anime-Kurzfilm, alles Code.</sub><br>
 <sub><a href="https://x.com/anstapnever/status/2119915123070644263">📝 Prompt des Creators (kostenlos)</a></sub>
 </td>

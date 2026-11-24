@@ -36,7 +36,7 @@
 <td width="33%" valign="top">
 <a href="https://github.com/ChetasLua/pelican-riding-a-bicycle"><img src="../assets/gifs/150.gif" width="100%" alt="The Pelican, Tired of the Road"></a><br>
 <b><a href="https://github.com/ChetasLua/pelican-riding-a-bicycle">The Pelican, Tired of the Road</a></b><br>
-<sub><a href="https://x.com/chetaslua">@chetaslua</a> · ♥ 358 · <a href="https://x.com/chetaslua/status/2120438091647218025">▶ Видео</a></sub><br>
+<sub><a href="https://x.com/chetaslua">@chetaslua</a> · ♥ 359 · <a href="https://x.com/chetaslua/status/2120438091647218025">▶ Видео</a></sub><br>
 <sub>60-секундный фильм в стиле ручной росписи про пеликана из SVG-теста. Один HTML-файл; каждый пиксель и каждый звук — код.</sub><br>
 <sub><a href="https://github.com/ChetasLua/mona-lisa-js">Mona Lisa in JS</a></sub><br>
 <sub><a href="https://fablelist.000ooo.ooo/ru/prompts/?w=the-pelican-tired-of-the-road&ref=gh"><b>✨ Получить промпт</b></a></sub>
@@ -58,7 +58,7 @@
 <td width="33%" valign="top">
 <a href="https://github.com/anstapnever/one-sweep"><img src="../assets/gifs/051.gif" width="100%" alt="One Sweep"></a><br>
 <b><a href="https://github.com/anstapnever/one-sweep">One Sweep</a></b><br>
-<sub><a href="https://x.com/anstapnever">@anstapnever</a> · ♥ 250 · <a href="https://x.com/anstapnever/status/2119772039037014524">▶ Видео</a></sub><br>
+<sub><a href="https://x.com/anstapnever">@anstapnever</a> · ♥ 251 · <a href="https://x.com/anstapnever/status/2119772039037014524">▶ Видео</a></sub><br>
 <sub>78-секундная аниме-драка на чистом Three.js, шесть команд агентов параллельно. Автор говорит «Fable 5.5».</sub><br>
 <sub><a href="https://x.com/anstapnever/status/2119772039037014524">📝 Промпт автора (бесплатно)</a></sub>
 </td>
@@ -107,7 +107,7 @@
 <td width="33%" valign="top">
 <a href="https://github.com/anstapnever/blackout"><img src="../assets/gifs/052.gif" width="100%" alt="Blackout"></a><br>
 <b><a href="https://github.com/anstapnever/blackout">Blackout</a></b><br>
-<sub><a href="https://x.com/anstapnever">@anstapnever</a> · ♥ 118 · <a href="https://x.com/anstapnever/status/2119915123070644263">▶ Видео</a></sub><br>
+<sub><a href="https://x.com/anstapnever">@anstapnever</a> · ♥ 119 · <a href="https://x.com/anstapnever/status/2119915123070644263">▶ Видео</a></sub><br>
 <sub>79-секундная аниме-короткометражка, всё на коде.</sub><br>
 <sub><a href="https://x.com/anstapnever/status/2119915123070644263">📝 Промпт автора (бесплатно)</a></sub>
 </td>

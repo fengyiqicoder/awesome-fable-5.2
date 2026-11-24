@@ -1,4 +1,4 @@
-# 🧰 網頁與工具 · 全部 56 個
+# 🧰 網頁與工具 · 全部 57 個
 
 [← 回到首頁](../README.zh-TW.md) · [English](web-and-tools.md) · [简体中文](web-and-tools.zh-CN.md) · **繁體中文** · [日本語](web-and-tools.ja.md) · [한국어](web-and-tools.ko.md) · [Español](web-and-tools.es.md) · [Português](web-and-tools.pt-BR.md) · [Français](web-and-tools.fr.md) · [Deutsch](web-and-tools.de.md) · [Русский](web-and-tools.ru.md)
 
@@ -87,14 +87,14 @@
 <td width="33%" valign="top">
 <a href="https://github.com/AlexAtFF/pulp-daw-public"><img src="../assets/gifs/204.gif" width="100%" alt="PULP — AI 原生 DAW"></a><br>
 <b><a href="https://github.com/AlexAtFF/pulp-daw-public">PULP — AI 原生 DAW</a></b><br>
-<sub><a href="https://x.com/The_Alex">@The_Alex</a> · ♥ 948 · <a href="https://x.com/The_Alex/status/2119917226769985785">▶ 影片</a></sub><br>
+<sub><a href="https://x.com/The_Alex">@The_Alex</a> · ♥ 947 · <a href="https://x.com/The_Alex/status/2119917226769985785">▶ 影片</a></sub><br>
 <sub>原生 Windows 數位音訊工作站。向 Claude 要音樂，它就會打開 DAW 並做出歌曲。</sub><br>
 <sub><a href="https://fablelist.000ooo.ooo/zh-tw/prompts/?w=pulp-an-ai-native-daw&ref=gh"><b>✨ 取得提示詞</b></a></sub>
 </td>
 <td width="33%" valign="top">
 <a href="https://frontier.every.to/experiments/ambient-town"><img src="../assets/gifs/148.gif" width="100%" alt="Ambient Town"></a><br>
 <b><a href="https://frontier.every.to/experiments/ambient-town">Ambient Town</a></b><br>
-<sub><a href="https://x.com/kieranklaassen">@kieranklaassen</a> · ♥ 897 · <a href="https://x.com/kieranklaassen/status/2119868196773929160">▶ 影片</a></sub><br>
+<sub><a href="https://x.com/kieranklaassen">@kieranklaassen</a> · ♥ 896 · <a href="https://x.com/kieranklaassen/status/2119868196773929160">▶ 影片</a></sub><br>
 <sub>一位前電影配樂家花了一週夜晚打造的氛圍音樂 DAW：支援 Ableton Push、麥克風、效果器、合成器，還有能與你一起作曲的 Agent。請點頁面上的「Try it」。</sub><br>
 <sub><a href="https://fablelist.000ooo.ooo/zh-tw/prompts/?w=ambient-town&ref=gh"><b>✨ 取得提示詞</b></a></sub>
 </td>
@@ -125,7 +125,7 @@
 <td width="33%" valign="top">
 <a href="https://auden-english-135.netlify.app/"><img src="../assets/gifs/281.gif" width="100%" alt="重建 Auden 失傳的 1941 年詩歌課"></a><br>
 <b><a href="https://auden-english-135.netlify.app/">重建 Auden 失傳的 1941 年詩歌課</a></b><br>
-<sub><a href="https://x.com/emollick">@emollick</a> · ♥ 593 · <a href="https://x.com/emollick/status/2121641417483169934">原文</a></sub><br>
+<sub><a href="https://x.com/emollick">@emollick</a> · ♥ 594 · <a href="https://x.com/emollick/status/2121641417483169934">原文</a></sub><br>
 <sub>Fable 5.2 從網際網路檔案館一本冷門書和零散筆記中，重建了 W. H. Auden 那門「人文學科最難」的課。</sub>
 </td>
 <td width="33%" valign="top">
@@ -137,7 +137,7 @@
 <td width="33%" valign="top">
 <a href="https://claude.ai/artifact/4P1urBdptp6gWiJo3R6Vpv"><img src="../assets/gifs/333.gif" width="100%" alt="Breakcore 影片取樣器"></a><br>
 <b><a href="https://claude.ai/artifact/4P1urBdptp6gWiJo3R6Vpv">Breakcore 影片取樣器</a></b><br>
-<sub><a href="https://x.com/parhelion318">@parhelion318</a> · ♥ 543 · <a href="https://x.com/parhelion318/status/2122723067533398064">▶ 影片</a></sub><br>
+<sub><a href="https://x.com/parhelion318">@parhelion318</a> · ♥ 542 · <a href="https://x.com/parhelion318/status/2122723067533398064">▶ 影片</a></sub><br>
 <sub>在瀏覽器裡把影片片段切碎，重排成 breakcore 節奏的取樣器。</sub>
 </td>
 </tr>
@@ -145,7 +145,7 @@
 <td width="33%" valign="top">
 <a href="https://www.bubbbly.com/christmas-cards"><img src="../assets/gifs/315.gif" width="100%" alt="Christmas Cards：互動聖誕賀卡"></a><br>
 <b><a href="https://www.bubbbly.com/christmas-cards">Christmas Cards：互動聖誕賀卡</a></b><br>
-<sub><a href="https://x.com/ann_nnng">@ann_nnng</a> · ♥ 478 · <a href="https://x.com/ann_nnng/status/2122283549000712249">▶ 影片</a></sub><br>
+<sub><a href="https://x.com/ann_nnng">@ann_nnng</a> · ♥ 481 · <a href="https://x.com/ann_nnng/status/2122283549000712249">▶ 影片</a></sub><br>
 <sub>一組可以互動的聖誕賀卡，例如圍著紅圍巾的貓在窗台上看雪落下。</sub>
 </td>
 <td width="33%" valign="top">
@@ -174,7 +174,7 @@
 <td width="33%" valign="top">
 <a href="https://rubber-hose-ui.vercel.app"><img src="../assets/gifs/332.gif" width="100%" alt="Rubber Hose UI：1930 年代卡通角色控制項"></a><br>
 <b><a href="https://rubber-hose-ui.vercel.app">Rubber Hose UI：1930 年代卡通角色控制項</a></b><br>
-<sub><a href="https://x.com/crtvTeknologist">@crtvTeknologist</a> · ♥ 353 · <a href="https://x.com/crtvTeknologist/status/2122433522166124616">▶ 影片</a></sub><br>
+<sub><a href="https://x.com/crtvTeknologist">@crtvTeknologist</a> · ♥ 355 · <a href="https://x.com/crtvTeknologist/status/2122433522166124616">▶ 影片</a></sub><br>
 <sub>11 個網頁控制項畫成橡皮管卡通：滑桿是長號，提示框是烤麵包機，按鈕每按一次就多一個黑眼圈。原生 JS 加 canvas，零依賴，開源。</sub><br>
 <sub><a href="https://github.com/finktheartist/rubber-hose-ui">原始碼</a></sub>
 </td>
@@ -239,7 +239,7 @@
 <td width="33%" valign="top">
 <a href="https://seats.movie"><img src="../assets/gifs/370.gif" width="100%" alt="seats.movie"></a><br>
 <b><a href="https://seats.movie">seats.movie</a></b><br>
-<sub>🆕 · <a href="https://x.com/sunithvs_">@sunithvs_</a> · ♥ 133 · <a href="https://x.com/sunithvs_/status/2123496822400532982">▶ 影片</a></sub><br>
+<sub><a href="https://x.com/sunithvs_">@sunithvs_</a> · ♥ 133 · <a href="https://x.com/sunithvs_/status/2123496822400532982">▶ 影片</a></sub><br>
 <sub>選一部電影，它會查遍你所在城市的每一場，找出還空著的正中間座位，還能看從座位望出去的 3D 視角。作者說是讓 Fable 5.2 連跑五天做出來的。</sub>
 </td>
 <td width="33%" valign="top">
@@ -267,24 +267,24 @@
 <td width="33%" valign="top">
 <a href="https://andreysuperiorgit.github.io/v8/"><img src="../assets/gifs/373.gif" width="100%" alt="V8 Four-Stroke"></a><br>
 <b><a href="https://andreysuperiorgit.github.io/v8/">V8 Four-Stroke</a></b><br>
-<sub>🆕 · <a href="https://x.com/andreysuperior">@andreysuperior</a> · ♥ 73 · <a href="https://x.com/andreysuperior/status/2123928682603430384">▶ 影片</a></sub><br>
+<sub><a href="https://x.com/andreysuperior">@andreysuperior</a> · ♥ 73 · <a href="https://x.com/andreysuperior/status/2123928682603430384">▶ 影片</a></sub><br>
 <sub>瀏覽器分頁裡一台能催油門的 7.0 升 V8：活塞、曲軸、凸輪軸和 16 個氣門依真實尺寸運動，轉速越高排氣頭段越紅。一個 124 KB 的 HTML 檔，1 句提示詞加 23 次追問。</sub>
 </td>
 </tr>
 <tr>
+<td width="33%" valign="top">
+<a href="https://hashem-al-ghaili.github.io/music-maker/"><img src="../assets/gifs/383.gif" width="100%" alt="Music Maker — 在空氣中彈奏的樂器"></a><br>
+<b><a href="https://hashem-al-ghaili.github.io/music-maker/">Music Maker — 在空氣中彈奏的樂器</a></b><br>
+<sub>🆕 · <a href="https://x.com/HashemGhaili">@HashemGhaili</a> · ♥ 63 · <a href="https://x.com/HashemGhaili/status/2124135871293329809">▶ 影片</a></sub><br>
+<sub>打開視訊鏡頭，雙手捏住再拉開，就能在空中拉出一根弦；從 24 種樂器裡選一種，用指尖劃過就能彈奏。還能加鼓點、循環疊軌並錄下成果。</sub><br>
+<sub><a href="https://github.com/Hashem-Al-Ghaili/music-maker">原始碼</a></sub>
+</td>
 <td width="33%" valign="top">
 <a href="https://sael.net/seat-arena"><img src="../assets/gifs/182.gif" width="100%" alt="Best Seat in the House"></a><br>
 <b><a href="https://sael.net/seat-arena">Best Seat in the House</a></b><br>
 <sub><a href="https://x.com/RyanSael">@RyanSael</a> · ♥ 62 · <a href="https://x.com/RyanSael/status/2120544205558915329">▶ 影片</a></sub><br>
 <sub>演唱會座位圖，買票前就能看到每個座位的實際視野。完全可互動。</sub><br>
 <sub><a href="https://fablelist.000ooo.ooo/zh-tw/prompts/?w=best-seat-in-the-house&ref=gh"><b>✨ 取得提示詞</b></a></sub>
-</td>
-<td width="33%" valign="top">
-<a href="https://hashem-al-ghaili.github.io/music-maker/"><img src="../assets/gifs/383.gif" width="100%" alt="Music Maker — 在空氣中彈奏的樂器"></a><br>
-<b><a href="https://hashem-al-ghaili.github.io/music-maker/">Music Maker — 在空氣中彈奏的樂器</a></b><br>
-<sub>🆕 · <a href="https://x.com/HashemGhaili">@HashemGhaili</a> · ♥ 61 · <a href="https://x.com/HashemGhaili/status/2124135871293329809">▶ 影片</a></sub><br>
-<sub>打開視訊鏡頭，雙手捏住再拉開，就能在空中拉出一根弦；從 24 種樂器裡選一種，用指尖劃過就能彈奏。還能加鼓點、循環疊軌並錄下成果。</sub><br>
-<sub><a href="https://github.com/Hashem-Al-Ghaili/music-maker">原始碼</a></sub>
 </td>
 <td width="33%" valign="top">
 <a href="http://promptronic3000.com"><img src="../assets/gifs/358.gif" width="100%" alt="Promptronic 3000 Agent 模組合成器"></a><br>
@@ -295,6 +295,12 @@
 </tr>
 <tr>
 <td width="33%" valign="top">
+<a href="https://andreysuperiorgit.github.io/riemann"><img src="../assets/gifs/381.gif" width="100%" alt="Riemann Hypothesis, live"></a><br>
+<b><a href="https://andreysuperiorgit.github.io/riemann">Riemann Hypothesis, live</a></b><br>
+<sub>🆕 · <a href="https://x.com/andreysuperior">@andreysuperior</a> · ♥ 53 · <a href="https://x.com/andreysuperior/status/2124274426225008910">▶ 影片</a></sub><br>
+<sub>一片可以旋轉的 ζ 函數地形。102 個零點在瀏覽器裡即時找出並驗證，全都落在同一條線上，再加總起來重建質數。單一 HTML 檔，不用任何函式庫。</sub>
+</td>
+<td width="33%" valign="top">
 <a href="https://tetriss22.github.io/pc-build-lab/"><img src="../assets/gifs/147.gif" width="100%" alt="PC Build Lab"></a><br>
 <b><a href="https://tetriss22.github.io/pc-build-lab/">PC Build Lab</a></b><br>
 <sub><a href="https://x.com/Tetriss112">@Tetriss112</a> · ♥ 51 · <a href="https://x.com/Tetriss112/status/2120520587411935288">▶ 影片</a></sub><br>
@@ -302,19 +308,19 @@
 <sub><a href="https://fablelist.000ooo.ooo/zh-tw/prompts/?w=pc-build-lab&ref=gh"><b>✨ 取得提示詞</b></a></sub>
 </td>
 <td width="33%" valign="top">
-<a href="https://andreysuperiorgit.github.io/riemann"><img src="../assets/gifs/381.gif" width="100%" alt="Riemann Hypothesis, live"></a><br>
-<b><a href="https://andreysuperiorgit.github.io/riemann">Riemann Hypothesis, live</a></b><br>
-<sub>🆕 · <a href="https://x.com/andreysuperior">@andreysuperior</a> · ♥ 51 · <a href="https://x.com/andreysuperior/status/2124274426225008910">▶ 影片</a></sub><br>
-<sub>一片可以旋轉的 ζ 函數地形。102 個零點在瀏覽器裡即時找出並驗證，全都落在同一條線上，再加總起來重建質數。單一 HTML 檔，不用任何函式庫。</sub>
+<a href="https://zkevinbai.com/apps/tesla-fsd"><img src="../assets/gifs/394.gif" width="100%" alt="How FSD Drives"></a><br>
+<b><a href="https://zkevinbai.com/apps/tesla-fsd">How FSD Drives</a></b><br>
+<sub>🆕 · <a href="https://x.com/zkevinbai">@zkevinbai</a> · ♥ 32 · <a href="https://x.com/zkevinbai/status/2124626274367005100">▶ 影片</a></sub><br>
+<sub>一套完整的 Tesla FSD 模擬。看看七個鏡頭各自看到什麼，再自己接手方向盤。</sub>
 </td>
+</tr>
+<tr>
 <td width="33%" valign="top">
 <a href="https://claude.ai/artifact/NVWaNUrJK5woiKXQsAQaPG"><img src="../assets/gifs/368.gif" width="100%" alt="Audio-Reactive Dot Surface"></a><br>
 <b><a href="https://claude.ai/artifact/NVWaNUrJK5woiKXQsAQaPG">Audio-Reactive Dot Surface</a></b><br>
 <sub><a href="https://x.com/parhelion318">@parhelion318</a> · ♥ 30 · <a href="https://x.com/parhelion318/status/2123463622252994878">▶ 影片</a></sub><br>
 <sub>一片由點組成、會隨聲音起伏的曲面。用 Fable 5.2 和 Opus 5.5 製作，由 GPT-6.2 Astra 複查。</sub>
 </td>
-</tr>
-<tr>
 <td width="33%" valign="top">
 <a href="https://shiraeisenberg.com/composed-of-nows"><img src="../assets/gifs/365.gif" width="100%" alt="Composed of Nows"></a><br>
 <b><a href="https://shiraeisenberg.com/composed-of-nows">Composed of Nows</a></b><br>
@@ -324,22 +330,22 @@
 <td width="33%" valign="top">
 <a href="https://piano.yoshiyukikoyanagi.com"><img src="../assets/gifs/374.gif" width="100%" alt="Physical Modeling Piano F1"></a><br>
 <b><a href="https://piano.yoshiyukikoyanagi.com">Physical Modeling Piano F1</a></b><br>
-<sub>🆕 · <a href="https://x.com/moutend">@moutend</a> · ♥ 21 · <a href="https://x.com/moutend/status/2123776671501451468">▶ 影片</a></sub><br>
+<sub><a href="https://x.com/moutend">@moutend</a> · ♥ 21 · <a href="https://x.com/moutend/status/2123776671501451468">▶ 影片</a></sub><br>
 <sub>在瀏覽器裡即時算出琴聲的鋼琴。用電腦鍵盤就能彈，還有延音踏板。</sub><br>
 <sub><a href="https://github.com/moutend/physical-modeling-piano-f1">原始碼</a></sub>
 </td>
+</tr>
+<tr>
 <td width="33%" valign="top">
 <a href="https://ember-vesper.aura.build/"><img src="../assets/gifs/366.gif" width="100%" alt="Ember Vesper"></a><br>
 <b><a href="https://ember-vesper.aura.build/">Ember Vesper</a></b><br>
 <sub><a href="https://x.com/titepommee">@titepommee</a> · ♥ 13 · <a href="https://x.com/titepommee/status/2123515807250657457">▶ 影片</a></sub><br>
 <sub>把一台電競主機做成到達頁：往下捲，主機拆解、換燈光、切到熱成像，最後寫出你的訂單小票。只有一個 HTML 檔。</sub>
 </td>
-</tr>
-<tr>
 <td width="33%" valign="top">
 <a href="https://ai.itokoba.com/ichimai/"><img src="../assets/gifs/260.gif" width="100%" alt="Ichimai — 一頁能做到多遠"></a><br>
 <b><a href="https://ai.itokoba.com/ichimai/">Ichimai — 一頁能做到多遠</a></b><br>
-<sub><a href="https://x.com/hideki_climax">@hideki_climax</a> · ♥ 12 · <a href="https://x.com/hideki_climax/status/2120165464722809190">▶ 影片</a></sub><br>
+<sub><a href="https://x.com/hideki_climax">@hideki_climax</a> · ♥ 11 · <a href="https://x.com/hideki_climax/status/2120165464722809190">▶ 影片</a></sub><br>
 <sub>只有一句指令：「做出最強的靜態網頁，展示你現在能做到什麼。」</sub><br>
 <sub><a href="https://x.com/hideki_climax/status/2120165464722809190">📝 作者公開的提示詞（免費）</a></sub>
 </td>
@@ -350,6 +356,8 @@
 <sub>在電晶體級模擬裡，把 Intel 4004 的 2,242 個電晶體逐一弄壞。把游標移到晶片地圖上任一個電晶體，就能看到什麼會失靈。</sub><br>
 <sub><a href="https://github.com/rain-1/intel4004">原始碼</a></sub>
 </td>
+</tr>
+<tr>
 <td width="33%" valign="top">
 <a href="https://jwt-designs-preview.noone-697.workers.dev/"><img src="../assets/gifs/046.gif" width="100%" alt="20 個登陸頁改版"></a><br>
 <b><a href="https://jwt-designs-preview.noone-697.workers.dev/">20 個登陸頁改版</a></b><br>
@@ -357,8 +365,6 @@
 <sub>用一則簡單的提示，為某 JWT 外掛的登陸頁做出 20 種替代方案。</sub><br>
 <sub><a href="https://x.com/Tmeister/status/2119983842841018482">📝 作者公開的提示詞（免費）</a></sub>
 </td>
-</tr>
-<tr>
 <td width="33%" valign="top">
 <a href="https://www.asumacodes.xyz/arena/driftwood"><img src="../assets/gifs/047.gif" width="100%" alt="Driftwood（Fable vs Opus）"></a><br>
 <b><a href="https://www.asumacodes.xyz/arena/driftwood">Driftwood（Fable vs Opus）</a></b><br>
@@ -373,6 +379,8 @@
 <sub><a href="https://x.com/seanaiux">@seanaiux</a> · ♥ 8 · <a href="https://x.com/seanaiux/status/2121688869439455410">▶ 影片</a></sub><br>
 <sub>讓它做一個能嚇到自己的網頁：一隻蜘蛛從黑暗中垂下，捲動頁面一路看牠的巢、眼睛、毒牙和腿，最後你成了那隻蒼蠅。</sub>
 </td>
+</tr>
+<tr>
 <td width="33%" valign="top">
 <a href="https://claude.ai/artifact/TiymxxFXzMo7xhWUaecbzk"><img src="https://pbs.twimg.com/media/HWwrmvIb0AAMLPK.jpg?name=small" width="100%" alt="住宅設計提案"></a><br>
 <b><a href="https://claude.ai/artifact/TiymxxFXzMo7xhWUaecbzk">住宅設計提案</a></b><br>
@@ -380,8 +388,6 @@
 <sub>獨棟住宅的設計提案（韓文），一天內完成。</sub><br>
 <sub><a href="https://fablelist.000ooo.ooo/zh-tw/prompts/?w=house-design-proposal&ref=gh"><b>✨ 取得提示詞</b></a></sub>
 </td>
-</tr>
-<tr>
 <td width="33%" valign="top">
 <a href="https://claude.ai/artifact/9yQkezie4jY3oz2YDLFDiq"><img src="../assets/gifs/040.gif" width="100%" alt="Bay Drum Kit"></a><br>
 <b><a href="https://claude.ai/artifact/9yQkezie4jY3oz2YDLFDiq">Bay Drum Kit</a></b><br>
@@ -396,6 +402,8 @@
 <sub>一次到位。</sub><br>
 <sub><a href="https://fablelist.000ooo.ooo/zh-tw/prompts/?w=dub-techno-track-visualizer&ref=gh"><b>✨ 取得提示詞</b></a></sub>
 </td>
+</tr>
+<tr>
 <td width="33%" valign="top">
 <a href="https://claude.ai/artifact/5ufHvxgvXTf5YgQeTR8TbG"><img src="../assets/gifs/044.gif" width="100%" alt="羅摩衍那家族樹"></a><br>
 <b><a href="https://claude.ai/artifact/5ufHvxgvXTf5YgQeTR8TbG">羅摩衍那家族樹</a></b><br>
@@ -403,8 +411,6 @@
 <sub>男主角與 65 位寶萊塢明星的血緣與姻親關係。</sub><br>
 <sub><a href="https://fablelist.000ooo.ooo/zh-tw/prompts/?w=ramayana-family-tree&ref=gh"><b>✨ 取得提示詞</b></a></sub>
 </td>
-</tr>
-<tr>
 <td width="33%" valign="top">
 <a href="https://claude.ai/artifact/4aEy6FtUi7jrm9U7uYgp8K"><img src="../assets/gifs/042.gif" width="100%" alt="Demoscene Demo"></a><br>
 <b><a href="https://claude.ai/artifact/4aEy6FtUi7jrm9U7uYgp8K">Demoscene Demo</a></b><br>

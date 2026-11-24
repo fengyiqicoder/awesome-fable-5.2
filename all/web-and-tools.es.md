@@ -1,4 +1,4 @@
-# 🧰 Páginas web y herramientas · los 56
+# 🧰 Páginas web y herramientas · los 57
 
 [← Volver a la lista](../README.es.md) · [English](web-and-tools.md) · [简体中文](web-and-tools.zh-CN.md) · [繁體中文](web-and-tools.zh-TW.md) · [日本語](web-and-tools.ja.md) · [한국어](web-and-tools.ko.md) · **Español** · [Português](web-and-tools.pt-BR.md) · [Français](web-and-tools.fr.md) · [Deutsch](web-and-tools.de.md) · [Русский](web-and-tools.ru.md)
 
@@ -87,14 +87,14 @@ La página principal muestra como máximo las 24 entradas con más «me gusta» 
 <td width="33%" valign="top">
 <a href="https://github.com/AlexAtFF/pulp-daw-public"><img src="../assets/gifs/204.gif" width="100%" alt="PULP — un DAW nativo de IA"></a><br>
 <b><a href="https://github.com/AlexAtFF/pulp-daw-public">PULP — un DAW nativo de IA</a></b><br>
-<sub><a href="https://x.com/The_Alex">@The_Alex</a> · ♥ 948 · <a href="https://x.com/The_Alex/status/2119917226769985785">▶ Video</a></sub><br>
+<sub><a href="https://x.com/The_Alex">@The_Alex</a> · ♥ 947 · <a href="https://x.com/The_Alex/status/2119917226769985785">▶ Video</a></sub><br>
 <sub>Una estación de trabajo de audio digital nativa para Windows. Pídele música a Claude y abrirá el DAW y hará la canción.</sub><br>
 <sub><a href="https://fablelist.000ooo.ooo/es/prompts/?w=pulp-an-ai-native-daw&ref=gh"><b>✨ Consigue el prompt</b></a></sub>
 </td>
 <td width="33%" valign="top">
 <a href="https://frontier.every.to/experiments/ambient-town"><img src="../assets/gifs/148.gif" width="100%" alt="Ambient Town"></a><br>
 <b><a href="https://frontier.every.to/experiments/ambient-town">Ambient Town</a></b><br>
-<sub><a href="https://x.com/kieranklaassen">@kieranklaassen</a> · ♥ 897 · <a href="https://x.com/kieranklaassen/status/2119868196773929160">▶ Video</a></sub><br>
+<sub><a href="https://x.com/kieranklaassen">@kieranklaassen</a> · ♥ 896 · <a href="https://x.com/kieranklaassen/status/2119868196773929160">▶ Video</a></sub><br>
 <sub>Un DAW ambient construido en una semana de noches por un excompositor de cine: soporte para Ableton Push, micrófonos, efectos, un sintetizador y un agente que compone contigo. Haz clic en "Try it" en la página.</sub><br>
 <sub><a href="https://fablelist.000ooo.ooo/es/prompts/?w=ambient-town&ref=gh"><b>✨ Consigue el prompt</b></a></sub>
 </td>
@@ -125,7 +125,7 @@ La página principal muestra como máximo las 24 entradas con más «me gusta» 
 <td width="33%" valign="top">
 <a href="https://auden-english-135.netlify.app/"><img src="../assets/gifs/281.gif" width="100%" alt="La clase de poesía perdida de Auden de 1941, reconstruida"></a><br>
 <b><a href="https://auden-english-135.netlify.app/">La clase de poesía perdida de Auden de 1941, reconstruida</a></b><br>
-<sub><a href="https://x.com/emollick">@emollick</a> · ♥ 593 · <a href="https://x.com/emollick/status/2121641417483169934">Publicación</a></sub><br>
+<sub><a href="https://x.com/emollick">@emollick</a> · ♥ 594 · <a href="https://x.com/emollick/status/2121641417483169934">Publicación</a></sub><br>
 <sub>Fable 5.2 reconstruyó la clase de W. H. Auden, "la más difícil de las humanidades", a partir de un libro poco conocido del Internet Archive y notas dispersas.</sub>
 </td>
 <td width="33%" valign="top">
@@ -137,7 +137,7 @@ La página principal muestra como máximo las 24 entradas con más «me gusta» 
 <td width="33%" valign="top">
 <a href="https://claude.ai/artifact/4P1urBdptp6gWiJo3R6Vpv"><img src="../assets/gifs/333.gif" width="100%" alt="Sampler de vídeo breakcore"></a><br>
 <b><a href="https://claude.ai/artifact/4P1urBdptp6gWiJo3R6Vpv">Sampler de vídeo breakcore</a></b><br>
-<sub><a href="https://x.com/parhelion318">@parhelion318</a> · ♥ 543 · <a href="https://x.com/parhelion318/status/2122723067533398064">▶ Video</a></sub><br>
+<sub><a href="https://x.com/parhelion318">@parhelion318</a> · ♥ 542 · <a href="https://x.com/parhelion318/status/2122723067533398064">▶ Video</a></sub><br>
 <sub>Un sampler para el navegador que trocea clips de vídeo y los reordena en ritmos breakcore.</sub>
 </td>
 </tr>
@@ -145,7 +145,7 @@ La página principal muestra como máximo las 24 entradas con más «me gusta» 
 <td width="33%" valign="top">
 <a href="https://www.bubbbly.com/christmas-cards"><img src="../assets/gifs/315.gif" width="100%" alt="Christmas Cards: tarjetas de Navidad interactivas"></a><br>
 <b><a href="https://www.bubbbly.com/christmas-cards">Christmas Cards: tarjetas de Navidad interactivas</a></b><br>
-<sub><a href="https://x.com/ann_nnng">@ann_nnng</a> · ♥ 478 · <a href="https://x.com/ann_nnng/status/2122283549000712249">▶ Video</a></sub><br>
+<sub><a href="https://x.com/ann_nnng">@ann_nnng</a> · ♥ 481 · <a href="https://x.com/ann_nnng/status/2122283549000712249">▶ Video</a></sub><br>
 <sub>Un conjunto de tarjetas de Navidad interactivas, como un gato con bufanda roja en un alféizar viendo caer la nieve.</sub>
 </td>
 <td width="33%" valign="top">
@@ -174,7 +174,7 @@ La página principal muestra como máximo las 24 entradas con más «me gusta» 
 <td width="33%" valign="top">
 <a href="https://rubber-hose-ui.vercel.app"><img src="../assets/gifs/332.gif" width="100%" alt="Rubber Hose UI: controles como dibujos animados de los años 30"></a><br>
 <b><a href="https://rubber-hose-ui.vercel.app">Rubber Hose UI: controles como dibujos animados de los años 30</a></b><br>
-<sub><a href="https://x.com/crtvTeknologist">@crtvTeknologist</a> · ♥ 353 · <a href="https://x.com/crtvTeknologist/status/2122433522166124616">▶ Video</a></sub><br>
+<sub><a href="https://x.com/crtvTeknologist">@crtvTeknologist</a> · ♥ 355 · <a href="https://x.com/crtvTeknologist/status/2122433522166124616">▶ Video</a></sub><br>
 <sub>Once controles web dibujados al estilo rubber hose: el deslizador es un trombón, el toast es una tostadora y al botón le sale un ojo morado con cada pulsación. JS puro y canvas, sin dependencias, de código abierto.</sub><br>
 <sub><a href="https://github.com/finktheartist/rubber-hose-ui">Código fuente</a></sub>
 </td>
@@ -239,7 +239,7 @@ La página principal muestra como máximo las 24 entradas con más «me gusta» 
 <td width="33%" valign="top">
 <a href="https://seats.movie"><img src="../assets/gifs/370.gif" width="100%" alt="seats.movie"></a><br>
 <b><a href="https://seats.movie">seats.movie</a></b><br>
-<sub>🆕 · <a href="https://x.com/sunithvs_">@sunithvs_</a> · ♥ 133 · <a href="https://x.com/sunithvs_/status/2123496822400532982">▶ Video</a></sub><br>
+<sub><a href="https://x.com/sunithvs_">@sunithvs_</a> · ♥ 133 · <a href="https://x.com/sunithvs_/status/2123496822400532982">▶ Video</a></sub><br>
 <sub>Eliges una película y revisa todas las funciones de tu ciudad para encontrar las butacas centrales que siguen libres, con vista 3D desde el asiento. El autor dice que Fable 5.2 trabajó cinco días para construirlo.</sub>
 </td>
 <td width="33%" valign="top">
@@ -267,24 +267,24 @@ La página principal muestra como máximo las 24 entradas con más «me gusta» 
 <td width="33%" valign="top">
 <a href="https://andreysuperiorgit.github.io/v8/"><img src="../assets/gifs/373.gif" width="100%" alt="V8 Four-Stroke"></a><br>
 <b><a href="https://andreysuperiorgit.github.io/v8/">V8 Four-Stroke</a></b><br>
-<sub>🆕 · <a href="https://x.com/andreysuperior">@andreysuperior</a> · ♥ 73 · <a href="https://x.com/andreysuperior/status/2123928682603430384">▶ Video</a></sub><br>
+<sub><a href="https://x.com/andreysuperior">@andreysuperior</a> · ♥ 73 · <a href="https://x.com/andreysuperior/status/2123928682603430384">▶ Video</a></sub><br>
 <sub>Un V8 de 7.0 litros que puedes acelerar en una pestaña del navegador: pistones, cigüeñal, árbol de levas y 16 válvulas se mueven con medidas reales y los colectores se ponen al rojo al subir de vueltas. Un solo HTML de 124 KB, 1 prompt y 23 ajustes.</sub>
 </td>
 </tr>
 <tr>
+<td width="33%" valign="top">
+<a href="https://hashem-al-ghaili.github.io/music-maker/"><img src="../assets/gifs/383.gif" width="100%" alt="Music Maker — un instrumento que se toca en el aire"></a><br>
+<b><a href="https://hashem-al-ghaili.github.io/music-maker/">Music Maker — un instrumento que se toca en el aire</a></b><br>
+<sub>🆕 · <a href="https://x.com/HashemGhaili">@HashemGhaili</a> · ♥ 63 · <a href="https://x.com/HashemGhaili/status/2124135871293329809">▶ Video</a></sub><br>
+<sub>Enciende la webcam, pellizca con las dos manos y sepáralas para tensar una cuerda en el aire, elige uno de 24 instrumentos y pasa la yema del dedo por ella para tocar. Añade ritmos, superpón bucles y graba el resultado.</sub><br>
+<sub><a href="https://github.com/Hashem-Al-Ghaili/music-maker">Código fuente</a></sub>
+</td>
 <td width="33%" valign="top">
 <a href="https://sael.net/seat-arena"><img src="../assets/gifs/182.gif" width="100%" alt="Best Seat in the House"></a><br>
 <b><a href="https://sael.net/seat-arena">Best Seat in the House</a></b><br>
 <sub><a href="https://x.com/RyanSael">@RyanSael</a> · ♥ 62 · <a href="https://x.com/RyanSael/status/2120544205558915329">▶ Video</a></sub><br>
 <sub>Mapas de asientos de conciertos donde ves la vista exacta desde cada asiento antes de comprar. Totalmente interactivo.</sub><br>
 <sub><a href="https://fablelist.000ooo.ooo/es/prompts/?w=best-seat-in-the-house&ref=gh"><b>✨ Consigue el prompt</b></a></sub>
-</td>
-<td width="33%" valign="top">
-<a href="https://hashem-al-ghaili.github.io/music-maker/"><img src="../assets/gifs/383.gif" width="100%" alt="Music Maker — un instrumento que se toca en el aire"></a><br>
-<b><a href="https://hashem-al-ghaili.github.io/music-maker/">Music Maker — un instrumento que se toca en el aire</a></b><br>
-<sub>🆕 · <a href="https://x.com/HashemGhaili">@HashemGhaili</a> · ♥ 61 · <a href="https://x.com/HashemGhaili/status/2124135871293329809">▶ Video</a></sub><br>
-<sub>Enciende la webcam, pellizca con las dos manos y sepáralas para tensar una cuerda en el aire, elige uno de 24 instrumentos y pasa la yema del dedo por ella para tocar. Añade ritmos, superpón bucles y graba el resultado.</sub><br>
-<sub><a href="https://github.com/Hashem-Al-Ghaili/music-maker">Código fuente</a></sub>
 </td>
 <td width="33%" valign="top">
 <a href="http://promptronic3000.com"><img src="../assets/gifs/358.gif" width="100%" alt="Promptronic 3000"></a><br>
@@ -295,6 +295,12 @@ La página principal muestra como máximo las 24 entradas con más «me gusta» 
 </tr>
 <tr>
 <td width="33%" valign="top">
+<a href="https://andreysuperiorgit.github.io/riemann"><img src="../assets/gifs/381.gif" width="100%" alt="Riemann Hypothesis, live"></a><br>
+<b><a href="https://andreysuperiorgit.github.io/riemann">Riemann Hypothesis, live</a></b><br>
+<sub>🆕 · <a href="https://x.com/andreysuperior">@andreysuperior</a> · ♥ 53 · <a href="https://x.com/andreysuperior/status/2124274426225008910">▶ Video</a></sub><br>
+<sub>Un paisaje de la función zeta que puedes girar. 102 ceros se calculan y comprueban en vivo en tu navegador, todos sobre una misma línea, y luego se suman para reconstruir los números primos. Un solo archivo HTML sin bibliotecas.</sub>
+</td>
+<td width="33%" valign="top">
 <a href="https://tetriss22.github.io/pc-build-lab/"><img src="../assets/gifs/147.gif" width="100%" alt="PC Build Lab"></a><br>
 <b><a href="https://tetriss22.github.io/pc-build-lab/">PC Build Lab</a></b><br>
 <sub><a href="https://x.com/Tetriss112">@Tetriss112</a> · ♥ 51 · <a href="https://x.com/Tetriss112/status/2120520587411935288">▶ Video</a></sub><br>
@@ -302,19 +308,19 @@ La página principal muestra como máximo las 24 entradas con más «me gusta» 
 <sub><a href="https://fablelist.000ooo.ooo/es/prompts/?w=pc-build-lab&ref=gh"><b>✨ Consigue el prompt</b></a></sub>
 </td>
 <td width="33%" valign="top">
-<a href="https://andreysuperiorgit.github.io/riemann"><img src="../assets/gifs/381.gif" width="100%" alt="Riemann Hypothesis, live"></a><br>
-<b><a href="https://andreysuperiorgit.github.io/riemann">Riemann Hypothesis, live</a></b><br>
-<sub>🆕 · <a href="https://x.com/andreysuperior">@andreysuperior</a> · ♥ 51 · <a href="https://x.com/andreysuperior/status/2124274426225008910">▶ Video</a></sub><br>
-<sub>Un paisaje de la función zeta que puedes girar. 102 ceros se calculan y comprueban en vivo en tu navegador, todos sobre una misma línea, y luego se suman para reconstruir los números primos. Un solo archivo HTML sin bibliotecas.</sub>
+<a href="https://zkevinbai.com/apps/tesla-fsd"><img src="../assets/gifs/394.gif" width="100%" alt="How FSD Drives"></a><br>
+<b><a href="https://zkevinbai.com/apps/tesla-fsd">How FSD Drives</a></b><br>
+<sub>🆕 · <a href="https://x.com/zkevinbai">@zkevinbai</a> · ♥ 32 · <a href="https://x.com/zkevinbai/status/2124626274367005100">▶ Video</a></sub><br>
+<sub>Una simulación completa del FSD de Tesla. Mira lo que ve cada una de las siete cámaras y luego toma tú el volante.</sub>
 </td>
+</tr>
+<tr>
 <td width="33%" valign="top">
 <a href="https://claude.ai/artifact/NVWaNUrJK5woiKXQsAQaPG"><img src="../assets/gifs/368.gif" width="100%" alt="Audio-Reactive Dot Surface"></a><br>
 <b><a href="https://claude.ai/artifact/NVWaNUrJK5woiKXQsAQaPG">Audio-Reactive Dot Surface</a></b><br>
 <sub><a href="https://x.com/parhelion318">@parhelion318</a> · ♥ 30 · <a href="https://x.com/parhelion318/status/2123463622252994878">▶ Video</a></sub><br>
 <sub>Una superficie hecha de puntos que se mueve con el sonido. Creada con Fable 5.2 y Opus 5.5, revisada por GPT-6.2 Astra.</sub>
 </td>
-</tr>
-<tr>
 <td width="33%" valign="top">
 <a href="https://shiraeisenberg.com/composed-of-nows"><img src="../assets/gifs/365.gif" width="100%" alt="Composed of Nows"></a><br>
 <b><a href="https://shiraeisenberg.com/composed-of-nows">Composed of Nows</a></b><br>
@@ -324,22 +330,22 @@ La página principal muestra como máximo las 24 entradas con más «me gusta» 
 <td width="33%" valign="top">
 <a href="https://piano.yoshiyukikoyanagi.com"><img src="../assets/gifs/374.gif" width="100%" alt="Physical Modeling Piano F1"></a><br>
 <b><a href="https://piano.yoshiyukikoyanagi.com">Physical Modeling Piano F1</a></b><br>
-<sub>🆕 · <a href="https://x.com/moutend">@moutend</a> · ♥ 21 · <a href="https://x.com/moutend/status/2123776671501451468">▶ Video</a></sub><br>
+<sub><a href="https://x.com/moutend">@moutend</a> · ♥ 21 · <a href="https://x.com/moutend/status/2123776671501451468">▶ Video</a></sub><br>
 <sub>Un piano que calcula su sonido en tiempo real en tu navegador. Se toca con el teclado del ordenador e incluye pedal de sustain.</sub><br>
 <sub><a href="https://github.com/moutend/physical-modeling-piano-f1">Código fuente</a></sub>
 </td>
+</tr>
+<tr>
 <td width="33%" valign="top">
 <a href="https://ember-vesper.aura.build/"><img src="../assets/gifs/366.gif" width="100%" alt="Ember Vesper"></a><br>
 <b><a href="https://ember-vesper.aura.build/">Ember Vesper</a></b><br>
 <sub><a href="https://x.com/titepommee">@titepommee</a> · ♥ 13 · <a href="https://x.com/titepommee/status/2123515807250657457">▶ Video</a></sub><br>
 <sub>Un PC gamer convertido en landing page: al hacer scroll se desmonta, cambia su brillo, pasa a cámara térmica y escribe tu ticket de pedido. Un solo archivo HTML.</sub>
 </td>
-</tr>
-<tr>
 <td width="33%" valign="top">
 <a href="https://ai.itokoba.com/ichimai/"><img src="../assets/gifs/260.gif" width="100%" alt="Ichimai — hasta dónde llega una sola página"></a><br>
 <b><a href="https://ai.itokoba.com/ichimai/">Ichimai — hasta dónde llega una sola página</a></b><br>
-<sub><a href="https://x.com/hideki_climax">@hideki_climax</a> · ♥ 12 · <a href="https://x.com/hideki_climax/status/2120165464722809190">▶ Video</a></sub><br>
+<sub><a href="https://x.com/hideki_climax">@hideki_climax</a> · ♥ 11 · <a href="https://x.com/hideki_climax/status/2120165464722809190">▶ Video</a></sub><br>
 <sub>Una sola instrucción: "haz la página web estática más potente que muestre lo que puedes hacer ahora".</sub><br>
 <sub><a href="https://x.com/hideki_climax/status/2120165464722809190">📝 Prompt del creador (gratis)</a></sub>
 </td>
@@ -350,6 +356,8 @@ La página principal muestra como máximo las 24 entradas con más «me gusta» 
 <sub>Cada uno de los 2,242 transistores del Intel 4004 se rompió, uno por uno, en una simulación a nivel de transistor. Pasa el cursor sobre cualquier transistor del mapa del chip para ver qué deja de funcionar.</sub><br>
 <sub><a href="https://github.com/rain-1/intel4004">Código fuente</a></sub>
 </td>
+</tr>
+<tr>
 <td width="33%" valign="top">
 <a href="https://jwt-designs-preview.noone-697.workers.dev/"><img src="../assets/gifs/046.gif" width="100%" alt="20 rediseños de landing page"></a><br>
 <b><a href="https://jwt-designs-preview.noone-697.workers.dev/">20 rediseños de landing page</a></b><br>
@@ -357,8 +365,6 @@ La página principal muestra como máximo las 24 entradas con más «me gusta» 
 <sub>20 alternativas a la landing page de un plugin de JWT a partir de un prompt simple.</sub><br>
 <sub><a href="https://x.com/Tmeister/status/2119983842841018482">📝 Prompt del creador (gratis)</a></sub>
 </td>
-</tr>
-<tr>
 <td width="33%" valign="top">
 <a href="https://www.asumacodes.xyz/arena/driftwood"><img src="../assets/gifs/047.gif" width="100%" alt="Driftwood (Fable vs Opus)"></a><br>
 <b><a href="https://www.asumacodes.xyz/arena/driftwood">Driftwood (Fable vs Opus)</a></b><br>
@@ -373,6 +379,8 @@ La página principal muestra como máximo las 24 entradas con más «me gusta» 
 <sub><a href="https://x.com/seanaiux">@seanaiux</a> · ♥ 8 · <a href="https://x.com/seanaiux/status/2121688869439455410">▶ Video</a></sub><br>
 <sub>Pidió una web que le diera miedo: una araña baja desde la oscuridad y el scroll la sigue por su guarida, sus ojos, sus colmillos y sus patas hasta que tú eres la mosca.</sub>
 </td>
+</tr>
+<tr>
 <td width="33%" valign="top">
 <a href="https://claude.ai/artifact/TiymxxFXzMo7xhWUaecbzk"><img src="https://pbs.twimg.com/media/HWwrmvIb0AAMLPK.jpg?name=small" width="100%" alt="Propuesta de diseño de casa"></a><br>
 <b><a href="https://claude.ai/artifact/TiymxxFXzMo7xhWUaecbzk">Propuesta de diseño de casa</a></b><br>
@@ -380,8 +388,6 @@ La página principal muestra como máximo las 24 entradas con más «me gusta» 
 <sub>Una propuesta de diseño para una casa unifamiliar (en coreano), hecha en un día.</sub><br>
 <sub><a href="https://fablelist.000ooo.ooo/es/prompts/?w=house-design-proposal&ref=gh"><b>✨ Consigue el prompt</b></a></sub>
 </td>
-</tr>
-<tr>
 <td width="33%" valign="top">
 <a href="https://claude.ai/artifact/9yQkezie4jY3oz2YDLFDiq"><img src="../assets/gifs/040.gif" width="100%" alt="Bay Drum Kit"></a><br>
 <b><a href="https://claude.ai/artifact/9yQkezie4jY3oz2YDLFDiq">Bay Drum Kit</a></b><br>
@@ -396,6 +402,8 @@ La página principal muestra como máximo las 24 entradas con más «me gusta» 
 <sub>Un intento.</sub><br>
 <sub><a href="https://fablelist.000ooo.ooo/es/prompts/?w=dub-techno-track-visualizer&ref=gh"><b>✨ Consigue el prompt</b></a></sub>
 </td>
+</tr>
+<tr>
 <td width="33%" valign="top">
 <a href="https://claude.ai/artifact/5ufHvxgvXTf5YgQeTR8TbG"><img src="../assets/gifs/044.gif" width="100%" alt="Ramayana Family Tree"></a><br>
 <b><a href="https://claude.ai/artifact/5ufHvxgvXTf5YgQeTR8TbG">Ramayana Family Tree</a></b><br>
@@ -403,8 +411,6 @@ La página principal muestra como máximo las 24 entradas con más «me gusta» 
 <sub>Los lazos de sangre y matrimonio del actor principal con 65 estrellas de Bollywood.</sub><br>
 <sub><a href="https://fablelist.000ooo.ooo/es/prompts/?w=ramayana-family-tree&ref=gh"><b>✨ Consigue el prompt</b></a></sub>
 </td>
-</tr>
-<tr>
 <td width="33%" valign="top">
 <a href="https://claude.ai/artifact/4aEy6FtUi7jrm9U7uYgp8K"><img src="../assets/gifs/042.gif" width="100%" alt="Demoscene Demo"></a><br>
 <b><a href="https://claude.ai/artifact/4aEy6FtUi7jrm9U7uYgp8K">Demoscene Demo</a></b><br>
