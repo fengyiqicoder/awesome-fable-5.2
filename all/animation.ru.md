@@ -44,7 +44,7 @@
 <td width="33%" valign="top">
 <a href="https://github.com/Leonxlnx/mechanical-moon"><img src="../assets/gifs/336.gif" width="100%" alt="Mechanical Moon"></a><br>
 <b><a href="https://github.com/Leonxlnx/mechanical-moon">Mechanical Moon</a></b><br>
-<sub><a href="https://x.com/LexnLin">@LexnLin</a> · ♥ 352 · <a href="https://x.com/LexnLin/status/2122823164635881853">▶ Видео</a></sub><br>
+<sub><a href="https://x.com/LexnLin">@LexnLin</a> · ♥ 353 · <a href="https://x.com/LexnLin/status/2122823164635881853">▶ Видео</a></sub><br>
 <sub>45-секундный процедурный фильм в Blender: расколотая луна с золотой часовой мегаструктурой внутри, полностью собранная Python-скриптами и отрендеренная в EEVEE.</sub>
 </td>
 </tr>
@@ -87,7 +87,7 @@
 <td width="33%" valign="top">
 <a href="https://github.com/ChetasLua/the-last-good-pelican-fable-5.2"><img src="../assets/gifs/352.gif" width="100%" alt="The Last Good Pelican"></a><br>
 <b><a href="https://github.com/ChetasLua/the-last-good-pelican-fable-5.2">The Last Good Pelican</a></b><br>
-<sub><a href="https://x.com/chetaslua">@chetaslua</a> · ♥ 143 · <a href="https://x.com/chetaslua/status/2123100140189958401">▶ Видео</a></sub><br>
+<sub><a href="https://x.com/chetaslua">@chetaslua</a> · ♥ 144 · <a href="https://x.com/chetaslua/status/2123100140189958401">▶ Видео</a></sub><br>
 <sub>60-секундная короткометражка в рисованном стиле в одном офлайн-файле HTML: один день из жизни единственного бенчмарк-пеликана, который получился правильно. Вся графика на Canvas 2D, весь звук на Web Audio.</sub>
 </td>
 </tr>

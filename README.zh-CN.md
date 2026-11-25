@@ -5,9 +5,9 @@
 <h3>用 Claude Fable 5.2 做出来、能直接打开玩的东西</h3>
 
 [![Awesome](https://awesome.re/badge.svg)](https://awesome.re)
-[![Works](https://img.shields.io/badge/可打开作品-240-6b4eff)](#-游戏)
-[![Demos](https://img.shields.io/badge/视频演示-152-ff7a59)](#-只有视频)
-[![Links checked](https://img.shields.io/badge/链接实测-2026--11--24-2ea44f)](#-投稿)
+[![Works](https://img.shields.io/badge/可打开作品-244-6b4eff)](#-游戏)
+[![Demos](https://img.shields.io/badge/视频演示-153-ff7a59)](#-只有视频)
+[![Links checked](https://img.shields.io/badge/链接实测-2026--11--25-2ea44f)](#-投稿)
 [![License: CC0-1.0](https://img.shields.io/badge/License-CC0_1.0-lightgrey.svg)](LICENSE)
 
 [English](README.md) · **简体中文** · [繁體中文](README.zh-TW.md) · [日本語](README.ja.md) · [한국어](README.ko.md) · [Español](README.es.md) · [Português](README.pt-BR.md) · [Français](README.fr.md) · [Deutsch](README.de.md) · [Русский](README.ru.md)
@@ -16,11 +16,11 @@
 
 </div>
 
-240 个能直接打开的作品 + 152 个视频演示，都是用 Claude Fable 5.2 做的，链接 2026-11-24 实测过。每天更新，觉得有用就点个 ⭐。
+244 个能直接打开的作品 + 153 个视频演示，都是用 Claude Fable 5.2 做的，链接 2026-11-25 实测过。每天更新，觉得有用就点个 ⭐。
 
 ## 📑 目录
 
-[⭐ 最受欢迎](#-最受欢迎) · [🆕 最新](#-最新) · [🎮 游戏](#-游戏) 113 · [🌍 3D 世界与场景](#-3d-世界与场景) 51 · [🧰 网页与工具](#-网页与工具) 57 · [🎬 动画与短片（附源码）](#-动画与短片附源码) 19 · [📺 只有视频](#-只有视频) 152 · [🤝 投稿](#-投稿)
+[⭐ 最受欢迎](#-最受欢迎) · [🆕 最新](#-最新) · [🎮 游戏](#-游戏) 116 · [🌍 3D 世界与场景](#-3d-世界与场景) 52 · [🧰 网页与工具](#-网页与工具) 57 · [🎬 动画与短片（附源码）](#-动画与短片附源码) 19 · [📺 只有视频](#-只有视频) 153 · [🤝 投稿](#-投稿)
 
 ## ⭐ 最受欢迎
 
@@ -80,23 +80,23 @@
 <table>
 <tr>
 <td width="33%" valign="top">
-<a href="https://thaxnay.com/ramayana/"><img src="assets/gifs/389.gif" width="100%" alt="Ramayana: The Sacred Fires 罗摩衍那动作冒险"></a><br>
-<b><a href="https://thaxnay.com/ramayana/">Ramayana: The Sacred Fires 罗摩衍那动作冒险</a></b><br>
-<sub>🆕 · <a href="https://x.com/Thaxnay">@Thaxnay</a> · ♥ 973 · <a href="https://x.com/Thaxnay/status/2124574054296219939">▶ 视频</a></sub><br>
-<sub>扮演罗摩在开阔山谷里守护修行的仙人、找隐藏彩蛋的第三人称动作游戏，电脑和手机浏览器都能玩</sub>
-</td>
-<td width="33%" valign="top">
 <a href="https://kevintngo.github.io/cinderwatch/"><img src="assets/gifs/398.gif" width="100%" alt="Cinderwatch 单文件塔防"></a><br>
 <b><a href="https://kevintngo.github.io/cinderwatch/">Cinderwatch 单文件塔防</a></b><br>
-<sub>🆕 · <a href="https://x.com/kevin_t_ngo">@kevin_t_ngo</a> · ♥ 960 · <a href="https://x.com/kevin_t_ngo/status/2125119969109418333">▶ 视频</a></sub><br>
+<sub>🆕 · <a href="https://x.com/kevin_t_ngo">@kevin_t_ngo</a> · ♥ 1.8k · <a href="https://x.com/kevin_t_ngo/status/2125119969109418333">▶ 视频</a></sub><br>
 <sub>整个游戏只有一个 HTML 文件的 3D 等距视角塔防，内置 AI 指挥官可以自动布防，浏览器打开就能玩，已开源</sub><br>
 <sub><a href="https://github.com/kevintngo/cinderwatch">源码</a></sub>
 </td>
 <td width="33%" valign="top">
-<a href="https://ebb.tesana.com"><img src="assets/gifs/379.gif" width="100%" alt="EBB 变形水滴物理平台解谜"></a><br>
-<b><a href="https://ebb.tesana.com">EBB 变形水滴物理平台解谜</a></b><br>
-<sub>🆕 · <a href="https://x.com/Rubzem">@Rubzem</a> · ♥ 683 · <a href="https://x.com/Rubzem/status/2124142554371502140">▶ 视频</a></sub><br>
-<sub>扮演一团能融化、结冰、飘起来的水去解谜的物理平台游戏；全程序化生成，只有 190 KB，一小时做完</sub>
+<a href="https://thaxnay.com/ramayana/"><img src="assets/gifs/389.gif" width="100%" alt="Ramayana: The Sacred Fires 罗摩衍那动作冒险"></a><br>
+<b><a href="https://thaxnay.com/ramayana/">Ramayana: The Sacred Fires 罗摩衍那动作冒险</a></b><br>
+<sub>🆕 · <a href="https://x.com/Thaxnay">@Thaxnay</a> · ♥ 977 · <a href="https://x.com/Thaxnay/status/2124574054296219939">▶ 视频</a></sub><br>
+<sub>扮演罗摩在开阔山谷里守护修行的仙人、找隐藏彩蛋的第三人称动作游戏，电脑和手机浏览器都能玩</sub>
+</td>
+<td width="33%" valign="top">
+<a href="https://patch.gg/play/blendi/the-blue-hour"><img src="assets/gifs/387.gif" width="100%" alt="The Blue Hour 装饰艺术风的夜色城市"></a><br>
+<b><a href="https://patch.gg/play/blendi/the-blue-hour">The Blue Hour 装饰艺术风的夜色城市</a></b><br>
+<sub><a href="https://x.com/BlendiByl">@BlendiByl</a> · ♥ 637 · <a href="https://x.com/BlendiByl/status/2124439671006748853">▶ 视频</a></sub><br>
+<sub>照着《蝙蝠侠》动画版的装饰艺术风格做的 3D 场景，全部由代码画出；开源</sub>
 </td>
 </tr>
 </table>
@@ -198,6 +198,13 @@
 </tr>
 <tr>
 <td width="33%" valign="top">
+<a href="https://kevintngo.github.io/cinderwatch/"><img src="assets/gifs/398.gif" width="100%" alt="Cinderwatch 单文件塔防"></a><br>
+<b><a href="https://kevintngo.github.io/cinderwatch/">Cinderwatch 单文件塔防</a></b><br>
+<sub>🆕 · <a href="https://x.com/kevin_t_ngo">@kevin_t_ngo</a> · ♥ 1.8k · <a href="https://x.com/kevin_t_ngo/status/2125119969109418333">▶ 视频</a></sub><br>
+<sub>整个游戏只有一个 HTML 文件的 3D 等距视角塔防，内置 AI 指挥官可以自动布防，浏览器打开就能玩，已开源</sub><br>
+<sub><a href="https://github.com/kevintngo/cinderwatch">源码</a></sub>
+</td>
+<td width="33%" valign="top">
 <a href="https://loktar00.github.io/lanternfall/"><img src="assets/gifs/128.gif" width="100%" alt="LANTERNFALL"></a><br>
 <b><a href="https://loktar00.github.io/lanternfall/">LANTERNFALL</a></b><br>
 <sub><a href="https://x.com/loktar00">@loktar00</a> · ♥ 1.4k · <a href="https://x.com/loktar00/status/2120192761542615271">▶ 视频</a></sub><br>
@@ -210,14 +217,14 @@
 <sub><a href="https://x.com/aniketjart">@aniketjart</a> · ♥ 1.4k · <a href="https://x.com/aniketjart/status/2121793239175119279">▶ 视频</a></sub><br>
 <sub>照着龙珠红缎带军篇做的同人动作游戏，three.js 写的，目前能玩前两张地图</sub>
 </td>
+</tr>
+<tr>
 <td width="33%" valign="top">
 <a href="https://heat.pplx.app"><img src="assets/gifs/313.gif" width="100%" alt="VICE '86 霓虹 1986 迈阿密开放世界驾驶"></a><br>
 <b><a href="https://heat.pplx.app">VICE '86 霓虹 1986 迈阿密开放世界驾驶</a></b><br>
 <sub><a href="https://x.com/AravSrinivas">@AravSrinivas</a> · ♥ 1.3k · <a href="https://x.com/AravSrinivas/status/2122338465648103676">▶ 视频</a></sub><br>
 <sub>浏览器里跑的开放世界驾驶游戏，没用游戏引擎和 three.js，自己写的 WebGL2 渲染器，城市、车、雨和引擎声全是代码生成，约 6.3 万行 JavaScript</sub>
 </td>
-</tr>
-<tr>
 <td width="33%" valign="top">
 <a href="https://op7418.github.io/guizang-game-skill/"><img src="assets/gifs/131.gif" width="100%" alt="雾锁山门 3D 动作游戏"></a><br>
 <b><a href="https://op7418.github.io/guizang-game-skill/">雾锁山门 3D 动作游戏</a></b><br>
@@ -233,26 +240,19 @@
 <sub><a href="https://x.com/chongdashu/status/2120310120509014219">制作过程</a></sub><br>
 <sub><a href="https://fablelist.000ooo.ooo/zh/prompts/?w=rooftop-rally-pickleball-in-unreal-5-9&ref=gh"><b>✨ 获取提示词</b></a></sub>
 </td>
-<td width="33%" valign="top">
-<a href="https://gtashenzhen.com"><img src="assets/gifs/377.gif" width="100%" alt="GTA Shenzhen GTA 版深圳全城"></a><br>
-<b><a href="https://gtashenzhen.com">GTA Shenzhen GTA 版深圳全城</a></b><br>
-<sub>🆕 · <a href="https://x.com/KinGao476942">@KinGao476942</a> · ♥ 1.0k · <a href="https://x.com/KinGao476942/status/2123967104601014521">▶ 视频</a></sub><br>
-<sub>按 OSM 实景数据建出的深圳全城：8.3 万栋楼、6.2 万条路，能在天上飞、落地开车、搜地点导航，晚上还能开全城灯光秀；Fable 5.2 加 Tripo 做了三天</sub>
-</td>
 </tr>
 <tr>
 <td width="33%" valign="top">
-<a href="https://thaxnay.com/ramayana/"><img src="assets/gifs/389.gif" width="100%" alt="Ramayana: The Sacred Fires 罗摩衍那动作冒险"></a><br>
-<b><a href="https://thaxnay.com/ramayana/">Ramayana: The Sacred Fires 罗摩衍那动作冒险</a></b><br>
-<sub>🆕 · <a href="https://x.com/Thaxnay">@Thaxnay</a> · ♥ 973 · <a href="https://x.com/Thaxnay/status/2124574054296219939">▶ 视频</a></sub><br>
-<sub>扮演罗摩在开阔山谷里守护修行的仙人、找隐藏彩蛋的第三人称动作游戏，电脑和手机浏览器都能玩</sub>
+<a href="https://gtashenzhen.com"><img src="assets/gifs/377.gif" width="100%" alt="GTA Shenzhen GTA 版深圳全城"></a><br>
+<b><a href="https://gtashenzhen.com">GTA Shenzhen GTA 版深圳全城</a></b><br>
+<sub><a href="https://x.com/KinGao476942">@KinGao476942</a> · ♥ 1.0k · <a href="https://x.com/KinGao476942/status/2123967104601014521">▶ 视频</a></sub><br>
+<sub>按 OSM 实景数据建出的深圳全城：8.3 万栋楼、6.2 万条路，能在天上飞、落地开车、搜地点导航，晚上还能开全城灯光秀；Fable 5.2 加 Tripo 做了三天</sub>
 </td>
 <td width="33%" valign="top">
-<a href="https://kevintngo.github.io/cinderwatch/"><img src="assets/gifs/398.gif" width="100%" alt="Cinderwatch 单文件塔防"></a><br>
-<b><a href="https://kevintngo.github.io/cinderwatch/">Cinderwatch 单文件塔防</a></b><br>
-<sub>🆕 · <a href="https://x.com/kevin_t_ngo">@kevin_t_ngo</a> · ♥ 960 · <a href="https://x.com/kevin_t_ngo/status/2125119969109418333">▶ 视频</a></sub><br>
-<sub>整个游戏只有一个 HTML 文件的 3D 等距视角塔防，内置 AI 指挥官可以自动布防，浏览器打开就能玩，已开源</sub><br>
-<sub><a href="https://github.com/kevintngo/cinderwatch">源码</a></sub>
+<a href="https://thaxnay.com/ramayana/"><img src="assets/gifs/389.gif" width="100%" alt="Ramayana: The Sacred Fires 罗摩衍那动作冒险"></a><br>
+<b><a href="https://thaxnay.com/ramayana/">Ramayana: The Sacred Fires 罗摩衍那动作冒险</a></b><br>
+<sub>🆕 · <a href="https://x.com/Thaxnay">@Thaxnay</a> · ♥ 977 · <a href="https://x.com/Thaxnay/status/2124574054296219939">▶ 视频</a></sub><br>
+<sub>扮演罗摩在开阔山谷里守护修行的仙人、找隐藏彩蛋的第三人称动作游戏，电脑和手机浏览器都能玩</sub>
 </td>
 <td width="33%" valign="top">
 <a href="https://claude.ai/artifact/MXxb36zKgN261ckbGhmNin"><img src="assets/gifs/002.gif" width="100%" alt="Three Games 合集页（Saltline / 钟表匠之心 / Tidewright）"></a><br>
@@ -267,7 +267,7 @@
 <td width="33%" valign="top">
 <a href="https://patch.gg/play/blendi/solar"><img src="assets/gifs/323.gif" width="100%" alt="Solar 可以飞来飞去的迷你太阳系"></a><br>
 <b><a href="https://patch.gg/play/blendi/solar">Solar 可以飞来飞去的迷你太阳系</a></b><br>
-<sub><a href="https://x.com/BlendiByl">@BlendiByl</a> · ♥ 801 · <a href="https://x.com/BlendiByl/status/2122673770607591855">▶ 视频</a></sub><br>
+<sub><a href="https://x.com/BlendiByl">@BlendiByl</a> · ♥ 800 · <a href="https://x.com/BlendiByl/status/2122673770607591855">▶ 视频</a></sub><br>
 <sub>受《星际拓荒》启发：真实轨道和引力，行星之间一路连续飞行，星球全由代码画出；开源</sub>
 </td>
 <td width="33%" valign="top">
@@ -280,14 +280,14 @@
 <td width="33%" valign="top">
 <a href="https://www.spawn.co/@mattshumer/voxel-engine"><img src="assets/gifs/004.gif" width="100%" alt="体素引擎"></a><br>
 <b><a href="https://www.spawn.co/@mattshumer/voxel-engine">体素引擎</a></b><br>
-<sub><a href="https://x.com/mattshumer_">@mattshumer_</a> · ♥ 743 · <a href="https://x.com/mattshumer_/status/2119870965106483384">▶ 视频</a></sub><br>
+<sub><a href="https://x.com/mattshumer_">@mattshumer_</a> · ♥ 744 · <a href="https://x.com/mattshumer_/status/2119870965106483384">▶ 视频</a></sub><br>
 <sub>一条提示词生成，要开声音</sub><br>
 <sub><a href="https://fablelist.000ooo.ooo/zh/prompts/?w=voxel-engine&ref=gh"><b>✨ 获取提示词</b></a></sub>
 </td>
 </tr>
 </table>
 
-<p align="center"><b><a href="all/games.zh-CN.md">查看全部 113 个 →</a></b></p>
+<p align="center"><b><a href="all/games.zh-CN.md">查看全部 116 个 →</a></b></p>
 
 <div align="right"><a href="#-目录">↑ 回到目录</a></div>
 
@@ -357,7 +357,7 @@
 <td width="33%" valign="top">
 <a href="https://fable-rover.vercel.app"><img src="assets/gifs/278.gif" width="100%" alt="ER-6 火星车地形探索"></a><br>
 <b><a href="https://fable-rover.vercel.app">ER-6 火星车地形探索</a></b><br>
-<sub><a href="https://x.com/DilumSanjaya">@DilumSanjaya</a> · ♥ 804 · <a href="https://x.com/DilumSanjaya/status/2120561077385867663">▶ 视频</a></sub><br>
+<sub><a href="https://x.com/DilumSanjaya">@DilumSanjaya</a> · ♥ 809 · <a href="https://x.com/DilumSanjaya/status/2120561077385867663">▶ 视频</a></sub><br>
 <sub>让它设计 NASA 火星车那种摇臂-转向架悬挂，再模拟它在外星地形上自动行驶</sub>
 </td>
 </tr>
@@ -371,7 +371,7 @@
 <td width="33%" valign="top">
 <a href="https://patch.gg/play/blendi/the-blue-hour"><img src="assets/gifs/387.gif" width="100%" alt="The Blue Hour 装饰艺术风的夜色城市"></a><br>
 <b><a href="https://patch.gg/play/blendi/the-blue-hour">The Blue Hour 装饰艺术风的夜色城市</a></b><br>
-<sub>🆕 · <a href="https://x.com/BlendiByl">@BlendiByl</a> · ♥ 636 · <a href="https://x.com/BlendiByl/status/2124439671006748853">▶ 视频</a></sub><br>
+<sub><a href="https://x.com/BlendiByl">@BlendiByl</a> · ♥ 637 · <a href="https://x.com/BlendiByl/status/2124439671006748853">▶ 视频</a></sub><br>
 <sub>照着《蝙蝠侠》动画版的装饰艺术风格做的 3D 场景，全部由代码画出；开源</sub>
 </td>
 <td width="33%" valign="top">
@@ -473,7 +473,7 @@
 </tr>
 </table>
 
-<p align="center"><b><a href="all/3d-worlds.zh-CN.md">查看全部 51 个 →</a></b></p>
+<p align="center"><b><a href="all/3d-worlds.zh-CN.md">查看全部 52 个 →</a></b></p>
 
 <div align="right"><a href="#-目录">↑ 回到目录</a></div>
 
@@ -562,14 +562,14 @@
 <td width="33%" valign="top">
 <a href="https://github.com/AlexAtFF/pulp-daw-public"><img src="assets/gifs/204.gif" width="100%" alt="PULP AI 原生音频工作站"></a><br>
 <b><a href="https://github.com/AlexAtFF/pulp-daw-public">PULP AI 原生音频工作站</a></b><br>
-<sub><a href="https://x.com/The_Alex">@The_Alex</a> · ♥ 947 · <a href="https://x.com/The_Alex/status/2119917226769985785">▶ 视频</a></sub><br>
+<sub><a href="https://x.com/The_Alex">@The_Alex</a> · ♥ 948 · <a href="https://x.com/The_Alex/status/2119917226769985785">▶ 视频</a></sub><br>
 <sub>Windows 原生 DAW；让 Claude 做音乐时它会自己打开这个工作站编曲</sub><br>
 <sub><a href="https://fablelist.000ooo.ooo/zh/prompts/?w=pulp-an-ai-native-daw&ref=gh"><b>✨ 获取提示词</b></a></sub>
 </td>
 <td width="33%" valign="top">
 <a href="https://frontier.every.to/experiments/ambient-town"><img src="assets/gifs/148.gif" width="100%" alt="Ambient Town 氛围音乐工作站"></a><br>
 <b><a href="https://frontier.every.to/experiments/ambient-town">Ambient Town 氛围音乐工作站</a></b><br>
-<sub><a href="https://x.com/kieranklaassen">@kieranklaassen</a> · ♥ 895 · <a href="https://x.com/kieranklaassen/status/2119868196773929160">▶ 视频</a></sub><br>
+<sub><a href="https://x.com/kieranklaassen">@kieranklaassen</a> · ♥ 896 · <a href="https://x.com/kieranklaassen/status/2119868196773929160">▶ 视频</a></sub><br>
 <sub>前电影配乐师花一周晚上做的 DAW：支持 Ableton Push、多路麦克风、效果器，还有一起作曲的 Agent；页面里点 Try it</sub><br>
 <sub><a href="https://fablelist.000ooo.ooo/zh/prompts/?w=ambient-town&ref=gh"><b>✨ 获取提示词</b></a></sub>
 </td>
@@ -612,7 +612,7 @@
 <td width="33%" valign="top">
 <a href="https://claude.ai/artifact/4P1urBdptp6gWiJo3R6Vpv"><img src="assets/gifs/333.gif" width="100%" alt="Breakcore 视频采样器"></a><br>
 <b><a href="https://claude.ai/artifact/4P1urBdptp6gWiJo3R6Vpv">Breakcore 视频采样器</a></b><br>
-<sub><a href="https://x.com/parhelion318">@parhelion318</a> · ♥ 541 · <a href="https://x.com/parhelion318/status/2122723067533398064">▶ 视频</a></sub><br>
+<sub><a href="https://x.com/parhelion318">@parhelion318</a> · ♥ 543 · <a href="https://x.com/parhelion318/status/2122723067533398064">▶ 视频</a></sub><br>
 <sub>在浏览器里把视频片段切碎、重排成 breakcore 节奏的采样器</sub>
 </td>
 </tr>
@@ -642,14 +642,14 @@
 <td width="33%" valign="top">
 <a href="https://gsplan.org"><img src="assets/gifs/206.gif" width="100%" alt="加拉塔萨雷球场座位视角"></a><br>
 <b><a href="https://gsplan.org">加拉塔萨雷球场座位视角</a></b><br>
-<sub><a href="https://x.com/molenbeek84">@molenbeek84</a> · ♥ 428 · <a href="https://x.com/molenbeek84/status/2120847639411331097">原帖</a></sub><br>
+<sub><a href="https://x.com/molenbeek84">@molenbeek84</a> · ♥ 429 · <a href="https://x.com/molenbeek84/status/2120847639411331097">原帖</a></sub><br>
 <sub>买票前看 RAMS Park 每个看台位置看到的球场</sub><br>
 <sub><a href="https://fablelist.000ooo.ooo/zh/prompts/?w=galatasaray-seat-view&ref=gh"><b>✨ 获取提示词</b></a></sub>
 </td>
 <td width="33%" valign="top">
 <a href="https://rubber-hose-ui.vercel.app"><img src="assets/gifs/332.gif" width="100%" alt="Rubber Hose UI 1930 年代卡通风控件"></a><br>
 <b><a href="https://rubber-hose-ui.vercel.app">Rubber Hose UI 1930 年代卡通风控件</a></b><br>
-<sub><a href="https://x.com/crtvTeknologist">@crtvTeknologist</a> · ♥ 354 · <a href="https://x.com/crtvTeknologist/status/2122433522166124616">▶ 视频</a></sub><br>
+<sub><a href="https://x.com/crtvTeknologist">@crtvTeknologist</a> · ♥ 355 · <a href="https://x.com/crtvTeknologist/status/2122433522166124616">▶ 视频</a></sub><br>
 <sub>11 个网页控件全是橡皮管卡通角色：滑块是长号，提示框是烤面包机，按钮每按一次多一只黑眼圈；原生 JS 加 canvas，无依赖，开源</sub><br>
 <sub><a href="https://github.com/finktheartist/rubber-hose-ui">源码</a></sub>
 </td>
@@ -708,7 +708,7 @@
 <td width="33%" valign="top">
 <a href="https://github.com/Leonxlnx/mechanical-moon"><img src="assets/gifs/336.gif" width="100%" alt="Mechanical Moon 机械月亮"></a><br>
 <b><a href="https://github.com/Leonxlnx/mechanical-moon">Mechanical Moon 机械月亮</a></b><br>
-<sub><a href="https://x.com/LexnLin">@LexnLin</a> · ♥ 352 · <a href="https://x.com/LexnLin/status/2122823164635881853">▶ 视频</a></sub><br>
+<sub><a href="https://x.com/LexnLin">@LexnLin</a> · ♥ 353 · <a href="https://x.com/LexnLin/status/2122823164635881853">▶ 视频</a></sub><br>
 <sub>45 秒 Blender 程序化短片：裂开的月亮里藏着一座金色发条巨构，全用 Python 脚本搭建，EEVEE 渲染</sub>
 </td>
 </tr>
@@ -751,7 +751,7 @@
 <td width="33%" valign="top">
 <a href="https://github.com/ChetasLua/the-last-good-pelican-fable-5.2"><img src="assets/gifs/352.gif" width="100%" alt="The Last Good Pelican 最后一只画对的鹈鹕"></a><br>
 <b><a href="https://github.com/ChetasLua/the-last-good-pelican-fable-5.2">The Last Good Pelican 最后一只画对的鹈鹕</a></b><br>
-<sub><a href="https://x.com/chetaslua">@chetaslua</a> · ♥ 143 · <a href="https://x.com/chetaslua/status/2123100140189958401">▶ 视频</a></sub><br>
+<sub><a href="https://x.com/chetaslua">@chetaslua</a> · ♥ 144 · <a href="https://x.com/chetaslua/status/2123100140189958401">▶ 视频</a></sub><br>
 <sub>60 秒手绘风短片，一个离线 HTML 文件：每出一个新模型就有一只骑车的鹈鹕被画出来当测试题，这是唯一画对的那只疲惫的一天；画面全用 Canvas 2D，声音全用 Web Audio 合成</sub>
 </td>
 </tr>
@@ -887,7 +887,7 @@
 <td width="33%" valign="top">
 <a href="https://x.com/kevin_t_ngo/status/2123980980994318416"><img src="assets/gifs/384.gif" width="100%" alt="让 Fable 5.2 用 Python 给自己做一副嗓音"></a><br>
 <b><a href="https://x.com/kevin_t_ngo/status/2123980980994318416">让 Fable 5.2 用 Python 给自己做一副嗓音</a></b><br>
-<sub>🆕 · <a href="https://x.com/kevin_t_ngo">@kevin_t_ngo</a> · ♥ 4.4k · <a href="https://x.com/kevin_t_ngo/status/2123980980994318416">▶ 视频</a></sub><br>
+<sub><a href="https://x.com/kevin_t_ngo">@kevin_t_ngo</a> · ♥ 4.4k · <a href="https://x.com/kevin_t_ngo/status/2123980980994318416">▶ 视频</a></sub><br>
 
 </td>
 <td width="33%" valign="top">
@@ -905,11 +905,25 @@
 
 </td>
 <td width="33%" valign="top">
+<a href="https://x.com/iamdavidhill/status/2124986830236106897"><img src="assets/gifs/397.gif" width="100%" alt="OpenCode 设计师做的角色引擎：每场戏是脚本不是画，角色、画风、姿势、神态和设计细节一键切换（同事 @thdxr 说是用原版 opencode 加 Fable 5.2 做的）"></a><br>
+<b><a href="https://x.com/iamdavidhill/status/2124986830236106897">OpenCode 设计师做的角色引擎：每场戏是脚本不是画，角色、画风、姿势、神态和设计细节一键切换（同事 @thdxr 说是用原版 opencode 加 Fable 5.2 做的）</a></b><br>
+<sub>🆕 · <a href="https://x.com/iamdavidhill">@iamdavidhill</a> · ♥ 3.3k · <a href="https://x.com/iamdavidhill/status/2124986830236106897">▶ 视频</a></sub><br>
+
+</td>
+<td width="33%" valign="top">
 <a href="https://x.com/aollivier82/status/2120260208245043663"><img src="assets/gifs/153.gif" width="100%" alt="计算机图形学发展史动画"></a><br>
 <b><a href="https://x.com/aollivier82/status/2120260208245043663">计算机图形学发展史动画</a></b><br>
 <sub><a href="https://x.com/aollivier82">@aollivier82</a> · ♥ 3.2k · <a href="https://x.com/aollivier82/status/2120260208245043663">▶ 视频</a></sub><br>
 <br>
 <sub><a href="https://fablelist.000ooo.ooo/zh/prompts/?w=the-history-of-computer-graphics-animated&ref=gh"><b>✨ 获取提示词</b></a></sub>
+</td>
+</tr>
+<tr>
+<td width="33%" valign="top">
+<a href="https://x.com/Stefan_3D_AI/status/2125143321098264592"><img src="assets/gifs/399.gif" width="100%" alt="一周、6,528 美元的 Fable 5.2 token，在 Unreal Engine 5.9 里从零做出的游戏：五个种族、16 个带战斗的任务、AI 玩家、6 种能滑翔的坐骑"></a><br>
+<b><a href="https://x.com/Stefan_3D_AI/status/2125143321098264592">一周、6,528 美元的 Fable 5.2 token，在 Unreal Engine 5.9 里从零做出的游戏：五个种族、16 个带战斗的任务、AI 玩家、6 种能滑翔的坐骑</a></b><br>
+<sub>🆕 · <a href="https://x.com/Stefan_3D_AI">@Stefan_3D_AI</a> · ♥ 2.8k · <a href="https://x.com/Stefan_3D_AI/status/2125143321098264592">▶ 视频</a></sub><br>
+
 </td>
 <td width="33%" valign="top">
 <a href="https://x.com/M__Houser/status/2120253236309569696"><img src="assets/gifs/154.gif" width="100%" alt="不会写代码的人做的开放世界《Age of Dragon》"></a><br>
@@ -918,20 +932,14 @@
 <br>
 <sub><a href="https://fablelist.000ooo.ooo/zh/prompts/?w=age-of-dragon-an-open-world-by-a&ref=gh"><b>✨ 获取提示词</b></a></sub>
 </td>
-</tr>
-<tr>
-<td width="33%" valign="top">
-<a href="https://x.com/iamdavidhill/status/2124986830236106897"><img src="assets/gifs/397.gif" width="100%" alt="OpenCode 设计师做的角色引擎：每场戏是脚本不是画，角色、画风、姿势、神态和设计细节一键切换（同事 @thdxr 说是用原版 opencode 加 Fable 5.2 做的）"></a><br>
-<b><a href="https://x.com/iamdavidhill/status/2124986830236106897">OpenCode 设计师做的角色引擎：每场戏是脚本不是画，角色、画风、姿势、神态和设计细节一键切换（同事 @thdxr 说是用原版 opencode 加 Fable 5.2 做的）</a></b><br>
-<sub>🆕 · <a href="https://x.com/iamdavidhill">@iamdavidhill</a> · ♥ 2.7k · <a href="https://x.com/iamdavidhill/status/2124986830236106897">▶ 视频</a></sub><br>
-
-</td>
 <td width="33%" valign="top">
 <a href="https://x.com/hayashimon1/status/2121943011525624151"><img src="assets/gifs/311.gif" width="100%" alt="Blender MCP + Fable 5.2 做的 15 秒短片：走过一座老旧车站的月台，建模到渲染全由 AI 写的程序驱动，不是视频生成"></a><br>
 <b><a href="https://x.com/hayashimon1/status/2121943011525624151">Blender MCP + Fable 5.2 做的 15 秒短片：走过一座老旧车站的月台，建模到渲染全由 AI 写的程序驱动，不是视频生成</a></b><br>
 <sub><a href="https://x.com/hayashimon1">@hayashimon1</a> · ♥ 2.6k · <a href="https://x.com/hayashimon1/status/2121943011525624151">▶ 视频</a></sub><br>
 
 </td>
+</tr>
+<tr>
 <td width="33%" valign="top">
 <a href="https://x.com/aecyydesign/status/2120239401821487149"><img src="assets/gifs/209.gif" width="100%" alt="Blender 动画"></a><br>
 <b><a href="https://x.com/aecyydesign/status/2120239401821487149">Blender 动画</a></b><br>
@@ -939,8 +947,6 @@
 <br>
 <sub><a href="https://fablelist.000ooo.ooo/zh/prompts/?w=an-animation-made-with-blender&ref=gh"><b>✨ 获取提示词</b></a></sub>
 </td>
-</tr>
-<tr>
 <td width="33%" valign="top">
 <a href="https://x.com/alexalbert__/status/2119916954337349737"><img src="assets/gifs/062.gif" width="100%" alt="达·芬奇 500 年前笔记本里的发明做成可交互"></a><br>
 <b><a href="https://x.com/alexalbert__/status/2119916954337349737">达·芬奇 500 年前笔记本里的发明做成可交互</a></b><br>
@@ -955,16 +961,10 @@
 <br>
 <sub><a href="https://fablelist.000ooo.ooo/zh/prompts/?w=a-message-to-video-editors&ref=gh"><b>✨ 获取提示词</b></a></sub>
 </td>
-<td width="33%" valign="top">
-<a href="https://x.com/kotaniko98765/status/2122266561960665539"><img src="assets/gifs/340.gif" width="100%" alt="炒股亏到生气，周末用它做的日内交易游戏：复古窗口界面，有 K 线、买卖按钮和助手角色"></a><br>
-<b><a href="https://x.com/kotaniko98765/status/2122266561960665539">炒股亏到生气，周末用它做的日内交易游戏：复古窗口界面，有 K 线、买卖按钮和助手角色</a></b><br>
-<sub><a href="https://x.com/kotaniko98765">@kotaniko98765</a> · ♥ 2.5k · <a href="https://x.com/kotaniko98765/status/2122266561960665539">▶ 视频</a></sub><br>
-
-</td>
 </tr>
 </table>
 
-<p align="center"><b><a href="all/video-demos.zh-CN.md">查看全部 152 个 →</a></b></p>
+<p align="center"><b><a href="all/video-demos.zh-CN.md">查看全部 153 个 →</a></b></p>
 
 ## 🤝 投稿
 
@@ -984,9 +984,9 @@
 
 ## 📰 更新
 
+- **2026-11-25**：新增 4 个可打开作品和 1 个视频演示。
 - **2026-11-24**：新增 4 个可打开作品和 3 个视频演示。
 - **2026-11-23**：新增 4 个可打开作品和 1 个视频演示。
 - **2026-11-22**：新增 10 个可打开作品和 2 个视频演示。
-- **2026-11-21**：新增 7 个可打开作品和 1 个视频演示。
 - **2026-11-10**：每个作品都加上了动图预览。
 - **2026-11-10**：首版，57 个可打开作品 + 61 个视频演示。

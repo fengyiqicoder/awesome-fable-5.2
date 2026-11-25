@@ -5,9 +5,9 @@
 <h3>Claude Fable 5.2로 만든, 바로 열어 즐길 수 있는 작품들</h3>
 
 [![Awesome](https://awesome.re/badge.svg)](https://awesome.re)
-[![Works](https://img.shields.io/badge/작품-240-6b4eff)](#-게임)
-[![Demos](https://img.shields.io/badge/영상_데모-152-ff7a59)](#-영상-데모)
-[![Links checked](https://img.shields.io/badge/링크_확인-2026--11--24-2ea44f)](#-기여하기)
+[![Works](https://img.shields.io/badge/작품-244-6b4eff)](#-게임)
+[![Demos](https://img.shields.io/badge/영상_데모-153-ff7a59)](#-영상-데모)
+[![Links checked](https://img.shields.io/badge/링크_확인-2026--11--25-2ea44f)](#-기여하기)
 [![License: CC0-1.0](https://img.shields.io/badge/License-CC0_1.0-lightgrey.svg)](LICENSE)
 
 [English](README.md) · [简体中文](README.zh-CN.md) · [繁體中文](README.zh-TW.md) · [日本語](README.ja.md) · **한국어** · [Español](README.es.md) · [Português](README.pt-BR.md) · [Français](README.fr.md) · [Deutsch](README.de.md) · [Русский](README.ru.md)
@@ -16,11 +16,11 @@
 
 </div>
 
-Claude Fable 5.2로 만든 작품 240개와 영상 데모 152개, 링크는 2026-11-24에 모두 확인. 매일 업데이트되니 도움이 되면 ⭐ 눌러 주세요.
+Claude Fable 5.2로 만든 작품 244개와 영상 데모 153개, 링크는 2026-11-25에 모두 확인. 매일 업데이트되니 도움이 되면 ⭐ 눌러 주세요.
 
 ## 📑 목차
 
-[⭐ 가장 사랑받은 작품](#-가장-사랑받은-작품) · [🆕 최신](#-최신) · [🎮 게임](#-게임) 113 · [🌍 3D 월드와 장면](#-3d-월드와-장면) 51 · [🧰 웹 페이지와 도구](#-웹-페이지와-도구) 57 · [🎬 애니메이션과 영상](#-애니메이션과-영상) 19 · [📺 영상 데모](#-영상-데모) 152 · [🤝 기여하기](#-기여하기)
+[⭐ 가장 사랑받은 작품](#-가장-사랑받은-작품) · [🆕 최신](#-최신) · [🎮 게임](#-게임) 116 · [🌍 3D 월드와 장면](#-3d-월드와-장면) 52 · [🧰 웹 페이지와 도구](#-웹-페이지와-도구) 57 · [🎬 애니메이션과 영상](#-애니메이션과-영상) 19 · [📺 영상 데모](#-영상-데모) 153 · [🤝 기여하기](#-기여하기)
 
 ## ⭐ 가장 사랑받은 작품
 
@@ -80,23 +80,23 @@ Claude Fable 5.2로 만든 작품 240개와 영상 데모 152개, 링크는 2026
 <table>
 <tr>
 <td width="33%" valign="top">
-<a href="https://thaxnay.com/ramayana/"><img src="assets/gifs/389.gif" width="100%" alt="Ramayana: The Sacred Fires"></a><br>
-<b><a href="https://thaxnay.com/ramayana/">Ramayana: The Sacred Fires</a></b><br>
-<sub>🆕 · <a href="https://x.com/Thaxnay">@Thaxnay</a> · ♥ 973 · <a href="https://x.com/Thaxnay/status/2124574054296219939">▶ 영상</a></sub><br>
-<sub>라마가 되어 탁 트인 계곡을 누비며 현자들을 지키고 숨겨진 비밀을 찾는 3인칭 액션 어드벤처. PC와 모바일 브라우저에서 바로 플레이할 수 있습니다.</sub>
-</td>
-<td width="33%" valign="top">
 <a href="https://kevintngo.github.io/cinderwatch/"><img src="assets/gifs/398.gif" width="100%" alt="Cinderwatch — HTML 파일 하나로 된 타워 디펜스"></a><br>
 <b><a href="https://kevintngo.github.io/cinderwatch/">Cinderwatch — HTML 파일 하나로 된 타워 디펜스</a></b><br>
-<sub>🆕 · <a href="https://x.com/kevin_t_ngo">@kevin_t_ngo</a> · ♥ 960 · <a href="https://x.com/kevin_t_ngo/status/2125119969109418333">▶ 영상</a></sub><br>
+<sub>🆕 · <a href="https://x.com/kevin_t_ngo">@kevin_t_ngo</a> · ♥ 1.8k · <a href="https://x.com/kevin_t_ngo/status/2125119969109418333">▶ 영상</a></sub><br>
 <sub>HTML 파일 하나에 들어가는 3D 아이소메트릭 타워 디펜스. 내장된 AI 지휘관이 방어를 대신 맡아 줄 수도 있다. 오픈소스이며 브라우저에서 바로 플레이할 수 있다.</sub><br>
 <sub><a href="https://github.com/kevintngo/cinderwatch">소스 코드</a></sub>
 </td>
 <td width="33%" valign="top">
-<a href="https://ebb.tesana.com"><img src="assets/gifs/379.gif" width="100%" alt="EBB — 모습을 바꾸는 물 플랫포머"></a><br>
-<b><a href="https://ebb.tesana.com">EBB — 모습을 바꾸는 물 플랫포머</a></b><br>
-<sub>🆕 · <a href="https://x.com/Rubzem">@Rubzem</a> · ♥ 683 · <a href="https://x.com/Rubzem/status/2124142554371502140">▶ 영상</a></sub><br>
-<sub>녹고, 얼고, 떠오르는 물이 되어 퍼즐을 푸는 물리 플랫포머. 전부 절차적으로 생성되며 190 KB, 한 시간 만에 완성.</sub>
+<a href="https://thaxnay.com/ramayana/"><img src="assets/gifs/389.gif" width="100%" alt="Ramayana: The Sacred Fires"></a><br>
+<b><a href="https://thaxnay.com/ramayana/">Ramayana: The Sacred Fires</a></b><br>
+<sub>🆕 · <a href="https://x.com/Thaxnay">@Thaxnay</a> · ♥ 977 · <a href="https://x.com/Thaxnay/status/2124574054296219939">▶ 영상</a></sub><br>
+<sub>라마가 되어 탁 트인 계곡을 누비며 현자들을 지키고 숨겨진 비밀을 찾는 3인칭 액션 어드벤처. PC와 모바일 브라우저에서 바로 플레이할 수 있습니다.</sub>
+</td>
+<td width="33%" valign="top">
+<a href="https://patch.gg/play/blendi/the-blue-hour"><img src="assets/gifs/387.gif" width="100%" alt="The Blue Hour — 아르데코풍 밤의 도시"></a><br>
+<b><a href="https://patch.gg/play/blendi/the-blue-hour">The Blue Hour — 아르데코풍 밤의 도시</a></b><br>
+<sub><a href="https://x.com/BlendiByl">@BlendiByl</a> · ♥ 637 · <a href="https://x.com/BlendiByl/status/2124439671006748853">▶ 영상</a></sub><br>
+<sub>애니메이션 '배트맨' 시리즈의 아르데코 스타일을 살린 3D 장면으로, 전부 코드로 그렸습니다. 오픈 소스.</sub>
 </td>
 </tr>
 </table>
@@ -198,6 +198,13 @@ Claude Fable 5.2로 만든 작품 240개와 영상 데모 152개, 링크는 2026
 </tr>
 <tr>
 <td width="33%" valign="top">
+<a href="https://kevintngo.github.io/cinderwatch/"><img src="assets/gifs/398.gif" width="100%" alt="Cinderwatch — HTML 파일 하나로 된 타워 디펜스"></a><br>
+<b><a href="https://kevintngo.github.io/cinderwatch/">Cinderwatch — HTML 파일 하나로 된 타워 디펜스</a></b><br>
+<sub>🆕 · <a href="https://x.com/kevin_t_ngo">@kevin_t_ngo</a> · ♥ 1.8k · <a href="https://x.com/kevin_t_ngo/status/2125119969109418333">▶ 영상</a></sub><br>
+<sub>HTML 파일 하나에 들어가는 3D 아이소메트릭 타워 디펜스. 내장된 AI 지휘관이 방어를 대신 맡아 줄 수도 있다. 오픈소스이며 브라우저에서 바로 플레이할 수 있다.</sub><br>
+<sub><a href="https://github.com/kevintngo/cinderwatch">소스 코드</a></sub>
+</td>
+<td width="33%" valign="top">
 <a href="https://loktar00.github.io/lanternfall/"><img src="assets/gifs/128.gif" width="100%" alt="LANTERNFALL"></a><br>
 <b><a href="https://loktar00.github.io/lanternfall/">LANTERNFALL</a></b><br>
 <sub><a href="https://x.com/loktar00">@loktar00</a> · ♥ 1.4k · <a href="https://x.com/loktar00/status/2120192761542615271">▶ 영상</a></sub><br>
@@ -210,14 +217,14 @@ Claude Fable 5.2로 만든 작품 240개와 영상 데모 152개, 링크는 2026
 <sub><a href="https://x.com/aniketjart">@aniketjart</a> · ♥ 1.4k · <a href="https://x.com/aniketjart/status/2121793239175119279">▶ 영상</a></sub><br>
 <sub>드래곤볼 레드리본군 편을 바탕으로 three.js로 만든 팬 액션 게임. 제작 중이며 처음 두 맵을 플레이할 수 있습니다.</sub>
 </td>
+</tr>
+<tr>
 <td width="33%" valign="top">
 <a href="https://heat.pplx.app"><img src="assets/gifs/313.gif" width="100%" alt="VICE '86: 네온빛 1986년 마이애미 오픈월드 드라이빙"></a><br>
 <b><a href="https://heat.pplx.app">VICE '86: 네온빛 1986년 마이애미 오픈월드 드라이빙</a></b><br>
 <sub><a href="https://x.com/AravSrinivas">@AravSrinivas</a> · ♥ 1.3k · <a href="https://x.com/AravSrinivas/status/2122338465648103676">▶ 영상</a></sub><br>
 <sub>브라우저에서 돌아가는 오픈월드 드라이빙 게임. 게임 엔진도 three.js도 없이 자체 WebGL2 렌더러를 쓰고, 도시와 자동차, 비, 엔진 소리까지 모두 코드로 생성했다. JavaScript 약 63,000줄.</sub>
 </td>
-</tr>
-<tr>
 <td width="33%" valign="top">
 <a href="https://op7418.github.io/guizang-game-skill/"><img src="assets/gifs/131.gif" width="100%" alt="Mist-Locked Mountain Gate — 3D 액션 게임"></a><br>
 <b><a href="https://op7418.github.io/guizang-game-skill/">Mist-Locked Mountain Gate — 3D 액션 게임</a></b><br>
@@ -233,26 +240,19 @@ Claude Fable 5.2로 만든 작품 240개와 영상 데모 152개, 링크는 2026
 <sub><a href="https://x.com/chongdashu/status/2120310120509014219">제작 과정</a></sub><br>
 <sub><a href="https://fablelist.000ooo.ooo/ko/prompts/?w=rooftop-rally-pickleball-in-unreal-5-9&ref=gh"><b>✨ 프롬프트 받기</b></a></sub>
 </td>
-<td width="33%" valign="top">
-<a href="https://gtashenzhen.com"><img src="assets/gifs/377.gif" width="100%" alt="GTA Shenzhen"></a><br>
-<b><a href="https://gtashenzhen.com">GTA Shenzhen</a></b><br>
-<sub>🆕 · <a href="https://x.com/KinGao476942">@KinGao476942</a> · ♥ 1.0k · <a href="https://x.com/KinGao476942/status/2123967104601014521">▶ 영상</a></sub><br>
-<sub>OpenStreetMap 데이터로 만든 선전 도시 전체. 건물 83,182채, 도로 62,088개. 하늘을 날고, 착지해서 차를 몰고, 원하는 장소를 검색하고, 밤에는 도시 전체 라이트 쇼도 켤 수 있습니다. Fable 5.2와 Tripo로 3일 만에 제작.</sub>
-</td>
 </tr>
 <tr>
 <td width="33%" valign="top">
-<a href="https://thaxnay.com/ramayana/"><img src="assets/gifs/389.gif" width="100%" alt="Ramayana: The Sacred Fires"></a><br>
-<b><a href="https://thaxnay.com/ramayana/">Ramayana: The Sacred Fires</a></b><br>
-<sub>🆕 · <a href="https://x.com/Thaxnay">@Thaxnay</a> · ♥ 973 · <a href="https://x.com/Thaxnay/status/2124574054296219939">▶ 영상</a></sub><br>
-<sub>라마가 되어 탁 트인 계곡을 누비며 현자들을 지키고 숨겨진 비밀을 찾는 3인칭 액션 어드벤처. PC와 모바일 브라우저에서 바로 플레이할 수 있습니다.</sub>
+<a href="https://gtashenzhen.com"><img src="assets/gifs/377.gif" width="100%" alt="GTA Shenzhen"></a><br>
+<b><a href="https://gtashenzhen.com">GTA Shenzhen</a></b><br>
+<sub><a href="https://x.com/KinGao476942">@KinGao476942</a> · ♥ 1.0k · <a href="https://x.com/KinGao476942/status/2123967104601014521">▶ 영상</a></sub><br>
+<sub>OpenStreetMap 데이터로 만든 선전 도시 전체. 건물 83,182채, 도로 62,088개. 하늘을 날고, 착지해서 차를 몰고, 원하는 장소를 검색하고, 밤에는 도시 전체 라이트 쇼도 켤 수 있습니다. Fable 5.2와 Tripo로 3일 만에 제작.</sub>
 </td>
 <td width="33%" valign="top">
-<a href="https://kevintngo.github.io/cinderwatch/"><img src="assets/gifs/398.gif" width="100%" alt="Cinderwatch — HTML 파일 하나로 된 타워 디펜스"></a><br>
-<b><a href="https://kevintngo.github.io/cinderwatch/">Cinderwatch — HTML 파일 하나로 된 타워 디펜스</a></b><br>
-<sub>🆕 · <a href="https://x.com/kevin_t_ngo">@kevin_t_ngo</a> · ♥ 960 · <a href="https://x.com/kevin_t_ngo/status/2125119969109418333">▶ 영상</a></sub><br>
-<sub>HTML 파일 하나에 들어가는 3D 아이소메트릭 타워 디펜스. 내장된 AI 지휘관이 방어를 대신 맡아 줄 수도 있다. 오픈소스이며 브라우저에서 바로 플레이할 수 있다.</sub><br>
-<sub><a href="https://github.com/kevintngo/cinderwatch">소스 코드</a></sub>
+<a href="https://thaxnay.com/ramayana/"><img src="assets/gifs/389.gif" width="100%" alt="Ramayana: The Sacred Fires"></a><br>
+<b><a href="https://thaxnay.com/ramayana/">Ramayana: The Sacred Fires</a></b><br>
+<sub>🆕 · <a href="https://x.com/Thaxnay">@Thaxnay</a> · ♥ 977 · <a href="https://x.com/Thaxnay/status/2124574054296219939">▶ 영상</a></sub><br>
+<sub>라마가 되어 탁 트인 계곡을 누비며 현자들을 지키고 숨겨진 비밀을 찾는 3인칭 액션 어드벤처. PC와 모바일 브라우저에서 바로 플레이할 수 있습니다.</sub>
 </td>
 <td width="33%" valign="top">
 <a href="https://claude.ai/artifact/MXxb36zKgN261ckbGhmNin"><img src="assets/gifs/002.gif" width="100%" alt="Three Games (Saltline · The Clockmaker's Heart · Tidewright)"></a><br>
@@ -267,7 +267,7 @@ Claude Fable 5.2로 만든 작품 240개와 영상 데모 152개, 링크는 2026
 <td width="33%" valign="top">
 <a href="https://patch.gg/play/blendi/solar"><img src="assets/gifs/323.gif" width="100%" alt="Solar — 날아다닐 수 있는 작은 태양계"></a><br>
 <b><a href="https://patch.gg/play/blendi/solar">Solar — 날아다닐 수 있는 작은 태양계</a></b><br>
-<sub><a href="https://x.com/BlendiByl">@BlendiByl</a> · ♥ 801 · <a href="https://x.com/BlendiByl/status/2122673770607591855">▶ 영상</a></sub><br>
+<sub><a href="https://x.com/BlendiByl">@BlendiByl</a> · ♥ 800 · <a href="https://x.com/BlendiByl/status/2122673770607591855">▶ 영상</a></sub><br>
 <sub>Outer Wilds에서 영감을 받았습니다. 실제 궤도와 중력, 행성 사이를 끊김 없이 비행하며 모든 세계를 코드로 그렸습니다. 오픈 소스.</sub>
 </td>
 <td width="33%" valign="top">
@@ -280,14 +280,14 @@ Claude Fable 5.2로 만든 작품 240개와 영상 데모 152개, 링크는 2026
 <td width="33%" valign="top">
 <a href="https://www.spawn.co/@mattshumer/voxel-engine"><img src="assets/gifs/004.gif" width="100%" alt="Voxel Engine"></a><br>
 <b><a href="https://www.spawn.co/@mattshumer/voxel-engine">Voxel Engine</a></b><br>
-<sub><a href="https://x.com/mattshumer_">@mattshumer_</a> · ♥ 743 · <a href="https://x.com/mattshumer_/status/2119870965106483384">▶ 영상</a></sub><br>
+<sub><a href="https://x.com/mattshumer_">@mattshumer_</a> · ♥ 744 · <a href="https://x.com/mattshumer_/status/2119870965106483384">▶ 영상</a></sub><br>
 <sub>프롬프트 한 번으로 제작. 소리를 켜세요.</sub><br>
 <sub><a href="https://fablelist.000ooo.ooo/ko/prompts/?w=voxel-engine&ref=gh"><b>✨ 프롬프트 받기</b></a></sub>
 </td>
 </tr>
 </table>
 
-<p align="center"><b><a href="all/games.ko.md">전체 113개 보기 →</a></b></p>
+<p align="center"><b><a href="all/games.ko.md">전체 116개 보기 →</a></b></p>
 
 <div align="right"><a href="#-목차">↑ 목차로</a></div>
 
@@ -357,7 +357,7 @@ Claude Fable 5.2로 만든 작품 240개와 영상 데모 152개, 링크는 2026
 <td width="33%" valign="top">
 <a href="https://fable-rover.vercel.app"><img src="assets/gifs/278.gif" width="100%" alt="ER-6 Terrain Explorer — 스스로 달리는 화성 탐사차"></a><br>
 <b><a href="https://fable-rover.vercel.app">ER-6 Terrain Explorer — 스스로 달리는 화성 탐사차</a></b><br>
-<sub><a href="https://x.com/DilumSanjaya">@DilumSanjaya</a> · ♥ 804 · <a href="https://x.com/DilumSanjaya/status/2120561077385867663">▶ 영상</a></sub><br>
+<sub><a href="https://x.com/DilumSanjaya">@DilumSanjaya</a> · ♥ 809 · <a href="https://x.com/DilumSanjaya/status/2120561077385867663">▶ 영상</a></sub><br>
 <sub>Fable 5.2가 NASA 화성 탐사차처럼 로커-보기 서스펜션을 설계하고, 외계 지형을 달리는 시뮬레이션까지 만들었습니다.</sub>
 </td>
 </tr>
@@ -371,7 +371,7 @@ Claude Fable 5.2로 만든 작품 240개와 영상 데모 152개, 링크는 2026
 <td width="33%" valign="top">
 <a href="https://patch.gg/play/blendi/the-blue-hour"><img src="assets/gifs/387.gif" width="100%" alt="The Blue Hour — 아르데코풍 밤의 도시"></a><br>
 <b><a href="https://patch.gg/play/blendi/the-blue-hour">The Blue Hour — 아르데코풍 밤의 도시</a></b><br>
-<sub>🆕 · <a href="https://x.com/BlendiByl">@BlendiByl</a> · ♥ 636 · <a href="https://x.com/BlendiByl/status/2124439671006748853">▶ 영상</a></sub><br>
+<sub><a href="https://x.com/BlendiByl">@BlendiByl</a> · ♥ 637 · <a href="https://x.com/BlendiByl/status/2124439671006748853">▶ 영상</a></sub><br>
 <sub>애니메이션 '배트맨' 시리즈의 아르데코 스타일을 살린 3D 장면으로, 전부 코드로 그렸습니다. 오픈 소스.</sub>
 </td>
 <td width="33%" valign="top">
@@ -473,7 +473,7 @@ Claude Fable 5.2로 만든 작품 240개와 영상 데모 152개, 링크는 2026
 </tr>
 </table>
 
-<p align="center"><b><a href="all/3d-worlds.ko.md">전체 51개 보기 →</a></b></p>
+<p align="center"><b><a href="all/3d-worlds.ko.md">전체 52개 보기 →</a></b></p>
 
 <div align="right"><a href="#-목차">↑ 목차로</a></div>
 
@@ -562,14 +562,14 @@ Claude Fable 5.2로 만든 작품 240개와 영상 데모 152개, 링크는 2026
 <td width="33%" valign="top">
 <a href="https://github.com/AlexAtFF/pulp-daw-public"><img src="assets/gifs/204.gif" width="100%" alt="PULP — AI 네이티브 DAW"></a><br>
 <b><a href="https://github.com/AlexAtFF/pulp-daw-public">PULP — AI 네이티브 DAW</a></b><br>
-<sub><a href="https://x.com/The_Alex">@The_Alex</a> · ♥ 947 · <a href="https://x.com/The_Alex/status/2119917226769985785">▶ 영상</a></sub><br>
+<sub><a href="https://x.com/The_Alex">@The_Alex</a> · ♥ 948 · <a href="https://x.com/The_Alex/status/2119917226769985785">▶ 영상</a></sub><br>
 <sub>네이티브 Windows 디지털 오디오 워크스테이션. Claude에게 음악을 요청하면 DAW를 열어 곡을 만들어 줍니다.</sub><br>
 <sub><a href="https://fablelist.000ooo.ooo/ko/prompts/?w=pulp-an-ai-native-daw&ref=gh"><b>✨ 프롬프트 받기</b></a></sub>
 </td>
 <td width="33%" valign="top">
 <a href="https://frontier.every.to/experiments/ambient-town"><img src="assets/gifs/148.gif" width="100%" alt="Ambient Town"></a><br>
 <b><a href="https://frontier.every.to/experiments/ambient-town">Ambient Town</a></b><br>
-<sub><a href="https://x.com/kieranklaassen">@kieranklaassen</a> · ♥ 895 · <a href="https://x.com/kieranklaassen/status/2119868196773929160">▶ 영상</a></sub><br>
+<sub><a href="https://x.com/kieranklaassen">@kieranklaassen</a> · ♥ 896 · <a href="https://x.com/kieranklaassen/status/2119868196773929160">▶ 영상</a></sub><br>
 <sub>전직 영화 작곡가가 일주일 밤 동안 만든 앰비언트 DAW: Ableton Push 지원, 마이크, 이펙트, 신디사이저, 함께 작곡하는 에이전트. 페이지의 "Try it"을 클릭하세요.</sub><br>
 <sub><a href="https://fablelist.000ooo.ooo/ko/prompts/?w=ambient-town&ref=gh"><b>✨ 프롬프트 받기</b></a></sub>
 </td>
@@ -612,7 +612,7 @@ Claude Fable 5.2로 만든 작품 240개와 영상 데모 152개, 링크는 2026
 <td width="33%" valign="top">
 <a href="https://claude.ai/artifact/4P1urBdptp6gWiJo3R6Vpv"><img src="assets/gifs/333.gif" width="100%" alt="Breakcore 비디오 샘플러"></a><br>
 <b><a href="https://claude.ai/artifact/4P1urBdptp6gWiJo3R6Vpv">Breakcore 비디오 샘플러</a></b><br>
-<sub><a href="https://x.com/parhelion318">@parhelion318</a> · ♥ 541 · <a href="https://x.com/parhelion318/status/2122723067533398064">▶ 영상</a></sub><br>
+<sub><a href="https://x.com/parhelion318">@parhelion318</a> · ♥ 543 · <a href="https://x.com/parhelion318/status/2122723067533398064">▶ 영상</a></sub><br>
 <sub>영상 클립을 잘게 잘라 breakcore 리듬으로 재배열하는 브라우저 샘플러.</sub>
 </td>
 </tr>
@@ -642,14 +642,14 @@ Claude Fable 5.2로 만든 작품 240개와 영상 데모 152개, 링크는 2026
 <td width="33%" valign="top">
 <a href="https://gsplan.org"><img src="assets/gifs/206.gif" width="100%" alt="Galatasaray 좌석 시야"></a><br>
 <b><a href="https://gsplan.org">Galatasaray 좌석 시야</a></b><br>
-<sub><a href="https://x.com/molenbeek84">@molenbeek84</a> · ♥ 428 · <a href="https://x.com/molenbeek84/status/2120847639411331097">게시물</a></sub><br>
+<sub><a href="https://x.com/molenbeek84">@molenbeek84</a> · ♥ 429 · <a href="https://x.com/molenbeek84/status/2120847639411331097">게시물</a></sub><br>
 <sub>티켓을 사기 전에 RAMS Park의 모든 블록에서 경기장이 어떻게 보이는지 확인하세요.</sub><br>
 <sub><a href="https://fablelist.000ooo.ooo/ko/prompts/?w=galatasaray-seat-view&ref=gh"><b>✨ 프롬프트 받기</b></a></sub>
 </td>
 <td width="33%" valign="top">
 <a href="https://rubber-hose-ui.vercel.app"><img src="assets/gifs/332.gif" width="100%" alt="Rubber Hose UI: 1930년대 만화 캐릭터 컨트롤"></a><br>
 <b><a href="https://rubber-hose-ui.vercel.app">Rubber Hose UI: 1930년대 만화 캐릭터 컨트롤</a></b><br>
-<sub><a href="https://x.com/crtvTeknologist">@crtvTeknologist</a> · ♥ 354 · <a href="https://x.com/crtvTeknologist/status/2122433522166124616">▶ 영상</a></sub><br>
+<sub><a href="https://x.com/crtvTeknologist">@crtvTeknologist</a> · ♥ 355 · <a href="https://x.com/crtvTeknologist/status/2122433522166124616">▶ 영상</a></sub><br>
 <sub>웹 컨트롤 11개를 러버 호스 만화로 그렸다. 슬라이더는 트롬본, 토스트는 토스터, 버튼은 누를 때마다 눈에 멍이 든다. 순수 JS와 canvas, 의존성 없음, 오픈소스.</sub><br>
 <sub><a href="https://github.com/finktheartist/rubber-hose-ui">소스 코드</a></sub>
 </td>
@@ -708,7 +708,7 @@ Claude Fable 5.2로 만든 작품 240개와 영상 데모 152개, 링크는 2026
 <td width="33%" valign="top">
 <a href="https://github.com/Leonxlnx/mechanical-moon"><img src="assets/gifs/336.gif" width="100%" alt="Mechanical Moon"></a><br>
 <b><a href="https://github.com/Leonxlnx/mechanical-moon">Mechanical Moon</a></b><br>
-<sub><a href="https://x.com/LexnLin">@LexnLin</a> · ♥ 352 · <a href="https://x.com/LexnLin/status/2122823164635881853">▶ 영상</a></sub><br>
+<sub><a href="https://x.com/LexnLin">@LexnLin</a> · ♥ 353 · <a href="https://x.com/LexnLin/status/2122823164635881853">▶ 영상</a></sub><br>
 <sub>갈라진 달 안에 황금빛 태엽 거대 구조물이 들어 있는 45초 프로시저럴 Blender 영상. 전부 Python 스크립트로 만들고 EEVEE로 렌더링.</sub>
 </td>
 </tr>
@@ -751,7 +751,7 @@ Claude Fable 5.2로 만든 작품 240개와 영상 데모 152개, 링크는 2026
 <td width="33%" valign="top">
 <a href="https://github.com/ChetasLua/the-last-good-pelican-fable-5.2"><img src="assets/gifs/352.gif" width="100%" alt="The Last Good Pelican"></a><br>
 <b><a href="https://github.com/ChetasLua/the-last-good-pelican-fable-5.2">The Last Good Pelican</a></b><br>
-<sub><a href="https://x.com/chetaslua">@chetaslua</a> · ♥ 143 · <a href="https://x.com/chetaslua/status/2123100140189958401">▶ 영상</a></sub><br>
+<sub><a href="https://x.com/chetaslua">@chetaslua</a> · ♥ 144 · <a href="https://x.com/chetaslua/status/2123100140189958401">▶ 영상</a></sub><br>
 <sub>오프라인 HTML 파일 하나에 담긴 60초짜리 손그림풍 단편. 벤치마크 펠리컨 중 유일하게 제대로 그려진 한 마리의 하루. 그림은 모두 Canvas 2D, 소리는 모두 Web Audio.</sub>
 </td>
 </tr>
@@ -887,7 +887,7 @@ Claude Fable 5.2로 만든 작품 240개와 영상 데모 152개, 링크는 2026
 <td width="33%" valign="top">
 <a href="https://x.com/kevin_t_ngo/status/2123980980994318416"><img src="assets/gifs/384.gif" width="100%" alt="Fable 5.2가 Python으로 자기 목소리를 만들다"></a><br>
 <b><a href="https://x.com/kevin_t_ngo/status/2123980980994318416">Fable 5.2가 Python으로 자기 목소리를 만들다</a></b><br>
-<sub>🆕 · <a href="https://x.com/kevin_t_ngo">@kevin_t_ngo</a> · ♥ 4.4k · <a href="https://x.com/kevin_t_ngo/status/2123980980994318416">▶ 영상</a></sub><br>
+<sub><a href="https://x.com/kevin_t_ngo">@kevin_t_ngo</a> · ♥ 4.4k · <a href="https://x.com/kevin_t_ngo/status/2123980980994318416">▶ 영상</a></sub><br>
 
 </td>
 <td width="33%" valign="top">
@@ -905,11 +905,25 @@ Claude Fable 5.2로 만든 작품 240개와 영상 데모 152개, 링크는 2026
 
 </td>
 <td width="33%" valign="top">
+<a href="https://x.com/iamdavidhill/status/2124986830236106897"><img src="assets/gifs/397.gif" width="100%" alt="캐릭터 엔진: 캐릭터, 스타일, 포즈, 태도를 순식간에 전환"></a><br>
+<b><a href="https://x.com/iamdavidhill/status/2124986830236106897">캐릭터 엔진: 캐릭터, 스타일, 포즈, 태도를 순식간에 전환</a></b><br>
+<sub>🆕 · <a href="https://x.com/iamdavidhill">@iamdavidhill</a> · ♥ 3.3k · <a href="https://x.com/iamdavidhill/status/2124986830236106897">▶ 영상</a></sub><br>
+
+</td>
+<td width="33%" valign="top">
 <a href="https://x.com/aollivier82/status/2120260208245043663"><img src="assets/gifs/153.gif" width="100%" alt="애니메이션으로 보는 컴퓨터 그래픽스의 역사"></a><br>
 <b><a href="https://x.com/aollivier82/status/2120260208245043663">애니메이션으로 보는 컴퓨터 그래픽스의 역사</a></b><br>
 <sub><a href="https://x.com/aollivier82">@aollivier82</a> · ♥ 3.2k · <a href="https://x.com/aollivier82/status/2120260208245043663">▶ 영상</a></sub><br>
 <br>
 <sub><a href="https://fablelist.000ooo.ooo/ko/prompts/?w=the-history-of-computer-graphics-animated&ref=gh"><b>✨ 프롬프트 받기</b></a></sub>
+</td>
+</tr>
+<tr>
+<td width="33%" valign="top">
+<a href="https://x.com/Stefan_3D_AI/status/2125143321098264592"><img src="assets/gifs/399.gif" width="100%" alt="일주일, 6,528달러어치 Fable 5.2 토큰: Unreal Engine 5.9에서 처음부터 만든 게임"></a><br>
+<b><a href="https://x.com/Stefan_3D_AI/status/2125143321098264592">일주일, 6,528달러어치 Fable 5.2 토큰: Unreal Engine 5.9에서 처음부터 만든 게임</a></b><br>
+<sub>🆕 · <a href="https://x.com/Stefan_3D_AI">@Stefan_3D_AI</a> · ♥ 2.8k · <a href="https://x.com/Stefan_3D_AI/status/2125143321098264592">▶ 영상</a></sub><br>
+
 </td>
 <td width="33%" valign="top">
 <a href="https://x.com/M__Houser/status/2120253236309569696"><img src="assets/gifs/154.gif" width="100%" alt="Age of Dragon, 비개발자가 만든 오픈 월드"></a><br>
@@ -918,20 +932,14 @@ Claude Fable 5.2로 만든 작품 240개와 영상 데모 152개, 링크는 2026
 <br>
 <sub><a href="https://fablelist.000ooo.ooo/ko/prompts/?w=age-of-dragon-an-open-world-by-a&ref=gh"><b>✨ 프롬프트 받기</b></a></sub>
 </td>
-</tr>
-<tr>
-<td width="33%" valign="top">
-<a href="https://x.com/iamdavidhill/status/2124986830236106897"><img src="assets/gifs/397.gif" width="100%" alt="캐릭터 엔진: 캐릭터, 스타일, 포즈, 태도를 순식간에 전환"></a><br>
-<b><a href="https://x.com/iamdavidhill/status/2124986830236106897">캐릭터 엔진: 캐릭터, 스타일, 포즈, 태도를 순식간에 전환</a></b><br>
-<sub>🆕 · <a href="https://x.com/iamdavidhill">@iamdavidhill</a> · ♥ 2.7k · <a href="https://x.com/iamdavidhill/status/2124986830236106897">▶ 영상</a></sub><br>
-
-</td>
 <td width="33%" valign="top">
 <a href="https://x.com/hayashimon1/status/2121943011525624151"><img src="assets/gifs/311.gif" width="100%" alt="Blender MCP로 만든 낡은 역 승강장 산책"></a><br>
 <b><a href="https://x.com/hayashimon1/status/2121943011525624151">Blender MCP로 만든 낡은 역 승강장 산책</a></b><br>
 <sub><a href="https://x.com/hayashimon1">@hayashimon1</a> · ♥ 2.6k · <a href="https://x.com/hayashimon1/status/2121943011525624151">▶ 영상</a></sub><br>
 
 </td>
+</tr>
+<tr>
 <td width="33%" valign="top">
 <a href="https://x.com/aecyydesign/status/2120239401821487149"><img src="assets/gifs/209.gif" width="100%" alt="Blender로 만든 애니메이션"></a><br>
 <b><a href="https://x.com/aecyydesign/status/2120239401821487149">Blender로 만든 애니메이션</a></b><br>
@@ -939,8 +947,6 @@ Claude Fable 5.2로 만든 작품 240개와 영상 데모 152개, 링크는 2026
 <br>
 <sub><a href="https://fablelist.000ooo.ooo/ko/prompts/?w=an-animation-made-with-blender&ref=gh"><b>✨ 프롬프트 받기</b></a></sub>
 </td>
-</tr>
-<tr>
 <td width="33%" valign="top">
 <a href="https://x.com/alexalbert__/status/2119916954337349737"><img src="assets/gifs/062.gif" width="100%" alt="인터랙티브 다 빈치 노트"></a><br>
 <b><a href="https://x.com/alexalbert__/status/2119916954337349737">인터랙티브 다 빈치 노트</a></b><br>
@@ -955,16 +961,10 @@ Claude Fable 5.2로 만든 작품 240개와 영상 데모 152개, 링크는 2026
 <br>
 <sub><a href="https://fablelist.000ooo.ooo/ko/prompts/?w=a-message-to-video-editors&ref=gh"><b>✨ 프롬프트 받기</b></a></sub>
 </td>
-<td width="33%" valign="top">
-<a href="https://x.com/kotaniko98765/status/2122266561960665539"><img src="assets/gifs/340.gif" width="100%" alt="주말 동안 만든 데이 트레이딩 게임"></a><br>
-<b><a href="https://x.com/kotaniko98765/status/2122266561960665539">주말 동안 만든 데이 트레이딩 게임</a></b><br>
-<sub><a href="https://x.com/kotaniko98765">@kotaniko98765</a> · ♥ 2.5k · <a href="https://x.com/kotaniko98765/status/2122266561960665539">▶ 영상</a></sub><br>
-
-</td>
 </tr>
 </table>
 
-<p align="center"><b><a href="all/video-demos.ko.md">전체 152개 보기 →</a></b></p>
+<p align="center"><b><a href="all/video-demos.ko.md">전체 153개 보기 →</a></b></p>
 
 ## 🤝 기여하기
 
@@ -984,8 +984,8 @@ Claude Fable 5.2로 만든 작품 240개와 영상 데모 152개, 링크는 2026
 
 ## 📰 소식
 
+- **2026-11-25**: 작품 +4, 영상 데모 +1.
 - **2026-11-24**: 작품 +4, 영상 데모 +3.
 - **2026-11-23**: 작품 +4, 영상 데모 +1.
 - **2026-11-22**: 작품 +10, 영상 데모 +2.
-- **2026-11-21**: 작품 +7, 영상 데모 +1.
 - **2026-11-10**: 첫 공개 — 작품 57개 + 영상 데모 61개, 모두 GIF 미리보기 포함.

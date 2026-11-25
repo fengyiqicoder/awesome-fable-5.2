@@ -1,4 +1,4 @@
-# 🌍 3D ワールドとシーン · 全 51 件
+# 🌍 3D ワールドとシーン · 全 52 件
 
 [← メインリストに戻る](../README.ja.md) · [English](3d-worlds.md) · [简体中文](3d-worlds.zh-CN.md) · [繁體中文](3d-worlds.zh-TW.md) · **日本語** · [한국어](3d-worlds.ko.md) · [Español](3d-worlds.es.md) · [Português](3d-worlds.pt-BR.md) · [Français](3d-worlds.fr.md) · [Deutsch](3d-worlds.de.md) · [Русский](3d-worlds.ru.md)
 
@@ -68,7 +68,7 @@
 <td width="33%" valign="top">
 <a href="https://fable-rover.vercel.app"><img src="../assets/gifs/278.gif" width="100%" alt="ER-6 Terrain Explorer — 自動走行する火星ローバー"></a><br>
 <b><a href="https://fable-rover.vercel.app">ER-6 Terrain Explorer — 自動走行する火星ローバー</a></b><br>
-<sub><a href="https://x.com/DilumSanjaya">@DilumSanjaya</a> · ♥ 804 · <a href="https://x.com/DilumSanjaya/status/2120561077385867663">▶ 動画</a></sub><br>
+<sub><a href="https://x.com/DilumSanjaya">@DilumSanjaya</a> · ♥ 809 · <a href="https://x.com/DilumSanjaya/status/2120561077385867663">▶ 動画</a></sub><br>
 <sub>Fable 5.2 が NASA の火星ローバーと同じロッカー・ボギー式サスペンションを設計し、異星の地形を走らせるシミュレーションまで作った。</sub>
 </td>
 </tr>
@@ -82,7 +82,7 @@
 <td width="33%" valign="top">
 <a href="https://patch.gg/play/blendi/the-blue-hour"><img src="../assets/gifs/387.gif" width="100%" alt="The Blue Hour — アールデコ調の夜の街"></a><br>
 <b><a href="https://patch.gg/play/blendi/the-blue-hour">The Blue Hour — アールデコ調の夜の街</a></b><br>
-<sub>🆕 · <a href="https://x.com/BlendiByl">@BlendiByl</a> · ♥ 636 · <a href="https://x.com/BlendiByl/status/2124439671006748853">▶ 動画</a></sub><br>
+<sub><a href="https://x.com/BlendiByl">@BlendiByl</a> · ♥ 637 · <a href="https://x.com/BlendiByl/status/2124439671006748853">▶ 動画</a></sub><br>
 <sub>アニメ版『バットマン』のアールデコ様式を再現した 3D シーン。すべてコードで描かれています。オープンソース。</sub>
 </td>
 <td width="33%" valign="top">
@@ -186,7 +186,7 @@
 <td width="33%" valign="top">
 <a href="https://claude.ai/artifact/HCzUsvWqERjQcgJjRuUUFo"><img src="../assets/gifs/386.gif" width="100%" alt="Rain-Soaked Noodle Stall — ピクセルジオラマ"></a><br>
 <b><a href="https://claude.ai/artifact/HCzUsvWqERjQcgJjRuUUFo">Rain-Soaked Noodle Stall — ピクセルジオラマ</a></b><br>
-<sub>🆕 · <a href="https://x.com/CapyCola">@CapyCola</a> · ♥ 135 · <a href="https://x.com/CapyCola/status/2124115057101664380">▶ 動画</a></sub><br>
+<sub><a href="https://x.com/CapyCola">@CapyCola</a> · ♥ 136 · <a href="https://x.com/CapyCola/status/2124115057101664380">▶ 動画</a></sub><br>
 <sub>雨の中の屋台、揺れる提灯、誰も見ていないスープの鍋、そしてまだ帰らない猫。ドラッグして回し、好きな角度から眺められるピクセルシーン。Fable 5.2 と Ink Studio で制作。</sub><br>
 <sub><a href="https://github.com/cola5939/pixel-dioramas">ソースコード</a></sub>
 </td>
@@ -327,12 +327,21 @@
 <sub><a href="https://fablelist.000ooo.ooo/ja/prompts/?w=voxel-colosseum&ref=gh"><b>✨ プロンプトを入手</b></a></sub>
 </td>
 <td width="33%" valign="top">
+<a href="https://zalo.github.io/LanternTown/town/"><img src="../assets/gifs/404.gif" width="100%" alt="LanternTown — ランタンが灯る町の広場"></a><br>
+<b><a href="https://zalo.github.io/LanternTown/town/">LanternTown — ランタンが灯る町の広場</a></b><br>
+<sub>🆕 · <a href="https://x.com/makeshifted">@makeshifted</a> · ♥ 14 · <a href="https://x.com/makeshifted/status/2125331267512377844">投稿</a></sub><br>
+<sub>実験的なthree.jsの町の広場。すべてのアセットがパラメトリックに定義され、ライティングは頂点カラーに焼き込まれているので軽く動く。</sub><br>
+<sub><a href="https://github.com/zalo/LanternTown">ソースコード</a></sub>
+</td>
+<td width="33%" valign="top">
 <a href="https://glittery-stardust-885b97.netlify.app"><img src="../assets/gifs/233.gif" width="100%" alt="HX-6 ヘキサポッド、3 つの世界"></a><br>
 <b><a href="https://glittery-stardust-885b97.netlify.app">HX-6 ヘキサポッド、3 つの世界</a></b><br>
 <sub><a href="https://x.com/Acoramaa">@Acoramaa</a> · ♥ 11 · <a href="https://x.com/Acoramaa/status/2120839083895538093">▶ 動画</a></sub><br>
 <sub>同じ 14 kg の六脚ロボットが火星・月・エウロパへ。どの足も自分で地面を見つける。自分で操縦できる。</sub><br>
 <sub><a href="https://fablelist.000ooo.ooo/ja/prompts/?w=hx-6-hexapod-three-worlds&ref=gh"><b>✨ プロンプトを入手</b></a></sub>
 </td>
+</tr>
+<tr>
 <td width="33%" valign="top">
 <a href="https://zondark.com"><img src="../assets/gifs/033.gif" width="100%" alt="ブラックホールへの片道旅行"></a><br>
 <b><a href="https://zondark.com">ブラックホールへの片道旅行</a></b><br>
@@ -340,8 +349,6 @@
 <sub>個人サイトを、地球からブラックホールまでのスクロール旅として作り直したもの。</sub><br>
 <sub><a href="https://fablelist.000ooo.ooo/ja/prompts/?w=one-way-trip-to-a-black-hole&ref=gh"><b>✨ プロンプトを入手</b></a></sub>
 </td>
-</tr>
-<tr>
 <td width="33%" valign="top">
 <a href="https://madebysourasith-sudo.github.io/red-wing-jet/"><img src="../assets/gifs/265.gif" width="100%" alt="Red Wing プライベートジェット"></a><br>
 <b><a href="https://madebysourasith-sudo.github.io/red-wing-jet/">Red Wing プライベートジェット</a></b><br>
@@ -355,6 +362,8 @@
 <sub>ノートを開くと羽ペンがダ・ヴィンチの機械を描き、回したり分解したりできる木の機構に変わります。3D モデルもテクスチャも音声ファイルもなく、すべてコードです。</sub><br>
 <sub><a href="https://github.com/coding-nanami/davinci-mechanics">ソースコード</a></sub>
 </td>
+</tr>
+<tr>
 <td width="33%" valign="top">
 <a href="https://claude.ai/artifact/FETrKoitcqxPQjbQvZd79C"><img src="../assets/gifs/034.gif" width="100%" alt="Belt Stress Test"></a><br>
 <b><a href="https://claude.ai/artifact/FETrKoitcqxPQjbQvZd79C">Belt Stress Test</a></b><br>
@@ -362,8 +371,6 @@
 <sub>約 20,000 個の小惑星が周回。お使いのデバイスが 30 fps を下回るまで岩を増やし続ける。</sub><br>
 <sub><a href="https://fablelist.000ooo.ooo/ja/prompts/?w=belt-stress-test&ref=gh"><b>✨ プロンプトを入手</b></a></sub>
 </td>
-</tr>
-<tr>
 <td width="33%" valign="top">
 <a href="https://claude.ai/artifact/BCDCNHRTq3y9W4Px3xc4DN"><img src="../assets/gifs/030.gif" width="100%" alt="巨大カタツムリの上の集落"></a><br>
 <b><a href="https://claude.ai/artifact/BCDCNHRTq3y9W4Px3xc4DN">巨大カタツムリの上の集落</a></b><br>
@@ -378,6 +385,8 @@
 <sub>3,357 個のパーツが五重塔に組み上がり、女剣士に変身。音楽はコードで計算。</sub><br>
 <sub><a href="https://fablelist.000ooo.ooo/ja/prompts/?w=wooden-pagoda-transformation&ref=gh"><b>✨ プロンプトを入手</b></a></sub>
 </td>
+</tr>
+<tr>
 <td width="33%" valign="top">
 <a href="https://cyrilremacle-byte.github.io/francis-turbine-explorer/"><img src="../assets/gifs/355.gif" width="100%" alt="Francis Turbine Explorer"></a><br>
 <b><a href="https://cyrilremacle-byte.github.io/francis-turbine-explorer/">Francis Turbine Explorer</a></b><br>

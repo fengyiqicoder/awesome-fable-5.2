@@ -1,4 +1,4 @@
-# 🌍 3D Worlds & Scenes · all 51
+# 🌍 3D Worlds & Scenes · all 52
 
 [← Back to the main list](../README.md) · **English** · [简体中文](3d-worlds.zh-CN.md) · [繁體中文](3d-worlds.zh-TW.md) · [日本語](3d-worlds.ja.md) · [한국어](3d-worlds.ko.md) · [Español](3d-worlds.es.md) · [Português](3d-worlds.pt-BR.md) · [Français](3d-worlds.fr.md) · [Deutsch](3d-worlds.de.md) · [Русский](3d-worlds.ru.md)
 
@@ -68,7 +68,7 @@ The main page shows at most the top 24 posts with 100+ likes; this page has ever
 <td width="33%" valign="top">
 <a href="https://fable-rover.vercel.app"><img src="../assets/gifs/278.gif" width="100%" alt="ER-6 Terrain Explorer — a self-driving Mars rover"></a><br>
 <b><a href="https://fable-rover.vercel.app">ER-6 Terrain Explorer — a self-driving Mars rover</a></b><br>
-<sub><a href="https://x.com/DilumSanjaya">@DilumSanjaya</a> · ♥ 804 · <a href="https://x.com/DilumSanjaya/status/2120561077385867663">▶ Video</a></sub><br>
+<sub><a href="https://x.com/DilumSanjaya">@DilumSanjaya</a> · ♥ 809 · <a href="https://x.com/DilumSanjaya/status/2120561077385867663">▶ Video</a></sub><br>
 <sub>Fable 5.2 designed a rocker-bogie suspension like NASA's Mars rovers, then simulated it driving over alien terrain.</sub>
 </td>
 </tr>
@@ -82,7 +82,7 @@ The main page shows at most the top 24 posts with 100+ likes; this page has ever
 <td width="33%" valign="top">
 <a href="https://patch.gg/play/blendi/the-blue-hour"><img src="../assets/gifs/387.gif" width="100%" alt="The Blue Hour — an art deco city at night"></a><br>
 <b><a href="https://patch.gg/play/blendi/the-blue-hour">The Blue Hour — an art deco city at night</a></b><br>
-<sub>🆕 · <a href="https://x.com/BlendiByl">@BlendiByl</a> · ♥ 636 · <a href="https://x.com/BlendiByl/status/2124439671006748853">▶ Video</a></sub><br>
+<sub><a href="https://x.com/BlendiByl">@BlendiByl</a> · ♥ 637 · <a href="https://x.com/BlendiByl/status/2124439671006748853">▶ Video</a></sub><br>
 <sub>A 3D scene in the art deco style of the animated Batman series, all drawn in code. Open source.</sub>
 </td>
 <td width="33%" valign="top">
@@ -186,7 +186,7 @@ The main page shows at most the top 24 posts with 100+ likes; this page has ever
 <td width="33%" valign="top">
 <a href="https://claude.ai/artifact/HCzUsvWqERjQcgJjRuUUFo"><img src="../assets/gifs/386.gif" width="100%" alt="Rain-Soaked Noodle Stall — a pixel diorama"></a><br>
 <b><a href="https://claude.ai/artifact/HCzUsvWqERjQcgJjRuUUFo">Rain-Soaked Noodle Stall — a pixel diorama</a></b><br>
-<sub>🆕 · <a href="https://x.com/CapyCola">@CapyCola</a> · ♥ 135 · <a href="https://x.com/CapyCola/status/2124115057101664380">▶ Video</a></sub><br>
+<sub><a href="https://x.com/CapyCola">@CapyCola</a> · ♥ 136 · <a href="https://x.com/CapyCola/status/2124115057101664380">▶ Video</a></sub><br>
 <sub>A noodle stall in the rain, swaying lanterns, a pot of soup nobody is watching and a cat that has not left. A pixel scene you can drag and rotate to see from any angle, made with Fable 5.2 and Ink Studio.</sub><br>
 <sub><a href="https://github.com/cola5939/pixel-dioramas">Source</a></sub>
 </td>
@@ -327,12 +327,21 @@ The main page shows at most the top 24 posts with 100+ likes; this page has ever
 <sub><a href="https://fablelist.000ooo.ooo/prompts/?w=voxel-colosseum&ref=gh"><b>✨ Get the prompt</b></a></sub>
 </td>
 <td width="33%" valign="top">
+<a href="https://zalo.github.io/LanternTown/town/"><img src="../assets/gifs/404.gif" width="100%" alt="LanternTown: a lantern-lit town square"></a><br>
+<b><a href="https://zalo.github.io/LanternTown/town/">LanternTown: a lantern-lit town square</a></b><br>
+<sub>🆕 · <a href="https://x.com/makeshifted">@makeshifted</a> · ♥ 14 · <a href="https://x.com/makeshifted/status/2125331267512377844">Post</a></sub><br>
+<sub>An experimental three.js town square. Every asset is parametrically defined and the lighting is baked into vertex colors, so it runs light.</sub><br>
+<sub><a href="https://github.com/zalo/LanternTown">Source</a></sub>
+</td>
+<td width="33%" valign="top">
 <a href="https://glittery-stardust-885b97.netlify.app"><img src="../assets/gifs/233.gif" width="100%" alt="HX-6 Hexapod, Three Worlds"></a><br>
 <b><a href="https://glittery-stardust-885b97.netlify.app">HX-6 Hexapod, Three Worlds</a></b><br>
 <sub><a href="https://x.com/Acoramaa">@Acoramaa</a> · ♥ 11 · <a href="https://x.com/Acoramaa/status/2120839083895538093">▶ Video</a></sub><br>
 <sub>The same 14 kg hexapod on Mars, the Moon and Europa; every foot finds its own ground. Drive it yourself.</sub><br>
 <sub><a href="https://fablelist.000ooo.ooo/prompts/?w=hx-6-hexapod-three-worlds&ref=gh"><b>✨ Get the prompt</b></a></sub>
 </td>
+</tr>
+<tr>
 <td width="33%" valign="top">
 <a href="https://zondark.com"><img src="../assets/gifs/033.gif" width="100%" alt="One-way Trip to a Black Hole"></a><br>
 <b><a href="https://zondark.com">One-way Trip to a Black Hole</a></b><br>
@@ -340,8 +349,6 @@ The main page shows at most the top 24 posts with 100+ likes; this page has ever
 <sub>A personal site rebuilt as a scroll journey from Earth to a black hole.</sub><br>
 <sub><a href="https://fablelist.000ooo.ooo/prompts/?w=one-way-trip-to-a-black-hole&ref=gh"><b>✨ Get the prompt</b></a></sub>
 </td>
-</tr>
-<tr>
 <td width="33%" valign="top">
 <a href="https://madebysourasith-sudo.github.io/red-wing-jet/"><img src="../assets/gifs/265.gif" width="100%" alt="Red Wing private jet"></a><br>
 <b><a href="https://madebysourasith-sudo.github.io/red-wing-jet/">Red Wing private jet</a></b><br>
@@ -355,6 +362,8 @@ The main page shows at most the top 24 posts with 100+ likes; this page has ever
 <sub>Open the notebook and a quill sketches Leonardo's machines, which turn into wooden mechanisms you can crank and take apart. No 3D models, textures or audio files; everything is code.</sub><br>
 <sub><a href="https://github.com/coding-nanami/davinci-mechanics">Source</a></sub>
 </td>
+</tr>
+<tr>
 <td width="33%" valign="top">
 <a href="https://claude.ai/artifact/FETrKoitcqxPQjbQvZd79C"><img src="../assets/gifs/034.gif" width="100%" alt="Belt Stress Test"></a><br>
 <b><a href="https://claude.ai/artifact/FETrKoitcqxPQjbQvZd79C">Belt Stress Test</a></b><br>
@@ -362,8 +371,6 @@ The main page shows at most the top 24 posts with 100+ likes; this page has ever
 <sub>~20,000 orbiting asteroids; it keeps adding rocks until your device drops below 30 fps.</sub><br>
 <sub><a href="https://fablelist.000ooo.ooo/prompts/?w=belt-stress-test&ref=gh"><b>✨ Get the prompt</b></a></sub>
 </td>
-</tr>
-<tr>
 <td width="33%" valign="top">
 <a href="https://claude.ai/artifact/BCDCNHRTq3y9W4Px3xc4DN"><img src="../assets/gifs/030.gif" width="100%" alt="A Hamlet on a Giant Snail"></a><br>
 <b><a href="https://claude.ai/artifact/BCDCNHRTq3y9W4Px3xc4DN">A Hamlet on a Giant Snail</a></b><br>
@@ -378,6 +385,8 @@ The main page shows at most the top 24 posts with 100+ likes; this page has ever
 <sub>3,357 parts assemble a five-storey pagoda that turns into a swordswoman. Music computed in code.</sub><br>
 <sub><a href="https://fablelist.000ooo.ooo/prompts/?w=wooden-pagoda-transformation&ref=gh"><b>✨ Get the prompt</b></a></sub>
 </td>
+</tr>
+<tr>
 <td width="33%" valign="top">
 <a href="https://cyrilremacle-byte.github.io/francis-turbine-explorer/"><img src="../assets/gifs/355.gif" width="100%" alt="Francis Turbine Explorer"></a><br>
 <b><a href="https://cyrilremacle-byte.github.io/francis-turbine-explorer/">Francis Turbine Explorer</a></b><br>

@@ -1,4 +1,4 @@
-# 🎮 Игры · все 113
+# 🎮 Игры · все 116
 
 [← Назад к списку](../README.ru.md) · [English](games.md) · [简体中文](games.zh-CN.md) · [繁體中文](games.zh-TW.md) · [日本語](games.ja.md) · [한국어](games.ko.md) · [Español](games.es.md) · [Português](games.pt-BR.md) · [Français](games.fr.md) · [Deutsch](games.de.md) · **Русский**
 
@@ -99,6 +99,13 @@
 </tr>
 <tr>
 <td width="33%" valign="top">
+<a href="https://kevintngo.github.io/cinderwatch/"><img src="../assets/gifs/398.gif" width="100%" alt="Cinderwatch: tower defense в одном HTML-файле"></a><br>
+<b><a href="https://kevintngo.github.io/cinderwatch/">Cinderwatch: tower defense в одном HTML-файле</a></b><br>
+<sub>🆕 · <a href="https://x.com/kevin_t_ngo">@kevin_t_ngo</a> · ♥ 1.8k · <a href="https://x.com/kevin_t_ngo/status/2125119969109418333">▶ Видео</a></sub><br>
+<sub>Изометрическая 3D-игра в жанре tower defense, которая умещается в одном HTML-файле. Встроенный ИИ-командир может вести оборону за вас. Открытый исходный код, играть можно прямо в браузере.</sub><br>
+<sub><a href="https://github.com/kevintngo/cinderwatch">Исходный код</a></sub>
+</td>
+<td width="33%" valign="top">
 <a href="https://loktar00.github.io/lanternfall/"><img src="../assets/gifs/128.gif" width="100%" alt="LANTERNFALL"></a><br>
 <b><a href="https://loktar00.github.io/lanternfall/">LANTERNFALL</a></b><br>
 <sub><a href="https://x.com/loktar00">@loktar00</a> · ♥ 1.4k · <a href="https://x.com/loktar00/status/2120192761542615271">▶ Видео</a></sub><br>
@@ -111,14 +118,14 @@
 <sub><a href="https://x.com/aniketjart">@aniketjart</a> · ♥ 1.4k · <a href="https://x.com/aniketjart/status/2121793239175119279">▶ Видео</a></sub><br>
 <sub>Фанатская экшен-игра по арке армии Красной ленты из Dragon Ball, сделанная на three.js. В разработке; первые две карты уже играбельны.</sub>
 </td>
+</tr>
+<tr>
 <td width="33%" valign="top">
 <a href="https://heat.pplx.app"><img src="../assets/gifs/313.gif" width="100%" alt="VICE '86: езда по открытому миру в неоновом Майами 1986 года"></a><br>
 <b><a href="https://heat.pplx.app">VICE '86: езда по открытому миру в неоновом Майами 1986 года</a></b><br>
 <sub><a href="https://x.com/AravSrinivas">@AravSrinivas</a> · ♥ 1.3k · <a href="https://x.com/AravSrinivas/status/2122338465648103676">▶ Видео</a></sub><br>
 <sub>Гоночная игра с открытым миром, которая работает в браузере. Без игрового движка и без three.js: у неё собственный рендерер на WebGL2, а город, машины, дождь и звук моторов полностью сгенерированы кодом, около 63,000 строк JavaScript.</sub>
 </td>
-</tr>
-<tr>
 <td width="33%" valign="top">
 <a href="https://op7418.github.io/guizang-game-skill/"><img src="../assets/gifs/131.gif" width="100%" alt="Mist-Locked Mountain Gate — 3D-экшен"></a><br>
 <b><a href="https://op7418.github.io/guizang-game-skill/">Mist-Locked Mountain Gate — 3D-экшен</a></b><br>
@@ -134,26 +141,19 @@
 <sub><a href="https://x.com/chongdashu/status/2120310120509014219">Как это сделано</a></sub><br>
 <sub><a href="https://fablelist.000ooo.ooo/ru/prompts/?w=rooftop-rally-pickleball-in-unreal-5-9&ref=gh"><b>✨ Получить промпт</b></a></sub>
 </td>
-<td width="33%" valign="top">
-<a href="https://gtashenzhen.com"><img src="../assets/gifs/377.gif" width="100%" alt="GTA Shenzhen"></a><br>
-<b><a href="https://gtashenzhen.com">GTA Shenzhen</a></b><br>
-<sub>🆕 · <a href="https://x.com/KinGao476942">@KinGao476942</a> · ♥ 1.0k · <a href="https://x.com/KinGao476942/status/2123967104601014521">▶ Видео</a></sub><br>
-<sub>Весь Шэньчжэнь, собранный по данным OpenStreetMap: 83 182 здания и 62 088 дорог. Летайте над городом, приземляйтесь и садитесь за руль, ищите любое место, а ночью запускайте световое шоу на весь город. Сделано с Fable 5.2 и Tripo за три дня.</sub>
-</td>
 </tr>
 <tr>
 <td width="33%" valign="top">
-<a href="https://thaxnay.com/ramayana/"><img src="../assets/gifs/389.gif" width="100%" alt="Ramayana: The Sacred Fires"></a><br>
-<b><a href="https://thaxnay.com/ramayana/">Ramayana: The Sacred Fires</a></b><br>
-<sub>🆕 · <a href="https://x.com/Thaxnay">@Thaxnay</a> · ♥ 973 · <a href="https://x.com/Thaxnay/status/2124574054296219939">▶ Видео</a></sub><br>
-<sub>Приключенческий экшен от третьего лица: вы играете за Раму, идёте через открытую долину, защищаете мудрецов и находите секреты. Работает в браузере на компьютере и телефоне.</sub>
+<a href="https://gtashenzhen.com"><img src="../assets/gifs/377.gif" width="100%" alt="GTA Shenzhen"></a><br>
+<b><a href="https://gtashenzhen.com">GTA Shenzhen</a></b><br>
+<sub><a href="https://x.com/KinGao476942">@KinGao476942</a> · ♥ 1.0k · <a href="https://x.com/KinGao476942/status/2123967104601014521">▶ Видео</a></sub><br>
+<sub>Весь Шэньчжэнь, собранный по данным OpenStreetMap: 83 182 здания и 62 088 дорог. Летайте над городом, приземляйтесь и садитесь за руль, ищите любое место, а ночью запускайте световое шоу на весь город. Сделано с Fable 5.2 и Tripo за три дня.</sub>
 </td>
 <td width="33%" valign="top">
-<a href="https://kevintngo.github.io/cinderwatch/"><img src="../assets/gifs/398.gif" width="100%" alt="Cinderwatch: tower defense в одном HTML-файле"></a><br>
-<b><a href="https://kevintngo.github.io/cinderwatch/">Cinderwatch: tower defense в одном HTML-файле</a></b><br>
-<sub>🆕 · <a href="https://x.com/kevin_t_ngo">@kevin_t_ngo</a> · ♥ 960 · <a href="https://x.com/kevin_t_ngo/status/2125119969109418333">▶ Видео</a></sub><br>
-<sub>Изометрическая 3D-игра в жанре tower defense, которая умещается в одном HTML-файле. Встроенный ИИ-командир может вести оборону за вас. Открытый исходный код, играть можно прямо в браузере.</sub><br>
-<sub><a href="https://github.com/kevintngo/cinderwatch">Исходный код</a></sub>
+<a href="https://thaxnay.com/ramayana/"><img src="../assets/gifs/389.gif" width="100%" alt="Ramayana: The Sacred Fires"></a><br>
+<b><a href="https://thaxnay.com/ramayana/">Ramayana: The Sacred Fires</a></b><br>
+<sub>🆕 · <a href="https://x.com/Thaxnay">@Thaxnay</a> · ♥ 977 · <a href="https://x.com/Thaxnay/status/2124574054296219939">▶ Видео</a></sub><br>
+<sub>Приключенческий экшен от третьего лица: вы играете за Раму, идёте через открытую долину, защищаете мудрецов и находите секреты. Работает в браузере на компьютере и телефоне.</sub>
 </td>
 <td width="33%" valign="top">
 <a href="https://claude.ai/artifact/MXxb36zKgN261ckbGhmNin"><img src="../assets/gifs/002.gif" width="100%" alt="Three Games (Saltline · The Clockmaker's Heart · Tidewright)"></a><br>
@@ -168,7 +168,7 @@
 <td width="33%" valign="top">
 <a href="https://patch.gg/play/blendi/solar"><img src="../assets/gifs/323.gif" width="100%" alt="Solar — крошечная Солнечная система, по которой можно летать"></a><br>
 <b><a href="https://patch.gg/play/blendi/solar">Solar — крошечная Солнечная система, по которой можно летать</a></b><br>
-<sub><a href="https://x.com/BlendiByl">@BlendiByl</a> · ♥ 801 · <a href="https://x.com/BlendiByl/status/2122673770607591855">▶ Видео</a></sub><br>
+<sub><a href="https://x.com/BlendiByl">@BlendiByl</a> · ♥ 800 · <a href="https://x.com/BlendiByl/status/2122673770607591855">▶ Видео</a></sub><br>
 <sub>По мотивам Outer Wilds: настоящие орбиты и гравитация, непрерывные перелёты между планетами, и каждый мир нарисован кодом. Открытый исходный код.</sub>
 </td>
 <td width="33%" valign="top">
@@ -181,7 +181,7 @@
 <td width="33%" valign="top">
 <a href="https://www.spawn.co/@mattshumer/voxel-engine"><img src="../assets/gifs/004.gif" width="100%" alt="Voxel Engine"></a><br>
 <b><a href="https://www.spawn.co/@mattshumer/voxel-engine">Voxel Engine</a></b><br>
-<sub><a href="https://x.com/mattshumer_">@mattshumer_</a> · ♥ 743 · <a href="https://x.com/mattshumer_/status/2119870965106483384">▶ Видео</a></sub><br>
+<sub><a href="https://x.com/mattshumer_">@mattshumer_</a> · ♥ 744 · <a href="https://x.com/mattshumer_/status/2119870965106483384">▶ Видео</a></sub><br>
 <sub>Сделано из одного промпта. Со звуком.</sub><br>
 <sub><a href="https://fablelist.000ooo.ooo/ru/prompts/?w=voxel-engine&ref=gh"><b>✨ Получить промпт</b></a></sub>
 </td>
@@ -190,7 +190,7 @@
 <td width="33%" valign="top">
 <a href="https://ebb.tesana.com"><img src="../assets/gifs/379.gif" width="100%" alt="EBB — платформер про воду, меняющую форму"></a><br>
 <b><a href="https://ebb.tesana.com">EBB — платформер про воду, меняющую форму</a></b><br>
-<sub>🆕 · <a href="https://x.com/Rubzem">@Rubzem</a> · ♥ 683 · <a href="https://x.com/Rubzem/status/2124142554371502140">▶ Видео</a></sub><br>
+<sub><a href="https://x.com/Rubzem">@Rubzem</a> · ♥ 683 · <a href="https://x.com/Rubzem/status/2124142554371502140">▶ Видео</a></sub><br>
 <sub>Физический платформер, где вы играете за воду: она тает, замерзает и парит, чтобы решать головоломки. Полностью процедурный, 190 КБ, сделан за час.</sub>
 </td>
 <td width="33%" valign="top">
@@ -201,17 +201,24 @@
 <sub><a href="https://fablelist.000ooo.ooo/ru/prompts/?w=patchwork-quilt&ref=gh"><b>✨ Получить промпт</b></a></sub>
 </td>
 <td width="33%" valign="top">
-<a href="https://bannerfall.itch.io/siege-wing"><img src="../assets/gifs/271.gif" width="100%" alt="Siege Wing — вертолёт на средневековой войне"></a><br>
-<b><a href="https://bannerfall.itch.io/siege-wing">Siege Wing — вертолёт на средневековой войне</a></b><br>
-<sub><a href="https://x.com/builderjaydub">@builderjaydub</a> · ♥ 575 · <a href="https://x.com/builderjaydub/status/2120223731520040966">▶ Видео</a></sub><br>
-<sub>Управляйте вертолётом с пушкой, ракетами и управляемыми снарядами, уворачивайтесь от римских баллист и рушьте замок.</sub>
+<a href="https://kevintngo.github.io/procedural-rpg/"><img src="../assets/gifs/401.gif" width="100%" alt="Brushwild — процедурная RPG с открытым миром"></a><br>
+<b><a href="https://kevintngo.github.io/procedural-rpg/">Brushwild — процедурная RPG с открытым миром</a></b><br>
+<sub>🆕 · <a href="https://x.com/kevin_t_ngo">@kevin_t_ngo</a> · ♥ 621 · <a href="https://x.com/kevin_t_ngo/status/2125321244686029289">▶ Видео</a></sub><br>
+<sub>Процедурная экшен-RPG с открытым миром в одном HTML-файле размером около 300kB. Каждый пиксель рисуют шейдеры в стиле пера и цветных карандашей. Три класса, деревья навыков, лут, города и подземелья; играть можно на компьютере и на телефоне.</sub><br>
+<sub><a href="https://github.com/kevintngo/procedural-rpg">Исходный код</a></sub>
 </td>
 </tr>
 <tr>
 <td width="33%" valign="top">
+<a href="https://bannerfall.itch.io/siege-wing"><img src="../assets/gifs/271.gif" width="100%" alt="Siege Wing — вертолёт на средневековой войне"></a><br>
+<b><a href="https://bannerfall.itch.io/siege-wing">Siege Wing — вертолёт на средневековой войне</a></b><br>
+<sub><a href="https://x.com/builderjaydub">@builderjaydub</a> · ♥ 576 · <a href="https://x.com/builderjaydub/status/2120223731520040966">▶ Видео</a></sub><br>
+<sub>Управляйте вертолётом с пушкой, ракетами и управляемыми снарядами, уворачивайтесь от римских баллист и рушьте замок.</sub>
+</td>
+<td width="33%" valign="top">
 <a href="https://i-would-have-gotten-away-with-it.netlify.app/"><img src="../assets/gifs/007.gif" width="100%" alt="I Would Have Gotten Away With It"></a><br>
 <b><a href="https://i-would-have-gotten-away-with-it.netlify.app/">I Would Have Gotten Away With It</a></b><br>
-<sub><a href="https://x.com/emollick">@emollick</a> · ♥ 518 · <a href="https://x.com/emollick/status/2119876449494540554">▶ Видео</a></sub><br>
+<sub><a href="https://x.com/emollick">@emollick</a> · ♥ 520 · <a href="https://x.com/emollick/status/2119876449494540554">▶ Видео</a></sub><br>
 <sub>Скуби-Ду наоборот: вы злодей и пугаете назойливых ребят. Трейлер, музыку и звук тоже сделал Fable.</sub><br>
 <sub><a href="https://fablelist.000ooo.ooo/ru/prompts/?w=i-would-have-gotten-away-with-it&ref=gh"><b>✨ Получить промпт</b></a></sub>
 </td>
@@ -221,14 +228,14 @@
 <sub><a href="https://x.com/kevin_t_ngo">@kevin_t_ngo</a> · ♥ 512 · <a href="https://x.com/kevin_t_ngo/status/2121701020598415465">▶ Видео</a></sub><br>
 <sub>RPG с боковой прокруткой прямо в браузере; вся графика нарисована кодом, без моделей изображений и готовых ассетов.</sub>
 </td>
+</tr>
+<tr>
 <td width="33%" valign="top">
 <a href="https://kengoworks.itch.io/dawnlings"><img src="../assets/gifs/344.gif" width="100%" alt="Dawnlings — наклоняй долину, кати колобков"></a><br>
 <b><a href="https://kengoworks.itch.io/dawnlings">Dawnlings — наклоняй долину, кати колобков</a></b><br>
 <sub><a href="https://x.com/kevin_t_ngo">@kevin_t_ngo</a> · ♥ 483 · <a href="https://x.com/kevin_t_ngo/status/2122969346935017497">▶ Видео</a></sub><br>
 <sub>Браузерная игра по мотивам LocoRoco: наклоняешь землю, и сонные колобки катятся, делятся и сливаются, пробуждая долину и наполняя её цветом. Звуковые эффекты и концепт-арт сгенерированы на fal.</sub>
 </td>
-</tr>
-<tr>
 <td width="33%" valign="top">
 <a href="https://www.spawn.co/@izkimar/the-world-of-hoodcraft"><img src="../assets/gifs/356.gif" width="100%" alt="The World of Hoodcraft"></a><br>
 <b><a href="https://www.spawn.co/@izkimar/the-world-of-hoodcraft">The World of Hoodcraft</a></b><br>
@@ -238,18 +245,18 @@
 <td width="33%" valign="top">
 <a href="https://noclipepe.pages.dev/rug/"><img src="../assets/gifs/010.gif" width="100%" alt="Childhood Rug Racer"></a><br>
 <b><a href="https://noclipepe.pages.dev/rug/">Childhood Rug Racer</a></b><br>
-<sub><a href="https://x.com/noclipepe">@noclipepe</a> · ♥ 430 · <a href="https://x.com/noclipepe/status/2119728047754547326">▶ Видео</a></sub><br>
+<sub><a href="https://x.com/noclipepe">@noclipepe</a> · ♥ 429 · <a href="https://x.com/noclipepe/status/2119728047754547326">▶ Видео</a></sub><br>
 <sub>Гонка на детском игровом коврике, тот же промпт, что и у GPT-6.2 Sol. Автор называет модель «Fable 5.5 (routing)».</sub><br>
 <sub><a href="https://fablelist.000ooo.ooo/ru/prompts/?w=childhood-rug-racer&ref=gh"><b>✨ Получить промпт</b></a></sub>
 </td>
+</tr>
+<tr>
 <td width="33%" valign="top">
 <a href="https://ballpoint-dominion.vercel.app/"><img src="../assets/gifs/390.gif" width="100%" alt="Ballpoint Dominion"></a><br>
 <b><a href="https://ballpoint-dominion.vercel.app/">Ballpoint Dominion</a></b><br>
-<sub>🆕 · <a href="https://x.com/kevin_t_ngo">@kevin_t_ngo</a> · ♥ 396 · <a href="https://x.com/kevin_t_ngo/status/2124669366512001493">▶ Видео</a></sub><br>
+<sub>🆕 · <a href="https://x.com/kevin_t_ngo">@kevin_t_ngo</a> · ♥ 398 · <a href="https://x.com/kevin_t_ngo/status/2124669366512001493">▶ Видео</a></sub><br>
 <sub>Стратегия в реальном времени на одном листе бумаги. Выберите фракцию Sunrise или Dusk, собирайте чернила, нарисуйте армию и захватите страницу.</sub>
 </td>
-</tr>
-<tr>
 <td width="33%" valign="top">
 <a href="https://mariana.pplx.app"><img src="../assets/gifs/331.gif" width="100%" alt="HADAL: погружение в Марианскую впадину"></a><br>
 <b><a href="https://mariana.pplx.app">HADAL: погружение в Марианскую впадину</a></b><br>
@@ -263,6 +270,8 @@
 <sub>Шутер от первого лица 1 на 1 с двумя играбельными персонажами.</sub><br>
 <sub><a href="https://fablelist.000ooo.ooo/ru/prompts/?w=gilt-gutter&ref=gh"><b>✨ Получить промпт</b></a></sub>
 </td>
+</tr>
+<tr>
 <td width="33%" valign="top">
 <a href="https://finderchangchang.github.io/cloud-stunt-3d/"><img src="../assets/gifs/014.gif" width="100%" alt="Cloud Stunt 3D"></a><br>
 <b><a href="https://finderchangchang.github.io/cloud-stunt-3d/">Cloud Stunt 3D</a></b><br>
@@ -271,8 +280,6 @@
 <sub><a href="https://finderchangchang.github.io/cloud-stunt-3d/golden/">Optimized</a></sub><br>
 <sub><a href="https://x.com/jev_chat/status/2120015641151426838">📝 Промпт автора (бесплатно)</a></sub>
 </td>
-</tr>
-<tr>
 <td width="33%" valign="top">
 <a href="https://valle-morta.vercel.app/"><img src="../assets/gifs/298.gif" width="100%" alt="Valle Morta"></a><br>
 <b><a href="https://valle-morta.vercel.app/">Valle Morta</a></b><br>
@@ -287,15 +294,15 @@
 <sub>«Create a mashup of Harry Potter and Fortnite» — играбельная королевская битва.</sub><br>
 <sub><a href="https://x.com/mattshumer_/status/2119872098306810226">📝 Промпт автора (бесплатно)</a></sub>
 </td>
+</tr>
+<tr>
 <td width="33%" valign="top">
 <a href="https://dread-and-district.netlify.app"><img src="../assets/gifs/130.gif" width="100%" alt="Dread & District"></a><br>
 <b><a href="https://dread-and-district.netlify.app">Dread & District</a></b><br>
-<sub><a href="https://x.com/emollick">@emollick</a> · ♥ 303 · <a href="https://x.com/emollick/status/2120248525254742318">▶ Видео</a></sub><br>
+<sub><a href="https://x.com/emollick">@emollick</a> · ♥ 304 · <a href="https://x.com/emollick/status/2120248525254742318">▶ Видео</a></sub><br>
 <sub>Фэнтезийный транспортный симулятор «с душой»: один расплывчатый абзац, а потом куча агентов спорит об арте, лоре и шутках. Хорошая логистика побеждает зло.</sub><br>
 <sub><a href="https://fablelist.000ooo.ooo/ru/prompts/?w=dread-district&ref=gh"><b>✨ Получить промпт</b></a></sub>
 </td>
-</tr>
-<tr>
 <td width="33%" valign="top">
 <a href="https://unsung-vale.vercel.app/"><img src="../assets/gifs/262.gif" width="100%" alt="Unsung Vale — RPG с открытым миром"></a><br>
 <b><a href="https://unsung-vale.vercel.app/">Unsung Vale — RPG с открытым миром</a></b><br>
@@ -310,14 +317,14 @@
 <sub>Один заход за ночь: настоящая физика крыла, которая считает подъёмную силу и сопротивление для каждой части крыла.</sub><br>
 <sub><a href="https://fablelist.000ooo.ooo/ru/prompts/?w=cayley-flight-simulator&ref=gh"><b>✨ Получить промпт</b></a></sub>
 </td>
+</tr>
+<tr>
 <td width="33%" valign="top">
 <a href="https://fallline-9zo.pages.dev"><img src="../assets/gifs/350.gif" width="100%" alt="Fall Line: даунхилл на MTB"></a><br>
 <b><a href="https://fallline-9zo.pages.dev">Fall Line: даунхилл на MTB</a></b><br>
-<sub><a href="https://x.com/BananaOfMercy">@BananaOfMercy</a> · ♥ 290 · <a href="https://x.com/BananaOfMercy/status/2123037856398733438">▶ Видео</a></sub><br>
+<sub><a href="https://x.com/BananaOfMercy">@BananaOfMercy</a> · ♥ 291 · <a href="https://x.com/BananaOfMercy/status/2123037856398733438">▶ Видео</a></sub><br>
 <sub>Игра про скоростной спуск на горном велосипеде на three.js, играется в браузере с клавиатуры. Автор 7 дней катался в каждой сборке и говорил Fable, что ощущается не так.</sub>
 </td>
-</tr>
-<tr>
 <td width="33%" valign="top">
 <a href="https://github.com/amirmushichge/worm-rider"><img src="../assets/gifs/015.gif" width="100%" alt="Worm Rider"></a><br>
 <b><a href="https://github.com/amirmushichge/worm-rider">Worm Rider</a></b><br>
@@ -332,6 +339,8 @@
 <sub>Один промпт, около 20 часов Fable 5.2: пять героев, один живой игрок и NPC.</sub><br>
 <sub><a href="https://fablelist.000ooo.ooo/ru/prompts/?w=starfall-a-browser-moba&ref=gh"><b>✨ Получить промпт</b></a></sub>
 </td>
+</tr>
+<tr>
 <td width="33%" valign="top">
 <a href="https://maad-maxxing.vercel.app/"><img src="../assets/gifs/199.gif" width="100%" alt="MAAD MAXXING"></a><br>
 <b><a href="https://maad-maxxing.vercel.app/">MAAD MAXXING</a></b><br>
@@ -339,8 +348,6 @@
 <sub>100% код, без ассетов. Первые 3 этапа играбельны; аудио от ElevenLabs.</sub><br>
 <sub><a href="https://fablelist.000ooo.ooo/ru/prompts/?w=maad-maxxing&ref=gh"><b>✨ Получить промпт</b></a></sub>
 </td>
-</tr>
-<tr>
 <td width="33%" valign="top">
 <a href="https://frontier.every.to/experiments/first-crush"><img src="../assets/gifs/133.gif" width="100%" alt="First Crush"></a><br>
 <b><a href="https://frontier.every.to/experiments/first-crush">First Crush</a></b><br>
@@ -354,6 +361,14 @@
 <sub><a href="https://x.com/emollick">@emollick</a> · ♥ 220 · <a href="https://x.com/emollick/status/2123520499368263977">▶ Видео</a></sub><br>
 <sub>Гоночная игра с открытым миром, где вы угоняете машины и выполняете миссии. Всё, от уровня розыска до погоды, зависит от курса акций ANT компании Anthropic.</sub>
 </td>
+</tr>
+<tr>
+<td width="33%" valign="top">
+<a href="https://littlecity.io"><img src="../assets/gifs/402.gif" width="100%" alt="Little City — рисованный градостроительный симулятор"></a><br>
+<b><a href="https://littlecity.io">Little City — рисованный градостроительный симулятор</a></b><br>
+<sub>🆕 · <a href="https://x.com/sprezzyyy">@sprezzyyy</a> · ♥ 216 · <a href="https://x.com/sprezzyyy/status/2125321545665192054">▶ Видео</a></sub><br>
+<sub>Градостроительная песочница, вдохновлённая Townscaper. Поставьте несколько блоков, посмотрите, как они превращаются в нарисованный от руки городок, а потом как он оживает. Работает в браузере.</sub>
+</td>
 <td width="33%" valign="top">
 <a href="https://noclipepe.pages.dev/dino"><img src="../assets/gifs/011.gif" width="100%" alt="Rambo Dino"></a><br>
 <b><a href="https://noclipepe.pages.dev/dino">Rambo Dino</a></b><br>
@@ -361,8 +376,6 @@
 <sub>Игра с Т-рексом из Chrome, собранная заново. Сравнение с Opus 5.5, Gemini 4 Carbon и GPT-6 Astra.</sub><br>
 <sub><a href="https://fablelist.000ooo.ooo/ru/prompts/?w=rambo-dino&ref=gh"><b>✨ Получить промпт</b></a></sub>
 </td>
-</tr>
-<tr>
 <td width="33%" valign="top">
 <a href="https://cozylisbon.vercel.app"><img src="../assets/gifs/200.gif" width="100%" alt="Cozy Lisbon"></a><br>
 <b><a href="https://cozylisbon.vercel.app">Cozy Lisbon</a></b><br>
@@ -370,6 +383,8 @@
 <sub>Уютная игра из одного промпта про маленький самолёт, летающий над Лиссабоном.</sub><br>
 <sub><a href="https://fablelist.000ooo.ooo/ru/prompts/?w=cozy-lisbon&ref=gh"><b>✨ Получить промпт</b></a></sub>
 </td>
+</tr>
+<tr>
 <td width="33%" valign="top">
 <a href="https://spawn.co/@robot/frontline-warfare-deathmatch"><img src="../assets/gifs/012.gif" width="100%" alt="Frontline Warfare Deathmatch"></a><br>
 <b><a href="https://spawn.co/@robot/frontline-warfare-deathmatch">Frontline Warfare Deathmatch</a></b><br>
@@ -384,8 +399,6 @@
 <sub><a href="https://github.com/wquguru/fable52-fps-repro">Исходный код</a></sub><br>
 <sub><a href="https://x.com/wquguru/status/2120383332722905400">📝 Промпт автора (бесплатно)</a></sub>
 </td>
-</tr>
-<tr>
 <td width="33%" valign="top">
 <a href="https://remix.gg/g/banana-mine-rush"><img src="../assets/gifs/201.gif" width="100%" alt="Banana Mine Rush"></a><br>
 <b><a href="https://remix.gg/g/banana-mine-rush">Banana Mine Rush</a></b><br>
@@ -393,6 +406,8 @@
 <sub>3D-картинг на Remix: запускается мгновенно в браузере без аккаунта, с мультиплеером и таблицами лидеров.</sub><br>
 <sub><a href="https://fablelist.000ooo.ooo/ru/prompts/?w=banana-mine-rush&ref=gh"><b>✨ Получить промпт</b></a></sub>
 </td>
+</tr>
+<tr>
 <td width="33%" valign="top">
 <a href="https://turbo-tails.vercel.app"><img src="../assets/gifs/009.gif" width="100%" alt="Turbo Tails"></a><br>
 <b><a href="https://turbo-tails.vercel.app">Turbo Tails</a></b><br>
@@ -407,8 +422,6 @@
 <sub><a href="https://x.com/_satyam_ai">@_satyam_ai</a> · ♥ 139 · <a href="https://x.com/_satyam_ai/status/2123787482747764918">▶ Видео</a></sub><br>
 <sub>Гоночная игра, которая целиком работает в Chrome на WebGPU, на движке, который автор пишет с нуля. Большую часть ассетов, включая машину, сделали Fable 5.2 и GPT-6.2 Astra.</sub>
 </td>
-</tr>
-<tr>
 <td width="33%" valign="top">
 <a href="https://luminazombies.com/"><img src="../assets/gifs/176.gif" width="100%" alt="Lumina Zombies"></a><br>
 <b><a href="https://luminazombies.com/">Lumina Zombies</a></b><br>
@@ -416,6 +429,8 @@
 <sub>Совершенно новая карта с пасхалками за несколько промптов, плюс улучшения, вдвое снизившие требования к железу и задержку на двух других картах.</sub><br>
 <sub><a href="https://fablelist.000ooo.ooo/ru/prompts/?w=lumina-zombies&ref=gh"><b>✨ Получить промпт</b></a></sub>
 </td>
+</tr>
+<tr>
 <td width="33%" valign="top">
 <a href="https://github.com/amirmushichge/fly-in-kit"><img src="../assets/gifs/320.gif" width="100%" alt="Fly-In Kit: мини-игра с полётом для кафе"></a><br>
 <b><a href="https://github.com/amirmushichge/fly-in-kit">Fly-In Kit: мини-игра с полётом для кафе</a></b><br>
@@ -429,8 +444,6 @@
 <sub>Ванильный JS со своим WebGL-рендерером; динозавры, деревья и ландшафт — стопки 2D-пиксельных срезов.</sub><br>
 <sub><a href="https://fablelist.000ooo.ooo/ru/prompts/?w=thunder-valley-dino-chase&ref=gh"><b>✨ Получить промпт</b></a></sub>
 </td>
-</tr>
-<tr>
 <td width="33%" valign="top">
 <a href="https://feed-backrooms.vercel.app"><img src="../assets/gifs/013.gif" width="100%" alt="Feed the Backrooms"></a><br>
 <b><a href="https://feed-backrooms.vercel.app">Feed the Backrooms</a></b><br>
@@ -438,6 +451,8 @@
 <sub>Backrooms наоборот: вы монстр, и ваша задача — ловить людей.</sub><br>
 <sub><a href="https://fablelist.000ooo.ooo/ru/prompts/?w=feed-the-backrooms&ref=gh"><b>✨ Получить промпт</b></a></sub>
 </td>
+</tr>
+<tr>
 <td width="33%" valign="top">
 <a href="https://rivergame-kappa.vercel.app"><img src="../assets/gifs/132.gif" width="100%" alt="The Waking River"></a><br>
 <b><a href="https://rivergame-kappa.vercel.app">The Waking River</a></b><br>
@@ -452,8 +467,6 @@
 <sub>Игра-квест про полёты, сделанная с Fable 5.2, Opus 5.5, Crayon и three.js.</sub><br>
 <sub><a href="https://fablelist.000ooo.ooo/ru/prompts/?w=skywake&ref=gh"><b>✨ Получить промпт</b></a></sub>
 </td>
-</tr>
-<tr>
 <td width="33%" valign="top">
 <a href="https://app.usecrayon.ai/play/0cd7624e-1297-417e-a5be-b3c3036a496a"><img src="../assets/gifs/249.gif" width="100%" alt="KUMOKIRI"></a><br>
 <b><a href="https://app.usecrayon.ai/play/0cd7624e-1297-417e-a5be-b3c3036a496a">KUMOKIRI</a></b><br>
@@ -461,26 +474,28 @@
 <sub>Самурайская игра в живописном стиле, сделанная с Fable 5.2, Crayon и three.js.</sub><br>
 <sub><a href="https://fablelist.000ooo.ooo/ru/prompts/?w=kumokiri&ref=gh"><b>✨ Получить промпт</b></a></sub>
 </td>
+</tr>
+<tr>
 <td width="33%" valign="top">
 <a href="http://drift.harma.cc/en"><img src="../assets/gifs/363.gif" width="100%" alt="DRIFT: Veresk-9"></a><br>
 <b><a href="http://drift.harma.cc/en">DRIFT: Veresk-9</a></b><br>
-<sub><a href="https://x.com/Rencrypta">@Rencrypta</a> · ♥ 73 · <a href="https://x.com/Rencrypta/status/2123527249064321465">Пост</a></sub><br>
+<sub><a href="https://x.com/Rencrypta">@Rencrypta</a> · ♥ 72 · <a href="https://x.com/Rencrypta/status/2123527249064321465">Пост</a></sub><br>
 <sub>Космическая 3D-головоломка от первого лица в браузере. Летите на мёртвую шахтёрскую станцию в поясе астероидов, чтобы заглушить маяк, и выясняете, что экипаж так и не эвакуировался.</sub>
 </td>
 <td width="33%" valign="top">
 <a href="https://claude.ai/artifact/3o9NKKmpezAFEan5SeVaxn"><img src="../assets/gifs/388.gif" width="100%" alt="ASHEN VIGIL"></a><br>
 <b><a href="https://claude.ai/artifact/3o9NKKmpezAFEan5SeVaxn">ASHEN VIGIL</a></b><br>
-<sub>🆕 · <a href="https://x.com/CapyCola">@CapyCola</a> · ♥ 71 · <a href="https://x.com/CapyCola/status/2123707546779451602">▶ Видео</a></sub><br>
+<sub><a href="https://x.com/CapyCola">@CapyCola</a> · ♥ 71 · <a href="https://x.com/CapyCola/status/2123707546779451602">▶ Видео</a></sub><br>
 <sub>3D-игра в духе survivors, созданная по одному сообщению: продержитесь 5 минут в дождливых руинах аббатства; 5 видов оружия, 7 улучшений, 4 типа врагов и босс. Около 6900 строк кода, вся графика и звук сгенерированы кодом.</sub>
 </td>
-</tr>
-<tr>
 <td width="33%" valign="top">
 <a href="https://www.spawn.co/@abbidabbi/pogo-riot"><img src="../assets/gifs/263.gif" width="100%" alt="Pogo Riot"></a><br>
 <b><a href="https://www.spawn.co/@abbidabbi/pogo-riot">Pogo Riot</a></b><br>
 <sub><a href="https://x.com/Pumpnasterr">@Pumpnasterr</a> · ♥ 64 · <a href="https://x.com/Pumpnasterr/status/2121343507885682917">▶ Видео</a></sub><br>
 <sub>FPS «каждый сам за себя», где вы прыгаете на пого-стике и целитесь одновременно.</sub>
 </td>
+</tr>
+<tr>
 <td width="33%" valign="top">
 <a href="https://patch.gg/games/rehan/ringfall"><img src="../assets/gifs/178.gif" width="100%" alt="Ringfall"></a><br>
 <b><a href="https://patch.gg/games/rehan/ringfall">Ringfall</a></b><br>
@@ -495,14 +510,14 @@
 <sub>Построил улицу, нашёл 3D-модели и звуки и сам сыграл в игру, чтобы записать трейлер. Лучше всего на ноутбуке.</sub><br>
 <sub><a href="https://fablelist.000ooo.ooo/ru/prompts/?w=save-the-world&ref=gh"><b>✨ Получить промпт</b></a></sub>
 </td>
-</tr>
-<tr>
 <td width="33%" valign="top">
 <a href="https://nisen0808-web.github.io/xiyou-td-play/"><img src="../assets/gifs/338.gif" width="100%" alt="Xiyou X: tower defense по «Путешествию на Запад»"></a><br>
 <b><a href="https://nisen0808-web.github.io/xiyou-td-play/">Xiyou X: tower defense по «Путешествию на Запад»</a></b><br>
 <sub><a href="https://x.com/PhyrexNi">@PhyrexNi</a> · ♥ 59 · <a href="https://x.com/PhyrexNi/status/2122602578978709908">Пост</a></sub><br>
 <sub>Тестовая сборка tower defense с восемью уровнями, пятью сложностями и особыми картами персонажей. Работает в браузерах на компьютере и телефоне, лучше всего в альбомной ориентации.</sub>
 </td>
+</tr>
+<tr>
 <td width="33%" valign="top">
 <a href="https://wavedash.com/games/ink-flight"><img src="../assets/gifs/364.gif" width="100%" alt="Ink Flight"></a><br>
 <b><a href="https://wavedash.com/games/ink-flight">Ink Flight</a></b><br>
@@ -518,8 +533,6 @@
 <sub><a href="https://github.com/SamG-Coder/solstice-racing">Исходный код</a></sub><br>
 <sub><a href="https://fablelist.000ooo.ooo/ru/prompts/?w=kestrel-head-solstice-racing&ref=gh"><b>✨ Получить промпт</b></a></sub>
 </td>
-</tr>
-<tr>
 <td width="33%" valign="top">
 <a href="https://shubhu121.github.io/hitdude/play/"><img src="../assets/gifs/203.gif" width="100%" alt="HITOFUDE"></a><br>
 <b><a href="https://shubhu121.github.io/hitdude/play/">HITOFUDE</a></b><br>
@@ -527,6 +540,8 @@
 <sub>Каждый кадр прорисован кодом как тушь сумиэ на бумаге. Босс стирает уровень; ваш меч — кисть.</sub><br>
 <sub><a href="https://fablelist.000ooo.ooo/ru/prompts/?w=hitofude&ref=gh"><b>✨ Получить промпт</b></a></sub>
 </td>
+</tr>
+<tr>
 <td width="33%" valign="top">
 <a href="https://claude.ai/artifact/UD9pGEN4QFA8F5EadRw8eL"><img src="../assets/gifs/189.gif" width="100%" alt="Midnight Pass"></a><br>
 <b><a href="https://claude.ai/artifact/UD9pGEN4QFA8F5EadRw8eL">Midnight Pass</a></b><br>
@@ -542,8 +557,6 @@
 <sub><a href="https://higgsfield.ai/@higgsfield.studio/blogs/claude-fable-5-2-built-a-dragon-riding-game-play-it-free">Dragon-riding game</a> · <a href="https://higgsfield.ai/@higgsfield.studio/blogs/one-drawing-fable-5-2-turned-it-into-a-horror-game">Drawing-to-horror game</a></sub><br>
 <sub><a href="https://fablelist.000ooo.ooo/ru/prompts/?w=vowlorn&ref=gh"><b>✨ Получить промпт</b></a></sub>
 </td>
-</tr>
-<tr>
 <td width="33%" valign="top">
 <a href="https://fowllabs.com/fable-5-2/chairmageddon/"><img src="../assets/gifs/179.gif" width="100%" alt="Chairmageddon"></a><br>
 <b><a href="https://fowllabs.com/fable-5-2/chairmageddon/">Chairmageddon</a></b><br>
@@ -551,10 +564,12 @@
 <sub>Уничтожьте мирный город из синих стульев. Да, детскую коляску тоже можно засосать в вихрь.</sub><br>
 <sub><a href="https://fablelist.000ooo.ooo/ru/prompts/?w=chairmageddon&ref=gh"><b>✨ Получить промпт</b></a></sub>
 </td>
+</tr>
+<tr>
 <td width="33%" valign="top">
 <a href="https://turbo-stack-nine.vercel.app"><img src="../assets/gifs/380.gif" width="100%" alt="Turbo Stack"></a><br>
 <b><a href="https://turbo-stack-nine.vercel.app">Turbo Stack</a></b><br>
-<sub>🆕 · <a href="https://x.com/blueemi99">@blueemi99</a> · ♥ 48 · <a href="https://x.com/blueemi99/status/2124207899501101247">▶ Видео</a></sub><br>
+<sub><a href="https://x.com/blueemi99">@blueemi99</a> · ♥ 48 · <a href="https://x.com/blueemi99/status/2124207899501101247">▶ Видео</a></sub><br>
 <sub>Гоночная игра, нарисованная в технике sprite stacking: слои пиксель-арта накладываются друг на друга, и машину видно под любым углом.</sub>
 </td>
 <td width="33%" valign="top">
@@ -564,8 +579,6 @@
 <sub>Спасайте котят, шипите на собак, орите на старого кота. Каждый звук синтезирован.</sub><br>
 <sub><a href="https://fablelist.000ooo.ooo/ru/prompts/?w=stray-cat&ref=gh"><b>✨ Получить промпт</b></a></sub>
 </td>
-</tr>
-<tr>
 <td width="33%" valign="top">
 <a href="https://sael.net/demo/farewell-light/"><img src="../assets/gifs/183.gif" width="100%" alt="Farewell Light"></a><br>
 <b><a href="https://sael.net/demo/farewell-light/">Farewell Light</a></b><br>
@@ -573,11 +586,20 @@
 <sub>Геймплейное демо, сделанное за ночь.</sub><br>
 <sub><a href="https://fablelist.000ooo.ooo/ru/prompts/?w=farewell-light&ref=gh"><b>✨ Получить промпт</b></a></sub>
 </td>
+</tr>
+<tr>
 <td width="33%" valign="top">
 <a href="https://fowllabs.com/fable-5-2/knock-it-off/"><img src="../assets/gifs/273.gif" width="100%" alt="Knock It Off"></a><br>
 <b><a href="https://fowllabs.com/fable-5-2/knock-it-off/">Knock It Off</a></b><br>
 <sub><a href="https://x.com/argofowl">@argofowl</a> · ♥ 43 · <a href="https://x.com/argofowl/status/2121276206683410839">▶ Видео</a></sub><br>
 <sub>Вы — кот в 3 часа ночи, который сбрасывает со стола всё подряд, не разбудив человека. Один HTML-файл без 3D-моделей.</sub>
+</td>
+<td width="33%" valign="top">
+<a href="https://tetriss22.github.io/unwritten/"><img src="../assets/gifs/403.gif" width="100%" alt="UNWRITTEN — открытый мир, целиком нарисованный текстовыми символами"></a><br>
+<b><a href="https://tetriss22.github.io/unwritten/">UNWRITTEN — открытый мир, целиком нарисованный текстовыми символами</a></b><br>
+<sub>🆕 · <a href="https://x.com/Tetriss112">@Tetriss112</a> · ♥ 41 · <a href="https://x.com/Tetriss112/status/2125302656616849796">▶ Видео</a></sub><br>
+<sub>ASCII-экшен с открытым миром. Нечто стирает мир слово за словом, а вы — последний Писец, способный написать его заново. Пять земель, бой верхом, три вида оружия, огонь и молнии и финальный босс по имени THE EDITOR. Ни одного файла изображений, 2,737 строк кода.</sub><br>
+<sub><a href="https://github.com/Tetriss22/unwritten">Исходный код</a></sub>
 </td>
 <td width="33%" valign="top">
 <a href="https://remix.gg/g/survivors"><img src="../assets/gifs/223.gif" width="100%" alt="Survivors"></a><br>
@@ -718,7 +740,7 @@
 <td width="33%" valign="top">
 <a href="https://noclipepe.pages.dev/pattinson-verse/"><img src="../assets/gifs/382.gif" width="100%" alt="Pattinson-Verse"></a><br>
 <b><a href="https://noclipepe.pages.dev/pattinson-verse/">Pattinson-Verse</a></b><br>
-<sub>🆕 · <a href="https://x.com/noclipepe">@noclipepe</a> · ♥ 17 · <a href="https://x.com/noclipepe/status/2124204825294295250">▶ Видео</a></sub><br>
+<sub><a href="https://x.com/noclipepe">@noclipepe</a> · ♥ 17 · <a href="https://x.com/noclipepe/status/2124204825294295250">▶ Видео</a></sub><br>
 <sub>Аркадный beat 'em up, где роли Robert Pattinson собраны в одной игре: James Bond, Batman, Hogwarts, Twilight и Dune. Сделано с GPT-6.2 Astra и Fable 5.2.</sub>
 </td>
 </tr>
@@ -737,20 +759,20 @@
 <sub><a href="https://fablelist.000ooo.ooo/ru/prompts/?w=ignition-fighting-game&ref=gh"><b>✨ Получить промпт</b></a></sub>
 </td>
 <td width="33%" valign="top">
+<a href="https://maple-run-fable.vercel.app"><img src="../assets/gifs/395.gif" width="100%" alt="Maple Run"></a><br>
+<b><a href="https://maple-run-fable.vercel.app">Maple Run</a></b><br>
+<sub>🆕 · <a href="https://x.com/nan_in_space">@nan_in_space</a> · ♥ 13 · <a href="https://x.com/nan_in_space/status/2125041219244015900">▶ Видео</a></sub><br>
+<sub>Раннер в духе Subway Surfers, пересобранный на Fable 5.2 и выложенный в открытый доступ. Загрузите изображение любого персонажа и играйте за него; персонажи — это гауссовы сплаты с ригом, созданные из одной картинки с помощью Viggle PINOC.</sub><br>
+<sub><a href="https://github.com/nanha0130/maple-run-fable">Исходный код</a></sub>
+</td>
+</tr>
+<tr>
+<td width="33%" valign="top">
 <a href="https://silicon-seduction.vercel.app/"><img src="../assets/gifs/019.gif" width="100%" alt="Silicon Seduction"></a><br>
 <b><a href="https://silicon-seduction.vercel.app/">Silicon Seduction</a></b><br>
 <sub><a href="https://x.com/ZryMiller">@ZryMiller</a> · ♥ 12 · <a href="https://x.com/ZryMiller/status/2119918766691954691">▶ Видео</a></sub><br>
 <sub>Сможете ли вы выбраться, не поддавшись соблазну?</sub><br>
 <sub><a href="https://fablelist.000ooo.ooo/ru/prompts/?w=silicon-seduction&ref=gh"><b>✨ Получить промпт</b></a></sub>
-</td>
-</tr>
-<tr>
-<td width="33%" valign="top">
-<a href="https://maple-run-fable.vercel.app"><img src="../assets/gifs/395.gif" width="100%" alt="Maple Run"></a><br>
-<b><a href="https://maple-run-fable.vercel.app">Maple Run</a></b><br>
-<sub>🆕 · <a href="https://x.com/nan_in_space">@nan_in_space</a> · ♥ 12 · <a href="https://x.com/nan_in_space/status/2125041219244015900">▶ Видео</a></sub><br>
-<sub>Раннер в духе Subway Surfers, пересобранный на Fable 5.2 и выложенный в открытый доступ. Загрузите изображение любого персонажа и играйте за него; персонажи — это гауссовы сплаты с ригом, созданные из одной картинки с помощью Viggle PINOC.</sub><br>
-<sub><a href="https://github.com/nanha0130/maple-run-fable">Исходный код</a></sub>
 </td>
 <td width="33%" valign="top">
 <a href="https://www.aigameshare.com/games/island-god-game?play=1&mode=fullscreen"><img src="../assets/gifs/232.gif" width="100%" alt="Handful: Island God"></a><br>

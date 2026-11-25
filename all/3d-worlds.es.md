@@ -1,4 +1,4 @@
-# 🌍 Mundos y escenas 3D · los 51
+# 🌍 Mundos y escenas 3D · los 52
 
 [← Volver a la lista](../README.es.md) · [English](3d-worlds.md) · [简体中文](3d-worlds.zh-CN.md) · [繁體中文](3d-worlds.zh-TW.md) · [日本語](3d-worlds.ja.md) · [한국어](3d-worlds.ko.md) · **Español** · [Português](3d-worlds.pt-BR.md) · [Français](3d-worlds.fr.md) · [Deutsch](3d-worlds.de.md) · [Русский](3d-worlds.ru.md)
 
@@ -68,7 +68,7 @@ La página principal muestra como máximo las 24 entradas con más «me gusta» 
 <td width="33%" valign="top">
 <a href="https://fable-rover.vercel.app"><img src="../assets/gifs/278.gif" width="100%" alt="ER-6 Terrain Explorer — un rover marciano autónomo"></a><br>
 <b><a href="https://fable-rover.vercel.app">ER-6 Terrain Explorer — un rover marciano autónomo</a></b><br>
-<sub><a href="https://x.com/DilumSanjaya">@DilumSanjaya</a> · ♥ 804 · <a href="https://x.com/DilumSanjaya/status/2120561077385867663">▶ Video</a></sub><br>
+<sub><a href="https://x.com/DilumSanjaya">@DilumSanjaya</a> · ♥ 809 · <a href="https://x.com/DilumSanjaya/status/2120561077385867663">▶ Video</a></sub><br>
 <sub>Fable 5.2 diseñó una suspensión rocker-bogie como la de los rovers de la NASA y simuló su conducción por terreno alienígena.</sub>
 </td>
 </tr>
@@ -82,7 +82,7 @@ La página principal muestra como máximo las 24 entradas con más «me gusta» 
 <td width="33%" valign="top">
 <a href="https://patch.gg/play/blendi/the-blue-hour"><img src="../assets/gifs/387.gif" width="100%" alt="The Blue Hour — una ciudad art déco de noche"></a><br>
 <b><a href="https://patch.gg/play/blendi/the-blue-hour">The Blue Hour — una ciudad art déco de noche</a></b><br>
-<sub>🆕 · <a href="https://x.com/BlendiByl">@BlendiByl</a> · ♥ 636 · <a href="https://x.com/BlendiByl/status/2124439671006748853">▶ Video</a></sub><br>
+<sub><a href="https://x.com/BlendiByl">@BlendiByl</a> · ♥ 637 · <a href="https://x.com/BlendiByl/status/2124439671006748853">▶ Video</a></sub><br>
 <sub>Una escena 3D al estilo art déco de la serie animada de Batman, dibujada por completo con código. Código abierto.</sub>
 </td>
 <td width="33%" valign="top">
@@ -186,7 +186,7 @@ La página principal muestra como máximo las 24 entradas con más «me gusta» 
 <td width="33%" valign="top">
 <a href="https://claude.ai/artifact/HCzUsvWqERjQcgJjRuUUFo"><img src="../assets/gifs/386.gif" width="100%" alt="Rain-Soaked Noodle Stall — un diorama en píxeles"></a><br>
 <b><a href="https://claude.ai/artifact/HCzUsvWqERjQcgJjRuUUFo">Rain-Soaked Noodle Stall — un diorama en píxeles</a></b><br>
-<sub>🆕 · <a href="https://x.com/CapyCola">@CapyCola</a> · ♥ 135 · <a href="https://x.com/CapyCola/status/2124115057101664380">▶ Video</a></sub><br>
+<sub><a href="https://x.com/CapyCola">@CapyCola</a> · ♥ 136 · <a href="https://x.com/CapyCola/status/2124115057101664380">▶ Video</a></sub><br>
 <sub>Un puesto de fideos bajo la lluvia, farolillos que se mecen, una olla de sopa que nadie vigila y un gato que aún no se ha ido. Una escena en píxeles que puedes arrastrar y girar para verla desde cualquier ángulo, hecha con Fable 5.2 e Ink Studio.</sub><br>
 <sub><a href="https://github.com/cola5939/pixel-dioramas">Código fuente</a></sub>
 </td>
@@ -327,12 +327,21 @@ La página principal muestra como máximo las 24 entradas con más «me gusta» 
 <sub><a href="https://fablelist.000ooo.ooo/es/prompts/?w=voxel-colosseum&ref=gh"><b>✨ Consigue el prompt</b></a></sub>
 </td>
 <td width="33%" valign="top">
+<a href="https://zalo.github.io/LanternTown/town/"><img src="../assets/gifs/404.gif" width="100%" alt="LanternTown — una plaza de pueblo iluminada por faroles"></a><br>
+<b><a href="https://zalo.github.io/LanternTown/town/">LanternTown — una plaza de pueblo iluminada por faroles</a></b><br>
+<sub>🆕 · <a href="https://x.com/makeshifted">@makeshifted</a> · ♥ 14 · <a href="https://x.com/makeshifted/status/2125331267512377844">Publicación</a></sub><br>
+<sub>Una plaza de pueblo experimental en three.js. Todos los assets están definidos de forma paramétrica y la iluminación va horneada en los colores de vértice, así que corre ligera.</sub><br>
+<sub><a href="https://github.com/zalo/LanternTown">Código fuente</a></sub>
+</td>
+<td width="33%" valign="top">
 <a href="https://glittery-stardust-885b97.netlify.app"><img src="../assets/gifs/233.gif" width="100%" alt="HX-6 Hexapod, Three Worlds"></a><br>
 <b><a href="https://glittery-stardust-885b97.netlify.app">HX-6 Hexapod, Three Worlds</a></b><br>
 <sub><a href="https://x.com/Acoramaa">@Acoramaa</a> · ♥ 11 · <a href="https://x.com/Acoramaa/status/2120839083895538093">▶ Video</a></sub><br>
 <sub>El mismo hexápodo de 14 kg en Marte, la Luna y Europa; cada pata encuentra su propio terreno. Conduce tú mismo.</sub><br>
 <sub><a href="https://fablelist.000ooo.ooo/es/prompts/?w=hx-6-hexapod-three-worlds&ref=gh"><b>✨ Consigue el prompt</b></a></sub>
 </td>
+</tr>
+<tr>
 <td width="33%" valign="top">
 <a href="https://zondark.com"><img src="../assets/gifs/033.gif" width="100%" alt="Viaje de ida a un agujero negro"></a><br>
 <b><a href="https://zondark.com">Viaje de ida a un agujero negro</a></b><br>
@@ -340,8 +349,6 @@ La página principal muestra como máximo las 24 entradas con más «me gusta» 
 <sub>Un sitio personal reconstruido como un recorrido con scroll desde la Tierra hasta un agujero negro.</sub><br>
 <sub><a href="https://fablelist.000ooo.ooo/es/prompts/?w=one-way-trip-to-a-black-hole&ref=gh"><b>✨ Consigue el prompt</b></a></sub>
 </td>
-</tr>
-<tr>
 <td width="33%" valign="top">
 <a href="https://madebysourasith-sudo.github.io/red-wing-jet/"><img src="../assets/gifs/265.gif" width="100%" alt="Jet privado Red Wing"></a><br>
 <b><a href="https://madebysourasith-sudo.github.io/red-wing-jet/">Jet privado Red Wing</a></b><br>
@@ -355,6 +362,8 @@ La página principal muestra como máximo las 24 entradas con más «me gusta» 
 <sub>Abre el cuaderno y una pluma dibuja las máquinas de Leonardo, que se convierten en mecanismos de madera que puedes girar y desmontar. Sin modelos 3D, texturas ni archivos de audio: todo es código.</sub><br>
 <sub><a href="https://github.com/coding-nanami/davinci-mechanics">Código fuente</a></sub>
 </td>
+</tr>
+<tr>
 <td width="33%" valign="top">
 <a href="https://claude.ai/artifact/FETrKoitcqxPQjbQvZd79C"><img src="../assets/gifs/034.gif" width="100%" alt="Belt Stress Test"></a><br>
 <b><a href="https://claude.ai/artifact/FETrKoitcqxPQjbQvZd79C">Belt Stress Test</a></b><br>
@@ -362,8 +371,6 @@ La página principal muestra como máximo las 24 entradas con más «me gusta» 
 <sub>~20,000 asteroides en órbita; sigue añadiendo rocas hasta que tu dispositivo baja de 30 fps.</sub><br>
 <sub><a href="https://fablelist.000ooo.ooo/es/prompts/?w=belt-stress-test&ref=gh"><b>✨ Consigue el prompt</b></a></sub>
 </td>
-</tr>
-<tr>
 <td width="33%" valign="top">
 <a href="https://claude.ai/artifact/BCDCNHRTq3y9W4Px3xc4DN"><img src="../assets/gifs/030.gif" width="100%" alt="Una aldea sobre un caracol gigante"></a><br>
 <b><a href="https://claude.ai/artifact/BCDCNHRTq3y9W4Px3xc4DN">Una aldea sobre un caracol gigante</a></b><br>
@@ -378,6 +385,8 @@ La página principal muestra como máximo las 24 entradas con más «me gusta» 
 <sub>3,357 piezas arman una pagoda de cinco pisos que se convierte en una espadachina. Música calculada en código.</sub><br>
 <sub><a href="https://fablelist.000ooo.ooo/es/prompts/?w=wooden-pagoda-transformation&ref=gh"><b>✨ Consigue el prompt</b></a></sub>
 </td>
+</tr>
+<tr>
 <td width="33%" valign="top">
 <a href="https://cyrilremacle-byte.github.io/francis-turbine-explorer/"><img src="../assets/gifs/355.gif" width="100%" alt="Francis Turbine Explorer"></a><br>
 <b><a href="https://cyrilremacle-byte.github.io/francis-turbine-explorer/">Francis Turbine Explorer</a></b><br>

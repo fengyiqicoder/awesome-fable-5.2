@@ -1,4 +1,4 @@
-# 🌍 3D 월드와 장면 · 전체 51개
+# 🌍 3D 월드와 장면 · 전체 52개
 
 [← 메인 목록으로](../README.ko.md) · [English](3d-worlds.md) · [简体中文](3d-worlds.zh-CN.md) · [繁體中文](3d-worlds.zh-TW.md) · [日本語](3d-worlds.ja.md) · **한국어** · [Español](3d-worlds.es.md) · [Português](3d-worlds.pt-BR.md) · [Français](3d-worlds.fr.md) · [Deutsch](3d-worlds.de.md) · [Русский](3d-worlds.ru.md)
 
@@ -68,7 +68,7 @@
 <td width="33%" valign="top">
 <a href="https://fable-rover.vercel.app"><img src="../assets/gifs/278.gif" width="100%" alt="ER-6 Terrain Explorer — 스스로 달리는 화성 탐사차"></a><br>
 <b><a href="https://fable-rover.vercel.app">ER-6 Terrain Explorer — 스스로 달리는 화성 탐사차</a></b><br>
-<sub><a href="https://x.com/DilumSanjaya">@DilumSanjaya</a> · ♥ 804 · <a href="https://x.com/DilumSanjaya/status/2120561077385867663">▶ 영상</a></sub><br>
+<sub><a href="https://x.com/DilumSanjaya">@DilumSanjaya</a> · ♥ 809 · <a href="https://x.com/DilumSanjaya/status/2120561077385867663">▶ 영상</a></sub><br>
 <sub>Fable 5.2가 NASA 화성 탐사차처럼 로커-보기 서스펜션을 설계하고, 외계 지형을 달리는 시뮬레이션까지 만들었습니다.</sub>
 </td>
 </tr>
@@ -82,7 +82,7 @@
 <td width="33%" valign="top">
 <a href="https://patch.gg/play/blendi/the-blue-hour"><img src="../assets/gifs/387.gif" width="100%" alt="The Blue Hour — 아르데코풍 밤의 도시"></a><br>
 <b><a href="https://patch.gg/play/blendi/the-blue-hour">The Blue Hour — 아르데코풍 밤의 도시</a></b><br>
-<sub>🆕 · <a href="https://x.com/BlendiByl">@BlendiByl</a> · ♥ 636 · <a href="https://x.com/BlendiByl/status/2124439671006748853">▶ 영상</a></sub><br>
+<sub><a href="https://x.com/BlendiByl">@BlendiByl</a> · ♥ 637 · <a href="https://x.com/BlendiByl/status/2124439671006748853">▶ 영상</a></sub><br>
 <sub>애니메이션 '배트맨' 시리즈의 아르데코 스타일을 살린 3D 장면으로, 전부 코드로 그렸습니다. 오픈 소스.</sub>
 </td>
 <td width="33%" valign="top">
@@ -186,7 +186,7 @@
 <td width="33%" valign="top">
 <a href="https://claude.ai/artifact/HCzUsvWqERjQcgJjRuUUFo"><img src="../assets/gifs/386.gif" width="100%" alt="Rain-Soaked Noodle Stall — 픽셀 디오라마"></a><br>
 <b><a href="https://claude.ai/artifact/HCzUsvWqERjQcgJjRuUUFo">Rain-Soaked Noodle Stall — 픽셀 디오라마</a></b><br>
-<sub>🆕 · <a href="https://x.com/CapyCola">@CapyCola</a> · ♥ 135 · <a href="https://x.com/CapyCola/status/2124115057101664380">▶ 영상</a></sub><br>
+<sub><a href="https://x.com/CapyCola">@CapyCola</a> · ♥ 136 · <a href="https://x.com/CapyCola/status/2124115057101664380">▶ 영상</a></sub><br>
 <sub>비 내리는 국수 노점, 흔들리는 등불, 아무도 지켜보지 않는 국물 냄비, 그리고 아직 떠나지 않은 고양이. 드래그해 돌려 가며 어느 각도에서든 볼 수 있는 픽셀 장면으로, Fable 5.2와 Ink Studio로 만들었습니다.</sub><br>
 <sub><a href="https://github.com/cola5939/pixel-dioramas">소스 코드</a></sub>
 </td>
@@ -327,12 +327,21 @@
 <sub><a href="https://fablelist.000ooo.ooo/ko/prompts/?w=voxel-colosseum&ref=gh"><b>✨ 프롬프트 받기</b></a></sub>
 </td>
 <td width="33%" valign="top">
+<a href="https://zalo.github.io/LanternTown/town/"><img src="../assets/gifs/404.gif" width="100%" alt="LanternTown — 등불이 켜진 마을 광장"></a><br>
+<b><a href="https://zalo.github.io/LanternTown/town/">LanternTown — 등불이 켜진 마을 광장</a></b><br>
+<sub>🆕 · <a href="https://x.com/makeshifted">@makeshifted</a> · ♥ 14 · <a href="https://x.com/makeshifted/status/2125331267512377844">게시물</a></sub><br>
+<sub>실험적인 three.js 마을 광장. 모든 에셋이 파라메트릭으로 정의되고 조명은 버텍스 컬러에 구워져 있어 가볍게 돌아간다.</sub><br>
+<sub><a href="https://github.com/zalo/LanternTown">소스 코드</a></sub>
+</td>
+<td width="33%" valign="top">
 <a href="https://glittery-stardust-885b97.netlify.app"><img src="../assets/gifs/233.gif" width="100%" alt="HX-6 Hexapod, Three Worlds"></a><br>
 <b><a href="https://glittery-stardust-885b97.netlify.app">HX-6 Hexapod, Three Worlds</a></b><br>
 <sub><a href="https://x.com/Acoramaa">@Acoramaa</a> · ♥ 11 · <a href="https://x.com/Acoramaa/status/2120839083895538093">▶ 영상</a></sub><br>
 <sub>같은 14 kg 헥사포드를 화성, 달, 유로파에서: 발마다 스스로 지면을 찾습니다. 직접 운전해 보세요.</sub><br>
 <sub><a href="https://fablelist.000ooo.ooo/ko/prompts/?w=hx-6-hexapod-three-worlds&ref=gh"><b>✨ 프롬프트 받기</b></a></sub>
 </td>
+</tr>
+<tr>
 <td width="33%" valign="top">
 <a href="https://zondark.com"><img src="../assets/gifs/033.gif" width="100%" alt="블랙홀로 가는 편도 여행"></a><br>
 <b><a href="https://zondark.com">블랙홀로 가는 편도 여행</a></b><br>
@@ -340,8 +349,6 @@
 <sub>개인 사이트를 지구에서 블랙홀까지 스크롤로 떠나는 여정으로 다시 제작.</sub><br>
 <sub><a href="https://fablelist.000ooo.ooo/ko/prompts/?w=one-way-trip-to-a-black-hole&ref=gh"><b>✨ 프롬프트 받기</b></a></sub>
 </td>
-</tr>
-<tr>
 <td width="33%" valign="top">
 <a href="https://madebysourasith-sudo.github.io/red-wing-jet/"><img src="../assets/gifs/265.gif" width="100%" alt="Red Wing 전용기"></a><br>
 <b><a href="https://madebysourasith-sudo.github.io/red-wing-jet/">Red Wing 전용기</a></b><br>
@@ -355,6 +362,8 @@
 <sub>노트를 펼치면 깃펜이 다빈치의 기계를 스케치하고, 돌리고 분해할 수 있는 나무 기계로 바뀝니다. 3D 모델, 텍스처, 오디오 파일 없이 모두 코드로 만들었습니다.</sub><br>
 <sub><a href="https://github.com/coding-nanami/davinci-mechanics">소스 코드</a></sub>
 </td>
+</tr>
+<tr>
 <td width="33%" valign="top">
 <a href="https://claude.ai/artifact/FETrKoitcqxPQjbQvZd79C"><img src="../assets/gifs/034.gif" width="100%" alt="Belt Stress Test"></a><br>
 <b><a href="https://claude.ai/artifact/FETrKoitcqxPQjbQvZd79C">Belt Stress Test</a></b><br>
@@ -362,8 +371,6 @@
 <sub>약 20,000개의 소행성이 공전하며, 기기가 30 fps 아래로 떨어질 때까지 바위를 계속 추가.</sub><br>
 <sub><a href="https://fablelist.000ooo.ooo/ko/prompts/?w=belt-stress-test&ref=gh"><b>✨ 프롬프트 받기</b></a></sub>
 </td>
-</tr>
-<tr>
 <td width="33%" valign="top">
 <a href="https://claude.ai/artifact/BCDCNHRTq3y9W4Px3xc4DN"><img src="../assets/gifs/030.gif" width="100%" alt="거대한 달팽이 위의 마을"></a><br>
 <b><a href="https://claude.ai/artifact/BCDCNHRTq3y9W4Px3xc4DN">거대한 달팽이 위의 마을</a></b><br>
@@ -378,6 +385,8 @@
 <sub>부품 3,357개가 5층 탑으로 조립된 뒤 검을 든 여검사로 변신. 음악은 코드로 계산.</sub><br>
 <sub><a href="https://fablelist.000ooo.ooo/ko/prompts/?w=wooden-pagoda-transformation&ref=gh"><b>✨ 프롬프트 받기</b></a></sub>
 </td>
+</tr>
+<tr>
 <td width="33%" valign="top">
 <a href="https://cyrilremacle-byte.github.io/francis-turbine-explorer/"><img src="../assets/gifs/355.gif" width="100%" alt="Francis Turbine Explorer"></a><br>
 <b><a href="https://cyrilremacle-byte.github.io/francis-turbine-explorer/">Francis Turbine Explorer</a></b><br>

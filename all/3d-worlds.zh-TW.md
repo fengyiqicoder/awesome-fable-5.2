@@ -1,4 +1,4 @@
-# 🌍 3D 世界與場景 · 全部 51 個
+# 🌍 3D 世界與場景 · 全部 52 個
 
 [← 回到首頁](../README.zh-TW.md) · [English](3d-worlds.md) · [简体中文](3d-worlds.zh-CN.md) · **繁體中文** · [日本語](3d-worlds.ja.md) · [한국어](3d-worlds.ko.md) · [Español](3d-worlds.es.md) · [Português](3d-worlds.pt-BR.md) · [Français](3d-worlds.fr.md) · [Deutsch](3d-worlds.de.md) · [Русский](3d-worlds.ru.md)
 
@@ -68,7 +68,7 @@
 <td width="33%" valign="top">
 <a href="https://fable-rover.vercel.app"><img src="../assets/gifs/278.gif" width="100%" alt="ER-6 Terrain Explorer — 自動駕駛的火星車"></a><br>
 <b><a href="https://fable-rover.vercel.app">ER-6 Terrain Explorer — 自動駕駛的火星車</a></b><br>
-<sub><a href="https://x.com/DilumSanjaya">@DilumSanjaya</a> · ♥ 804 · <a href="https://x.com/DilumSanjaya/status/2120561077385867663">▶ 影片</a></sub><br>
+<sub><a href="https://x.com/DilumSanjaya">@DilumSanjaya</a> · ♥ 809 · <a href="https://x.com/DilumSanjaya/status/2120561077385867663">▶ 影片</a></sub><br>
 <sub>Fable 5.2 設計了 NASA 火星車那種搖臂轉向架懸吊，再模擬它在外星地形上行駛。</sub>
 </td>
 </tr>
@@ -82,7 +82,7 @@
 <td width="33%" valign="top">
 <a href="https://patch.gg/play/blendi/the-blue-hour"><img src="../assets/gifs/387.gif" width="100%" alt="The Blue Hour — 裝飾藝術風的夜色城市"></a><br>
 <b><a href="https://patch.gg/play/blendi/the-blue-hour">The Blue Hour — 裝飾藝術風的夜色城市</a></b><br>
-<sub>🆕 · <a href="https://x.com/BlendiByl">@BlendiByl</a> · ♥ 636 · <a href="https://x.com/BlendiByl/status/2124439671006748853">▶ 影片</a></sub><br>
+<sub><a href="https://x.com/BlendiByl">@BlendiByl</a> · ♥ 637 · <a href="https://x.com/BlendiByl/status/2124439671006748853">▶ 影片</a></sub><br>
 <sub>仿照《蝙蝠俠》動畫版裝飾藝術風格的 3D 場景，全部用程式碼畫出。開源。</sub>
 </td>
 <td width="33%" valign="top">
@@ -186,7 +186,7 @@
 <td width="33%" valign="top">
 <a href="https://claude.ai/artifact/HCzUsvWqERjQcgJjRuUUFo"><img src="../assets/gifs/386.gif" width="100%" alt="Rain-Soaked Noodle Stall — 像素立體畫"></a><br>
 <b><a href="https://claude.ai/artifact/HCzUsvWqERjQcgJjRuUUFo">Rain-Soaked Noodle Stall — 像素立體畫</a></b><br>
-<sub>🆕 · <a href="https://x.com/CapyCola">@CapyCola</a> · ♥ 135 · <a href="https://x.com/CapyCola/status/2124115057101664380">▶ 影片</a></sub><br>
+<sub><a href="https://x.com/CapyCola">@CapyCola</a> · ♥ 136 · <a href="https://x.com/CapyCola/status/2124115057101664380">▶ 影片</a></sub><br>
 <sub>雨中的麵攤、搖晃的燈籠、一鍋沒人顧的熱湯，還有一隻還沒離開的貓。可以拖曳旋轉、從任何角度觀看的像素場景，用 Fable 5.2 和 Ink Studio 製作。</sub><br>
 <sub><a href="https://github.com/cola5939/pixel-dioramas">原始碼</a></sub>
 </td>
@@ -327,12 +327,21 @@
 <sub><a href="https://fablelist.000ooo.ooo/zh-tw/prompts/?w=voxel-colosseum&ref=gh"><b>✨ 取得提示詞</b></a></sub>
 </td>
 <td width="33%" valign="top">
+<a href="https://zalo.github.io/LanternTown/town/"><img src="../assets/gifs/404.gif" width="100%" alt="LanternTown — 燈籠點亮的小鎮廣場"></a><br>
+<b><a href="https://zalo.github.io/LanternTown/town/">LanternTown — 燈籠點亮的小鎮廣場</a></b><br>
+<sub>🆕 · <a href="https://x.com/makeshifted">@makeshifted</a> · ♥ 14 · <a href="https://x.com/makeshifted/status/2125331267512377844">原文</a></sub><br>
+<sub>實驗性的 three.js 小鎮廣場。所有模型都以參數定義，光照烘焙進頂點顏色，所以跑起來很輕。</sub><br>
+<sub><a href="https://github.com/zalo/LanternTown">原始碼</a></sub>
+</td>
+<td width="33%" valign="top">
 <a href="https://glittery-stardust-885b97.netlify.app"><img src="../assets/gifs/233.gif" width="100%" alt="HX-6 六足機器人，三個世界"></a><br>
 <b><a href="https://glittery-stardust-885b97.netlify.app">HX-6 六足機器人，三個世界</a></b><br>
 <sub><a href="https://x.com/Acoramaa">@Acoramaa</a> · ♥ 11 · <a href="https://x.com/Acoramaa/status/2120839083895538093">▶ 影片</a></sub><br>
 <sub>同一台 14 公斤的六足機器人在火星、月球與木衛二上，每隻腳都會自己找到立足點。你可以親自駕駛。</sub><br>
 <sub><a href="https://fablelist.000ooo.ooo/zh-tw/prompts/?w=hx-6-hexapod-three-worlds&ref=gh"><b>✨ 取得提示詞</b></a></sub>
 </td>
+</tr>
+<tr>
 <td width="33%" valign="top">
 <a href="https://zondark.com"><img src="../assets/gifs/033.gif" width="100%" alt="單程黑洞之旅"></a><br>
 <b><a href="https://zondark.com">單程黑洞之旅</a></b><br>
@@ -340,8 +349,6 @@
 <sub>把個人網站改造成從地球一路捲動到黑洞的旅程。</sub><br>
 <sub><a href="https://fablelist.000ooo.ooo/zh-tw/prompts/?w=one-way-trip-to-a-black-hole&ref=gh"><b>✨ 取得提示詞</b></a></sub>
 </td>
-</tr>
-<tr>
 <td width="33%" valign="top">
 <a href="https://madebysourasith-sudo.github.io/red-wing-jet/"><img src="../assets/gifs/265.gif" width="100%" alt="Red Wing 私人噴射機"></a><br>
 <b><a href="https://madebysourasith-sudo.github.io/red-wing-jet/">Red Wing 私人噴射機</a></b><br>
@@ -355,6 +362,8 @@
 <sub>翻開筆記本，羽毛筆畫出達文西的機械草圖，再變成能轉動、能拆解的木製機械。沒有 3D 模型、貼圖和音訊檔，全部用程式碼生成。</sub><br>
 <sub><a href="https://github.com/coding-nanami/davinci-mechanics">原始碼</a></sub>
 </td>
+</tr>
+<tr>
 <td width="33%" valign="top">
 <a href="https://claude.ai/artifact/FETrKoitcqxPQjbQvZd79C"><img src="../assets/gifs/034.gif" width="100%" alt="Belt Stress Test"></a><br>
 <b><a href="https://claude.ai/artifact/FETrKoitcqxPQjbQvZd79C">Belt Stress Test</a></b><br>
@@ -362,8 +371,6 @@
 <sub>約 20,000 顆環繞的小行星；它會一直加石頭，直到你的裝置掉到 30 fps 以下。</sub><br>
 <sub><a href="https://fablelist.000ooo.ooo/zh-tw/prompts/?w=belt-stress-test&ref=gh"><b>✨ 取得提示詞</b></a></sub>
 </td>
-</tr>
-<tr>
 <td width="33%" valign="top">
 <a href="https://claude.ai/artifact/BCDCNHRTq3y9W4Px3xc4DN"><img src="../assets/gifs/030.gif" width="100%" alt="巨型蝸牛上的小村落"></a><br>
 <b><a href="https://claude.ai/artifact/BCDCNHRTq3y9W4Px3xc4DN">巨型蝸牛上的小村落</a></b><br>
@@ -378,6 +385,8 @@
 <sub>3,357 個零件組成五層木塔，再變成一位女劍客。音樂由程式碼運算而成。</sub><br>
 <sub><a href="https://fablelist.000ooo.ooo/zh-tw/prompts/?w=wooden-pagoda-transformation&ref=gh"><b>✨ 取得提示詞</b></a></sub>
 </td>
+</tr>
+<tr>
 <td width="33%" valign="top">
 <a href="https://cyrilremacle-byte.github.io/francis-turbine-explorer/"><img src="../assets/gifs/355.gif" width="100%" alt="Francis Turbine Explorer 混流式水輪機"></a><br>
 <b><a href="https://cyrilremacle-byte.github.io/francis-turbine-explorer/">Francis Turbine Explorer 混流式水輪機</a></b><br>

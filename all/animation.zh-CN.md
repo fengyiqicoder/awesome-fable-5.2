@@ -44,7 +44,7 @@
 <td width="33%" valign="top">
 <a href="https://github.com/Leonxlnx/mechanical-moon"><img src="../assets/gifs/336.gif" width="100%" alt="Mechanical Moon 机械月亮"></a><br>
 <b><a href="https://github.com/Leonxlnx/mechanical-moon">Mechanical Moon 机械月亮</a></b><br>
-<sub><a href="https://x.com/LexnLin">@LexnLin</a> · ♥ 352 · <a href="https://x.com/LexnLin/status/2122823164635881853">▶ 视频</a></sub><br>
+<sub><a href="https://x.com/LexnLin">@LexnLin</a> · ♥ 353 · <a href="https://x.com/LexnLin/status/2122823164635881853">▶ 视频</a></sub><br>
 <sub>45 秒 Blender 程序化短片：裂开的月亮里藏着一座金色发条巨构，全用 Python 脚本搭建，EEVEE 渲染</sub>
 </td>
 </tr>
@@ -87,7 +87,7 @@
 <td width="33%" valign="top">
 <a href="https://github.com/ChetasLua/the-last-good-pelican-fable-5.2"><img src="../assets/gifs/352.gif" width="100%" alt="The Last Good Pelican 最后一只画对的鹈鹕"></a><br>
 <b><a href="https://github.com/ChetasLua/the-last-good-pelican-fable-5.2">The Last Good Pelican 最后一只画对的鹈鹕</a></b><br>
-<sub><a href="https://x.com/chetaslua">@chetaslua</a> · ♥ 143 · <a href="https://x.com/chetaslua/status/2123100140189958401">▶ 视频</a></sub><br>
+<sub><a href="https://x.com/chetaslua">@chetaslua</a> · ♥ 144 · <a href="https://x.com/chetaslua/status/2123100140189958401">▶ 视频</a></sub><br>
 <sub>60 秒手绘风短片，一个离线 HTML 文件：每出一个新模型就有一只骑车的鹈鹕被画出来当测试题，这是唯一画对的那只疲惫的一天；画面全用 Canvas 2D，声音全用 Web Audio 合成</sub>
 </td>
 </tr>
