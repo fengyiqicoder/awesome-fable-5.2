@@ -1,4 +1,4 @@
-# 🌍 Mundos e cenas 3D · todos os 54
+# 🌍 Mundos e cenas 3D · todos os 55
 
 [← Voltar à lista](../README.pt-BR.md) · [English](3d-worlds.md) · [简体中文](3d-worlds.zh-CN.md) · [繁體中文](3d-worlds.zh-TW.md) · [日本語](3d-worlds.ja.md) · [한국어](3d-worlds.ko.md) · [Español](3d-worlds.es.md) · **Português** · [Français](3d-worlds.fr.md) · [Deutsch](3d-worlds.de.md) · [Русский](3d-worlds.ru.md)
 
@@ -54,21 +54,21 @@ A página principal mostra no máximo as 24 entradas mais curtidas de cada seç�
 <td width="33%" valign="top">
 <a href="https://fable-rome.surge.sh/"><img src="../assets/gifs/136.gif" width="100%" alt="Rome, AD 320"></a><br>
 <b><a href="https://fable-rome.surge.sh/">Rome, AD 320</a></b><br>
-<sub><a href="https://x.com/petergostev">@petergostev</a> · ♥ 976 · <a href="https://x.com/petergostev/status/2120167560700383572">▶ Vídeo</a></sub><br>
+<sub><a href="https://x.com/petergostev">@petergostev</a> · ♥ 978 · <a href="https://x.com/petergostev/status/2120167560700383572">▶ Vídeo</a></sub><br>
 <sub>Um prompt, Fable 5.2 (Max) rodando a noite toda, US$ 2.618.</sub><br>
 <sub><a href="https://x.com/petergostev/status/2120167560700383572">📝 Prompt do criador (grátis)</a></sub>
 </td>
 <td width="33%" valign="top">
 <a href="https://github.com/Leonxlnx/room-at-dawn"><img src="../assets/gifs/219.gif" width="100%" alt="Room at Dawn"></a><br>
 <b><a href="https://github.com/Leonxlnx/room-at-dawn">Room at Dawn</a></b><br>
-<sub><a href="https://x.com/LexnLin">@LexnLin</a> · ♥ 856 · <a href="https://x.com/LexnLin/status/2120910879361548565">▶ Vídeo</a></sub><br>
+<sub><a href="https://x.com/LexnLin">@LexnLin</a> · ♥ 857 · <a href="https://x.com/LexnLin/status/2120910879361548565">▶ Vídeo</a></sub><br>
 <sub>Um quarto fotorrealista em three.js sem modelos nem texturas prontos; tudo é código.</sub><br>
 <sub><a href="https://fablelist.000ooo.ooo/pt/prompts/?w=room-at-dawn&ref=gh"><b>✨ Pegue o prompt</b></a></sub>
 </td>
 <td width="33%" valign="top">
 <a href="https://fable-rover.vercel.app"><img src="../assets/gifs/278.gif" width="100%" alt="ER-6 Terrain Explorer — um rover marciano autônomo"></a><br>
 <b><a href="https://fable-rover.vercel.app">ER-6 Terrain Explorer — um rover marciano autônomo</a></b><br>
-<sub><a href="https://x.com/DilumSanjaya">@DilumSanjaya</a> · ♥ 833 · <a href="https://x.com/DilumSanjaya/status/2120561077385867663">▶ Vídeo</a></sub><br>
+<sub><a href="https://x.com/DilumSanjaya">@DilumSanjaya</a> · ♥ 836 · <a href="https://x.com/DilumSanjaya/status/2120561077385867663">▶ Vídeo</a></sub><br>
 <sub>O Fable 5.2 projetou uma suspensão rocker-bogie como a dos rovers da NASA e simulou o veículo rodando em terreno alienígena.</sub>
 </td>
 </tr>
@@ -82,7 +82,7 @@ A página principal mostra no máximo as 24 entradas mais curtidas de cada seç�
 <td width="33%" valign="top">
 <a href="https://patch.gg/play/blendi/the-blue-hour"><img src="../assets/gifs/387.gif" width="100%" alt="The Blue Hour — uma cidade art déco à noite"></a><br>
 <b><a href="https://patch.gg/play/blendi/the-blue-hour">The Blue Hour — uma cidade art déco à noite</a></b><br>
-<sub><a href="https://x.com/BlendiByl">@BlendiByl</a> · ♥ 640 · <a href="https://x.com/BlendiByl/status/2124439671006748853">▶ Vídeo</a></sub><br>
+<sub><a href="https://x.com/BlendiByl">@BlendiByl</a> · ♥ 642 · <a href="https://x.com/BlendiByl/status/2124439671006748853">▶ Vídeo</a></sub><br>
 <sub>Uma cena 3D no estilo art déco da série animada do Batman, toda desenhada em código. Código aberto.</sub>
 </td>
 <td width="33%" valign="top">
@@ -97,7 +97,7 @@ A página principal mostra no máximo as 24 entradas mais curtidas de cada seç�
 <td width="33%" valign="top">
 <a href="https://github.com/Leonxlnx/walking-block"><img src="../assets/gifs/318.gif" width="100%" alt="Walking Block: um prédio soviético que anda"></a><br>
 <b><a href="https://github.com/Leonxlnx/walking-block">Walking Block: um prédio soviético que anda</a></b><br>
-<sub><a href="https://x.com/LexnLin">@LexnLin</a> · ♥ 417 · <a href="https://x.com/LexnLin/status/2122359035751989341">▶ Vídeo</a></sub><br>
+<sub><a href="https://x.com/LexnLin">@LexnLin</a> · ♥ 416 · <a href="https://x.com/LexnLin/status/2122359035751989341">▶ Vídeo</a></sub><br>
 <sub>Um enorme bloco soviético de painéis sobre oito pernas mecânicas atravessa um campo molhado na névoa do entardecer. Geometria, texturas e shaders são código three.js, e um filme de 45 segundos é renderizado a partir da mesma cena.</sub>
 </td>
 <td width="33%" valign="top">
@@ -111,7 +111,7 @@ A página principal mostra no máximo as 24 entradas mais curtidas de cada seç�
 <td width="33%" valign="top">
 <a href="http://procedural-arm-rig.vercel.app"><img src="../assets/gifs/140.gif" width="100%" alt="Procedural Arm Rig"></a><br>
 <b><a href="http://procedural-arm-rig.vercel.app">Procedural Arm Rig</a></b><br>
-<sub><a href="https://x.com/apekshik">@apekshik</a> · ♥ 326 · <a href="https://x.com/apekshik/status/2120224530367119758">▶ Vídeo</a></sub><br>
+<sub><a href="https://x.com/apekshik">@apekshik</a> · ♥ 327 · <a href="https://x.com/apekshik/status/2120224530367119758">▶ Vídeo</a></sub><br>
 <sub>Em vez de fazer um jogo AAA numa tentativa só: um único braço com armature de ossos, malha com weight paint, IK e músculos que incham conforme o punho fecha.</sub><br>
 <sub><a href="https://fablelist.000ooo.ooo/pt/prompts/?w=procedural-arm-rig&ref=gh"><b>✨ Pegue o prompt</b></a></sub>
 </td>
@@ -133,7 +133,7 @@ A página principal mostra no máximo as 24 entradas mais curtidas de cada seç�
 <td width="33%" valign="top">
 <a href="https://butterfly.kyzo.io"><img src="../assets/gifs/314.gif" width="100%" alt="Hidden Layers: uma borboleta-de-vidro numa estufa"></a><br>
 <b><a href="https://butterfly.kyzo.io">Hidden Layers: uma borboleta-de-vidro numa estufa</a></b><br>
-<sub><a href="https://x.com/ky__zo">@ky__zo</a> · ♥ 229 · <a href="https://x.com/ky__zo/status/2122274109795054036">▶ Vídeo</a></sub><br>
+<sub><a href="https://x.com/ky__zo">@ky__zo</a> · ♥ 230 · <a href="https://x.com/ky__zo/status/2122274109795054036">▶ Vídeo</a></sub><br>
 <sub>Role a página para voar com uma borboleta-de-vidro que não consegue sair de uma estufa por seis mundos. three.js puro, sem arquivos de modelo nem texturas; custou 1.32 bilhão de tokens e $905 de API.</sub>
 </td>
 </tr>
@@ -162,6 +162,13 @@ A página principal mostra no máximo as 24 entradas mais curtidas de cada seç�
 </tr>
 <tr>
 <td width="33%" valign="top">
+<a href="https://nkondo-ft.github.io/light-and-debris/"><img src="../assets/gifs/412.gif" width="100%" alt="Light & Debris — afaste mais de 100.000 fragmentos com a luz"></a><br>
+<b><a href="https://nkondo-ft.github.io/light-and-debris/">Light & Debris — afaste mais de 100.000 fragmentos com a luz</a></b><br>
+<sub>🆕 · <a href="https://x.com/Nkondo_funtech">@Nkondo_funtech</a> · ♥ 192 · <a href="https://x.com/Nkondo_funtech/status/2125811742001541535">▶ Vídeo</a></sub><br>
+<sub>Mova uma luz por mais de 100.000 fragmentos e veja como eles se espalham. A posição, a velocidade e a rotação de cada fragmento são calculadas na GPU com compute shaders do WebGPU, então a física fica leve o bastante para uma página web.</sub><br>
+<sub><a href="https://github.com/nkondo-ft/light-and-debris">Código-fonte</a></sub>
+</td>
+<td width="33%" valign="top">
 <a href="https://zalo.github.io/LanternTown/town/"><img src="../assets/gifs/404.gif" width="100%" alt="LanternTown — uma praça de vila iluminada por lanternas"></a><br>
 <b><a href="https://zalo.github.io/LanternTown/town/">LanternTown — uma praça de vila iluminada por lanternas</a></b><br>
 <sub>🆕 · <a href="https://x.com/makeshifted">@makeshifted</a> · ♥ 185 · <a href="https://x.com/makeshifted/status/2125331267512377844">Post</a></sub><br>
@@ -175,15 +182,15 @@ A página principal mostra no máximo as 24 entradas mais curtidas de cada seç�
 <sub>30 minutos, US$ 12,81.</sub><br>
 <sub><a href="https://x.com/vib3coded/status/2120104517282775514">📝 Prompt do criador (grátis)</a></sub>
 </td>
-<td width="33%" valign="top">
-<a href="https://nkondo-ft.github.io/light-and-debris/"><img src="../assets/gifs/412.gif" width="100%" alt="Light & Debris — afaste mais de 100.000 fragmentos com a luz"></a><br>
-<b><a href="https://nkondo-ft.github.io/light-and-debris/">Light & Debris — afaste mais de 100.000 fragmentos com a luz</a></b><br>
-<sub>🆕 · <a href="https://x.com/Nkondo_funtech">@Nkondo_funtech</a> · ♥ 163 · <a href="https://x.com/Nkondo_funtech/status/2125811742001541535">▶ Vídeo</a></sub><br>
-<sub>Mova uma luz por mais de 100.000 fragmentos e veja como eles se espalham. A posição, a velocidade e a rotação de cada fragmento são calculadas na GPU com compute shaders do WebGPU, então a física fica leve o bastante para uma página web.</sub><br>
-<sub><a href="https://github.com/nkondo-ft/light-and-debris">Código-fonte</a></sub>
-</td>
 </tr>
 <tr>
+<td width="33%" valign="top">
+<a href="https://starknightt.github.io/sky-islands"><img src="../assets/gifs/411.gif" width="100%" alt="Sky Islands — voe entre ilhas flutuantes sobre um mar de nuvens"></a><br>
+<b><a href="https://starknightt.github.io/sky-islands">Sky Islands — voe entre ilhas flutuantes sobre um mar de nuvens</a></b><br>
+<sub>🆕 · <a href="https://x.com/prasenx">@prasenx</a> · ♥ 150 · <a href="https://x.com/prasenx/status/2125637810011201981">▶ Vídeo</a></sub><br>
+<sub>Ilhas flutuantes, cachoeiras e um mar de nuvens por onde você pode voar. Tudo é um único arquivo HTML com menos de 100 KB.</sub><br>
+<sub><a href="https://github.com/StarKnightt/sky-islands">Código-fonte</a></sub>
+</td>
 <td width="33%" valign="top">
 <a href="https://github.com/Leonxlnx/beautiful-wonderland"><img src="../assets/gifs/301.gif" width="100%" alt="Beautiful Wonderland"></a><br>
 <b><a href="https://github.com/Leonxlnx/beautiful-wonderland">Beautiful Wonderland</a></b><br>
@@ -197,21 +204,14 @@ A página principal mostra no máximo as 24 entradas mais curtidas de cada seç�
 <sub>Uma experiência psicodélica de "espaços impossíveis". Código aberto.</sub><br>
 <sub><a href="https://fablelist.000ooo.ooo/pt/prompts/?w=impossible-spaces&ref=gh"><b>✨ Pegue o prompt</b></a></sub>
 </td>
-<td width="33%" valign="top">
-<a href="https://claude.ai/artifact/HCzUsvWqERjQcgJjRuUUFo"><img src="../assets/gifs/386.gif" width="100%" alt="Rain-Soaked Noodle Stall — um diorama em pixels"></a><br>
-<b><a href="https://claude.ai/artifact/HCzUsvWqERjQcgJjRuUUFo">Rain-Soaked Noodle Stall — um diorama em pixels</a></b><br>
-<sub><a href="https://x.com/CapyCola">@CapyCola</a> · ♥ 136 · <a href="https://x.com/CapyCola/status/2124115057101664380">▶ Vídeo</a></sub><br>
-<sub>Uma barraca de macarrão na chuva, lanternas balançando, uma panela de sopa que ninguém está olhando e um gato que ainda não foi embora. Uma cena em pixels que você arrasta e gira para ver de qualquer ângulo, feita com Fable 5.2 e Ink Studio.</sub><br>
-<sub><a href="https://github.com/cola5939/pixel-dioramas">Código-fonte</a></sub>
-</td>
 </tr>
 <tr>
 <td width="33%" valign="top">
-<a href="https://starknightt.github.io/sky-islands"><img src="../assets/gifs/411.gif" width="100%" alt="Sky Islands — voe entre ilhas flutuantes sobre um mar de nuvens"></a><br>
-<b><a href="https://starknightt.github.io/sky-islands">Sky Islands — voe entre ilhas flutuantes sobre um mar de nuvens</a></b><br>
-<sub>🆕 · <a href="https://x.com/prasenx">@prasenx</a> · ♥ 114 · <a href="https://x.com/prasenx/status/2125637810011201981">▶ Vídeo</a></sub><br>
-<sub>Ilhas flutuantes, cachoeiras e um mar de nuvens por onde você pode voar. Tudo é um único arquivo HTML com menos de 100 KB.</sub><br>
-<sub><a href="https://github.com/StarKnightt/sky-islands">Código-fonte</a></sub>
+<a href="https://claude.ai/artifact/HCzUsvWqERjQcgJjRuUUFo"><img src="../assets/gifs/386.gif" width="100%" alt="Rain-Soaked Noodle Stall — um diorama em pixels"></a><br>
+<b><a href="https://claude.ai/artifact/HCzUsvWqERjQcgJjRuUUFo">Rain-Soaked Noodle Stall — um diorama em pixels</a></b><br>
+<sub><a href="https://x.com/CapyCola">@CapyCola</a> · ♥ 135 · <a href="https://x.com/CapyCola/status/2124115057101664380">▶ Vídeo</a></sub><br>
+<sub>Uma barraca de macarrão na chuva, lanternas balançando, uma panela de sopa que ninguém está olhando e um gato que ainda não foi embora. Uma cena em pixels que você arrasta e gira para ver de qualquer ângulo, feita com Fable 5.2 e Ink Studio.</sub><br>
+<sub><a href="https://github.com/cola5939/pixel-dioramas">Código-fonte</a></sub>
 </td>
 <td width="33%" valign="top">
 <a href="https://claude.ai/artifact/7ge282etTXSS4edGFTFa85"><img src="../assets/gifs/026.gif" width="100%" alt="3D Sailing Ship"></a><br>
@@ -260,7 +260,7 @@ A página principal mostra no máximo as 24 entradas mais curtidas de cada seç�
 <td width="33%" valign="top">
 <a href="https://windblown.vercel.app"><img src="../assets/gifs/396.gif" width="100%" alt="Windblown: leve uma garota por oito mundos"></a><br>
 <b><a href="https://windblown.vercel.app">Windblown: leve uma garota por oito mundos</a></b><br>
-<sub>🆕 · <a href="https://x.com/nan_in_space">@nan_in_space</a> · ♥ 64 · <a href="https://x.com/nan_in_space/status/2120212714484330999">▶ Vídeo</a></sub><br>
+<sub><a href="https://x.com/nan_in_space">@nan_in_space</a> · ♥ 64 · <a href="https://x.com/nan_in_space/status/2120212714484330999">▶ Vídeo</a></sub><br>
 <sub>Uma obra interativa para a web. Atravesse um portal para cada novo mundo com um mergulho, um salto ou uma estrela. A garota e os cenários são Gaussian splats, cada um gerado a partir de uma única imagem.</sub>
 </td>
 <td width="33%" valign="top">
@@ -350,12 +350,20 @@ A página principal mostra no máximo as 24 entradas mais curtidas de cada seç�
 <sub><a href="https://fablelist.000ooo.ooo/pt/prompts/?w=voxel-colosseum&ref=gh"><b>✨ Pegue o prompt</b></a></sub>
 </td>
 <td width="33%" valign="top">
+<a href="https://airsup.ai/lab/bridge-layer"><img src="../assets/gifs/415.gif" width="100%" alt="Bridge Layer — uma máquina lança-pontes que dá para desmontar"></a><br>
+<b><a href="https://airsup.ai/lab/bridge-layer">Bridge Layer — uma máquina lança-pontes que dá para desmontar</a></b><br>
+<sub>🆕 · <a href="https://x.com/konstantinsaifo">@konstantinsaifo</a> · ♥ 15 · <a href="https://x.com/konstantinsaifo/status/2126074879992570105">▶ Vídeo</a></sub><br>
+<sub>Um blindado lança-pontes que o Fable 5.2 projetou peça por peça, 4,370 peças no total. Desmonte, defina a largura do rio e veja a máquina lançar uma ponte de 26 m de uma margem à outra.</sub>
+</td>
+<td width="33%" valign="top">
 <a href="https://glittery-stardust-885b97.netlify.app"><img src="../assets/gifs/233.gif" width="100%" alt="HX-6 Hexapod, Three Worlds"></a><br>
 <b><a href="https://glittery-stardust-885b97.netlify.app">HX-6 Hexapod, Three Worlds</a></b><br>
 <sub><a href="https://x.com/Acoramaa">@Acoramaa</a> · ♥ 11 · <a href="https://x.com/Acoramaa/status/2120839083895538093">▶ Vídeo</a></sub><br>
 <sub>O mesmo hexápode de 14 kg em Marte, na Lua e em Europa; cada pé encontra seu próprio apoio. Dirija você mesmo.</sub><br>
 <sub><a href="https://fablelist.000ooo.ooo/pt/prompts/?w=hx-6-hexapod-three-worlds&ref=gh"><b>✨ Pegue o prompt</b></a></sub>
 </td>
+</tr>
+<tr>
 <td width="33%" valign="top">
 <a href="https://zondark.com"><img src="../assets/gifs/033.gif" width="100%" alt="One-way Trip to a Black Hole"></a><br>
 <b><a href="https://zondark.com">One-way Trip to a Black Hole</a></b><br>
@@ -363,8 +371,6 @@ A página principal mostra no máximo as 24 entradas mais curtidas de cada seç�
 <sub>Um site pessoal refeito como uma jornada de rolagem da Terra até um buraco negro.</sub><br>
 <sub><a href="https://fablelist.000ooo.ooo/pt/prompts/?w=one-way-trip-to-a-black-hole&ref=gh"><b>✨ Pegue o prompt</b></a></sub>
 </td>
-</tr>
-<tr>
 <td width="33%" valign="top">
 <a href="https://madebysourasith-sudo.github.io/red-wing-jet/"><img src="../assets/gifs/265.gif" width="100%" alt="Jato particular Red Wing"></a><br>
 <b><a href="https://madebysourasith-sudo.github.io/red-wing-jet/">Jato particular Red Wing</a></b><br>
@@ -378,6 +384,8 @@ A página principal mostra no máximo as 24 entradas mais curtidas de cada seç�
 <sub>Abra o caderno e uma pena desenha as máquinas de Leonardo, que viram mecanismos de madeira que você pode girar e desmontar. Sem modelos 3D, texturas ou arquivos de áudio: tudo é código.</sub><br>
 <sub><a href="https://github.com/coding-nanami/davinci-mechanics">Código-fonte</a></sub>
 </td>
+</tr>
+<tr>
 <td width="33%" valign="top">
 <a href="https://claude.ai/artifact/FETrKoitcqxPQjbQvZd79C"><img src="../assets/gifs/034.gif" width="100%" alt="Belt Stress Test"></a><br>
 <b><a href="https://claude.ai/artifact/FETrKoitcqxPQjbQvZd79C">Belt Stress Test</a></b><br>
@@ -385,8 +393,6 @@ A página principal mostra no máximo as 24 entradas mais curtidas de cada seç�
 <sub>~20.000 asteroides em órbita; ele continua adicionando pedras até seu dispositivo cair abaixo de 30 fps.</sub><br>
 <sub><a href="https://fablelist.000ooo.ooo/pt/prompts/?w=belt-stress-test&ref=gh"><b>✨ Pegue o prompt</b></a></sub>
 </td>
-</tr>
-<tr>
 <td width="33%" valign="top">
 <a href="https://claude.ai/artifact/BCDCNHRTq3y9W4Px3xc4DN"><img src="../assets/gifs/030.gif" width="100%" alt="A Hamlet on a Giant Snail"></a><br>
 <b><a href="https://claude.ai/artifact/BCDCNHRTq3y9W4Px3xc4DN">A Hamlet on a Giant Snail</a></b><br>
@@ -401,6 +407,8 @@ A página principal mostra no máximo as 24 entradas mais curtidas de cada seç�
 <sub>3.357 peças montam um pagode de cinco andares que se transforma em uma espadachim. Música calculada em código.</sub><br>
 <sub><a href="https://fablelist.000ooo.ooo/pt/prompts/?w=wooden-pagoda-transformation&ref=gh"><b>✨ Pegue o prompt</b></a></sub>
 </td>
+</tr>
+<tr>
 <td width="33%" valign="top">
 <a href="https://cyrilremacle-byte.github.io/francis-turbine-explorer/"><img src="../assets/gifs/355.gif" width="100%" alt="Francis Turbine Explorer"></a><br>
 <b><a href="https://cyrilremacle-byte.github.io/francis-turbine-explorer/">Francis Turbine Explorer</a></b><br>

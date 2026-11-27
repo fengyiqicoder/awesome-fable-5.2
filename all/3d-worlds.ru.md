@@ -1,4 +1,4 @@
-# 🌍 3D-миры и сцены · все 54
+# 🌍 3D-миры и сцены · все 55
 
 [← Назад к списку](../README.ru.md) · [English](3d-worlds.md) · [简体中文](3d-worlds.zh-CN.md) · [繁體中文](3d-worlds.zh-TW.md) · [日本語](3d-worlds.ja.md) · [한국어](3d-worlds.ko.md) · [Español](3d-worlds.es.md) · [Português](3d-worlds.pt-BR.md) · [Français](3d-worlds.fr.md) · [Deutsch](3d-worlds.de.md) · **Русский**
 
@@ -54,21 +54,21 @@
 <td width="33%" valign="top">
 <a href="https://fable-rome.surge.sh/"><img src="../assets/gifs/136.gif" width="100%" alt="Rome, AD 320"></a><br>
 <b><a href="https://fable-rome.surge.sh/">Rome, AD 320</a></b><br>
-<sub><a href="https://x.com/petergostev">@petergostev</a> · ♥ 976 · <a href="https://x.com/petergostev/status/2120167560700383572">▶ Видео</a></sub><br>
+<sub><a href="https://x.com/petergostev">@petergostev</a> · ♥ 978 · <a href="https://x.com/petergostev/status/2120167560700383572">▶ Видео</a></sub><br>
 <sub>Один промпт, Fable 5.2 (Max) работал всю ночь, 2 618 $.</sub><br>
 <sub><a href="https://x.com/petergostev/status/2120167560700383572">📝 Промпт автора (бесплатно)</a></sub>
 </td>
 <td width="33%" valign="top">
 <a href="https://github.com/Leonxlnx/room-at-dawn"><img src="../assets/gifs/219.gif" width="100%" alt="Room at Dawn"></a><br>
 <b><a href="https://github.com/Leonxlnx/room-at-dawn">Room at Dawn</a></b><br>
-<sub><a href="https://x.com/LexnLin">@LexnLin</a> · ♥ 856 · <a href="https://x.com/LexnLin/status/2120910879361548565">▶ Видео</a></sub><br>
+<sub><a href="https://x.com/LexnLin">@LexnLin</a> · ♥ 857 · <a href="https://x.com/LexnLin/status/2120910879361548565">▶ Видео</a></sub><br>
 <sub>Фотореалистичная спальня на three.js без готовых моделей и текстур; всё — код.</sub><br>
 <sub><a href="https://fablelist.000ooo.ooo/ru/prompts/?w=room-at-dawn&ref=gh"><b>✨ Получить промпт</b></a></sub>
 </td>
 <td width="33%" valign="top">
 <a href="https://fable-rover.vercel.app"><img src="../assets/gifs/278.gif" width="100%" alt="ER-6 Terrain Explorer — самоуправляемый марсоход"></a><br>
 <b><a href="https://fable-rover.vercel.app">ER-6 Terrain Explorer — самоуправляемый марсоход</a></b><br>
-<sub><a href="https://x.com/DilumSanjaya">@DilumSanjaya</a> · ♥ 833 · <a href="https://x.com/DilumSanjaya/status/2120561077385867663">▶ Видео</a></sub><br>
+<sub><a href="https://x.com/DilumSanjaya">@DilumSanjaya</a> · ♥ 836 · <a href="https://x.com/DilumSanjaya/status/2120561077385867663">▶ Видео</a></sub><br>
 <sub>Fable 5.2 спроектировал подвеску rocker-bogie, как у марсоходов NASA, и смоделировал езду по инопланетному рельефу.</sub>
 </td>
 </tr>
@@ -82,7 +82,7 @@
 <td width="33%" valign="top">
 <a href="https://patch.gg/play/blendi/the-blue-hour"><img src="../assets/gifs/387.gif" width="100%" alt="The Blue Hour — ночной город в стиле ар-деко"></a><br>
 <b><a href="https://patch.gg/play/blendi/the-blue-hour">The Blue Hour — ночной город в стиле ар-деко</a></b><br>
-<sub><a href="https://x.com/BlendiByl">@BlendiByl</a> · ♥ 640 · <a href="https://x.com/BlendiByl/status/2124439671006748853">▶ Видео</a></sub><br>
+<sub><a href="https://x.com/BlendiByl">@BlendiByl</a> · ♥ 642 · <a href="https://x.com/BlendiByl/status/2124439671006748853">▶ Видео</a></sub><br>
 <sub>3D-сцена в стиле ар-деко из мультсериала о Бэтмене, целиком нарисованная кодом. Открытый исходный код.</sub>
 </td>
 <td width="33%" valign="top">
@@ -97,7 +97,7 @@
 <td width="33%" valign="top">
 <a href="https://github.com/Leonxlnx/walking-block"><img src="../assets/gifs/318.gif" width="100%" alt="Walking Block: шагающая советская панелька"></a><br>
 <b><a href="https://github.com/Leonxlnx/walking-block">Walking Block: шагающая советская панелька</a></b><br>
-<sub><a href="https://x.com/LexnLin">@LexnLin</a> · ♥ 417 · <a href="https://x.com/LexnLin/status/2122359035751989341">▶ Видео</a></sub><br>
+<sub><a href="https://x.com/LexnLin">@LexnLin</a> · ♥ 416 · <a href="https://x.com/LexnLin/status/2122359035751989341">▶ Видео</a></sub><br>
 <sub>Огромная советская панельная многоэтажка на восьми механических ногах идёт через мокрое поле в сумеречном тумане. Геометрия, текстуры и шейдеры целиком написаны на three.js, а из той же сцены отрендерен 45-секундный фильм.</sub>
 </td>
 <td width="33%" valign="top">
@@ -111,7 +111,7 @@
 <td width="33%" valign="top">
 <a href="http://procedural-arm-rig.vercel.app"><img src="../assets/gifs/140.gif" width="100%" alt="Procedural Arm Rig"></a><br>
 <b><a href="http://procedural-arm-rig.vercel.app">Procedural Arm Rig</a></b><br>
-<sub><a href="https://x.com/apekshik">@apekshik</a> · ♥ 326 · <a href="https://x.com/apekshik/status/2120224530367119758">▶ Видео</a></sub><br>
+<sub><a href="https://x.com/apekshik">@apekshik</a> · ♥ 327 · <a href="https://x.com/apekshik/status/2120224530367119758">▶ Видео</a></sub><br>
 <sub>Вместо того чтобы делать AAA-игру за один заход: одна рука со скелетом, мешем с покраской весов, IK и мышцами, которые набухают, когда кулак сжимается.</sub><br>
 <sub><a href="https://fablelist.000ooo.ooo/ru/prompts/?w=procedural-arm-rig&ref=gh"><b>✨ Получить промпт</b></a></sub>
 </td>
@@ -133,7 +133,7 @@
 <td width="33%" valign="top">
 <a href="https://butterfly.kyzo.io"><img src="../assets/gifs/314.gif" width="100%" alt="Hidden Layers: стеклянная бабочка в оранжерее"></a><br>
 <b><a href="https://butterfly.kyzo.io">Hidden Layers: стеклянная бабочка в оранжерее</a></b><br>
-<sub><a href="https://x.com/ky__zo">@ky__zo</a> · ♥ 229 · <a href="https://x.com/ky__zo/status/2122274109795054036">▶ Видео</a></sub><br>
+<sub><a href="https://x.com/ky__zo">@ky__zo</a> · ♥ 230 · <a href="https://x.com/ky__zo/status/2122274109795054036">▶ Видео</a></sub><br>
 <sub>Прокручивайте страницу, чтобы лететь со стеклянной бабочкой, которая не может выбраться из оранжереи, через шесть миров. Чистый three.js без файлов моделей и текстур; ушло 1.32 миллиарда токенов и $905 на API.</sub>
 </td>
 </tr>
@@ -162,6 +162,13 @@
 </tr>
 <tr>
 <td width="33%" valign="top">
+<a href="https://nkondo-ft.github.io/light-and-debris/"><img src="../assets/gifs/412.gif" width="100%" alt="Light & Debris — расталкивайте светом больше 100 000 осколков"></a><br>
+<b><a href="https://nkondo-ft.github.io/light-and-debris/">Light & Debris — расталкивайте светом больше 100 000 осколков</a></b><br>
+<sub>🆕 · <a href="https://x.com/Nkondo_funtech">@Nkondo_funtech</a> · ♥ 192 · <a href="https://x.com/Nkondo_funtech/status/2125811742001541535">▶ Видео</a></sub><br>
+<sub>Ведите свет сквозь больше чем 100 000 осколков и смотрите, как они разлетаются. Положение, скорость и вращение каждого осколка считаются на видеокарте вычислительными шейдерами WebGPU, поэтому физика достаточно лёгкая для веб-страницы.</sub><br>
+<sub><a href="https://github.com/nkondo-ft/light-and-debris">Исходный код</a></sub>
+</td>
+<td width="33%" valign="top">
 <a href="https://zalo.github.io/LanternTown/town/"><img src="../assets/gifs/404.gif" width="100%" alt="LanternTown — городская площадь в свете фонарей"></a><br>
 <b><a href="https://zalo.github.io/LanternTown/town/">LanternTown — городская площадь в свете фонарей</a></b><br>
 <sub>🆕 · <a href="https://x.com/makeshifted">@makeshifted</a> · ♥ 185 · <a href="https://x.com/makeshifted/status/2125331267512377844">Пост</a></sub><br>
@@ -175,15 +182,15 @@
 <sub>30 минут, 12,81 $.</sub><br>
 <sub><a href="https://x.com/vib3coded/status/2120104517282775514">📝 Промпт автора (бесплатно)</a></sub>
 </td>
-<td width="33%" valign="top">
-<a href="https://nkondo-ft.github.io/light-and-debris/"><img src="../assets/gifs/412.gif" width="100%" alt="Light & Debris — расталкивайте светом больше 100 000 осколков"></a><br>
-<b><a href="https://nkondo-ft.github.io/light-and-debris/">Light & Debris — расталкивайте светом больше 100 000 осколков</a></b><br>
-<sub>🆕 · <a href="https://x.com/Nkondo_funtech">@Nkondo_funtech</a> · ♥ 163 · <a href="https://x.com/Nkondo_funtech/status/2125811742001541535">▶ Видео</a></sub><br>
-<sub>Ведите свет сквозь больше чем 100 000 осколков и смотрите, как они разлетаются. Положение, скорость и вращение каждого осколка считаются на видеокарте вычислительными шейдерами WebGPU, поэтому физика достаточно лёгкая для веб-страницы.</sub><br>
-<sub><a href="https://github.com/nkondo-ft/light-and-debris">Исходный код</a></sub>
-</td>
 </tr>
 <tr>
+<td width="33%" valign="top">
+<a href="https://starknightt.github.io/sky-islands"><img src="../assets/gifs/411.gif" width="100%" alt="Sky Islands — полёт среди парящих островов над морем облаков"></a><br>
+<b><a href="https://starknightt.github.io/sky-islands">Sky Islands — полёт среди парящих островов над морем облаков</a></b><br>
+<sub>🆕 · <a href="https://x.com/prasenx">@prasenx</a> · ♥ 150 · <a href="https://x.com/prasenx/status/2125637810011201981">▶ Видео</a></sub><br>
+<sub>Парящие острова, водопады и море облаков, сквозь которое можно летать. Всё это — один HTML-файл размером меньше 100 КБ.</sub><br>
+<sub><a href="https://github.com/StarKnightt/sky-islands">Исходный код</a></sub>
+</td>
 <td width="33%" valign="top">
 <a href="https://github.com/Leonxlnx/beautiful-wonderland"><img src="../assets/gifs/301.gif" width="100%" alt="Beautiful Wonderland"></a><br>
 <b><a href="https://github.com/Leonxlnx/beautiful-wonderland">Beautiful Wonderland</a></b><br>
@@ -197,21 +204,14 @@
 <sub>Психоделический опыт с «невозможными пространствами». Открытый исходный код.</sub><br>
 <sub><a href="https://fablelist.000ooo.ooo/ru/prompts/?w=impossible-spaces&ref=gh"><b>✨ Получить промпт</b></a></sub>
 </td>
-<td width="33%" valign="top">
-<a href="https://claude.ai/artifact/HCzUsvWqERjQcgJjRuUUFo"><img src="../assets/gifs/386.gif" width="100%" alt="Rain-Soaked Noodle Stall — пиксельная диорама"></a><br>
-<b><a href="https://claude.ai/artifact/HCzUsvWqERjQcgJjRuUUFo">Rain-Soaked Noodle Stall — пиксельная диорама</a></b><br>
-<sub><a href="https://x.com/CapyCola">@CapyCola</a> · ♥ 136 · <a href="https://x.com/CapyCola/status/2124115057101664380">▶ Видео</a></sub><br>
-<sub>Лапшичная под дождём, качающиеся фонари, кастрюля супа, за которой никто не следит, и кот, который так и не ушёл. Пиксельная сцена, которую можно перетаскивать и вращать, чтобы рассмотреть с любой стороны; сделана с помощью Fable 5.2 и Ink Studio.</sub><br>
-<sub><a href="https://github.com/cola5939/pixel-dioramas">Исходный код</a></sub>
-</td>
 </tr>
 <tr>
 <td width="33%" valign="top">
-<a href="https://starknightt.github.io/sky-islands"><img src="../assets/gifs/411.gif" width="100%" alt="Sky Islands — полёт среди парящих островов над морем облаков"></a><br>
-<b><a href="https://starknightt.github.io/sky-islands">Sky Islands — полёт среди парящих островов над морем облаков</a></b><br>
-<sub>🆕 · <a href="https://x.com/prasenx">@prasenx</a> · ♥ 114 · <a href="https://x.com/prasenx/status/2125637810011201981">▶ Видео</a></sub><br>
-<sub>Парящие острова, водопады и море облаков, сквозь которое можно летать. Всё это — один HTML-файл размером меньше 100 КБ.</sub><br>
-<sub><a href="https://github.com/StarKnightt/sky-islands">Исходный код</a></sub>
+<a href="https://claude.ai/artifact/HCzUsvWqERjQcgJjRuUUFo"><img src="../assets/gifs/386.gif" width="100%" alt="Rain-Soaked Noodle Stall — пиксельная диорама"></a><br>
+<b><a href="https://claude.ai/artifact/HCzUsvWqERjQcgJjRuUUFo">Rain-Soaked Noodle Stall — пиксельная диорама</a></b><br>
+<sub><a href="https://x.com/CapyCola">@CapyCola</a> · ♥ 135 · <a href="https://x.com/CapyCola/status/2124115057101664380">▶ Видео</a></sub><br>
+<sub>Лапшичная под дождём, качающиеся фонари, кастрюля супа, за которой никто не следит, и кот, который так и не ушёл. Пиксельная сцена, которую можно перетаскивать и вращать, чтобы рассмотреть с любой стороны; сделана с помощью Fable 5.2 и Ink Studio.</sub><br>
+<sub><a href="https://github.com/cola5939/pixel-dioramas">Исходный код</a></sub>
 </td>
 <td width="33%" valign="top">
 <a href="https://claude.ai/artifact/7ge282etTXSS4edGFTFa85"><img src="../assets/gifs/026.gif" width="100%" alt="3D Sailing Ship"></a><br>
@@ -260,7 +260,7 @@
 <td width="33%" valign="top">
 <a href="https://windblown.vercel.app"><img src="../assets/gifs/396.gif" width="100%" alt="Windblown: проведите девочку через восемь миров"></a><br>
 <b><a href="https://windblown.vercel.app">Windblown: проведите девочку через восемь миров</a></b><br>
-<sub>🆕 · <a href="https://x.com/nan_in_space">@nan_in_space</a> · ♥ 64 · <a href="https://x.com/nan_in_space/status/2120212714484330999">▶ Видео</a></sub><br>
+<sub><a href="https://x.com/nan_in_space">@nan_in_space</a> · ♥ 64 · <a href="https://x.com/nan_in_space/status/2120212714484330999">▶ Видео</a></sub><br>
 <sub>Интерактивная веб-работа. Проходите через портал в каждый новый мир нырком, прыжком или колесом. Девочка и сцены — гауссовы сплаты, каждый создан из одного изображения.</sub>
 </td>
 <td width="33%" valign="top">
@@ -350,12 +350,20 @@
 <sub><a href="https://fablelist.000ooo.ooo/ru/prompts/?w=voxel-colosseum&ref=gh"><b>✨ Получить промпт</b></a></sub>
 </td>
 <td width="33%" valign="top">
+<a href="https://airsup.ai/lab/bridge-layer"><img src="../assets/gifs/415.gif" width="100%" alt="Bridge Layer — мостоукладчик, который можно разобрать"></a><br>
+<b><a href="https://airsup.ai/lab/bridge-layer">Bridge Layer — мостоукладчик, который можно разобрать</a></b><br>
+<sub>🆕 · <a href="https://x.com/konstantinsaifo">@konstantinsaifo</a> · ♥ 15 · <a href="https://x.com/konstantinsaifo/status/2126074879992570105">▶ Видео</a></sub><br>
+<sub>Бронированный мостоукладчик, который Fable 5.2 спроектировал деталь за деталью, всего 4,370 деталей. Разберите его, задайте ширину реки и смотрите, как он наводит 26-метровый мост с берега на берег.</sub>
+</td>
+<td width="33%" valign="top">
 <a href="https://glittery-stardust-885b97.netlify.app"><img src="../assets/gifs/233.gif" width="100%" alt="HX-6 Hexapod, Three Worlds"></a><br>
 <b><a href="https://glittery-stardust-885b97.netlify.app">HX-6 Hexapod, Three Worlds</a></b><br>
 <sub><a href="https://x.com/Acoramaa">@Acoramaa</a> · ♥ 11 · <a href="https://x.com/Acoramaa/status/2120839083895538093">▶ Видео</a></sub><br>
 <sub>Один и тот же 14-килограммовый гексапод на Марсе, Луне и Европе; каждая лапа сама находит опору. Управляйте им сами.</sub><br>
 <sub><a href="https://fablelist.000ooo.ooo/ru/prompts/?w=hx-6-hexapod-three-worlds&ref=gh"><b>✨ Получить промпт</b></a></sub>
 </td>
+</tr>
+<tr>
 <td width="33%" valign="top">
 <a href="https://zondark.com"><img src="../assets/gifs/033.gif" width="100%" alt="One-way Trip to a Black Hole"></a><br>
 <b><a href="https://zondark.com">One-way Trip to a Black Hole</a></b><br>
@@ -363,8 +371,6 @@
 <sub>Личный сайт, переделанный в путешествие скроллом от Земли до чёрной дыры.</sub><br>
 <sub><a href="https://fablelist.000ooo.ooo/ru/prompts/?w=one-way-trip-to-a-black-hole&ref=gh"><b>✨ Получить промпт</b></a></sub>
 </td>
-</tr>
-<tr>
 <td width="33%" valign="top">
 <a href="https://madebysourasith-sudo.github.io/red-wing-jet/"><img src="../assets/gifs/265.gif" width="100%" alt="Частный самолёт Red Wing"></a><br>
 <b><a href="https://madebysourasith-sudo.github.io/red-wing-jet/">Частный самолёт Red Wing</a></b><br>
@@ -378,6 +384,8 @@
 <sub>Откройте блокнот — перо набрасывает машины Леонардо, и они превращаются в деревянные механизмы, которые можно крутить и разбирать. Никаких 3D-моделей, текстур и аудиофайлов — всё кодом.</sub><br>
 <sub><a href="https://github.com/coding-nanami/davinci-mechanics">Исходный код</a></sub>
 </td>
+</tr>
+<tr>
 <td width="33%" valign="top">
 <a href="https://claude.ai/artifact/FETrKoitcqxPQjbQvZd79C"><img src="../assets/gifs/034.gif" width="100%" alt="Belt Stress Test"></a><br>
 <b><a href="https://claude.ai/artifact/FETrKoitcqxPQjbQvZd79C">Belt Stress Test</a></b><br>
@@ -385,8 +393,6 @@
 <sub>~20 000 астероидов на орбите; камни добавляются, пока fps на вашем устройстве не упадёт ниже 30.</sub><br>
 <sub><a href="https://fablelist.000ooo.ooo/ru/prompts/?w=belt-stress-test&ref=gh"><b>✨ Получить промпт</b></a></sub>
 </td>
-</tr>
-<tr>
 <td width="33%" valign="top">
 <a href="https://claude.ai/artifact/BCDCNHRTq3y9W4Px3xc4DN"><img src="../assets/gifs/030.gif" width="100%" alt="A Hamlet on a Giant Snail"></a><br>
 <b><a href="https://claude.ai/artifact/BCDCNHRTq3y9W4Px3xc4DN">A Hamlet on a Giant Snail</a></b><br>
@@ -401,6 +407,8 @@
 <sub>3 357 деталей собираются в пятиярусную пагоду, которая превращается в мечницу. Музыка вычисляется кодом.</sub><br>
 <sub><a href="https://fablelist.000ooo.ooo/ru/prompts/?w=wooden-pagoda-transformation&ref=gh"><b>✨ Получить промпт</b></a></sub>
 </td>
+</tr>
+<tr>
 <td width="33%" valign="top">
 <a href="https://cyrilremacle-byte.github.io/francis-turbine-explorer/"><img src="../assets/gifs/355.gif" width="100%" alt="Francis Turbine Explorer"></a><br>
 <b><a href="https://cyrilremacle-byte.github.io/francis-turbine-explorer/">Francis Turbine Explorer</a></b><br>
