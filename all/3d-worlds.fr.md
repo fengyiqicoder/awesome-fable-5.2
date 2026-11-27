@@ -54,7 +54,7 @@ La page principale affiche au plus les 24 entrées les plus aimées de chaque se
 <td width="33%" valign="top">
 <a href="https://fable-rome.surge.sh/"><img src="../assets/gifs/136.gif" width="100%" alt="Rome, AD 320"></a><br>
 <b><a href="https://fable-rome.surge.sh/">Rome, AD 320</a></b><br>
-<sub><a href="https://x.com/petergostev">@petergostev</a> · ♥ 978 · <a href="https://x.com/petergostev/status/2120167560700383572">▶ Vidéo</a></sub><br>
+<sub><a href="https://x.com/petergostev">@petergostev</a> · ♥ 977 · <a href="https://x.com/petergostev/status/2120167560700383572">▶ Vidéo</a></sub><br>
 <sub>Un prompt, Fable 5.2 (Max) tournant toute la nuit, 2 618 $.</sub><br>
 <sub><a href="https://x.com/petergostev/status/2120167560700383572">📝 Prompt du créateur (gratuit)</a></sub>
 </td>
@@ -68,7 +68,7 @@ La page principale affiche au plus les 24 entrées les plus aimées de chaque se
 <td width="33%" valign="top">
 <a href="https://fable-rover.vercel.app"><img src="../assets/gifs/278.gif" width="100%" alt="ER-6 Terrain Explorer — un rover martien autonome"></a><br>
 <b><a href="https://fable-rover.vercel.app">ER-6 Terrain Explorer — un rover martien autonome</a></b><br>
-<sub><a href="https://x.com/DilumSanjaya">@DilumSanjaya</a> · ♥ 836 · <a href="https://x.com/DilumSanjaya/status/2120561077385867663">▶ Vidéo</a></sub><br>
+<sub><a href="https://x.com/DilumSanjaya">@DilumSanjaya</a> · ♥ 838 · <a href="https://x.com/DilumSanjaya/status/2120561077385867663">▶ Vidéo</a></sub><br>
 <sub>Fable 5.2 a conçu une suspension rocker-bogie comme celle des rovers martiens de la NASA, puis l'a simulée sur un terrain extraterrestre.</sub>
 </td>
 </tr>
@@ -82,13 +82,13 @@ La page principale affiche au plus les 24 entrées les plus aimées de chaque se
 <td width="33%" valign="top">
 <a href="https://patch.gg/play/blendi/the-blue-hour"><img src="../assets/gifs/387.gif" width="100%" alt="The Blue Hour — une ville Art déco la nuit"></a><br>
 <b><a href="https://patch.gg/play/blendi/the-blue-hour">The Blue Hour — une ville Art déco la nuit</a></b><br>
-<sub><a href="https://x.com/BlendiByl">@BlendiByl</a> · ♥ 642 · <a href="https://x.com/BlendiByl/status/2124439671006748853">▶ Vidéo</a></sub><br>
+<sub><a href="https://x.com/BlendiByl">@BlendiByl</a> · ♥ 645 · <a href="https://x.com/BlendiByl/status/2124439671006748853">▶ Vidéo</a></sub><br>
 <sub>Une scène 3D dans le style Art déco de la série animée Batman, entièrement dessinée en code. Open source.</sub>
 </td>
 <td width="33%" valign="top">
 <a href="https://supernatural-ft.vercel.app/fire-in-ice"><img src="../assets/gifs/221.gif" width="100%" alt="Fire in Ice"></a><br>
 <b><a href="https://supernatural-ft.vercel.app/fire-in-ice">Fire in Ice</a></b><br>
-<sub><a href="https://x.com/tkm_hmng8">@tkm_hmng8</a> · ♥ 549 · <a href="https://x.com/tkm_hmng8/status/2120813043101946324">▶ Vidéo</a></sub><br>
+<sub><a href="https://x.com/tkm_hmng8">@tkm_hmng8</a> · ♥ 550 · <a href="https://x.com/tkm_hmng8/status/2120813043101946324">▶ Vidéo</a></sub><br>
 <sub>Un feu réaliste brûlant à l'intérieur de la glace, écrit en WebGPU brut sans three.js.</sub><br>
 <sub><a href="https://fablelist.000ooo.ooo/fr/prompts/?w=fire-in-ice&ref=gh"><b>✨ Obtenir le prompt</b></a></sub>
 </td>
@@ -139,6 +139,13 @@ La page principale affiche au plus les 24 entrées les plus aimées de chaque se
 </tr>
 <tr>
 <td width="33%" valign="top">
+<a href="https://nkondo-ft.github.io/light-and-debris/"><img src="../assets/gifs/412.gif" width="100%" alt="Light & Debris — écartez plus de 100 000 éclats avec la lumière"></a><br>
+<b><a href="https://nkondo-ft.github.io/light-and-debris/">Light & Debris — écartez plus de 100 000 éclats avec la lumière</a></b><br>
+<sub>🆕 · <a href="https://x.com/Nkondo_funtech">@Nkondo_funtech</a> · ♥ 216 · <a href="https://x.com/Nkondo_funtech/status/2125811742001541535">▶ Vidéo</a></sub><br>
+<sub>Déplacez une lumière parmi plus de 100 000 éclats et regardez-les se disperser. La position, la vitesse et la rotation de chaque éclat sont calculées sur le GPU par des compute shaders WebGPU, ce qui rend la physique assez légère pour une page web.</sub><br>
+<sub><a href="https://github.com/nkondo-ft/light-and-debris">Code source</a></sub>
+</td>
+<td width="33%" valign="top">
 <a href="https://claude.ai/artifact/R6YBDkAm2GjAC5A65D9djx"><img src="../assets/gifs/142.gif" width="100%" alt="Une démo de Claude dans laquelle on peut entrer"></a><br>
 <b><a href="https://claude.ai/artifact/R6YBDkAm2GjAC5A65D9djx">Une démo de Claude dans laquelle on peut entrer</a></b><br>
 <sub><a href="https://x.com/dfeinition">@dfeinition</a> · ♥ 215 · <a href="https://x.com/dfeinition/status/2120330644261589051">▶ Vidéo</a></sub><br>
@@ -153,25 +160,18 @@ La page principale affiche au plus les 24 entrées les plus aimées de chaque se
 <sub><a href="https://claude.ai/artifact/75KLotWzZQ5RR23BGLePb8">Opus 5.5 version</a></sub><br>
 <sub><a href="https://x.com/vib3coded/status/2119951060752375827">📝 Prompt du créateur (gratuit)</a></sub>
 </td>
+</tr>
+<tr>
 <td width="33%" valign="top">
 <a href="https://planet.tokyoaivisuals.club/"><img src="../assets/gifs/266.gif" width="100%" alt="Code Planet"></a><br>
 <b><a href="https://planet.tokyoaivisuals.club/">Code Planet</a></b><br>
 <sub><a href="https://x.com/KanaWorks_AI">@KanaWorks_AI</a> · ♥ 198 · <a href="https://x.com/KanaWorks_AI/status/2121413647213932688">▶ Vidéo</a></sub><br>
 <sub>Une planète entière en moins de 320 Ko de code. Volez de la mer et des prairies aux cerisiers en fleurs jusque dans l'espace, directement dans le navigateur.</sub>
 </td>
-</tr>
-<tr>
-<td width="33%" valign="top">
-<a href="https://nkondo-ft.github.io/light-and-debris/"><img src="../assets/gifs/412.gif" width="100%" alt="Light & Debris — écartez plus de 100 000 éclats avec la lumière"></a><br>
-<b><a href="https://nkondo-ft.github.io/light-and-debris/">Light & Debris — écartez plus de 100 000 éclats avec la lumière</a></b><br>
-<sub>🆕 · <a href="https://x.com/Nkondo_funtech">@Nkondo_funtech</a> · ♥ 192 · <a href="https://x.com/Nkondo_funtech/status/2125811742001541535">▶ Vidéo</a></sub><br>
-<sub>Déplacez une lumière parmi plus de 100 000 éclats et regardez-les se disperser. La position, la vitesse et la rotation de chaque éclat sont calculées sur le GPU par des compute shaders WebGPU, ce qui rend la physique assez légère pour une page web.</sub><br>
-<sub><a href="https://github.com/nkondo-ft/light-and-debris">Code source</a></sub>
-</td>
 <td width="33%" valign="top">
 <a href="https://zalo.github.io/LanternTown/town/"><img src="../assets/gifs/404.gif" width="100%" alt="LanternTown — une place de village éclairée aux lanternes"></a><br>
 <b><a href="https://zalo.github.io/LanternTown/town/">LanternTown — une place de village éclairée aux lanternes</a></b><br>
-<sub>🆕 · <a href="https://x.com/makeshifted">@makeshifted</a> · ♥ 185 · <a href="https://x.com/makeshifted/status/2125331267512377844">Publication</a></sub><br>
+<sub>🆕 · <a href="https://x.com/makeshifted">@makeshifted</a> · ♥ 189 · <a href="https://x.com/makeshifted/status/2125331267512377844">Publication</a></sub><br>
 <sub>Une place de village expérimentale en three.js. Tous les assets sont définis de façon paramétrique et l'éclairage est précalculé dans les couleurs de sommets, ce qui la rend légère.</sub><br>
 <sub><a href="https://github.com/zalo/LanternTown">Code source</a></sub>
 </td>
@@ -187,7 +187,7 @@ La page principale affiche au plus les 24 entrées les plus aimées de chaque se
 <td width="33%" valign="top">
 <a href="https://starknightt.github.io/sky-islands"><img src="../assets/gifs/411.gif" width="100%" alt="Sky Islands — volez entre des îles flottantes au-dessus d'une mer de nuages"></a><br>
 <b><a href="https://starknightt.github.io/sky-islands">Sky Islands — volez entre des îles flottantes au-dessus d'une mer de nuages</a></b><br>
-<sub>🆕 · <a href="https://x.com/prasenx">@prasenx</a> · ♥ 150 · <a href="https://x.com/prasenx/status/2125637810011201981">▶ Vidéo</a></sub><br>
+<sub>🆕 · <a href="https://x.com/prasenx">@prasenx</a> · ♥ 151 · <a href="https://x.com/prasenx/status/2125637810011201981">▶ Vidéo</a></sub><br>
 <sub>Des îles flottantes, des cascades et une mer de nuages à survoler librement. Le tout tient dans un seul fichier HTML de moins de 100 Ko.</sub><br>
 <sub><a href="https://github.com/StarKnightt/sky-islands">Code source</a></sub>
 </td>
@@ -238,7 +238,7 @@ La page principale affiche au plus les 24 entrées les plus aimées de chaque se
 <td width="33%" valign="top">
 <a href="https://patch.gg/blendi/pixel-village"><img src="../assets/gifs/372.gif" width="100%" alt="Pixel Village"></a><br>
 <b><a href="https://patch.gg/blendi/pixel-village">Pixel Village</a></b><br>
-<sub><a href="https://x.com/BlendiByl">@BlendiByl</a> · ♥ 84 · <a href="https://x.com/BlendiByl/status/2123618324823388410">▶ Vidéo</a></sub><br>
+<sub><a href="https://x.com/BlendiByl">@BlendiByl</a> · ♥ 86 · <a href="https://x.com/BlendiByl/status/2123618324823388410">▶ Vidéo</a></sub><br>
 <sub>Un village en pixels tout droit sorti d'un rêve, sur des falaises au coucher du soleil : du pixel art dans un vrai monde 3D, chaque pixel dessiné par du code. Tourne dans le navigateur, open source.</sub>
 </td>
 <td width="33%" valign="top">
@@ -280,12 +280,20 @@ La page principale affiche au plus les 24 entrées les plus aimées de chaque se
 <sub><a href="https://github.com/StarKnightt/summer-festival">Code source</a></sub>
 </td>
 <td width="33%" valign="top">
+<a href="https://airsup.ai/lab/bridge-layer"><img src="../assets/gifs/415.gif" width="100%" alt="Bridge Layer — un engin poseur de pont à démonter"></a><br>
+<b><a href="https://airsup.ai/lab/bridge-layer">Bridge Layer — un engin poseur de pont à démonter</a></b><br>
+<sub>🆕 · <a href="https://x.com/konstantinsaifo">@konstantinsaifo</a> · ♥ 33 · <a href="https://x.com/konstantinsaifo/status/2126074879992570105">▶ Vidéo</a></sub><br>
+<sub>Un blindé poseur de pont que Fable 5.2 a conçu pièce par pièce, 4,370 pièces en tout. Démontez-le, réglez la largeur de la rivière, puis regardez-le poser un pont de 26 m d'une rive à l'autre.</sub>
+</td>
+<td width="33%" valign="top">
 <a href="https://claude.ai/artifact/QoBRCe2QuCU81MkNpVr4hd"><img src="../assets/gifs/393.gif" width="100%" alt="Vice Corner : un diorama en pixels d'un coin de rue de Vice City"></a><br>
 <b><a href="https://claude.ai/artifact/QoBRCe2QuCU81MkNpVr4hd">Vice Corner : un diorama en pixels d'un coin de rue de Vice City</a></b><br>
 <sub><a href="https://x.com/CapyCola">@CapyCola</a> · ♥ 32 · <a href="https://x.com/CapyCola/status/2124797996458229877">▶ Vidéo</a></sub><br>
 <sub>Un coin de rue de Vice City réalisé dans les jours qui ont suivi la sortie de GTA 6. Une scène en pixels que l'on peut faire glisser, tourner et regarder sous tous les angles, créée avec Fable 5.2 et Ink Studio.</sub><br>
 <sub><a href="https://github.com/cola5939/pixel-dioramas">Code source</a></sub>
 </td>
+</tr>
+<tr>
 <td width="33%" valign="top">
 <a href="https://feelthematrix.com"><img src="../assets/gifs/139.gif" width="100%" alt="Matrix Vibe"></a><br>
 <b><a href="https://feelthematrix.com">Matrix Vibe</a></b><br>
@@ -294,8 +302,6 @@ La page principale affiche au plus les 24 entrées les plus aimées de chaque se
 <sub><a href="https://github.com/tornikegomareli/Matrix">Code source</a></sub><br>
 <sub><a href="https://fablelist.000ooo.ooo/fr/prompts/?w=matrix-vibe&ref=gh"><b>✨ Obtenir le prompt</b></a></sub>
 </td>
-</tr>
-<tr>
 <td width="33%" valign="top">
 <a href="https://loktar00.github.io/pine-hollow/"><img src="../assets/gifs/191.gif" width="100%" alt="Pine Hollow — une station de ski vivante"></a><br>
 <b><a href="https://loktar00.github.io/pine-hollow/">Pine Hollow — une station de ski vivante</a></b><br>
@@ -310,6 +316,8 @@ La page principale affiche au plus les 24 entrées les plus aimées de chaque se
 <sub><a href="https://x.com/tokifyi">@tokifyi</a> · ♥ 30 · <a href="https://x.com/tokifyi/status/2121644293270200354">Publication</a></sub><br>
 <sub>Un panorama de Vancouver au coucher du soleil dessiné entièrement en JavaScript.</sub>
 </td>
+</tr>
+<tr>
 <td width="33%" valign="top">
 <a href="https://claude.ai/artifact/HGk1WNqTgrGEE8ndBkEipB"><img src="../assets/gifs/229.gif" width="100%" alt="Du pixel art au monde 3D"></a><br>
 <b><a href="https://claude.ai/artifact/HGk1WNqTgrGEE8ndBkEipB">Du pixel art au monde 3D</a></b><br>
@@ -317,8 +325,6 @@ La page principale affiche au plus les 24 entrées les plus aimées de chaque se
 <sub>Une œuvre de pixel art transformée en monde 3D interactif, avec une baleine qui montre comment elle a été faite.</sub><br>
 <sub><a href="https://fablelist.000ooo.ooo/fr/prompts/?w=pixel-art-to-3d-world&ref=gh"><b>✨ Obtenir le prompt</b></a></sub>
 </td>
-</tr>
-<tr>
 <td width="33%" valign="top">
 <a href="https://galaxy-dive.vercel.app"><img src="../assets/gifs/141.gif" width="100%" alt="Galaxy Dive"></a><br>
 <b><a href="https://galaxy-dive.vercel.app">Galaxy Dive</a></b><br>
@@ -333,14 +339,14 @@ La page principale affiche au plus les 24 entrées les plus aimées de chaque se
 <sub>Aucune image de référence : un prompt texte, un seul essai. three.js et WebGPU.</sub><br>
 <sub><a href="https://fablelist.000ooo.ooo/fr/prompts/?w=calibre-5-2-watch&ref=gh"><b>✨ Obtenir le prompt</b></a></sub>
 </td>
+</tr>
+<tr>
 <td width="33%" valign="top">
 <a href="https://sf-js.webly.site"><img src="../assets/gifs/264.gif" width="100%" alt="San Francisco à l'heure dorée"></a><br>
 <b><a href="https://sf-js.webly.site">San Francisco à l'heure dorée</a></b><br>
 <sub><a href="https://x.com/tokifyi">@tokifyi</a> · ♥ 22 · <a href="https://x.com/tokifyi/status/2121367097972531412">▶ Vidéo</a></sub><br>
 <sub>Un prompt, canvas JavaScript pur : le pont, la skyline, la brume, les reflets et un cable car, sans images ni bibliothèques.</sub>
 </td>
-</tr>
-<tr>
 <td width="33%" valign="top">
 <a href="https://claude.ai/artifact/7nmzhxeamcunJbKVK32ptz"><img src="../assets/gifs/029.gif" width="100%" alt="Voxel Colosseum"></a><br>
 <b><a href="https://claude.ai/artifact/7nmzhxeamcunJbKVK32ptz">Voxel Colosseum</a></b><br>
@@ -348,12 +354,6 @@ La page principale affiche au plus les 24 entrées les plus aimées de chaque se
 <sub>Promenez-vous dans l'anneau intérieur en ruines. La version en diorama d'Opus 5.5 est liée pour comparaison.</sub><br>
 <sub><a href="https://claude.ai/artifact/B7ZmVS7Yr3BUc99ZyGk2bX">Opus 5.5 version</a></sub><br>
 <sub><a href="https://fablelist.000ooo.ooo/fr/prompts/?w=voxel-colosseum&ref=gh"><b>✨ Obtenir le prompt</b></a></sub>
-</td>
-<td width="33%" valign="top">
-<a href="https://airsup.ai/lab/bridge-layer"><img src="../assets/gifs/415.gif" width="100%" alt="Bridge Layer — un engin poseur de pont à démonter"></a><br>
-<b><a href="https://airsup.ai/lab/bridge-layer">Bridge Layer — un engin poseur de pont à démonter</a></b><br>
-<sub>🆕 · <a href="https://x.com/konstantinsaifo">@konstantinsaifo</a> · ♥ 15 · <a href="https://x.com/konstantinsaifo/status/2126074879992570105">▶ Vidéo</a></sub><br>
-<sub>Un blindé poseur de pont que Fable 5.2 a conçu pièce par pièce, 4,370 pièces en tout. Démontez-le, réglez la largeur de la rivière, puis regardez-le poser un pont de 26 m d'une rive à l'autre.</sub>
 </td>
 <td width="33%" valign="top">
 <a href="https://glittery-stardust-885b97.netlify.app"><img src="../assets/gifs/233.gif" width="100%" alt="HX-6 Hexapod, Three Worlds"></a><br>

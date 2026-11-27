@@ -54,7 +54,7 @@
 <td width="33%" valign="top">
 <a href="https://fable-rome.surge.sh/"><img src="../assets/gifs/136.gif" width="100%" alt="Rome, AD 320"></a><br>
 <b><a href="https://fable-rome.surge.sh/">Rome, AD 320</a></b><br>
-<sub><a href="https://x.com/petergostev">@petergostev</a> · ♥ 978 · <a href="https://x.com/petergostev/status/2120167560700383572">▶ 影片</a></sub><br>
+<sub><a href="https://x.com/petergostev">@petergostev</a> · ♥ 977 · <a href="https://x.com/petergostev/status/2120167560700383572">▶ 影片</a></sub><br>
 <sub>一則提示，Fable 5.2（Max）連跑一整夜，$2,618。</sub><br>
 <sub><a href="https://x.com/petergostev/status/2120167560700383572">📝 作者公開的提示詞（免費）</a></sub>
 </td>
@@ -68,7 +68,7 @@
 <td width="33%" valign="top">
 <a href="https://fable-rover.vercel.app"><img src="../assets/gifs/278.gif" width="100%" alt="ER-6 Terrain Explorer — 自動駕駛的火星車"></a><br>
 <b><a href="https://fable-rover.vercel.app">ER-6 Terrain Explorer — 自動駕駛的火星車</a></b><br>
-<sub><a href="https://x.com/DilumSanjaya">@DilumSanjaya</a> · ♥ 836 · <a href="https://x.com/DilumSanjaya/status/2120561077385867663">▶ 影片</a></sub><br>
+<sub><a href="https://x.com/DilumSanjaya">@DilumSanjaya</a> · ♥ 838 · <a href="https://x.com/DilumSanjaya/status/2120561077385867663">▶ 影片</a></sub><br>
 <sub>Fable 5.2 設計了 NASA 火星車那種搖臂轉向架懸吊，再模擬它在外星地形上行駛。</sub>
 </td>
 </tr>
@@ -82,13 +82,13 @@
 <td width="33%" valign="top">
 <a href="https://patch.gg/play/blendi/the-blue-hour"><img src="../assets/gifs/387.gif" width="100%" alt="The Blue Hour — 裝飾藝術風的夜色城市"></a><br>
 <b><a href="https://patch.gg/play/blendi/the-blue-hour">The Blue Hour — 裝飾藝術風的夜色城市</a></b><br>
-<sub><a href="https://x.com/BlendiByl">@BlendiByl</a> · ♥ 642 · <a href="https://x.com/BlendiByl/status/2124439671006748853">▶ 影片</a></sub><br>
+<sub><a href="https://x.com/BlendiByl">@BlendiByl</a> · ♥ 645 · <a href="https://x.com/BlendiByl/status/2124439671006748853">▶ 影片</a></sub><br>
 <sub>仿照《蝙蝠俠》動畫版裝飾藝術風格的 3D 場景，全部用程式碼畫出。開源。</sub>
 </td>
 <td width="33%" valign="top">
 <a href="https://supernatural-ft.vercel.app/fire-in-ice"><img src="../assets/gifs/221.gif" width="100%" alt="Fire in Ice"></a><br>
 <b><a href="https://supernatural-ft.vercel.app/fire-in-ice">Fire in Ice</a></b><br>
-<sub><a href="https://x.com/tkm_hmng8">@tkm_hmng8</a> · ♥ 549 · <a href="https://x.com/tkm_hmng8/status/2120813043101946324">▶ 影片</a></sub><br>
+<sub><a href="https://x.com/tkm_hmng8">@tkm_hmng8</a> · ♥ 550 · <a href="https://x.com/tkm_hmng8/status/2120813043101946324">▶ 影片</a></sub><br>
 <sub>寫在原生 WebGPU（不用 three.js）上的冰中燃燒的逼真火焰。</sub><br>
 <sub><a href="https://fablelist.000ooo.ooo/zh-tw/prompts/?w=fire-in-ice&ref=gh"><b>✨ 取得提示詞</b></a></sub>
 </td>
@@ -139,6 +139,13 @@
 </tr>
 <tr>
 <td width="33%" valign="top">
+<a href="https://nkondo-ft.github.io/light-and-debris/"><img src="../assets/gifs/412.gif" width="100%" alt="Light & Debris — 用光推開十幾萬塊碎片"></a><br>
+<b><a href="https://nkondo-ft.github.io/light-and-debris/">Light & Debris — 用光推開十幾萬塊碎片</a></b><br>
+<sub>🆕 · <a href="https://x.com/Nkondo_funtech">@Nkondo_funtech</a> · ♥ 216 · <a href="https://x.com/Nkondo_funtech/status/2125811742001541535">▶ 影片</a></sub><br>
+<sub>讓一束光穿過十幾萬塊碎片，看它們四散開來。每塊碎片的位置、速度和旋轉都由 WebGPU 計算著色器在顯示卡上運算，物理模擬輕到網頁裡也跑得動。</sub><br>
+<sub><a href="https://github.com/nkondo-ft/light-and-debris">原始碼</a></sub>
+</td>
+<td width="33%" valign="top">
 <a href="https://claude.ai/artifact/R6YBDkAm2GjAC5A65D9djx"><img src="../assets/gifs/142.gif" width="100%" alt="可以走進去的 Claude 展示"></a><br>
 <b><a href="https://claude.ai/artifact/R6YBDkAm2GjAC5A65D9djx">可以走進去的 Claude 展示</a></b><br>
 <sub><a href="https://x.com/dfeinition">@dfeinition</a> · ♥ 215 · <a href="https://x.com/dfeinition/status/2120330644261589051">▶ 影片</a></sub><br>
@@ -153,25 +160,18 @@
 <sub><a href="https://claude.ai/artifact/75KLotWzZQ5RR23BGLePb8">Opus 5.5 version</a></sub><br>
 <sub><a href="https://x.com/vib3coded/status/2119951060752375827">📝 作者公開的提示詞（免費）</a></sub>
 </td>
+</tr>
+<tr>
 <td width="33%" valign="top">
 <a href="https://planet.tokyoaivisuals.club/"><img src="../assets/gifs/266.gif" width="100%" alt="Code Planet"></a><br>
 <b><a href="https://planet.tokyoaivisuals.club/">Code Planet</a></b><br>
 <sub><a href="https://x.com/KanaWorks_AI">@KanaWorks_AI</a> · ♥ 198 · <a href="https://x.com/KanaWorks_AI/status/2121413647213932688">▶ 影片</a></sub><br>
 <sub>不到 320KB 程式碼的整顆行星。從大海與草地飛越櫻花，一路飛上太空，直接在瀏覽器中。</sub>
 </td>
-</tr>
-<tr>
-<td width="33%" valign="top">
-<a href="https://nkondo-ft.github.io/light-and-debris/"><img src="../assets/gifs/412.gif" width="100%" alt="Light & Debris — 用光推開十幾萬塊碎片"></a><br>
-<b><a href="https://nkondo-ft.github.io/light-and-debris/">Light & Debris — 用光推開十幾萬塊碎片</a></b><br>
-<sub>🆕 · <a href="https://x.com/Nkondo_funtech">@Nkondo_funtech</a> · ♥ 192 · <a href="https://x.com/Nkondo_funtech/status/2125811742001541535">▶ 影片</a></sub><br>
-<sub>讓一束光穿過十幾萬塊碎片，看它們四散開來。每塊碎片的位置、速度和旋轉都由 WebGPU 計算著色器在顯示卡上運算，物理模擬輕到網頁裡也跑得動。</sub><br>
-<sub><a href="https://github.com/nkondo-ft/light-and-debris">原始碼</a></sub>
-</td>
 <td width="33%" valign="top">
 <a href="https://zalo.github.io/LanternTown/town/"><img src="../assets/gifs/404.gif" width="100%" alt="LanternTown — 燈籠點亮的小鎮廣場"></a><br>
 <b><a href="https://zalo.github.io/LanternTown/town/">LanternTown — 燈籠點亮的小鎮廣場</a></b><br>
-<sub>🆕 · <a href="https://x.com/makeshifted">@makeshifted</a> · ♥ 185 · <a href="https://x.com/makeshifted/status/2125331267512377844">原文</a></sub><br>
+<sub>🆕 · <a href="https://x.com/makeshifted">@makeshifted</a> · ♥ 189 · <a href="https://x.com/makeshifted/status/2125331267512377844">原文</a></sub><br>
 <sub>實驗性的 three.js 小鎮廣場。所有模型都以參數定義，光照烘焙進頂點顏色，所以跑起來很輕。</sub><br>
 <sub><a href="https://github.com/zalo/LanternTown">原始碼</a></sub>
 </td>
@@ -187,7 +187,7 @@
 <td width="33%" valign="top">
 <a href="https://starknightt.github.io/sky-islands"><img src="../assets/gifs/411.gif" width="100%" alt="Sky Islands — 飛越雲海上的浮空島"></a><br>
 <b><a href="https://starknightt.github.io/sky-islands">Sky Islands — 飛越雲海上的浮空島</a></b><br>
-<sub>🆕 · <a href="https://x.com/prasenx">@prasenx</a> · ♥ 150 · <a href="https://x.com/prasenx/status/2125637810011201981">▶ 影片</a></sub><br>
+<sub>🆕 · <a href="https://x.com/prasenx">@prasenx</a> · ♥ 151 · <a href="https://x.com/prasenx/status/2125637810011201981">▶ 影片</a></sub><br>
 <sub>浮空島、瀑布和一片雲海，可以在裡面自由飛行。整個作品只是一個不到 100 KB 的 HTML 檔案。</sub><br>
 <sub><a href="https://github.com/StarKnightt/sky-islands">原始碼</a></sub>
 </td>
@@ -238,7 +238,7 @@
 <td width="33%" valign="top">
 <a href="https://patch.gg/blendi/pixel-village"><img src="../assets/gifs/372.gif" width="100%" alt="Pixel Village"></a><br>
 <b><a href="https://patch.gg/blendi/pixel-village">Pixel Village</a></b><br>
-<sub><a href="https://x.com/BlendiByl">@BlendiByl</a> · ♥ 84 · <a href="https://x.com/BlendiByl/status/2123618324823388410">▶ 影片</a></sub><br>
+<sub><a href="https://x.com/BlendiByl">@BlendiByl</a> · ♥ 86 · <a href="https://x.com/BlendiByl/status/2123618324823388410">▶ 影片</a></sub><br>
 <sub>夕陽下海崖上的夢幻像素小村：真 3D 世界裡的像素畫，每個像素都由程式碼畫出。瀏覽器直接跑，開源。</sub>
 </td>
 <td width="33%" valign="top">
@@ -280,12 +280,20 @@
 <sub><a href="https://github.com/StarKnightt/summer-festival">原始碼</a></sub>
 </td>
 <td width="33%" valign="top">
+<a href="https://airsup.ai/lab/bridge-layer"><img src="../assets/gifs/415.gif" width="100%" alt="Bridge Layer — 可以拆開看的架橋車"></a><br>
+<b><a href="https://airsup.ai/lab/bridge-layer">Bridge Layer — 可以拆開看的架橋車</a></b><br>
+<sub>🆕 · <a href="https://x.com/konstantinsaifo">@konstantinsaifo</a> · ♥ 33 · <a href="https://x.com/konstantinsaifo/status/2126074879992570105">▶ 影片</a></sub><br>
+<sub>Fable 5.2 一個零件一個零件設計出來的裝甲架橋車，共 4,370 個零件。把它拆開、設定河面寬度，再看它把 26 m 的橋從一岸架到另一岸。</sub>
+</td>
+<td width="33%" valign="top">
 <a href="https://claude.ai/artifact/QoBRCe2QuCU81MkNpVr4hd"><img src="../assets/gifs/393.gif" width="100%" alt="Vice Corner：罪惡都市街角的像素立體畫"></a><br>
 <b><a href="https://claude.ai/artifact/QoBRCe2QuCU81MkNpVr4hd">Vice Corner：罪惡都市街角的像素立體畫</a></b><br>
 <sub><a href="https://x.com/CapyCola">@CapyCola</a> · ♥ 32 · <a href="https://x.com/CapyCola/status/2124797996458229877">▶ 影片</a></sub><br>
 <sub>GTA 6 發售後那幾天做的罪惡都市街角。可以拖曳、旋轉、從任何角度觀看的像素場景，用 Fable 5.2 和 Ink Studio 製作。</sub><br>
 <sub><a href="https://github.com/cola5939/pixel-dioramas">原始碼</a></sub>
 </td>
+</tr>
+<tr>
 <td width="33%" valign="top">
 <a href="https://feelthematrix.com"><img src="../assets/gifs/139.gif" width="100%" alt="Matrix Vibe"></a><br>
 <b><a href="https://feelthematrix.com">Matrix Vibe</a></b><br>
@@ -294,8 +302,6 @@
 <sub><a href="https://github.com/tornikegomareli/Matrix">原始碼</a></sub><br>
 <sub><a href="https://fablelist.000ooo.ooo/zh-tw/prompts/?w=matrix-vibe&ref=gh"><b>✨ 取得提示詞</b></a></sub>
 </td>
-</tr>
-<tr>
 <td width="33%" valign="top">
 <a href="https://loktar00.github.io/pine-hollow/"><img src="../assets/gifs/191.gif" width="100%" alt="Pine Hollow — 活著的滑雪場"></a><br>
 <b><a href="https://loktar00.github.io/pine-hollow/">Pine Hollow — 活著的滑雪場</a></b><br>
@@ -310,6 +316,8 @@
 <sub><a href="https://x.com/tokifyi">@tokifyi</a> · ♥ 30 · <a href="https://x.com/tokifyi/status/2121644293270200354">原文</a></sub><br>
 <sub>完全用 JavaScript 畫出的溫哥華夕陽全景。</sub>
 </td>
+</tr>
+<tr>
 <td width="33%" valign="top">
 <a href="https://claude.ai/artifact/HGk1WNqTgrGEE8ndBkEipB"><img src="../assets/gifs/229.gif" width="100%" alt="像素畫變成 3D 世界"></a><br>
 <b><a href="https://claude.ai/artifact/HGk1WNqTgrGEE8ndBkEipB">像素畫變成 3D 世界</a></b><br>
@@ -317,8 +325,6 @@
 <sub>一幅像素畫變成可互動的 3D 世界，並有一隻鯨魚示範它是怎麼做出來的。</sub><br>
 <sub><a href="https://fablelist.000ooo.ooo/zh-tw/prompts/?w=pixel-art-to-3d-world&ref=gh"><b>✨ 取得提示詞</b></a></sub>
 </td>
-</tr>
-<tr>
 <td width="33%" valign="top">
 <a href="https://galaxy-dive.vercel.app"><img src="../assets/gifs/141.gif" width="100%" alt="Galaxy Dive"></a><br>
 <b><a href="https://galaxy-dive.vercel.app">Galaxy Dive</a></b><br>
@@ -333,14 +339,14 @@
 <sub>沒有參考圖：一則文字提示，一次到位。three.js 與 WebGPU。</sub><br>
 <sub><a href="https://fablelist.000ooo.ooo/zh-tw/prompts/?w=calibre-5-2-watch&ref=gh"><b>✨ 取得提示詞</b></a></sub>
 </td>
+</tr>
+<tr>
 <td width="33%" valign="top">
 <a href="https://sf-js.webly.site"><img src="../assets/gifs/264.gif" width="100%" alt="黃金時刻的舊金山"></a><br>
 <b><a href="https://sf-js.webly.site">黃金時刻的舊金山</a></b><br>
 <sub><a href="https://x.com/tokifyi">@tokifyi</a> · ♥ 22 · <a href="https://x.com/tokifyi/status/2121367097972531412">▶ 影片</a></sub><br>
 <sub>一則提示，純 JavaScript canvas：大橋、天際線、霧、倒影與一輛纜車，沒有圖片或函式庫。</sub>
 </td>
-</tr>
-<tr>
 <td width="33%" valign="top">
 <a href="https://claude.ai/artifact/7nmzhxeamcunJbKVK32ptz"><img src="../assets/gifs/029.gif" width="100%" alt="Voxel Colosseum"></a><br>
 <b><a href="https://claude.ai/artifact/7nmzhxeamcunJbKVK32ptz">Voxel Colosseum</a></b><br>
@@ -348,12 +354,6 @@
 <sub>漫步在殘破的內環。並附上 Opus 5.5 的縮景版本供比較。</sub><br>
 <sub><a href="https://claude.ai/artifact/B7ZmVS7Yr3BUc99ZyGk2bX">Opus 5.5 version</a></sub><br>
 <sub><a href="https://fablelist.000ooo.ooo/zh-tw/prompts/?w=voxel-colosseum&ref=gh"><b>✨ 取得提示詞</b></a></sub>
-</td>
-<td width="33%" valign="top">
-<a href="https://airsup.ai/lab/bridge-layer"><img src="../assets/gifs/415.gif" width="100%" alt="Bridge Layer — 可以拆開看的架橋車"></a><br>
-<b><a href="https://airsup.ai/lab/bridge-layer">Bridge Layer — 可以拆開看的架橋車</a></b><br>
-<sub>🆕 · <a href="https://x.com/konstantinsaifo">@konstantinsaifo</a> · ♥ 15 · <a href="https://x.com/konstantinsaifo/status/2126074879992570105">▶ 影片</a></sub><br>
-<sub>Fable 5.2 一個零件一個零件設計出來的裝甲架橋車，共 4,370 個零件。把它拆開、設定河面寬度，再看它把 26 m 的橋從一岸架到另一岸。</sub>
 </td>
 <td width="33%" valign="top">
 <a href="https://glittery-stardust-885b97.netlify.app"><img src="../assets/gifs/233.gif" width="100%" alt="HX-6 六足機器人，三個世界"></a><br>
