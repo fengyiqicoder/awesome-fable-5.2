@@ -1,4 +1,4 @@
-# 🧰 웹 페이지와 도구 · 전체 59개
+# 🧰 웹 페이지와 도구 · 전체 60개
 
 [← 메인 목록으로](../README.ko.md) · [English](web-and-tools.md) · [简体中文](web-and-tools.zh-CN.md) · [繁體中文](web-and-tools.zh-TW.md) · [日本語](web-and-tools.ja.md) · **한국어** · [Español](web-and-tools.es.md) · [Português](web-and-tools.pt-BR.md) · [Français](web-and-tools.fr.md) · [Deutsch](web-and-tools.de.md) · [Русский](web-and-tools.ru.md)
 
@@ -103,13 +103,13 @@
 <td width="33%" valign="top">
 <a href="https://github.com/deedy/chess-chatarunga"><img src="../assets/gifs/420.gif" width="100%" alt="Chatarunga — 의존성 없는 Rust 체스 엔진"></a><br>
 <b><a href="https://github.com/deedy/chess-chatarunga">Chatarunga — 의존성 없는 Rust 체스 엔진</a></b><br>
-<sub>🆕 · <a href="https://x.com/deedydas">@deedydas</a> · ♥ 761 · <a href="https://x.com/deedydas/status/2126140365208224057">게시물</a></sub><br>
+<sub>🆕 · <a href="https://x.com/deedydas">@deedydas</a> · ♥ 869 · <a href="https://x.com/deedydas/status/2126140365208224057">게시물</a></sub><br>
 <sub>Rust로 처음부터 작성한 의존성 제로 체스 엔진. ELO 3533으로 세계 50~100위권에 든다. 1위 엔진 Stockfish를 상대로 37%를 득점하고 7%의 대국에서 체크메이트를 만든다. 전부 오픈소스이며 약 50달러어치 연산을 Fable과 몇 가지 도구로 써서 만들었다.</sub>
 </td>
 <td width="33%" valign="top">
 <a href="https://hexagonal.earth"><img src="../assets/gifs/349.gif" width="100%" alt="Hexagonal Earth"></a><br>
 <b><a href="https://hexagonal.earth">Hexagonal Earth</a></b><br>
-<sub><a href="https://x.com/avsa">@avsa</a> · ♥ 756 · <a href="https://x.com/avsa/status/2123123638551392755">게시물</a></sub><br>
+<sub><a href="https://x.com/avsa">@avsa</a> · ♥ 757 · <a href="https://x.com/avsa/status/2123123638551392755">게시물</a></sub><br>
 <sub>실제 고도, 해양 수심, 습도, 바람, 하천 데이터로 만든 육각형 기반의 세계 디오라마. Fable 5.2가 수백 개의 작은 3D 픽셀 스플랫 오브젝트를 생성하고 직접 장면에 배치했다.</sub>
 </td>
 <td width="33%" valign="top">
@@ -131,7 +131,7 @@
 <td width="33%" valign="top">
 <a href="https://auden-english-135.netlify.app/"><img src="../assets/gifs/281.gif" width="100%" alt="사라진 Auden의 1941년 시 수업 복원"></a><br>
 <b><a href="https://auden-english-135.netlify.app/">사라진 Auden의 1941년 시 수업 복원</a></b><br>
-<sub><a href="https://x.com/emollick">@emollick</a> · ♥ 594 · <a href="https://x.com/emollick/status/2121641417483169934">게시물</a></sub><br>
+<sub><a href="https://x.com/emollick">@emollick</a> · ♥ 593 · <a href="https://x.com/emollick/status/2121641417483169934">게시물</a></sub><br>
 <sub>Fable 5.2가 Internet Archive의 잘 알려지지 않은 책과 흩어진 메모를 바탕으로 W. H. Auden의 '인문학에서 가장 어려운' 수업을 재구성했습니다.</sub>
 </td>
 <td width="33%" valign="top">
@@ -173,7 +173,7 @@
 <td width="33%" valign="top">
 <a href="https://gsplan.org"><img src="../assets/gifs/206.gif" width="100%" alt="Galatasaray 좌석 시야"></a><br>
 <b><a href="https://gsplan.org">Galatasaray 좌석 시야</a></b><br>
-<sub><a href="https://x.com/molenbeek84">@molenbeek84</a> · ♥ 429 · <a href="https://x.com/molenbeek84/status/2120847639411331097">게시물</a></sub><br>
+<sub><a href="https://x.com/molenbeek84">@molenbeek84</a> · ♥ 430 · <a href="https://x.com/molenbeek84/status/2120847639411331097">게시물</a></sub><br>
 <sub>티켓을 사기 전에 RAMS Park의 모든 블록에서 경기장이 어떻게 보이는지 확인하세요.</sub><br>
 <sub><a href="https://fablelist.000ooo.ooo/ko/prompts/?w=galatasaray-seat-view&ref=gh"><b>✨ 프롬프트 받기</b></a></sub>
 </td>
@@ -200,13 +200,19 @@
 <sub><a href="https://fablelist.000ooo.ooo/ko/prompts/?w=origami-helper&ref=gh"><b>✨ 프롬프트 받기</b></a></sub>
 </td>
 <td width="33%" valign="top">
+<a href="https://assetora.vercel.app"><img src="../assets/gifs/423.gif" width="100%" alt="Assetora — 이틀 만에 만든 자산 대시보드"></a><br>
+<b><a href="https://assetora.vercel.app">Assetora — 이틀 만에 만든 자산 대시보드</a></b><br>
+<sub>🆕 · <a href="https://x.com/marcelkargul">@marcelkargul</a> · ♥ 215 · <a href="https://x.com/marcelkargul/status/2126119817849815490">게시물</a></sub><br>
+<sub>Claude Fable 5.2 와 디자인 중심 스킬 두 개로 약 이틀 만에 Next.js 로 만든 완성형 자산 관리 대시보드. 브라우저에서 열면 바로 작동하는 대시보드가 나온다.</sub>
+</td>
+</tr>
+<tr>
+<td width="33%" valign="top">
 <a href="https://claude.ai/artifact/5ki5nJzDaayYMNhxymZBNT"><img src="../assets/gifs/378.gif" width="100%" alt="Slow Plant Synth"></a><br>
 <b><a href="https://claude.ai/artifact/5ki5nJzDaayYMNhxymZBNT">Slow Plant Synth</a></b><br>
 <sub><a href="https://x.com/parhelion318">@parhelion318</a> · ♥ 208 · <a href="https://x.com/parhelion318/status/2123982460090503626">▶ 영상</a></sub><br>
 <sub>내 위치와 시간, 시뮬레이션된 날씨에 따라 자라는 가상 식물이 며칠에 걸쳐 저만의 소리를 냅니다. Fable 5.2와 Opus 5.5로 제작.</sub>
 </td>
-</tr>
-<tr>
 <td width="33%" valign="top">
 <a href="https://typed.page/"><img src="../assets/gifs/036.gif" width="100%" alt="Typed"></a><br>
 <b><a href="https://typed.page/">Typed</a></b><br>
@@ -221,14 +227,14 @@
 <sub>실시간 ECG와 압력 파형, 심장 소리가 있는 박동하는 3D 심장. 정상, 심방세동, 심장 차단, 대동맥 협착을 비교. 자체 테스트도 직접 작성했습니다.</sub><br>
 <sub><a href="https://fablelist.000ooo.ooo/ko/prompts/?w=one-heartbeat&ref=gh"><b>✨ 프롬프트 받기</b></a></sub>
 </td>
+</tr>
+<tr>
 <td width="33%" valign="top">
 <a href="https://stormy.ai/hands"><img src="../assets/gifs/316.gif" width="100%" alt="Hands: 로봇 손은 어떻게 작동하나"></a><br>
 <b><a href="https://stormy.ai/hands">Hands: 로봇 손은 어떻게 작동하나</a></b><br>
 <sub><a href="https://x.com/Karmedge">@Karmedge</a> · ♥ 151 · <a href="https://x.com/Karmedge/status/2122394153497842080">▶ 영상</a></sub><br>
 <sub>휴머노이드 로봇의 손이 어떻게 작동하는지, 왜 만들기 어려운지, 비용이 얼마인지 설명하는 인터랙티브 해설 페이지. 10억 개가 넘는 토큰으로 제작.</sub>
 </td>
-</tr>
-<tr>
 <td width="33%" valign="top">
 <a href="https://motionsites.ai/?prompt=vante-ribbon-hero"><img src="../assets/gifs/048.gif" width="100%" alt="Ribbon Hero"></a><br>
 <b><a href="https://motionsites.ai/?prompt=vante-ribbon-hero">Ribbon Hero</a></b><br>
@@ -242,14 +248,14 @@
 <sub>AI 영상 클립의 동작을 실제 3D 리그에 풀어 적용 — 모캡 슈트도 키프레임도 필요 없음. 오픈 소스.</sub><br>
 <sub><a href="https://fablelist.000ooo.ooo/ko/prompts/?w=anymove&ref=gh"><b>✨ 프롬프트 받기</b></a></sub>
 </td>
+</tr>
+<tr>
 <td width="33%" valign="top">
 <a href="https://seats.movie"><img src="../assets/gifs/370.gif" width="100%" alt="seats.movie"></a><br>
 <b><a href="https://seats.movie">seats.movie</a></b><br>
 <sub><a href="https://x.com/sunithvs_">@sunithvs_</a> · ♥ 133 · <a href="https://x.com/sunithvs_/status/2123496822400532982">▶ 영상</a></sub><br>
 <sub>영화를 고르면 내 도시의 모든 상영 회차를 확인해 아직 비어 있는 가운데 좌석을 찾아 준다. 좌석에서 보는 3D 시야도 제공. 제작자 말로는 Fable 5.2를 5일 동안 돌려 만들었다고.</sub>
 </td>
-</tr>
-<tr>
 <td width="33%" valign="top">
 <a href="https://nikechan.com/"><img src="../assets/gifs/049.gif" width="100%" alt="nikechan.com 리디자인"></a><br>
 <b><a href="https://nikechan.com/">nikechan.com 리디자인</a></b><br>
@@ -263,6 +269,8 @@
 <sub><a href="https://x.com/dejvdesign">@dejvdesign</a> · ♥ 130 · <a href="https://x.com/dejvdesign/status/2122335319634874710">▶ 영상</a></sub><br>
 <sub>라이브 인터랙션이 들어간 CRM 대시보드 인터페이스. @madebymicrodose와 함께 제작.</sub>
 </td>
+</tr>
+<tr>
 <td width="33%" valign="top">
 <a href="https://github.com/kanaworksai-hue/harappa"><img src="../assets/gifs/250.gif" width="100%" alt="Harappa (Blender 애드온)"></a><br>
 <b><a href="https://github.com/kanaworksai-hue/harappa">Harappa (Blender 애드온)</a></b><br>
@@ -270,8 +278,6 @@
 <sub>민둥산을 클릭 한 번으로 애니메이션 스타일 초원으로 바꿔 주는 무료 Blender 애드온. 풀, 꽃, 구름, 나무, 계절, 스타일 지원.</sub><br>
 <sub><a href="https://fablelist.000ooo.ooo/ko/prompts/?w=harappa-blender-add-on&ref=gh"><b>✨ 프롬프트 받기</b></a></sub>
 </td>
-</tr>
-<tr>
 <td width="33%" valign="top">
 <a href="https://andreysuperiorgit.github.io/v8/"><img src="../assets/gifs/373.gif" width="100%" alt="V8 Four-Stroke"></a><br>
 <b><a href="https://andreysuperiorgit.github.io/v8/">V8 Four-Stroke</a></b><br>
@@ -281,10 +287,12 @@
 <td width="33%" valign="top">
 <a href="https://hashem-al-ghaili.github.io/music-maker/"><img src="../assets/gifs/383.gif" width="100%" alt="Music Maker — 허공에서 연주하는 악기"></a><br>
 <b><a href="https://hashem-al-ghaili.github.io/music-maker/">Music Maker — 허공에서 연주하는 악기</a></b><br>
-<sub><a href="https://x.com/HashemGhaili">@HashemGhaili</a> · ♥ 68 · <a href="https://x.com/HashemGhaili/status/2124135871293329809">▶ 영상</a></sub><br>
+<sub><a href="https://x.com/HashemGhaili">@HashemGhaili</a> · ♥ 69 · <a href="https://x.com/HashemGhaili/status/2124135871293329809">▶ 영상</a></sub><br>
 <sub>웹캠을 켜고 두 손으로 집어 벌리면 허공에 줄이 생깁니다. 24가지 악기 중 하나를 고르고 손끝으로 쓸어 연주하세요. 비트를 얹고, 루프를 쌓고, 결과를 녹화할 수 있습니다.</sub><br>
 <sub><a href="https://github.com/Hashem-Al-Ghaili/music-maker">소스 코드</a></sub>
 </td>
+</tr>
+<tr>
 <td width="33%" valign="top">
 <a href="https://sael.net/seat-arena"><img src="../assets/gifs/182.gif" width="100%" alt="Best Seat in the House"></a><br>
 <b><a href="https://sael.net/seat-arena">Best Seat in the House</a></b><br>
@@ -292,8 +300,6 @@
 <sub>콘서트 좌석 배치도에서 구매 전에 모든 좌석의 정확한 시야를 확인. 완전한 인터랙티브.</sub><br>
 <sub><a href="https://fablelist.000ooo.ooo/ko/prompts/?w=best-seat-in-the-house&ref=gh"><b>✨ 프롬프트 받기</b></a></sub>
 </td>
-</tr>
-<tr>
 <td width="33%" valign="top">
 <a href="http://promptronic3000.com"><img src="../assets/gifs/358.gif" width="100%" alt="Promptronic 3000"></a><br>
 <b><a href="http://promptronic3000.com">Promptronic 3000</a></b><br>
@@ -306,6 +312,8 @@
 <sub><a href="https://x.com/andreysuperior">@andreysuperior</a> · ♥ 54 · <a href="https://x.com/andreysuperior/status/2124274426225008910">▶ 영상</a></sub><br>
 <sub>돌려 볼 수 있는 제타 함수 지형. 영점 102개를 브라우저에서 실시간으로 찾아 검증하고, 모두 한 직선 위에 놓이며, 더하면 소수가 다시 만들어집니다. 라이브러리 없는 HTML 파일 하나.</sub>
 </td>
+</tr>
+<tr>
 <td width="33%" valign="top">
 <a href="https://tetriss22.github.io/pc-build-lab/"><img src="../assets/gifs/147.gif" width="100%" alt="PC Build Lab"></a><br>
 <b><a href="https://tetriss22.github.io/pc-build-lab/">PC Build Lab</a></b><br>
@@ -313,8 +321,6 @@
 <sub>$1,279짜리 게이밍 PC를 3D로 8단계에 걸쳐 부품별로 조립하고, 실제 부품을 만지기 전에 일부러 망가뜨려 보세요.</sub><br>
 <sub><a href="https://fablelist.000ooo.ooo/ko/prompts/?w=pc-build-lab&ref=gh"><b>✨ 프롬프트 받기</b></a></sub>
 </td>
-</tr>
-<tr>
 <td width="33%" valign="top">
 <a href="https://zkevinbai.com/apps/tesla-fsd"><img src="../assets/gifs/394.gif" width="100%" alt="How FSD Drives"></a><br>
 <b><a href="https://zkevinbai.com/apps/tesla-fsd">How FSD Drives</a></b><br>
@@ -327,14 +333,14 @@
 <sub><a href="https://x.com/parhelion318">@parhelion318</a> · ♥ 30 · <a href="https://x.com/parhelion318/status/2123463622252994878">▶ 영상</a></sub><br>
 <sub>소리에 따라 움직이는 점으로 이루어진 표면. Fable 5.2와 Opus 5.5로 만들고 GPT-6.2 Astra가 검토했다.</sub>
 </td>
+</tr>
+<tr>
 <td width="33%" valign="top">
 <a href="https://shiraeisenberg.com/composed-of-nows"><img src="../assets/gifs/365.gif" width="100%" alt="Composed of Nows"></a><br>
 <b><a href="https://shiraeisenberg.com/composed-of-nows">Composed of Nows</a></b><br>
 <sub><a href="https://x.com/shiraeis">@shiraeis</a> · ♥ 25 · <a href="https://x.com/shiraeis/status/2123562764203589648">▶ 영상</a></sub><br>
 <sub>시를 읽게 한 뒤, 언어 모델로 존재한다는 것이 어떤 "느낌"인지 다룬 인터랙티브 작품 아홉 점을 만들게 했다. 한 번에 완성.</sub>
 </td>
-</tr>
-<tr>
 <td width="33%" valign="top">
 <a href="https://piano.yoshiyukikoyanagi.com"><img src="../assets/gifs/374.gif" width="100%" alt="Physical Modeling Piano F1"></a><br>
 <b><a href="https://piano.yoshiyukikoyanagi.com">Physical Modeling Piano F1</a></b><br>
@@ -345,17 +351,17 @@
 <td width="33%" valign="top">
 <a href="https://riemann.zondark.com/course"><img src="../assets/gifs/407.gif" width="100%" alt="리만 가설 — 10분 체험형 강의"></a><br>
 <b><a href="https://riemann.zondark.com/course">리만 가설 — 10분 체험형 강의</a></b><br>
-<sub>🆕 · <a href="https://x.com/ZondarkAI">@ZondarkAI</a> · ♥ 15 · <a href="https://x.com/ZondarkAI/status/2125506885487034601">▶ 영상</a></sub><br>
+<sub><a href="https://x.com/ZondarkAI">@ZondarkAI</a> · ♥ 16 · <a href="https://x.com/ZondarkAI/status/2125506885487034601">▶ 영상</a></sub><br>
 <sub>인터랙티브 학습 사이트. 두 개의 수업에서 모든 단계마다 직접 해 봐야 한다. 14.13에 있는 첫 번째 비자명 영점을 직접 찾고, 영점 1,000개가 더해져 소수의 분포가 되는 모습을 본다. 중국어와 영어 지원, 짧은 영상 포함.</sub>
 </td>
+</tr>
+<tr>
 <td width="33%" valign="top">
 <a href="https://ember-vesper.aura.build/"><img src="../assets/gifs/366.gif" width="100%" alt="Ember Vesper"></a><br>
 <b><a href="https://ember-vesper.aura.build/">Ember Vesper</a></b><br>
 <sub><a href="https://x.com/titepommee">@titepommee</a> · ♥ 13 · <a href="https://x.com/titepommee/status/2123515807250657457">▶ 영상</a></sub><br>
 <sub>게이밍 PC를 랜딩 페이지로 만들었다. 스크롤하면 분해되고, 조명 색이 바뀌고, 열화상 카메라로 전환되고, 주문서가 작성된다. HTML 파일 하나.</sub>
 </td>
-</tr>
-<tr>
 <td width="33%" valign="top">
 <a href="https://ai.itokoba.com/ichimai/"><img src="../assets/gifs/260.gif" width="100%" alt="Ichimai — 한 페이지는 어디까지 갈 수 있을까"></a><br>
 <b><a href="https://ai.itokoba.com/ichimai/">Ichimai — 한 페이지는 어디까지 갈 수 있을까</a></b><br>
@@ -370,6 +376,8 @@
 <sub>트랜지스터 수준 시뮬레이션에서 Intel 4004의 트랜지스터 2,242개를 하나씩 고장 냈다. 칩 지도에서 트랜지스터에 마우스를 올리면 무엇이 멈추는지 볼 수 있다.</sub><br>
 <sub><a href="https://github.com/rain-1/intel4004">소스 코드</a></sub>
 </td>
+</tr>
+<tr>
 <td width="33%" valign="top">
 <a href="https://jwt-designs-preview.noone-697.workers.dev/"><img src="../assets/gifs/046.gif" width="100%" alt="랜딩 페이지 리디자인 20종"></a><br>
 <b><a href="https://jwt-designs-preview.noone-697.workers.dev/">랜딩 페이지 리디자인 20종</a></b><br>
@@ -377,8 +385,6 @@
 <sub>간단한 프롬프트 하나로 JWT 플러그인 랜딩 페이지의 대안 20개.</sub><br>
 <sub><a href="https://x.com/Tmeister/status/2119983842841018482">📝 제작자 공개 프롬프트 (무료)</a></sub>
 </td>
-</tr>
-<tr>
 <td width="33%" valign="top">
 <a href="https://www.asumacodes.xyz/arena/driftwood"><img src="../assets/gifs/047.gif" width="100%" alt="Driftwood (Fable vs Opus)"></a><br>
 <b><a href="https://www.asumacodes.xyz/arena/driftwood">Driftwood (Fable vs Opus)</a></b><br>
@@ -393,6 +399,8 @@
 <sub><a href="https://x.com/seanaiux">@seanaiux</a> · ♥ 8 · <a href="https://x.com/seanaiux/status/2121688869439455410">▶ 영상</a></sub><br>
 <sub>자신을 겁먹게 할 웹사이트를 만들어 달라고 했더니: 어둠에서 거미가 내려오고, 스크롤을 따라 거미줄, 눈, 송곳니, 다리를 지나 마지막엔 당신이 파리가 됩니다.</sub>
 </td>
+</tr>
+<tr>
 <td width="33%" valign="top">
 <a href="https://claude.ai/artifact/TiymxxFXzMo7xhWUaecbzk"><img src="https://pbs.twimg.com/media/HWwrmvIb0AAMLPK.jpg?name=small" width="100%" alt="주택 설계 제안서"></a><br>
 <b><a href="https://claude.ai/artifact/TiymxxFXzMo7xhWUaecbzk">주택 설계 제안서</a></b><br>
@@ -400,8 +408,6 @@
 <sub>단독주택 설계 제안서(한국어), 하루 만에 제작.</sub><br>
 <sub><a href="https://fablelist.000ooo.ooo/ko/prompts/?w=house-design-proposal&ref=gh"><b>✨ 프롬프트 받기</b></a></sub>
 </td>
-</tr>
-<tr>
 <td width="33%" valign="top">
 <a href="https://claude.ai/artifact/9yQkezie4jY3oz2YDLFDiq"><img src="../assets/gifs/040.gif" width="100%" alt="Bay Drum Kit"></a><br>
 <b><a href="https://claude.ai/artifact/9yQkezie4jY3oz2YDLFDiq">Bay Drum Kit</a></b><br>
@@ -416,6 +422,8 @@
 <sub>원샷.</sub><br>
 <sub><a href="https://fablelist.000ooo.ooo/ko/prompts/?w=dub-techno-track-visualizer&ref=gh"><b>✨ 프롬프트 받기</b></a></sub>
 </td>
+</tr>
+<tr>
 <td width="33%" valign="top">
 <a href="https://claude.ai/artifact/5ufHvxgvXTf5YgQeTR8TbG"><img src="../assets/gifs/044.gif" width="100%" alt="Ramayana Family Tree"></a><br>
 <b><a href="https://claude.ai/artifact/5ufHvxgvXTf5YgQeTR8TbG">Ramayana Family Tree</a></b><br>
@@ -423,8 +431,6 @@
 <sub>주연 배우와 볼리우드 스타 65명의 혈연·혼인 관계.</sub><br>
 <sub><a href="https://fablelist.000ooo.ooo/ko/prompts/?w=ramayana-family-tree&ref=gh"><b>✨ 프롬프트 받기</b></a></sub>
 </td>
-</tr>
-<tr>
 <td width="33%" valign="top">
 <a href="https://claude.ai/artifact/4aEy6FtUi7jrm9U7uYgp8K"><img src="../assets/gifs/042.gif" width="100%" alt="Demoscene Demo"></a><br>
 <b><a href="https://claude.ai/artifact/4aEy6FtUi7jrm9U7uYgp8K">Demoscene Demo</a></b><br>

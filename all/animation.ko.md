@@ -36,7 +36,7 @@
 <td width="33%" valign="top">
 <a href="https://github.com/ChetasLua/pelican-riding-a-bicycle"><img src="../assets/gifs/150.gif" width="100%" alt="The Pelican, Tired of the Road"></a><br>
 <b><a href="https://github.com/ChetasLua/pelican-riding-a-bicycle">The Pelican, Tired of the Road</a></b><br>
-<sub><a href="https://x.com/chetaslua">@chetaslua</a> · ♥ 358 · <a href="https://x.com/chetaslua/status/2120438091647218025">▶ 영상</a></sub><br>
+<sub><a href="https://x.com/chetaslua">@chetaslua</a> · ♥ 359 · <a href="https://x.com/chetaslua/status/2120438091647218025">▶ 영상</a></sub><br>
 <sub>SVG 테스트용 펠리컨을 다룬 60초짜리 손그림 느낌의 필름. HTML 파일 하나, 모든 픽셀과 소리가 코드.</sub><br>
 <sub><a href="https://github.com/ChetasLua/mona-lisa-js">Mona Lisa in JS</a></sub><br>
 <sub><a href="https://fablelist.000ooo.ooo/ko/prompts/?w=the-pelican-tired-of-the-road&ref=gh"><b>✨ 프롬프트 받기</b></a></sub>
@@ -44,7 +44,7 @@
 <td width="33%" valign="top">
 <a href="https://github.com/Leonxlnx/mechanical-moon"><img src="../assets/gifs/336.gif" width="100%" alt="Mechanical Moon"></a><br>
 <b><a href="https://github.com/Leonxlnx/mechanical-moon">Mechanical Moon</a></b><br>
-<sub><a href="https://x.com/LexnLin">@LexnLin</a> · ♥ 355 · <a href="https://x.com/LexnLin/status/2122823164635881853">▶ 영상</a></sub><br>
+<sub><a href="https://x.com/LexnLin">@LexnLin</a> · ♥ 357 · <a href="https://x.com/LexnLin/status/2122823164635881853">▶ 영상</a></sub><br>
 <sub>갈라진 달 안에 황금빛 태엽 거대 구조물이 들어 있는 45초 프로시저럴 Blender 영상. 전부 Python 스크립트로 만들고 EEVEE로 렌더링.</sub>
 </td>
 </tr>
@@ -95,7 +95,7 @@
 <td width="33%" valign="top">
 <a href="https://github.com/0xCodez/thousand-peaks"><img src="../assets/gifs/282.gif" width="100%" alt="Dragon of a Thousand Peaks — 천 봉우리의 용"></a><br>
 <b><a href="https://github.com/0xCodez/thousand-peaks">Dragon of a Thousand Peaks — 천 봉우리의 용</a></b><br>
-<sub><a href="https://x.com/0xMovez">@0xMovez</a> · ♥ 137 · <a href="https://x.com/0xMovez/status/2121721290687983906">▶ 영상</a></sub><br>
+<sub><a href="https://x.com/0xMovez">@0xMovez</a> · ♥ 138 · <a href="https://x.com/0xMovez/status/2121721290687983906">▶ 영상</a></sub><br>
 <sub>에셋도 영상 모델도 없이 순수 three.js로 만든 90초 전투 영상. Fable 5.2가 감독을 맡아 8개의 에이전트를 병렬로 지휘했고, 음악과 효과음도 코드로 합성했습니다.</sub>
 </td>
 <td width="33%" valign="top">

@@ -5,9 +5,9 @@
 <h3>用 Claude Fable 5.2 做出來、能直接打開玩的東西</h3>
 
 [![Awesome](https://awesome.re/badge.svg)](https://awesome.re)
-[![Works](https://img.shields.io/badge/線上作品-256-6b4eff)](#-遊戲)
+[![Works](https://img.shields.io/badge/線上作品-258-6b4eff)](#-遊戲)
 [![Demos](https://img.shields.io/badge/影片展示-157-ff7a59)](#-影片展示)
-[![Links checked](https://img.shields.io/badge/連結實測-2026--11--27-2ea44f)](#-投稿)
+[![Links checked](https://img.shields.io/badge/連結實測-2026--11--28-2ea44f)](#-投稿)
 [![License: CC0-1.0](https://img.shields.io/badge/License-CC0_1.0-lightgrey.svg)](LICENSE)
 
 [English](README.md) · [简体中文](README.zh-CN.md) · **繁體中文** · [日本語](README.ja.md) · [한국어](README.ko.md) · [Español](README.es.md) · [Português](README.pt-BR.md) · [Français](README.fr.md) · [Deutsch](README.de.md) · [Русский](README.ru.md)
@@ -16,11 +16,11 @@
 
 </div>
 
-256 個能直接打開的作品 + 157 個影片展示，都是用 Claude Fable 5.2 做的，連結 2026-11-27 實測過。每天更新，覺得有用就按個 ⭐。
+258 個能直接打開的作品 + 157 個影片展示，都是用 Claude Fable 5.2 做的，連結 2026-11-28 實測過。每天更新，覺得有用就按個 ⭐。
 
 ## 📑 目錄
 
-[⭐ 最受歡迎](#-最受歡迎) · [🆕 最新](#-最新) · [🎮 遊戲](#-遊戲) 123 · [🌍 3D 世界與場景](#-3d-世界與場景) 55 · [🧰 網頁與工具](#-網頁與工具) 59 · [🎬 動畫與短片](#-動畫與短片) 19 · [📺 影片展示](#-影片展示) 157 · [🤝 投稿](#-投稿)
+[⭐ 最受歡迎](#-最受歡迎) · [🆕 最新](#-最新) · [🎮 遊戲](#-遊戲) 123 · [🌍 3D 世界與場景](#-3d-世界與場景) 56 · [🧰 網頁與工具](#-網頁與工具) 60 · [🎬 動畫與短片](#-動畫與短片) 19 · [📺 影片展示](#-影片展示) 157 · [🤝 投稿](#-投稿)
 
 ## ⭐ 最受歡迎
 
@@ -80,25 +80,23 @@
 <table>
 <tr>
 <td width="33%" valign="top">
-<a href="https://kevintngo.github.io/procedural-rpg/"><img src="assets/gifs/401.gif" width="100%" alt="Brushwild — 程序化開放世界 RPG"></a><br>
-<b><a href="https://kevintngo.github.io/procedural-rpg/">Brushwild — 程序化開放世界 RPG</a></b><br>
-<sub>🆕 · <a href="https://x.com/kevin_t_ngo">@kevin_t_ngo</a> · ♥ 2.7k · <a href="https://x.com/kevin_t_ngo/status/2125321244686029289">▶ 影片</a></sub><br>
-<sub>程序化生成的開放世界動作 RPG，整個遊戲只有一個約 300kB 的 HTML 檔。每個像素都由著色器畫成鋼筆加色鉛筆的風格。三種職業、技能樹、戰利品、城鎮和地城，電腦和手機都能玩。</sub><br>
-<sub><a href="https://github.com/kevintngo/procedural-rpg">原始碼</a></sub>
-</td>
-<td width="33%" valign="top">
-<a href="https://littlecity.io"><img src="assets/gifs/402.gif" width="100%" alt="Little City — 手繪風城市建造"></a><br>
-<b><a href="https://littlecity.io">Little City — 手繪風城市建造</a></b><br>
-<sub>🆕 · <a href="https://x.com/sprezzyyy">@sprezzyyy</a> · ♥ 1.0k · <a href="https://x.com/sprezzyyy/status/2125321545665192054">▶ 影片</a></sub><br>
-<sub>受 Townscaper 啟發的沙盒城市建造遊戲。放下幾個方塊，看它們變成手繪風的小鎮，再看小鎮活起來。瀏覽器打開就能玩。</sub><br>
-<sub><a href="https://github.com/yaoderek/littlecity.io">原始碼</a></sub>
-</td>
-<td width="33%" valign="top">
 <a href="https://kevintngo.github.io/voidlight/"><img src="assets/gifs/413.gif" width="100%" alt="Voidlight Depths — 單一 HTML 檔的太空地城探險"></a><br>
 <b><a href="https://kevintngo.github.io/voidlight/">Voidlight Depths — 單一 HTML 檔的太空地城探險</a></b><br>
-<sub>🆕 · <a href="https://x.com/kevin_t_ngo">@kevin_t_ngo</a> · ♥ 1.0k · <a href="https://x.com/kevin_t_ngo/status/2125982976483975534">▶ 影片</a></sub><br>
+<sub>🆕 · <a href="https://x.com/kevin_t_ngo">@kevin_t_ngo</a> · ♥ 1.1k · <a href="https://x.com/kevin_t_ngo/status/2125982976483975534">▶ 影片</a></sub><br>
 <sub>整款太空地城探險遊戲只有一個 164 kB 的 HTML 檔。沒有任何素材：貼圖、模型和音效全由程式碼生成。</sub><br>
 <sub><a href="https://github.com/kevintngo/voidlight">原始碼</a></sub>
+</td>
+<td width="33%" valign="top">
+<a href="https://github.com/deedy/chess-chatarunga"><img src="assets/gifs/420.gif" width="100%" alt="Chatarunga — 零相依的 Rust 象棋引擎"></a><br>
+<b><a href="https://github.com/deedy/chess-chatarunga">Chatarunga — 零相依的 Rust 象棋引擎</a></b><br>
+<sub>🆕 · <a href="https://x.com/deedydas">@deedydas</a> · ♥ 869 · <a href="https://x.com/deedydas/status/2126140365208224057">原文</a></sub><br>
+<sub>從零用 Rust 寫的西洋棋引擎，零相依套件，ELO 3533，能排進全球前 50–100；對陣頭號引擎 Stockfish 勝率 37%、7% 的對局能將死它；全部開源，約 50 美元算力由 Fable 搭配其他幾樣工具寫成。</sub>
+</td>
+<td width="33%" valign="top">
+<a href="http://exponential.scottsun.io"><img src="assets/gifs/422.gif" width="100%" alt="Exponential — 瀏覽器裡的第一人稱飛船"></a><br>
+<b><a href="http://exponential.scottsun.io">Exponential — 瀏覽器裡的第一人稱飛船</a></b><br>
+<sub>🆕 · <a href="https://x.com/scottstts">@scottstts</a> · ♥ 284 · <a href="https://x.com/scottstts/status/2126411782411427883">▶ 影片</a></sub><br>
+<sub>由 Fable 5.2 打下基礎、再用 neon 持續打磨的第一人稱 3D 飛船體驗。以 WebGPU、物理光照和空間音效打造，讓你從內到外探索一艘完整的擬真飛船。</sub>
 </td>
 </tr>
 </table>
@@ -163,7 +161,7 @@
 <td width="33%" valign="top">
 <a href="https://patch.gg/play/blendi/small-magic"><img src="assets/gifs/274.gif" width="100%" alt="Small Magic — 巫師沙盒"></a><br>
 <b><a href="https://patch.gg/play/blendi/small-magic">Small Magic — 巫師沙盒</a></b><br>
-<sub><a href="https://x.com/BlendiByl">@BlendiByl</a> · ♥ 3.2k · <a href="https://x.com/BlendiByl/status/2121594536153718972">▶ 影片</a></sub><br>
+<sub><a href="https://x.com/BlendiByl">@BlendiByl</a> · ♥ 4.2k · <a href="https://x.com/BlendiByl/status/2121594536153718972">▶ 影片</a></sub><br>
 <sub>一天做完：7 種法術、約 1,800 塊可破壞的物理碎片，沒有模型也沒有貼圖，開源。</sub>
 </td>
 <td width="33%" valign="top">
@@ -178,7 +176,7 @@
 <td width="33%" valign="top">
 <a href="https://kevintngo.github.io/procedural-rpg/"><img src="assets/gifs/401.gif" width="100%" alt="Brushwild — 程序化開放世界 RPG"></a><br>
 <b><a href="https://kevintngo.github.io/procedural-rpg/">Brushwild — 程序化開放世界 RPG</a></b><br>
-<sub>🆕 · <a href="https://x.com/kevin_t_ngo">@kevin_t_ngo</a> · ♥ 2.7k · <a href="https://x.com/kevin_t_ngo/status/2125321244686029289">▶ 影片</a></sub><br>
+<sub><a href="https://x.com/kevin_t_ngo">@kevin_t_ngo</a> · ♥ 2.7k · <a href="https://x.com/kevin_t_ngo/status/2125321244686029289">▶ 影片</a></sub><br>
 <sub>程序化生成的開放世界動作 RPG，整個遊戲只有一個約 300kB 的 HTML 檔。每個像素都由著色器畫成鋼筆加色鉛筆的風格。三種職業、技能樹、戰利品、城鎮和地城，電腦和手機都能玩。</sub><br>
 <sub><a href="https://github.com/kevintngo/procedural-rpg">原始碼</a></sub>
 </td>
@@ -244,6 +242,13 @@
 </tr>
 <tr>
 <td width="33%" valign="top">
+<a href="https://kevintngo.github.io/voidlight/"><img src="assets/gifs/413.gif" width="100%" alt="Voidlight Depths — 單一 HTML 檔的太空地城探險"></a><br>
+<b><a href="https://kevintngo.github.io/voidlight/">Voidlight Depths — 單一 HTML 檔的太空地城探險</a></b><br>
+<sub>🆕 · <a href="https://x.com/kevin_t_ngo">@kevin_t_ngo</a> · ♥ 1.1k · <a href="https://x.com/kevin_t_ngo/status/2125982976483975534">▶ 影片</a></sub><br>
+<sub>整款太空地城探險遊戲只有一個 164 kB 的 HTML 檔。沒有任何素材：貼圖、模型和音效全由程式碼生成。</sub><br>
+<sub><a href="https://github.com/kevintngo/voidlight">原始碼</a></sub>
+</td>
+<td width="33%" valign="top">
 <a href="https://wavedash.com/games/rooftop-rally"><img src="assets/gifs/129.gif" width="100%" alt="Rooftop Rally — Unreal 5.9 的匹克球"></a><br>
 <b><a href="https://wavedash.com/games/rooftop-rally">Rooftop Rally — Unreal 5.9 的匹克球</a></b><br>
 <sub><a href="https://x.com/chongdashu">@chongdashu</a> · ♥ 1.1k · <a href="https://x.com/chongdashu/status/2120154573356793883">▶ 影片</a></sub><br>
@@ -254,35 +259,28 @@
 <td width="33%" valign="top">
 <a href="https://littlecity.io"><img src="assets/gifs/402.gif" width="100%" alt="Little City — 手繪風城市建造"></a><br>
 <b><a href="https://littlecity.io">Little City — 手繪風城市建造</a></b><br>
-<sub>🆕 · <a href="https://x.com/sprezzyyy">@sprezzyyy</a> · ♥ 1.0k · <a href="https://x.com/sprezzyyy/status/2125321545665192054">▶ 影片</a></sub><br>
+<sub><a href="https://x.com/sprezzyyy">@sprezzyyy</a> · ♥ 1.0k · <a href="https://x.com/sprezzyyy/status/2125321545665192054">▶ 影片</a></sub><br>
 <sub>受 Townscaper 啟發的沙盒城市建造遊戲。放下幾個方塊，看它們變成手繪風的小鎮，再看小鎮活起來。瀏覽器打開就能玩。</sub><br>
 <sub><a href="https://github.com/yaoderek/littlecity.io">原始碼</a></sub>
 </td>
+</tr>
+<tr>
 <td width="33%" valign="top">
 <a href="https://gtashenzhen.com"><img src="assets/gifs/377.gif" width="100%" alt="GTA Shenzhen"></a><br>
 <b><a href="https://gtashenzhen.com">GTA Shenzhen</a></b><br>
 <sub><a href="https://x.com/KinGao476942">@KinGao476942</a> · ♥ 1.0k · <a href="https://x.com/KinGao476942/status/2123967104601014521">▶ 影片</a></sub><br>
 <sub>用 OpenStreetMap 資料建出的深圳全城：83,182 棟樓、62,088 條路。可以在天上飛、落地開車、搜尋任何地點，晚上還能啟動全城燈光秀。用 Fable 5.2 和 Tripo 三天做成。</sub>
 </td>
-</tr>
-<tr>
-<td width="33%" valign="top">
-<a href="https://kevintngo.github.io/voidlight/"><img src="assets/gifs/413.gif" width="100%" alt="Voidlight Depths — 單一 HTML 檔的太空地城探險"></a><br>
-<b><a href="https://kevintngo.github.io/voidlight/">Voidlight Depths — 單一 HTML 檔的太空地城探險</a></b><br>
-<sub>🆕 · <a href="https://x.com/kevin_t_ngo">@kevin_t_ngo</a> · ♥ 1.0k · <a href="https://x.com/kevin_t_ngo/status/2125982976483975534">▶ 影片</a></sub><br>
-<sub>整款太空地城探險遊戲只有一個 164 kB 的 HTML 檔。沒有任何素材：貼圖、模型和音效全由程式碼生成。</sub><br>
-<sub><a href="https://github.com/kevintngo/voidlight">原始碼</a></sub>
-</td>
 <td width="33%" valign="top">
 <a href="https://thaxnay.com/ramayana/"><img src="assets/gifs/389.gif" width="100%" alt="Ramayana: The Sacred Fires"></a><br>
 <b><a href="https://thaxnay.com/ramayana/">Ramayana: The Sacred Fires</a></b><br>
-<sub><a href="https://x.com/Thaxnay">@Thaxnay</a> · ♥ 980 · <a href="https://x.com/Thaxnay/status/2124574054296219939">▶ 影片</a></sub><br>
+<sub><a href="https://x.com/Thaxnay">@Thaxnay</a> · ♥ 983 · <a href="https://x.com/Thaxnay/status/2124574054296219939">▶ 影片</a></sub><br>
 <sub>第三人稱動作冒險遊戲：扮演羅摩穿越開闊的山谷，守護仙人、尋找隱藏的祕密。電腦和手機的瀏覽器都能玩。</sub>
 </td>
 <td width="33%" valign="top">
 <a href="https://noclipepe.pages.dev/chase"><img src="assets/gifs/406.gif" width="100%" alt="Red Clay Chase — 紅土路上的警匪追車"></a><br>
 <b><a href="https://noclipepe.pages.dev/chase">Red Clay Chase — 紅土路上的警匪追車</a></b><br>
-<sub>🆕 · <a href="https://x.com/noclipepe">@noclipepe</a> · ♥ 848 · <a href="https://x.com/noclipepe/status/2124805085393813586">▶ 影片</a></sub><br>
+<sub><a href="https://x.com/noclipepe">@noclipepe</a> · ♥ 848 · <a href="https://x.com/noclipepe/status/2124805085393813586">▶ 影片</a></sub><br>
 <sub>GTA 風格的警匪追車，瀏覽器打開就能玩。沒用遊戲引擎，也沒用任何素材。作者說 Fable 5.2 花了 2.5 小時、115 美元。</sub><br>
 <sub><a href="https://github.com/noclipepe/red-clay-chase">原始碼</a></sub>
 </td>
@@ -345,7 +343,7 @@
 <td width="33%" valign="top">
 <a href="https://fable-rome.surge.sh/"><img src="assets/gifs/136.gif" width="100%" alt="Rome, AD 320"></a><br>
 <b><a href="https://fable-rome.surge.sh/">Rome, AD 320</a></b><br>
-<sub><a href="https://x.com/petergostev">@petergostev</a> · ♥ 977 · <a href="https://x.com/petergostev/status/2120167560700383572">▶ 影片</a></sub><br>
+<sub><a href="https://x.com/petergostev">@petergostev</a> · ♥ 976 · <a href="https://x.com/petergostev/status/2120167560700383572">▶ 影片</a></sub><br>
 <sub>一則提示，Fable 5.2（Max）連跑一整夜，$2,618。</sub><br>
 <sub><a href="https://x.com/petergostev/status/2120167560700383572">📝 作者公開的提示詞（免費）</a></sub>
 </td>
@@ -359,7 +357,7 @@
 <td width="33%" valign="top">
 <a href="https://fable-rover.vercel.app"><img src="assets/gifs/278.gif" width="100%" alt="ER-6 Terrain Explorer — 自動駕駛的火星車"></a><br>
 <b><a href="https://fable-rover.vercel.app">ER-6 Terrain Explorer — 自動駕駛的火星車</a></b><br>
-<sub><a href="https://x.com/DilumSanjaya">@DilumSanjaya</a> · ♥ 838 · <a href="https://x.com/DilumSanjaya/status/2120561077385867663">▶ 影片</a></sub><br>
+<sub><a href="https://x.com/DilumSanjaya">@DilumSanjaya</a> · ♥ 840 · <a href="https://x.com/DilumSanjaya/status/2120561077385867663">▶ 影片</a></sub><br>
 <sub>Fable 5.2 設計了 NASA 火星車那種搖臂轉向架懸吊，再模擬它在外星地形上行駛。</sub>
 </td>
 </tr>
@@ -373,7 +371,7 @@
 <td width="33%" valign="top">
 <a href="https://patch.gg/play/blendi/the-blue-hour"><img src="assets/gifs/387.gif" width="100%" alt="The Blue Hour — 裝飾藝術風的夜色城市"></a><br>
 <b><a href="https://patch.gg/play/blendi/the-blue-hour">The Blue Hour — 裝飾藝術風的夜色城市</a></b><br>
-<sub><a href="https://x.com/BlendiByl">@BlendiByl</a> · ♥ 645 · <a href="https://x.com/BlendiByl/status/2124439671006748853">▶ 影片</a></sub><br>
+<sub><a href="https://x.com/BlendiByl">@BlendiByl</a> · ♥ 656 · <a href="https://x.com/BlendiByl/status/2124439671006748853">▶ 影片</a></sub><br>
 <sub>仿照《蝙蝠俠》動畫版裝飾藝術風格的 3D 場景，全部用程式碼畫出。開源。</sub>
 </td>
 <td width="33%" valign="top">
@@ -416,23 +414,29 @@
 <sub><a href="https://fablelist.000ooo.ooo/zh-tw/prompts/?w=the-garden&ref=gh"><b>✨ 取得提示詞</b></a></sub>
 </td>
 <td width="33%" valign="top">
+<a href="http://exponential.scottsun.io"><img src="assets/gifs/422.gif" width="100%" alt="Exponential — 瀏覽器裡的第一人稱飛船"></a><br>
+<b><a href="http://exponential.scottsun.io">Exponential — 瀏覽器裡的第一人稱飛船</a></b><br>
+<sub>🆕 · <a href="https://x.com/scottstts">@scottstts</a> · ♥ 284 · <a href="https://x.com/scottstts/status/2126411782411427883">▶ 影片</a></sub><br>
+<sub>由 Fable 5.2 打下基礎、再用 neon 持續打磨的第一人稱 3D 飛船體驗。以 WebGPU、物理光照和空間音效打造，讓你從內到外探索一艘完整的擬真飛船。</sub>
+</td>
+<td width="33%" valign="top">
 <a href="http://taoistvibe.com"><img src="assets/gifs/307.gif" width="100%" alt="Chill Taoist Vibe：道教小山上的道觀"></a><br>
 <b><a href="http://taoistvibe.com">Chill Taoist Vibe：道教小山上的道觀</a></b><br>
 <sub><a href="https://x.com/qiqileyuan">@qiqileyuan</a> · ♥ 252 · <a href="https://x.com/qiqileyuan/status/2122006851298693277">▶ 影片</a></sub><br>
 <sub>吉卜力畫風的道觀小山。跟著老道人上山，燒香、求籤、打坐，或者坐在搖椅上看四季變化。神像和主角模型來自 Tripo3D，其餘全是程式碼生成。</sub>
 </td>
+</tr>
+<tr>
 <td width="33%" valign="top">
 <a href="https://butterfly.kyzo.io"><img src="assets/gifs/314.gif" width="100%" alt="Hidden Layers：玻璃溫室裡的透翅蝶"></a><br>
 <b><a href="https://butterfly.kyzo.io">Hidden Layers：玻璃溫室裡的透翅蝶</a></b><br>
 <sub><a href="https://x.com/ky__zo">@ky__zo</a> · ♥ 230 · <a href="https://x.com/ky__zo/status/2122274109795054036">▶ 影片</a></sub><br>
 <sub>捲動頁面，帶著一隻飛不出玻璃溫室的透翅蝶穿越六個世界。純 three.js，沒有模型檔和貼圖；花了 13.2 億 token、905 美元 API 費用。</sub>
 </td>
-</tr>
-<tr>
 <td width="33%" valign="top">
 <a href="https://nkondo-ft.github.io/light-and-debris/"><img src="assets/gifs/412.gif" width="100%" alt="Light & Debris — 用光推開十幾萬塊碎片"></a><br>
 <b><a href="https://nkondo-ft.github.io/light-and-debris/">Light & Debris — 用光推開十幾萬塊碎片</a></b><br>
-<sub>🆕 · <a href="https://x.com/Nkondo_funtech">@Nkondo_funtech</a> · ♥ 216 · <a href="https://x.com/Nkondo_funtech/status/2125811742001541535">▶ 影片</a></sub><br>
+<sub>🆕 · <a href="https://x.com/Nkondo_funtech">@Nkondo_funtech</a> · ♥ 227 · <a href="https://x.com/Nkondo_funtech/status/2125811742001541535">▶ 影片</a></sub><br>
 <sub>讓一束光穿過十幾萬塊碎片，看它們四散開來。每塊碎片的位置、速度和旋轉都由 WebGPU 計算著色器在顯示卡上運算，物理模擬輕到網頁裡也跑得動。</sub><br>
 <sub><a href="https://github.com/nkondo-ft/light-and-debris">原始碼</a></sub>
 </td>
@@ -443,6 +447,8 @@
 <sub>靈感來自 @rileybrown：走進去，坐到任何一台電腦前。</sub><br>
 <sub><a href="https://fablelist.000ooo.ooo/zh-tw/prompts/?w=a-claude-demo-you-can-walk-into&ref=gh"><b>✨ 取得提示詞</b></a></sub>
 </td>
+</tr>
+<tr>
 <td width="33%" valign="top">
 <a href="https://claude.ai/artifact/2PBXuQAnWDS2NpiPXHNLfL"><img src="assets/gifs/028.gif" width="100%" alt="Orca Jelly"></a><br>
 <b><a href="https://claude.ai/artifact/2PBXuQAnWDS2NpiPXHNLfL">Orca Jelly</a></b><br>
@@ -451,8 +457,6 @@
 <sub><a href="https://claude.ai/artifact/75KLotWzZQ5RR23BGLePb8">Opus 5.5 version</a></sub><br>
 <sub><a href="https://x.com/vib3coded/status/2119951060752375827">📝 作者公開的提示詞（免費）</a></sub>
 </td>
-</tr>
-<tr>
 <td width="33%" valign="top">
 <a href="https://planet.tokyoaivisuals.club/"><img src="assets/gifs/266.gif" width="100%" alt="Code Planet"></a><br>
 <b><a href="https://planet.tokyoaivisuals.club/">Code Planet</a></b><br>
@@ -462,21 +466,14 @@
 <td width="33%" valign="top">
 <a href="https://zalo.github.io/LanternTown/town/"><img src="assets/gifs/404.gif" width="100%" alt="LanternTown — 燈籠點亮的小鎮廣場"></a><br>
 <b><a href="https://zalo.github.io/LanternTown/town/">LanternTown — 燈籠點亮的小鎮廣場</a></b><br>
-<sub>🆕 · <a href="https://x.com/makeshifted">@makeshifted</a> · ♥ 189 · <a href="https://x.com/makeshifted/status/2125331267512377844">原文</a></sub><br>
+<sub><a href="https://x.com/makeshifted">@makeshifted</a> · ♥ 191 · <a href="https://x.com/makeshifted/status/2125331267512377844">原文</a></sub><br>
 <sub>實驗性的 three.js 小鎮廣場。所有模型都以參數定義，光照烘焙進頂點顏色，所以跑起來很輕。</sub><br>
 <sub><a href="https://github.com/zalo/LanternTown">原始碼</a></sub>
-</td>
-<td width="33%" valign="top">
-<a href="https://claude.ai/artifact/9EgZpErM17kH2a9Q3WXW6f"><img src="assets/gifs/027.gif" width="100%" alt="瓶中的體素世界"></a><br>
-<b><a href="https://claude.ai/artifact/9EgZpErM17kH2a9Q3WXW6f">瓶中的體素世界</a></b><br>
-<sub><a href="https://x.com/vib3coded">@vib3coded</a> · ♥ 163 · <a href="https://x.com/vib3coded/status/2120104517282775514">▶ 影片</a></sub><br>
-<sub>30 分鐘，$12.81。</sub><br>
-<sub><a href="https://x.com/vib3coded/status/2120104517282775514">📝 作者公開的提示詞（免費）</a></sub>
 </td>
 </tr>
 </table>
 
-<p align="center"><b><a href="all/3d-worlds.zh-TW.md">查看全部 55 個 →</a></b></p>
+<p align="center"><b><a href="all/3d-worlds.zh-TW.md">查看全部 56 個 →</a></b></p>
 
 <div align="right"><a href="#-目錄">↑ 回到目錄</a></div>
 
@@ -581,13 +578,13 @@
 <td width="33%" valign="top">
 <a href="https://github.com/deedy/chess-chatarunga"><img src="assets/gifs/420.gif" width="100%" alt="Chatarunga — 零相依的 Rust 象棋引擎"></a><br>
 <b><a href="https://github.com/deedy/chess-chatarunga">Chatarunga — 零相依的 Rust 象棋引擎</a></b><br>
-<sub>🆕 · <a href="https://x.com/deedydas">@deedydas</a> · ♥ 761 · <a href="https://x.com/deedydas/status/2126140365208224057">原文</a></sub><br>
+<sub>🆕 · <a href="https://x.com/deedydas">@deedydas</a> · ♥ 869 · <a href="https://x.com/deedydas/status/2126140365208224057">原文</a></sub><br>
 <sub>從零用 Rust 寫的西洋棋引擎，零相依套件，ELO 3533，能排進全球前 50–100；對陣頭號引擎 Stockfish 勝率 37%、7% 的對局能將死它；全部開源，約 50 美元算力由 Fable 搭配其他幾樣工具寫成。</sub>
 </td>
 <td width="33%" valign="top">
 <a href="https://hexagonal.earth"><img src="assets/gifs/349.gif" width="100%" alt="Hexagonal Earth"></a><br>
 <b><a href="https://hexagonal.earth">Hexagonal Earth</a></b><br>
-<sub><a href="https://x.com/avsa">@avsa</a> · ♥ 756 · <a href="https://x.com/avsa/status/2123123638551392755">原文</a></sub><br>
+<sub><a href="https://x.com/avsa">@avsa</a> · ♥ 757 · <a href="https://x.com/avsa/status/2123123638551392755">原文</a></sub><br>
 <sub>用真實的海拔、海洋深度、濕度、風和河流資料搭出的六邊形世界微縮模型。Fable 5.2 生成了數百個小型 3D 像素點雲物件，並自己把它們擺進場景。</sub>
 </td>
 <td width="33%" valign="top">
@@ -609,7 +606,7 @@
 <td width="33%" valign="top">
 <a href="https://auden-english-135.netlify.app/"><img src="assets/gifs/281.gif" width="100%" alt="重建 Auden 失傳的 1941 年詩歌課"></a><br>
 <b><a href="https://auden-english-135.netlify.app/">重建 Auden 失傳的 1941 年詩歌課</a></b><br>
-<sub><a href="https://x.com/emollick">@emollick</a> · ♥ 594 · <a href="https://x.com/emollick/status/2121641417483169934">原文</a></sub><br>
+<sub><a href="https://x.com/emollick">@emollick</a> · ♥ 593 · <a href="https://x.com/emollick/status/2121641417483169934">原文</a></sub><br>
 <sub>Fable 5.2 從網際網路檔案館一本冷門書和零散筆記中，重建了 W. H. Auden 那門「人文學科最難」的課。</sub>
 </td>
 <td width="33%" valign="top">
@@ -651,7 +648,7 @@
 <td width="33%" valign="top">
 <a href="https://gsplan.org"><img src="assets/gifs/206.gif" width="100%" alt="Galatasaray 座位視野"></a><br>
 <b><a href="https://gsplan.org">Galatasaray 座位視野</a></b><br>
-<sub><a href="https://x.com/molenbeek84">@molenbeek84</a> · ♥ 429 · <a href="https://x.com/molenbeek84/status/2120847639411331097">原文</a></sub><br>
+<sub><a href="https://x.com/molenbeek84">@molenbeek84</a> · ♥ 430 · <a href="https://x.com/molenbeek84/status/2120847639411331097">原文</a></sub><br>
 <sub>買票前就能看到 RAMS Park 每個看台區望向球場的視野。</sub><br>
 <sub><a href="https://fablelist.000ooo.ooo/zh-tw/prompts/?w=galatasaray-seat-view&ref=gh"><b>✨ 取得提示詞</b></a></sub>
 </td>
@@ -665,7 +662,7 @@
 </tr>
 </table>
 
-<p align="center"><b><a href="all/web-and-tools.zh-TW.md">查看全部 59 個 →</a></b></p>
+<p align="center"><b><a href="all/web-and-tools.zh-TW.md">查看全部 60 個 →</a></b></p>
 
 <div align="right"><a href="#-目錄">↑ 回到目錄</a></div>
 
@@ -703,7 +700,7 @@
 <td width="33%" valign="top">
 <a href="https://github.com/ChetasLua/pelican-riding-a-bicycle"><img src="assets/gifs/150.gif" width="100%" alt="The Pelican, Tired of the Road"></a><br>
 <b><a href="https://github.com/ChetasLua/pelican-riding-a-bicycle">The Pelican, Tired of the Road</a></b><br>
-<sub><a href="https://x.com/chetaslua">@chetaslua</a> · ♥ 358 · <a href="https://x.com/chetaslua/status/2120438091647218025">▶ 影片</a></sub><br>
+<sub><a href="https://x.com/chetaslua">@chetaslua</a> · ♥ 359 · <a href="https://x.com/chetaslua/status/2120438091647218025">▶ 影片</a></sub><br>
 <sub>一部 60 秒的手繪風影片，主角是 SVG 測試裡的鵜鶘。單一 HTML 檔案；每個像素、每個聲音都是程式碼。</sub><br>
 <sub><a href="https://github.com/ChetasLua/mona-lisa-js">Mona Lisa in JS</a></sub><br>
 <sub><a href="https://fablelist.000ooo.ooo/zh-tw/prompts/?w=the-pelican-tired-of-the-road&ref=gh"><b>✨ 取得提示詞</b></a></sub>
@@ -711,7 +708,7 @@
 <td width="33%" valign="top">
 <a href="https://github.com/Leonxlnx/mechanical-moon"><img src="assets/gifs/336.gif" width="100%" alt="Mechanical Moon"></a><br>
 <b><a href="https://github.com/Leonxlnx/mechanical-moon">Mechanical Moon</a></b><br>
-<sub><a href="https://x.com/LexnLin">@LexnLin</a> · ♥ 355 · <a href="https://x.com/LexnLin/status/2122823164635881853">▶ 影片</a></sub><br>
+<sub><a href="https://x.com/LexnLin">@LexnLin</a> · ♥ 357 · <a href="https://x.com/LexnLin/status/2122823164635881853">▶ 影片</a></sub><br>
 <sub>45 秒的 Blender 程序化短片：裂開的月亮裡藏著金色發條巨構，完全用 Python 腳本打造，以 EEVEE 算圖。</sub>
 </td>
 </tr>
@@ -762,7 +759,7 @@
 <td width="33%" valign="top">
 <a href="https://github.com/0xCodez/thousand-peaks"><img src="assets/gifs/282.gif" width="100%" alt="Dragon of a Thousand Peaks — 千峰之龍"></a><br>
 <b><a href="https://github.com/0xCodez/thousand-peaks">Dragon of a Thousand Peaks — 千峰之龍</a></b><br>
-<sub><a href="https://x.com/0xMovez">@0xMovez</a> · ♥ 137 · <a href="https://x.com/0xMovez/status/2121721290687983906">▶ 影片</a></sub><br>
+<sub><a href="https://x.com/0xMovez">@0xMovez</a> · ♥ 138 · <a href="https://x.com/0xMovez/status/2121721290687983906">▶ 影片</a></sub><br>
 <sub>90 秒純 three.js 打鬥短片，零素材、零影片模型；Fable 5.2 指揮 8 個並行 Agent，音樂音效也用程式碼合成。</sub>
 </td>
 <td width="33%" valign="top">
@@ -931,7 +928,7 @@
 <td width="33%" valign="top">
 <a href="https://x.com/M__Houser/status/2120253236309569696"><img src="assets/gifs/154.gif" width="100%" alt="Age of Dragon：非程式設計師打造的開放世界"></a><br>
 <b><a href="https://x.com/M__Houser/status/2120253236309569696">Age of Dragon：非程式設計師打造的開放世界</a></b><br>
-<sub><a href="https://x.com/M__Houser">@M__Houser</a> · ♥ 2.7k · <a href="https://x.com/M__Houser/status/2120253236309569696">▶ 影片</a></sub><br>
+<sub><a href="https://x.com/M__Houser">@M__Houser</a> · ♥ 2.8k · <a href="https://x.com/M__Houser/status/2120253236309569696">▶ 影片</a></sub><br>
 <br>
 <sub><a href="https://fablelist.000ooo.ooo/zh-tw/prompts/?w=age-of-dragon-an-open-world-by-a&ref=gh"><b>✨ 取得提示詞</b></a></sub>
 </td>
@@ -987,8 +984,8 @@
 
 ## 📰 更新
 
+- **2026-11-28**：新增 2 個作品和 0 個影片展示。
 - **2026-11-27**：新增 8 個作品和 1 個影片展示。
 - **2026-11-26**：新增 2 個作品和 0 個影片展示。
 - **2026-11-25**：新增 6 個作品和 4 個影片展示。
-- **2026-11-24**：新增 4 個作品和 3 個影片展示。
 - **2026-11-10**：首版，57 個作品 + 61 個影片展示，每個都有動圖預覽。

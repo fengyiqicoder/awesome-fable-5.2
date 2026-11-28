@@ -36,7 +36,7 @@
 <td width="33%" valign="top">
 <a href="https://github.com/ChetasLua/pelican-riding-a-bicycle"><img src="../assets/gifs/150.gif" width="100%" alt="The Pelican, Tired of the Road"></a><br>
 <b><a href="https://github.com/ChetasLua/pelican-riding-a-bicycle">The Pelican, Tired of the Road</a></b><br>
-<sub><a href="https://x.com/chetaslua">@chetaslua</a> · ♥ 358 · <a href="https://x.com/chetaslua/status/2120438091647218025">▶ 動画</a></sub><br>
+<sub><a href="https://x.com/chetaslua">@chetaslua</a> · ♥ 359 · <a href="https://x.com/chetaslua/status/2120438091647218025">▶ 動画</a></sub><br>
 <sub>SVG テストで有名なペリカンを描いた、手描き風の 60 秒の映像。HTML ファイル 1 つ、ピクセルも音もすべてコード。</sub><br>
 <sub><a href="https://github.com/ChetasLua/mona-lisa-js">Mona Lisa in JS</a></sub><br>
 <sub><a href="https://fablelist.000ooo.ooo/ja/prompts/?w=the-pelican-tired-of-the-road&ref=gh"><b>✨ プロンプトを入手</b></a></sub>
@@ -44,7 +44,7 @@
 <td width="33%" valign="top">
 <a href="https://github.com/Leonxlnx/mechanical-moon"><img src="../assets/gifs/336.gif" width="100%" alt="Mechanical Moon"></a><br>
 <b><a href="https://github.com/Leonxlnx/mechanical-moon">Mechanical Moon</a></b><br>
-<sub><a href="https://x.com/LexnLin">@LexnLin</a> · ♥ 355 · <a href="https://x.com/LexnLin/status/2122823164635881853">▶ 動画</a></sub><br>
+<sub><a href="https://x.com/LexnLin">@LexnLin</a> · ♥ 357 · <a href="https://x.com/LexnLin/status/2122823164635881853">▶ 動画</a></sub><br>
 <sub>割れた月の内部に金色のゼンマイ仕掛けの巨大構造物がある、45 秒のプロシージャル Blender 映像。すべて Python スクリプトで作り、EEVEE でレンダリング。</sub>
 </td>
 </tr>
@@ -95,7 +95,7 @@
 <td width="33%" valign="top">
 <a href="https://github.com/0xCodez/thousand-peaks"><img src="../assets/gifs/282.gif" width="100%" alt="Dragon of a Thousand Peaks — 千峰の龍"></a><br>
 <b><a href="https://github.com/0xCodez/thousand-peaks">Dragon of a Thousand Peaks — 千峰の龍</a></b><br>
-<sub><a href="https://x.com/0xMovez">@0xMovez</a> · ♥ 137 · <a href="https://x.com/0xMovez/status/2121721290687983906">▶ 動画</a></sub><br>
+<sub><a href="https://x.com/0xMovez">@0xMovez</a> · ♥ 138 · <a href="https://x.com/0xMovez/status/2121721290687983906">▶ 動画</a></sub><br>
 <sub>素材も動画モデルも使わない、純 three.js の 90 秒バトル映像。Fable 5.2 が監督として 8 つのエージェント を並列で動かし、音楽と効果音もコードで合成。</sub>
 </td>
 <td width="33%" valign="top">

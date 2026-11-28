@@ -1,4 +1,4 @@
-# 🧰 Сайты и инструменты · все 59
+# 🧰 Сайты и инструменты · все 60
 
 [← Назад к списку](../README.ru.md) · [English](web-and-tools.md) · [简体中文](web-and-tools.zh-CN.md) · [繁體中文](web-and-tools.zh-TW.md) · [日本語](web-and-tools.ja.md) · [한국어](web-and-tools.ko.md) · [Español](web-and-tools.es.md) · [Português](web-and-tools.pt-BR.md) · [Français](web-and-tools.fr.md) · [Deutsch](web-and-tools.de.md) · **Русский**
 
@@ -103,13 +103,13 @@
 <td width="33%" valign="top">
 <a href="https://github.com/deedy/chess-chatarunga"><img src="../assets/gifs/420.gif" width="100%" alt="Chatarunga — шахматный движок на Rust без зависимостей"></a><br>
 <b><a href="https://github.com/deedy/chess-chatarunga">Chatarunga — шахматный движок на Rust без зависимостей</a></b><br>
-<sub>🆕 · <a href="https://x.com/deedydas">@deedydas</a> · ♥ 761 · <a href="https://x.com/deedydas/status/2126140365208224057">Пост</a></sub><br>
+<sub>🆕 · <a href="https://x.com/deedydas">@deedydas</a> · ♥ 869 · <a href="https://x.com/deedydas/status/2126140365208224057">Пост</a></sub><br>
 <sub>Шахматный движок, написанный с нуля на Rust без зависимостей, с рейтингом ELO 3533, входит в топ-50–100 мира. Набирает 37% против движка номер один Stockfish и ставит ему мат в 7% партий. Полностью с открытым кодом, сделан примерно за $50 вычислений с помощью Fable и ещё нескольких инструментов.</sub>
 </td>
 <td width="33%" valign="top">
 <a href="https://hexagonal.earth"><img src="../assets/gifs/349.gif" width="100%" alt="Hexagonal Earth"></a><br>
 <b><a href="https://hexagonal.earth">Hexagonal Earth</a></b><br>
-<sub><a href="https://x.com/avsa">@avsa</a> · ♥ 756 · <a href="https://x.com/avsa/status/2123123638551392755">Пост</a></sub><br>
+<sub><a href="https://x.com/avsa">@avsa</a> · ♥ 757 · <a href="https://x.com/avsa/status/2123123638551392755">Пост</a></sub><br>
 <sub>Диорама всего мира из шестиугольников, построенная на реальных данных о высотах, глубинах океана, влажности, ветрах и реках. Fable 5.2 сгенерировал сотни маленьких 3D-объектов из пиксельных сплатов и сам расставил их в сцене.</sub>
 </td>
 <td width="33%" valign="top">
@@ -131,7 +131,7 @@
 <td width="33%" valign="top">
 <a href="https://auden-english-135.netlify.app/"><img src="../assets/gifs/281.gif" width="100%" alt="Утраченный курс поэзии Одена 1941 года, восстановленный"></a><br>
 <b><a href="https://auden-english-135.netlify.app/">Утраченный курс поэзии Одена 1941 года, восстановленный</a></b><br>
-<sub><a href="https://x.com/emollick">@emollick</a> · ♥ 594 · <a href="https://x.com/emollick/status/2121641417483169934">Пост</a></sub><br>
+<sub><a href="https://x.com/emollick">@emollick</a> · ♥ 593 · <a href="https://x.com/emollick/status/2121641417483169934">Пост</a></sub><br>
 <sub>Fable 5.2 восстановил курс У. Х. Одена, «самый сложный в гуманитарных науках», по малоизвестной книге из Internet Archive и разрозненным заметкам.</sub>
 </td>
 <td width="33%" valign="top">
@@ -173,7 +173,7 @@
 <td width="33%" valign="top">
 <a href="https://gsplan.org"><img src="../assets/gifs/206.gif" width="100%" alt="Вид с мест на Галатасарае"></a><br>
 <b><a href="https://gsplan.org">Вид с мест на Галатасарае</a></b><br>
-<sub><a href="https://x.com/molenbeek84">@molenbeek84</a> · ♥ 429 · <a href="https://x.com/molenbeek84/status/2120847639411331097">Пост</a></sub><br>
+<sub><a href="https://x.com/molenbeek84">@molenbeek84</a> · ♥ 430 · <a href="https://x.com/molenbeek84/status/2120847639411331097">Пост</a></sub><br>
 <sub>Посмотрите на вид на поле с каждого сектора на RAMS Park, прежде чем покупать билет.</sub><br>
 <sub><a href="https://fablelist.000ooo.ooo/ru/prompts/?w=galatasaray-seat-view&ref=gh"><b>✨ Получить промпт</b></a></sub>
 </td>
@@ -200,13 +200,19 @@
 <sub><a href="https://fablelist.000ooo.ooo/ru/prompts/?w=origami-helper&ref=gh"><b>✨ Получить промпт</b></a></sub>
 </td>
 <td width="33%" valign="top">
+<a href="https://assetora.vercel.app"><img src="../assets/gifs/423.gif" width="100%" alt="Assetora — панель активов, сделанная за два дня"></a><br>
+<b><a href="https://assetora.vercel.app">Assetora — панель активов, сделанная за два дня</a></b><br>
+<sub>🆕 · <a href="https://x.com/marcelkargul">@marcelkargul</a> · ♥ 215 · <a href="https://x.com/marcelkargul/status/2126119817849815490">Пост</a></sub><br>
+<sub>Полноценная панель управления активами, созданная на Next.js примерно за два дня с Claude Fable 5.2 и двумя дизайнерскими скиллами. В браузере сразу открывается рабочая панель.</sub>
+</td>
+</tr>
+<tr>
+<td width="33%" valign="top">
 <a href="https://claude.ai/artifact/5ki5nJzDaayYMNhxymZBNT"><img src="../assets/gifs/378.gif" width="100%" alt="Slow Plant Synth"></a><br>
 <b><a href="https://claude.ai/artifact/5ki5nJzDaayYMNhxymZBNT">Slow Plant Synth</a></b><br>
 <sub><a href="https://x.com/parhelion318">@parhelion318</a> · ♥ 208 · <a href="https://x.com/parhelion318/status/2123982460090503626">▶ Видео</a></sub><br>
 <sub>Виртуальное растение растёт в зависимости от вашего местоположения, времени и смоделированной погоды и днями издаёт собственные звуки. Сделано с Fable 5.2 и Opus 5.5.</sub>
 </td>
-</tr>
-<tr>
 <td width="33%" valign="top">
 <a href="https://typed.page/"><img src="../assets/gifs/036.gif" width="100%" alt="Typed"></a><br>
 <b><a href="https://typed.page/">Typed</a></b><br>
@@ -221,14 +227,14 @@
 <sub>Бьющееся 3D-сердце с живыми кривыми ЭКГ и давления и тонами сердца; сравните норму, фибрилляцию предсердий, блокаду сердца и аортальный стеноз. Он ещё и сам написал себе тесты.</sub><br>
 <sub><a href="https://fablelist.000ooo.ooo/ru/prompts/?w=one-heartbeat&ref=gh"><b>✨ Получить промпт</b></a></sub>
 </td>
+</tr>
+<tr>
 <td width="33%" valign="top">
 <a href="https://stormy.ai/hands"><img src="../assets/gifs/316.gif" width="100%" alt="Hands: как устроена рука робота"></a><br>
 <b><a href="https://stormy.ai/hands">Hands: как устроена рука робота</a></b><br>
 <sub><a href="https://x.com/Karmedge">@Karmedge</a> · ♥ 151 · <a href="https://x.com/Karmedge/status/2122394153497842080">▶ Видео</a></sub><br>
 <sub>Интерактивное объяснение того, как работает рука человекоподобного робота, почему её трудно сделать и сколько она стоит. Сделано более чем за 1 миллиард токенов.</sub>
 </td>
-</tr>
-<tr>
 <td width="33%" valign="top">
 <a href="https://motionsites.ai/?prompt=vante-ribbon-hero"><img src="../assets/gifs/048.gif" width="100%" alt="Ribbon Hero"></a><br>
 <b><a href="https://motionsites.ai/?prompt=vante-ribbon-hero">Ribbon Hero</a></b><br>
@@ -242,14 +248,14 @@
 <sub>Переносит движения из ИИ-видеоклипа на настоящий 3D-риг — без мокап-костюма и без ключевых кадров. Открытый исходный код.</sub><br>
 <sub><a href="https://fablelist.000ooo.ooo/ru/prompts/?w=anymove&ref=gh"><b>✨ Получить промпт</b></a></sub>
 </td>
+</tr>
+<tr>
 <td width="33%" valign="top">
 <a href="https://seats.movie"><img src="../assets/gifs/370.gif" width="100%" alt="seats.movie"></a><br>
 <b><a href="https://seats.movie">seats.movie</a></b><br>
 <sub><a href="https://x.com/sunithvs_">@sunithvs_</a> · ♥ 133 · <a href="https://x.com/sunithvs_/status/2123496822400532982">▶ Видео</a></sub><br>
 <sub>Выбираете фильм — и сервис проверяет все сеансы в вашем городе и находит ещё свободные места по центру, с 3D-видом с кресла. По словам автора, Fable 5.2 работал над этим пять дней.</sub>
 </td>
-</tr>
-<tr>
 <td width="33%" valign="top">
 <a href="https://nikechan.com/"><img src="../assets/gifs/049.gif" width="100%" alt="Редизайн nikechan.com"></a><br>
 <b><a href="https://nikechan.com/">Редизайн nikechan.com</a></b><br>
@@ -263,6 +269,8 @@
 <sub><a href="https://x.com/dejvdesign">@dejvdesign</a> · ♥ 130 · <a href="https://x.com/dejvdesign/status/2122335319634874710">▶ Видео</a></sub><br>
 <sub>Интерфейс CRM-дашборда с живыми взаимодействиями, сделан вместе с @madebymicrodose.</sub>
 </td>
+</tr>
+<tr>
 <td width="33%" valign="top">
 <a href="https://github.com/kanaworksai-hue/harappa"><img src="../assets/gifs/250.gif" width="100%" alt="Harappa (аддон для Blender)"></a><br>
 <b><a href="https://github.com/kanaworksai-hue/harappa">Harappa (аддон для Blender)</a></b><br>
@@ -270,8 +278,6 @@
 <sub>Бесплатный аддон для Blender, который одним кликом превращает голый холм в луг в стиле аниме: трава, цветы, облака, деревья, времена года и стили.</sub><br>
 <sub><a href="https://fablelist.000ooo.ooo/ru/prompts/?w=harappa-blender-add-on&ref=gh"><b>✨ Получить промпт</b></a></sub>
 </td>
-</tr>
-<tr>
 <td width="33%" valign="top">
 <a href="https://andreysuperiorgit.github.io/v8/"><img src="../assets/gifs/373.gif" width="100%" alt="V8 Four-Stroke"></a><br>
 <b><a href="https://andreysuperiorgit.github.io/v8/">V8 Four-Stroke</a></b><br>
@@ -281,10 +287,12 @@
 <td width="33%" valign="top">
 <a href="https://hashem-al-ghaili.github.io/music-maker/"><img src="../assets/gifs/383.gif" width="100%" alt="Music Maker — инструмент, на котором играют в воздухе"></a><br>
 <b><a href="https://hashem-al-ghaili.github.io/music-maker/">Music Maker — инструмент, на котором играют в воздухе</a></b><br>
-<sub><a href="https://x.com/HashemGhaili">@HashemGhaili</a> · ♥ 68 · <a href="https://x.com/HashemGhaili/status/2124135871293329809">▶ Видео</a></sub><br>
+<sub><a href="https://x.com/HashemGhaili">@HashemGhaili</a> · ♥ 69 · <a href="https://x.com/HashemGhaili/status/2124135871293329809">▶ Видео</a></sub><br>
 <sub>Включите веб-камеру, сожмите пальцы обеих рук и разведите их, чтобы натянуть струну в воздухе, выберите один из 24 инструментов и проведите по ней кончиком пальца. Добавляйте биты, накладывайте лупы и записывайте результат.</sub><br>
 <sub><a href="https://github.com/Hashem-Al-Ghaili/music-maker">Исходный код</a></sub>
 </td>
+</tr>
+<tr>
 <td width="33%" valign="top">
 <a href="https://sael.net/seat-arena"><img src="../assets/gifs/182.gif" width="100%" alt="Best Seat in the House"></a><br>
 <b><a href="https://sael.net/seat-arena">Best Seat in the House</a></b><br>
@@ -292,8 +300,6 @@
 <sub>Схемы мест на концертах, где перед покупкой видно точный вид с каждого места. Полностью интерактивно.</sub><br>
 <sub><a href="https://fablelist.000ooo.ooo/ru/prompts/?w=best-seat-in-the-house&ref=gh"><b>✨ Получить промпт</b></a></sub>
 </td>
-</tr>
-<tr>
 <td width="33%" valign="top">
 <a href="http://promptronic3000.com"><img src="../assets/gifs/358.gif" width="100%" alt="Promptronic 3000"></a><br>
 <b><a href="http://promptronic3000.com">Promptronic 3000</a></b><br>
@@ -306,6 +312,8 @@
 <sub><a href="https://x.com/andreysuperior">@andreysuperior</a> · ♥ 54 · <a href="https://x.com/andreysuperior/status/2124274426225008910">▶ Видео</a></sub><br>
 <sub>Ландшафт дзета-функции, который можно вращать. 102 нуля находятся и проверяются прямо в браузере, все лежат на одной прямой, а их сумма шаг за шагом восстанавливает простые числа. Один HTML-файл без библиотек.</sub>
 </td>
+</tr>
+<tr>
 <td width="33%" valign="top">
 <a href="https://tetriss22.github.io/pc-build-lab/"><img src="../assets/gifs/147.gif" width="100%" alt="PC Build Lab"></a><br>
 <b><a href="https://tetriss22.github.io/pc-build-lab/">PC Build Lab</a></b><br>
@@ -313,8 +321,6 @@
 <sub>Соберите игровой ПК за 1 279 $ деталь за деталью в 3D, за 8 шагов — и намеренно угробьте его, прежде чем трогать настоящие детали.</sub><br>
 <sub><a href="https://fablelist.000ooo.ooo/ru/prompts/?w=pc-build-lab&ref=gh"><b>✨ Получить промпт</b></a></sub>
 </td>
-</tr>
-<tr>
 <td width="33%" valign="top">
 <a href="https://zkevinbai.com/apps/tesla-fsd"><img src="../assets/gifs/394.gif" width="100%" alt="How FSD Drives"></a><br>
 <b><a href="https://zkevinbai.com/apps/tesla-fsd">How FSD Drives</a></b><br>
@@ -327,14 +333,14 @@
 <sub><a href="https://x.com/parhelion318">@parhelion318</a> · ♥ 30 · <a href="https://x.com/parhelion318/status/2123463622252994878">▶ Видео</a></sub><br>
 <sub>Поверхность из точек, которая движется в такт звуку. Сделана с Fable 5.2 и Opus 5.5, проверена GPT-6.2 Astra.</sub>
 </td>
+</tr>
+<tr>
 <td width="33%" valign="top">
 <a href="https://shiraeisenberg.com/composed-of-nows"><img src="../assets/gifs/365.gif" width="100%" alt="Composed of Nows"></a><br>
 <b><a href="https://shiraeisenberg.com/composed-of-nows">Composed of Nows</a></b><br>
 <sub><a href="https://x.com/shiraeis">@shiraeis</a> · ♥ 25 · <a href="https://x.com/shiraeis/status/2123562764203589648">▶ Видео</a></sub><br>
 <sub>Девять интерактивных работ о том, каково это — «чувствовать» себя языковой моделью; сделаны после того, как её попросили почитать стихи. С первой попытки.</sub>
 </td>
-</tr>
-<tr>
 <td width="33%" valign="top">
 <a href="https://piano.yoshiyukikoyanagi.com"><img src="../assets/gifs/374.gif" width="100%" alt="Physical Modeling Piano F1"></a><br>
 <b><a href="https://piano.yoshiyukikoyanagi.com">Physical Modeling Piano F1</a></b><br>
@@ -345,17 +351,17 @@
 <td width="33%" valign="top">
 <a href="https://riemann.zondark.com/course"><img src="../assets/gifs/407.gif" width="100%" alt="Гипотеза Римана — 10-минутный практический курс"></a><br>
 <b><a href="https://riemann.zondark.com/course">Гипотеза Римана — 10-минутный практический курс</a></b><br>
-<sub>🆕 · <a href="https://x.com/ZondarkAI">@ZondarkAI</a> · ♥ 15 · <a href="https://x.com/ZondarkAI/status/2125506885487034601">▶ Видео</a></sub><br>
+<sub><a href="https://x.com/ZondarkAI">@ZondarkAI</a> · ♥ 16 · <a href="https://x.com/ZondarkAI/status/2125506885487034601">▶ Видео</a></sub><br>
 <sub>Интерактивный обучающий сайт. Два урока, где на каждом шаге нужно что-то сделать: самому найти первый нетривиальный ноль в точке 14,13, а затем увидеть, как 1000 нулей складываются в распределение простых чисел. На китайском и английском, с коротким фильмом.</sub>
 </td>
+</tr>
+<tr>
 <td width="33%" valign="top">
 <a href="https://ember-vesper.aura.build/"><img src="../assets/gifs/366.gif" width="100%" alt="Ember Vesper"></a><br>
 <b><a href="https://ember-vesper.aura.build/">Ember Vesper</a></b><br>
 <sub><a href="https://x.com/titepommee">@titepommee</a> · ♥ 13 · <a href="https://x.com/titepommee/status/2123515807250657457">▶ Видео</a></sub><br>
 <sub>Игровой ПК, превращённый в лендинг: при прокрутке он разбирается, меняет подсветку, переключается на тепловизор и выписывает чек заказа. Один HTML-файл.</sub>
 </td>
-</tr>
-<tr>
 <td width="33%" valign="top">
 <a href="https://ai.itokoba.com/ichimai/"><img src="../assets/gifs/260.gif" width="100%" alt="Ichimai — как далеко может зайти одна страница"></a><br>
 <b><a href="https://ai.itokoba.com/ichimai/">Ichimai — как далеко может зайти одна страница</a></b><br>
@@ -370,6 +376,8 @@
 <sub>Каждый из 2,242 транзисторов Intel 4004 по очереди ломали в симуляции на уровне транзисторов. Наведите курсор на любой транзистор на карте чипа и увидите, что перестаёт работать.</sub><br>
 <sub><a href="https://github.com/rain-1/intel4004">Исходный код</a></sub>
 </td>
+</tr>
+<tr>
 <td width="33%" valign="top">
 <a href="https://jwt-designs-preview.noone-697.workers.dev/"><img src="../assets/gifs/046.gif" width="100%" alt="20 редизайнов лендинга"></a><br>
 <b><a href="https://jwt-designs-preview.noone-697.workers.dev/">20 редизайнов лендинга</a></b><br>
@@ -377,8 +385,6 @@
 <sub>20 альтернатив лендингу плагина для JWT из одного простого промпта.</sub><br>
 <sub><a href="https://x.com/Tmeister/status/2119983842841018482">📝 Промпт автора (бесплатно)</a></sub>
 </td>
-</tr>
-<tr>
 <td width="33%" valign="top">
 <a href="https://www.asumacodes.xyz/arena/driftwood"><img src="../assets/gifs/047.gif" width="100%" alt="Driftwood (Fable vs Opus)"></a><br>
 <b><a href="https://www.asumacodes.xyz/arena/driftwood">Driftwood (Fable vs Opus)</a></b><br>
@@ -393,6 +399,8 @@
 <sub><a href="https://x.com/seanaiux">@seanaiux</a> · ♥ 8 · <a href="https://x.com/seanaiux/status/2121688869439455410">▶ Видео</a></sub><br>
 <sub>Задача — сайт, который его напугает: паук спускается из темноты, а прокрутка ведёт через его логово, глаза, клыки и лапы, пока мухой не становитесь вы.</sub>
 </td>
+</tr>
+<tr>
 <td width="33%" valign="top">
 <a href="https://claude.ai/artifact/TiymxxFXzMo7xhWUaecbzk"><img src="https://pbs.twimg.com/media/HWwrmvIb0AAMLPK.jpg?name=small" width="100%" alt="Проект дома"></a><br>
 <b><a href="https://claude.ai/artifact/TiymxxFXzMo7xhWUaecbzk">Проект дома</a></b><br>
@@ -400,8 +408,6 @@
 <sub>Проект отдельно стоящего дома (на корейском), сделан за день.</sub><br>
 <sub><a href="https://fablelist.000ooo.ooo/ru/prompts/?w=house-design-proposal&ref=gh"><b>✨ Получить промпт</b></a></sub>
 </td>
-</tr>
-<tr>
 <td width="33%" valign="top">
 <a href="https://claude.ai/artifact/9yQkezie4jY3oz2YDLFDiq"><img src="../assets/gifs/040.gif" width="100%" alt="Bay Drum Kit"></a><br>
 <b><a href="https://claude.ai/artifact/9yQkezie4jY3oz2YDLFDiq">Bay Drum Kit</a></b><br>
@@ -416,6 +422,8 @@
 <sub>Один заход.</sub><br>
 <sub><a href="https://fablelist.000ooo.ooo/ru/prompts/?w=dub-techno-track-visualizer&ref=gh"><b>✨ Получить промпт</b></a></sub>
 </td>
+</tr>
+<tr>
 <td width="33%" valign="top">
 <a href="https://claude.ai/artifact/5ufHvxgvXTf5YgQeTR8TbG"><img src="../assets/gifs/044.gif" width="100%" alt="Ramayana Family Tree"></a><br>
 <b><a href="https://claude.ai/artifact/5ufHvxgvXTf5YgQeTR8TbG">Ramayana Family Tree</a></b><br>
@@ -423,8 +431,6 @@
 <sub>Связи главного актёра по крови и браку с 65 звёздами Болливуда.</sub><br>
 <sub><a href="https://fablelist.000ooo.ooo/ru/prompts/?w=ramayana-family-tree&ref=gh"><b>✨ Получить промпт</b></a></sub>
 </td>
-</tr>
-<tr>
 <td width="33%" valign="top">
 <a href="https://claude.ai/artifact/4aEy6FtUi7jrm9U7uYgp8K"><img src="../assets/gifs/042.gif" width="100%" alt="Demoscene Demo"></a><br>
 <b><a href="https://claude.ai/artifact/4aEy6FtUi7jrm9U7uYgp8K">Demoscene Demo</a></b><br>

@@ -5,9 +5,9 @@
 <h3>Что люди сделали с Claude Fable 5.2 — открывай и играй</h3>
 
 [![Awesome](https://awesome.re/badge.svg)](https://awesome.re)
-[![Works](https://img.shields.io/badge/работы-256-6b4eff)](#-игры)
+[![Works](https://img.shields.io/badge/работы-258-6b4eff)](#-игры)
 [![Demos](https://img.shields.io/badge/видеодемо-157-ff7a59)](#-видеодемо)
-[![Links checked](https://img.shields.io/badge/ссылки_проверены-2026--11--27-2ea44f)](#-как-помочь)
+[![Links checked](https://img.shields.io/badge/ссылки_проверены-2026--11--28-2ea44f)](#-как-помочь)
 [![License: CC0-1.0](https://img.shields.io/badge/License-CC0_1.0-lightgrey.svg)](LICENSE)
 
 [English](README.md) · [简体中文](README.zh-CN.md) · [繁體中文](README.zh-TW.md) · [日本語](README.ja.md) · [한국어](README.ko.md) · [Español](README.es.md) · [Português](README.pt-BR.md) · [Français](README.fr.md) · [Deutsch](README.de.md) · **Русский**
@@ -16,11 +16,11 @@
 
 </div>
 
-256 работ онлайн и 157 видеодемо на Claude Fable 5.2, все ссылки проверены 2026-11-27. Обновляется каждый день; ⭐ помогает.
+258 работ онлайн и 157 видеодемо на Claude Fable 5.2, все ссылки проверены 2026-11-28. Обновляется каждый день; ⭐ помогает.
 
 ## 📑 Содержание
 
-[⭐ Самые любимые](#-самые-любимые) · [🆕 Новое](#-новое) · [🎮 Игры](#-игры) 123 · [🌍 3D-миры и сцены](#-3d-миры-и-сцены) 55 · [🧰 Сайты и инструменты](#-сайты-и-инструменты) 59 · [🎬 Анимация и фильмы](#-анимация-и-фильмы) 19 · [📺 Видеодемо](#-видеодемо) 157 · [🤝 Как помочь](#-как-помочь)
+[⭐ Самые любимые](#-самые-любимые) · [🆕 Новое](#-новое) · [🎮 Игры](#-игры) 123 · [🌍 3D-миры и сцены](#-3d-миры-и-сцены) 56 · [🧰 Сайты и инструменты](#-сайты-и-инструменты) 60 · [🎬 Анимация и фильмы](#-анимация-и-фильмы) 19 · [📺 Видеодемо](#-видеодемо) 157 · [🤝 Как помочь](#-как-помочь)
 
 ## ⭐ Самые любимые
 
@@ -80,25 +80,23 @@
 <table>
 <tr>
 <td width="33%" valign="top">
-<a href="https://kevintngo.github.io/procedural-rpg/"><img src="assets/gifs/401.gif" width="100%" alt="Brushwild — процедурная RPG с открытым миром"></a><br>
-<b><a href="https://kevintngo.github.io/procedural-rpg/">Brushwild — процедурная RPG с открытым миром</a></b><br>
-<sub>🆕 · <a href="https://x.com/kevin_t_ngo">@kevin_t_ngo</a> · ♥ 2.7k · <a href="https://x.com/kevin_t_ngo/status/2125321244686029289">▶ Видео</a></sub><br>
-<sub>Процедурная экшен-RPG с открытым миром в одном HTML-файле размером около 300kB. Каждый пиксель рисуют шейдеры в стиле пера и цветных карандашей. Три класса, деревья навыков, лут, города и подземелья; играть можно на компьютере и на телефоне.</sub><br>
-<sub><a href="https://github.com/kevintngo/procedural-rpg">Исходный код</a></sub>
-</td>
-<td width="33%" valign="top">
-<a href="https://littlecity.io"><img src="assets/gifs/402.gif" width="100%" alt="Little City — рисованный градостроительный симулятор"></a><br>
-<b><a href="https://littlecity.io">Little City — рисованный градостроительный симулятор</a></b><br>
-<sub>🆕 · <a href="https://x.com/sprezzyyy">@sprezzyyy</a> · ♥ 1.0k · <a href="https://x.com/sprezzyyy/status/2125321545665192054">▶ Видео</a></sub><br>
-<sub>Градостроительная песочница, вдохновлённая Townscaper. Поставьте несколько блоков, посмотрите, как они превращаются в нарисованный от руки городок, а потом как он оживает. Работает в браузере.</sub><br>
-<sub><a href="https://github.com/yaoderek/littlecity.io">Исходный код</a></sub>
-</td>
-<td width="33%" valign="top">
 <a href="https://kevintngo.github.io/voidlight/"><img src="assets/gifs/413.gif" width="100%" alt="Voidlight Depths — космический данжен-кроулер в одном HTML-файле"></a><br>
 <b><a href="https://kevintngo.github.io/voidlight/">Voidlight Depths — космический данжен-кроулер в одном HTML-файле</a></b><br>
-<sub>🆕 · <a href="https://x.com/kevin_t_ngo">@kevin_t_ngo</a> · ♥ 1.0k · <a href="https://x.com/kevin_t_ngo/status/2125982976483975534">▶ Видео</a></sub><br>
+<sub>🆕 · <a href="https://x.com/kevin_t_ngo">@kevin_t_ngo</a> · ♥ 1.1k · <a href="https://x.com/kevin_t_ngo/status/2125982976483975534">▶ Видео</a></sub><br>
 <sub>Космический данжен-кроулер, который умещается в один HTML-файл на 164 kB. Никаких ассетов: все текстуры, модели и звуки генерируются кодом.</sub><br>
 <sub><a href="https://github.com/kevintngo/voidlight">Исходный код</a></sub>
+</td>
+<td width="33%" valign="top">
+<a href="https://github.com/deedy/chess-chatarunga"><img src="assets/gifs/420.gif" width="100%" alt="Chatarunga — шахматный движок на Rust без зависимостей"></a><br>
+<b><a href="https://github.com/deedy/chess-chatarunga">Chatarunga — шахматный движок на Rust без зависимостей</a></b><br>
+<sub>🆕 · <a href="https://x.com/deedydas">@deedydas</a> · ♥ 869 · <a href="https://x.com/deedydas/status/2126140365208224057">Пост</a></sub><br>
+<sub>Шахматный движок, написанный с нуля на Rust без зависимостей, с рейтингом ELO 3533, входит в топ-50–100 мира. Набирает 37% против движка номер один Stockfish и ставит ему мат в 7% партий. Полностью с открытым кодом, сделан примерно за $50 вычислений с помощью Fable и ещё нескольких инструментов.</sub>
+</td>
+<td width="33%" valign="top">
+<a href="http://exponential.scottsun.io"><img src="assets/gifs/422.gif" width="100%" alt="Exponential — космический корабль от первого лица в браузере"></a><br>
+<b><a href="http://exponential.scottsun.io">Exponential — космический корабль от первого лица в браузере</a></b><br>
+<sub>🆕 · <a href="https://x.com/scottstts">@scottstts</a> · ♥ 284 · <a href="https://x.com/scottstts/status/2126411782411427883">▶ Видео</a></sub><br>
+<sub>Трёхмерный опыт космического корабля от первого лица, основу которого заложил Fable 5.2, а neon продолжал дорабатывать. Сделан на WebGPU с физически корректным освещением и пространственным звуком и позволяет исследовать полноценный фотореалистичный корабль изнутри наружу.</sub>
 </td>
 </tr>
 </table>
@@ -163,7 +161,7 @@
 <td width="33%" valign="top">
 <a href="https://patch.gg/play/blendi/small-magic"><img src="assets/gifs/274.gif" width="100%" alt="Small Magic — песочница волшебника"></a><br>
 <b><a href="https://patch.gg/play/blendi/small-magic">Small Magic — песочница волшебника</a></b><br>
-<sub><a href="https://x.com/BlendiByl">@BlendiByl</a> · ♥ 3.2k · <a href="https://x.com/BlendiByl/status/2121594536153718972">▶ Видео</a></sub><br>
+<sub><a href="https://x.com/BlendiByl">@BlendiByl</a> · ♥ 4.2k · <a href="https://x.com/BlendiByl/status/2121594536153718972">▶ Видео</a></sub><br>
 <sub>Сделано за один день: 7 заклинаний, около 1 800 разрушаемых физических деталей, без моделей и текстур, открытый исходный код.</sub>
 </td>
 <td width="33%" valign="top">
@@ -178,7 +176,7 @@
 <td width="33%" valign="top">
 <a href="https://kevintngo.github.io/procedural-rpg/"><img src="assets/gifs/401.gif" width="100%" alt="Brushwild — процедурная RPG с открытым миром"></a><br>
 <b><a href="https://kevintngo.github.io/procedural-rpg/">Brushwild — процедурная RPG с открытым миром</a></b><br>
-<sub>🆕 · <a href="https://x.com/kevin_t_ngo">@kevin_t_ngo</a> · ♥ 2.7k · <a href="https://x.com/kevin_t_ngo/status/2125321244686029289">▶ Видео</a></sub><br>
+<sub><a href="https://x.com/kevin_t_ngo">@kevin_t_ngo</a> · ♥ 2.7k · <a href="https://x.com/kevin_t_ngo/status/2125321244686029289">▶ Видео</a></sub><br>
 <sub>Процедурная экшен-RPG с открытым миром в одном HTML-файле размером около 300kB. Каждый пиксель рисуют шейдеры в стиле пера и цветных карандашей. Три класса, деревья навыков, лут, города и подземелья; играть можно на компьютере и на телефоне.</sub><br>
 <sub><a href="https://github.com/kevintngo/procedural-rpg">Исходный код</a></sub>
 </td>
@@ -244,6 +242,13 @@
 </tr>
 <tr>
 <td width="33%" valign="top">
+<a href="https://kevintngo.github.io/voidlight/"><img src="assets/gifs/413.gif" width="100%" alt="Voidlight Depths — космический данжен-кроулер в одном HTML-файле"></a><br>
+<b><a href="https://kevintngo.github.io/voidlight/">Voidlight Depths — космический данжен-кроулер в одном HTML-файле</a></b><br>
+<sub>🆕 · <a href="https://x.com/kevin_t_ngo">@kevin_t_ngo</a> · ♥ 1.1k · <a href="https://x.com/kevin_t_ngo/status/2125982976483975534">▶ Видео</a></sub><br>
+<sub>Космический данжен-кроулер, который умещается в один HTML-файл на 164 kB. Никаких ассетов: все текстуры, модели и звуки генерируются кодом.</sub><br>
+<sub><a href="https://github.com/kevintngo/voidlight">Исходный код</a></sub>
+</td>
+<td width="33%" valign="top">
 <a href="https://wavedash.com/games/rooftop-rally"><img src="assets/gifs/129.gif" width="100%" alt="Rooftop Rally — пиклбол в Unreal 5.9"></a><br>
 <b><a href="https://wavedash.com/games/rooftop-rally">Rooftop Rally — пиклбол в Unreal 5.9</a></b><br>
 <sub><a href="https://x.com/chongdashu">@chongdashu</a> · ♥ 1.1k · <a href="https://x.com/chongdashu/status/2120154573356793883">▶ Видео</a></sub><br>
@@ -254,35 +259,28 @@
 <td width="33%" valign="top">
 <a href="https://littlecity.io"><img src="assets/gifs/402.gif" width="100%" alt="Little City — рисованный градостроительный симулятор"></a><br>
 <b><a href="https://littlecity.io">Little City — рисованный градостроительный симулятор</a></b><br>
-<sub>🆕 · <a href="https://x.com/sprezzyyy">@sprezzyyy</a> · ♥ 1.0k · <a href="https://x.com/sprezzyyy/status/2125321545665192054">▶ Видео</a></sub><br>
+<sub><a href="https://x.com/sprezzyyy">@sprezzyyy</a> · ♥ 1.0k · <a href="https://x.com/sprezzyyy/status/2125321545665192054">▶ Видео</a></sub><br>
 <sub>Градостроительная песочница, вдохновлённая Townscaper. Поставьте несколько блоков, посмотрите, как они превращаются в нарисованный от руки городок, а потом как он оживает. Работает в браузере.</sub><br>
 <sub><a href="https://github.com/yaoderek/littlecity.io">Исходный код</a></sub>
 </td>
+</tr>
+<tr>
 <td width="33%" valign="top">
 <a href="https://gtashenzhen.com"><img src="assets/gifs/377.gif" width="100%" alt="GTA Shenzhen"></a><br>
 <b><a href="https://gtashenzhen.com">GTA Shenzhen</a></b><br>
 <sub><a href="https://x.com/KinGao476942">@KinGao476942</a> · ♥ 1.0k · <a href="https://x.com/KinGao476942/status/2123967104601014521">▶ Видео</a></sub><br>
 <sub>Весь Шэньчжэнь, собранный по данным OpenStreetMap: 83 182 здания и 62 088 дорог. Летайте над городом, приземляйтесь и садитесь за руль, ищите любое место, а ночью запускайте световое шоу на весь город. Сделано с Fable 5.2 и Tripo за три дня.</sub>
 </td>
-</tr>
-<tr>
-<td width="33%" valign="top">
-<a href="https://kevintngo.github.io/voidlight/"><img src="assets/gifs/413.gif" width="100%" alt="Voidlight Depths — космический данжен-кроулер в одном HTML-файле"></a><br>
-<b><a href="https://kevintngo.github.io/voidlight/">Voidlight Depths — космический данжен-кроулер в одном HTML-файле</a></b><br>
-<sub>🆕 · <a href="https://x.com/kevin_t_ngo">@kevin_t_ngo</a> · ♥ 1.0k · <a href="https://x.com/kevin_t_ngo/status/2125982976483975534">▶ Видео</a></sub><br>
-<sub>Космический данжен-кроулер, который умещается в один HTML-файл на 164 kB. Никаких ассетов: все текстуры, модели и звуки генерируются кодом.</sub><br>
-<sub><a href="https://github.com/kevintngo/voidlight">Исходный код</a></sub>
-</td>
 <td width="33%" valign="top">
 <a href="https://thaxnay.com/ramayana/"><img src="assets/gifs/389.gif" width="100%" alt="Ramayana: The Sacred Fires"></a><br>
 <b><a href="https://thaxnay.com/ramayana/">Ramayana: The Sacred Fires</a></b><br>
-<sub><a href="https://x.com/Thaxnay">@Thaxnay</a> · ♥ 980 · <a href="https://x.com/Thaxnay/status/2124574054296219939">▶ Видео</a></sub><br>
+<sub><a href="https://x.com/Thaxnay">@Thaxnay</a> · ♥ 983 · <a href="https://x.com/Thaxnay/status/2124574054296219939">▶ Видео</a></sub><br>
 <sub>Приключенческий экшен от третьего лица: вы играете за Раму, идёте через открытую долину, защищаете мудрецов и находите секреты. Работает в браузере на компьютере и телефоне.</sub>
 </td>
 <td width="33%" valign="top">
 <a href="https://noclipepe.pages.dev/chase"><img src="assets/gifs/406.gif" width="100%" alt="Red Clay Chase — полицейская погоня по красным грунтовым дорогам"></a><br>
 <b><a href="https://noclipepe.pages.dev/chase">Red Clay Chase — полицейская погоня по красным грунтовым дорогам</a></b><br>
-<sub>🆕 · <a href="https://x.com/noclipepe">@noclipepe</a> · ♥ 848 · <a href="https://x.com/noclipepe/status/2124805085393813586">▶ Видео</a></sub><br>
+<sub><a href="https://x.com/noclipepe">@noclipepe</a> · ♥ 848 · <a href="https://x.com/noclipepe/status/2124805085393813586">▶ Видео</a></sub><br>
 <sub>Полицейская погоня в духе GTA, работает прямо в браузере. Без игрового движка и без единого ассета. По словам автора, Fable 5.2 потратила на неё 2,5 часа и 115 долларов.</sub><br>
 <sub><a href="https://github.com/noclipepe/red-clay-chase">Исходный код</a></sub>
 </td>
@@ -345,7 +343,7 @@
 <td width="33%" valign="top">
 <a href="https://fable-rome.surge.sh/"><img src="assets/gifs/136.gif" width="100%" alt="Rome, AD 320"></a><br>
 <b><a href="https://fable-rome.surge.sh/">Rome, AD 320</a></b><br>
-<sub><a href="https://x.com/petergostev">@petergostev</a> · ♥ 977 · <a href="https://x.com/petergostev/status/2120167560700383572">▶ Видео</a></sub><br>
+<sub><a href="https://x.com/petergostev">@petergostev</a> · ♥ 976 · <a href="https://x.com/petergostev/status/2120167560700383572">▶ Видео</a></sub><br>
 <sub>Один промпт, Fable 5.2 (Max) работал всю ночь, 2 618 $.</sub><br>
 <sub><a href="https://x.com/petergostev/status/2120167560700383572">📝 Промпт автора (бесплатно)</a></sub>
 </td>
@@ -359,7 +357,7 @@
 <td width="33%" valign="top">
 <a href="https://fable-rover.vercel.app"><img src="assets/gifs/278.gif" width="100%" alt="ER-6 Terrain Explorer — самоуправляемый марсоход"></a><br>
 <b><a href="https://fable-rover.vercel.app">ER-6 Terrain Explorer — самоуправляемый марсоход</a></b><br>
-<sub><a href="https://x.com/DilumSanjaya">@DilumSanjaya</a> · ♥ 838 · <a href="https://x.com/DilumSanjaya/status/2120561077385867663">▶ Видео</a></sub><br>
+<sub><a href="https://x.com/DilumSanjaya">@DilumSanjaya</a> · ♥ 840 · <a href="https://x.com/DilumSanjaya/status/2120561077385867663">▶ Видео</a></sub><br>
 <sub>Fable 5.2 спроектировал подвеску rocker-bogie, как у марсоходов NASA, и смоделировал езду по инопланетному рельефу.</sub>
 </td>
 </tr>
@@ -373,7 +371,7 @@
 <td width="33%" valign="top">
 <a href="https://patch.gg/play/blendi/the-blue-hour"><img src="assets/gifs/387.gif" width="100%" alt="The Blue Hour — ночной город в стиле ар-деко"></a><br>
 <b><a href="https://patch.gg/play/blendi/the-blue-hour">The Blue Hour — ночной город в стиле ар-деко</a></b><br>
-<sub><a href="https://x.com/BlendiByl">@BlendiByl</a> · ♥ 645 · <a href="https://x.com/BlendiByl/status/2124439671006748853">▶ Видео</a></sub><br>
+<sub><a href="https://x.com/BlendiByl">@BlendiByl</a> · ♥ 656 · <a href="https://x.com/BlendiByl/status/2124439671006748853">▶ Видео</a></sub><br>
 <sub>3D-сцена в стиле ар-деко из мультсериала о Бэтмене, целиком нарисованная кодом. Открытый исходный код.</sub>
 </td>
 <td width="33%" valign="top">
@@ -416,23 +414,29 @@
 <sub><a href="https://fablelist.000ooo.ooo/ru/prompts/?w=the-garden&ref=gh"><b>✨ Получить промпт</b></a></sub>
 </td>
 <td width="33%" valign="top">
+<a href="http://exponential.scottsun.io"><img src="assets/gifs/422.gif" width="100%" alt="Exponential — космический корабль от первого лица в браузере"></a><br>
+<b><a href="http://exponential.scottsun.io">Exponential — космический корабль от первого лица в браузере</a></b><br>
+<sub>🆕 · <a href="https://x.com/scottstts">@scottstts</a> · ♥ 284 · <a href="https://x.com/scottstts/status/2126411782411427883">▶ Видео</a></sub><br>
+<sub>Трёхмерный опыт космического корабля от первого лица, основу которого заложил Fable 5.2, а neon продолжал дорабатывать. Сделан на WebGPU с физически корректным освещением и пространственным звуком и позволяет исследовать полноценный фотореалистичный корабль изнутри наружу.</sub>
+</td>
+<td width="33%" valign="top">
 <a href="http://taoistvibe.com"><img src="assets/gifs/307.gif" width="100%" alt="Chill Taoist Vibe: холм с даосским храмом"></a><br>
 <b><a href="http://taoistvibe.com">Chill Taoist Vibe: холм с даосским храмом</a></b><br>
 <sub><a href="https://x.com/qiqileyuan">@qiqileyuan</a> · ♥ 252 · <a href="https://x.com/qiqileyuan/status/2122006851298693277">▶ Видео</a></sub><br>
 <sub>Даосский храм в стиле Ghibli на небольшой горе. Поднимитесь за старым монахом, зажгите благовония, вытяните палочку с предсказанием, помедитируйте или просто сидите в кресле-качалке и смотрите, как сменяются времена года. Статуи и главный герой сделаны в Tripo3D, всё остальное — сгенерированный код.</sub>
 </td>
+</tr>
+<tr>
 <td width="33%" valign="top">
 <a href="https://butterfly.kyzo.io"><img src="assets/gifs/314.gif" width="100%" alt="Hidden Layers: стеклянная бабочка в оранжерее"></a><br>
 <b><a href="https://butterfly.kyzo.io">Hidden Layers: стеклянная бабочка в оранжерее</a></b><br>
 <sub><a href="https://x.com/ky__zo">@ky__zo</a> · ♥ 230 · <a href="https://x.com/ky__zo/status/2122274109795054036">▶ Видео</a></sub><br>
 <sub>Прокручивайте страницу, чтобы лететь со стеклянной бабочкой, которая не может выбраться из оранжереи, через шесть миров. Чистый three.js без файлов моделей и текстур; ушло 1.32 миллиарда токенов и $905 на API.</sub>
 </td>
-</tr>
-<tr>
 <td width="33%" valign="top">
 <a href="https://nkondo-ft.github.io/light-and-debris/"><img src="assets/gifs/412.gif" width="100%" alt="Light & Debris — расталкивайте светом больше 100 000 осколков"></a><br>
 <b><a href="https://nkondo-ft.github.io/light-and-debris/">Light & Debris — расталкивайте светом больше 100 000 осколков</a></b><br>
-<sub>🆕 · <a href="https://x.com/Nkondo_funtech">@Nkondo_funtech</a> · ♥ 216 · <a href="https://x.com/Nkondo_funtech/status/2125811742001541535">▶ Видео</a></sub><br>
+<sub>🆕 · <a href="https://x.com/Nkondo_funtech">@Nkondo_funtech</a> · ♥ 227 · <a href="https://x.com/Nkondo_funtech/status/2125811742001541535">▶ Видео</a></sub><br>
 <sub>Ведите свет сквозь больше чем 100 000 осколков и смотрите, как они разлетаются. Положение, скорость и вращение каждого осколка считаются на видеокарте вычислительными шейдерами WebGPU, поэтому физика достаточно лёгкая для веб-страницы.</sub><br>
 <sub><a href="https://github.com/nkondo-ft/light-and-debris">Исходный код</a></sub>
 </td>
@@ -443,6 +447,8 @@
 <sub>Вдохновлено @rileybrown: заходите и садитесь за любой компьютер.</sub><br>
 <sub><a href="https://fablelist.000ooo.ooo/ru/prompts/?w=a-claude-demo-you-can-walk-into&ref=gh"><b>✨ Получить промпт</b></a></sub>
 </td>
+</tr>
+<tr>
 <td width="33%" valign="top">
 <a href="https://claude.ai/artifact/2PBXuQAnWDS2NpiPXHNLfL"><img src="assets/gifs/028.gif" width="100%" alt="Orca Jelly"></a><br>
 <b><a href="https://claude.ai/artifact/2PBXuQAnWDS2NpiPXHNLfL">Orca Jelly</a></b><br>
@@ -451,8 +457,6 @@
 <sub><a href="https://claude.ai/artifact/75KLotWzZQ5RR23BGLePb8">Opus 5.5 version</a></sub><br>
 <sub><a href="https://x.com/vib3coded/status/2119951060752375827">📝 Промпт автора (бесплатно)</a></sub>
 </td>
-</tr>
-<tr>
 <td width="33%" valign="top">
 <a href="https://planet.tokyoaivisuals.club/"><img src="assets/gifs/266.gif" width="100%" alt="Code Planet"></a><br>
 <b><a href="https://planet.tokyoaivisuals.club/">Code Planet</a></b><br>
@@ -462,21 +466,14 @@
 <td width="33%" valign="top">
 <a href="https://zalo.github.io/LanternTown/town/"><img src="assets/gifs/404.gif" width="100%" alt="LanternTown — городская площадь в свете фонарей"></a><br>
 <b><a href="https://zalo.github.io/LanternTown/town/">LanternTown — городская площадь в свете фонарей</a></b><br>
-<sub>🆕 · <a href="https://x.com/makeshifted">@makeshifted</a> · ♥ 189 · <a href="https://x.com/makeshifted/status/2125331267512377844">Пост</a></sub><br>
+<sub><a href="https://x.com/makeshifted">@makeshifted</a> · ♥ 191 · <a href="https://x.com/makeshifted/status/2125331267512377844">Пост</a></sub><br>
 <sub>Экспериментальная городская площадь на three.js. Все ассеты заданы параметрически, а освещение запечено в цвета вершин, поэтому работает легко.</sub><br>
 <sub><a href="https://github.com/zalo/LanternTown">Исходный код</a></sub>
-</td>
-<td width="33%" valign="top">
-<a href="https://claude.ai/artifact/9EgZpErM17kH2a9Q3WXW6f"><img src="assets/gifs/027.gif" width="100%" alt="Voxel World in a Bottle"></a><br>
-<b><a href="https://claude.ai/artifact/9EgZpErM17kH2a9Q3WXW6f">Voxel World in a Bottle</a></b><br>
-<sub><a href="https://x.com/vib3coded">@vib3coded</a> · ♥ 163 · <a href="https://x.com/vib3coded/status/2120104517282775514">▶ Видео</a></sub><br>
-<sub>30 минут, 12,81 $.</sub><br>
-<sub><a href="https://x.com/vib3coded/status/2120104517282775514">📝 Промпт автора (бесплатно)</a></sub>
 </td>
 </tr>
 </table>
 
-<p align="center"><b><a href="all/3d-worlds.ru.md">Смотреть все 55 →</a></b></p>
+<p align="center"><b><a href="all/3d-worlds.ru.md">Смотреть все 56 →</a></b></p>
 
 <div align="right"><a href="#-содержание">↑ К содержанию</a></div>
 
@@ -581,13 +578,13 @@
 <td width="33%" valign="top">
 <a href="https://github.com/deedy/chess-chatarunga"><img src="assets/gifs/420.gif" width="100%" alt="Chatarunga — шахматный движок на Rust без зависимостей"></a><br>
 <b><a href="https://github.com/deedy/chess-chatarunga">Chatarunga — шахматный движок на Rust без зависимостей</a></b><br>
-<sub>🆕 · <a href="https://x.com/deedydas">@deedydas</a> · ♥ 761 · <a href="https://x.com/deedydas/status/2126140365208224057">Пост</a></sub><br>
+<sub>🆕 · <a href="https://x.com/deedydas">@deedydas</a> · ♥ 869 · <a href="https://x.com/deedydas/status/2126140365208224057">Пост</a></sub><br>
 <sub>Шахматный движок, написанный с нуля на Rust без зависимостей, с рейтингом ELO 3533, входит в топ-50–100 мира. Набирает 37% против движка номер один Stockfish и ставит ему мат в 7% партий. Полностью с открытым кодом, сделан примерно за $50 вычислений с помощью Fable и ещё нескольких инструментов.</sub>
 </td>
 <td width="33%" valign="top">
 <a href="https://hexagonal.earth"><img src="assets/gifs/349.gif" width="100%" alt="Hexagonal Earth"></a><br>
 <b><a href="https://hexagonal.earth">Hexagonal Earth</a></b><br>
-<sub><a href="https://x.com/avsa">@avsa</a> · ♥ 756 · <a href="https://x.com/avsa/status/2123123638551392755">Пост</a></sub><br>
+<sub><a href="https://x.com/avsa">@avsa</a> · ♥ 757 · <a href="https://x.com/avsa/status/2123123638551392755">Пост</a></sub><br>
 <sub>Диорама всего мира из шестиугольников, построенная на реальных данных о высотах, глубинах океана, влажности, ветрах и реках. Fable 5.2 сгенерировал сотни маленьких 3D-объектов из пиксельных сплатов и сам расставил их в сцене.</sub>
 </td>
 <td width="33%" valign="top">
@@ -609,7 +606,7 @@
 <td width="33%" valign="top">
 <a href="https://auden-english-135.netlify.app/"><img src="assets/gifs/281.gif" width="100%" alt="Утраченный курс поэзии Одена 1941 года, восстановленный"></a><br>
 <b><a href="https://auden-english-135.netlify.app/">Утраченный курс поэзии Одена 1941 года, восстановленный</a></b><br>
-<sub><a href="https://x.com/emollick">@emollick</a> · ♥ 594 · <a href="https://x.com/emollick/status/2121641417483169934">Пост</a></sub><br>
+<sub><a href="https://x.com/emollick">@emollick</a> · ♥ 593 · <a href="https://x.com/emollick/status/2121641417483169934">Пост</a></sub><br>
 <sub>Fable 5.2 восстановил курс У. Х. Одена, «самый сложный в гуманитарных науках», по малоизвестной книге из Internet Archive и разрозненным заметкам.</sub>
 </td>
 <td width="33%" valign="top">
@@ -651,7 +648,7 @@
 <td width="33%" valign="top">
 <a href="https://gsplan.org"><img src="assets/gifs/206.gif" width="100%" alt="Вид с мест на Галатасарае"></a><br>
 <b><a href="https://gsplan.org">Вид с мест на Галатасарае</a></b><br>
-<sub><a href="https://x.com/molenbeek84">@molenbeek84</a> · ♥ 429 · <a href="https://x.com/molenbeek84/status/2120847639411331097">Пост</a></sub><br>
+<sub><a href="https://x.com/molenbeek84">@molenbeek84</a> · ♥ 430 · <a href="https://x.com/molenbeek84/status/2120847639411331097">Пост</a></sub><br>
 <sub>Посмотрите на вид на поле с каждого сектора на RAMS Park, прежде чем покупать билет.</sub><br>
 <sub><a href="https://fablelist.000ooo.ooo/ru/prompts/?w=galatasaray-seat-view&ref=gh"><b>✨ Получить промпт</b></a></sub>
 </td>
@@ -665,7 +662,7 @@
 </tr>
 </table>
 
-<p align="center"><b><a href="all/web-and-tools.ru.md">Смотреть все 59 →</a></b></p>
+<p align="center"><b><a href="all/web-and-tools.ru.md">Смотреть все 60 →</a></b></p>
 
 <div align="right"><a href="#-содержание">↑ К содержанию</a></div>
 
@@ -703,7 +700,7 @@
 <td width="33%" valign="top">
 <a href="https://github.com/ChetasLua/pelican-riding-a-bicycle"><img src="assets/gifs/150.gif" width="100%" alt="The Pelican, Tired of the Road"></a><br>
 <b><a href="https://github.com/ChetasLua/pelican-riding-a-bicycle">The Pelican, Tired of the Road</a></b><br>
-<sub><a href="https://x.com/chetaslua">@chetaslua</a> · ♥ 358 · <a href="https://x.com/chetaslua/status/2120438091647218025">▶ Видео</a></sub><br>
+<sub><a href="https://x.com/chetaslua">@chetaslua</a> · ♥ 359 · <a href="https://x.com/chetaslua/status/2120438091647218025">▶ Видео</a></sub><br>
 <sub>60-секундный фильм в стиле ручной росписи про пеликана из SVG-теста. Один HTML-файл; каждый пиксель и каждый звук — код.</sub><br>
 <sub><a href="https://github.com/ChetasLua/mona-lisa-js">Mona Lisa in JS</a></sub><br>
 <sub><a href="https://fablelist.000ooo.ooo/ru/prompts/?w=the-pelican-tired-of-the-road&ref=gh"><b>✨ Получить промпт</b></a></sub>
@@ -711,7 +708,7 @@
 <td width="33%" valign="top">
 <a href="https://github.com/Leonxlnx/mechanical-moon"><img src="assets/gifs/336.gif" width="100%" alt="Mechanical Moon"></a><br>
 <b><a href="https://github.com/Leonxlnx/mechanical-moon">Mechanical Moon</a></b><br>
-<sub><a href="https://x.com/LexnLin">@LexnLin</a> · ♥ 355 · <a href="https://x.com/LexnLin/status/2122823164635881853">▶ Видео</a></sub><br>
+<sub><a href="https://x.com/LexnLin">@LexnLin</a> · ♥ 357 · <a href="https://x.com/LexnLin/status/2122823164635881853">▶ Видео</a></sub><br>
 <sub>45-секундный процедурный фильм в Blender: расколотая луна с золотой часовой мегаструктурой внутри, полностью собранная Python-скриптами и отрендеренная в EEVEE.</sub>
 </td>
 </tr>
@@ -762,7 +759,7 @@
 <td width="33%" valign="top">
 <a href="https://github.com/0xCodez/thousand-peaks"><img src="assets/gifs/282.gif" width="100%" alt="Dragon of a Thousand Peaks — дракон тысячи вершин"></a><br>
 <b><a href="https://github.com/0xCodez/thousand-peaks">Dragon of a Thousand Peaks — дракон тысячи вершин</a></b><br>
-<sub><a href="https://x.com/0xMovez">@0xMovez</a> · ♥ 137 · <a href="https://x.com/0xMovez/status/2121721290687983906">▶ Видео</a></sub><br>
+<sub><a href="https://x.com/0xMovez">@0xMovez</a> · ♥ 138 · <a href="https://x.com/0xMovez/status/2121721290687983906">▶ Видео</a></sub><br>
 <sub>90-секундный боевой фильм на чистом three.js без ассетов и видеомоделей; Fable 5.2 руководил 8 параллельными агентами, музыка и звуки синтезированы кодом.</sub>
 </td>
 <td width="33%" valign="top">
@@ -931,7 +928,7 @@
 <td width="33%" valign="top">
 <a href="https://x.com/M__Houser/status/2120253236309569696"><img src="assets/gifs/154.gif" width="100%" alt="Age of Dragon, открытый мир от непрограммиста"></a><br>
 <b><a href="https://x.com/M__Houser/status/2120253236309569696">Age of Dragon, открытый мир от непрограммиста</a></b><br>
-<sub><a href="https://x.com/M__Houser">@M__Houser</a> · ♥ 2.7k · <a href="https://x.com/M__Houser/status/2120253236309569696">▶ Видео</a></sub><br>
+<sub><a href="https://x.com/M__Houser">@M__Houser</a> · ♥ 2.8k · <a href="https://x.com/M__Houser/status/2120253236309569696">▶ Видео</a></sub><br>
 <br>
 <sub><a href="https://fablelist.000ooo.ooo/ru/prompts/?w=age-of-dragon-an-open-world-by-a&ref=gh"><b>✨ Получить промпт</b></a></sub>
 </td>
@@ -987,8 +984,8 @@
 
 ## 📰 Новости
 
+- **2026-11-28**: +2 работ и +0 видеодемо.
 - **2026-11-27**: +8 работ и +1 видеодемо.
 - **2026-11-26**: +2 работ и +0 видеодемо.
 - **2026-11-25**: +6 работ и +4 видеодемо.
-- **2026-11-24**: +4 работ и +3 видеодемо.
 - **2026-11-10**: Первая версия — 57 работ + 61 видеодемо, у каждой GIF-превью.

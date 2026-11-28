@@ -1,4 +1,4 @@
-# 🌍 3D 월드와 장면 · 전체 55개
+# 🌍 3D 월드와 장면 · 전체 56개
 
 [← 메인 목록으로](../README.ko.md) · [English](3d-worlds.md) · [简体中文](3d-worlds.zh-CN.md) · [繁體中文](3d-worlds.zh-TW.md) · [日本語](3d-worlds.ja.md) · **한국어** · [Español](3d-worlds.es.md) · [Português](3d-worlds.pt-BR.md) · [Français](3d-worlds.fr.md) · [Deutsch](3d-worlds.de.md) · [Русский](3d-worlds.ru.md)
 
@@ -54,7 +54,7 @@
 <td width="33%" valign="top">
 <a href="https://fable-rome.surge.sh/"><img src="../assets/gifs/136.gif" width="100%" alt="Rome, AD 320"></a><br>
 <b><a href="https://fable-rome.surge.sh/">Rome, AD 320</a></b><br>
-<sub><a href="https://x.com/petergostev">@petergostev</a> · ♥ 977 · <a href="https://x.com/petergostev/status/2120167560700383572">▶ 영상</a></sub><br>
+<sub><a href="https://x.com/petergostev">@petergostev</a> · ♥ 976 · <a href="https://x.com/petergostev/status/2120167560700383572">▶ 영상</a></sub><br>
 <sub>프롬프트 하나, Fable 5.2 (Max)가 밤새 실행, $2,618.</sub><br>
 <sub><a href="https://x.com/petergostev/status/2120167560700383572">📝 제작자 공개 프롬프트 (무료)</a></sub>
 </td>
@@ -68,7 +68,7 @@
 <td width="33%" valign="top">
 <a href="https://fable-rover.vercel.app"><img src="../assets/gifs/278.gif" width="100%" alt="ER-6 Terrain Explorer — 스스로 달리는 화성 탐사차"></a><br>
 <b><a href="https://fable-rover.vercel.app">ER-6 Terrain Explorer — 스스로 달리는 화성 탐사차</a></b><br>
-<sub><a href="https://x.com/DilumSanjaya">@DilumSanjaya</a> · ♥ 838 · <a href="https://x.com/DilumSanjaya/status/2120561077385867663">▶ 영상</a></sub><br>
+<sub><a href="https://x.com/DilumSanjaya">@DilumSanjaya</a> · ♥ 840 · <a href="https://x.com/DilumSanjaya/status/2120561077385867663">▶ 영상</a></sub><br>
 <sub>Fable 5.2가 NASA 화성 탐사차처럼 로커-보기 서스펜션을 설계하고, 외계 지형을 달리는 시뮬레이션까지 만들었습니다.</sub>
 </td>
 </tr>
@@ -82,7 +82,7 @@
 <td width="33%" valign="top">
 <a href="https://patch.gg/play/blendi/the-blue-hour"><img src="../assets/gifs/387.gif" width="100%" alt="The Blue Hour — 아르데코풍 밤의 도시"></a><br>
 <b><a href="https://patch.gg/play/blendi/the-blue-hour">The Blue Hour — 아르데코풍 밤의 도시</a></b><br>
-<sub><a href="https://x.com/BlendiByl">@BlendiByl</a> · ♥ 645 · <a href="https://x.com/BlendiByl/status/2124439671006748853">▶ 영상</a></sub><br>
+<sub><a href="https://x.com/BlendiByl">@BlendiByl</a> · ♥ 656 · <a href="https://x.com/BlendiByl/status/2124439671006748853">▶ 영상</a></sub><br>
 <sub>애니메이션 '배트맨' 시리즈의 아르데코 스타일을 살린 3D 장면으로, 전부 코드로 그렸습니다. 오픈 소스.</sub>
 </td>
 <td width="33%" valign="top">
@@ -125,23 +125,29 @@
 <sub><a href="https://fablelist.000ooo.ooo/ko/prompts/?w=the-garden&ref=gh"><b>✨ 프롬프트 받기</b></a></sub>
 </td>
 <td width="33%" valign="top">
+<a href="http://exponential.scottsun.io"><img src="../assets/gifs/422.gif" width="100%" alt="Exponential — 브라우저에서 즐기는 1인칭 우주선"></a><br>
+<b><a href="http://exponential.scottsun.io">Exponential — 브라우저에서 즐기는 1인칭 우주선</a></b><br>
+<sub>🆕 · <a href="https://x.com/scottstts">@scottstts</a> · ♥ 284 · <a href="https://x.com/scottstts/status/2126411782411427883">▶ 영상</a></sub><br>
+<sub>Fable 5.2 가 토대를 잡고 neon 으로 계속 다듬은 1인칭 3D 우주선 경험. WebGPU, 물리 기반 조명, 공간 음향으로 제작되어 완전한 사실적 우주선을 안팎으로 탐험할 수 있다.</sub>
+</td>
+<td width="33%" valign="top">
 <a href="http://taoistvibe.com"><img src="../assets/gifs/307.gif" width="100%" alt="Chill Taoist Vibe: 도교 사원이 있는 작은 산"></a><br>
 <b><a href="http://taoistvibe.com">Chill Taoist Vibe: 도교 사원이 있는 작은 산</a></b><br>
 <sub><a href="https://x.com/qiqileyuan">@qiqileyuan</a> · ♥ 252 · <a href="https://x.com/qiqileyuan/status/2122006851298693277">▶ 영상</a></sub><br>
 <sub>지브리풍으로 그린 작은 산 위의 도교 사원. 노도사를 따라 산을 오르고, 향을 피우고, 점괘를 뽑고, 명상할 수 있다. 흔들의자에 앉아 계절이 바뀌는 걸 지켜보기만 해도 된다. 신상과 주인공 모델은 Tripo3D로 만들었고 나머지는 전부 생성된 코드다.</sub>
 </td>
+</tr>
+<tr>
 <td width="33%" valign="top">
 <a href="https://butterfly.kyzo.io"><img src="../assets/gifs/314.gif" width="100%" alt="Hidden Layers: 유리 온실 속 유리날개나비"></a><br>
 <b><a href="https://butterfly.kyzo.io">Hidden Layers: 유리 온실 속 유리날개나비</a></b><br>
 <sub><a href="https://x.com/ky__zo">@ky__zo</a> · ♥ 230 · <a href="https://x.com/ky__zo/status/2122274109795054036">▶ 영상</a></sub><br>
 <sub>스크롤하면 유리 온실을 빠져나가지 못하는 유리날개나비와 함께 여섯 개의 세계를 날아간다. 모델 파일도 텍스처도 없는 순수 three.js. 13.2억 토큰, API 비용 $905.</sub>
 </td>
-</tr>
-<tr>
 <td width="33%" valign="top">
 <a href="https://nkondo-ft.github.io/light-and-debris/"><img src="../assets/gifs/412.gif" width="100%" alt="Light & Debris — 빛으로 10만 개가 넘는 파편 밀어내기"></a><br>
 <b><a href="https://nkondo-ft.github.io/light-and-debris/">Light & Debris — 빛으로 10만 개가 넘는 파편 밀어내기</a></b><br>
-<sub>🆕 · <a href="https://x.com/Nkondo_funtech">@Nkondo_funtech</a> · ♥ 216 · <a href="https://x.com/Nkondo_funtech/status/2125811742001541535">▶ 영상</a></sub><br>
+<sub>🆕 · <a href="https://x.com/Nkondo_funtech">@Nkondo_funtech</a> · ♥ 227 · <a href="https://x.com/Nkondo_funtech/status/2125811742001541535">▶ 영상</a></sub><br>
 <sub>10만 개가 넘는 파편 사이로 빛을 움직이면 파편이 흩어진다. 모든 파편의 위치, 속도, 회전을 WebGPU 컴퓨트 셰이더로 GPU에서 계산해서, 물리 연산이 웹 페이지에서도 돌아갈 만큼 가볍다.</sub><br>
 <sub><a href="https://github.com/nkondo-ft/light-and-debris">소스 코드</a></sub>
 </td>
@@ -152,6 +158,8 @@
 <sub>@rileybrown에게서 영감: 걸어 들어가 어느 컴퓨터에든 앉아 보세요.</sub><br>
 <sub><a href="https://fablelist.000ooo.ooo/ko/prompts/?w=a-claude-demo-you-can-walk-into&ref=gh"><b>✨ 프롬프트 받기</b></a></sub>
 </td>
+</tr>
+<tr>
 <td width="33%" valign="top">
 <a href="https://claude.ai/artifact/2PBXuQAnWDS2NpiPXHNLfL"><img src="../assets/gifs/028.gif" width="100%" alt="Orca Jelly"></a><br>
 <b><a href="https://claude.ai/artifact/2PBXuQAnWDS2NpiPXHNLfL">Orca Jelly</a></b><br>
@@ -160,8 +168,6 @@
 <sub><a href="https://claude.ai/artifact/75KLotWzZQ5RR23BGLePb8">Opus 5.5 version</a></sub><br>
 <sub><a href="https://x.com/vib3coded/status/2119951060752375827">📝 제작자 공개 프롬프트 (무료)</a></sub>
 </td>
-</tr>
-<tr>
 <td width="33%" valign="top">
 <a href="https://planet.tokyoaivisuals.club/"><img src="../assets/gifs/266.gif" width="100%" alt="Code Planet"></a><br>
 <b><a href="https://planet.tokyoaivisuals.club/">Code Planet</a></b><br>
@@ -171,10 +177,12 @@
 <td width="33%" valign="top">
 <a href="https://zalo.github.io/LanternTown/town/"><img src="../assets/gifs/404.gif" width="100%" alt="LanternTown — 등불이 켜진 마을 광장"></a><br>
 <b><a href="https://zalo.github.io/LanternTown/town/">LanternTown — 등불이 켜진 마을 광장</a></b><br>
-<sub>🆕 · <a href="https://x.com/makeshifted">@makeshifted</a> · ♥ 189 · <a href="https://x.com/makeshifted/status/2125331267512377844">게시물</a></sub><br>
+<sub><a href="https://x.com/makeshifted">@makeshifted</a> · ♥ 191 · <a href="https://x.com/makeshifted/status/2125331267512377844">게시물</a></sub><br>
 <sub>실험적인 three.js 마을 광장. 모든 에셋이 파라메트릭으로 정의되고 조명은 버텍스 컬러에 구워져 있어 가볍게 돌아간다.</sub><br>
 <sub><a href="https://github.com/zalo/LanternTown">소스 코드</a></sub>
 </td>
+</tr>
+<tr>
 <td width="33%" valign="top">
 <a href="https://claude.ai/artifact/9EgZpErM17kH2a9Q3WXW6f"><img src="../assets/gifs/027.gif" width="100%" alt="Voxel World in a Bottle"></a><br>
 <b><a href="https://claude.ai/artifact/9EgZpErM17kH2a9Q3WXW6f">Voxel World in a Bottle</a></b><br>
@@ -182,12 +190,10 @@
 <sub>30분, $12.81.</sub><br>
 <sub><a href="https://x.com/vib3coded/status/2120104517282775514">📝 제작자 공개 프롬프트 (무료)</a></sub>
 </td>
-</tr>
-<tr>
 <td width="33%" valign="top">
 <a href="https://starknightt.github.io/sky-islands"><img src="../assets/gifs/411.gif" width="100%" alt="Sky Islands — 구름바다 위 떠 있는 섬들을 날아다니기"></a><br>
 <b><a href="https://starknightt.github.io/sky-islands">Sky Islands — 구름바다 위 떠 있는 섬들을 날아다니기</a></b><br>
-<sub>🆕 · <a href="https://x.com/prasenx">@prasenx</a> · ♥ 151 · <a href="https://x.com/prasenx/status/2125637810011201981">▶ 영상</a></sub><br>
+<sub>🆕 · <a href="https://x.com/prasenx">@prasenx</a> · ♥ 152 · <a href="https://x.com/prasenx/status/2125637810011201981">▶ 영상</a></sub><br>
 <sub>떠 있는 섬과 폭포, 구름바다 사이를 직접 날아다닐 수 있다. 전체가 100 KB도 안 되는 HTML 파일 하나다.</sub><br>
 <sub><a href="https://github.com/StarKnightt/sky-islands">소스 코드</a></sub>
 </td>
@@ -197,6 +203,8 @@
 <sub><a href="https://x.com/LexnLin">@LexnLin</a> · ♥ 147 · <a href="https://x.com/LexnLin/status/2122056542778535977">▶ 영상</a></sub><br>
 <sub>three.js로 만든 손그림 느낌의 작은 세계와, 거기서 렌더링한 40초 4K 영상.</sub>
 </td>
+</tr>
+<tr>
 <td width="33%" valign="top">
 <a href="https://patch.gg/blendi/impossible-spaces"><img src="../assets/gifs/135.gif" width="100%" alt="Impossible Spaces"></a><br>
 <b><a href="https://patch.gg/blendi/impossible-spaces">Impossible Spaces</a></b><br>
@@ -204,8 +212,6 @@
 <sub>환각적인 "불가능한 공간" 체험. 오픈 소스.</sub><br>
 <sub><a href="https://fablelist.000ooo.ooo/ko/prompts/?w=impossible-spaces&ref=gh"><b>✨ 프롬프트 받기</b></a></sub>
 </td>
-</tr>
-<tr>
 <td width="33%" valign="top">
 <a href="https://claude.ai/artifact/HCzUsvWqERjQcgJjRuUUFo"><img src="../assets/gifs/386.gif" width="100%" alt="Rain-Soaked Noodle Stall — 픽셀 디오라마"></a><br>
 <b><a href="https://claude.ai/artifact/HCzUsvWqERjQcgJjRuUUFo">Rain-Soaked Noodle Stall — 픽셀 디오라마</a></b><br>
@@ -220,6 +226,8 @@
 <sub>순수 Three.js, Blender나 외부 에셋 없음. 약 38분, 약 $17.</sub><br>
 <sub><a href="https://fablelist.000ooo.ooo/ko/prompts/?w=3d-sailing-ship&ref=gh"><b>✨ 프롬프트 받기</b></a></sub>
 </td>
+</tr>
+<tr>
 <td width="33%" valign="top">
 <a href="https://tests.jazii.dev/"><img src="../assets/gifs/025.gif" width="100%" alt="Pirate Ship"></a><br>
 <b><a href="https://tests.jazii.dev/">Pirate Ship</a></b><br>
@@ -227,8 +235,6 @@
 <sub>원샷, 약 1.5시간, 약 3,500만 토큰(약 $34).</sub><br>
 <sub><a href="https://fablelist.000ooo.ooo/ko/prompts/?w=pirate-ship&ref=gh"><b>✨ 프롬프트 받기</b></a></sub>
 </td>
-</tr>
-<tr>
 <td width="33%" valign="top">
 <a href="https://coralback-ray.wasmer.app/"><img src="../assets/gifs/357.gif" width="100%" alt="Coralback Ray"></a><br>
 <b><a href="https://coralback-ray.wasmer.app/">Coralback Ray</a></b><br>
@@ -241,6 +247,8 @@
 <sub><a href="https://x.com/BlendiByl">@BlendiByl</a> · ♥ 86 · <a href="https://x.com/BlendiByl/status/2123618324823388410">▶ 영상</a></sub><br>
 <sub>해 질 녘 바닷가 절벽 위의 몽환적인 픽셀 마을. 진짜 3D 세계 속 픽셀 아트로, 모든 픽셀을 코드로 그렸다. 브라우저에서 실행되며 오픈 소스.</sub>
 </td>
+</tr>
+<tr>
 <td width="33%" valign="top">
 <a href="https://airsup.ai/lab/sr-71?mach=3.2"><img src="../assets/gifs/180.gif" width="100%" alt="SR-71 엔진 분해"></a><br>
 <b><a href="https://airsup.ai/lab/sr-71?mach=3.2">SR-71 엔진 분해</a></b><br>
@@ -248,8 +256,6 @@
 <sub>고도 80,000피트의 SR-71, 엔진 하나를 단면으로 절개. 노브는 속도 하나뿐: 흡입구가 엔진에서 역할을 넘겨받는 모습을 지켜보세요.</sub><br>
 <sub><a href="https://fablelist.000ooo.ooo/ko/prompts/?w=sr-71-engine-teardown&ref=gh"><b>✨ 프롬프트 받기</b></a></sub>
 </td>
-</tr>
-<tr>
 <td width="33%" valign="top">
 <a href="https://vancouver.webly.site"><img src="../assets/gifs/032.gif" width="100%" alt="Vancouver From Above"></a><br>
 <b><a href="https://vancouver.webly.site">Vancouver From Above</a></b><br>
@@ -263,6 +269,8 @@
 <sub><a href="https://x.com/nan_in_space">@nan_in_space</a> · ♥ 64 · <a href="https://x.com/nan_in_space/status/2120212714484330999">▶ 영상</a></sub><br>
 <sub>인터랙티브 웹 작품. 다이브, 점프, 옆돌기로 포털을 통과해 새로운 세계로 넘어간다. 소녀와 장면 모두 가우시안 스플랫이며, 각각 이미지 한 장으로 생성했다.</sub>
 </td>
+</tr>
+<tr>
 <td width="33%" valign="top">
 <a href="https://fable-jerusalem.vercel.app/"><img src="../assets/gifs/138.gif" width="100%" alt="유월절의 예루살렘"></a><br>
 <b><a href="https://fable-jerusalem.vercel.app/">유월절의 예루살렘</a></b><br>
@@ -270,8 +278,12 @@
 <sub>Blender로 만든, 고증에 충실한 몰입형 3D 예루살렘. 거리를 거닐어 보세요.</sub><br>
 <sub><a href="https://x.com/kplikethebird/status/2119900775727902732">📝 제작자 공개 프롬프트 (무료)</a></sub>
 </td>
-</tr>
-<tr>
+<td width="33%" valign="top">
+<a href="https://airsup.ai/lab/bridge-layer"><img src="../assets/gifs/415.gif" width="100%" alt="Bridge Layer — 분해해 볼 수 있는 교량 가설 장비"></a><br>
+<b><a href="https://airsup.ai/lab/bridge-layer">Bridge Layer — 분해해 볼 수 있는 교량 가설 장비</a></b><br>
+<sub>🆕 · <a href="https://x.com/konstantinsaifo">@konstantinsaifo</a> · ♥ 42 · <a href="https://x.com/konstantinsaifo/status/2126074879992570105">▶ 영상</a></sub><br>
+<sub>Fable 5.2 가 부품 하나하나 설계한 장갑 교량 가설 차량, 총 4,370개 부품. 분해해 보고, 강폭을 정한 뒤, 26 m 다리를 이쪽 강둑에서 저쪽 강둑까지 놓는 모습을 볼 수 있다.</sub>
+</td>
 <td width="33%" valign="top">
 <a href="https://starknightt.github.io/summer-festival/"><img src="../assets/gifs/309.gif" width="100%" alt="Summer Festival: 밤의 바닷가 마을"></a><br>
 <b><a href="https://starknightt.github.io/summer-festival/">Summer Festival: 밤의 바닷가 마을</a></b><br>
@@ -279,12 +291,8 @@
 <sub>여름 축제가 열린 애니메이션풍 바닷가 마을을 걸어 다닐 수 있다. WebGPU 기반 three.js로, Opus 5.5와 Fable 5.2가 만들었다.</sub><br>
 <sub><a href="https://github.com/StarKnightt/summer-festival">소스 코드</a></sub>
 </td>
-<td width="33%" valign="top">
-<a href="https://airsup.ai/lab/bridge-layer"><img src="../assets/gifs/415.gif" width="100%" alt="Bridge Layer — 분해해 볼 수 있는 교량 가설 장비"></a><br>
-<b><a href="https://airsup.ai/lab/bridge-layer">Bridge Layer — 분해해 볼 수 있는 교량 가설 장비</a></b><br>
-<sub>🆕 · <a href="https://x.com/konstantinsaifo">@konstantinsaifo</a> · ♥ 33 · <a href="https://x.com/konstantinsaifo/status/2126074879992570105">▶ 영상</a></sub><br>
-<sub>Fable 5.2 가 부품 하나하나 설계한 장갑 교량 가설 차량, 총 4,370개 부품. 분해해 보고, 강폭을 정한 뒤, 26 m 다리를 이쪽 강둑에서 저쪽 강둑까지 놓는 모습을 볼 수 있다.</sub>
-</td>
+</tr>
+<tr>
 <td width="33%" valign="top">
 <a href="https://claude.ai/artifact/QoBRCe2QuCU81MkNpVr4hd"><img src="../assets/gifs/393.gif" width="100%" alt="Vice Corner: 바이스 시티 길모퉁이를 담은 픽셀 디오라마"></a><br>
 <b><a href="https://claude.ai/artifact/QoBRCe2QuCU81MkNpVr4hd">Vice Corner: 바이스 시티 길모퉁이를 담은 픽셀 디오라마</a></b><br>
@@ -292,8 +300,6 @@
 <sub>GTA 6 출시 직후 며칠 사이에 만든 바이스 시티 길모퉁이. 드래그하고 회전시켜 어느 각도에서든 볼 수 있는 픽셀 장면으로, Fable 5.2와 Ink Studio로 제작했다.</sub><br>
 <sub><a href="https://github.com/cola5939/pixel-dioramas">소스 코드</a></sub>
 </td>
-</tr>
-<tr>
 <td width="33%" valign="top">
 <a href="https://feelthematrix.com"><img src="../assets/gifs/139.gif" width="100%" alt="Matrix Vibe"></a><br>
 <b><a href="https://feelthematrix.com">Matrix Vibe</a></b><br>
@@ -310,14 +316,14 @@
 <sub><a href="https://loktar00.github.io/sled-free-exact/">Sled Free</a> · <a href="https://loktar00.github.io/sled-free/">Grumble Peak</a></sub><br>
 <sub><a href="https://fablelist.000ooo.ooo/ko/prompts/?w=pine-hollow-a-living-ski-hill&ref=gh"><b>✨ 프롬프트 받기</b></a></sub>
 </td>
+</tr>
+<tr>
 <td width="33%" valign="top">
 <a href="https://vancouver-claude.webly.site"><img src="../assets/gifs/280.gif" width="100%" alt="밴쿠버, 잉글리시 베이의 골든아워"></a><br>
 <b><a href="https://vancouver-claude.webly.site">밴쿠버, 잉글리시 베이의 골든아워</a></b><br>
 <sub><a href="https://x.com/tokifyi">@tokifyi</a> · ♥ 30 · <a href="https://x.com/tokifyi/status/2121644293270200354">게시물</a></sub><br>
 <sub>JavaScript만으로 그린 밴쿠버 노을 파노라마.</sub>
 </td>
-</tr>
-<tr>
 <td width="33%" valign="top">
 <a href="https://claude.ai/artifact/HGk1WNqTgrGEE8ndBkEipB"><img src="../assets/gifs/229.gif" width="100%" alt="픽셀 아트에서 3D 월드로"></a><br>
 <b><a href="https://claude.ai/artifact/HGk1WNqTgrGEE8ndBkEipB">픽셀 아트에서 3D 월드로</a></b><br>
@@ -332,6 +338,8 @@
 <sub>"신은 6일이 걸렸고, Fable 5.2는 20분이 걸렸다." 은하 속으로 날아 들어가세요.</sub><br>
 <sub><a href="https://fablelist.000ooo.ooo/ko/prompts/?w=galaxy-dive&ref=gh"><b>✨ 프롬프트 받기</b></a></sub>
 </td>
+</tr>
+<tr>
 <td width="33%" valign="top">
 <a href="https://calibre-watch-snowy.vercel.app/"><img src="../assets/gifs/192.gif" width="100%" alt="Calibre 5.2 시계"></a><br>
 <b><a href="https://calibre-watch-snowy.vercel.app/">Calibre 5.2 시계</a></b><br>
@@ -339,8 +347,6 @@
 <sub>참고 이미지 없음: 텍스트 프롬프트 하나, 원샷. three.js와 WebGPU.</sub><br>
 <sub><a href="https://fablelist.000ooo.ooo/ko/prompts/?w=calibre-5-2-watch&ref=gh"><b>✨ 프롬프트 받기</b></a></sub>
 </td>
-</tr>
-<tr>
 <td width="33%" valign="top">
 <a href="https://sf-js.webly.site"><img src="../assets/gifs/264.gif" width="100%" alt="골든 아워의 샌프란시스코"></a><br>
 <b><a href="https://sf-js.webly.site">골든 아워의 샌프란시스코</a></b><br>
@@ -355,6 +361,8 @@
 <sub><a href="https://claude.ai/artifact/B7ZmVS7Yr3BUc99ZyGk2bX">Opus 5.5 version</a></sub><br>
 <sub><a href="https://fablelist.000ooo.ooo/ko/prompts/?w=voxel-colosseum&ref=gh"><b>✨ 프롬프트 받기</b></a></sub>
 </td>
+</tr>
+<tr>
 <td width="33%" valign="top">
 <a href="https://glittery-stardust-885b97.netlify.app"><img src="../assets/gifs/233.gif" width="100%" alt="HX-6 Hexapod, Three Worlds"></a><br>
 <b><a href="https://glittery-stardust-885b97.netlify.app">HX-6 Hexapod, Three Worlds</a></b><br>
@@ -362,8 +370,6 @@
 <sub>같은 14 kg 헥사포드를 화성, 달, 유로파에서: 발마다 스스로 지면을 찾습니다. 직접 운전해 보세요.</sub><br>
 <sub><a href="https://fablelist.000ooo.ooo/ko/prompts/?w=hx-6-hexapod-three-worlds&ref=gh"><b>✨ 프롬프트 받기</b></a></sub>
 </td>
-</tr>
-<tr>
 <td width="33%" valign="top">
 <a href="https://zondark.com"><img src="../assets/gifs/033.gif" width="100%" alt="블랙홀로 가는 편도 여행"></a><br>
 <b><a href="https://zondark.com">블랙홀로 가는 편도 여행</a></b><br>
@@ -377,6 +383,8 @@
 <sub><a href="https://x.com/titepommee">@titepommee</a> · ♥ 8 · <a href="https://x.com/titepommee/status/2121259736217911357">▶ 영상</a></sub><br>
 <sub>전용기를 걸어 다니다 문을 클릭하면 계단이 내려오고 안으로 들어갑니다: 라운지, 침실, 욕실까지.</sub>
 </td>
+</tr>
+<tr>
 <td width="33%" valign="top">
 <a href="https://davinci-mechanics.vercel.app/"><img src="../assets/gifs/289.gif" width="100%" alt="다빈치의 살아 있는 코덱스"></a><br>
 <b><a href="https://davinci-mechanics.vercel.app/">다빈치의 살아 있는 코덱스</a></b><br>
@@ -384,8 +392,6 @@
 <sub>노트를 펼치면 깃펜이 다빈치의 기계를 스케치하고, 돌리고 분해할 수 있는 나무 기계로 바뀝니다. 3D 모델, 텍스처, 오디오 파일 없이 모두 코드로 만들었습니다.</sub><br>
 <sub><a href="https://github.com/coding-nanami/davinci-mechanics">소스 코드</a></sub>
 </td>
-</tr>
-<tr>
 <td width="33%" valign="top">
 <a href="https://claude.ai/artifact/FETrKoitcqxPQjbQvZd79C"><img src="../assets/gifs/034.gif" width="100%" alt="Belt Stress Test"></a><br>
 <b><a href="https://claude.ai/artifact/FETrKoitcqxPQjbQvZd79C">Belt Stress Test</a></b><br>
@@ -400,6 +406,8 @@
 <sub>"HTML 파일 하나로 3D 성에 생명을 불어넣어줘." 라이브러리 없이 손으로 쓴 WebGL2, 나무 약 5,500그루, 낮과 밤의 순환.</sub><br>
 <sub><a href="https://x.com/L34342Lin/status/2120030246108066195">📝 제작자 공개 프롬프트 (무료)</a></sub>
 </td>
+</tr>
+<tr>
 <td width="33%" valign="top">
 <a href="https://claude.ai/artifact/UqU4w7jSr6pzF2McsbyQjJ"><img src="../assets/gifs/031.gif" width="100%" alt="목조 불탑의 변신"></a><br>
 <b><a href="https://claude.ai/artifact/UqU4w7jSr6pzF2McsbyQjJ">목조 불탑의 변신</a></b><br>
@@ -407,8 +415,6 @@
 <sub>부품 3,357개가 5층 탑으로 조립된 뒤 검을 든 여검사로 변신. 음악은 코드로 계산.</sub><br>
 <sub><a href="https://fablelist.000ooo.ooo/ko/prompts/?w=wooden-pagoda-transformation&ref=gh"><b>✨ 프롬프트 받기</b></a></sub>
 </td>
-</tr>
-<tr>
 <td width="33%" valign="top">
 <a href="https://cyrilremacle-byte.github.io/francis-turbine-explorer/"><img src="../assets/gifs/355.gif" width="100%" alt="Francis Turbine Explorer"></a><br>
 <b><a href="https://cyrilremacle-byte.github.io/francis-turbine-explorer/">Francis Turbine Explorer</a></b><br>

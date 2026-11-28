@@ -62,7 +62,7 @@
 <td width="33%" valign="top">
 <a href="https://patch.gg/play/blendi/small-magic"><img src="../assets/gifs/274.gif" width="100%" alt="Small Magic — 마법사 샌드박스"></a><br>
 <b><a href="https://patch.gg/play/blendi/small-magic">Small Magic — 마법사 샌드박스</a></b><br>
-<sub><a href="https://x.com/BlendiByl">@BlendiByl</a> · ♥ 3.2k · <a href="https://x.com/BlendiByl/status/2121594536153718972">▶ 영상</a></sub><br>
+<sub><a href="https://x.com/BlendiByl">@BlendiByl</a> · ♥ 4.2k · <a href="https://x.com/BlendiByl/status/2121594536153718972">▶ 영상</a></sub><br>
 <sub>하루 만에 제작: 주문 7개, 부술 수 있는 물리 조각 약 1,800개, 모델·텍스처 없음, 오픈 소스.</sub>
 </td>
 <td width="33%" valign="top">
@@ -77,7 +77,7 @@
 <td width="33%" valign="top">
 <a href="https://kevintngo.github.io/procedural-rpg/"><img src="../assets/gifs/401.gif" width="100%" alt="Brushwild — 절차적 생성 오픈월드 RPG"></a><br>
 <b><a href="https://kevintngo.github.io/procedural-rpg/">Brushwild — 절차적 생성 오픈월드 RPG</a></b><br>
-<sub>🆕 · <a href="https://x.com/kevin_t_ngo">@kevin_t_ngo</a> · ♥ 2.7k · <a href="https://x.com/kevin_t_ngo/status/2125321244686029289">▶ 영상</a></sub><br>
+<sub><a href="https://x.com/kevin_t_ngo">@kevin_t_ngo</a> · ♥ 2.7k · <a href="https://x.com/kevin_t_ngo/status/2125321244686029289">▶ 영상</a></sub><br>
 <sub>약 300kB짜리 HTML 파일 하나에 담긴 절차적 생성 오픈월드 액션 RPG. 모든 픽셀을 셰이더가 펜과 색연필 느낌으로 그린다. 세 가지 클래스, 스킬 트리, 전리품, 마을과 던전이 있고 PC와 휴대폰에서 모두 플레이할 수 있다.</sub><br>
 <sub><a href="https://github.com/kevintngo/procedural-rpg">소스 코드</a></sub>
 </td>
@@ -143,6 +143,13 @@
 </tr>
 <tr>
 <td width="33%" valign="top">
+<a href="https://kevintngo.github.io/voidlight/"><img src="../assets/gifs/413.gif" width="100%" alt="Voidlight Depths — HTML 파일 하나로 된 우주 던전 크롤러"></a><br>
+<b><a href="https://kevintngo.github.io/voidlight/">Voidlight Depths — HTML 파일 하나로 된 우주 던전 크롤러</a></b><br>
+<sub>🆕 · <a href="https://x.com/kevin_t_ngo">@kevin_t_ngo</a> · ♥ 1.1k · <a href="https://x.com/kevin_t_ngo/status/2125982976483975534">▶ 영상</a></sub><br>
+<sub>164 kB 짜리 HTML 파일 하나에 담긴 우주 던전 크롤러. 에셋 없이 텍스처, 모델, 사운드를 전부 코드로 생성한다.</sub><br>
+<sub><a href="https://github.com/kevintngo/voidlight">소스 코드</a></sub>
+</td>
+<td width="33%" valign="top">
 <a href="https://wavedash.com/games/rooftop-rally"><img src="../assets/gifs/129.gif" width="100%" alt="Rooftop Rally — Unreal 5.9 피클볼"></a><br>
 <b><a href="https://wavedash.com/games/rooftop-rally">Rooftop Rally — Unreal 5.9 피클볼</a></b><br>
 <sub><a href="https://x.com/chongdashu">@chongdashu</a> · ♥ 1.1k · <a href="https://x.com/chongdashu/status/2120154573356793883">▶ 영상</a></sub><br>
@@ -153,35 +160,28 @@
 <td width="33%" valign="top">
 <a href="https://littlecity.io"><img src="../assets/gifs/402.gif" width="100%" alt="Little City — 손그림풍 도시 건설 게임"></a><br>
 <b><a href="https://littlecity.io">Little City — 손그림풍 도시 건설 게임</a></b><br>
-<sub>🆕 · <a href="https://x.com/sprezzyyy">@sprezzyyy</a> · ♥ 1.0k · <a href="https://x.com/sprezzyyy/status/2125321545665192054">▶ 영상</a></sub><br>
+<sub><a href="https://x.com/sprezzyyy">@sprezzyyy</a> · ♥ 1.0k · <a href="https://x.com/sprezzyyy/status/2125321545665192054">▶ 영상</a></sub><br>
 <sub>Townscaper에서 영감을 받은 샌드박스 도시 건설 게임. 블록 몇 개를 놓으면 손그림풍 마을로 바뀌고, 이내 마을이 살아 움직인다. 브라우저에서 바로 플레이할 수 있다.</sub><br>
 <sub><a href="https://github.com/yaoderek/littlecity.io">소스 코드</a></sub>
 </td>
+</tr>
+<tr>
 <td width="33%" valign="top">
 <a href="https://gtashenzhen.com"><img src="../assets/gifs/377.gif" width="100%" alt="GTA Shenzhen"></a><br>
 <b><a href="https://gtashenzhen.com">GTA Shenzhen</a></b><br>
 <sub><a href="https://x.com/KinGao476942">@KinGao476942</a> · ♥ 1.0k · <a href="https://x.com/KinGao476942/status/2123967104601014521">▶ 영상</a></sub><br>
 <sub>OpenStreetMap 데이터로 만든 선전 도시 전체. 건물 83,182채, 도로 62,088개. 하늘을 날고, 착지해서 차를 몰고, 원하는 장소를 검색하고, 밤에는 도시 전체 라이트 쇼도 켤 수 있습니다. Fable 5.2와 Tripo로 3일 만에 제작.</sub>
 </td>
-</tr>
-<tr>
-<td width="33%" valign="top">
-<a href="https://kevintngo.github.io/voidlight/"><img src="../assets/gifs/413.gif" width="100%" alt="Voidlight Depths — HTML 파일 하나로 된 우주 던전 크롤러"></a><br>
-<b><a href="https://kevintngo.github.io/voidlight/">Voidlight Depths — HTML 파일 하나로 된 우주 던전 크롤러</a></b><br>
-<sub>🆕 · <a href="https://x.com/kevin_t_ngo">@kevin_t_ngo</a> · ♥ 1.0k · <a href="https://x.com/kevin_t_ngo/status/2125982976483975534">▶ 영상</a></sub><br>
-<sub>164 kB 짜리 HTML 파일 하나에 담긴 우주 던전 크롤러. 에셋 없이 텍스처, 모델, 사운드를 전부 코드로 생성한다.</sub><br>
-<sub><a href="https://github.com/kevintngo/voidlight">소스 코드</a></sub>
-</td>
 <td width="33%" valign="top">
 <a href="https://thaxnay.com/ramayana/"><img src="../assets/gifs/389.gif" width="100%" alt="Ramayana: The Sacred Fires"></a><br>
 <b><a href="https://thaxnay.com/ramayana/">Ramayana: The Sacred Fires</a></b><br>
-<sub><a href="https://x.com/Thaxnay">@Thaxnay</a> · ♥ 980 · <a href="https://x.com/Thaxnay/status/2124574054296219939">▶ 영상</a></sub><br>
+<sub><a href="https://x.com/Thaxnay">@Thaxnay</a> · ♥ 983 · <a href="https://x.com/Thaxnay/status/2124574054296219939">▶ 영상</a></sub><br>
 <sub>라마가 되어 탁 트인 계곡을 누비며 현자들을 지키고 숨겨진 비밀을 찾는 3인칭 액션 어드벤처. PC와 모바일 브라우저에서 바로 플레이할 수 있습니다.</sub>
 </td>
 <td width="33%" valign="top">
 <a href="https://noclipepe.pages.dev/chase"><img src="../assets/gifs/406.gif" width="100%" alt="Red Clay Chase — 붉은 흙길 위의 경찰 추격전"></a><br>
 <b><a href="https://noclipepe.pages.dev/chase">Red Clay Chase — 붉은 흙길 위의 경찰 추격전</a></b><br>
-<sub>🆕 · <a href="https://x.com/noclipepe">@noclipepe</a> · ♥ 848 · <a href="https://x.com/noclipepe/status/2124805085393813586">▶ 영상</a></sub><br>
+<sub><a href="https://x.com/noclipepe">@noclipepe</a> · ♥ 848 · <a href="https://x.com/noclipepe/status/2124805085393813586">▶ 영상</a></sub><br>
 <sub>브라우저에서 바로 즐기는 GTA 스타일 경찰 추격전. 게임 엔진도, 에셋도 전혀 쓰지 않았다. 제작자에 따르면 Fable 5.2가 2.5시간, 115달러를 들여 만들었다.</sub><br>
 <sub><a href="https://github.com/noclipepe/red-clay-chase">소스 코드</a></sub>
 </td>
@@ -190,7 +190,7 @@
 <td width="33%" valign="top">
 <a href="https://claude.ai/artifact/MXxb36zKgN261ckbGhmNin"><img src="../assets/gifs/002.gif" width="100%" alt="Three Games (Saltline · The Clockmaker's Heart · Tidewright)"></a><br>
 <b><a href="https://claude.ai/artifact/MXxb36zKgN261ckbGhmNin">Three Games (Saltline · The Clockmaker's Heart · Tidewright)</a></b><br>
-<sub><a href="https://x.com/felixrieseberg">@felixrieseberg</a> · ♥ 800 · <a href="https://x.com/vineerpasam/status/2119955306096857145">▶ 영상</a></sub><br>
+<sub><a href="https://x.com/felixrieseberg">@felixrieseberg</a> · ♥ 801 · <a href="https://x.com/vineerpasam/status/2119955306096857145">▶ 영상</a></sub><br>
 <sub>Felix Rieseberg 서명: "모든 게임은 Claude Fable 5.2로 만들었습니다. 초안 그대로, 사람의 피드백 없음." 출시 당일 가장 많이 공유된 링크.</sub><br>
 <sub><a href="https://claude.ai/artifact/6MjtQjf4ee1ZZjEpafaEpa">The Clockmaker's Heart</a> · <a href="https://claude.ai/artifact/JTgyEMn7sn1q2riWrMb7D4">Tidewright</a></sub><br>
 <sub><a href="https://fablelist.000ooo.ooo/ko/prompts/?w=three-games-saltline-the-clockmaker-s-heart-tidewright&ref=gh"><b>✨ 프롬프트 받기</b></a></sub>
@@ -198,7 +198,7 @@
 <td width="33%" valign="top">
 <a href="https://patch.gg/play/blendi/solar"><img src="../assets/gifs/323.gif" width="100%" alt="Solar — 날아다닐 수 있는 작은 태양계"></a><br>
 <b><a href="https://patch.gg/play/blendi/solar">Solar — 날아다닐 수 있는 작은 태양계</a></b><br>
-<sub><a href="https://x.com/BlendiByl">@BlendiByl</a> · ♥ 798 · <a href="https://x.com/BlendiByl/status/2122673770607591855">▶ 영상</a></sub><br>
+<sub><a href="https://x.com/BlendiByl">@BlendiByl</a> · ♥ 799 · <a href="https://x.com/BlendiByl/status/2122673770607591855">▶ 영상</a></sub><br>
 <sub>Outer Wilds에서 영감을 받았습니다. 실제 궤도와 중력, 행성 사이를 끊김 없이 비행하며 모든 세계를 코드로 그렸습니다. 오픈 소스.</sub>
 </td>
 <td width="33%" valign="top">
@@ -220,13 +220,13 @@
 <td width="33%" valign="top">
 <a href="https://ebb.tesana.com"><img src="../assets/gifs/379.gif" width="100%" alt="EBB — 모습을 바꾸는 물 플랫포머"></a><br>
 <b><a href="https://ebb.tesana.com">EBB — 모습을 바꾸는 물 플랫포머</a></b><br>
-<sub><a href="https://x.com/Rubzem">@Rubzem</a> · ♥ 694 · <a href="https://x.com/Rubzem/status/2124142554371502140">▶ 영상</a></sub><br>
+<sub><a href="https://x.com/Rubzem">@Rubzem</a> · ♥ 695 · <a href="https://x.com/Rubzem/status/2124142554371502140">▶ 영상</a></sub><br>
 <sub>녹고, 얼고, 떠오르는 물이 되어 퍼즐을 푸는 물리 플랫포머. 전부 절차적으로 생성되며 190 KB, 한 시간 만에 완성.</sub>
 </td>
 <td width="33%" valign="top">
 <a href="https://patch.gg/blendi/patchwork-quilt"><img src="../assets/gifs/190.gif" width="100%" alt="Patchwork Quilt"></a><br>
 <b><a href="https://patch.gg/blendi/patchwork-quilt">Patchwork Quilt</a></b><br>
-<sub><a href="https://x.com/BlendiByl">@BlendiByl</a> · ♥ 670 · <a href="https://x.com/BlendiByl/status/2120746541636047347">▶ 영상</a></sub><br>
+<sub><a href="https://x.com/BlendiByl">@BlendiByl</a> · ♥ 671 · <a href="https://x.com/BlendiByl/status/2120746541636047347">▶ 영상</a></sub><br>
 <sub>패치워크, 스톱모션 스타일의 게임 한 조각. 맵 전체가 코드. 오픈 소스.</sub><br>
 <sub><a href="https://fablelist.000ooo.ooo/ko/prompts/?w=patchwork-quilt&ref=gh"><b>✨ 프롬프트 받기</b></a></sub>
 </td>
@@ -241,7 +241,7 @@
 <td width="33%" valign="top">
 <a href="https://i-would-have-gotten-away-with-it.netlify.app/"><img src="../assets/gifs/007.gif" width="100%" alt="I Would Have Gotten Away With It"></a><br>
 <b><a href="https://i-would-have-gotten-away-with-it.netlify.app/">I Would Have Gotten Away With It</a></b><br>
-<sub><a href="https://x.com/emollick">@emollick</a> · ♥ 520 · <a href="https://x.com/emollick/status/2119876449494540554">▶ 영상</a></sub><br>
+<sub><a href="https://x.com/emollick">@emollick</a> · ♥ 521 · <a href="https://x.com/emollick/status/2119876449494540554">▶ 영상</a></sub><br>
 <sub>거꾸로 된 스쿠비두: 참견쟁이 아이들을 겁주어 쫓아내는 악당이 되어 보세요. 트레일러, 음악, 사운드도 Fable이 제작.</sub><br>
 <sub><a href="https://fablelist.000ooo.ooo/ko/prompts/?w=i-would-have-gotten-away-with-it&ref=gh"><b>✨ 프롬프트 받기</b></a></sub>
 </td>
@@ -289,7 +289,7 @@
 <td width="33%" valign="top">
 <a href="https://gilt-and-gutter.vercel.app/"><img src="../assets/gifs/127.gif" width="100%" alt="Gilt & Gutter"></a><br>
 <b><a href="https://gilt-and-gutter.vercel.app/">Gilt & Gutter</a></b><br>
-<sub><a href="https://x.com/kevin_t_ngo">@kevin_t_ngo</a> · ♥ 332 · <a href="https://x.com/kevin_t_ngo/status/2119900487688622171">▶ 영상</a></sub><br>
+<sub><a href="https://x.com/kevin_t_ngo">@kevin_t_ngo</a> · ♥ 333 · <a href="https://x.com/kevin_t_ngo/status/2119900487688622171">▶ 영상</a></sub><br>
 <sub>플레이 가능한 캐릭터 2명이 나오는 1대1 1인칭 슈터.</sub><br>
 <sub><a href="https://fablelist.000ooo.ooo/ko/prompts/?w=gilt-gutter&ref=gh"><b>✨ 프롬프트 받기</b></a></sub>
 </td>
@@ -372,25 +372,25 @@
 <sub><a href="https://fablelist.000ooo.ooo/ko/prompts/?w=maad-maxxing&ref=gh"><b>✨ 프롬프트 받기</b></a></sub>
 </td>
 <td width="33%" valign="top">
+<a href="https://kevintngo.github.io/lumenwake/"><img src="../assets/gifs/416.gif" width="100%" alt="Lumenwake — HTML 한 파일에 담은 공중섬 액션 RPG"></a><br>
+<b><a href="https://kevintngo.github.io/lumenwake/">Lumenwake — HTML 한 파일에 담은 공중섬 액션 RPG</a></b><br>
+<sub>🆕 · <a href="https://x.com/kevin_t_ngo">@kevin_t_ngo</a> · ♥ 243 · <a href="https://x.com/kevin_t_ngo/status/2126132754849120655">▶ 영상</a></sub><br>
+<sub>액션 RPG 전체가 단 802 kB짜리 HTML 파일 하나. 애셋 파일도 런타임 의존성도 없다. 절차적으로 생성된 세계에서 미션을 수행하고 잡몹과 싸우며 보스를 잡아 전리품을 얻는다. 브라우저에서 바로 플레이할 수 있다.</sub>
+</td>
+<td width="33%" valign="top">
 <a href="https://frontier.every.to/experiments/first-crush"><img src="../assets/gifs/133.gif" width="100%" alt="First Crush"></a><br>
 <b><a href="https://frontier.every.to/experiments/first-crush">First Crush</a></b><br>
 <sub><a href="https://x.com/kieranklaassen">@kieranklaassen</a> · ♥ 229 · <a href="https://x.com/kieranklaassen/status/2119871673294037280">▶ 영상</a></sub><br>
 <sub>와인 양조 게임: 통을 닦고, 과일 250 kg을 으깨고, 비중계를 읽고, 효모를 고르면 그 이유까지 설명해 줍니다. 페이지의 "Try it"을 클릭하세요.</sub><br>
 <sub><a href="https://fablelist.000ooo.ooo/ko/prompts/?w=first-crush&ref=gh"><b>✨ 프롬프트 받기</b></a></sub>
 </td>
+</tr>
+<tr>
 <td width="33%" valign="top">
 <a href="https://market-order-city.netlify.app/"><img src="../assets/gifs/361.gif" width="100%" alt="Market Order"></a><br>
 <b><a href="https://market-order-city.netlify.app/">Market Order</a></b><br>
 <sub><a href="https://x.com/emollick">@emollick</a> · ♥ 220 · <a href="https://x.com/emollick/status/2123520499368263977">▶ 영상</a></sub><br>
 <sub>차를 훔치고 미션을 수행하는 오픈 월드 드라이빙 게임. 수배 레벨부터 날씨까지 모든 것이 Anthropic의 ANT 주가에 따라 움직인다.</sub>
-</td>
-</tr>
-<tr>
-<td width="33%" valign="top">
-<a href="https://kevintngo.github.io/lumenwake/"><img src="../assets/gifs/416.gif" width="100%" alt="Lumenwake — HTML 한 파일에 담은 공중섬 액션 RPG"></a><br>
-<b><a href="https://kevintngo.github.io/lumenwake/">Lumenwake — HTML 한 파일에 담은 공중섬 액션 RPG</a></b><br>
-<sub>🆕 · <a href="https://x.com/kevin_t_ngo">@kevin_t_ngo</a> · ♥ 211 · <a href="https://x.com/kevin_t_ngo/status/2126132754849120655">▶ 영상</a></sub><br>
-<sub>액션 RPG 전체가 단 802 kB짜리 HTML 파일 하나. 애셋 파일도 런타임 의존성도 없다. 절차적으로 생성된 세계에서 미션을 수행하고 잡몹과 싸우며 보스를 잡아 전리품을 얻는다. 브라우저에서 바로 플레이할 수 있다.</sub>
 </td>
 <td width="33%" valign="top">
 <a href="https://noclipepe.pages.dev/dino"><img src="../assets/gifs/011.gif" width="100%" alt="Rambo Dino"></a><br>
@@ -402,7 +402,7 @@
 <td width="33%" valign="top">
 <a href="https://cozylisbon.vercel.app"><img src="../assets/gifs/200.gif" width="100%" alt="Cozy Lisbon"></a><br>
 <b><a href="https://cozylisbon.vercel.app">Cozy Lisbon</a></b><br>
-<sub><a href="https://x.com/goncalo_canhoto">@goncalo_canhoto</a> · ♥ 171 · <a href="https://x.com/goncalo_canhoto/status/2119932946346094690">▶ 영상</a></sub><br>
+<sub><a href="https://x.com/goncalo_canhoto">@goncalo_canhoto</a> · ♥ 172 · <a href="https://x.com/goncalo_canhoto/status/2119932946346094690">▶ 영상</a></sub><br>
 <sub>리스본 위를 나는 작은 비행기를 다룬 프롬프트 하나짜리 포근한 게임.</sub><br>
 <sub><a href="https://fablelist.000ooo.ooo/ko/prompts/?w=cozy-lisbon&ref=gh"><b>✨ 프롬프트 받기</b></a></sub>
 </td>
@@ -446,18 +446,24 @@
 <sub>Chrome의 WebGPU만으로 돌아가는 레이싱 게임. 엔진은 제작자가 처음부터 직접 만드는 중. 자동차를 포함한 에셋 대부분은 Fable 5.2와 GPT-6.2 Astra가 만들었다.</sub>
 </td>
 <td width="33%" valign="top">
+<a href="https://patch.gg/play/blendi/kickoff"><img src="../assets/gifs/418.gif" width="100%" alt="KICKOFF — 브라우저에서 돌아가는 로켓 리그"></a><br>
+<b><a href="https://patch.gg/play/blendi/kickoff">KICKOFF — 브라우저에서 돌아가는 로켓 리그</a></b><br>
+<sub>🆕 · <a href="https://x.com/BlendiByl">@BlendiByl</a> · ♥ 124 · <a href="https://x.com/BlendiByl/status/2126219474768740761">▶ 영상</a></sub><br>
+<sub>Fable 5.2로 만든 로켓 리그 스타일의 카 사커 게임. 브라우저에서 돌아가고 조작감이 매우 설득력 있으며 오픈소스다.</sub>
+</td>
+</tr>
+<tr>
+<td width="33%" valign="top">
 <a href="https://luminazombies.com/"><img src="../assets/gifs/176.gif" width="100%" alt="Lumina Zombies"></a><br>
 <b><a href="https://luminazombies.com/">Lumina Zombies</a></b><br>
 <sub><a href="https://x.com/LuminaBench">@LuminaBench</a> · ♥ 123 · <a href="https://x.com/LuminaBench/status/2120660076927099048">▶ 영상</a></sub><br>
 <sub>프롬프트 몇 번으로 이스터 에그가 있는 새 맵을 추가하고, 나머지 두 맵의 하드웨어 요구량과 지연 시간을 절반으로 줄이는 업그레이드.</sub><br>
 <sub><a href="https://fablelist.000ooo.ooo/ko/prompts/?w=lumina-zombies&ref=gh"><b>✨ 프롬프트 받기</b></a></sub>
 </td>
-</tr>
-<tr>
 <td width="33%" valign="top">
 <a href="https://starknightt.github.io/firefly-jar"><img src="../assets/gifs/414.gif" width="100%" alt="Firefly Jar — 밤이 오기 전에 반딧불이 잡기"></a><br>
 <b><a href="https://starknightt.github.io/firefly-jar">Firefly Jar — 밤이 오기 전에 반딧불이 잡기</a></b><br>
-<sub>🆕 · <a href="https://x.com/prasenx">@prasenx</a> · ♥ 116 · <a href="https://x.com/prasenx/status/2125980702336549056">▶ 영상</a></sub><br>
+<sub>🆕 · <a href="https://x.com/prasenx">@prasenx</a> · ♥ 122 · <a href="https://x.com/prasenx/status/2125980702336549056">▶ 영상</a></sub><br>
 <sub>여덟 살 때의 어느 여름 저녁. 풀밭을 거닐며 어두워지기 전에 반딧불이 스무 마리를 유리병에 담았다가 다시 놓아준다. 브라우저에서 바로 플레이.</sub><br>
 <sub><a href="https://github.com/StarKnightt/firefly-jar">소스 코드</a></sub>
 </td>
@@ -467,6 +473,8 @@
 <sub><a href="https://x.com/AmirMushich">@AmirMushich</a> · ♥ 113 · <a href="https://x.com/AmirMushich/status/2122421769462284615">▶ 영상</a></sub><br>
 <sub>커피숍 주변의 실제 거리, 건물 7,970채를 재현했다. 날아서 원두 5개를 모으고 옥상에 착륙하면 무료 커피를 받는다. 지도 위 어떤 가게에도 쓸 수 있다.</sub>
 </td>
+</tr>
+<tr>
 <td width="33%" valign="top">
 <a href="https://loktar00.github.io/llm-test-pages/fable52-dino-chase/"><img src="../assets/gifs/222.gif" width="100%" alt="Thunder Valley dino chase"></a><br>
 <b><a href="https://loktar00.github.io/llm-test-pages/fable52-dino-chase/">Thunder Valley dino chase</a></b><br>
@@ -474,8 +482,6 @@
 <sub>자체 WebGL 렌더러를 쓴 바닐라 JS. 공룡, 나무, 지형은 2D 픽셀 슬라이스를 쌓아 만들었습니다.</sub><br>
 <sub><a href="https://fablelist.000ooo.ooo/ko/prompts/?w=thunder-valley-dino-chase&ref=gh"><b>✨ 프롬프트 받기</b></a></sub>
 </td>
-</tr>
-<tr>
 <td width="33%" valign="top">
 <a href="https://feed-backrooms.vercel.app"><img src="../assets/gifs/013.gif" width="100%" alt="Feed the Backrooms"></a><br>
 <b><a href="https://feed-backrooms.vercel.app">Feed the Backrooms</a></b><br>
@@ -490,6 +496,8 @@
 <sub>프롬프트 하나와 몇 번의 추가 요청: 배를 타고 지나가면 깨어나는 잠든 세계 5개, 코드로 만든 음악.</sub><br>
 <sub><a href="https://x.com/flxrnc/status/2120494277528580110">📝 제작자 공개 프롬프트 (무료)</a></sub>
 </td>
+</tr>
+<tr>
 <td width="33%" valign="top">
 <a href="https://app.usecrayon.ai/play/992c2130-43da-416b-a577-aed9514d3057"><img src="../assets/gifs/177.gif" width="100%" alt="SKYWAKE"></a><br>
 <b><a href="https://app.usecrayon.ai/play/992c2130-43da-416b-a577-aed9514d3057">SKYWAKE</a></b><br>
@@ -497,14 +505,21 @@
 <sub>Fable 5.2, Opus 5.5, Crayon, three.js로 만든 비행 퀘스트 게임.</sub><br>
 <sub><a href="https://fablelist.000ooo.ooo/ko/prompts/?w=skywake&ref=gh"><b>✨ 프롬프트 받기</b></a></sub>
 </td>
-</tr>
-<tr>
+<td width="33%" valign="top">
+<a href="https://goodstuff.pixijs.io/kuzushi/"><img src="../assets/gifs/417.gif" width="100%" alt="KUZUSHI — Fable과 Opus가 작성한 오픈소스 게임"></a><br>
+<b><a href="https://goodstuff.pixijs.io/kuzushi/">KUZUSHI — Fable과 Opus가 작성한 오픈소스 게임</a></b><br>
+<sub>🆕 · <a href="https://x.com/PixiJS">@PixiJS</a> · ♥ 77 · <a href="https://x.com/PixiJS/status/2126137684506619982">▶ 영상</a></sub><br>
+<sub>PixiJS가 공개한 오픈소스 게임으로, 전부 Fable과 Opus가 작성했다. 에이전트 중심 ECS 런타임 Ritmo와 PixiJS 3D 위에 만들었다. 브라우저에서 바로 플레이할 수 있다.</sub><br>
+<sub><a href="https://github.com/pixijs/open-games/tree/main/kuzushi">소스 코드</a></sub>
+</td>
 <td width="33%" valign="top">
 <a href="http://drift.harma.cc/en"><img src="../assets/gifs/363.gif" width="100%" alt="DRIFT: Veresk-9"></a><br>
 <b><a href="http://drift.harma.cc/en">DRIFT: Veresk-9</a></b><br>
 <sub><a href="https://x.com/Rencrypta">@Rencrypta</a> · ♥ 76 · <a href="https://x.com/Rencrypta/status/2123527249064321465">게시물</a></sub><br>
 <sub>브라우저에서 하는 1인칭 3D 우주 퍼즐 게임. 소행성대의 죽은 채굴 기지로 날아가 비컨을 끄려는데, 승무원들은 대피한 적이 없었다.</sub>
 </td>
+</tr>
+<tr>
 <td width="33%" valign="top">
 <a href="https://app.usecrayon.ai/play/0cd7624e-1297-417e-a5be-b3c3036a496a"><img src="../assets/gifs/249.gif" width="100%" alt="KUMOKIRI"></a><br>
 <b><a href="https://app.usecrayon.ai/play/0cd7624e-1297-417e-a5be-b3c3036a496a">KUMOKIRI</a></b><br>
@@ -519,29 +534,20 @@
 <sub>접은 종이비행기를 타고 전부 코드로 그린 세계를 난다. 이미지도 3D 모델도 없이 브라우저에서 바로 플레이.</sub><br>
 <sub><a href="https://github.com/StarKnightt/ink-flight">소스 코드</a></sub>
 </td>
-</tr>
-<tr>
 <td width="33%" valign="top">
 <a href="https://claude.ai/artifact/3o9NKKmpezAFEan5SeVaxn"><img src="../assets/gifs/388.gif" width="100%" alt="ASHEN VIGIL"></a><br>
 <b><a href="https://claude.ai/artifact/3o9NKKmpezAFEan5SeVaxn">ASHEN VIGIL</a></b><br>
 <sub><a href="https://x.com/CapyCola">@CapyCola</a> · ♥ 71 · <a href="https://x.com/CapyCola/status/2123707546779451602">▶ 영상</a></sub><br>
 <sub>메시지 한 줄로 만든 3D 서바이버류 게임. 비 내리는 수도원 폐허에서 5분을 버텨야 합니다. 무기 5종, 강화 7종, 적 4종과 보스 하나. 약 6,900줄의 코드로, 모든 그래픽과 소리를 코드로 생성했습니다.</sub>
 </td>
-<td width="33%" valign="top">
-<a href="https://goodstuff.pixijs.io/kuzushi/"><img src="../assets/gifs/417.gif" width="100%" alt="KUZUSHI — Fable과 Opus가 작성한 오픈소스 게임"></a><br>
-<b><a href="https://goodstuff.pixijs.io/kuzushi/">KUZUSHI — Fable과 Opus가 작성한 오픈소스 게임</a></b><br>
-<sub>🆕 · <a href="https://x.com/PixiJS">@PixiJS</a> · ♥ 67 · <a href="https://x.com/PixiJS/status/2126137684506619982">▶ 영상</a></sub><br>
-<sub>PixiJS가 공개한 오픈소스 게임으로, 전부 Fable과 Opus가 작성했다. 에이전트 중심 ECS 런타임 Ritmo와 PixiJS 3D 위에 만들었다. 브라우저에서 바로 플레이할 수 있다.</sub><br>
-<sub><a href="https://github.com/pixijs/open-games/tree/main/kuzushi">소스 코드</a></sub>
-</td>
+</tr>
+<tr>
 <td width="33%" valign="top">
 <a href="https://www.spawn.co/@abbidabbi/pogo-riot"><img src="../assets/gifs/263.gif" width="100%" alt="Pogo Riot"></a><br>
 <b><a href="https://www.spawn.co/@abbidabbi/pogo-riot">Pogo Riot</a></b><br>
 <sub><a href="https://x.com/Pumpnasterr">@Pumpnasterr</a> · ♥ 64 · <a href="https://x.com/Pumpnasterr/status/2121343507885682917">▶ 영상</a></sub><br>
 <sub>포고 스틱을 타고 튀어 오르면서 동시에 조준하는 난투 FPS.</sub>
 </td>
-</tr>
-<tr>
 <td width="33%" valign="top">
 <a href="https://patch.gg/games/rehan/ringfall"><img src="../assets/gifs/178.gif" width="100%" alt="Ringfall"></a><br>
 <b><a href="https://patch.gg/games/rehan/ringfall">Ringfall</a></b><br>
@@ -556,19 +562,13 @@
 <sub>거리를 만들고, 3D 모델과 사운드를 찾고, 트레일러를 녹화하려고 직접 게임까지 플레이했습니다. 노트북에서 가장 잘 보입니다.</sub><br>
 <sub><a href="https://fablelist.000ooo.ooo/ko/prompts/?w=save-the-world&ref=gh"><b>✨ 프롬프트 받기</b></a></sub>
 </td>
+</tr>
+<tr>
 <td width="33%" valign="top">
 <a href="https://nisen0808-web.github.io/xiyou-td-play/"><img src="../assets/gifs/338.gif" width="100%" alt="Xiyou X: 서유기 타워 디펜스"></a><br>
 <b><a href="https://nisen0808-web.github.io/xiyou-td-play/">Xiyou X: 서유기 타워 디펜스</a></b><br>
 <sub><a href="https://x.com/PhyrexNi">@PhyrexNi</a> · ♥ 59 · <a href="https://x.com/PhyrexNi/status/2122602578978709908">게시물</a></sub><br>
 <sub>스테이지 8개, 난이도 5단계, 특수 캐릭터 카드 뽑기가 있는 타워 디펜스 테스트 빌드. PC와 모바일 브라우저에서 돌아가며 가로 화면이 가장 좋다.</sub>
-</td>
-</tr>
-<tr>
-<td width="33%" valign="top">
-<a href="https://patch.gg/play/blendi/kickoff"><img src="../assets/gifs/418.gif" width="100%" alt="KICKOFF — 브라우저에서 돌아가는 로켓 리그"></a><br>
-<b><a href="https://patch.gg/play/blendi/kickoff">KICKOFF — 브라우저에서 돌아가는 로켓 리그</a></b><br>
-<sub>🆕 · <a href="https://x.com/BlendiByl">@BlendiByl</a> · ♥ 58 · <a href="https://x.com/BlendiByl/status/2126219474768740761">▶ 영상</a></sub><br>
-<sub>Fable 5.2로 만든 로켓 리그 스타일의 카 사커 게임. 브라우저에서 돌아가고 조작감이 매우 설득력 있으며 오픈소스다.</sub>
 </td>
 <td width="33%" valign="top">
 <a href="https://samg-coder.github.io/solstice-racing/"><img src="../assets/gifs/257.gif" width="100%" alt="Kestrel Head — Solstice racing"></a><br>
@@ -590,7 +590,7 @@
 <td width="33%" valign="top">
 <a href="https://tetriss22.github.io/unwritten/"><img src="../assets/gifs/403.gif" width="100%" alt="UNWRITTEN — 전부 문자로 그린 오픈월드"></a><br>
 <b><a href="https://tetriss22.github.io/unwritten/">UNWRITTEN — 전부 문자로 그린 오픈월드</a></b><br>
-<sub>🆕 · <a href="https://x.com/Tetriss112">@Tetriss112</a> · ♥ 49 · <a href="https://x.com/Tetriss112/status/2125302656616849796">▶ 영상</a></sub><br>
+<sub><a href="https://x.com/Tetriss112">@Tetriss112</a> · ♥ 49 · <a href="https://x.com/Tetriss112/status/2125302656616849796">▶ 영상</a></sub><br>
 <sub>ASCII 오픈월드 액션 게임. 무언가가 세상을 한 단어씩 지우고 있고, 당신은 그것을 다시 써낼 수 있는 마지막 필경사다. 다섯 개의 땅, 마상 전투, 세 가지 무기, 불과 번개, 그리고 최종 보스 THE EDITOR. 이미지 파일은 하나도 없고 코드는 2,737줄.</sub><br>
 <sub><a href="https://github.com/Tetriss22/unwritten">소스 코드</a></sub>
 </td>
@@ -717,8 +717,7 @@
 <a href="https://monstermath.ai-created.com"><img src="../assets/gifs/300.gif" width="100%" alt="Monster Math"></a><br>
 <b><a href="https://monstermath.ai-created.com">Monster Math</a></b><br>
 <sub><a href="https://x.com/AIandDesign">@AIandDesign</a> · ♥ 28 · <a href="https://x.com/AIandDesign/status/2122108555356778615">게시물</a></sub><br>
-<sub>포켓몬에서 영감을 받은 K-5 수학 연습·튜터링 게임. MIT 오픈소스로 온라인에서 하거나 로컬에서 실행할 수 있다.</sub><br>
-<sub><a href="https://github.com/TheMarco/monstermath">소스 코드</a></sub>
+<sub>포켓몬에서 영감을 받은 K-5 수학 연습·튜터링 게임. MIT 오픈소스로 온라인에서 하거나 로컬에서 실행할 수 있다.</sub>
 </td>
 </tr>
 <tr>

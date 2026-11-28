@@ -148,7 +148,7 @@
 <td width="33%" valign="top">
 <a href="https://x.com/M__Houser/status/2120253236309569696"><img src="../assets/gifs/154.gif" width="100%" alt="Age of Dragon、非プログラマーが作ったオープンワールド"></a><br>
 <b><a href="https://x.com/M__Houser/status/2120253236309569696">Age of Dragon、非プログラマーが作ったオープンワールド</a></b><br>
-<sub><a href="https://x.com/M__Houser">@M__Houser</a> · ♥ 2.7k · <a href="https://x.com/M__Houser/status/2120253236309569696">▶ 動画</a></sub><br>
+<sub><a href="https://x.com/M__Houser">@M__Houser</a> · ♥ 2.8k · <a href="https://x.com/M__Houser/status/2120253236309569696">▶ 動画</a></sub><br>
 <br>
 <sub><a href="https://fablelist.000ooo.ooo/ja/prompts/?w=age-of-dragon-an-open-world-by-a&ref=gh"><b>✨ プロンプトを入手</b></a></sub>
 </td>
@@ -258,7 +258,7 @@
 <td width="33%" valign="top">
 <a href="https://x.com/Thaxnay/status/2123487166831734894"><img src="../assets/gifs/376.gif" width="100%" alt="『ラーマーヤナ』をキャラクターアクションゲームに"></a><br>
 <b><a href="https://x.com/Thaxnay/status/2123487166831734894">『ラーマーヤナ』をキャラクターアクションゲームに</a></b><br>
-<sub><a href="https://x.com/Thaxnay">@Thaxnay</a> · ♥ 1.7k · <a href="https://x.com/Thaxnay/status/2123487166831734894">▶ 動画</a></sub><br>
+<sub><a href="https://x.com/Thaxnay">@Thaxnay</a> · ♥ 1.8k · <a href="https://x.com/Thaxnay/status/2123487166831734894">▶ 動画</a></sub><br>
 
 </td>
 <td width="33%" valign="top">
@@ -301,7 +301,7 @@
 <td width="33%" valign="top">
 <a href="https://x.com/ChrisGPT/status/2122866766590173419"><img src="../assets/gifs/346.gif" width="100%" alt="4 日で作った水中漂流サバイバルゲーム"></a><br>
 <b><a href="https://x.com/ChrisGPT/status/2122866766590173419">4 日で作った水中漂流サバイバルゲーム</a></b><br>
-<sub><a href="https://x.com/ChrisGPT">@ChrisGPT</a> · ♥ 1.6k · <a href="https://x.com/ChrisGPT/status/2122866766590173419">▶ 動画</a></sub><br>
+<sub><a href="https://x.com/ChrisGPT">@ChrisGPT</a> · ♥ 1.5k · <a href="https://x.com/ChrisGPT/status/2122866766590173419">▶ 動画</a></sub><br>
 
 </td>
 <td width="33%" valign="top">
@@ -364,24 +364,24 @@
 <sub><a href="https://x.com/xikhar/status/2119966147328299284">📝 作者公開のプロンプト（無料）</a></sub>
 </td>
 <td width="33%" valign="top">
+<a href="https://x.com/Stefan_3D_AI/status/2125493150517268588"><img src="../assets/gifs/408.gif" width="100%" alt="AIスカルプト：Blenderで本物のブラシストローク32,139回"></a><br>
+<b><a href="https://x.com/Stefan_3D_AI/status/2125493150517268588">AIスカルプト：Blenderで本物のブラシストローク32,139回</a></b><br>
+<sub><a href="https://x.com/Stefan_3D_AI">@Stefan_3D_AI</a> · ♥ 1.2k · <a href="https://x.com/Stefan_3D_AI/status/2125493150517268588">▶ 動画</a></sub><br>
+
+</td>
+<td width="33%" valign="top">
 <a href="https://x.com/KHvostikk/status/2119939061049889130"><img src="../assets/gifs/215.gif" width="100%" alt="動画から 3D アニメーションへ"></a><br>
 <b><a href="https://x.com/KHvostikk/status/2119939061049889130">動画から 3D アニメーションへ</a></b><br>
 <sub><a href="https://x.com/KHvostikk">@KHvostikk</a> · ♥ 1.2k · <a href="https://x.com/KHvostikk/status/2119939061049889130">▶ 動画</a></sub><br>
 <br>
 <sub><a href="https://fablelist.000ooo.ooo/ja/prompts/?w=video-to-3d-animation&ref=gh"><b>✨ プロンプトを入手</b></a></sub>
 </td>
-<td width="33%" valign="top">
-<a href="https://x.com/Stefan_3D_AI/status/2125493150517268588"><img src="../assets/gifs/408.gif" width="100%" alt="AIスカルプト：Blenderで本物のブラシストローク32,139回"></a><br>
-<b><a href="https://x.com/Stefan_3D_AI/status/2125493150517268588">AIスカルプト：Blenderで本物のブラシストローク32,139回</a></b><br>
-<sub>🆕 · <a href="https://x.com/Stefan_3D_AI">@Stefan_3D_AI</a> · ♥ 1.2k · <a href="https://x.com/Stefan_3D_AI/status/2125493150517268588">▶ 動画</a></sub><br>
-
-</td>
 </tr>
 <tr>
 <td width="33%" valign="top">
 <a href="https://x.com/hectorVFX/status/2125250192773390610"><img src="../assets/gifs/405.gif" width="100%" alt="スマホに話しかけて指示し、BlenderとUnreal Engineで作った燃える家のシーン"></a><br>
 <b><a href="https://x.com/hectorVFX/status/2125250192773390610">スマホに話しかけて指示し、BlenderとUnreal Engineで作った燃える家のシーン</a></b><br>
-<sub>🆕 · <a href="https://x.com/hectorVFX">@hectorVFX</a> · ♥ 1.2k · <a href="https://x.com/hectorVFX/status/2125250192773390610">▶ 動画</a></sub><br>
+<sub><a href="https://x.com/hectorVFX">@hectorVFX</a> · ♥ 1.2k · <a href="https://x.com/hectorVFX/status/2125250192773390610">▶ 動画</a></sub><br>
 
 </td>
 <td width="33%" valign="top">
@@ -429,13 +429,13 @@
 <td width="33%" valign="top">
 <a href="https://x.com/AstrablueAI/status/2121635642836918385"><img src="../assets/gifs/292.gif" width="100%" alt="FABLE-OUS：一発で作ったミュージックビデオ"></a><br>
 <b><a href="https://x.com/AstrablueAI/status/2121635642836918385">FABLE-OUS：一発で作ったミュージックビデオ</a></b><br>
-<sub><a href="https://x.com/AstrablueAI">@AstrablueAI</a> · ♥ 928 · <a href="https://x.com/AstrablueAI/status/2121635642836918385">▶ 動画</a></sub><br>
+<sub><a href="https://x.com/AstrablueAI">@AstrablueAI</a> · ♥ 934 · <a href="https://x.com/AstrablueAI/status/2121635642836918385">▶ 動画</a></sub><br>
 
 </td>
 <td width="33%" valign="top">
 <a href="https://x.com/maxt3chno/status/2123157986713747468"><img src="../assets/gifs/354.gif" width="100%" alt="5 時間で作ったジェットスキーを GTA 6 と比較"></a><br>
 <b><a href="https://x.com/maxt3chno/status/2123157986713747468">5 時間で作ったジェットスキーを GTA 6 と比較</a></b><br>
-<sub><a href="https://x.com/maxt3chno">@maxt3chno</a> · ♥ 922 · <a href="https://x.com/maxt3chno/status/2123157986713747468">▶ 動画</a></sub><br>
+<sub><a href="https://x.com/maxt3chno">@maxt3chno</a> · ♥ 920 · <a href="https://x.com/maxt3chno/status/2123157986713747468">▶ 動画</a></sub><br>
 
 </td>
 </tr>
@@ -450,7 +450,7 @@
 <td width="33%" valign="top">
 <a href="https://x.com/kinderlayer/status/2120112222227648957"><img src="../assets/gifs/116.gif" width="100%" alt="カーペットからライオン（Fable vs Gemini）"></a><br>
 <b><a href="https://x.com/kinderlayer/status/2120112222227648957">カーペットからライオン（Fable vs Gemini）</a></b><br>
-<sub><a href="https://x.com/kinderlayer">@kinderlayer</a> · ♥ 878 · <a href="https://x.com/kinderlayer/status/2120112222227648957">▶ 動画</a></sub><br>
+<sub><a href="https://x.com/kinderlayer">@kinderlayer</a> · ♥ 877 · <a href="https://x.com/kinderlayer/status/2120112222227648957">▶ 動画</a></sub><br>
 <br>
 <sub><a href="https://fablelist.000ooo.ooo/ja/prompts/?w=lion-from-a-carpet-fable-vs-gemini&ref=gh"><b>✨ プロンプトを入手</b></a></sub>
 </td>
@@ -488,7 +488,7 @@
 <td width="33%" valign="top">
 <a href="https://x.com/fabianstelzer/status/2125461266999476224"><img src="../assets/gifs/409.gif" width="100%" alt="「Tuesday」：MS Paint風で描くシンギュラリティの短編映画"></a><br>
 <b><a href="https://x.com/fabianstelzer/status/2125461266999476224">「Tuesday」：MS Paint風で描くシンギュラリティの短編映画</a></b><br>
-<sub>🆕 · <a href="https://x.com/fabianstelzer">@fabianstelzer</a> · ♥ 792 · <a href="https://x.com/fabianstelzer/status/2125461266999476224">▶ 動画</a></sub><br>
+<sub><a href="https://x.com/fabianstelzer">@fabianstelzer</a> · ♥ 792 · <a href="https://x.com/fabianstelzer/status/2125461266999476224">▶ 動画</a></sub><br>
 
 </td>
 <td width="33%" valign="top">
@@ -546,7 +546,7 @@
 <td width="33%" valign="top">
 <a href="https://x.com/adamdotnew/status/2120071630139621540"><img src="../assets/gifs/157.gif" width="100%" alt="たまごっち：基板、筐体、レンダリング"></a><br>
 <b><a href="https://x.com/adamdotnew/status/2120071630139621540">たまごっち：基板、筐体、レンダリング</a></b><br>
-<sub><a href="https://x.com/adamdotnew">@adamdotnew</a> · ♥ 704 · <a href="https://x.com/adamdotnew/status/2120071630139621540">▶ 動画</a></sub><br>
+<sub><a href="https://x.com/adamdotnew">@adamdotnew</a> · ♥ 705 · <a href="https://x.com/adamdotnew/status/2120071630139621540">▶ 動画</a></sub><br>
 <br>
 <sub><a href="https://fablelist.000ooo.ooo/ja/prompts/?w=a-tamagotchi-pcb-enclosure-and-render&ref=gh"><b>✨ プロンプトを入手</b></a></sub>
 </td>
@@ -600,7 +600,7 @@
 <td width="33%" valign="top">
 <a href="https://x.com/theo/status/2120104895646937409"><img src="../assets/gifs/075.gif" width="100%" alt="デザインになったデータパイプラインの解説記事"></a><br>
 <b><a href="https://x.com/theo/status/2120104895646937409">デザインになったデータパイプラインの解説記事</a></b><br>
-<sub><a href="https://x.com/theo">@theo</a> · ♥ 639 · <a href="https://x.com/theo/status/2120104895646937409">▶ 動画</a></sub><br>
+<sub><a href="https://x.com/theo">@theo</a> · ♥ 638 · <a href="https://x.com/theo/status/2120104895646937409">▶ 動画</a></sub><br>
 <br>
 <sub><a href="https://fablelist.000ooo.ooo/ja/prompts/?w=a-data-pipeline-write-up-that-became-a&ref=gh"><b>✨ プロンプトを入手</b></a></sub>
 </td>
@@ -659,7 +659,7 @@
 <td width="33%" valign="top">
 <a href="https://x.com/thomaszhou_/status/2120389154970509666"><img src="../assets/gifs/162.gif" width="100%" alt="「Beauty」、1 文から作った短編"></a><br>
 <b><a href="https://x.com/thomaszhou_/status/2120389154970509666">「Beauty」、1 文から作った短編</a></b><br>
-<sub><a href="https://x.com/thomaszhou_">@thomaszhou_</a> · ♥ 544 · <a href="https://x.com/thomaszhou_/status/2120389154970509666">▶ 動画</a></sub><br>
+<sub><a href="https://x.com/thomaszhou_">@thomaszhou_</a> · ♥ 543 · <a href="https://x.com/thomaszhou_/status/2120389154970509666">▶ 動画</a></sub><br>
 <br>
 <sub><a href="https://x.com/thomaszhou_/status/2120389154970509666">📝 作者公開のプロンプト（無料）</a></sub>
 </td>
@@ -711,7 +711,7 @@
 <td width="33%" valign="top">
 <a href="https://x.com/jeanalexandre_b/status/2120783430606840084"><img src="../assets/gifs/287.gif" width="100%" alt="10 万個の色の点で写真を描き直す、コードだけで"></a><br>
 <b><a href="https://x.com/jeanalexandre_b/status/2120783430606840084">10 万個の色の点で写真を描き直す、コードだけで</a></b><br>
-<sub><a href="https://x.com/jeanalexandre_b">@jeanalexandre_b</a> · ♥ 480 · <a href="https://x.com/jeanalexandre_b/status/2120783430606840084">▶ 動画</a></sub><br>
+<sub><a href="https://x.com/jeanalexandre_b">@jeanalexandre_b</a> · ♥ 481 · <a href="https://x.com/jeanalexandre_b/status/2120783430606840084">▶ 動画</a></sub><br>
 
 </td>
 <td width="33%" valign="top">
@@ -730,6 +730,12 @@
 </tr>
 <tr>
 <td width="33%" valign="top">
+<a href="https://x.com/LongLeRobot/status/2126094850835534049"><img src="../assets/gifs/421.gif" width="100%" alt="Fable 5.2をSO-101ロボットアームにつなぎ、4本のマーカーで黄仁勲（ジェンスン・フアン）を描かせる。コードとシミュレーション付き"></a><br>
+<b><a href="https://x.com/LongLeRobot/status/2126094850835534049">Fable 5.2をSO-101ロボットアームにつなぎ、4本のマーカーで黄仁勲（ジェンスン・フアン）を描かせる。コードとシミュレーション付き</a></b><br>
+<sub>🆕 · <a href="https://x.com/LongLeRobot">@LongLeRobot</a> · ♥ 475 · <a href="https://x.com/LongLeRobot/status/2126094850835534049">▶ 動画</a></sub><br>
+
+</td>
+<td width="33%" valign="top">
 <a href="https://x.com/Stefan_3D_AI/status/2120773803869659150"><img src="../assets/gifs/244.gif" width="100%" alt="6 分でプロンプトからシームレスな PBR マテリアルへ"></a><br>
 <b><a href="https://x.com/Stefan_3D_AI/status/2120773803869659150">6 分でプロンプトからシームレスな PBR マテリアルへ</a></b><br>
 <sub><a href="https://x.com/Stefan_3D_AI">@Stefan_3D_AI</a> · ♥ 471 · <a href="https://x.com/Stefan_3D_AI/status/2120773803869659150">▶ 動画</a></sub><br>
@@ -743,14 +749,14 @@
 <sub>声もグラフィックも、すべて。</sub><br>
 <sub><a href="https://fablelist.000ooo.ooo/ja/prompts/?w=a-whole-movie-in-code&ref=gh"><b>✨ プロンプトを入手</b></a></sub>
 </td>
+</tr>
+<tr>
 <td width="33%" valign="top">
 <a href="https://x.com/withbassam/status/2121536898976100486"><img src="../assets/gifs/312.gif" width="100%" alt="アラビア語由来の星の名前の星図"></a><br>
 <b><a href="https://x.com/withbassam/status/2121536898976100486">アラビア語由来の星の名前の星図</a></b><br>
-<sub><a href="https://x.com/withbassam">@withbassam</a> · ♥ 459 · <a href="https://x.com/withbassam/status/2121536898976100486">▶ 動画</a></sub><br>
+<sub><a href="https://x.com/withbassam">@withbassam</a> · ♥ 460 · <a href="https://x.com/withbassam/status/2121536898976100486">▶ 動画</a></sub><br>
 
 </td>
-</tr>
-<tr>
 <td width="33%" valign="top">
 <a href="https://x.com/amrnth0/status/2120849097871810973"><img src="../assets/gifs/284.gif" width="100%" alt="Railway ハッキング事件をアニメで解説"></a><br>
 <b><a href="https://x.com/amrnth0/status/2120849097871810973">Railway ハッキング事件をアニメで解説</a></b><br>
@@ -760,17 +766,17 @@
 <td width="33%" valign="top">
 <a href="https://x.com/so_ainsight/status/2121970275353010214"><img src="../assets/gifs/343.gif" width="100%" alt="Higgsfield も HeyGen も使わない AI アバター動画"></a><br>
 <b><a href="https://x.com/so_ainsight/status/2121970275353010214">Higgsfield も HeyGen も使わない AI アバター動画</a></b><br>
-<sub><a href="https://x.com/so_ainsight">@so_ainsight</a> · ♥ 450 · <a href="https://x.com/so_ainsight/status/2121970275353010214">▶ 動画</a></sub><br>
-
-</td>
-<td width="33%" valign="top">
-<a href="https://x.com/gclue_akira/status/2124072507074646146"><img src="../assets/gifs/385.gif" width="100%" alt="Fable 5.2 が運転モデルの重みを書き換え、左側通行もできるようにした"></a><br>
-<b><a href="https://x.com/gclue_akira/status/2124072507074646146">Fable 5.2 が運転モデルの重みを書き換え、左側通行もできるようにした</a></b><br>
-<sub><a href="https://x.com/gclue_akira">@gclue_akira</a> · ♥ 450 · <a href="https://x.com/gclue_akira/status/2124072507074646146">▶ 動画</a></sub><br>
+<sub><a href="https://x.com/so_ainsight">@so_ainsight</a> · ♥ 451 · <a href="https://x.com/so_ainsight/status/2121970275353010214">▶ 動画</a></sub><br>
 
 </td>
 </tr>
 <tr>
+<td width="33%" valign="top">
+<a href="https://x.com/gclue_akira/status/2124072507074646146"><img src="../assets/gifs/385.gif" width="100%" alt="Fable 5.2 が運転モデルの重みを書き換え、左側通行もできるようにした"></a><br>
+<b><a href="https://x.com/gclue_akira/status/2124072507074646146">Fable 5.2 が運転モデルの重みを書き換え、左側通行もできるようにした</a></b><br>
+<sub><a href="https://x.com/gclue_akira">@gclue_akira</a> · ♥ 451 · <a href="https://x.com/gclue_akira/status/2124072507074646146">▶ 動画</a></sub><br>
+
+</td>
 <td width="33%" valign="top">
 <a href="https://x.com/Vtuber7144/status/2121739961938428167"><img src="../assets/gifs/305.gif" width="100%" alt="ノイズだらけの参考素材をきれいなセルルックに"></a><br>
 <b><a href="https://x.com/Vtuber7144/status/2121739961938428167">ノイズだらけの参考素材をきれいなセルルックに</a></b><br>
@@ -780,18 +786,18 @@
 <td width="33%" valign="top">
 <a href="https://x.com/solotechdev/status/2120071690482794603"><img src="../assets/gifs/096.gif" width="100%" alt="SwiftUI の瞳の色アプリ"></a><br>
 <b><a href="https://x.com/solotechdev/status/2120071690482794603">SwiftUI の瞳の色アプリ</a></b><br>
-<sub><a href="https://x.com/solotechdev">@solotechdev</a> · ♥ 433 · <a href="https://x.com/solotechdev/status/2120071690482794603">▶ 動画</a></sub><br>
+<sub><a href="https://x.com/solotechdev">@solotechdev</a> · ♥ 432 · <a href="https://x.com/solotechdev/status/2120071690482794603">▶ 動画</a></sub><br>
 <br>
 <sub><a href="https://fablelist.000ooo.ooo/ja/prompts/?w=swiftui-eye-color-app&ref=gh"><b>✨ プロンプトを入手</b></a></sub>
 </td>
+</tr>
+<tr>
 <td width="33%" valign="top">
 <a href="https://x.com/gavinpurcell/status/2120581152054583369"><img src="../assets/gifs/285.gif" width="100%" alt="喉スパゲッティ・ウエスタン 第2章"></a><br>
 <b><a href="https://x.com/gavinpurcell/status/2120581152054583369">喉スパゲッティ・ウエスタン 第2章</a></b><br>
 <sub><a href="https://x.com/gavinpurcell">@gavinpurcell</a> · ♥ 430 · <a href="https://x.com/gavinpurcell/status/2120581152054583369">▶ 動画</a></sub><br>
 
 </td>
-</tr>
-<tr>
 <td width="33%" valign="top">
 <a href="https://x.com/jsnnsa/status/2120161161803088061"><img src="../assets/gifs/164.gif" width="100%" alt="フォントをデザインし、そのドキュメンタリーまで"></a><br>
 <b><a href="https://x.com/jsnnsa/status/2120161161803088061">フォントをデザインし、そのドキュメンタリーまで</a></b><br>
@@ -806,26 +812,20 @@
 <sub>Python 約 4,800 行、444 フレーム。</sub><br>
 <sub><a href="https://fablelist.000ooo.ooo/ja/prompts/?w=pelican-riding-a-bicycle-in-blender&ref=gh"><b>✨ プロンプトを入手</b></a></sub>
 </td>
+</tr>
+<tr>
 <td width="33%" valign="top">
 <a href="https://x.com/seftsaint/status/2121931382255755691"><img src="../assets/gifs/306.gif" width="100%" alt="ゲーム Ashira2093 の街めぐり"></a><br>
 <b><a href="https://x.com/seftsaint/status/2121931382255755691">ゲーム Ashira2093 の街めぐり</a></b><br>
 <sub><a href="https://x.com/seftsaint">@seftsaint</a> · ♥ 376 · <a href="https://x.com/seftsaint/status/2121931382255755691">▶ 動画</a></sub><br>
 
 </td>
-</tr>
-<tr>
 <td width="33%" valign="top">
 <a href="https://x.com/Izkimar/status/2119931740940640542"><img src="../assets/gifs/079.gif" width="100%" alt="1 日で作ったスタイライズ MMO ワールド"></a><br>
 <b><a href="https://x.com/Izkimar/status/2119931740940640542">1 日で作ったスタイライズ MMO ワールド</a></b><br>
 <sub><a href="https://x.com/Izkimar">@Izkimar</a> · ♥ 369 · <a href="https://x.com/Izkimar/status/2119931740940640542">▶ 動画</a></sub><br>
 <br>
 <sub><a href="https://fablelist.000ooo.ooo/ja/prompts/?w=a-stylized-mmo-world-in-a-day&ref=gh"><b>✨ プロンプトを入手</b></a></sub>
-</td>
-<td width="33%" valign="top">
-<a href="https://x.com/LongLeRobot/status/2126094850835534049"><img src="../assets/gifs/421.gif" width="100%" alt="Fable 5.2をSO-101ロボットアームにつなぎ、4本のマーカーで黄仁勲（ジェンスン・フアン）を描かせる。コードとシミュレーション付き"></a><br>
-<b><a href="https://x.com/LongLeRobot/status/2126094850835534049">Fable 5.2をSO-101ロボットアームにつなぎ、4本のマーカーで黄仁勲（ジェンスン・フアン）を描かせる。コードとシミュレーション付き</a></b><br>
-<sub>🆕 · <a href="https://x.com/LongLeRobot">@LongLeRobot</a> · ♥ 368 · <a href="https://x.com/LongLeRobot/status/2126094850835534049">▶ 動画</a></sub><br>
-
 </td>
 <td width="33%" valign="top">
 <a href="https://x.com/Formulasearch/status/2124831184358445175"><img src="../assets/gifs/400.gif" width="100%" alt="FableとAstraに指示して作ったデジタルツイン都市のジオラマ"></a><br>
@@ -845,13 +845,13 @@
 <td width="33%" valign="top">
 <a href="https://x.com/diegocabezas01/status/2124488567628149034"><img src="../assets/gifs/410.gif" width="100%" alt="夜の尾根で燃える山火事、すべてコードで生成"></a><br>
 <b><a href="https://x.com/diegocabezas01/status/2124488567628149034">夜の尾根で燃える山火事、すべてコードで生成</a></b><br>
-<sub>🆕 · <a href="https://x.com/diegocabezas01">@diegocabezas01</a> · ♥ 314 · <a href="https://x.com/diegocabezas01/status/2124488567628149034">▶ 動画</a></sub><br>
+<sub><a href="https://x.com/diegocabezas01">@diegocabezas01</a> · ♥ 315 · <a href="https://x.com/diegocabezas01/status/2124488567628149034">▶ 動画</a></sub><br>
 
 </td>
 <td width="33%" valign="top">
 <a href="https://x.com/RuslanKyrch/status/2119896220814762218"><img src="../assets/gifs/081.gif" width="100%" alt="アプリのリデザイン、5.1 vs 5.2"></a><br>
 <b><a href="https://x.com/RuslanKyrch/status/2119896220814762218">アプリのリデザイン、5.1 vs 5.2</a></b><br>
-<sub><a href="https://x.com/RuslanKyrch">@RuslanKyrch</a> · ♥ 307 · <a href="https://x.com/RuslanKyrch/status/2119896220814762218">▶ 動画</a></sub><br>
+<sub><a href="https://x.com/RuslanKyrch">@RuslanKyrch</a> · ♥ 306 · <a href="https://x.com/RuslanKyrch/status/2119896220814762218">▶ 動画</a></sub><br>
 <br>
 <sub><a href="https://fablelist.000ooo.ooo/ja/prompts/?w=app-redesign-5-1-vs-5-2&ref=gh"><b>✨ プロンプトを入手</b></a></sub>
 </td>
@@ -919,7 +919,7 @@
 <td width="33%" valign="top">
 <a href="https://x.com/AmirMushich/status/2119903338078564844"><img src="../assets/gifs/086.gif" width="100%" alt="Blender + Reaper のサウンドデザイン"></a><br>
 <b><a href="https://x.com/AmirMushich/status/2119903338078564844">Blender + Reaper のサウンドデザイン</a></b><br>
-<sub><a href="https://x.com/AmirMushich">@AmirMushich</a> · ♥ 240 · <a href="https://x.com/AmirMushich/status/2119903338078564844">▶ 動画</a></sub><br>
+<sub><a href="https://x.com/AmirMushich">@AmirMushich</a> · ♥ 239 · <a href="https://x.com/AmirMushich/status/2119903338078564844">▶ 動画</a></sub><br>
 <br>
 <sub><a href="https://fablelist.000ooo.ooo/ja/prompts/?w=blender-reaper-sound-design&ref=gh"><b>✨ プロンプトを入手</b></a></sub>
 </td>
@@ -1020,7 +1020,7 @@
 <td width="33%" valign="top">
 <a href="https://x.com/techartist_/status/2119946891106394518"><img src="../assets/gifs/102.gif" width="100%" alt="ゲーム機コンセプト 4 種"></a><br>
 <b><a href="https://x.com/techartist_/status/2119946891106394518">ゲーム機コンセプト 4 種</a></b><br>
-<sub><a href="https://x.com/techartist_">@techartist_</a> · ♥ 138 · <a href="https://x.com/techartist_/status/2119946891106394518">▶ 動画</a></sub><br>
+<sub><a href="https://x.com/techartist_">@techartist_</a> · ♥ 139 · <a href="https://x.com/techartist_/status/2119946891106394518">▶ 動画</a></sub><br>
 <sub>VFX、メカニクス、物理のテスト。</sub><br>
 <sub><a href="https://fablelist.000ooo.ooo/ja/prompts/?w=four-game-machine-concepts&ref=gh"><b>✨ プロンプトを入手</b></a></sub>
 </td>
@@ -1050,7 +1050,7 @@
 <td width="33%" valign="top">
 <a href="https://x.com/guanmo_ai/status/2119989925038985382"><img src="../assets/gifs/115.gif" width="100%" alt="音ありで見る作品"></a><br>
 <b><a href="https://x.com/guanmo_ai/status/2119989925038985382">音ありで見る作品</a></b><br>
-<sub><a href="https://x.com/guanmo_ai">@guanmo_ai</a> · ♥ 123 · <a href="https://x.com/guanmo_ai/status/2119989925038985382">▶ 動画</a></sub><br>
+<sub><a href="https://x.com/guanmo_ai">@guanmo_ai</a> · ♥ 122 · <a href="https://x.com/guanmo_ai/status/2119989925038985382">▶ 動画</a></sub><br>
 <br>
 <sub><a href="https://fablelist.000ooo.ooo/ja/prompts/?w=sound-on-piece&ref=gh"><b>✨ プロンプトを入手</b></a></sub>
 </td>

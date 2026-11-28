@@ -1,4 +1,4 @@
-# 🧰 Webseiten & Tools · alle 59
+# 🧰 Webseiten & Tools · alle 60
 
 [← Zurück zur Liste](../README.de.md) · [English](web-and-tools.md) · [简体中文](web-and-tools.zh-CN.md) · [繁體中文](web-and-tools.zh-TW.md) · [日本語](web-and-tools.ja.md) · [한국어](web-and-tools.ko.md) · [Español](web-and-tools.es.md) · [Português](web-and-tools.pt-BR.md) · [Français](web-and-tools.fr.md) · **Deutsch** · [Русский](web-and-tools.ru.md)
 
@@ -103,13 +103,13 @@ Die Hauptseite zeigt pro Bereich höchstens die 24 Einträge mit den meisten Lik
 <td width="33%" valign="top">
 <a href="https://github.com/deedy/chess-chatarunga"><img src="../assets/gifs/420.gif" width="100%" alt="Chatarunga — eine abhängigkeitsfreie Schach-Engine in Rust"></a><br>
 <b><a href="https://github.com/deedy/chess-chatarunga">Chatarunga — eine abhängigkeitsfreie Schach-Engine in Rust</a></b><br>
-<sub>🆕 · <a href="https://x.com/deedydas">@deedydas</a> · ♥ 761 · <a href="https://x.com/deedydas/status/2126140365208224057">Post</a></sub><br>
+<sub>🆕 · <a href="https://x.com/deedydas">@deedydas</a> · ♥ 869 · <a href="https://x.com/deedydas/status/2126140365208224057">Post</a></sub><br>
 <sub>Eine von Grund auf in Rust geschriebene Schach-Engine ohne Abhängigkeiten, ELO 3533, unter den Top 50–100 weltweit. Sie holt 37% gegen die Nummer-eins-Engine Stockfish und setzt sie in 7% der Partien matt. Vollständig Open Source, erstellt mit rund 50 $ Rechenleistung über Fable und einige weitere Werkzeuge.</sub>
 </td>
 <td width="33%" valign="top">
 <a href="https://hexagonal.earth"><img src="../assets/gifs/349.gif" width="100%" alt="Hexagonal Earth"></a><br>
 <b><a href="https://hexagonal.earth">Hexagonal Earth</a></b><br>
-<sub><a href="https://x.com/avsa">@avsa</a> · ♥ 756 · <a href="https://x.com/avsa/status/2123123638551392755">Post</a></sub><br>
+<sub><a href="https://x.com/avsa">@avsa</a> · ♥ 757 · <a href="https://x.com/avsa/status/2123123638551392755">Post</a></sub><br>
 <sub>Ein Diorama der ganzen Welt aus Sechsecken, gebaut aus echten Daten zu Höhe, Meerestiefe, Luftfeuchtigkeit, Wind und Flüssen. Fable 5.2 hat Hunderte kleiner 3D-Pixel-Splat-Objekte erzeugt und selbst in der Szene platziert.</sub>
 </td>
 <td width="33%" valign="top">
@@ -131,7 +131,7 @@ Die Hauptseite zeigt pro Bereich höchstens die 24 Einträge mit den meisten Lik
 <td width="33%" valign="top">
 <a href="https://auden-english-135.netlify.app/"><img src="../assets/gifs/281.gif" width="100%" alt="Audens verlorener Lyrikkurs von 1941, rekonstruiert"></a><br>
 <b><a href="https://auden-english-135.netlify.app/">Audens verlorener Lyrikkurs von 1941, rekonstruiert</a></b><br>
-<sub><a href="https://x.com/emollick">@emollick</a> · ♥ 594 · <a href="https://x.com/emollick/status/2121641417483169934">Post</a></sub><br>
+<sub><a href="https://x.com/emollick">@emollick</a> · ♥ 593 · <a href="https://x.com/emollick/status/2121641417483169934">Post</a></sub><br>
 <sub>Fable 5.2 rekonstruierte W. H. Audens Kurs, den „schwersten in den Geisteswissenschaften“, aus einem obskuren Buch im Internet Archive und verstreuten Notizen.</sub>
 </td>
 <td width="33%" valign="top">
@@ -173,7 +173,7 @@ Die Hauptseite zeigt pro Bereich höchstens die 24 Einträge mit den meisten Lik
 <td width="33%" valign="top">
 <a href="https://gsplan.org"><img src="../assets/gifs/206.gif" width="100%" alt="Galatasaray-Sitzplatzansicht"></a><br>
 <b><a href="https://gsplan.org">Galatasaray-Sitzplatzansicht</a></b><br>
-<sub><a href="https://x.com/molenbeek84">@molenbeek84</a> · ♥ 429 · <a href="https://x.com/molenbeek84/status/2120847639411331097">Post</a></sub><br>
+<sub><a href="https://x.com/molenbeek84">@molenbeek84</a> · ♥ 430 · <a href="https://x.com/molenbeek84/status/2120847639411331097">Post</a></sub><br>
 <sub>Sieh die Aussicht aufs Spielfeld von jedem Block im RAMS Park, bevor du ein Ticket kaufst.</sub><br>
 <sub><a href="https://fablelist.000ooo.ooo/de/prompts/?w=galatasaray-seat-view&ref=gh"><b>✨ Prompt holen</b></a></sub>
 </td>
@@ -200,13 +200,19 @@ Die Hauptseite zeigt pro Bereich höchstens die 24 Einträge mit den meisten Lik
 <sub><a href="https://fablelist.000ooo.ooo/de/prompts/?w=origami-helper&ref=gh"><b>✨ Prompt holen</b></a></sub>
 </td>
 <td width="33%" valign="top">
+<a href="https://assetora.vercel.app"><img src="../assets/gifs/423.gif" width="100%" alt="Assetora — ein in zwei Tagen gebautes Asset-Dashboard"></a><br>
+<b><a href="https://assetora.vercel.app">Assetora — ein in zwei Tagen gebautes Asset-Dashboard</a></b><br>
+<sub>🆕 · <a href="https://x.com/marcelkargul">@marcelkargul</a> · ♥ 215 · <a href="https://x.com/marcelkargul/status/2126119817849815490">Post</a></sub><br>
+<sub>Ein vollständiges Dashboard zur Vermögensverwaltung, in etwa zwei Tagen mit Next.js, Claude Fable 5.2 und zwei designorientierten Skills gebaut. Im Browser öffnet es sich direkt als funktionierendes Dashboard.</sub>
+</td>
+</tr>
+<tr>
+<td width="33%" valign="top">
 <a href="https://claude.ai/artifact/5ki5nJzDaayYMNhxymZBNT"><img src="../assets/gifs/378.gif" width="100%" alt="Slow Plant Synth"></a><br>
 <b><a href="https://claude.ai/artifact/5ki5nJzDaayYMNhxymZBNT">Slow Plant Synth</a></b><br>
 <sub><a href="https://x.com/parhelion318">@parhelion318</a> · ♥ 208 · <a href="https://x.com/parhelion318/status/2123982460090503626">▶ Video</a></sub><br>
 <sub>Eine simulierte Pflanze, die je nach Standort, Uhrzeit und simuliertem Wetter wächst und über Tage ihre eigenen Klänge erzeugt. Gebaut mit Fable 5.2 und Opus 5.5.</sub>
 </td>
-</tr>
-<tr>
 <td width="33%" valign="top">
 <a href="https://typed.page/"><img src="../assets/gifs/036.gif" width="100%" alt="Typed"></a><br>
 <b><a href="https://typed.page/">Typed</a></b><br>
@@ -221,14 +227,14 @@ Die Hauptseite zeigt pro Bereich höchstens die 24 Einträge mit den meisten Lik
 <sub>Ein schlagendes 3D-Herz mit Live-EKG- und Druckkurven sowie Herztönen; vergleiche normal, Vorhofflimmern, Herzblock und Aortenstenose. Es hat auch seine eigenen Tests geschrieben.</sub><br>
 <sub><a href="https://fablelist.000ooo.ooo/de/prompts/?w=one-heartbeat&ref=gh"><b>✨ Prompt holen</b></a></sub>
 </td>
+</tr>
+<tr>
 <td width="33%" valign="top">
 <a href="https://stormy.ai/hands"><img src="../assets/gifs/316.gif" width="100%" alt="Hands: wie eine Roboterhand funktioniert"></a><br>
 <b><a href="https://stormy.ai/hands">Hands: wie eine Roboterhand funktioniert</a></b><br>
 <sub><a href="https://x.com/Karmedge">@Karmedge</a> · ♥ 151 · <a href="https://x.com/Karmedge/status/2122394153497842080">▶ Video</a></sub><br>
 <sub>Eine interaktive Erklärseite dazu, wie die Hand eines humanoiden Roboters funktioniert, warum sie schwer zu bauen ist und was sie kostet. Mit über 1 Milliarde Tokens gebaut.</sub>
 </td>
-</tr>
-<tr>
 <td width="33%" valign="top">
 <a href="https://motionsites.ai/?prompt=vante-ribbon-hero"><img src="../assets/gifs/048.gif" width="100%" alt="Ribbon Hero"></a><br>
 <b><a href="https://motionsites.ai/?prompt=vante-ribbon-hero">Ribbon Hero</a></b><br>
@@ -242,14 +248,14 @@ Die Hauptseite zeigt pro Bereich höchstens die 24 Einträge mit den meisten Lik
 <sub>Überträgt die Bewegungen eines KI-Videoclips auf ein echtes 3D-Rig – ohne Mocap-Anzug, ohne Keyframes. Open Source.</sub><br>
 <sub><a href="https://fablelist.000ooo.ooo/de/prompts/?w=anymove&ref=gh"><b>✨ Prompt holen</b></a></sub>
 </td>
+</tr>
+<tr>
 <td width="33%" valign="top">
 <a href="https://seats.movie"><img src="../assets/gifs/370.gif" width="100%" alt="seats.movie"></a><br>
 <b><a href="https://seats.movie">seats.movie</a></b><br>
 <sub><a href="https://x.com/sunithvs_">@sunithvs_</a> · ♥ 133 · <a href="https://x.com/sunithvs_/status/2123496822400532982">▶ Video</a></sub><br>
 <sub>Film auswählen, und es prüft jede Vorstellung in deiner Stadt auf noch freie Plätze in der Mitte – mit 3D-Blick vom Sitz aus. Laut Autor lief Fable 5.2 dafür fünf Tage lang.</sub>
 </td>
-</tr>
-<tr>
 <td width="33%" valign="top">
 <a href="https://nikechan.com/"><img src="../assets/gifs/049.gif" width="100%" alt="nikechan.com Redesign"></a><br>
 <b><a href="https://nikechan.com/">nikechan.com Redesign</a></b><br>
@@ -263,6 +269,8 @@ Die Hauptseite zeigt pro Bereich höchstens die 24 Einträge mit den meisten Lik
 <sub><a href="https://x.com/dejvdesign">@dejvdesign</a> · ♥ 130 · <a href="https://x.com/dejvdesign/status/2122335319634874710">▶ Video</a></sub><br>
 <sub>Eine CRM-Dashboard-Oberfläche mit Live-Interaktionen, entstanden mit @madebymicrodose.</sub>
 </td>
+</tr>
+<tr>
 <td width="33%" valign="top">
 <a href="https://github.com/kanaworksai-hue/harappa"><img src="../assets/gifs/250.gif" width="100%" alt="Harappa (Blender-Add-on)"></a><br>
 <b><a href="https://github.com/kanaworksai-hue/harappa">Harappa (Blender-Add-on)</a></b><br>
@@ -270,8 +278,6 @@ Die Hauptseite zeigt pro Bereich höchstens die 24 Einträge mit den meisten Lik
 <sub>Ein kostenloses Blender-Add-on, das einen kahlen Hügel mit einem Klick in eine Anime-Wiese verwandelt, mit Gras, Blumen, Wolken, Bäumen, Jahreszeiten und Stilen.</sub><br>
 <sub><a href="https://fablelist.000ooo.ooo/de/prompts/?w=harappa-blender-add-on&ref=gh"><b>✨ Prompt holen</b></a></sub>
 </td>
-</tr>
-<tr>
 <td width="33%" valign="top">
 <a href="https://andreysuperiorgit.github.io/v8/"><img src="../assets/gifs/373.gif" width="100%" alt="V8 Four-Stroke"></a><br>
 <b><a href="https://andreysuperiorgit.github.io/v8/">V8 Four-Stroke</a></b><br>
@@ -281,10 +287,12 @@ Die Hauptseite zeigt pro Bereich höchstens die 24 Einträge mit den meisten Lik
 <td width="33%" valign="top">
 <a href="https://hashem-al-ghaili.github.io/music-maker/"><img src="../assets/gifs/383.gif" width="100%" alt="Music Maker — ein Instrument, das man in der Luft spielt"></a><br>
 <b><a href="https://hashem-al-ghaili.github.io/music-maker/">Music Maker — ein Instrument, das man in der Luft spielt</a></b><br>
-<sub><a href="https://x.com/HashemGhaili">@HashemGhaili</a> · ♥ 68 · <a href="https://x.com/HashemGhaili/status/2124135871293329809">▶ Video</a></sub><br>
+<sub><a href="https://x.com/HashemGhaili">@HashemGhaili</a> · ♥ 69 · <a href="https://x.com/HashemGhaili/status/2124135871293329809">▶ Video</a></sub><br>
 <sub>Webcam einschalten, mit beiden Händen greifen und auseinanderziehen, um eine Saite in die Luft zu spannen, eines von 24 Instrumenten wählen und mit der Fingerspitze darüberstreichen. Beats dazunehmen, Loops schichten und das Ergebnis aufnehmen.</sub><br>
 <sub><a href="https://github.com/Hashem-Al-Ghaili/music-maker">Quellcode</a></sub>
 </td>
+</tr>
+<tr>
 <td width="33%" valign="top">
 <a href="https://sael.net/seat-arena"><img src="../assets/gifs/182.gif" width="100%" alt="Best Seat in the House"></a><br>
 <b><a href="https://sael.net/seat-arena">Best Seat in the House</a></b><br>
@@ -292,8 +300,6 @@ Die Hauptseite zeigt pro Bereich höchstens die 24 Einträge mit den meisten Lik
 <sub>Sitzpläne für Konzerte, in denen du die genaue Aussicht von jedem Platz siehst, bevor du kaufst. Voll interaktiv.</sub><br>
 <sub><a href="https://fablelist.000ooo.ooo/de/prompts/?w=best-seat-in-the-house&ref=gh"><b>✨ Prompt holen</b></a></sub>
 </td>
-</tr>
-<tr>
 <td width="33%" valign="top">
 <a href="http://promptronic3000.com"><img src="../assets/gifs/358.gif" width="100%" alt="Promptronic 3000"></a><br>
 <b><a href="http://promptronic3000.com">Promptronic 3000</a></b><br>
@@ -306,6 +312,8 @@ Die Hauptseite zeigt pro Bereich höchstens die 24 Einträge mit den meisten Lik
 <sub><a href="https://x.com/andreysuperior">@andreysuperior</a> · ♥ 54 · <a href="https://x.com/andreysuperior/status/2124274426225008910">▶ Video</a></sub><br>
 <sub>Eine Zeta-Landschaft zum Drehen. 102 Nullstellen werden live im Browser gefunden und geprüft, alle auf einer Linie, und dann aufsummiert, um die Primzahlen wieder aufzubauen. Eine einzige HTML-Datei ohne Bibliotheken.</sub>
 </td>
+</tr>
+<tr>
 <td width="33%" valign="top">
 <a href="https://tetriss22.github.io/pc-build-lab/"><img src="../assets/gifs/147.gif" width="100%" alt="PC Build Lab"></a><br>
 <b><a href="https://tetriss22.github.io/pc-build-lab/">PC Build Lab</a></b><br>
@@ -313,8 +321,6 @@ Die Hauptseite zeigt pro Bereich höchstens die 24 Einträge mit den meisten Lik
 <sub>Baue in 8 Schritten einen Gaming-Rechner für 1.279 $ Teil für Teil in 3D zusammen – und ruiniere ihn absichtlich, bevor du echte Teile anfasst.</sub><br>
 <sub><a href="https://fablelist.000ooo.ooo/de/prompts/?w=pc-build-lab&ref=gh"><b>✨ Prompt holen</b></a></sub>
 </td>
-</tr>
-<tr>
 <td width="33%" valign="top">
 <a href="https://zkevinbai.com/apps/tesla-fsd"><img src="../assets/gifs/394.gif" width="100%" alt="How FSD Drives"></a><br>
 <b><a href="https://zkevinbai.com/apps/tesla-fsd">How FSD Drives</a></b><br>
@@ -327,14 +333,14 @@ Die Hauptseite zeigt pro Bereich höchstens die 24 Einträge mit den meisten Lik
 <sub><a href="https://x.com/parhelion318">@parhelion318</a> · ♥ 30 · <a href="https://x.com/parhelion318/status/2123463622252994878">▶ Video</a></sub><br>
 <sub>Eine Fläche aus Punkten, die sich zum Klang bewegt. Gebaut mit Fable 5.2 und Opus 5.5, geprüft von GPT-6.2 Astra.</sub>
 </td>
+</tr>
+<tr>
 <td width="33%" valign="top">
 <a href="https://shiraeisenberg.com/composed-of-nows"><img src="../assets/gifs/365.gif" width="100%" alt="Composed of Nows"></a><br>
 <b><a href="https://shiraeisenberg.com/composed-of-nows">Composed of Nows</a></b><br>
 <sub><a href="https://x.com/shiraeis">@shiraeis</a> · ♥ 25 · <a href="https://x.com/shiraeis/status/2123562764203589648">▶ Video</a></sub><br>
 <sub>Neun interaktive Arbeiten darüber, wie es sich „anfühlt“, ein Sprachmodell zu sein, entstanden, nachdem es Gedichte lesen sollte. Im ersten Anlauf.</sub>
 </td>
-</tr>
-<tr>
 <td width="33%" valign="top">
 <a href="https://piano.yoshiyukikoyanagi.com"><img src="../assets/gifs/374.gif" width="100%" alt="Physical Modeling Piano F1"></a><br>
 <b><a href="https://piano.yoshiyukikoyanagi.com">Physical Modeling Piano F1</a></b><br>
@@ -345,17 +351,17 @@ Die Hauptseite zeigt pro Bereich höchstens die 24 Einträge mit den meisten Lik
 <td width="33%" valign="top">
 <a href="https://riemann.zondark.com/course"><img src="../assets/gifs/407.gif" width="100%" alt="Die Riemannsche Vermutung — ein 10-Minuten-Kurs zum Mitmachen"></a><br>
 <b><a href="https://riemann.zondark.com/course">Die Riemannsche Vermutung — ein 10-Minuten-Kurs zum Mitmachen</a></b><br>
-<sub>🆕 · <a href="https://x.com/ZondarkAI">@ZondarkAI</a> · ♥ 15 · <a href="https://x.com/ZondarkAI/status/2125506885487034601">▶ Video</a></sub><br>
+<sub><a href="https://x.com/ZondarkAI">@ZondarkAI</a> · ♥ 16 · <a href="https://x.com/ZondarkAI/status/2125506885487034601">▶ Video</a></sub><br>
 <sub>Eine interaktive Lernseite. Zwei Lektionen, in denen jeder Schritt etwas von dir verlangt: Finde selbst die erste nichttriviale Nullstelle bei 14,13 und sieh zu, wie sich 1.000 Nullstellen zur Verteilung der Primzahlen aufaddieren. Auf Chinesisch und Englisch, mit einem Kurzfilm.</sub>
 </td>
+</tr>
+<tr>
 <td width="33%" valign="top">
 <a href="https://ember-vesper.aura.build/"><img src="../assets/gifs/366.gif" width="100%" alt="Ember Vesper"></a><br>
 <b><a href="https://ember-vesper.aura.build/">Ember Vesper</a></b><br>
 <sub><a href="https://x.com/titepommee">@titepommee</a> · ♥ 13 · <a href="https://x.com/titepommee/status/2123515807250657457">▶ Video</a></sub><br>
 <sub>Ein Gaming-PC als Landingpage: Beim Scrollen zerlegt er sich, wechselt sein Leuchten, schaltet auf Wärmebildkamera und schreibt deinen Bestellzettel. Eine einzige HTML-Datei.</sub>
 </td>
-</tr>
-<tr>
 <td width="33%" valign="top">
 <a href="https://ai.itokoba.com/ichimai/"><img src="../assets/gifs/260.gif" width="100%" alt="Ichimai – wie weit kann eine Seite gehen"></a><br>
 <b><a href="https://ai.itokoba.com/ichimai/">Ichimai – wie weit kann eine Seite gehen</a></b><br>
@@ -370,6 +376,8 @@ Die Hauptseite zeigt pro Bereich höchstens die 24 Einträge mit den meisten Lik
 <sub>Jeder der 2,242 Transistoren des Intel 4004 wurde in einer Simulation auf Transistorebene einzeln zerstört. Fahr mit der Maus über einen Transistor auf der Chipkarte und sieh, was dann nicht mehr funktioniert.</sub><br>
 <sub><a href="https://github.com/rain-1/intel4004">Quellcode</a></sub>
 </td>
+</tr>
+<tr>
 <td width="33%" valign="top">
 <a href="https://jwt-designs-preview.noone-697.workers.dev/"><img src="../assets/gifs/046.gif" width="100%" alt="20 Landing-Page-Redesigns"></a><br>
 <b><a href="https://jwt-designs-preview.noone-697.workers.dev/">20 Landing-Page-Redesigns</a></b><br>
@@ -377,8 +385,6 @@ Die Hauptseite zeigt pro Bereich höchstens die 24 Einträge mit den meisten Lik
 <sub>20 Alternativen zur Landing Page eines JWT-Plugins aus einem einfachen Prompt.</sub><br>
 <sub><a href="https://x.com/Tmeister/status/2119983842841018482">📝 Prompt des Creators (kostenlos)</a></sub>
 </td>
-</tr>
-<tr>
 <td width="33%" valign="top">
 <a href="https://www.asumacodes.xyz/arena/driftwood"><img src="../assets/gifs/047.gif" width="100%" alt="Driftwood (Fable vs Opus)"></a><br>
 <b><a href="https://www.asumacodes.xyz/arena/driftwood">Driftwood (Fable vs Opus)</a></b><br>
@@ -393,6 +399,8 @@ Die Hauptseite zeigt pro Bereich höchstens die 24 Einträge mit den meisten Lik
 <sub><a href="https://x.com/seanaiux">@seanaiux</a> · ♥ 8 · <a href="https://x.com/seanaiux/status/2121688869439455410">▶ Video</a></sub><br>
 <sub>Der Auftrag: eine Website, die ihm Angst macht. Eine Spinne lässt sich aus dem Dunkel herab, und beim Scrollen geht es durch ihr Versteck, ihre Augen, Giftzähne und Beine, bis du die Fliege bist.</sub>
 </td>
+</tr>
+<tr>
 <td width="33%" valign="top">
 <a href="https://claude.ai/artifact/TiymxxFXzMo7xhWUaecbzk"><img src="https://pbs.twimg.com/media/HWwrmvIb0AAMLPK.jpg?name=small" width="100%" alt="Entwurf für ein Wohnhaus"></a><br>
 <b><a href="https://claude.ai/artifact/TiymxxFXzMo7xhWUaecbzk">Entwurf für ein Wohnhaus</a></b><br>
@@ -400,8 +408,6 @@ Die Hauptseite zeigt pro Bereich höchstens die 24 Einträge mit den meisten Lik
 <sub>Ein Entwurf für ein freistehendes Haus (auf Koreanisch), an einem Tag entstanden.</sub><br>
 <sub><a href="https://fablelist.000ooo.ooo/de/prompts/?w=house-design-proposal&ref=gh"><b>✨ Prompt holen</b></a></sub>
 </td>
-</tr>
-<tr>
 <td width="33%" valign="top">
 <a href="https://claude.ai/artifact/9yQkezie4jY3oz2YDLFDiq"><img src="../assets/gifs/040.gif" width="100%" alt="Bay Drum Kit"></a><br>
 <b><a href="https://claude.ai/artifact/9yQkezie4jY3oz2YDLFDiq">Bay Drum Kit</a></b><br>
@@ -416,6 +422,8 @@ Die Hauptseite zeigt pro Bereich höchstens die 24 Einträge mit den meisten Lik
 <sub>Ein Versuch.</sub><br>
 <sub><a href="https://fablelist.000ooo.ooo/de/prompts/?w=dub-techno-track-visualizer&ref=gh"><b>✨ Prompt holen</b></a></sub>
 </td>
+</tr>
+<tr>
 <td width="33%" valign="top">
 <a href="https://claude.ai/artifact/5ufHvxgvXTf5YgQeTR8TbG"><img src="../assets/gifs/044.gif" width="100%" alt="Ramayana Family Tree"></a><br>
 <b><a href="https://claude.ai/artifact/5ufHvxgvXTf5YgQeTR8TbG">Ramayana Family Tree</a></b><br>
@@ -423,8 +431,6 @@ Die Hauptseite zeigt pro Bereich höchstens die 24 Einträge mit den meisten Lik
 <sub>Die Verbindungen des Hauptdarstellers durch Blut und Heirat zu 65 Bollywood-Stars.</sub><br>
 <sub><a href="https://fablelist.000ooo.ooo/de/prompts/?w=ramayana-family-tree&ref=gh"><b>✨ Prompt holen</b></a></sub>
 </td>
-</tr>
-<tr>
 <td width="33%" valign="top">
 <a href="https://claude.ai/artifact/4aEy6FtUi7jrm9U7uYgp8K"><img src="../assets/gifs/042.gif" width="100%" alt="Demoscene Demo"></a><br>
 <b><a href="https://claude.ai/artifact/4aEy6FtUi7jrm9U7uYgp8K">Demoscene Demo</a></b><br>

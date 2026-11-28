@@ -62,7 +62,7 @@ Die Hauptseite zeigt pro Bereich höchstens die 24 Einträge mit den meisten Lik
 <td width="33%" valign="top">
 <a href="https://patch.gg/play/blendi/small-magic"><img src="../assets/gifs/274.gif" width="100%" alt="Small Magic — Zauberer-Sandbox"></a><br>
 <b><a href="https://patch.gg/play/blendi/small-magic">Small Magic — Zauberer-Sandbox</a></b><br>
-<sub><a href="https://x.com/BlendiByl">@BlendiByl</a> · ♥ 3.2k · <a href="https://x.com/BlendiByl/status/2121594536153718972">▶ Video</a></sub><br>
+<sub><a href="https://x.com/BlendiByl">@BlendiByl</a> · ♥ 4.2k · <a href="https://x.com/BlendiByl/status/2121594536153718972">▶ Video</a></sub><br>
 <sub>An einem Tag gebaut: 7 Zauber, rund 1.800 zerstörbare Physikteile, keine Modelle oder Texturen, Open Source.</sub>
 </td>
 <td width="33%" valign="top">
@@ -77,7 +77,7 @@ Die Hauptseite zeigt pro Bereich höchstens die 24 Einträge mit den meisten Lik
 <td width="33%" valign="top">
 <a href="https://kevintngo.github.io/procedural-rpg/"><img src="../assets/gifs/401.gif" width="100%" alt="Brushwild — ein prozedurales Open-World-RPG"></a><br>
 <b><a href="https://kevintngo.github.io/procedural-rpg/">Brushwild — ein prozedurales Open-World-RPG</a></b><br>
-<sub>🆕 · <a href="https://x.com/kevin_t_ngo">@kevin_t_ngo</a> · ♥ 2.7k · <a href="https://x.com/kevin_t_ngo/status/2125321244686029289">▶ Video</a></sub><br>
+<sub><a href="https://x.com/kevin_t_ngo">@kevin_t_ngo</a> · ♥ 2.7k · <a href="https://x.com/kevin_t_ngo/status/2125321244686029289">▶ Video</a></sub><br>
 <sub>Ein prozedurales Open-World-Action-RPG in einer einzigen, rund 300kB großen HTML-Datei. Jeder Pixel wird von Shadern im Stil von Feder und Buntstift gezeichnet. Drei Klassen, Skilltrees, Loot, Städte und Dungeons; spielbar am Desktop oder auf dem Handy.</sub><br>
 <sub><a href="https://github.com/kevintngo/procedural-rpg">Quellcode</a></sub>
 </td>
@@ -143,6 +143,13 @@ Die Hauptseite zeigt pro Bereich höchstens die 24 Einträge mit den meisten Lik
 </tr>
 <tr>
 <td width="33%" valign="top">
+<a href="https://kevintngo.github.io/voidlight/"><img src="../assets/gifs/413.gif" width="100%" alt="Voidlight Depths — ein Weltraum-Dungeon-Crawler in einer HTML-Datei"></a><br>
+<b><a href="https://kevintngo.github.io/voidlight/">Voidlight Depths — ein Weltraum-Dungeon-Crawler in einer HTML-Datei</a></b><br>
+<sub>🆕 · <a href="https://x.com/kevin_t_ngo">@kevin_t_ngo</a> · ♥ 1.1k · <a href="https://x.com/kevin_t_ngo/status/2125982976483975534">▶ Video</a></sub><br>
+<sub>Ein Weltraum-Dungeon-Crawler, der in eine einzige 164 kB große HTML-Datei passt. Keine Assets: Jede Textur, jedes Modell und jeder Sound wird im Code erzeugt.</sub><br>
+<sub><a href="https://github.com/kevintngo/voidlight">Quellcode</a></sub>
+</td>
+<td width="33%" valign="top">
 <a href="https://wavedash.com/games/rooftop-rally"><img src="../assets/gifs/129.gif" width="100%" alt="Rooftop Rally – Pickleball in Unreal 5.9"></a><br>
 <b><a href="https://wavedash.com/games/rooftop-rally">Rooftop Rally – Pickleball in Unreal 5.9</a></b><br>
 <sub><a href="https://x.com/chongdashu">@chongdashu</a> · ♥ 1.1k · <a href="https://x.com/chongdashu/status/2120154573356793883">▶ Video</a></sub><br>
@@ -153,35 +160,28 @@ Die Hauptseite zeigt pro Bereich höchstens die 24 Einträge mit den meisten Lik
 <td width="33%" valign="top">
 <a href="https://littlecity.io"><img src="../assets/gifs/402.gif" width="100%" alt="Little City — ein handgezeichneter Städtebauer"></a><br>
 <b><a href="https://littlecity.io">Little City — ein handgezeichneter Städtebauer</a></b><br>
-<sub>🆕 · <a href="https://x.com/sprezzyyy">@sprezzyyy</a> · ♥ 1.0k · <a href="https://x.com/sprezzyyy/status/2125321545665192054">▶ Video</a></sub><br>
+<sub><a href="https://x.com/sprezzyyy">@sprezzyyy</a> · ♥ 1.0k · <a href="https://x.com/sprezzyyy/status/2125321545665192054">▶ Video</a></sub><br>
 <sub>Ein Sandbox-Städtebauspiel, inspiriert von Townscaper. Ein paar Blöcke setzen, zusehen, wie daraus eine handgezeichnete Stadt wird, und dann, wie sie zum Leben erwacht. Läuft im Browser.</sub><br>
 <sub><a href="https://github.com/yaoderek/littlecity.io">Quellcode</a></sub>
 </td>
+</tr>
+<tr>
 <td width="33%" valign="top">
 <a href="https://gtashenzhen.com"><img src="../assets/gifs/377.gif" width="100%" alt="GTA Shenzhen"></a><br>
 <b><a href="https://gtashenzhen.com">GTA Shenzhen</a></b><br>
 <sub><a href="https://x.com/KinGao476942">@KinGao476942</a> · ♥ 1.0k · <a href="https://x.com/KinGao476942/status/2123967104601014521">▶ Video</a></sub><br>
 <sub>Die ganze Stadt Shenzhen, gebaut aus OpenStreetMap-Daten: 83.182 Gebäude und 62.088 Straßen. Flieg darüber, lande und fahr Auto, such nach jedem beliebigen Ort und starte nachts eine Lichtshow über der ganzen Stadt. In drei Tagen mit Fable 5.2 und Tripo gebaut.</sub>
 </td>
-</tr>
-<tr>
-<td width="33%" valign="top">
-<a href="https://kevintngo.github.io/voidlight/"><img src="../assets/gifs/413.gif" width="100%" alt="Voidlight Depths — ein Weltraum-Dungeon-Crawler in einer HTML-Datei"></a><br>
-<b><a href="https://kevintngo.github.io/voidlight/">Voidlight Depths — ein Weltraum-Dungeon-Crawler in einer HTML-Datei</a></b><br>
-<sub>🆕 · <a href="https://x.com/kevin_t_ngo">@kevin_t_ngo</a> · ♥ 1.0k · <a href="https://x.com/kevin_t_ngo/status/2125982976483975534">▶ Video</a></sub><br>
-<sub>Ein Weltraum-Dungeon-Crawler, der in eine einzige 164 kB große HTML-Datei passt. Keine Assets: Jede Textur, jedes Modell und jeder Sound wird im Code erzeugt.</sub><br>
-<sub><a href="https://github.com/kevintngo/voidlight">Quellcode</a></sub>
-</td>
 <td width="33%" valign="top">
 <a href="https://thaxnay.com/ramayana/"><img src="../assets/gifs/389.gif" width="100%" alt="Ramayana: The Sacred Fires"></a><br>
 <b><a href="https://thaxnay.com/ramayana/">Ramayana: The Sacred Fires</a></b><br>
-<sub><a href="https://x.com/Thaxnay">@Thaxnay</a> · ♥ 980 · <a href="https://x.com/Thaxnay/status/2124574054296219939">▶ Video</a></sub><br>
+<sub><a href="https://x.com/Thaxnay">@Thaxnay</a> · ♥ 983 · <a href="https://x.com/Thaxnay/status/2124574054296219939">▶ Video</a></sub><br>
 <sub>Ein Action-Adventure in der Third-Person-Perspektive: Du spielst Rama, durchquerst ein offenes Tal, beschützt die Weisen und entdeckst Geheimnisse. Läuft im Browser, am Computer und auf dem Handy.</sub>
 </td>
 <td width="33%" valign="top">
 <a href="https://noclipepe.pages.dev/chase"><img src="../assets/gifs/406.gif" width="100%" alt="Red Clay Chase — eine Verfolgungsjagd auf roten Schotterpisten"></a><br>
 <b><a href="https://noclipepe.pages.dev/chase">Red Clay Chase — eine Verfolgungsjagd auf roten Schotterpisten</a></b><br>
-<sub>🆕 · <a href="https://x.com/noclipepe">@noclipepe</a> · ♥ 848 · <a href="https://x.com/noclipepe/status/2124805085393813586">▶ Video</a></sub><br>
+<sub><a href="https://x.com/noclipepe">@noclipepe</a> · ♥ 848 · <a href="https://x.com/noclipepe/status/2124805085393813586">▶ Video</a></sub><br>
 <sub>Eine Polizei-Verfolgungsjagd im GTA-Stil, direkt im Browser spielbar. Keine Game-Engine, keine Assets. Laut Autor hat Fable 5.2 dafür 2,5 Stunden und 115 Dollar gebraucht.</sub><br>
 <sub><a href="https://github.com/noclipepe/red-clay-chase">Quellcode</a></sub>
 </td>
@@ -190,7 +190,7 @@ Die Hauptseite zeigt pro Bereich höchstens die 24 Einträge mit den meisten Lik
 <td width="33%" valign="top">
 <a href="https://claude.ai/artifact/MXxb36zKgN261ckbGhmNin"><img src="../assets/gifs/002.gif" width="100%" alt="Three Games (Saltline · The Clockmaker's Heart · Tidewright)"></a><br>
 <b><a href="https://claude.ai/artifact/MXxb36zKgN261ckbGhmNin">Three Games (Saltline · The Clockmaker's Heart · Tidewright)</a></b><br>
-<sub><a href="https://x.com/felixrieseberg">@felixrieseberg</a> · ♥ 800 · <a href="https://x.com/vineerpasam/status/2119955306096857145">▶ Video</a></sub><br>
+<sub><a href="https://x.com/felixrieseberg">@felixrieseberg</a> · ♥ 801 · <a href="https://x.com/vineerpasam/status/2119955306096857145">▶ Video</a></sub><br>
 <sub>Signiert von Felix Rieseberg: „Alle Spiele wurden mit Claude Fable 5.2 gemacht. Erste Entwürfe, kein menschliches Feedback.“ Der am häufigsten geteilte Link am Launch-Tag.</sub><br>
 <sub><a href="https://claude.ai/artifact/6MjtQjf4ee1ZZjEpafaEpa">The Clockmaker's Heart</a> · <a href="https://claude.ai/artifact/JTgyEMn7sn1q2riWrMb7D4">Tidewright</a></sub><br>
 <sub><a href="https://fablelist.000ooo.ooo/de/prompts/?w=three-games-saltline-the-clockmaker-s-heart-tidewright&ref=gh"><b>✨ Prompt holen</b></a></sub>
@@ -198,7 +198,7 @@ Die Hauptseite zeigt pro Bereich höchstens die 24 Einträge mit den meisten Lik
 <td width="33%" valign="top">
 <a href="https://patch.gg/play/blendi/solar"><img src="../assets/gifs/323.gif" width="100%" alt="Solar: ein winziges Sonnensystem zum Herumfliegen"></a><br>
 <b><a href="https://patch.gg/play/blendi/solar">Solar: ein winziges Sonnensystem zum Herumfliegen</a></b><br>
-<sub><a href="https://x.com/BlendiByl">@BlendiByl</a> · ♥ 798 · <a href="https://x.com/BlendiByl/status/2122673770607591855">▶ Video</a></sub><br>
+<sub><a href="https://x.com/BlendiByl">@BlendiByl</a> · ♥ 799 · <a href="https://x.com/BlendiByl/status/2122673770607591855">▶ Video</a></sub><br>
 <sub>Inspiriert von Outer Wilds: echte Umlaufbahnen und Schwerkraft, nahtlose Flüge zwischen Planeten, und jede Welt ist in Code gezeichnet. Open Source.</sub>
 </td>
 <td width="33%" valign="top">
@@ -220,13 +220,13 @@ Die Hauptseite zeigt pro Bereich höchstens die 24 Einträge mit den meisten Lik
 <td width="33%" valign="top">
 <a href="https://ebb.tesana.com"><img src="../assets/gifs/379.gif" width="100%" alt="EBB — ein Plattformer mit formwandelndem Wasser"></a><br>
 <b><a href="https://ebb.tesana.com">EBB — ein Plattformer mit formwandelndem Wasser</a></b><br>
-<sub><a href="https://x.com/Rubzem">@Rubzem</a> · ♥ 694 · <a href="https://x.com/Rubzem/status/2124142554371502140">▶ Video</a></sub><br>
+<sub><a href="https://x.com/Rubzem">@Rubzem</a> · ♥ 695 · <a href="https://x.com/Rubzem/status/2124142554371502140">▶ Video</a></sub><br>
 <sub>Ein Physik-Plattformer, in dem du als Wasser schmilzt, gefrierst und schwebst, um Rätsel zu lösen. Komplett prozedural, 190 KB, in einer Stunde gebaut.</sub>
 </td>
 <td width="33%" valign="top">
 <a href="https://patch.gg/blendi/patchwork-quilt"><img src="../assets/gifs/190.gif" width="100%" alt="Patchwork Quilt"></a><br>
 <b><a href="https://patch.gg/blendi/patchwork-quilt">Patchwork Quilt</a></b><br>
-<sub><a href="https://x.com/BlendiByl">@BlendiByl</a> · ♥ 670 · <a href="https://x.com/BlendiByl/status/2120746541636047347">▶ Video</a></sub><br>
+<sub><a href="https://x.com/BlendiByl">@BlendiByl</a> · ♥ 671 · <a href="https://x.com/BlendiByl/status/2120746541636047347">▶ Video</a></sub><br>
 <sub>Ein Spielausschnitt im Patchwork- und Stop-Motion-Stil. Die ganze Map ist Code. Open Source.</sub><br>
 <sub><a href="https://fablelist.000ooo.ooo/de/prompts/?w=patchwork-quilt&ref=gh"><b>✨ Prompt holen</b></a></sub>
 </td>
@@ -241,7 +241,7 @@ Die Hauptseite zeigt pro Bereich höchstens die 24 Einträge mit den meisten Lik
 <td width="33%" valign="top">
 <a href="https://i-would-have-gotten-away-with-it.netlify.app/"><img src="../assets/gifs/007.gif" width="100%" alt="I Would Have Gotten Away With It"></a><br>
 <b><a href="https://i-would-have-gotten-away-with-it.netlify.app/">I Would Have Gotten Away With It</a></b><br>
-<sub><a href="https://x.com/emollick">@emollick</a> · ♥ 520 · <a href="https://x.com/emollick/status/2119876449494540554">▶ Video</a></sub><br>
+<sub><a href="https://x.com/emollick">@emollick</a> · ♥ 521 · <a href="https://x.com/emollick/status/2119876449494540554">▶ Video</a></sub><br>
 <sub>Ein umgekehrtes Scooby-Doo: Du bist der Bösewicht und vertreibst neugierige Kinder. Fable hat auch Trailer, Musik und Sound gemacht.</sub><br>
 <sub><a href="https://fablelist.000ooo.ooo/de/prompts/?w=i-would-have-gotten-away-with-it&ref=gh"><b>✨ Prompt holen</b></a></sub>
 </td>
@@ -289,7 +289,7 @@ Die Hauptseite zeigt pro Bereich höchstens die 24 Einträge mit den meisten Lik
 <td width="33%" valign="top">
 <a href="https://gilt-and-gutter.vercel.app/"><img src="../assets/gifs/127.gif" width="100%" alt="Gilt & Gutter"></a><br>
 <b><a href="https://gilt-and-gutter.vercel.app/">Gilt & Gutter</a></b><br>
-<sub><a href="https://x.com/kevin_t_ngo">@kevin_t_ngo</a> · ♥ 332 · <a href="https://x.com/kevin_t_ngo/status/2119900487688622171">▶ Video</a></sub><br>
+<sub><a href="https://x.com/kevin_t_ngo">@kevin_t_ngo</a> · ♥ 333 · <a href="https://x.com/kevin_t_ngo/status/2119900487688622171">▶ Video</a></sub><br>
 <sub>Ein 1v1-Ego-Shooter mit zwei spielbaren Charakteren.</sub><br>
 <sub><a href="https://fablelist.000ooo.ooo/de/prompts/?w=gilt-gutter&ref=gh"><b>✨ Prompt holen</b></a></sub>
 </td>
@@ -372,25 +372,25 @@ Die Hauptseite zeigt pro Bereich höchstens die 24 Einträge mit den meisten Lik
 <sub><a href="https://fablelist.000ooo.ooo/de/prompts/?w=maad-maxxing&ref=gh"><b>✨ Prompt holen</b></a></sub>
 </td>
 <td width="33%" valign="top">
+<a href="https://kevintngo.github.io/lumenwake/"><img src="../assets/gifs/416.gif" width="100%" alt="Lumenwake — ein Himmelsinsel-Action-RPG in einer HTML-Datei"></a><br>
+<b><a href="https://kevintngo.github.io/lumenwake/">Lumenwake — ein Himmelsinsel-Action-RPG in einer HTML-Datei</a></b><br>
+<sub>🆕 · <a href="https://x.com/kevin_t_ngo">@kevin_t_ngo</a> · ♥ 243 · <a href="https://x.com/kevin_t_ngo/status/2126132754849120655">▶ Video</a></sub><br>
+<sub>Ein komplettes Action-RPG in einer einzigen 802 kB großen HTML-Datei, ohne Asset-Dateien und ohne Laufzeitabhängigkeiten. Erfülle Missionen in prozedural erzeugten Welten, kämpfe gegen Gegner und besiege Bosse für Beute. Läuft im Browser.</sub>
+</td>
+<td width="33%" valign="top">
 <a href="https://frontier.every.to/experiments/first-crush"><img src="../assets/gifs/133.gif" width="100%" alt="First Crush"></a><br>
 <b><a href="https://frontier.every.to/experiments/first-crush">First Crush</a></b><br>
 <sub><a href="https://x.com/kieranklaassen">@kieranklaassen</a> · ♥ 229 · <a href="https://x.com/kieranklaassen/status/2119871673294037280">▶ Video</a></sub><br>
 <sub>Ein Weinbau-Spiel: das Fass schrubben, 250 kg Früchte pressen, das Aräometer ablesen, eine Hefe wählen – und es erklärt, warum. Klicke auf der Seite auf „Try it“.</sub><br>
 <sub><a href="https://fablelist.000ooo.ooo/de/prompts/?w=first-crush&ref=gh"><b>✨ Prompt holen</b></a></sub>
 </td>
+</tr>
+<tr>
 <td width="33%" valign="top">
 <a href="https://market-order-city.netlify.app/"><img src="../assets/gifs/361.gif" width="100%" alt="Market Order"></a><br>
 <b><a href="https://market-order-city.netlify.app/">Market Order</a></b><br>
 <sub><a href="https://x.com/emollick">@emollick</a> · ♥ 220 · <a href="https://x.com/emollick/status/2123520499368263977">▶ Video</a></sub><br>
 <sub>Ein Open-World-Fahrspiel, in dem du Autos klaust und Missionen fährst. Alles, vom Fahndungslevel bis zum Wetter, wird vom Kurs der ANT-Aktie von Anthropic gesteuert.</sub>
-</td>
-</tr>
-<tr>
-<td width="33%" valign="top">
-<a href="https://kevintngo.github.io/lumenwake/"><img src="../assets/gifs/416.gif" width="100%" alt="Lumenwake — ein Himmelsinsel-Action-RPG in einer HTML-Datei"></a><br>
-<b><a href="https://kevintngo.github.io/lumenwake/">Lumenwake — ein Himmelsinsel-Action-RPG in einer HTML-Datei</a></b><br>
-<sub>🆕 · <a href="https://x.com/kevin_t_ngo">@kevin_t_ngo</a> · ♥ 211 · <a href="https://x.com/kevin_t_ngo/status/2126132754849120655">▶ Video</a></sub><br>
-<sub>Ein komplettes Action-RPG in einer einzigen 802 kB großen HTML-Datei, ohne Asset-Dateien und ohne Laufzeitabhängigkeiten. Erfülle Missionen in prozedural erzeugten Welten, kämpfe gegen Gegner und besiege Bosse für Beute. Läuft im Browser.</sub>
 </td>
 <td width="33%" valign="top">
 <a href="https://noclipepe.pages.dev/dino"><img src="../assets/gifs/011.gif" width="100%" alt="Rambo Dino"></a><br>
@@ -402,7 +402,7 @@ Die Hauptseite zeigt pro Bereich höchstens die 24 Einträge mit den meisten Lik
 <td width="33%" valign="top">
 <a href="https://cozylisbon.vercel.app"><img src="../assets/gifs/200.gif" width="100%" alt="Cozy Lisbon"></a><br>
 <b><a href="https://cozylisbon.vercel.app">Cozy Lisbon</a></b><br>
-<sub><a href="https://x.com/goncalo_canhoto">@goncalo_canhoto</a> · ♥ 171 · <a href="https://x.com/goncalo_canhoto/status/2119932946346094690">▶ Video</a></sub><br>
+<sub><a href="https://x.com/goncalo_canhoto">@goncalo_canhoto</a> · ♥ 172 · <a href="https://x.com/goncalo_canhoto/status/2119932946346094690">▶ Video</a></sub><br>
 <sub>Ein gemütliches Ein-Prompt-Spiel über ein kleines Flugzeug, das über Lissabon fliegt.</sub><br>
 <sub><a href="https://fablelist.000ooo.ooo/de/prompts/?w=cozy-lisbon&ref=gh"><b>✨ Prompt holen</b></a></sub>
 </td>
@@ -446,18 +446,24 @@ Die Hauptseite zeigt pro Bereich höchstens die 24 Einträge mit den meisten Lik
 <sub>Ein Rennspiel, das komplett in Chrome auf WebGPU läuft, auf einer Engine, die der Autor von Grund auf schreibt. Die meisten Assets, auch das Auto, stammen von Fable 5.2 und GPT-6.2 Astra.</sub>
 </td>
 <td width="33%" valign="top">
+<a href="https://patch.gg/play/blendi/kickoff"><img src="../assets/gifs/418.gif" width="100%" alt="KICKOFF — ein Rocket League, das im Browser läuft"></a><br>
+<b><a href="https://patch.gg/play/blendi/kickoff">KICKOFF — ein Rocket League, das im Browser läuft</a></b><br>
+<sub>🆕 · <a href="https://x.com/BlendiByl">@BlendiByl</a> · ♥ 124 · <a href="https://x.com/BlendiByl/status/2126219474768740761">▶ Video</a></sub><br>
+<sub>Ein Auto-Fußballspiel im Stil von Rocket League, erstellt mit Fable 5.2, das im Browser läuft. Das Spielgefühl ist überzeugend, und es ist Open Source.</sub>
+</td>
+</tr>
+<tr>
+<td width="33%" valign="top">
 <a href="https://luminazombies.com/"><img src="../assets/gifs/176.gif" width="100%" alt="Lumina Zombies"></a><br>
 <b><a href="https://luminazombies.com/">Lumina Zombies</a></b><br>
 <sub><a href="https://x.com/LuminaBench">@LuminaBench</a> · ♥ 123 · <a href="https://x.com/LuminaBench/status/2120660076927099048">▶ Video</a></sub><br>
 <sub>Eine brandneue Map mit Easter Eggs in wenigen Prompts, dazu Upgrades, die den Hardwarebedarf und die Latenz auf den anderen beiden Maps halbiert haben.</sub><br>
 <sub><a href="https://fablelist.000ooo.ooo/de/prompts/?w=lumina-zombies&ref=gh"><b>✨ Prompt holen</b></a></sub>
 </td>
-</tr>
-<tr>
 <td width="33%" valign="top">
 <a href="https://starknightt.github.io/firefly-jar"><img src="../assets/gifs/414.gif" width="100%" alt="Firefly Jar — Glühwürmchen fangen, bevor es Nacht wird"></a><br>
 <b><a href="https://starknightt.github.io/firefly-jar">Firefly Jar — Glühwürmchen fangen, bevor es Nacht wird</a></b><br>
-<sub>🆕 · <a href="https://x.com/prasenx">@prasenx</a> · ♥ 116 · <a href="https://x.com/prasenx/status/2125980702336549056">▶ Video</a></sub><br>
+<sub>🆕 · <a href="https://x.com/prasenx">@prasenx</a> · ♥ 122 · <a href="https://x.com/prasenx/status/2125980702336549056">▶ Video</a></sub><br>
 <sub>Ein Sommerabend, als du acht warst: Streife über die Wiese, fange vor der Dunkelheit zwanzig Glühwürmchen in einem Glas und lass sie dann wieder frei. Läuft im Browser.</sub><br>
 <sub><a href="https://github.com/StarKnightt/firefly-jar">Quellcode</a></sub>
 </td>
@@ -467,6 +473,8 @@ Die Hauptseite zeigt pro Bereich höchstens die 24 Einträge mit den meisten Lik
 <sub><a href="https://x.com/AmirMushich">@AmirMushich</a> · ♥ 113 · <a href="https://x.com/AmirMushich/status/2122421769462284615">▶ Video</a></sub><br>
 <sub>Es baut die echten Straßen rund um ein Café nach, 7,970 Gebäude: fliegen, 5 Bohnen sammeln und auf dem Dach landen, um einen Gratiskaffee zu gewinnen. Funktioniert für jedes Geschäft auf der Karte.</sub>
 </td>
+</tr>
+<tr>
 <td width="33%" valign="top">
 <a href="https://loktar00.github.io/llm-test-pages/fable52-dino-chase/"><img src="../assets/gifs/222.gif" width="100%" alt="Thunder Valley dino chase"></a><br>
 <b><a href="https://loktar00.github.io/llm-test-pages/fable52-dino-chase/">Thunder Valley dino chase</a></b><br>
@@ -474,8 +482,6 @@ Die Hauptseite zeigt pro Bereich höchstens die 24 Einträge mit den meisten Lik
 <sub>Vanilla JS mit eigenem WebGL-Renderer; Dinos, Bäume und Gelände sind gestapelte 2D-Pixelscheiben.</sub><br>
 <sub><a href="https://fablelist.000ooo.ooo/de/prompts/?w=thunder-valley-dino-chase&ref=gh"><b>✨ Prompt holen</b></a></sub>
 </td>
-</tr>
-<tr>
 <td width="33%" valign="top">
 <a href="https://feed-backrooms.vercel.app"><img src="../assets/gifs/013.gif" width="100%" alt="Feed the Backrooms"></a><br>
 <b><a href="https://feed-backrooms.vercel.app">Feed the Backrooms</a></b><br>
@@ -490,6 +496,8 @@ Die Hauptseite zeigt pro Bereich höchstens die 24 Einträge mit den meisten Lik
 <sub>Ein Prompt und ein paar Nachfragen: fünf schlafende Welten, die erwachen, während du hindurchsegelst, mit einem Soundtrack aus Code.</sub><br>
 <sub><a href="https://x.com/flxrnc/status/2120494277528580110">📝 Prompt des Creators (kostenlos)</a></sub>
 </td>
+</tr>
+<tr>
 <td width="33%" valign="top">
 <a href="https://app.usecrayon.ai/play/992c2130-43da-416b-a577-aed9514d3057"><img src="../assets/gifs/177.gif" width="100%" alt="SKYWAKE"></a><br>
 <b><a href="https://app.usecrayon.ai/play/992c2130-43da-416b-a577-aed9514d3057">SKYWAKE</a></b><br>
@@ -497,14 +505,21 @@ Die Hauptseite zeigt pro Bereich höchstens die 24 Einträge mit den meisten Lik
 <sub>Ein Flug-Quest-Spiel, gemacht mit Fable 5.2, Opus 5.5, Crayon und three.js.</sub><br>
 <sub><a href="https://fablelist.000ooo.ooo/de/prompts/?w=skywake&ref=gh"><b>✨ Prompt holen</b></a></sub>
 </td>
-</tr>
-<tr>
+<td width="33%" valign="top">
+<a href="https://goodstuff.pixijs.io/kuzushi/"><img src="../assets/gifs/417.gif" width="100%" alt="KUZUSHI — ein Open-Source-Spiel, geschrieben von Fable und Opus"></a><br>
+<b><a href="https://goodstuff.pixijs.io/kuzushi/">KUZUSHI — ein Open-Source-Spiel, geschrieben von Fable und Opus</a></b><br>
+<sub>🆕 · <a href="https://x.com/PixiJS">@PixiJS</a> · ♥ 77 · <a href="https://x.com/PixiJS/status/2126137684506619982">▶ Video</a></sub><br>
+<sub>Ein Open-Source-Spiel, das PixiJS veröffentlicht hat, komplett von Fable und Opus geschrieben. Aufgebaut auf Ritmo, der agentenorientierten ECS-Runtime, mit PixiJS 3D. Läuft im Browser.</sub><br>
+<sub><a href="https://github.com/pixijs/open-games/tree/main/kuzushi">Quellcode</a></sub>
+</td>
 <td width="33%" valign="top">
 <a href="http://drift.harma.cc/en"><img src="../assets/gifs/363.gif" width="100%" alt="DRIFT: Veresk-9"></a><br>
 <b><a href="http://drift.harma.cc/en">DRIFT: Veresk-9</a></b><br>
 <sub><a href="https://x.com/Rencrypta">@Rencrypta</a> · ♥ 76 · <a href="https://x.com/Rencrypta/status/2123527249064321465">Post</a></sub><br>
 <sub>Ein 3D-Weltraum-Rätselspiel in der Ich-Perspektive für den Browser. Flieg zu einer toten Bergbaustation im Asteroidengürtel, um ihr Funkfeuer abzuschalten, und stell fest, dass die Crew nie evakuiert wurde.</sub>
 </td>
+</tr>
+<tr>
 <td width="33%" valign="top">
 <a href="https://app.usecrayon.ai/play/0cd7624e-1297-417e-a5be-b3c3036a496a"><img src="../assets/gifs/249.gif" width="100%" alt="KUMOKIRI"></a><br>
 <b><a href="https://app.usecrayon.ai/play/0cd7624e-1297-417e-a5be-b3c3036a496a">KUMOKIRI</a></b><br>
@@ -519,29 +534,20 @@ Die Hauptseite zeigt pro Bereich höchstens die 24 Einträge mit den meisten Lik
 <sub>Flieg einen gefalteten Papierflieger durch eine Welt, die komplett per Code gezeichnet ist. Keine Bilder, keine 3D-Modelle, direkt im Browser spielbar.</sub><br>
 <sub><a href="https://github.com/StarKnightt/ink-flight">Quellcode</a></sub>
 </td>
-</tr>
-<tr>
 <td width="33%" valign="top">
 <a href="https://claude.ai/artifact/3o9NKKmpezAFEan5SeVaxn"><img src="../assets/gifs/388.gif" width="100%" alt="ASHEN VIGIL"></a><br>
 <b><a href="https://claude.ai/artifact/3o9NKKmpezAFEan5SeVaxn">ASHEN VIGIL</a></b><br>
 <sub><a href="https://x.com/CapyCola">@CapyCola</a> · ♥ 71 · <a href="https://x.com/CapyCola/status/2123707546779451602">▶ Video</a></sub><br>
 <sub>Ein 3D-Survivors-Spiel, entstanden aus einer einzigen Nachricht: Überstehe 5 Minuten in einer verregneten Klosterruine, mit 5 Waffen, 7 Upgrades, 4 Gegnertypen und einem Boss. Rund 6.900 Zeilen Code, alle Grafiken und Sounds per Code erzeugt.</sub>
 </td>
-<td width="33%" valign="top">
-<a href="https://goodstuff.pixijs.io/kuzushi/"><img src="../assets/gifs/417.gif" width="100%" alt="KUZUSHI — ein Open-Source-Spiel, geschrieben von Fable und Opus"></a><br>
-<b><a href="https://goodstuff.pixijs.io/kuzushi/">KUZUSHI — ein Open-Source-Spiel, geschrieben von Fable und Opus</a></b><br>
-<sub>🆕 · <a href="https://x.com/PixiJS">@PixiJS</a> · ♥ 67 · <a href="https://x.com/PixiJS/status/2126137684506619982">▶ Video</a></sub><br>
-<sub>Ein Open-Source-Spiel, das PixiJS veröffentlicht hat, komplett von Fable und Opus geschrieben. Aufgebaut auf Ritmo, der agentenorientierten ECS-Runtime, mit PixiJS 3D. Läuft im Browser.</sub><br>
-<sub><a href="https://github.com/pixijs/open-games/tree/main/kuzushi">Quellcode</a></sub>
-</td>
+</tr>
+<tr>
 <td width="33%" valign="top">
 <a href="https://www.spawn.co/@abbidabbi/pogo-riot"><img src="../assets/gifs/263.gif" width="100%" alt="Pogo Riot"></a><br>
 <b><a href="https://www.spawn.co/@abbidabbi/pogo-riot">Pogo Riot</a></b><br>
 <sub><a href="https://x.com/Pumpnasterr">@Pumpnasterr</a> · ♥ 64 · <a href="https://x.com/Pumpnasterr/status/2121343507885682917">▶ Video</a></sub><br>
 <sub>Ein Free-for-all-FPS, in dem du auf einem Pogostock hüpfst und gleichzeitig zielst.</sub>
 </td>
-</tr>
-<tr>
 <td width="33%" valign="top">
 <a href="https://patch.gg/games/rehan/ringfall"><img src="../assets/gifs/178.gif" width="100%" alt="Ringfall"></a><br>
 <b><a href="https://patch.gg/games/rehan/ringfall">Ringfall</a></b><br>
@@ -556,19 +562,13 @@ Die Hauptseite zeigt pro Bereich höchstens die 24 Einträge mit den meisten Lik
 <sub>Es baute die Straße, fand die 3D-Modelle und Sounds und spielte das Spiel selbst, um den Trailer aufzunehmen. Am besten am Laptop.</sub><br>
 <sub><a href="https://fablelist.000ooo.ooo/de/prompts/?w=save-the-world&ref=gh"><b>✨ Prompt holen</b></a></sub>
 </td>
+</tr>
+<tr>
 <td width="33%" valign="top">
 <a href="https://nisen0808-web.github.io/xiyou-td-play/"><img src="../assets/gifs/338.gif" width="100%" alt="Xiyou X: ein Tower Defense zur Reise nach Westen"></a><br>
 <b><a href="https://nisen0808-web.github.io/xiyou-td-play/">Xiyou X: ein Tower Defense zur Reise nach Westen</a></b><br>
 <sub><a href="https://x.com/PhyrexNi">@PhyrexNi</a> · ♥ 59 · <a href="https://x.com/PhyrexNi/status/2122602578978709908">Post</a></sub><br>
 <sub>Eine Tower-Defense-Testversion mit acht Levels, fünf Schwierigkeitsgraden und besonderen Charakterkarten zum Ziehen. Läuft in Desktop- und Mobilbrowsern, am besten im Querformat.</sub>
-</td>
-</tr>
-<tr>
-<td width="33%" valign="top">
-<a href="https://patch.gg/play/blendi/kickoff"><img src="../assets/gifs/418.gif" width="100%" alt="KICKOFF — ein Rocket League, das im Browser läuft"></a><br>
-<b><a href="https://patch.gg/play/blendi/kickoff">KICKOFF — ein Rocket League, das im Browser läuft</a></b><br>
-<sub>🆕 · <a href="https://x.com/BlendiByl">@BlendiByl</a> · ♥ 58 · <a href="https://x.com/BlendiByl/status/2126219474768740761">▶ Video</a></sub><br>
-<sub>Ein Auto-Fußballspiel im Stil von Rocket League, erstellt mit Fable 5.2, das im Browser läuft. Das Spielgefühl ist überzeugend, und es ist Open Source.</sub>
 </td>
 <td width="33%" valign="top">
 <a href="https://samg-coder.github.io/solstice-racing/"><img src="../assets/gifs/257.gif" width="100%" alt="Kestrel Head – Solstice Racing"></a><br>
@@ -590,7 +590,7 @@ Die Hauptseite zeigt pro Bereich höchstens die 24 Einträge mit den meisten Lik
 <td width="33%" valign="top">
 <a href="https://tetriss22.github.io/unwritten/"><img src="../assets/gifs/403.gif" width="100%" alt="UNWRITTEN — eine Open World, komplett aus Textzeichen gezeichnet"></a><br>
 <b><a href="https://tetriss22.github.io/unwritten/">UNWRITTEN — eine Open World, komplett aus Textzeichen gezeichnet</a></b><br>
-<sub>🆕 · <a href="https://x.com/Tetriss112">@Tetriss112</a> · ♥ 49 · <a href="https://x.com/Tetriss112/status/2125302656616849796">▶ Video</a></sub><br>
+<sub><a href="https://x.com/Tetriss112">@Tetriss112</a> · ♥ 49 · <a href="https://x.com/Tetriss112/status/2125302656616849796">▶ Video</a></sub><br>
 <sub>Ein ASCII-Open-World-Actionspiel. Etwas löscht die Welt Wort für Wort, und du bist der letzte Schreiber, der sie zurückschreiben kann. Fünf Länder, Kampf zu Pferd, drei Waffen, Feuer und Blitze und ein Endboss namens THE EDITOR. Keine Bilddateien, 2,737 Zeilen Code.</sub><br>
 <sub><a href="https://github.com/Tetriss22/unwritten">Quellcode</a></sub>
 </td>
@@ -717,8 +717,7 @@ Die Hauptseite zeigt pro Bereich höchstens die 24 Einträge mit den meisten Lik
 <a href="https://monstermath.ai-created.com"><img src="../assets/gifs/300.gif" width="100%" alt="Monster Math"></a><br>
 <b><a href="https://monstermath.ai-created.com">Monster Math</a></b><br>
 <sub><a href="https://x.com/AIandDesign">@AIandDesign</a> · ♥ 28 · <a href="https://x.com/AIandDesign/status/2122108555356778615">Post</a></sub><br>
-<sub>Ein von Pokémon inspiriertes Mathe-Übungs- und Nachhilfespiel für die Grundschule (K-5). Open Source unter MIT; online spielen oder lokal ausführen.</sub><br>
-<sub><a href="https://github.com/TheMarco/monstermath">Quellcode</a></sub>
+<sub>Ein von Pokémon inspiriertes Mathe-Übungs- und Nachhilfespiel für die Grundschule (K-5). Open Source unter MIT; online spielen oder lokal ausführen.</sub>
 </td>
 </tr>
 <tr>

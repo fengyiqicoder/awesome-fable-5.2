@@ -62,7 +62,7 @@
 <td width="33%" valign="top">
 <a href="https://patch.gg/play/blendi/small-magic"><img src="../assets/gifs/274.gif" width="100%" alt="Small Magic 巫师沙盒"></a><br>
 <b><a href="https://patch.gg/play/blendi/small-magic">Small Magic 巫师沙盒</a></b><br>
-<sub><a href="https://x.com/BlendiByl">@BlendiByl</a> · ♥ 3.2k · <a href="https://x.com/BlendiByl/status/2121594536153718972">▶ 视频</a></sub><br>
+<sub><a href="https://x.com/BlendiByl">@BlendiByl</a> · ♥ 4.2k · <a href="https://x.com/BlendiByl/status/2121594536153718972">▶ 视频</a></sub><br>
 <sub>一天做出的巫师沙盒：7 种法术、约 1800 块可破坏的物理碎片，零模型零贴图，开源</sub>
 </td>
 <td width="33%" valign="top">
@@ -77,7 +77,7 @@
 <td width="33%" valign="top">
 <a href="https://kevintngo.github.io/procedural-rpg/"><img src="../assets/gifs/401.gif" width="100%" alt="Brushwild 程序化开放世界 RPG"></a><br>
 <b><a href="https://kevintngo.github.io/procedural-rpg/">Brushwild 程序化开放世界 RPG</a></b><br>
-<sub>🆕 · <a href="https://x.com/kevin_t_ngo">@kevin_t_ngo</a> · ♥ 2.7k · <a href="https://x.com/kevin_t_ngo/status/2125321244686029289">▶ 视频</a></sub><br>
+<sub><a href="https://x.com/kevin_t_ngo">@kevin_t_ngo</a> · ♥ 2.7k · <a href="https://x.com/kevin_t_ngo/status/2125321244686029289">▶ 视频</a></sub><br>
 <sub>程序化生成的开放世界动作 RPG，整个游戏是一个约 300kB 的 HTML 文件，每个像素都由着色器画成钢笔加彩铅的手绘风；三种职业、技能树、装备、城镇和地牢，电脑和手机浏览器都能玩</sub><br>
 <sub><a href="https://github.com/kevintngo/procedural-rpg">源码</a></sub>
 </td>
@@ -143,6 +143,13 @@
 </tr>
 <tr>
 <td width="33%" valign="top">
+<a href="https://kevintngo.github.io/voidlight/"><img src="../assets/gifs/413.gif" width="100%" alt="Voidlight Depths 太空地牢探险"></a><br>
+<b><a href="https://kevintngo.github.io/voidlight/">Voidlight Depths 太空地牢探险</a></b><br>
+<sub>🆕 · <a href="https://x.com/kevin_t_ngo">@kevin_t_ngo</a> · ♥ 1.1k · <a href="https://x.com/kevin_t_ngo/status/2125982976483975534">▶ 视频</a></sub><br>
+<sub>太空题材的地牢探险游戏，整个游戏是一个 164kB 的 HTML 文件，没有任何素材，贴图、模型和音效全由代码生成</sub><br>
+<sub><a href="https://github.com/kevintngo/voidlight">源码</a></sub>
+</td>
+<td width="33%" valign="top">
 <a href="https://wavedash.com/games/rooftop-rally"><img src="../assets/gifs/129.gif" width="100%" alt="Rooftop Rally 天台匹克球（Unreal 5.9）"></a><br>
 <b><a href="https://wavedash.com/games/rooftop-rally">Rooftop Rally 天台匹克球（Unreal 5.9）</a></b><br>
 <sub><a href="https://x.com/chongdashu">@chongdashu</a> · ♥ 1.1k · <a href="https://x.com/chongdashu/status/2120154573356793883">▶ 视频</a></sub><br>
@@ -153,35 +160,28 @@
 <td width="33%" valign="top">
 <a href="https://littlecity.io"><img src="../assets/gifs/402.gif" width="100%" alt="Little City 手绘小城建造"></a><br>
 <b><a href="https://littlecity.io">Little City 手绘小城建造</a></b><br>
-<sub>🆕 · <a href="https://x.com/sprezzyyy">@sprezzyyy</a> · ♥ 1.0k · <a href="https://x.com/sprezzyyy/status/2125321545665192054">▶ 视频</a></sub><br>
+<sub><a href="https://x.com/sprezzyyy">@sprezzyyy</a> · ♥ 1.0k · <a href="https://x.com/sprezzyyy/status/2125321545665192054">▶ 视频</a></sub><br>
 <sub>受 Townscaper 启发的沙盒造城游戏：放下几个方块，它们自己变成手绘风的小镇并活起来，浏览器打开就能玩</sub><br>
 <sub><a href="https://github.com/yaoderek/littlecity.io">源码</a></sub>
 </td>
+</tr>
+<tr>
 <td width="33%" valign="top">
 <a href="https://gtashenzhen.com"><img src="../assets/gifs/377.gif" width="100%" alt="GTA Shenzhen GTA 版深圳全城"></a><br>
 <b><a href="https://gtashenzhen.com">GTA Shenzhen GTA 版深圳全城</a></b><br>
 <sub><a href="https://x.com/KinGao476942">@KinGao476942</a> · ♥ 1.0k · <a href="https://x.com/KinGao476942/status/2123967104601014521">▶ 视频</a></sub><br>
 <sub>按 OSM 实景数据建出的深圳全城：8.3 万栋楼、6.2 万条路，能在天上飞、落地开车、搜地点导航，晚上还能开全城灯光秀；Fable 5.2 加 Tripo 做了三天</sub>
 </td>
-</tr>
-<tr>
-<td width="33%" valign="top">
-<a href="https://kevintngo.github.io/voidlight/"><img src="../assets/gifs/413.gif" width="100%" alt="Voidlight Depths 太空地牢探险"></a><br>
-<b><a href="https://kevintngo.github.io/voidlight/">Voidlight Depths 太空地牢探险</a></b><br>
-<sub>🆕 · <a href="https://x.com/kevin_t_ngo">@kevin_t_ngo</a> · ♥ 1.0k · <a href="https://x.com/kevin_t_ngo/status/2125982976483975534">▶ 视频</a></sub><br>
-<sub>太空题材的地牢探险游戏，整个游戏是一个 164kB 的 HTML 文件，没有任何素材，贴图、模型和音效全由代码生成</sub><br>
-<sub><a href="https://github.com/kevintngo/voidlight">源码</a></sub>
-</td>
 <td width="33%" valign="top">
 <a href="https://thaxnay.com/ramayana/"><img src="../assets/gifs/389.gif" width="100%" alt="Ramayana: The Sacred Fires 罗摩衍那动作冒险"></a><br>
 <b><a href="https://thaxnay.com/ramayana/">Ramayana: The Sacred Fires 罗摩衍那动作冒险</a></b><br>
-<sub><a href="https://x.com/Thaxnay">@Thaxnay</a> · ♥ 980 · <a href="https://x.com/Thaxnay/status/2124574054296219939">▶ 视频</a></sub><br>
+<sub><a href="https://x.com/Thaxnay">@Thaxnay</a> · ♥ 983 · <a href="https://x.com/Thaxnay/status/2124574054296219939">▶ 视频</a></sub><br>
 <sub>扮演罗摩在开阔山谷里守护修行的仙人、找隐藏彩蛋的第三人称动作游戏，电脑和手机浏览器都能玩</sub>
 </td>
 <td width="33%" valign="top">
 <a href="https://noclipepe.pages.dev/chase"><img src="../assets/gifs/406.gif" width="100%" alt="Red Clay Chase 红土路上的警匪追车"></a><br>
 <b><a href="https://noclipepe.pages.dev/chase">Red Clay Chase 红土路上的警匪追车</a></b><br>
-<sub>🆕 · <a href="https://x.com/noclipepe">@noclipepe</a> · ♥ 848 · <a href="https://x.com/noclipepe/status/2124805085393813586">▶ 视频</a></sub><br>
+<sub><a href="https://x.com/noclipepe">@noclipepe</a> · ♥ 848 · <a href="https://x.com/noclipepe/status/2124805085393813586">▶ 视频</a></sub><br>
 <sub>GTA 式的浏览器警匪追车：开车在红土路上被警察追，没用游戏引擎，也没用任何素材；作者说 Fable 5.2 花了 2.5 小时、115 美元</sub><br>
 <sub><a href="https://github.com/noclipepe/red-clay-chase">源码</a></sub>
 </td>
@@ -190,7 +190,7 @@
 <td width="33%" valign="top">
 <a href="https://claude.ai/artifact/MXxb36zKgN261ckbGhmNin"><img src="../assets/gifs/002.gif" width="100%" alt="Three Games 合集页（Saltline / 钟表匠之心 / Tidewright）"></a><br>
 <b><a href="https://claude.ai/artifact/MXxb36zKgN261ckbGhmNin">Three Games 合集页（Saltline / 钟表匠之心 / Tidewright）</a></b><br>
-<sub><a href="https://x.com/felixrieseberg">@felixrieseberg</a> · ♥ 800 · <a href="https://x.com/vineerpasam/status/2119955306096857145">▶ 视频</a></sub><br>
+<sub><a href="https://x.com/felixrieseberg">@felixrieseberg</a> · ♥ 801 · <a href="https://x.com/vineerpasam/status/2119955306096857145">▶ 视频</a></sub><br>
 <sub>页面署名 Felix Rieseberg，写明三款都是 Fable 5.2 无人工反馈的初稿；被转发最多的链接（视频来自转发者 @vineerpasam）</sub><br>
 <sub><a href="https://claude.ai/artifact/6MjtQjf4ee1ZZjEpafaEpa">钟表匠之心</a> · <a href="https://claude.ai/artifact/JTgyEMn7sn1q2riWrMb7D4">Tidewright</a></sub><br>
 <sub><a href="https://fablelist.000ooo.ooo/zh/prompts/?w=three-games-saltline-the-clockmaker-s-heart-tidewright&ref=gh"><b>✨ 获取提示词</b></a></sub>
@@ -198,7 +198,7 @@
 <td width="33%" valign="top">
 <a href="https://patch.gg/play/blendi/solar"><img src="../assets/gifs/323.gif" width="100%" alt="Solar 可以飞来飞去的迷你太阳系"></a><br>
 <b><a href="https://patch.gg/play/blendi/solar">Solar 可以飞来飞去的迷你太阳系</a></b><br>
-<sub><a href="https://x.com/BlendiByl">@BlendiByl</a> · ♥ 798 · <a href="https://x.com/BlendiByl/status/2122673770607591855">▶ 视频</a></sub><br>
+<sub><a href="https://x.com/BlendiByl">@BlendiByl</a> · ♥ 799 · <a href="https://x.com/BlendiByl/status/2122673770607591855">▶ 视频</a></sub><br>
 <sub>受《星际拓荒》启发：真实轨道和引力，行星之间一路连续飞行，星球全由代码画出；开源</sub>
 </td>
 <td width="33%" valign="top">
@@ -220,13 +220,13 @@
 <td width="33%" valign="top">
 <a href="https://ebb.tesana.com"><img src="../assets/gifs/379.gif" width="100%" alt="EBB 变形水滴物理平台解谜"></a><br>
 <b><a href="https://ebb.tesana.com">EBB 变形水滴物理平台解谜</a></b><br>
-<sub><a href="https://x.com/Rubzem">@Rubzem</a> · ♥ 694 · <a href="https://x.com/Rubzem/status/2124142554371502140">▶ 视频</a></sub><br>
+<sub><a href="https://x.com/Rubzem">@Rubzem</a> · ♥ 695 · <a href="https://x.com/Rubzem/status/2124142554371502140">▶ 视频</a></sub><br>
 <sub>扮演一团能融化、结冰、飘起来的水去解谜的物理平台游戏；全程序化生成，只有 190 KB，一小时做完</sub>
 </td>
 <td width="33%" valign="top">
 <a href="https://patch.gg/blendi/patchwork-quilt"><img src="../assets/gifs/190.gif" width="100%" alt="Patchwork Quilt 拼布定格风"></a><br>
 <b><a href="https://patch.gg/blendi/patchwork-quilt">Patchwork Quilt 拼布定格风</a></b><br>
-<sub><a href="https://x.com/BlendiByl">@BlendiByl</a> · ♥ 670 · <a href="https://x.com/BlendiByl/status/2120746541636047347">▶ 视频</a></sub><br>
+<sub><a href="https://x.com/BlendiByl">@BlendiByl</a> · ♥ 671 · <a href="https://x.com/BlendiByl/status/2120746541636047347">▶ 视频</a></sub><br>
 <sub>整张地图都是代码；开源</sub><br>
 <sub><a href="https://fablelist.000ooo.ooo/zh/prompts/?w=patchwork-quilt&ref=gh"><b>✨ 获取提示词</b></a></sub>
 </td>
@@ -241,7 +241,7 @@
 <td width="33%" valign="top">
 <a href="https://i-would-have-gotten-away-with-it.netlify.app/"><img src="../assets/gifs/007.gif" width="100%" alt="反向史酷比：吓跑多管闲事的孩子"></a><br>
 <b><a href="https://i-would-have-gotten-away-with-it.netlify.app/">反向史酷比：吓跑多管闲事的孩子</a></b><br>
-<sub><a href="https://x.com/emollick">@emollick</a> · ♥ 520 · <a href="https://x.com/emollick/status/2119876449494540554">▶ 视频</a></sub><br>
+<sub><a href="https://x.com/emollick">@emollick</a> · ♥ 521 · <a href="https://x.com/emollick/status/2119876449494540554">▶ 视频</a></sub><br>
 <sub>预告片的音乐音效也是它做的</sub><br>
 <sub><a href="https://fablelist.000ooo.ooo/zh/prompts/?w=i-would-have-gotten-away-with-it&ref=gh"><b>✨ 获取提示词</b></a></sub>
 </td>
@@ -289,7 +289,7 @@
 <td width="33%" valign="top">
 <a href="https://gilt-and-gutter.vercel.app/"><img src="../assets/gifs/127.gif" width="100%" alt="Gilt & Gutter 1v1 第一人称射击"></a><br>
 <b><a href="https://gilt-and-gutter.vercel.app/">Gilt & Gutter 1v1 第一人称射击</a></b><br>
-<sub><a href="https://x.com/kevin_t_ngo">@kevin_t_ngo</a> · ♥ 332 · <a href="https://x.com/kevin_t_ngo/status/2119900487688622171">▶ 视频</a></sub><br>
+<sub><a href="https://x.com/kevin_t_ngo">@kevin_t_ngo</a> · ♥ 333 · <a href="https://x.com/kevin_t_ngo/status/2119900487688622171">▶ 视频</a></sub><br>
 <sub>两个可选角色的 1v1 对战</sub><br>
 <sub><a href="https://fablelist.000ooo.ooo/zh/prompts/?w=gilt-gutter&ref=gh"><b>✨ 获取提示词</b></a></sub>
 </td>
@@ -372,25 +372,25 @@
 <sub><a href="https://fablelist.000ooo.ooo/zh/prompts/?w=maad-maxxing&ref=gh"><b>✨ 获取提示词</b></a></sub>
 </td>
 <td width="33%" valign="top">
+<a href="https://kevintngo.github.io/lumenwake/"><img src="../assets/gifs/416.gif" width="100%" alt="Lumenwake 浮空岛动作 RPG"></a><br>
+<b><a href="https://kevintngo.github.io/lumenwake/">Lumenwake 浮空岛动作 RPG</a></b><br>
+<sub>🆕 · <a href="https://x.com/kevin_t_ngo">@kevin_t_ngo</a> · ♥ 243 · <a href="https://x.com/kevin_t_ngo/status/2126132754849120655">▶ 视频</a></sub><br>
+<sub>整个动作 RPG 是一个 802 kB 的 HTML 文件，没有任何素材文件和运行时依赖；在程序生成的世界里做任务、打小怪、斗 Boss 刷装备，浏览器打开就能玩</sub>
+</td>
+<td width="33%" valign="top">
 <a href="https://frontier.every.to/experiments/first-crush"><img src="../assets/gifs/133.gif" width="100%" alt="First Crush 酿酒教学游戏"></a><br>
 <b><a href="https://frontier.every.to/experiments/first-crush">First Crush 酿酒教学游戏</a></b><br>
 <sub><a href="https://x.com/kieranklaassen">@kieranklaassen</a> · ♥ 229 · <a href="https://x.com/kieranklaassen/status/2119871673294037280">▶ 视频</a></sub><br>
 <sub>从刷桶、压 250 公斤葡萄到测糖度、选酵母，边玩边讲原理；页面里点 Try it</sub><br>
 <sub><a href="https://fablelist.000ooo.ooo/zh/prompts/?w=first-crush&ref=gh"><b>✨ 获取提示词</b></a></sub>
 </td>
+</tr>
+<tr>
 <td width="33%" valign="top">
 <a href="https://market-order-city.netlify.app/"><img src="../assets/gifs/361.gif" width="100%" alt="Market Order 股价说了算的开放世界"></a><br>
 <b><a href="https://market-order-city.netlify.app/">Market Order 股价说了算的开放世界</a></b><br>
 <sub><a href="https://x.com/emollick">@emollick</a> · ♥ 220 · <a href="https://x.com/emollick/status/2123520499368263977">▶ 视频</a></sub><br>
 <sub>偷车、接任务的开放世界驾驶游戏：通缉等级、天气和天际线全由 Anthropic 股票 ANT 的实时行情决定</sub>
-</td>
-</tr>
-<tr>
-<td width="33%" valign="top">
-<a href="https://kevintngo.github.io/lumenwake/"><img src="../assets/gifs/416.gif" width="100%" alt="Lumenwake 浮空岛动作 RPG"></a><br>
-<b><a href="https://kevintngo.github.io/lumenwake/">Lumenwake 浮空岛动作 RPG</a></b><br>
-<sub>🆕 · <a href="https://x.com/kevin_t_ngo">@kevin_t_ngo</a> · ♥ 211 · <a href="https://x.com/kevin_t_ngo/status/2126132754849120655">▶ 视频</a></sub><br>
-<sub>整个动作 RPG 是一个 802 kB 的 HTML 文件，没有任何素材文件和运行时依赖；在程序生成的世界里做任务、打小怪、斗 Boss 刷装备，浏览器打开就能玩</sub>
 </td>
 <td width="33%" valign="top">
 <a href="https://noclipepe.pages.dev/dino"><img src="../assets/gifs/011.gif" width="100%" alt="Chrome 恐龙变兰博"></a><br>
@@ -402,7 +402,7 @@
 <td width="33%" valign="top">
 <a href="https://cozylisbon.vercel.app"><img src="../assets/gifs/200.gif" width="100%" alt="Cozy Lisbon 飞越里斯本"></a><br>
 <b><a href="https://cozylisbon.vercel.app">Cozy Lisbon 飞越里斯本</a></b><br>
-<sub><a href="https://x.com/goncalo_canhoto">@goncalo_canhoto</a> · ♥ 171 · <a href="https://x.com/goncalo_canhoto/status/2119932946346094690">▶ 视频</a></sub><br>
+<sub><a href="https://x.com/goncalo_canhoto">@goncalo_canhoto</a> · ♥ 172 · <a href="https://x.com/goncalo_canhoto/status/2119932946346094690">▶ 视频</a></sub><br>
 <sub>一条提示词做的小飞机游戏，在里斯本上空慢慢飞</sub><br>
 <sub><a href="https://fablelist.000ooo.ooo/zh/prompts/?w=cozy-lisbon&ref=gh"><b>✨ 获取提示词</b></a></sub>
 </td>
@@ -446,18 +446,24 @@
 <sub>完全跑在 Chrome 里的 WebGPU 赛车游戏，引擎是作者从零写的，赛车等大部分素材由 Fable 5.2 和 GPT-6.2 Astra 做；要开 GPU 加速的 Chrome</sub>
 </td>
 <td width="33%" valign="top">
+<a href="https://patch.gg/play/blendi/kickoff"><img src="../assets/gifs/418.gif" width="100%" alt="KICKOFF 浏览器里的火箭联盟"></a><br>
+<b><a href="https://patch.gg/play/blendi/kickoff">KICKOFF 浏览器里的火箭联盟</a></b><br>
+<sub>🆕 · <a href="https://x.com/BlendiByl">@BlendiByl</a> · ♥ 124 · <a href="https://x.com/BlendiByl/status/2126219474768740761">▶ 视频</a></sub><br>
+<sub>用 Fable 5.2 做的火箭联盟式足球车游戏，在浏览器里跑，手感做得很足，而且开源</sub>
+</td>
+</tr>
+<tr>
+<td width="33%" valign="top">
 <a href="https://luminazombies.com/"><img src="../assets/gifs/176.gif" width="100%" alt="Lumina Zombies 新地图"></a><br>
 <b><a href="https://luminazombies.com/">Lumina Zombies 新地图</a></b><br>
 <sub><a href="https://x.com/LuminaBench">@LuminaBench</a> · ♥ 123 · <a href="https://x.com/LuminaBench/status/2120660076927099048">▶ 视频</a></sub><br>
 <sub>几条提示词做出一张带彩蛋的新地图，并把另外两张图的硬件需求和延迟减半</sub><br>
 <sub><a href="https://fablelist.000ooo.ooo/zh/prompts/?w=lumina-zombies&ref=gh"><b>✨ 获取提示词</b></a></sub>
 </td>
-</tr>
-<tr>
 <td width="33%" valign="top">
 <a href="https://starknightt.github.io/firefly-jar"><img src="../assets/gifs/414.gif" width="100%" alt="Firefly Jar 天黑前捉萤火虫"></a><br>
 <b><a href="https://starknightt.github.io/firefly-jar">Firefly Jar 天黑前捉萤火虫</a></b><br>
-<sub>🆕 · <a href="https://x.com/prasenx">@prasenx</a> · ♥ 116 · <a href="https://x.com/prasenx/status/2125980702336549056">▶ 视频</a></sub><br>
+<sub>🆕 · <a href="https://x.com/prasenx">@prasenx</a> · ♥ 122 · <a href="https://x.com/prasenx/status/2125980702336549056">▶ 视频</a></sub><br>
 <sub>八岁那年的夏夜：在草地上散步，天黑前把二十只萤火虫捉进玻璃罐，再把它们放走；浏览器里直接玩</sub><br>
 <sub><a href="https://github.com/StarKnightt/firefly-jar">源码</a></sub>
 </td>
@@ -467,6 +473,8 @@
 <sub><a href="https://x.com/AmirMushich">@AmirMushich</a> · ♥ 113 · <a href="https://x.com/AmirMushich/status/2122421769462284615">▶ 视频</a></sub><br>
 <sub>按真实街道重建咖啡店周边 7,970 栋楼，飞行收集 5 颗咖啡豆、降落屋顶换一杯免费咖啡；可换成地图上任何店铺</sub>
 </td>
+</tr>
+<tr>
 <td width="33%" valign="top">
 <a href="https://loktar00.github.io/llm-test-pages/fable52-dino-chase/"><img src="../assets/gifs/222.gif" width="100%" alt="Thunder Valley 恐龙追逐"></a><br>
 <b><a href="https://loktar00.github.io/llm-test-pages/fable52-dino-chase/">Thunder Valley 恐龙追逐</a></b><br>
@@ -474,8 +482,6 @@
 <sub>不用引擎和库，自己写的 WebGL 渲染器，恐龙和树都是一层层像素叠成的 3D</sub><br>
 <sub><a href="https://fablelist.000ooo.ooo/zh/prompts/?w=thunder-valley-dino-chase&ref=gh"><b>✨ 获取提示词</b></a></sub>
 </td>
-</tr>
-<tr>
 <td width="33%" valign="top">
 <a href="https://feed-backrooms.vercel.app"><img src="../assets/gifs/013.gif" width="100%" alt="Feed the Backrooms：你当怪物"></a><br>
 <b><a href="https://feed-backrooms.vercel.app">Feed the Backrooms：你当怪物</a></b><br>
@@ -490,6 +496,8 @@
 <sub>一条提示词加几次追问；五个随航行苏醒的世界，配乐也是代码生成</sub><br>
 <sub><a href="https://x.com/flxrnc/status/2120494277528580110">📝 作者公开的提示词（免费）</a></sub>
 </td>
+</tr>
+<tr>
 <td width="33%" valign="top">
 <a href="https://app.usecrayon.ai/play/992c2130-43da-416b-a577-aed9514d3057"><img src="../assets/gifs/177.gif" width="100%" alt="SKYWAKE 飞行任务"></a><br>
 <b><a href="https://app.usecrayon.ai/play/992c2130-43da-416b-a577-aed9514d3057">SKYWAKE 飞行任务</a></b><br>
@@ -497,14 +505,21 @@
 <sub>Fable 5.2 + Opus 5.5 + Crayon + three.js</sub><br>
 <sub><a href="https://fablelist.000ooo.ooo/zh/prompts/?w=skywake&ref=gh"><b>✨ 获取提示词</b></a></sub>
 </td>
-</tr>
-<tr>
+<td width="33%" valign="top">
+<a href="https://goodstuff.pixijs.io/kuzushi/"><img src="../assets/gifs/417.gif" width="100%" alt="KUZUSHI 崩し"></a><br>
+<b><a href="https://goodstuff.pixijs.io/kuzushi/">KUZUSHI 崩し</a></b><br>
+<sub>🆕 · <a href="https://x.com/PixiJS">@PixiJS</a> · ♥ 77 · <a href="https://x.com/PixiJS/status/2126137684506619982">▶ 视频</a></sub><br>
+<sub>PixiJS 官方放出的开源游戏，完全由 Fable 和 Opus 写成，基于面向 Agent 的 ECS 运行时 Ritmo 和 PixiJS 3D；浏览器里直接玩</sub><br>
+<sub><a href="https://github.com/pixijs/open-games/tree/main/kuzushi">源码</a></sub>
+</td>
 <td width="33%" valign="top">
 <a href="http://drift.harma.cc/en"><img src="../assets/gifs/363.gif" width="100%" alt="DRIFT: Veresk-9 小行星带空间站解谜"></a><br>
 <b><a href="http://drift.harma.cc/en">DRIFT: Veresk-9 小行星带空间站解谜</a></b><br>
 <sub><a href="https://x.com/Rencrypta">@Rencrypta</a> · ♥ 76 · <a href="https://x.com/Rencrypta/status/2123527249064321465">原帖</a></sub><br>
 <sub>第一人称 3D 太空解谜：23 世纪小行星带，飞去一座死掉的采矿站关掉信标，却发现船员从没撤离；有聊天记录、语音日志和藏起来的秘密，桌面浏览器直接玩</sub>
 </td>
+</tr>
+<tr>
 <td width="33%" valign="top">
 <a href="https://app.usecrayon.ai/play/0cd7624e-1297-417e-a5be-b3c3036a496a"><img src="../assets/gifs/249.gif" width="100%" alt="KUMOKIRI 水墨武士"></a><br>
 <b><a href="https://app.usecrayon.ai/play/0cd7624e-1297-417e-a5be-b3c3036a496a">KUMOKIRI 水墨武士</a></b><br>
@@ -519,29 +534,20 @@
 <sub>开着一架折出来的纸飞机飞过它用代码画的世界，没用图片和 3D 模型，浏览器里直接飞</sub><br>
 <sub><a href="https://github.com/StarKnightt/ink-flight">源码</a></sub>
 </td>
-</tr>
-<tr>
 <td width="33%" valign="top">
 <a href="https://claude.ai/artifact/3o9NKKmpezAFEan5SeVaxn"><img src="../assets/gifs/388.gif" width="100%" alt="ASHEN VIGIL 余烬守夜"></a><br>
 <b><a href="https://claude.ai/artifact/3o9NKKmpezAFEan5SeVaxn">ASHEN VIGIL 余烬守夜</a></b><br>
 <sub><a href="https://x.com/CapyCola">@CapyCola</a> · ♥ 71 · <a href="https://x.com/CapyCola/status/2123707546779451602">▶ 视频</a></sub><br>
 <sub>只发一句话做出的 3D 类吸血鬼幸存者：雨夜修道院废墟里撑过 5 分钟，5 种武器、7 种强化、4 种杂兵和一个 Boss；约 6900 行代码，画面和声音全由代码生成</sub>
 </td>
-<td width="33%" valign="top">
-<a href="https://goodstuff.pixijs.io/kuzushi/"><img src="../assets/gifs/417.gif" width="100%" alt="KUZUSHI 崩し"></a><br>
-<b><a href="https://goodstuff.pixijs.io/kuzushi/">KUZUSHI 崩し</a></b><br>
-<sub>🆕 · <a href="https://x.com/PixiJS">@PixiJS</a> · ♥ 67 · <a href="https://x.com/PixiJS/status/2126137684506619982">▶ 视频</a></sub><br>
-<sub>PixiJS 官方放出的开源游戏，完全由 Fable 和 Opus 写成，基于面向 Agent 的 ECS 运行时 Ritmo 和 PixiJS 3D；浏览器里直接玩</sub><br>
-<sub><a href="https://github.com/pixijs/open-games/tree/main/kuzushi">源码</a></sub>
-</td>
+</tr>
+<tr>
 <td width="33%" valign="top">
 <a href="https://www.spawn.co/@abbidabbi/pogo-riot"><img src="../assets/gifs/263.gif" width="100%" alt="Pogo Riot 弹跳杆射击"></a><br>
 <b><a href="https://www.spawn.co/@abbidabbi/pogo-riot">Pogo Riot 弹跳杆射击</a></b><br>
 <sub><a href="https://x.com/Pumpnasterr">@Pumpnasterr</a> · ♥ 64 · <a href="https://x.com/Pumpnasterr/status/2121343507885682917">▶ 视频</a></sub><br>
 <sub>多人混战 FPS，踩着弹跳杆一边跳一边瞄准</sub>
 </td>
-</tr>
-<tr>
 <td width="33%" valign="top">
 <a href="https://patch.gg/games/rehan/ringfall"><img src="../assets/gifs/178.gif" width="100%" alt="Ringfall《命运》风格 FPS"></a><br>
 <b><a href="https://patch.gg/games/rehan/ringfall">Ringfall《命运》风格 FPS</a></b><br>
@@ -556,19 +562,13 @@
 <sub>街道、3D 模型和音效都是它做或找的，宣传视频也是它自己玩着录的；电脑上玩最好</sub><br>
 <sub><a href="https://fablelist.000ooo.ooo/zh/prompts/?w=save-the-world&ref=gh"><b>✨ 获取提示词</b></a></sub>
 </td>
+</tr>
+<tr>
 <td width="33%" valign="top">
 <a href="https://nisen0808-web.github.io/xiyou-td-play/"><img src="../assets/gifs/338.gif" width="100%" alt="西游X 西游题材塔防"></a><br>
 <b><a href="https://nisen0808-web.github.io/xiyou-td-play/">西游X 西游题材塔防</a></b><br>
 <sub><a href="https://x.com/PhyrexNi">@PhyrexNi</a> · ♥ 59 · <a href="https://x.com/PhyrexNi/status/2122602578978709908">原帖</a></sub><br>
 <sub>西游题材塔防测试版：八个关卡、五种难度，可抽特殊角色卡；网页和手机浏览器都能玩，横屏体验更好</sub>
-</td>
-</tr>
-<tr>
-<td width="33%" valign="top">
-<a href="https://patch.gg/play/blendi/kickoff"><img src="../assets/gifs/418.gif" width="100%" alt="KICKOFF 浏览器里的火箭联盟"></a><br>
-<b><a href="https://patch.gg/play/blendi/kickoff">KICKOFF 浏览器里的火箭联盟</a></b><br>
-<sub>🆕 · <a href="https://x.com/BlendiByl">@BlendiByl</a> · ♥ 58 · <a href="https://x.com/BlendiByl/status/2126219474768740761">▶ 视频</a></sub><br>
-<sub>用 Fable 5.2 做的火箭联盟式足球车游戏，在浏览器里跑，手感做得很足，而且开源</sub>
 </td>
 <td width="33%" valign="top">
 <a href="https://samg-coder.github.io/solstice-racing/"><img src="../assets/gifs/257.gif" width="100%" alt="Kestrel Head 赛车（Solstice 引擎）"></a><br>
@@ -590,7 +590,7 @@
 <td width="33%" valign="top">
 <a href="https://tetriss22.github.io/unwritten/"><img src="../assets/gifs/403.gif" width="100%" alt="UNWRITTEN 全用文字字符画的开放世界"></a><br>
 <b><a href="https://tetriss22.github.io/unwritten/">UNWRITTEN 全用文字字符画的开放世界</a></b><br>
-<sub>🆕 · <a href="https://x.com/Tetriss112">@Tetriss112</a> · ♥ 49 · <a href="https://x.com/Tetriss112/status/2125302656616849796">▶ 视频</a></sub><br>
+<sub><a href="https://x.com/Tetriss112">@Tetriss112</a> · ♥ 49 · <a href="https://x.com/Tetriss112/status/2125302656616849796">▶ 视频</a></sub><br>
 <sub>ASCII 开放世界动作游戏：世界正被一个词一个词删掉，你是最后一位能把它写回来的抄写员；五片大陆、骑马作战、三种武器、火与闪电，最终 Boss 叫 THE EDITOR；没有一张图片，墙、树、马和每根草都是文字字符，共 2,737 行代码</sub><br>
 <sub><a href="https://github.com/Tetriss22/unwritten">源码</a></sub>
 </td>
@@ -717,8 +717,7 @@
 <a href="https://monstermath.ai-created.com"><img src="../assets/gifs/300.gif" width="100%" alt="Monster Math 怪兽数学"></a><br>
 <b><a href="https://monstermath.ai-created.com">Monster Math 怪兽数学</a></b><br>
 <sub><a href="https://x.com/AIandDesign">@AIandDesign</a> · ♥ 28 · <a href="https://x.com/AIandDesign/status/2122108555356778615">原帖</a></sub><br>
-<sub>仿宝可梦的小学 K–5 数学练习和辅导游戏，MIT 开源，可以在线玩也能本地跑</sub><br>
-<sub><a href="https://github.com/TheMarco/monstermath">源码</a></sub>
+<sub>仿宝可梦的小学 K–5 数学练习和辅导游戏，MIT 开源，可以在线玩也能本地跑</sub>
 </td>
 </tr>
 <tr>

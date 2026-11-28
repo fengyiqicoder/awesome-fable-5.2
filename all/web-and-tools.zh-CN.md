@@ -1,4 +1,4 @@
-# 🧰 网页与工具 · 全部 59 个
+# 🧰 网页与工具 · 全部 60 个
 
 [← 回到首页](../README.zh-CN.md) · [English](web-and-tools.md) · **简体中文** · [繁體中文](web-and-tools.zh-TW.md) · [日本語](web-and-tools.ja.md) · [한국어](web-and-tools.ko.md) · [Español](web-and-tools.es.md) · [Português](web-and-tools.pt-BR.md) · [Français](web-and-tools.fr.md) · [Deutsch](web-and-tools.de.md) · [Русский](web-and-tools.ru.md)
 
@@ -103,13 +103,13 @@
 <td width="33%" valign="top">
 <a href="https://github.com/deedy/chess-chatarunga"><img src="../assets/gifs/420.gif" width="100%" alt="Chatarunga 零依赖 Rust 象棋引擎"></a><br>
 <b><a href="https://github.com/deedy/chess-chatarunga">Chatarunga 零依赖 Rust 象棋引擎</a></b><br>
-<sub>🆕 · <a href="https://x.com/deedydas">@deedydas</a> · ♥ 761 · <a href="https://x.com/deedydas/status/2126140365208224057">原帖</a></sub><br>
+<sub>🆕 · <a href="https://x.com/deedydas">@deedydas</a> · ♥ 869 · <a href="https://x.com/deedydas/status/2126140365208224057">原帖</a></sub><br>
 <sub>从零用 Rust 写的国际象棋引擎，零依赖，ELO 3533，能排进全球前 50–100；对阵头号引擎 Stockfish 胜率 37%、7% 的对局能将死它；全部开源，约 50 美元算力由 Fable 搭配其他工具写成</sub>
 </td>
 <td width="33%" valign="top">
 <a href="https://hexagonal.earth"><img src="../assets/gifs/349.gif" width="100%" alt="Hexagonal Earth 六边形拼成的地球沙盘"></a><br>
 <b><a href="https://hexagonal.earth">Hexagonal Earth 六边形拼成的地球沙盘</a></b><br>
-<sub><a href="https://x.com/avsa">@avsa</a> · ♥ 756 · <a href="https://x.com/avsa/status/2123123638551392755">原帖</a></sub><br>
+<sub><a href="https://x.com/avsa">@avsa</a> · ♥ 757 · <a href="https://x.com/avsa/status/2123123638551392755">原帖</a></sub><br>
 <sub>用海拔、洋深、湿度、风、河流等真实数据搭出的六边形世界地图；上面几百种小物件是 Fable 5.2 一个个生成的 3D 像素点云，再由它自己摆进场景</sub>
 </td>
 <td width="33%" valign="top">
@@ -131,7 +131,7 @@
 <td width="33%" valign="top">
 <a href="https://auden-english-135.netlify.app/"><img src="../assets/gifs/281.gif" width="100%" alt="Auden 1941 年失传诗歌课复原"></a><br>
 <b><a href="https://auden-english-135.netlify.app/">Auden 1941 年失传诗歌课复原</a></b><br>
-<sub><a href="https://x.com/emollick">@emollick</a> · ♥ 594 · <a href="https://x.com/emollick/status/2121641417483169934">原帖</a></sub><br>
+<sub><a href="https://x.com/emollick">@emollick</a> · ♥ 593 · <a href="https://x.com/emollick/status/2121641417483169934">原帖</a></sub><br>
 <sub>让它复原诗人奥登 1941 年那门「人文学科最难」的课：从互联网档案馆的旧书和零散笔记里拼出可读的课程</sub>
 </td>
 <td width="33%" valign="top">
@@ -173,7 +173,7 @@
 <td width="33%" valign="top">
 <a href="https://gsplan.org"><img src="../assets/gifs/206.gif" width="100%" alt="加拉塔萨雷球场座位视角"></a><br>
 <b><a href="https://gsplan.org">加拉塔萨雷球场座位视角</a></b><br>
-<sub><a href="https://x.com/molenbeek84">@molenbeek84</a> · ♥ 429 · <a href="https://x.com/molenbeek84/status/2120847639411331097">原帖</a></sub><br>
+<sub><a href="https://x.com/molenbeek84">@molenbeek84</a> · ♥ 430 · <a href="https://x.com/molenbeek84/status/2120847639411331097">原帖</a></sub><br>
 <sub>买票前看 RAMS Park 每个看台位置看到的球场</sub><br>
 <sub><a href="https://fablelist.000ooo.ooo/zh/prompts/?w=galatasaray-seat-view&ref=gh"><b>✨ 获取提示词</b></a></sub>
 </td>
@@ -200,13 +200,19 @@
 <sub><a href="https://fablelist.000ooo.ooo/zh/prompts/?w=origami-helper&ref=gh"><b>✨ 获取提示词</b></a></sub>
 </td>
 <td width="33%" valign="top">
+<a href="https://assetora.vercel.app"><img src="../assets/gifs/423.gif" width="100%" alt="Assetora 资产仪表盘"></a><br>
+<b><a href="https://assetora.vercel.app">Assetora 资产仪表盘</a></b><br>
+<sub>🆕 · <a href="https://x.com/marcelkargul">@marcelkargul</a> · ♥ 215 · <a href="https://x.com/marcelkargul/status/2126119817849815490">原帖</a></sub><br>
+<sub>用 Fable 5.2 配合两个设计类 Skill、两天时间在 Next.js 里做出的完整资产管理仪表盘，浏览器打开就是可用的后台界面</sub>
+</td>
+</tr>
+<tr>
+<td width="33%" valign="top">
 <a href="https://claude.ai/artifact/5ki5nJzDaayYMNhxymZBNT"><img src="../assets/gifs/378.gif" width="100%" alt="Slow Plant Synth 会慢慢长大的植物合成器"></a><br>
 <b><a href="https://claude.ai/artifact/5ki5nJzDaayYMNhxymZBNT">Slow Plant Synth 会慢慢长大的植物合成器</a></b><br>
 <sub><a href="https://x.com/parhelion318">@parhelion318</a> · ♥ 208 · <a href="https://x.com/parhelion318/status/2123982460090503626">▶ 视频</a></sub><br>
 <sub>一株模拟植物按地点、时间和天气生长，几天里慢慢发出各不相同的声音；Fable 5.2 和 Opus 5.5 一起做的</sub>
 </td>
-</tr>
-<tr>
 <td width="33%" valign="top">
 <a href="https://typed.page/"><img src="../assets/gifs/036.gif" width="100%" alt="Typed 打字机"></a><br>
 <b><a href="https://typed.page/">Typed 打字机</a></b><br>
@@ -221,14 +227,14 @@
 <sub>实时心电和压力曲线、心音，可对比正常、房颤、传导阻滞和主动脉瓣狭窄；还自己写了测试</sub><br>
 <sub><a href="https://fablelist.000ooo.ooo/zh/prompts/?w=one-heartbeat&ref=gh"><b>✨ 获取提示词</b></a></sub>
 </td>
+</tr>
+<tr>
 <td width="33%" valign="top">
 <a href="https://stormy.ai/hands"><img src="../assets/gifs/316.gif" width="100%" alt="Hands 机器人手讲解页"></a><br>
 <b><a href="https://stormy.ai/hands">Hands 机器人手讲解页</a></b><br>
 <sub><a href="https://x.com/Karmedge">@Karmedge</a> · ♥ 151 · <a href="https://x.com/Karmedge/status/2122394153497842080">▶ 视频</a></sub><br>
 <sub>讲人形机器人的手怎么工作、为什么难做、成本多少的互动讲解页，花了 10 亿多 token</sub>
 </td>
-</tr>
-<tr>
 <td width="33%" valign="top">
 <a href="https://motionsites.ai/?prompt=vante-ribbon-hero"><img src="../assets/gifs/048.gif" width="100%" alt="Ribbon Hero 首屏"></a><br>
 <b><a href="https://motionsites.ai/?prompt=vante-ribbon-hero">Ribbon Hero 首屏</a></b><br>
@@ -242,14 +248,14 @@
 <sub>把 AI 视频里的动作解算到 3D 武士骨架上，不用动捕服；开源</sub><br>
 <sub><a href="https://fablelist.000ooo.ooo/zh/prompts/?w=anymove&ref=gh"><b>✨ 获取提示词</b></a></sub>
 </td>
+</tr>
+<tr>
 <td width="33%" valign="top">
 <a href="https://seats.movie"><img src="../assets/gifs/370.gif" width="100%" alt="seats.movie 帮你挑电影院最佳座位"></a><br>
 <b><a href="https://seats.movie">seats.movie 帮你挑电影院最佳座位</a></b><br>
 <sub><a href="https://x.com/sunithvs_">@sunithvs_</a> · ♥ 133 · <a href="https://x.com/sunithvs_/status/2123496822400532982">▶ 视频</a></sub><br>
 <sub>选一部电影，它查遍你所在城市的每一场，把还空着的正中间座位挑出来，还能看 3D 座位视角；作者说是让 Fable 5.2 连着跑了五天做的</sub>
 </td>
-</tr>
-<tr>
 <td width="33%" valign="top">
 <a href="https://nikechan.com/"><img src="../assets/gifs/049.gif" width="100%" alt="nikechan 个人站改版"></a><br>
 <b><a href="https://nikechan.com/">nikechan 个人站改版</a></b><br>
@@ -263,6 +269,8 @@
 <sub><a href="https://x.com/dejvdesign">@dejvdesign</a> · ♥ 130 · <a href="https://x.com/dejvdesign/status/2122335319634874710">▶ 视频</a></sub><br>
 <sub>带实时交互动效的 CRM 仪表盘界面，和 @madebymicrodose 合作</sub>
 </td>
+</tr>
+<tr>
 <td width="33%" valign="top">
 <a href="https://github.com/kanaworksai-hue/harappa"><img src="../assets/gifs/250.gif" width="100%" alt="Harappa 原野生成 Blender 插件"></a><br>
 <b><a href="https://github.com/kanaworksai-hue/harappa">Harappa 原野生成 Blender 插件</a></b><br>
@@ -270,8 +278,6 @@
 <sub>免费 Blender 插件，一键把光秃的山丘变成动画背景式的原野：草、花、云、树、季节和画风都能换</sub><br>
 <sub><a href="https://fablelist.000ooo.ooo/zh/prompts/?w=harappa-blender-add-on&ref=gh"><b>✨ 获取提示词</b></a></sub>
 </td>
-</tr>
-<tr>
 <td width="33%" valign="top">
 <a href="https://andreysuperiorgit.github.io/v8/"><img src="../assets/gifs/373.gif" width="100%" alt="V8 Four-Stroke 能轰油门的 V8 发动机"></a><br>
 <b><a href="https://andreysuperiorgit.github.io/v8/">V8 Four-Stroke 能轰油门的 V8 发动机</a></b><br>
@@ -281,10 +287,12 @@
 <td width="33%" valign="top">
 <a href="https://hashem-al-ghaili.github.io/music-maker/"><img src="../assets/gifs/383.gif" width="100%" alt="Music Maker 在空气里拉弦弹奏的乐器"></a><br>
 <b><a href="https://hashem-al-ghaili.github.io/music-maker/">Music Maker 在空气里拉弦弹奏的乐器</a></b><br>
-<sub><a href="https://x.com/HashemGhaili">@HashemGhaili</a> · ♥ 68 · <a href="https://x.com/HashemGhaili/status/2124135871293329809">▶ 视频</a></sub><br>
+<sub><a href="https://x.com/HashemGhaili">@HashemGhaili</a> · ♥ 69 · <a href="https://x.com/HashemGhaili/status/2124135871293329809">▶ 视频</a></sub><br>
 <sub>打开摄像头，双手一捏一拉就在空中拉出一根弦，24 种乐器可选，指尖划过就出声；能叠鼓点、循环录音、导出视频</sub><br>
 <sub><a href="https://github.com/Hashem-Al-Ghaili/music-maker">源码</a></sub>
 </td>
+</tr>
+<tr>
 <td width="33%" valign="top">
 <a href="https://sael.net/seat-arena"><img src="../assets/gifs/182.gif" width="100%" alt="Best Seat in the House 演唱会座位视角"></a><br>
 <b><a href="https://sael.net/seat-arena">Best Seat in the House 演唱会座位视角</a></b><br>
@@ -292,8 +300,6 @@
 <sub>买票前先看每个座位看到的舞台，完全可交互</sub><br>
 <sub><a href="https://fablelist.000ooo.ooo/zh/prompts/?w=best-seat-in-the-house&ref=gh"><b>✨ 获取提示词</b></a></sub>
 </td>
-</tr>
-<tr>
 <td width="33%" valign="top">
 <a href="http://promptronic3000.com"><img src="../assets/gifs/358.gif" width="100%" alt="Promptronic 3000 Agent 模块合成器"></a><br>
 <b><a href="http://promptronic3000.com">Promptronic 3000 Agent 模块合成器</a></b><br>
@@ -306,6 +312,8 @@
 <sub><a href="https://x.com/andreysuperior">@andreysuperior</a> · ♥ 54 · <a href="https://x.com/andreysuperior/status/2124274426225008910">▶ 视频</a></sub><br>
 <sub>可以旋转的 ζ 函数地形：102 个零点在浏览器里现算现验，全落在一条线上，再一步步叠出素数；单个 HTML 文件，不用任何库</sub>
 </td>
+</tr>
+<tr>
 <td width="33%" valign="top">
 <a href="https://tetriss22.github.io/pc-build-lab/"><img src="../assets/gifs/147.gif" width="100%" alt="PC Build Lab 装机实验室"></a><br>
 <b><a href="https://tetriss22.github.io/pc-build-lab/">PC Build Lab 装机实验室</a></b><br>
@@ -313,8 +321,6 @@
 <sub>在浏览器里把一台 $1,279 的主机一件件装起来，8 个步骤，可以故意装错</sub><br>
 <sub><a href="https://fablelist.000ooo.ooo/zh/prompts/?w=pc-build-lab&ref=gh"><b>✨ 获取提示词</b></a></sub>
 </td>
-</tr>
-<tr>
 <td width="33%" valign="top">
 <a href="https://zkevinbai.com/apps/tesla-fsd"><img src="../assets/gifs/394.gif" width="100%" alt="How FSD Drives 特斯拉自动驾驶眼里的路"></a><br>
 <b><a href="https://zkevinbai.com/apps/tesla-fsd">How FSD Drives 特斯拉自动驾驶眼里的路</a></b><br>
@@ -327,14 +333,14 @@
 <sub><a href="https://x.com/parhelion318">@parhelion318</a> · ♥ 30 · <a href="https://x.com/parhelion318/status/2123463622252994878">▶ 视频</a></sub><br>
 <sub>一片由点组成的曲面跟着声音起伏；Fable 5.2 和 Opus 5.5 做，GPT-6.2 Astra 复查</sub>
 </td>
+</tr>
+<tr>
 <td width="33%" valign="top">
 <a href="https://shiraeisenberg.com/composed-of-nows"><img src="../assets/gifs/365.gif" width="100%" alt="Composed of Nows 语言模型的九件互动作品"></a><br>
 <b><a href="https://shiraeisenberg.com/composed-of-nows">Composed of Nows 语言模型的九件互动作品</a></b><br>
 <sub><a href="https://x.com/shiraeis">@shiraeis</a> · ♥ 25 · <a href="https://x.com/shiraeis/status/2123562764203589648">▶ 视频</a></sub><br>
 <sub>让它先读诗，再做九件互动作品讲当一个语言模型是什么“感觉”，一次做成</sub>
 </td>
-</tr>
-<tr>
 <td width="33%" valign="top">
 <a href="https://piano.yoshiyukikoyanagi.com"><img src="../assets/gifs/374.gif" width="100%" alt="Physical Modeling Piano F1 物理建模钢琴"></a><br>
 <b><a href="https://piano.yoshiyukikoyanagi.com">Physical Modeling Piano F1 物理建模钢琴</a></b><br>
@@ -345,17 +351,17 @@
 <td width="33%" valign="top">
 <a href="https://riemann.zondark.com/course"><img src="../assets/gifs/407.gif" width="100%" alt="黎曼猜想 10 分钟动手课"></a><br>
 <b><a href="https://riemann.zondark.com/course">黎曼猜想 10 分钟动手课</a></b><br>
-<sub>🆕 · <a href="https://x.com/ZondarkAI">@ZondarkAI</a> · ♥ 15 · <a href="https://x.com/ZondarkAI/status/2125506885487034601">▶ 视频</a></sub><br>
+<sub><a href="https://x.com/ZondarkAI">@ZondarkAI</a> · ♥ 16 · <a href="https://x.com/ZondarkAI/status/2125506885487034601">▶ 视频</a></sub><br>
 <sub>交互式教学网站：两节课，每一步都要动手，亲手找到第一个非平凡零点 14.13，看 1000 个零点的波浪叠加出质数分布；中英双语，带教学短片</sub>
 </td>
+</tr>
+<tr>
 <td width="33%" valign="top">
 <a href="https://ember-vesper.aura.build/"><img src="../assets/gifs/366.gif" width="100%" alt="Ember Vesper 游戏主机落地页"></a><br>
 <b><a href="https://ember-vesper.aura.build/">Ember Vesper 游戏主机落地页</a></b><br>
 <sub><a href="https://x.com/titepommee">@titepommee</a> · ♥ 13 · <a href="https://x.com/titepommee/status/2123515807250657457">▶ 视频</a></sub><br>
 <sub>把一台游戏电脑做成落地页：往下滚主机拆开、换灯光、切到热成像，最后写出订单小票；每节转场都不一样，只有一个 HTML 文件</sub>
 </td>
-</tr>
-<tr>
 <td width="33%" valign="top">
 <a href="https://ai.itokoba.com/ichimai/"><img src="../assets/gifs/260.gif" width="100%" alt="一枚：一页能做到什么程度"></a><br>
 <b><a href="https://ai.itokoba.com/ichimai/">一枚：一页能做到什么程度</a></b><br>
@@ -370,6 +376,8 @@
 <sub>把 Intel 4004 的 2,242 个晶体管逐个弄坏再跑测试，做成一张可以悬停查看「坏了这个会怎样」的芯片地图</sub><br>
 <sub><a href="https://github.com/rain-1/intel4004">源码</a></sub>
 </td>
+</tr>
+<tr>
 <td width="33%" valign="top">
 <a href="https://jwt-designs-preview.noone-697.workers.dev/"><img src="../assets/gifs/046.gif" width="100%" alt="JWT 落地页 20 种改版"></a><br>
 <b><a href="https://jwt-designs-preview.noone-697.workers.dev/">JWT 落地页 20 种改版</a></b><br>
@@ -377,8 +385,6 @@
 <sub>一条简单提示词出 20 版</sub><br>
 <sub><a href="https://x.com/Tmeister/status/2119983842841018482">📝 作者公开的提示词（免费）</a></sub>
 </td>
-</tr>
-<tr>
 <td width="33%" valign="top">
 <a href="https://www.asumacodes.xyz/arena/driftwood"><img src="../assets/gifs/047.gif" width="100%" alt="Driftwood 落地页（Fable 对 Opus）"></a><br>
 <b><a href="https://www.asumacodes.xyz/arena/driftwood">Driftwood 落地页（Fable 对 Opus）</a></b><br>
@@ -393,6 +399,8 @@
 <sub><a href="https://x.com/seanaiux">@seanaiux</a> · ♥ 8 · <a href="https://x.com/seanaiux/status/2121688869439455410">▶ 视频</a></sub><br>
 <sub>让它做一个能吓到自己的网页：一只蜘蛛从黑暗里垂下，滚动页面一路看它的巢、眼睛、毒牙和腿，最后你成了那只苍蝇</sub>
 </td>
+</tr>
+<tr>
 <td width="33%" valign="top">
 <a href="https://claude.ai/artifact/TiymxxFXzMo7xhWUaecbzk"><img src="https://pbs.twimg.com/media/HWwrmvIb0AAMLPK.jpg?name=small" width="100%" alt="独栋住宅设计提案书"></a><br>
 <b><a href="https://claude.ai/artifact/TiymxxFXzMo7xhWUaecbzk">独栋住宅设计提案书</a></b><br>
@@ -400,8 +408,6 @@
 <sub>韩文，一天做完</sub><br>
 <sub><a href="https://fablelist.000ooo.ooo/zh/prompts/?w=house-design-proposal&ref=gh"><b>✨ 获取提示词</b></a></sub>
 </td>
-</tr>
-<tr>
 <td width="33%" valign="top">
 <a href="https://claude.ai/artifact/9yQkezie4jY3oz2YDLFDiq"><img src="../assets/gifs/040.gif" width="100%" alt="鼓组网站"></a><br>
 <b><a href="https://claude.ai/artifact/9yQkezie4jY3oz2YDLFDiq">鼓组网站</a></b><br>
@@ -416,6 +422,8 @@
 <sub>一次生成</sub><br>
 <sub><a href="https://fablelist.000ooo.ooo/zh/prompts/?w=dub-techno-track-visualizer&ref=gh"><b>✨ 获取提示词</b></a></sub>
 </td>
+</tr>
+<tr>
 <td width="33%" valign="top">
 <a href="https://claude.ai/artifact/5ufHvxgvXTf5YgQeTR8TbG"><img src="../assets/gifs/044.gif" width="100%" alt="《罗摩衍那》男主的宝莱坞家谱"></a><br>
 <b><a href="https://claude.ai/artifact/5ufHvxgvXTf5YgQeTR8TbG">《罗摩衍那》男主的宝莱坞家谱</a></b><br>
@@ -423,8 +431,6 @@
 <sub>血缘婚姻牵出 65 位明星</sub><br>
 <sub><a href="https://fablelist.000ooo.ooo/zh/prompts/?w=ramayana-family-tree&ref=gh"><b>✨ 获取提示词</b></a></sub>
 </td>
-</tr>
-<tr>
 <td width="33%" valign="top">
 <a href="https://claude.ai/artifact/4aEy6FtUi7jrm9U7uYgp8K"><img src="../assets/gifs/042.gif" width="100%" alt="Demoscene 浏览器演示"></a><br>
 <b><a href="https://claude.ai/artifact/4aEy6FtUi7jrm9U7uYgp8K">Demoscene 浏览器演示</a></b><br>
